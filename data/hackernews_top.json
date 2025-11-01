@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-01T12:18:52.929Z"
+    "lastUpdate": "2025-11-01T16:11:23.287Z"
   },
   "data": [
+    {
+      "id": 45782136,
+      "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "score": 172,
+      "author": "dw64",
+      "created": "2025-11-01 14:58:05",
+      "created_at": 1762009085000
+    },
+    {
+      "id": 45781298,
+      "title": "SQLite concurrency and why you should care about it",
+      "link": "https://jellyfin.org/posts/SQLite-locking/",
+      "score": 103,
+      "author": "HunOL",
+      "created": "2025-11-01 12:59:03",
+      "created_at": 1762001943000
+    },
+    {
+      "id": 45781792,
+      "title": "Async/Await is finally back in Zig",
+      "link": "https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig",
+      "score": 24,
+      "author": "barddoo",
+      "created": "2025-11-01 14:14:07",
+      "created_at": 1762006447000
+    },
+    {
+      "id": 45781293,
+      "title": "Abandonware of the web: do you know that there is an HTML tables API?",
+      "link": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
+      "score": 151,
+      "author": "begoon",
+      "created": "2025-11-01 12:58:21",
+      "created_at": 1762001901000
+    },
+    {
+      "id": 45781397,
+      "title": "CharlotteOS – An Experimental Modern Operating System",
+      "link": "https://github.com/charlotte-os/Catten",
+      "score": 55,
+      "author": "ementally",
+      "created": "2025-11-01 13:12:47",
+      "created_at": 1762002767000
+    },
     {
       "id": 45777810,
       "title": "Show HN: Strange Attractors",
       "link": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 547,
+      "score": 642,
       "author": "shashanktomar",
       "created": "2025-10-31 23:23:59",
       "created_at": 1761953039000
     },
     {
+      "id": 45732677,
+      "title": "Frank Gasking on preserving «lost» games",
+      "link": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/",
+      "score": 25,
+      "author": "doener",
+      "created": "2025-10-28 13:32:18",
+      "created_at": 1761658338000
+    },
+    {
+      "id": 45779860,
+      "title": "Hard Rust requirements from May onward",
+      "link": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "score": 144,
+      "author": "rkta",
+      "created": "2025-11-01 07:31:40",
+      "created_at": 1761982300000
+    },
+    {
       "id": 45682917,
       "title": "How I stopped worrying and started loving the Assembly",
       "link": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
-      "score": 91,
+      "score": 139,
       "author": "indyjo",
       "created": "2025-10-23 15:23:55",
       "created_at": 1761233035000
     },
     {
-      "id": 45777682,
-      "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
-      "link": "https://github.com/vindar/SARCASM",
-      "score": 177,
-      "author": "chris_overseas",
-      "created": "2025-10-31 23:03:18",
-      "created_at": 1761951798000
-    },
-    {
-      "id": 45767178,
-      "title": "Myths Programmers Believe about CPU Caches (2018)",
-      "link": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
-      "score": 63,
-      "author": "whack",
-      "created": "2025-10-31 00:46:56",
-      "created_at": 1761871616000
-    },
-    {
-      "id": 45774086,
-      "title": "Futurelock: A subtle risk in async Rust",
-      "link": "https://rfd.shared.oxide.computer/rfd/0609",
-      "score": 354,
-      "author": "bcantrill",
-      "created": "2025-10-31 16:49:26",
-      "created_at": 1761929366000
-    },
-    {
-      "id": 45766501,
-      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
-      "score": 337,
-      "author": "akyuu",
-      "created": "2025-10-30 23:12:10",
-      "created_at": 1761865930000
-    },
-    {
-      "id": 45774640,
-      "title": "Addiction Markets",
-      "link": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "score": 296,
-      "author": "toomuchtodo",
-      "created": "2025-10-31 17:42:55",
-      "created_at": 1761932575000
-    },
-    {
-      "id": 45731256,
-      "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
-      "link": "https://verdagon.dev/blog/impossible-optimization",
-      "score": 18,
-      "author": "melodyogonna",
-      "created": "2025-10-28 10:53:21",
-      "created_at": 1761648801000
-    },
-    {
-      "id": 45758392,
-      "title": "Introducing architecture variants",
-      "link": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "score": 210,
-      "author": "jnsgruk",
-      "created": "2025-10-30 10:35:00",
-      "created_at": 1761820500000
-    },
-    {
-      "id": 45706901,
-      "title": "Nisus Writer: Schrödinger's Word Processor",
-      "link": "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/",
-      "score": 34,
-      "author": "zdw",
-      "created": "2025-10-25 20:57:20",
-      "created_at": 1761425840000
+      "id": 45782267,
+      "title": "Tech companies are firing everyone to \"fund AI\", spending money on each other",
+      "link": "https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/",
+      "score": 45,
+      "author": "BerislavLopac",
+      "created": "2025-11-01 15:12:00",
+      "created_at": 1762009920000
     }
   ],
   "code": 200,

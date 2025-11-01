@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-01T12:18:52.732Z"
+    "lastUpdate": "2025-11-01T16:11:23.139Z"
   },
   "data": [
     {
       "id": 45761445,
       "title": "Affinity Studio now free",
       "link": "https://www.affinity.studio/get-affinity",
-      "score": 1192,
+      "score": 1196,
       "author": "dagmx",
       "created": "2025-10-30 15:54:38",
       "created_at": 1761839678000
     },
     {
-      "id": 45760878,
-      "title": "Free software scares normal people",
-      "link": "https://danieldelaney.net/normal/",
-      "score": 909,
-      "author": "cryptophreak",
-      "created": "2025-10-30 15:07:15",
-      "created_at": 1761836835000
+      "id": 45777810,
+      "title": "Show HN: Strange Attractors",
+      "link": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "score": 642,
+      "author": "shashanktomar",
+      "created": "2025-10-31 23:23:59",
+      "created_at": 1761953039000
     },
     {
       "id": 45771636,
       "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
       "link": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "score": 560,
+      "score": 570,
       "author": "gmays",
       "created": "2025-10-31 13:14:23",
       "created_at": 1761916463000
@@ -37,25 +37,16 @@
       "id": 45765664,
       "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
       "link": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
-      "score": 552,
+      "score": 560,
       "author": "layer8",
       "created": "2025-10-30 21:35:42",
       "created_at": 1761860142000
     },
     {
-      "id": 45777810,
-      "title": "Show HN: Strange Attractors",
-      "link": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 547,
-      "author": "shashanktomar",
-      "created": "2025-10-31 23:23:59",
-      "created_at": 1761953039000
-    },
-    {
       "id": 45767725,
       "title": "John Carmack on mutable variables",
       "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "score": 488,
+      "score": 491,
       "author": "azhenley",
       "created": "2025-10-31 02:34:36",
       "created_at": 1761878076000
@@ -64,37 +55,46 @@
       "id": 45762259,
       "title": "How the cochlea computes (2024)",
       "link": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
-      "score": 470,
+      "score": 473,
       "author": "izhak",
       "created": "2025-10-30 17:01:20",
       "created_at": 1761843680000
     },
     {
-      "id": 45771538,
-      "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
-      "link": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
-      "score": 382,
-      "author": "reaperducer",
-      "created": "2025-10-31 13:03:46",
-      "created_at": 1761915826000
-    },
-    {
-      "id": 45760328,
-      "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
-      "link": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
-      "score": 365,
-      "author": "pcaharrier",
-      "created": "2025-10-30 14:22:44",
-      "created_at": 1761834164000
+      "id": 45766501,
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "score": 386,
+      "author": "akyuu",
+      "created": "2025-10-30 23:12:10",
+      "created_at": 1761865930000
     },
     {
       "id": 45774086,
       "title": "Futurelock: A subtle risk in async Rust",
       "link": "https://rfd.shared.oxide.computer/rfd/0609",
-      "score": 354,
+      "score": 385,
       "author": "bcantrill",
       "created": "2025-10-31 16:49:26",
       "created_at": 1761929366000
+    },
+    {
+      "id": 45771538,
+      "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
+      "link": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
+      "score": 385,
+      "author": "reaperducer",
+      "created": "2025-10-31 13:03:46",
+      "created_at": 1761915826000
+    },
+    {
+      "id": 45774640,
+      "title": "Addiction Markets",
+      "link": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
+      "score": 339,
+      "author": "toomuchtodo",
+      "created": "2025-10-31 17:42:55",
+      "created_at": 1761932575000
     }
   ],
   "code": 200,
