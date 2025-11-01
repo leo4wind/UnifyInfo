@@ -17,13 +17,82 @@ const RSS_SOURCES = [
         name: '瓦斯阅读',
         description: '微信热门文章聚合'
     }
-    // 以后可以添加更多 RSS 源
-    // {
-    //     url: 'https://example.com/feed',
-    //     filename: 'example.json',
-    //     name: 'Example',
-    //     description: '示例网站'
-    // }
+];
+
+// API 数据源配置
+const API_SOURCES = [
+    {
+        url: 'https://60s.viki.moe/v2/60s',
+        filename: 'news60s.json',
+        name: '60秒新闻',
+        description: '每日新闻简讯'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/douyin',
+        filename: 'douyin.json',
+        name: '抖音热榜',
+        description: '抖音热门话题'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/bili',
+        filename: 'bili.json',
+        name: 'B站热榜',
+        description: '哔哩哔哩热门'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/weibo',
+        filename: 'weibo.json',
+        name: '微博热榜',
+        description: '微博热搜榜'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/rednote',
+        filename: 'rednote.json',
+        name: '小红书热榜',
+        description: '小红书热门'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/baidu/tieba',
+        filename: 'tieba.json',
+        name: '百度贴吧',
+        description: '贴吧热帖'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/toutiao',
+        filename: 'toutiao.json',
+        name: '今日头条',
+        description: '头条热榜'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/zhihu',
+        filename: 'zhihu.json',
+        name: '知乎热榜',
+        description: '知乎热门问题'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/hacker-news/best',
+        filename: 'hackernews.json',
+        name: 'Hacker News',
+        description: '英文技术新闻最佳'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/hacker-news/top',
+        filename: 'hackernews_top.json',
+        name: 'Hacker News Top',
+        description: '英文技术新闻热门'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/hacker-news/new',
+        filename: 'hackernews_new.json',
+        name: 'Hacker News New',
+        description: '英文技术新闻最新'
+    }
+];
+
+// 所有数据源
+const ALL_SOURCES = [
+    ...RSS_SOURCES,
+    ...API_SOURCES
 ];
 
 // 确保 data 目录存在
@@ -62,6 +131,40 @@ function fetchRSS(url) {
         }).on('error', (error) => {
             console.error(`获取 RSS 失败 ${url}:`, error.message);
             resolve([]);
+        });
+    });
+}
+
+// API 数据抓取
+function fetchAPI(url) {
+    return new Promise((resolve, reject) => {
+        const protocol = url.startsWith('https') ? https : http;
+
+        const options = {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (compatible; RSS-Fetcher/1.0)'
+            }
+        };
+
+        protocol.get(url, options, (res) => {
+            let data = '';
+
+            res.on('data', (chunk) => {
+                data += chunk;
+            });
+
+            res.on('end', () => {
+                try {
+                    const jsonData = JSON.parse(data);
+                    resolve(jsonData);
+                } catch (error) {
+                    console.error(`解析 API 失败 ${url}:`, error.message);
+                    resolve(null);
+                }
+            });
+        }).on('error', (error) => {
+            console.error(`获取 API 失败 ${url}:`, error.message);
+            resolve(null);
         });
     });
 }
@@ -110,10 +213,12 @@ function parseRSS(xmlText) {
 
 // 主函数
 async function main() {
-    console.log('🔄 开始抓取 RSS 源...');
+    console.log('🔄 开始抓取所有数据源...');
 
+    // 抓取 RSS 源
+    console.log('📡 开始抓取 RSS 源...');
     for (const source of RSS_SOURCES) {
-        console.log(`📡 正在抓取: ${source.name}`);
+        console.log(`📡 正在抓取 RSS: ${source.name}`);
 
         try {
             const items = await fetchRSS(source.url);
@@ -142,7 +247,40 @@ async function main() {
         }
     }
 
-    console.log('🎉 RSS 抓取完成!');
+    // 抓取 API 源
+    console.log('🌐 开始抓取 API 源...');
+    for (const source of API_SOURCES) {
+        console.log(`📡 正在抓取 API: ${source.name}`);
+
+        try {
+            const data = await fetchAPI(source.url);
+
+            if (data && data.code === 200) {
+                const jsonData = {
+                    source: {
+                        name: source.name,
+                        description: source.description,
+                        url: source.url,
+                        lastUpdate: new Date().toISOString()
+                    },
+                    data: data.data,
+                    code: data.code,
+                    message: data.message
+                };
+
+                const filePath = path.join(dataDir, source.filename);
+                fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+
+                console.log(`✅ 成功抓取 ${source.name}: ${Array.isArray(data.data) ? data.data.length : 'N/A'} 条数据`);
+            } else {
+                console.log(`❌ ${source.name} 抓取失败或无数据`);
+            }
+        } catch (error) {
+            console.error(`❌ ${source.name} 处理失败:`, error.message);
+        }
+    }
+
+    console.log('🎉 所有数据源抓取完成!');
 }
 
 // 运行主函数

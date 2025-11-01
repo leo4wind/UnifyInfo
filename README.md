@@ -5,7 +5,7 @@
 ## 功能特性
 
 - 📊 **多平台热榜聚合**：整合11个热门平台的热榜内容 + RSS订阅源
-- 🔄 **自动刷新**：每5分钟自动更新数据
+- 🔄 **自动更新**：GitHub Actions 每4小时自动抓取数据
 - 🔍 **实时搜索**：支持全文搜索和高亮显示
 - 📱 **响应式设计**：完美适配手机、平板和桌面设备
 - ⚡ **性能优化**：本地缓存，减少API请求
@@ -89,7 +89,7 @@ const RSS_SOURCES = [
 4. 访问 `https://username.github.io/repository-name`
 
 **GitHub Actions 自动化**：
-项目配置了 GitHub Actions，每天北京时间早上8点自动抓取 RSS 数据并更新到仓库。
+项目配置了 GitHub Actions，每4小时自动抓取所有数据源（API + RSS）并更新到仓库。
 
 ## 文件结构
 
@@ -100,12 +100,23 @@ const RSS_SOURCES = [
 ├── README.md          # 说明文档
 ├── package.json       # Node.js 项目配置
 ├── scripts/           # 脚本目录
-│   └── fetch-rss.js   # RSS 抓取脚本
+│   └── fetch-rss.js   # 数据源抓取脚本（API + RSS）
 ├── .github/workflows/ # GitHub Actions 配置
 │   └── rss-fetch.yml  # 自动抓取工作流
-└── data/              # RSS 数据存储目录
-    ├── arstechnica.json # RSS 数据文件
-    └── wasi.json       # 瓦斯阅读 RSS 数据文件
+└── data/              # 所有数据源存储目录
+    ├── arstechnica.json    # RSS 数据文件
+    ├── wasi.json           # 瓦斯阅读 RSS 数据文件
+    ├── news60s.json        # 60秒新闻数据
+    ├── douyin.json         # 抖音热榜数据
+    ├── bili.json           # B站热榜数据
+    ├── weibo.json          # 微博热榜数据
+    ├── rednote.json        # 小红书热榜数据
+    ├── tieba.json          # 百度贴吧数据
+    ├── toutiao.json        # 今日头条数据
+    ├── zhihu.json          # 知乎热榜数据
+    ├── hackernews.json     # Hacker News 数据
+    ├── hackernews_top.json # Hacker News Top 数据
+    └── hackernews_new.json # Hacker News New 数据
 ```
 
 ## 主要功能

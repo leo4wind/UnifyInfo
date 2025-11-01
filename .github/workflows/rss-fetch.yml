@@ -1,9 +1,9 @@
-name: RSS Feed Fetcher
+name: Data Source Fetcher
 
 on:
   schedule:
-    # 每天 UTC 0点 (北京时间早上8点) 执行
-    - cron: '0 0 * * *'
+    # 每4小时执行一次 (UTC时间: 0, 4, 8, 12, 16, 20 | 北京时间: 8, 12, 16, 20, 0, 4)
+    - cron: '0 */4 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: npm install rss-parser cheerio
 
-    - name: Fetch RSS feeds
+    - name: Fetch all data sources
       run: node scripts/fetch-rss.js
 
     - name: Commit and push changes
@@ -32,5 +32,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/
-        git diff --staged --quiet || git commit -m "📰 Auto-update RSS feeds $(date '+%Y-%m-%d %H:%M:%S')"
+        git diff --staged --quiet || git commit -m "🔄 Auto-update all data sources $(date '+%Y-%m-%d %H:%M:%S')"
         git push

@@ -13,8 +13,9 @@ const API_ENDPOINTS = {
     hackernews_new: 'https://60s.viki.moe/v2/hacker-news/new'
 };
 
-// 本地JSON数据源配置
+// 本地JSON数据源配置 - 现在包含所有数据源
 const LOCAL_DATA_SOURCES = {
+    // RSS 数据源
     arstechnica: {
         url: './data/arstechnica.json',
         name: 'Ars Technica',
@@ -24,8 +25,63 @@ const LOCAL_DATA_SOURCES = {
         url: './data/wasi.json',
         name: '瓦斯阅读',
         description: '微信热门文章聚合'
+    },
+    // API 数据源
+    news60s: {
+        url: './data/news60s.json',
+        name: '60秒新闻',
+        description: '每日新闻简讯'
+    },
+    douyin: {
+        url: './data/douyin.json',
+        name: '抖音热榜',
+        description: '抖音热门话题'
+    },
+    bili: {
+        url: './data/bili.json',
+        name: 'B站热榜',
+        description: '哔哩哔哩热门'
+    },
+    weibo: {
+        url: './data/weibo.json',
+        name: '微博热榜',
+        description: '微博热搜榜'
+    },
+    rednote: {
+        url: './data/rednote.json',
+        name: '小红书热榜',
+        description: '小红书热门'
+    },
+    tieba: {
+        url: './data/tieba.json',
+        name: '百度贴吧',
+        description: '贴吧热帖'
+    },
+    toutiao: {
+        url: './data/toutiao.json',
+        name: '今日头条',
+        description: '头条热榜'
+    },
+    zhihu: {
+        url: './data/zhihu.json',
+        name: '知乎热榜',
+        description: '知乎热门问题'
+    },
+    hackernews: {
+        url: './data/hackernews.json',
+        name: 'Hacker News',
+        description: '英文技术新闻最佳'
+    },
+    hackernews_top: {
+        url: './data/hackernews_top.json',
+        name: 'Hacker News Top',
+        description: '英文技术新闻热门'
+    },
+    hackernews_new: {
+        url: './data/hackernews_new.json',
+        name: 'Hacker News New',
+        description: '英文技术新闻最新'
     }
-    // 以后可以添加更多本地数据源
 };
 
 // 缓存和状态管理
@@ -75,10 +131,11 @@ function setupEventListeners() {
     elements.searchInput.addEventListener('input', debounce(handleSearch, 300));
     elements.clearSearchBtn.addEventListener('click', clearSearch);
 
-    // 自动刷新（每5分钟）
-    setInterval(async () => {
-        await loadAllData();
-    }, 5 * 60 * 1000);
+    // 数据现在通过 GitHub Actions 自动更新，无需频繁自动刷新
+    // 如果需要手动刷新，可以点击刷新按钮
+    // setInterval(async () => {
+    //     await loadAllData();
+    // }, 5 * 60 * 1000);
 }
 
 // 处理刷新按钮点击
@@ -103,14 +160,7 @@ function showLoading(show) {
 // 加载所有数据
 async function loadAllData() {
     const promises = [
-        // 加载API数据源
-        ...Object.entries(API_ENDPOINTS).map(([key, url]) =>
-            fetchData(key, url).catch(err => {
-                console.error(`加载 ${key} 数据失败:`, err);
-                showError(key, err.message);
-            })
-        ),
-        // 加载本地JSON数据源
+        // 只加载本地JSON数据源（所有数据现在都通过JSON文件提供）
         ...Object.entries(LOCAL_DATA_SOURCES).map(([key, source]) =>
             fetchLocalData(key, source).catch(err => {
                 console.error(`加载本地数据 ${key} 失败:`, err);
@@ -173,20 +223,34 @@ async function fetchLocalData(key, source) {
 
         const data = await response.json();
 
-        // 将本地数据转换为标准格式
-        const standardData = {
-            code: 200,
-            message: '获取成功',
-            data: data.items.map(item => ({
-                title: item.title,
-                link: item.link,
-                description: decodeHTML(item.description),
-                pubDate: item.pubDate
-            }))
-        };
+        // 检查数据格式并转换为标准格式
+        let standardData;
+
+        if (data.items) {
+            // RSS 数据格式：包含 items 数组
+            standardData = {
+                code: 200,
+                message: '获取成功',
+                data: data.items.map(item => ({
+                    title: item.title,
+                    link: item.link,
+                    description: decodeHTML(item.description),
+                    pubDate: item.pubDate
+                }))
+            };
+        } else if (data.data) {
+            // API 数据格式：直接包含 data 字段
+            standardData = {
+                code: data.code || 200,
+                message: data.message || '获取成功',
+                data: data.data
+            };
+        } else {
+            throw new Error('未知的数据格式');
+        }
 
         CACHE.data[key] = standardData;
-        renderLocalData(key, standardData, source);
+        renderData(key, standardData);
     } catch (error) {
         console.error(`获取本地数据 ${key} 失败:`, error);
         throw error;
@@ -594,11 +658,8 @@ function handleSearch(event) {
 
     let totalResults = 0;
 
-    // 搜索所有热榜区域
-    const allDataSources = [
-        ...Object.keys(API_ENDPOINTS),
-        ...Object.keys(LOCAL_DATA_SOURCES)
-    ];
+    // 搜索所有热榜区域（现在只包含本地数据源）
+    const allDataSources = Object.keys(LOCAL_DATA_SOURCES);
 
     allDataSources.forEach(key => {
         const section = document.getElementById(key);
