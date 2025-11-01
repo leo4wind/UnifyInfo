@@ -215,6 +215,7 @@ async function fetchData(key, url) {
 // 获取本地JSON数据
 async function fetchLocalData(key, source) {
     try {
+        console.log(`🔄 开始加载本地数据: ${key}`);
         const response = await fetch(source.url);
 
         if (!response.ok) {
@@ -222,6 +223,7 @@ async function fetchLocalData(key, source) {
         }
 
         const data = await response.json();
+        console.log(`📥 ${key} 原始数据:`, data);
 
         // 检查数据格式并转换为标准格式
         let standardData;
@@ -238,6 +240,7 @@ async function fetchLocalData(key, source) {
                     pubDate: item.pubDate
                 }))
             };
+            console.log(`✅ ${key} RSS 数据转换完成，条目数:`, standardData.data.length);
         } else if (data.data) {
             // API 数据格式：直接包含 data 字段
             standardData = {
@@ -245,14 +248,25 @@ async function fetchLocalData(key, source) {
                 message: data.message || '获取成功',
                 data: data.data
             };
+            console.log(`✅ ${key} API 数据处理完成，条目数:`, Array.isArray(standardData.data) ? standardData.data.length : 'N/A');
         } else {
             throw new Error('未知的数据格式');
         }
 
         CACHE.data[key] = standardData;
-        renderData(key, standardData);
+
+        // 根据数据源类型调用不同的渲染函数
+        if (key === 'arstechnica' || key === 'wasi') {
+            // RSS 数据源使用特殊的渲染函数
+            console.log(`🎨 调用 RSS 渲染函数: ${key}`);
+            renderLocalData(key, standardData, source);
+        } else {
+            // API 数据源使用标准渲染函数
+            console.log(`🎨 调用标准渲染函数: ${key}`);
+            renderData(key, standardData);
+        }
     } catch (error) {
-        console.error(`获取本地数据 ${key} 失败:`, error);
+        console.error(`❌ 获取本地数据 ${key} 失败:`, error);
         throw error;
     }
 }
@@ -305,15 +319,26 @@ function renderData(key, data) {
 
 // 渲染本地JSON数据
 function renderLocalData(key, data, source) {
+    console.log(`🎨 开始渲染 RSS 数据: ${key}`);
     const container = document.getElementById(key + 'List');
 
+    if (!container) {
+        console.error(`❌ 找不到容器元素: ${key}List`);
+        return;
+    }
+
     if (!Array.isArray(data.data)) {
+        console.error(`❌ ${key} 数据格式错误，data.data 不是数组:`, data);
         showError(key, '数据格式错误');
         return;
     }
 
     const items = data.data;
-    container.innerHTML = items.map((item, index) => `
+    console.log(`📊 ${key} 准备渲染 ${items.length} 条数据`);
+
+    const html = items.map((item, index) => {
+        console.log(`📝 ${key} 第${index + 1}条: ${item.title}`);
+        return `
         <div class="hot-item rss">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
@@ -322,7 +347,11 @@ function renderLocalData(key, data, source) {
                 ${item.pubDate ? `<div class="hot-date">${formatDate(item.pubDate)}</div>` : ''}
             </div>
         </div>
-    `).join('');
+    `;
+    }).join('');
+
+    container.innerHTML = html;
+    console.log(`✅ ${key} 渲染完成，容器内容长度:`, container.innerHTML.length);
 }
 
 // 渲染60秒新闻
