@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-01T01:22:12.455Z"
+    "lastUpdate": "2025-11-01T04:42:47.156Z"
   },
   "data": [
     {
       "id": 45761445,
       "title": "Affinity Studio now free",
       "link": "https://www.affinity.studio/get-affinity",
-      "score": 1182,
+      "score": 1184,
       "author": "dagmx",
       "created": "2025-10-30 15:54:38",
       "created_at": 1761839678000
@@ -19,7 +19,7 @@
       "id": 45760878,
       "title": "Free software scares normal people",
       "link": "https://danieldelaney.net/normal/",
-      "score": 892,
+      "score": 896,
       "author": "cryptophreak",
       "created": "2025-10-30 15:07:15",
       "created_at": 1761836835000
@@ -28,7 +28,7 @@
       "id": 45765664,
       "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
       "link": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
-      "score": 535,
+      "score": 541,
       "author": "layer8",
       "created": "2025-10-30 21:35:42",
       "created_at": 1761860142000
@@ -37,10 +37,19 @@
       "id": 45771636,
       "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
       "link": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "score": 509,
+      "score": 533,
       "author": "gmays",
       "created": "2025-10-31 13:14:23",
       "created_at": 1761916463000
+    },
+    {
+      "id": 45767725,
+      "title": "John Carmack on mutable variables",
+      "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
+      "score": 474,
+      "author": "azhenley",
+      "created": "2025-10-31 02:34:36",
+      "created_at": 1761878076000
     },
     {
       "id": 45762259,
@@ -52,19 +61,10 @@
       "created_at": 1761843680000
     },
     {
-      "id": 45767725,
-      "title": "John Carmack on mutable variables",
-      "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "score": 465,
-      "author": "azhenley",
-      "created": "2025-10-31 02:34:36",
-      "created_at": 1761878076000
-    },
-    {
       "id": 45771538,
       "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
       "link": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
-      "score": 365,
+      "score": 370,
       "author": "reaperducer",
       "created": "2025-10-31 13:03:46",
       "created_at": 1761915826000
@@ -73,28 +73,28 @@
       "id": 45760328,
       "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
       "link": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
-      "score": 361,
+      "score": 364,
       "author": "pcaharrier",
       "created": "2025-10-30 14:22:44",
       "created_at": 1761834164000
     },
     {
-      "id": 45755027,
-      "title": "NPM flooded with malicious packages downloaded more than 86k times",
-      "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-      "score": 358,
-      "author": "jnord",
-      "created": "2025-10-30 00:37:33",
-      "created_at": 1761784653000
-    },
-    {
       "id": 45766253,
       "title": "A change of address led to our Wise accounts being shut down",
       "link": "https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/",
-      "score": 315,
+      "score": 316,
       "author": "jemmyw",
       "created": "2025-10-30 22:41:50",
       "created_at": 1761864110000
+    },
+    {
+      "id": 45774086,
+      "title": "Futurelock: A subtle risk in async Rust",
+      "link": "https://rfd.shared.oxide.computer/rfd/0609",
+      "score": 285,
+      "author": "bcantrill",
+      "created": "2025-10-31 16:49:26",
+      "created_at": 1761929366000
     }
   ],
   "code": 200,
