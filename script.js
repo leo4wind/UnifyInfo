@@ -581,7 +581,12 @@ function handleSearch(event) {
     let totalResults = 0;
 
     // 搜索所有热榜区域
-    Object.keys(API_ENDPOINTS).forEach(key => {
+    const allDataSources = {
+        ...Object.keys(API_ENDPOINTS),
+        ...Object.keys(LOCAL_DATA_SOURCES)
+    };
+
+    allDataSources.forEach(key => {
         const section = document.getElementById(key);
         if (!section) return;
 
@@ -592,7 +597,13 @@ function handleSearch(event) {
             const title = item.querySelector('.hot-title');
             const titleText = title ? title.textContent.toLowerCase() : '';
 
-            if (titleText.includes(searchTerm)) {
+            // 对于 RSS 项目，也搜索描述内容
+            const desc = item.querySelector('.hot-desc');
+            const descText = desc ? desc.textContent.toLowerCase() : '';
+
+            const searchText = titleText + ' ' + descText;
+
+            if (searchText.includes(searchTerm)) {
                 item.classList.remove('search-hidden');
                 sectionHasResults = true;
                 totalResults++;
@@ -603,11 +614,19 @@ function handleSearch(event) {
                     const regex = new RegExp(`(${escapeRegExp(searchTerm)})`, 'gi');
                     title.innerHTML = originalText.replace(regex, '<span class="search-highlight">$1</span>');
                 }
+                if (desc) {
+                    const originalDesc = desc.textContent;
+                    const regex = new RegExp(`(${escapeRegExp(searchTerm)})`, 'gi');
+                    desc.innerHTML = originalDesc.replace(regex, '<span class="search-highlight">$1</span>');
+                }
             } else {
                 item.classList.add('search-hidden');
                 // 移除高亮
                 if (title) {
                     title.innerHTML = title.textContent;
+                }
+                if (desc) {
+                    desc.innerHTML = desc.textContent;
                 }
             }
         });
