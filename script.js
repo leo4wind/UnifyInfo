@@ -19,6 +19,11 @@ const LOCAL_DATA_SOURCES = {
         url: './data/arstechnica.json',
         name: 'Ars Technica',
         description: '科技新闻和评测'
+    },
+    wasi: {
+        url: './data/wasi.json',
+        name: '瓦斯阅读',
+        description: '微信热门文章聚合'
     }
     // 以后可以添加更多本地数据源
 };
@@ -175,7 +180,7 @@ async function fetchLocalData(key, source) {
             data: data.items.map(item => ({
                 title: item.title,
                 link: item.link,
-                description: item.description,
+                description: decodeHTML(item.description),
                 pubDate: item.pubDate
             }))
         };
@@ -535,6 +540,15 @@ function formatTime(timeStr) {
     } catch (error) {
         return timeStr;
     }
+}
+
+// HTML 解码函数
+function decodeHTML(html) {
+    if (!html) return '';
+
+    const text = document.createElement('textarea');
+    text.innerHTML = html;
+    return text.value;
 }
 
 // 格式化RSS日期

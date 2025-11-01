@@ -27,6 +27,7 @@
 | 🔥 Hacker News Top | 英文技术新闻热门 |
 | 🆕 Hacker News New | 英文技术新闻最新 |
 | 🔬 Ars Technica | 科技新闻和评测 (RSS) |
+| 📖 瓦斯阅读 | 微信热门文章聚合 (RSS) |
 
 ## 快速开始
 
@@ -70,6 +71,12 @@ const RSS_SOURCES = [
         filename: 'arstechnica.json',
         name: 'Ars Technica',
         description: '科技新闻和评测'
+    },
+    {
+        url: 'https://rss.aishort.top/?type=wasi',
+        filename: 'wasi.json',
+        name: '瓦斯阅读',
+        description: '微信热门文章聚合'
     }
 ];
 ```
@@ -97,7 +104,8 @@ const RSS_SOURCES = [
 ├── .github/workflows/ # GitHub Actions 配置
 │   └── rss-fetch.yml  # 自动抓取工作流
 └── data/              # RSS 数据存储目录
-    └── arstechnica.json # RSS 数据文件
+    ├── arstechnica.json # RSS 数据文件
+    └── wasi.json       # 瓦斯阅读 RSS 数据文件
 ```
 
 ## 主要功能

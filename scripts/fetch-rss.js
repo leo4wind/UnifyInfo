@@ -10,6 +10,12 @@ const RSS_SOURCES = [
         filename: 'arstechnica.json',
         name: 'Ars Technica',
         description: '科技新闻和评测'
+    },
+    {
+        url: 'https://rss.aishort.top/?type=wasi',
+        filename: 'wasi.json',
+        name: '瓦斯阅读',
+        description: '微信热门文章聚合'
     }
     // 以后可以添加更多 RSS 源
     // {
