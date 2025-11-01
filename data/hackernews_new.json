@@ -3,32 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-01T04:42:47.530Z"
+    "lastUpdate": "2025-11-01T08:13:10.414Z"
   },
   "data": [
     {
       "id": 45777810,
       "title": "Show HN: Strange Attractors",
       "link": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 237,
+      "score": 362,
       "author": "shashanktomar",
       "created": "2025-10-31 23:23:59",
       "created_at": 1761953039000
     },
     {
-      "id": 45778984,
-      "title": "The Profitable Startup",
-      "link": "https://linear.app/now/the-profitable-startup",
-      "score": 30,
-      "author": "doppp",
-      "created": "2025-11-01 03:18:04",
-      "created_at": 1761967084000
-    },
-    {
       "id": 45777682,
       "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
       "link": "https://github.com/vindar/SARCASM",
-      "score": 92,
+      "score": 132,
       "author": "chris_overseas",
       "created": "2025-10-31 23:03:18",
       "created_at": 1761951798000
@@ -37,64 +28,73 @@
       "id": 45774086,
       "title": "Futurelock: A subtle risk in async Rust",
       "link": "https://rfd.shared.oxide.computer/rfd/0609",
-      "score": 285,
+      "score": 317,
       "author": "bcantrill",
       "created": "2025-10-31 16:49:26",
       "created_at": 1761929366000
     },
     {
-      "id": 45758392,
-      "title": "Introducing architecture variants",
-      "link": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "score": 182,
-      "author": "jnsgruk",
-      "created": "2025-10-30 10:35:00",
-      "created_at": 1761820500000
-    },
-    {
-      "id": 45686678,
-      "title": "Why Should I Care What Color the Bikeshed Is?",
-      "link": "https://www.bikeshed.com/",
-      "score": 20,
-      "author": "program",
-      "created": "2025-10-23 20:30:30",
-      "created_at": 1761251430000
-    },
-    {
-      "id": 45724043,
-      "title": "Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]",
-      "link": "https://www.youtube.com/watch?v=A_IUIyyqw0M",
-      "score": 82,
-      "author": "surprisetalk",
-      "created": "2025-10-27 17:42:17",
-      "created_at": 1761586937000
+      "id": 45766501,
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "link": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "score": 279,
+      "author": "akyuu",
+      "created": "2025-10-30 23:12:10",
+      "created_at": 1761865930000
     },
     {
       "id": 45774640,
       "title": "Addiction Markets",
       "link": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "score": 212,
+      "score": 246,
       "author": "toomuchtodo",
       "created": "2025-10-31 17:42:55",
       "created_at": 1761932575000
     },
     {
-      "id": 45770304,
-      "title": "My Impressions of the MacBook Pro M4",
-      "link": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "score": 145,
-      "author": "secure",
-      "created": "2025-10-31 10:13:40",
-      "created_at": 1761905620000
+      "id": 45758392,
+      "title": "Introducing architecture variants",
+      "link": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
+      "score": 200,
+      "author": "jnsgruk",
+      "created": "2025-10-30 10:35:00",
+      "created_at": 1761820500000
     },
     {
-      "id": 45719829,
-      "title": "Active listening: the Swiss Army Knife of communication",
-      "link": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
-      "score": 34,
-      "author": "lucidplot",
-      "created": "2025-10-27 11:40:04",
-      "created_at": 1761565204000
+      "id": 45722691,
+      "title": "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
+      "link": "https://arxiv.org/abs/2510.21613",
+      "score": 6,
+      "author": "sebg",
+      "created": "2025-10-27 16:13:32",
+      "created_at": 1761581612000
+    },
+    {
+      "id": 45776269,
+      "title": "A theoretical way to circumvent Android developer verification",
+      "link": "https://enaix.github.io/2025/10/30/developer-verification.html",
+      "score": 122,
+      "author": "sleirsgoevy",
+      "created": "2025-10-31 20:20:42",
+      "created_at": 1761942042000
+    },
+    {
+      "id": 45682917,
+      "title": "How I stopped worrying and started loving the Assembly",
+      "link": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
+      "score": 19,
+      "author": "indyjo",
+      "created": "2025-10-23 15:23:55",
+      "created_at": 1761233035000
+    },
+    {
+      "id": 45779261,
+      "title": "Intent to Deprecate and Remove XSLT",
+      "link": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+      "score": 52,
+      "author": "CharlesW",
+      "created": "2025-11-01 04:31:52",
+      "created_at": 1761971512000
     }
   ],
   "code": 200,
