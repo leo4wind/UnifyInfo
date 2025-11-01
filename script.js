@@ -581,10 +581,10 @@ function handleSearch(event) {
     let totalResults = 0;
 
     // 搜索所有热榜区域
-    const allDataSources = {
+    const allDataSources = [
         ...Object.keys(API_ENDPOINTS),
         ...Object.keys(LOCAL_DATA_SOURCES)
-    };
+    ];
 
     allDataSources.forEach(key => {
         const section = document.getElementById(key);
