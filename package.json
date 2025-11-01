@@ -1,0 +1,20 @@
+{
+  "name": "hot-news-aggregator",
+  "version": "1.0.0",
+  "description": "多平台热榜聚合网站，支持RSS数据抓取",
+  "main": "index.html",
+  "scripts": {
+    "fetch-rss": "node scripts/fetch-rss.js",
+    "test": "node scripts/fetch-rss.js"
+  },
+  "keywords": [
+    "news",
+    "hot-topics",
+    "rss",
+    "aggregator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}

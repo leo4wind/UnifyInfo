@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>多网站热榜 - 实时热点聚合</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>🔥 多网站热榜 - <span id="currentDate">--</span></h1>
+        <p class="subtitle">实时热点聚合 · 一网打尽</p>
+        <div class="last-update">最后更新: <span id="updateTime">--</span></div>
+    </header>
+
+    <main>
+        <div class="controls">
+            <button id="refreshBtn" class="refresh-btn">🔄 刷新数据</button>
+            <input type="text" id="searchInput" placeholder="🔍 搜索热榜内容..." class="search-input">
+            <button id="clearSearchBtn" class="clear-search-btn" style="display: none;">清除</button>
+            <div class="loading" id="loading" style="display: none;">加载中...</div>
+        </div>
+
+        <div class="grid-container" id="hotLists">
+            <!-- 60秒新闻 -->
+            <section class="hot-section" id="news60s">
+                <h2>📰 60秒新闻</h2>
+                <div class="news-content">
+                    <div class="news-main" id="newsMain">
+                        <!-- 主要新闻内容 -->
+                    </div>
+                    <div class="news-list" id="newsList">
+                        <!-- 新闻列表 -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- 抖音热榜 -->
+            <section class="hot-section" id="douyin">
+                <h2>🎵 抖音热榜</h2>
+                <div class="hot-list" id="douyinList">
+                    <!-- 抖音热榜内容 -->
+                </div>
+            </section>
+
+            <!-- B站热榜 -->
+            <section class="hot-section" id="bili">
+                <h2>📺 B站热榜</h2>
+                <div class="hot-list" id="biliList">
+                    <!-- B站热榜内容 -->
+                </div>
+            </section>
+
+            <!-- 微博热榜 -->
+            <section class="hot-section" id="weibo">
+                <h2>📱 微博热榜</h2>
+                <div class="hot-list" id="weiboList">
+                    <!-- 微博热榜内容 -->
+                </div>
+            </section>
+
+            <!-- 小红书热榜 -->
+            <section class="hot-section" id="rednote">
+                <h2>📕 小红书热榜</h2>
+                <div class="hot-list" id="rednoteList">
+                    <!-- 小红书热榜内容 -->
+                </div>
+            </section>
+
+            <!-- 百度贴吧热榜 -->
+            <section class="hot-section" id="tieba">
+                <h2>📝 百度贴吧</h2>
+                <div class="hot-list" id="tiebaList">
+                    <!-- 百度贴吧热榜内容 -->
+                </div>
+            </section>
+
+            <!-- 今日头条热榜 -->
+            <section class="hot-section" id="toutiao">
+                <h2>📰 今日头条</h2>
+                <div class="hot-list" id="toutiaoList">
+                    <!-- 今日头条热榜内容 -->
+                </div>
+            </section>
+
+            <!-- 知乎热榜 -->
+            <section class="hot-section" id="zhihu">
+                <h2>🤔 知乎热榜</h2>
+                <div class="hot-list" id="zhihuList">
+                    <!-- 知乎热榜内容 -->
+                </div>
+            </section>
+
+            <!-- Hacker News -->
+            <section class="hot-section" id="hackernews">
+                <h2>💻 Hacker News best</h2>
+                <div class="hot-list" id="hackernewsList">
+                    <!-- Hacker News内容 -->
+                </div>
+            </section>
+
+            <!-- Hacker News Top Stories -->
+            <section class="hot-section" id="hackernews_top">
+                <h2>🔥 Hacker News top</h2>
+                <div class="hot-list" id="hackernewsTopList">
+                    <!-- Hacker News Top内容 -->
+                </div>
+            </section>
+
+            <!-- Hacker News New Stories -->
+            <section class="hot-section" id="hackernews_new">
+                <h2>🆕 Hacker News new</h2>
+                <div class="hot-list" id="hackernewsNewList">
+                    <!-- Hacker News New内容 -->
+                </div>
+            </section>
+
+            <!-- Ars Technica RSS -->
+            <section class="hot-section" id="arstechnica">
+                <h2>🔬 Ars Technica</h2>
+                <div class="hot-list" id="arstechnicaList">
+                    <!-- Ars Technica RSS内容 -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>数据来源: 60s.viki.moe | 每小时自动更新</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
