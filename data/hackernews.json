@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-01T08:13:10.141Z"
+    "lastUpdate": "2025-11-01T12:18:52.732Z"
   },
   "data": [
     {
       "id": 45761445,
       "title": "Affinity Studio now free",
       "link": "https://www.affinity.studio/get-affinity",
-      "score": 1189,
+      "score": 1192,
       "author": "dagmx",
       "created": "2025-10-30 15:54:38",
       "created_at": 1761839678000
@@ -19,34 +19,43 @@
       "id": 45760878,
       "title": "Free software scares normal people",
       "link": "https://danieldelaney.net/normal/",
-      "score": 900,
+      "score": 909,
       "author": "cryptophreak",
       "created": "2025-10-30 15:07:15",
       "created_at": 1761836835000
     },
     {
-      "id": 45765664,
-      "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
-      "link": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
-      "score": 544,
-      "author": "layer8",
-      "created": "2025-10-30 21:35:42",
-      "created_at": 1761860142000
-    },
-    {
       "id": 45771636,
       "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
       "link": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "score": 542,
+      "score": 560,
       "author": "gmays",
       "created": "2025-10-31 13:14:23",
       "created_at": 1761916463000
     },
     {
+      "id": 45765664,
+      "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
+      "link": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
+      "score": 552,
+      "author": "layer8",
+      "created": "2025-10-30 21:35:42",
+      "created_at": 1761860142000
+    },
+    {
+      "id": 45777810,
+      "title": "Show HN: Strange Attractors",
+      "link": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "score": 547,
+      "author": "shashanktomar",
+      "created": "2025-10-31 23:23:59",
+      "created_at": 1761953039000
+    },
+    {
       "id": 45767725,
       "title": "John Carmack on mutable variables",
       "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "score": 482,
+      "score": 488,
       "author": "azhenley",
       "created": "2025-10-31 02:34:36",
       "created_at": 1761878076000
@@ -64,7 +73,7 @@
       "id": 45771538,
       "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
       "link": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
-      "score": 374,
+      "score": 382,
       "author": "reaperducer",
       "created": "2025-10-31 13:03:46",
       "created_at": 1761915826000
@@ -73,28 +82,19 @@
       "id": 45760328,
       "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
       "link": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
-      "score": 364,
+      "score": 365,
       "author": "pcaharrier",
       "created": "2025-10-30 14:22:44",
       "created_at": 1761834164000
     },
     {
-      "id": 45777810,
-      "title": "Show HN: Strange Attractors",
-      "link": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 362,
-      "author": "shashanktomar",
-      "created": "2025-10-31 23:23:59",
-      "created_at": 1761953039000
-    },
-    {
-      "id": 45766253,
-      "title": "A change of address led to our Wise accounts being shut down",
-      "link": "https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/",
-      "score": 318,
-      "author": "jemmyw",
-      "created": "2025-10-30 22:41:50",
-      "created_at": 1761864110000
+      "id": 45774086,
+      "title": "Futurelock: A subtle risk in async Rust",
+      "link": "https://rfd.shared.oxide.computer/rfd/0609",
+      "score": 354,
+      "author": "bcantrill",
+      "created": "2025-10-31 16:49:26",
+      "created_at": 1761929366000
     }
   ],
   "code": 200,
