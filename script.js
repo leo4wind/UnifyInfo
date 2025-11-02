@@ -350,7 +350,7 @@ function renderLocalData(key, data, source) {
         <div class="hot-item rss">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
                 ${item.description ? `<div class="hot-desc">${item.description.substring(0, 100)}...</div>` : ''}
                 ${item.pubDate ? `<div class="hot-date">${formatDate(item.pubDate)}</div>` : ''}
             </div>
@@ -408,7 +408,7 @@ function renderDouyin(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -428,7 +428,7 @@ function renderBili(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -448,7 +448,7 @@ function renderWeibo(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -468,7 +468,7 @@ function renderRedNote(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -488,7 +488,7 @@ function renderTieba(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -508,7 +508,7 @@ function renderToutiao(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -528,7 +528,7 @@ function renderZhihu(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -548,7 +548,7 @@ function renderHackerNews(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -568,7 +568,7 @@ function renderHackerNewsTop(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
@@ -588,7 +588,7 @@ function renderHackerNewsNew(data) {
         <div class="hot-item simple">
             <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${item.link}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
         </div>
     `).join('');
