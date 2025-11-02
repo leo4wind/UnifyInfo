@@ -3,14 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-02T12:18:39.675Z"
+    "lastUpdate": "2025-11-02T16:11:37.232Z"
   },
   "data": [
+    {
+      "id": 45790827,
+      "title": "\"Why don't you use dependent types?\"",
+      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "score": 31,
+      "author": "baruchel",
+      "created": "2025-11-02 15:06:36",
+      "created_at": 1762095996000
+    },
+    {
+      "id": 45789602,
+      "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+      "link": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+      "score": 78,
+      "author": "meander_water",
+      "created": "2025-11-02 11:43:26",
+      "created_at": 1762083806000
+    },
+    {
+      "id": 45789474,
+      "title": "URLs are state containers",
+      "link": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+      "score": 169,
+      "author": "thm",
+      "created": "2025-11-02 11:12:58",
+      "created_at": 1762081978000
+    },
+    {
+      "id": 45745382,
+      "title": "Autodesk's John Walker Explained HP and IBM in 1991",
+      "link": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/",
+      "score": 26,
+      "author": "suioir",
+      "created": "2025-10-29 11:28:17",
+      "created_at": 1761737297000
+    },
     {
       "id": 45789556,
       "title": "Mock – An API creation and testing utility: Examples",
       "link": "https://dhuan.github.io/mock/latest/examples.html",
-      "score": 19,
+      "score": 73,
       "author": "dhuan_",
       "created": "2025-11-02 11:30:50",
       "created_at": 1762083050000
@@ -19,82 +55,46 @@
       "id": 45787993,
       "title": "Backpropagation is a leaky abstraction (2016)",
       "link": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
-      "score": 164,
+      "score": 222,
       "author": "swatson741",
       "created": "2025-11-02 05:20:12",
       "created_at": 1762060812000
     },
     {
-      "id": 45719237,
-      "title": "We reduced a container image from 800GB to 2GB",
-      "link": "https://sealos.io/blog/reduce-container-image-size-case-study",
-      "score": 38,
-      "author": "untrimmed",
-      "created": "2025-10-27 10:15:24",
-      "created_at": 1761560124000
-    },
-    {
       "id": 45788040,
       "title": "Notes by djb on using Fil-C (2025)",
       "link": "https://cr.yp.to/2025/fil-c.html",
-      "score": 112,
+      "score": 169,
       "author": "transpute",
       "created": "2025-11-02 05:32:02",
       "created_at": 1762061522000
     },
     {
+      "id": 45789640,
+      "title": "Matched Clean Power Index",
+      "link": "https://matched.energy/blog/matched-clean-power-index-is-live",
+      "score": 21,
+      "author": "bensg",
+      "created": "2025-11-02 11:52:23",
+      "created_at": 1762084343000
+    },
+    {
+      "id": 45706838,
+      "title": "Go Primitive in Java, or Go in a Box",
+      "link": "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574",
+      "score": 37,
+      "author": "ingve",
+      "created": "2025-10-25 20:46:04",
+      "created_at": 1761425164000
+    },
+    {
       "id": 45785858,
       "title": "Visopsys: OS maintained by a single developer since 1997",
       "link": "https://visopsys.org/",
-      "score": 369,
+      "score": 404,
       "author": "kome",
       "created": "2025-11-01 22:07:49",
       "created_at": 1762034869000
-    },
-    {
-      "id": 45740688,
-      "title": "When O3 is 2x slower than O2",
-      "link": "https://cat-solstice.github.io/test-pqueue/",
-      "score": 28,
-      "author": "keyle",
-      "created": "2025-10-28 23:29:47",
-      "created_at": 1761694187000
-    },
-    {
-      "id": 45784179,
-      "title": "Claude Code can debug low-level cryptography",
-      "link": "https://words.filippo.io/claude-debugging/",
-      "score": 345,
-      "author": "Bogdanp",
-      "created": "2025-11-01 18:41:56",
-      "created_at": 1762022516000
-    },
-    {
-      "id": 45786738,
-      "title": "How I use every Claude Code feature",
-      "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-      "score": 294,
-      "author": "sshh12",
-      "created": "2025-11-02 00:13:27",
-      "created_at": 1762042407000
-    },
-    {
-      "id": 45789474,
-      "title": "Your URL Is Your State",
-      "link": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-      "score": 4,
-      "author": "thm",
-      "created": "2025-11-02 11:12:58",
-      "created_at": 1762081978000
-    },
-    {
-      "id": 45782136,
-      "title": "Updated practice for review articles and position papers in ArXiv CS category",
-      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "score": 456,
-      "author": "dw64",
-      "created": "2025-11-01 14:58:05",
-      "created_at": 1762009085000
     }
   ],
   "code": 200,
