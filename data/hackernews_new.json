@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-02T04:14:46.913Z"
+    "lastUpdate": "2025-11-02T08:12:50.929Z"
   },
   "data": [
+    {
+      "id": 45787993,
+      "title": "Backpropagation is a leaky abstraction",
+      "link": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+      "score": 63,
+      "author": "swatson741",
+      "created": "2025-11-02 05:20:12",
+      "created_at": 1762060812000
+    },
     {
       "id": 45785858,
       "title": "Visopsys: OS maintained by a single developer since 1997",
       "link": "https://visopsys.org/",
-      "score": 197,
+      "score": 300,
       "author": "kome",
       "created": "2025-11-01 22:07:49",
       "created_at": 1762034869000
     },
     {
-      "id": 45782136,
-      "title": "Updated practice for review articles and position papers in ArXiv CS category",
-      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "score": 423,
-      "author": "dw64",
-      "created": "2025-11-01 14:58:05",
-      "created_at": 1762009085000
+      "id": 45788202,
+      "title": "CLI to manage your SQL database schemas and migrations",
+      "link": "https://github.com/gh-PonyM/shed",
+      "score": 13,
+      "author": "PonyM",
+      "created": "2025-11-02 06:23:24",
+      "created_at": 1762064604000
     },
     {
       "id": 45786738,
       "title": "How I use every Claude Code feature",
       "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-      "score": 90,
+      "score": 216,
       "author": "sshh12",
       "created": "2025-11-02 00:13:27",
       "created_at": 1762042407000
     },
     {
+      "id": 45788040,
+      "title": "Notes by djb on using Fil-C (2025)",
+      "link": "https://cr.yp.to/2025/fil-c.html",
+      "score": 25,
+      "author": "transpute",
+      "created": "2025-11-02 05:32:02",
+      "created_at": 1762061522000
+    },
+    {
       "id": 45784179,
       "title": "Claude Code can debug low-level cryptography",
       "link": "https://words.filippo.io/claude-debugging/",
-      "score": 237,
+      "score": 304,
       "author": "Bogdanp",
       "created": "2025-11-01 18:41:56",
       "created_at": 1762022516000
     },
     {
+      "id": 45787571,
+      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+      "link": "https://github.com/frostyplanet/crossfire-rs",
+      "score": 48,
+      "author": "0x1997",
+      "created": "2025-11-02 03:07:15",
+      "created_at": 1762052835000
+    },
+    {
       "id": 45786324,
       "title": "Pomelli",
       "link": "https://blog.google/technology/google-labs/pomelli/",
-      "score": 82,
+      "score": 162,
       "author": "birriel",
       "created": "2025-11-01 23:09:25",
       "created_at": 1762038565000
     },
     {
-      "id": 45786914,
-      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
-      "link": "https://blog.cloudflare.com/private-rate-limiting/",
-      "score": 42,
-      "author": "eleye",
-      "created": "2025-11-02 00:45:13",
-      "created_at": 1762044313000
+      "id": 45782136,
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "score": 438,
+      "author": "dw64",
+      "created": "2025-11-01 14:58:05",
+      "created_at": 1762009085000
     },
     {
-      "id": 45782981,
-      "title": "GHC now runs in the browser",
-      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "score": 267,
-      "author": "kaycebasques",
-      "created": "2025-11-01 16:29:23",
-      "created_at": 1762014563000
-    },
-    {
-      "id": 45783640,
-      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-      "link": "https://github.com/samrolken/nokode",
-      "score": 254,
-      "author": "samrolken",
-      "created": "2025-11-01 17:45:18",
-      "created_at": 1762019118000
-    },
-    {
-      "id": 45784596,
-      "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-      "link": "https://helix-editor.vercel.app/start-here/basics/",
-      "score": 105,
-      "author": "Curiositry",
-      "created": "2025-11-01 19:33:48",
-      "created_at": 1762025628000
-    },
-    {
-      "id": 45785840,
-      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-      "link": "https://sailfishos.org/info/",
-      "score": 200,
-      "author": "ForHackernews",
-      "created": "2025-11-01 22:05:00",
-      "created_at": 1762034700000
+      "id": 45787842,
+      "title": "LM8560, the eternal chip from the 1980 years",
+      "link": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+      "score": 23,
+      "author": "userbinator",
+      "created": "2025-11-02 04:27:31",
+      "created_at": 1762057651000
     }
   ],
   "code": 200,
