@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-01T20:10:29.040Z"
+    "lastUpdate": "2025-11-02T00:56:27.839Z"
   },
   "data": [
+    {
+      "id": 45785840,
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "link": "https://sailfishos.org/info/",
+      "score": 146,
+      "author": "ForHackernews",
+      "created": "2025-11-01 22:05:00",
+      "created_at": 1762034700000
+    },
+    {
+      "id": 45785858,
+      "title": "OS maintained by a single developer since 1997: Visopsys",
+      "link": "https://visopsys.org/",
+      "score": 101,
+      "author": "kome",
+      "created": "2025-11-01 22:07:49",
+      "created_at": 1762034869000
+    },
     {
       "id": 45782136,
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
       "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "score": 338,
+      "score": 406,
       "author": "dw64",
       "created": "2025-11-01 14:58:05",
       "created_at": 1762009085000
     },
     {
-      "id": 45782981,
-      "title": "GHC now runs in the browser",
-      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "score": 138,
-      "author": "kaycebasques",
-      "created": "2025-11-01 16:29:23",
-      "created_at": 1762014563000
-    },
-    {
-      "id": 45783640,
-      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-      "link": "https://github.com/samrolken/nokode",
-      "score": 71,
-      "author": "samrolken",
-      "created": "2025-11-01 17:45:18",
-      "created_at": 1762019118000
-    },
-    {
-      "id": 45781298,
-      "title": "SQLite concurrency and why you should care about it",
-      "link": "https://jellyfin.org/posts/SQLite-locking/",
-      "score": 195,
-      "author": "HunOL",
-      "created": "2025-11-01 12:59:03",
-      "created_at": 1762001943000
-    },
-    {
-      "id": 45730940,
-      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
-      "link": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
-      "score": 44,
-      "author": "Geekette",
-      "created": "2025-10-28 09:56:37",
-      "created_at": 1761645397000
-    },
-    {
-      "id": 45783114,
-      "title": "Chat Control proposal fails again after public opposition",
-      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-      "score": 282,
-      "author": "speckx",
-      "created": "2025-11-01 16:42:57",
-      "created_at": 1762015377000
+      "id": 45786914,
+      "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
+      "link": "https://blog.cloudflare.com/private-rate-limiting/",
+      "score": 4,
+      "author": "eleye",
+      "created": "2025-11-02 00:45:13",
+      "created_at": 1762044313000
     },
     {
       "id": 45784179,
       "title": "Claude Code Can Debug Low-Level Cryptography",
       "link": "https://words.filippo.io/claude-debugging/",
-      "score": 10,
+      "score": 179,
       "author": "Bogdanp",
       "created": "2025-11-01 18:41:56",
       "created_at": 1762022516000
     },
     {
-      "id": 45782348,
-      "title": "Open-Source Ada: From Gateware to Application",
-      "link": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
-      "score": 33,
-      "author": "Bogdanp",
-      "created": "2025-11-01 15:21:00",
-      "created_at": 1762010460000
+      "id": 45782981,
+      "title": "GHC now runs in the browser",
+      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "score": 239,
+      "author": "kaycebasques",
+      "created": "2025-11-01 16:29:23",
+      "created_at": 1762014563000
     },
     {
-      "id": 45781397,
-      "title": "CharlotteOS – An Experimental Modern Operating System",
-      "link": "https://github.com/charlotte-os/Catten",
-      "score": 119,
-      "author": "ementally",
-      "created": "2025-11-01 13:12:47",
-      "created_at": 1762002767000
+      "id": 45786324,
+      "title": "Pomelli",
+      "link": "https://labs.google.com/pomelli/about/",
+      "score": 22,
+      "author": "birriel",
+      "created": "2025-11-01 23:09:25",
+      "created_at": 1762038565000
     },
     {
-      "id": 45783699,
-      "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
-      "link": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/",
-      "score": 127,
-      "author": "wslh",
-      "created": "2025-11-01 17:50:38",
-      "created_at": 1762019438000
+      "id": 45783640,
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "link": "https://github.com/samrolken/nokode",
+      "score": 208,
+      "author": "samrolken",
+      "created": "2025-11-01 17:45:18",
+      "created_at": 1762019118000
+    },
+    {
+      "id": 45784596,
+      "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+      "link": "https://helix-editor.vercel.app/start-here/basics/",
+      "score": 86,
+      "author": "Curiositry",
+      "created": "2025-11-01 19:33:48",
+      "created_at": 1762025628000
+    },
+    {
+      "id": 45781298,
+      "title": "SQLite concurrency and why you should care about it",
+      "link": "https://jellyfin.org/posts/SQLite-locking/",
+      "score": 247,
+      "author": "HunOL",
+      "created": "2025-11-01 12:59:03",
+      "created_at": 1762001943000
     }
   ],
   "code": 200,
