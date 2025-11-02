@@ -3,59 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-02T01:45:02.679Z"
+    "lastUpdate": "2025-11-02T04:14:46.913Z"
   },
   "data": [
     {
-      "id": 45785840,
-      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-      "link": "https://sailfishos.org/info/",
-      "score": 170,
-      "author": "ForHackernews",
-      "created": "2025-11-01 22:05:00",
-      "created_at": 1762034700000
-    },
-    {
       "id": 45785858,
-      "title": "OS maintained by a single developer since 1997: Visopsys",
+      "title": "Visopsys: OS maintained by a single developer since 1997",
       "link": "https://visopsys.org/",
-      "score": 125,
+      "score": 197,
       "author": "kome",
       "created": "2025-11-01 22:07:49",
       "created_at": 1762034869000
     },
     {
-      "id": 45786914,
-      "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
-      "link": "https://blog.cloudflare.com/private-rate-limiting/",
-      "score": 18,
-      "author": "eleye",
-      "created": "2025-11-02 00:45:13",
-      "created_at": 1762044313000
-    },
-    {
-      "id": 45786888,
-      "title": "Why \"Everyone Dies\" Gets AGI All Wrong",
-      "link": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
-      "score": 18,
-      "author": "danans",
-      "created": "2025-11-02 00:40:36",
-      "created_at": 1762044036000
-    },
-    {
       "id": 45782136,
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
       "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "score": 412,
+      "score": 423,
       "author": "dw64",
       "created": "2025-11-01 14:58:05",
       "created_at": 1762009085000
     },
     {
+      "id": 45786738,
+      "title": "How I use every Claude Code feature",
+      "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "score": 90,
+      "author": "sshh12",
+      "created": "2025-11-02 00:13:27",
+      "created_at": 1762042407000
+    },
+    {
       "id": 45784179,
-      "title": "Claude Code Can Debug Low-Level Cryptography",
+      "title": "Claude Code can debug low-level cryptography",
       "link": "https://words.filippo.io/claude-debugging/",
-      "score": 201,
+      "score": 237,
       "author": "Bogdanp",
       "created": "2025-11-01 18:41:56",
       "created_at": 1762022516000
@@ -63,17 +45,26 @@
     {
       "id": 45786324,
       "title": "Pomelli",
-      "link": "https://labs.google.com/pomelli/about/",
-      "score": 43,
+      "link": "https://blog.google/technology/google-labs/pomelli/",
+      "score": 82,
       "author": "birriel",
       "created": "2025-11-01 23:09:25",
       "created_at": 1762038565000
     },
     {
+      "id": 45786914,
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "link": "https://blog.cloudflare.com/private-rate-limiting/",
+      "score": 42,
+      "author": "eleye",
+      "created": "2025-11-02 00:45:13",
+      "created_at": 1762044313000
+    },
+    {
       "id": 45782981,
       "title": "GHC now runs in the browser",
       "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "score": 248,
+      "score": 267,
       "author": "kaycebasques",
       "created": "2025-11-01 16:29:23",
       "created_at": 1762014563000
@@ -82,7 +73,7 @@
       "id": 45783640,
       "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
       "link": "https://github.com/samrolken/nokode",
-      "score": 227,
+      "score": 254,
       "author": "samrolken",
       "created": "2025-11-01 17:45:18",
       "created_at": 1762019118000
@@ -91,10 +82,19 @@
       "id": 45784596,
       "title": "Beginner-friendly, unofficial documentation for Helix text editor",
       "link": "https://helix-editor.vercel.app/start-here/basics/",
-      "score": 94,
+      "score": 105,
       "author": "Curiositry",
       "created": "2025-11-01 19:33:48",
       "created_at": 1762025628000
+    },
+    {
+      "id": 45785840,
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "link": "https://sailfishos.org/info/",
+      "score": 200,
+      "author": "ForHackernews",
+      "created": "2025-11-01 22:05:00",
+      "created_at": 1762034700000
     }
   ],
   "code": 200,

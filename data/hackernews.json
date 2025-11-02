@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-02T01:45:02.001Z"
+    "lastUpdate": "2025-11-02T04:14:46.542Z"
   },
   "data": [
     {
       "id": 45777810,
       "title": "Show HN: Strange Attractors",
       "link": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 741,
+      "score": 744,
       "author": "shashanktomar",
       "created": "2025-10-31 23:23:59",
       "created_at": 1761953039000
@@ -19,25 +19,16 @@
       "id": 45771636,
       "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
       "link": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "score": 580,
+      "score": 585,
       "author": "gmays",
       "created": "2025-10-31 13:14:23",
       "created_at": 1761916463000
     },
     {
-      "id": 45767725,
-      "title": "John Carmack on mutable variables",
-      "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "score": 496,
-      "author": "azhenley",
-      "created": "2025-10-31 02:34:36",
-      "created_at": 1761878076000
-    },
-    {
       "id": 45780228,
       "title": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
       "link": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
-      "score": 473,
+      "score": 489,
       "author": "nh43215rgb",
       "created": "2025-11-01 08:58:54",
       "created_at": 1761987534000
@@ -46,28 +37,28 @@
       "id": 45783114,
       "title": "Chat Control proposal fails again after public opposition",
       "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-      "score": 444,
+      "score": 469,
       "author": "speckx",
       "created": "2025-11-01 16:42:57",
       "created_at": 1762015377000
     },
     {
-      "id": 45774086,
-      "title": "Futurelock: A subtle risk in async Rust",
-      "link": "https://rfd.shared.oxide.computer/rfd/0609",
-      "score": 419,
-      "author": "bcantrill",
-      "created": "2025-10-31 16:49:26",
-      "created_at": 1761929366000
-    },
-    {
       "id": 45782136,
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
       "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "score": 412,
+      "score": 423,
       "author": "dw64",
       "created": "2025-11-01 14:58:05",
       "created_at": 1762009085000
+    },
+    {
+      "id": 45774086,
+      "title": "Futurelock: A subtle risk in async Rust",
+      "link": "https://rfd.shared.oxide.computer/rfd/0609",
+      "score": 420,
+      "author": "bcantrill",
+      "created": "2025-10-31 16:49:26",
+      "created_at": 1761929366000
     },
     {
       "id": 45771538,
@@ -82,7 +73,7 @@
       "id": 45774640,
       "title": "Addiction Markets",
       "link": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "score": 379,
+      "score": 382,
       "author": "toomuchtodo",
       "created": "2025-10-31 17:42:55",
       "created_at": 1761932575000
@@ -91,10 +82,19 @@
       "id": 45779860,
       "title": "Hard Rust requirements from May onward",
       "link": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-      "score": 328,
+      "score": 346,
       "author": "rkta",
       "created": "2025-11-01 07:31:40",
       "created_at": 1761982300000
+    },
+    {
+      "id": 45771870,
+      "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
+      "link": "",
+      "score": 323,
+      "author": "threeturn",
+      "created": "2025-10-31 13:39:55",
+      "created_at": 1761917995000
     }
   ],
   "code": 200,
