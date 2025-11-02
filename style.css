@@ -486,3 +486,84 @@ footer {
     padding: 20px;
     font-style: italic;
 }
+
+/* 新股信息样式 */
+.hot-item.newshare {
+    border-left: 4px solid #28a745;
+    background: #f8fff9;
+}
+
+.hot-item.newshare:hover {
+    background: #f0f8f4;
+}
+
+.newshare-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.stock-code {
+    background: #28a745;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 500;
+    font-family: 'Courier New', monospace;
+}
+
+.stock-name {
+    font-weight: 600;
+    font-size: 14px;
+    color: #333;
+}
+
+.newshare-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.info-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    font-size: 12px;
+}
+
+.info-row .label {
+    color: #666;
+    font-weight: 500;
+    min-width: 60px;
+    flex-shrink: 0;
+}
+
+.info-row .value {
+    color: #333;
+    flex: 1;
+    word-break: break-word;
+}
+
+.info-row .purchase-date {
+    background: #e3f2fd;
+    color: #1976d2;
+    padding: 2px 6px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.info-row .business {
+    line-height: 1.3;
+    color: #555;
+}
+
+.no-data {
+    text-align: center;
+    color: #999;
+    font-size: 13px;
+    padding: 20px;
+    font-style: italic;
+}

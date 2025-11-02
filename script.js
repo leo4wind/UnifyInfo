@@ -81,6 +81,11 @@ const LOCAL_DATA_SOURCES = {
         url: './data/hackernews_new.json',
         name: 'Hacker News New',
         description: '英文技术新闻最新'
+    },
+    newshares: {
+        url: './data/newshares.json',
+        name: '新股信息',
+        description: '新股申购日历信息'
     }
 };
 
@@ -313,6 +318,9 @@ function renderData(key, data) {
             break;
         case 'hackernews_new':
             renderHackerNewsNew(data.data);
+            break;
+        case 'newshares':
+            renderNewShares(data.data);
             break;
     }
 }
@@ -586,6 +594,48 @@ function renderHackerNewsNew(data) {
     `).join('');
 }
 
+// 渲染新股信息
+function renderNewShares(data) {
+    const container = document.getElementById('newsharesList');
+
+    if (!Array.isArray(data)) {
+        showError('newshares', '数据格式错误');
+        return;
+    }
+
+    if (data.length === 0) {
+        container.innerHTML = '<div class="no-data">暂无新股申购信息</div>';
+        return;
+    }
+
+    const items = data;
+    container.innerHTML = items.map((item, index) => `
+        <div class="hot-item newshare">
+            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-content">
+                <div class="newshare-header">
+                    <span class="stock-code">${item.zqdm || '--'}</span>
+                    <span class="stock-name">${item.zqjc || '--'}</span>
+                </div>
+                <div class="newshare-info">
+                    <div class="info-row">
+                        <span class="label">申购代码:</span>
+                        <span class="value">${item.sgdm || '--'}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="label">申购日期:</span>
+                        <span class="value purchase-date">${formatDate(item.sgrq)}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="label">主营业务:</span>
+                        <span class="value business">${item.zyyw || '--'}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
 // 显示错误信息
 function showError(section, message) {
     const container = document.getElementById(section + 'List') ||
@@ -622,6 +672,22 @@ function formatTime(timeStr) {
         const diffMs = now - date;
         const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
 
+        // 处理未来日期
+        if (diffMs < 0) {
+            const futureDiffMs = date - now;
+            const futureDiffHours = Math.floor(futureDiffMs / (1000 * 60 * 60));
+            const futureDiffDays = Math.floor(futureDiffMs / (1000 * 60 * 60 * 24));
+
+            if (futureDiffDays > 0) {
+                return `${futureDiffDays}天后`;
+            } else if (futureDiffHours > 0) {
+                return `${futureDiffHours}小时后`;
+            } else {
+                const futureDiffMinutes = Math.floor(futureDiffMs / (1000 * 60));
+                return `${futureDiffMinutes}分钟后`;
+            }
+        }
+
         if (diffHours < 1) {
             const diffMinutes = Math.floor(diffMs / (1000 * 60));
             return diffMinutes + '分钟前';
@@ -653,6 +719,12 @@ function formatDate(dateStr) {
         const now = new Date();
         const diffMs = now - date;
         const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+
+        // 处理未来日期（如新股申购日期）
+        if (diffMs < 0) {
+            // 未来日期直接显示完整日期
+            return date.toLocaleDateString('zh-CN');
+        }
 
         if (diffHours < 24) {
             return formatTime(dateStr);

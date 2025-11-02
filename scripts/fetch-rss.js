@@ -86,6 +86,12 @@ const API_SOURCES = [
         filename: 'hackernews_new.json',
         name: 'Hacker News New',
         description: '英文技术新闻最新'
+    },
+    {
+        url: 'https://api.biyingapi.com/hslt/new/biyinglicence',
+        filename: 'newshares.json',
+        name: '新股信息',
+        description: '新股申购日历信息'
     }
 ];
 
@@ -166,6 +172,25 @@ function fetchAPI(url) {
             console.error(`获取 API 失败 ${url}:`, error.message);
             resolve(null);
         });
+    });
+}
+
+// 新股信息过滤函数（提前一周和往后一周的申购日期）
+function filterNewSharesByDate(data) {
+    const now = new Date();
+    const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+    const oneWeekLater = new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000);
+
+    return data.filter(item => {
+        if (!item.sgrq) return false; // 没有申购日期的过滤掉
+
+        const purchaseDate = new Date(item.sgrq);
+
+        // 检查申购日期是否在提前一周到往后一周的范围内
+        return purchaseDate >= oneWeekAgo && purchaseDate <= oneWeekLater;
+    }).sort((a, b) => {
+        // 按申购日期排序（最近的在前）
+        return new Date(b.sgrq) - new Date(a.sgrq);
     });
 }
 
@@ -255,25 +280,52 @@ async function main() {
         try {
             const data = await fetchAPI(source.url);
 
-            if (data && data.code === 200) {
-                const jsonData = {
-                    source: {
-                        name: source.name,
-                        description: source.description,
-                        url: source.url,
-                        lastUpdate: new Date().toISOString()
-                    },
-                    data: data.data,
-                    code: data.code,
-                    message: data.message
-                };
+            // 新股信息特殊处理
+            if (source.name === '新股信息') {
+                if (Array.isArray(data) && data.length > 0) {
+                    // 过滤当前时间提前一周和往后一周的申购日期数据
+                    const filteredData = filterNewSharesByDate(data);
 
-                const filePath = path.join(dataDir, source.filename);
-                fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+                    const jsonData = {
+                        source: {
+                            name: source.name,
+                            description: source.description,
+                            url: source.url,
+                            lastUpdate: new Date().toISOString()
+                        },
+                        data: filteredData,
+                        total: filteredData.length
+                    };
 
-                console.log(`✅ 成功抓取 ${source.name}: ${Array.isArray(data.data) ? data.data.length : 'N/A'} 条数据`);
+                    const filePath = path.join(dataDir, source.filename);
+                    fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+
+                    console.log(`✅ 成功抓取 ${source.name}: ${filteredData.length} 条数据（过滤后）`);
+                } else {
+                    console.log(`❌ ${source.name} 抓取失败或无数据`);
+                }
             } else {
-                console.log(`❌ ${source.name} 抓取失败或无数据`);
+                // 其他API源的正常处理
+                if (data && data.code === 200) {
+                    const jsonData = {
+                        source: {
+                            name: source.name,
+                            description: source.description,
+                            url: source.url,
+                            lastUpdate: new Date().toISOString()
+                        },
+                        data: data.data,
+                        code: data.code,
+                        message: data.message
+                    };
+
+                    const filePath = path.join(dataDir, source.filename);
+                    fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+
+                    console.log(`✅ 成功抓取 ${source.name}: ${Array.isArray(data.data) ? data.data.length : 'N/A'} 条数据`);
+                } else {
+                    console.log(`❌ ${source.name} 抓取失败或无数据`);
+                }
             }
         } catch (error) {
             console.error(`❌ ${source.name} 处理失败:`, error.message);
