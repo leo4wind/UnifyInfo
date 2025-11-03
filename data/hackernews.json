@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-03T16:14:43.436Z"
+    "lastUpdate": "2025-11-03T20:13:08.180Z"
   },
   "data": [
     {
       "id": 45794032,
       "title": "Facts about throwing good parties",
       "link": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-      "score": 818,
+      "score": 851,
       "author": "cjbarber",
       "created": "2025-11-02 22:32:42",
       "created_at": 1762122762000
@@ -19,25 +19,16 @@
       "id": 45792503,
       "title": "Linux gamers on Steam cross over the 3% mark",
       "link": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
-      "score": 771,
+      "score": 794,
       "author": "haunter",
       "created": "2025-11-02 18:54:59",
       "created_at": 1762109699000
     },
     {
-      "id": 45783114,
-      "title": "Chat Control proposal fails again after public opposition",
-      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-      "score": 584,
-      "author": "speckx",
-      "created": "2025-11-01 16:42:57",
-      "created_at": 1762015377000
-    },
-    {
       "id": 45786738,
       "title": "How I use every Claude Code feature",
       "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-      "score": 507,
+      "score": 511,
       "author": "sshh12",
       "created": "2025-11-02 00:13:27",
       "created_at": 1762042407000
@@ -46,7 +37,7 @@
       "id": 45785858,
       "title": "Visopsys: OS maintained by a single developer since 1997",
       "link": "https://visopsys.org/",
-      "score": 483,
+      "score": 486,
       "author": "kome",
       "created": "2025-11-01 22:07:49",
       "created_at": 1762034869000
@@ -55,34 +46,25 @@
       "id": 45789474,
       "title": "URLs are state containers",
       "link": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-      "score": 472,
+      "score": 475,
       "author": "thm",
       "created": "2025-11-02 11:12:58",
       "created_at": 1762081978000
     },
     {
-      "id": 45784179,
-      "title": "Claude Code can debug low-level cryptography",
-      "link": "https://words.filippo.io/claude-debugging/",
-      "score": 461,
-      "author": "Bogdanp",
-      "created": "2025-11-01 18:41:56",
-      "created_at": 1762022516000
-    },
-    {
-      "id": 45783640,
-      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-      "link": "https://github.com/samrolken/nokode",
-      "score": 428,
-      "author": "samrolken",
-      "created": "2025-11-01 17:45:18",
-      "created_at": 1762019118000
+      "id": 45797242,
+      "title": "Tiny electric motor can produce more than 1,000 horsepower",
+      "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
+      "score": 440,
+      "author": "chris_overseas",
+      "created": "2025-11-03 09:20:01",
+      "created_at": 1762161601000
     },
     {
       "id": 45795036,
       "title": "Simple trick to increase coverage: Lying to users about signal strength",
       "link": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-      "score": 386,
+      "score": 404,
       "author": "tsujamin",
       "created": "2025-11-03 01:27:48",
       "created_at": 1762133268000
@@ -91,10 +73,28 @@
       "id": 45793466,
       "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "link": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-      "score": 372,
+      "score": 393,
       "author": "rbanffy",
       "created": "2025-11-02 21:08:15",
       "created_at": 1762117695000
+    },
+    {
+      "id": 45789424,
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "link": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "score": 380,
+      "author": "todsacerdoti",
+      "created": "2025-11-02 11:01:23",
+      "created_at": 1762081283000
+    },
+    {
+      "id": 45798827,
+      "title": "Google suspended my company's Google cloud account for the third time",
+      "link": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
+      "score": 350,
+      "author": "agwa",
+      "created": "2025-11-03 13:39:18",
+      "created_at": 1762177158000
     }
   ],
   "code": 200,
