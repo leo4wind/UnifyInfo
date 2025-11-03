@@ -25,13 +25,14 @@ header {
     justify-content: space-between;
     align-items: center;
     max-width: 100%;
+    gap: 20px;
 }
 
 header h1 {
     font-size: 28px;
     font-weight: 600;
     margin: 0;
-    flex: 1;
+    flex: 0 0 auto;
     min-width: 0;
 }
 
@@ -39,7 +40,25 @@ header h1 {
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-shrink: 0;
+    flex: 1;
+    justify-content: center;
+    max-width: 400px;
+}
+
+.tip-container {
+    flex: 0 0 auto;
+    min-width: 200px;
+    text-align: right;
+}
+
+.tip-text {
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0.9;
+    font-style: italic;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .search-input {
@@ -370,6 +389,13 @@ footer {
 
     .search-container {
         justify-content: center;
+        max-width: 100%;
+    }
+
+    .tip-container {
+        min-width: auto;
+        text-align: center;
+        padding: 0 20px;
     }
 
     .search-input {
@@ -397,6 +423,11 @@ footer {
     .search-input {
         min-width: 200px;
         font-size: 13px;
+    }
+
+    .tip-text {
+        font-size: 13px;
+        padding: 0 10px;
     }
 
     .hot-section {

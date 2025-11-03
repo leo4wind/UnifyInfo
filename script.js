@@ -103,7 +103,9 @@ const elements = {
     hotLists: document.getElementById('hotLists'),
     searchInput: document.getElementById('searchInput'),
     clearSearchBtn: document.getElementById('clearSearchBtn'),
-    newsDate: document.getElementById('newsDate')
+    newsDate: document.getElementById('newsDate'),
+    tipContainer: document.getElementById('tipContainer'),
+    tipText: document.getElementById('tipText')
 };
 
 // 初始化
@@ -160,6 +162,9 @@ function formatUSDateToChinaTime(usDateStr) {
 function addUpdateTimeToTitle(key, source) {
     if (!source || !source.lastUpdate) return;
 
+    // 60秒新闻已经有时间显示，跳过
+    if (key === 'news60s') return;
+
     const section = document.getElementById(key);
     if (!section) return;
 
@@ -172,12 +177,12 @@ function addUpdateTimeToTitle(key, source) {
     // 检查是否已经存在时间元素
     let timeElement = titleElement.querySelector('.update-time');
     if (timeElement) {
-        timeElement.textContent = timeStr;
+        timeElement.textContent = `📅 ${timeStr}`;
     } else {
         // 创建时间元素
         timeElement = document.createElement('span');
         timeElement.className = 'update-time';
-        timeElement.textContent = timeStr;
+        timeElement.textContent = `📅 ${timeStr}`;
         titleElement.appendChild(timeElement);
     }
 }
@@ -420,6 +425,11 @@ function render60sNews(data) {
     // 设置标题栏日期
     if (elements.newsDate) {
         elements.newsDate.textContent = `📅 ${data.date} | ${data.day_of_week}`;
+    }
+
+    // 设置每日一句tip
+    if (elements.tipText && data.tip) {
+        elements.tipText.textContent = data.tip;
     }
 
     // 显示所有新闻（包括第一条），统一样式，限制60个字符
