@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-03T08:17:12.065Z"
+    "lastUpdate": "2025-11-03T12:22:25.549Z"
   },
   "data": [
     {
-      "id": 45794032,
-      "title": "Facts about throwing good parties",
-      "link": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-      "score": 570,
-      "author": "cjbarber",
-      "created": "2025-11-02 22:32:42",
-      "created_at": 1762122762000
+      "id": 45797242,
+      "title": "Tiny electric motor can produce more than 1,000 horsepower",
+      "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
+      "score": 173,
+      "author": "chris_overseas",
+      "created": "2025-11-03 09:20:01",
+      "created_at": 1762161601000
+    },
+    {
+      "id": 45746063,
+      "title": "KaTeX – The fastest math typesetting library for the web",
+      "link": "https://katex.org/",
+      "score": 81,
+      "author": "suioir",
+      "created": "2025-10-29 12:40:16",
+      "created_at": 1761741616000
     },
     {
       "id": 45795511,
       "title": "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
       "link": "https://blog.cloudflare.com/introducing-oxy/",
-      "score": 75,
+      "score": 119,
       "author": "Garbage",
       "created": "2025-11-03 03:13:46",
       "created_at": 1762139626000
     },
     {
+      "id": 45796351,
+      "title": "ECL Runs Maxima in a Browser",
+      "link": "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/",
+      "score": 50,
+      "author": "seansh",
+      "created": "2025-11-03 06:21:20",
+      "created_at": 1762150880000
+    },
+    {
       "id": 45793466,
       "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "link": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-      "score": 264,
+      "score": 325,
       "author": "rbanffy",
       "created": "2025-11-02 21:08:15",
       "created_at": 1762117695000
     },
     {
+      "id": 45773421,
+      "title": "The Arduino Uno Q is a weird hybrid SBC",
+      "link": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc",
+      "score": 48,
+      "author": "furkansahin",
+      "created": "2025-10-31 15:49:21",
+      "created_at": 1761925761000
+    },
+    {
       "id": 45789424,
       "title": "Using FreeBSD to make self-hosting fun again",
       "link": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "score": 282,
+      "score": 338,
       "author": "todsacerdoti",
       "created": "2025-11-02 11:01:23",
       "created_at": 1762081283000
     },
     {
-      "id": 45743105,
-      "title": "When models manipulate manifolds: The geometry of a counting task",
-      "link": "https://transformer-circuits.pub/2025/linebreaks/index.html",
-      "score": 46,
-      "author": "vinhnx",
-      "created": "2025-10-29 05:50:56",
-      "created_at": 1761717056000
+      "id": 45761894,
+      "title": "Recantha's Tiny Toolkit",
+      "link": "https://tinytoolk.it/toolkits/recantha-kit/",
+      "score": 13,
+      "author": "surprisetalk",
+      "created": "2025-10-30 16:31:55",
+      "created_at": 1761841915000
     },
     {
-      "id": 45793244,
-      "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-      "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "score": 128,
-      "author": "todsacerdoti",
-      "created": "2025-11-02 20:40:54",
-      "created_at": 1762116054000
+      "id": 45744885,
+      "title": "Linux Tidbits and Collecting Pebbles",
+      "link": "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/",
+      "score": 19,
+      "author": "Bogdanp",
+      "created": "2025-10-29 10:21:59",
+      "created_at": 1761733319000
     },
     {
-      "id": 45796421,
-      "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
-      "link": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
-      "score": 28,
-      "author": "thunderbong",
-      "created": "2025-11-03 06:39:13",
-      "created_at": 1762151953000
-    },
-    {
-      "id": 45707330,
-      "title": "Terahertz Tech Sets Stage for \"Wireless Wired\" Chips",
-      "link": "https://spectrum.ieee.org/terahertz-chip-room-temperature",
-      "score": 20,
-      "author": "FromTheArchives",
-      "created": "2025-10-25 21:57:57",
-      "created_at": 1761429477000
-    },
-    {
-      "id": 45789602,
-      "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-      "link": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-      "score": 291,
-      "author": "meander_water",
-      "created": "2025-11-02 11:43:26",
-      "created_at": 1762083806000
-    },
-    {
-      "id": 45790827,
-      "title": "Why don't you use dependent types?",
-      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "score": 216,
-      "author": "baruchel",
-      "created": "2025-11-02 15:06:36",
-      "created_at": 1762095996000
+      "id": 45797740,
+      "title": "Nvidia to invest up to $1B in AI startup Poolside",
+      "link": "https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/",
+      "score": 29,
+      "author": "mgh2",
+      "created": "2025-11-03 10:47:11",
+      "created_at": 1762166831000
     }
   ],
   "code": 200,
