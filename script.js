@@ -98,9 +98,7 @@ const CACHE = {
 
 // DOM元素
 const elements = {
-    refreshBtn: document.getElementById('refreshBtn'),
     loading: document.getElementById('loading'),
-    updateTime: document.getElementById('updateTime'),
     currentDate: document.getElementById('currentDate'),
     hotLists: document.getElementById('hotLists'),
     searchInput: document.getElementById('searchInput'),
@@ -132,34 +130,8 @@ function setupCurrentDate() {
 
 // 设置事件监听器
 function setupEventListeners() {
-    elements.refreshBtn.addEventListener('click', handleRefresh);
     elements.searchInput.addEventListener('input', debounce(handleSearch, 300));
     elements.clearSearchBtn.addEventListener('click', clearSearch);
-
-    // 数据现在通过 GitHub Actions 自动更新，无需频繁自动刷新
-    // 如果需要手动刷新，可以点击刷新按钮
-    // setInterval(async () => {
-    //     await loadAllData();
-    // }, 5 * 60 * 1000);
-}
-
-// 处理刷新按钮点击
-async function handleRefresh() {
-    showLoading(true);
-    CACHE.data = {}; // 清空缓存
-    await loadAllData();
-    showLoading(false);
-}
-
-// 显示/隐藏加载状态
-function showLoading(show) {
-    elements.loading.style.display = show ? 'inline-block' : 'none';
-    elements.refreshBtn.disabled = show;
-    if (show) {
-        elements.refreshBtn.textContent = '🔄 刷新中...';
-    } else {
-        elements.refreshBtn.textContent = '🔄 刷新数据';
-    }
 }
 
 // 加载所有数据
@@ -176,7 +148,7 @@ async function loadAllData() {
 
     try {
         await Promise.all(promises);
-        updateLastUpdateTime();
+        updateCacheTimestamp();
     } catch (error) {
         console.error('加载数据时出现错误:', error);
     }
@@ -774,11 +746,9 @@ function formatDate(dateStr) {
     }
 }
 
-// 更新最后更新时间
-function updateLastUpdateTime() {
-    const now = new Date();
-    elements.updateTime.textContent = now.toLocaleString('zh-CN');
-    CACHE.lastUpdate = now.getTime();
+// 更新缓存时间戳
+function updateCacheTimestamp() {
+    CACHE.lastUpdate = new Date().getTime();
 }
 
 // 搜索功能

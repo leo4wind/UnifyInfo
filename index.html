@@ -10,18 +10,17 @@
 
 <body>
     <header>
-        <h1>🔥 多网站热榜 - <span id="currentDate">--</span></h1>
-        <p class="subtitle">实时热点聚合 · 一网打尽</p>
-        <div class="last-update">最后更新: <span id="updateTime">--</span></div>
+        <div class="header-content">
+            <h1>🔥 多网站热榜 - <span id="currentDate">--</span></h1>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="🔍 搜索热榜内容..." class="search-input">
+                <button id="clearSearchBtn" class="clear-search-btn" style="display: none;">清除</button>
+                <div class="loading" id="loading" style="display: none;">加载中...</div>
+            </div>
+        </div>
     </header>
 
     <main>
-        <div class="controls">
-            <button id="refreshBtn" class="refresh-btn">🔄 刷新数据</button>
-            <input type="text" id="searchInput" placeholder="🔍 搜索热榜内容..." class="search-input">
-            <button id="clearSearchBtn" class="clear-search-btn" style="display: none;">清除</button>
-            <div class="loading" id="loading" style="display: none;">加载中...</div>
-        </div>
 
         <div class="grid-container" id="hotLists">
             <!-- 60秒新闻 -->
