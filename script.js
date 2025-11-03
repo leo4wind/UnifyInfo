@@ -129,6 +129,59 @@ function setupCurrentDate() {
     elements.currentDate.textContent = dateStr;
 }
 
+// 将美国时间转换为中国时间并格式化
+function formatUSDateToChinaTime(usDateStr) {
+    if (!usDateStr) return '';
+
+    try {
+        // 解析UTC时间 (ISO格式)
+        const utcDate = new Date(usDateStr);
+
+        // 格式化为中国时间 (直接使用localeString会自动转换为本地时区)
+        const timeStr = utcDate.toLocaleString('zh-CN', {
+            timeZone: 'Asia/Shanghai',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit',
+            hour12: false
+        });
+
+        return timeStr;
+    } catch (error) {
+        console.error('时间转换错误:', error);
+        return '';
+    }
+}
+
+// 添加更新时间到标题
+function addUpdateTimeToTitle(key, source) {
+    if (!source || !source.lastUpdate) return;
+
+    const section = document.getElementById(key);
+    if (!section) return;
+
+    const titleElement = section.querySelector('h2');
+    if (!titleElement) return;
+
+    const timeStr = formatUSDateToChinaTime(source.lastUpdate);
+    if (!timeStr) return;
+
+    // 检查是否已经存在时间元素
+    let timeElement = titleElement.querySelector('.update-time');
+    if (timeElement) {
+        timeElement.textContent = timeStr;
+    } else {
+        // 创建时间元素
+        timeElement = document.createElement('span');
+        timeElement.className = 'update-time';
+        timeElement.textContent = timeStr;
+        titleElement.appendChild(timeElement);
+    }
+}
+
 // 设置事件监听器
 function setupEventListeners() {
     elements.searchInput.addEventListener('input', debounce(handleSearch, 300));
@@ -232,6 +285,9 @@ async function fetchLocalData(key, source) {
         }
 
         CACHE.data[key] = standardData;
+
+        // 添加更新时间到标题
+        addUpdateTimeToTitle(key, data.source);
 
         // 根据数据源类型调用不同的渲染函数
         if (key === 'arstechnica' || key === 'wasi') {
