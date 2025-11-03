@@ -252,8 +252,8 @@ async function fetchLocalData(key, source) {
 // 检查缓存是否有效
 function isCacheValid(key) {
     return CACHE.data[key] &&
-           CACHE.lastUpdate &&
-           (Date.now() - CACHE.lastUpdate < CACHE.CACHE_DURATION);
+        CACHE.lastUpdate &&
+        (Date.now() - CACHE.lastUpdate < CACHE.CACHE_DURATION);
 }
 
 // 渲染数据
@@ -319,13 +319,30 @@ function renderLocalData(key, data, source) {
 
     const html = items.map((item, index) => {
         console.log(`📝 ${key} 第${index + 1}条: ${item.title}`);
-        return `
-        <div class="hot-item rss">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
-            <div class="hot-content">
-                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
+
+        // 根据不同的数据源决定显示内容
+        let extraContent = '';
+
+        if (key === 'wasi') {
+            // 瓦斯阅读：只显示标题，不显示详情和时间
+            extraContent = '';
+        } else if (key === 'arstechnica') {
+            // Ars Technica：只显示标题，不显示时间
+            extraContent = item.description ? `<div class="hot-desc">${item.description.substring(0, 100)}...</div>` : '';
+        } else {
+            // 其他RSS源：显示完整内容
+            extraContent = `
                 ${item.description ? `<div class="hot-desc">${item.description.substring(0, 100)}...</div>` : ''}
                 ${item.pubDate ? `<div class="hot-date">${formatDate(item.pubDate)}</div>` : ''}
+            `;
+        }
+
+        return `
+        <div class="hot-item rss">
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
+            <div class="hot-content">
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
+                ${extraContent}
             </div>
         </div>
     `;
@@ -354,9 +371,9 @@ function render60sNews(data) {
     newsList.innerHTML = `
         <ul>
             ${allNews.map((news, index) => {
-                const shortNews = news.length > 60 ? news.substring(0, 60) + '...' : news;
-                return `<li title="${news}">• ${shortNews}</li>`;
-            }).join('')}
+        const shortNews = news.length > 60 ? news.substring(0, 60) + '...' : news;
+        return `<li title="${news}">• ${shortNews}</li>`;
+    }).join('')}
         </ul>
     `;
 }
@@ -373,7 +390,7 @@ function renderDouyin(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -393,7 +410,7 @@ function renderBili(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -413,7 +430,7 @@ function renderWeibo(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -433,7 +450,7 @@ function renderRedNote(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -453,7 +470,7 @@ function renderTieba(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -473,7 +490,7 @@ function renderToutiao(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -493,7 +510,7 @@ function renderZhihu(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -513,7 +530,7 @@ function renderHackerNews(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -533,7 +550,7 @@ function renderHackerNewsTop(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -553,7 +570,7 @@ function renderHackerNewsNew(data) {
     const items = data; // 显示全部数据
     container.innerHTML = items.map((item, index) => `
         <div class="hot-item simple">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
             </div>
@@ -576,37 +593,41 @@ function renderNewShares(data) {
     }
 
     const items = data;
-    container.innerHTML = items.map((item, index) => `
+    container.innerHTML = items.map((item, index) => {
+        const dateInfo = formatPurchaseDate(item.sgrq);
+        return `
         <div class="hot-item newshare">
-            <div class="hot-rank ${index < 3 ? 'top3' : ''}">${index + 1}</div>
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
                 <div class="newshare-header">
                     <span class="stock-code">${item.zqdm || '--'}</span>
                     <span class="stock-name">${item.zqjc || '--'}</span>
+                    <span class="stock-type">${getStockType(item.zqdm)}</span>
                 </div>
                 <div class="newshare-info">
-                    <div class="info-row">
-                        <span class="label">申购代码:</span>
-                        <span class="value">${item.sgdm || '--'}</span>
-                    </div>
-                    <div class="info-row">
-                        <span class="label">申购日期:</span>
-                        <span class="value purchase-date">${formatPurchaseDate(item.sgrq)}</span>
+                    <div class="purchase-row">
+                        <div class="purchase-code">
+                            <span class="label">申购代码:</span>
+                            <span class="value">${item.sgdm || '--'}</span>
+                        </div>
+                        <div class="purchase-date">
+                            <span class="label">申购日期:</span>
+                            <span class="value purchase-date-${dateInfo.type}">${dateInfo.text}</span>
+                        </div>
                     </div>
                     <div class="info-row">
                         <span class="label">主营业务:</span>
-                        <span class="value business">${item.zyyw || '--'}</span>
+                        <span class="value business" title="${item.zyyw || '--'}">${truncateText(item.zyyw, 40)}</span>
                     </div>
                 </div>
             </div>
         </div>
-    `).join('');
+    `}).join('');
 }
 
 // 显示错误信息
 function showError(section, message) {
-    const container = document.getElementById(section + 'List') ||
-                     document.getElementById(section === 'news60s' ? 'newsMain' : section);
+    const container = document.getElementById(section + 'List');
 
     if (container) {
         container.innerHTML = `
@@ -676,10 +697,97 @@ function decodeHTML(html) {
     text.innerHTML = html;
     return text.value;
 }
+function getStockType(stockCode) {
+    if (!stockCode || typeof stockCode !== 'string') {
+        return '未知代码';
+    }
+
+    // 清理代码中的空格和非数字字符，只保留数字
+    const code = stockCode.replace(/\s+/g, '').replace(/[^\d]/g, '');
+
+    if (code.length !== 6) {
+        return '代码格式错误';
+    }
+
+    // 根据代码前缀判断股票类型（基于最新规则）
+
+    // 上海证券交易所
+    if (['600', '601', '603', '605'].some(prefix => code.startsWith(prefix))) {
+        return '上交所A股主板';
+    }
+    if (code.startsWith('688')) {
+        return '科创板';
+    }
+    if (code.startsWith('900')) {
+        return '上交所B股';
+    }
+
+    // 深圳证券交易所
+    if (code.startsWith('000')) {
+        return '深交所A股主板';
+    }
+    if (code.startsWith('300')) {
+        return '创业板';
+    }
+    if (code.startsWith('200')) {
+        return '深交所B股';
+    }
+
+    // 北京证券交易所（最新规则：920开头）
+    if (code.startsWith('920')) {
+        return '北交所';
+    }
+
+    // 原中小板（已合并到深交所主板）
+    if (code.startsWith('002')) {
+        return '深交所A股主板（原中小板）';
+    }
+
+    // 基金、债券等其他品种
+    if (['1', '5'].some(prefix => code.startsWith(prefix))) {
+        return '基金/债券/其他';
+    }
+
+    return '未知类型';
+}
+
+/**
+ * 获取详细的股票市场信息
+ * @param {string} stockCode - 股票代码
+ * @returns {object} 股票详细信息
+ */
+function getStockDetail(stockCode) {
+    const type = getStockType(stockCode);
+
+    const marketInfo = {
+        '上交所A股': { exchange: '上海证券交易所', market: '主板', board: '主板' },
+        '深交所A股': { exchange: '深圳证券交易所', market: '主板', board: '主板' },
+        '深交所A股（原中小板）': { exchange: '深圳证券交易所', market: '主板', board: '原中小板' },
+        '科创板': { exchange: '上海证券交易所', market: '科创板', board: '科创板' },
+        '创业板': { exchange: '深圳证券交易所', market: '创业板', board: '创业板' },
+        '北交所': { exchange: '北京证券交易所', market: '北交所', board: '北交所' },
+        'B股': { exchange: '沪深交易所', market: 'B股市场', board: 'B股' },
+        '基金/债券/其他': { exchange: '沪深交易所', market: '基金债券', board: '其他' }
+    };
+
+    return {
+        code: stockCode,
+        type: type,
+        exchange: marketInfo[type]?.exchange || '未知交易所',
+        market: marketInfo[type]?.market || '未知市场',
+        board: marketInfo[type]?.board || '未知板块'
+    };
+}
+
+// 截断文本并添加省略号
+function truncateText(text, maxLength = 40) {
+    if (!text) return '--';
+    return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+}
 
 // 格式化新股申购日期
 function formatPurchaseDate(dateStr) {
-    if (!dateStr) return '';
+    if (!dateStr) return { text: '', type: 'unknown' };
 
     try {
         const date = new Date(dateStr);
@@ -691,24 +799,27 @@ function formatPurchaseDate(dateStr) {
         const diffDays = Math.floor((purchaseDate - today) / (1000 * 60 * 60 * 24));
 
         if (diffDays === 0) {
-            return '今日申购';
+            return { text: '今日申购', type: 'today' };
         } else if (diffDays === 1) {
-            return '明日申购';
+            return { text: '明日申购', type: 'tomorrow' };
         } else if (diffDays === -1) {
-            return '昨日申购';
-        } else if (diffDays > 0) {
-            return `${diffDays}天后申购`;
+            return { text: '昨日申购', type: 'past' };
+        } else if (diffDays > 0 && diffDays <= 3) {
+            return { text: `${diffDays}天后申购`, type: 'upcoming' };
+        } else if (diffDays > 3) {
+            return { text: `${diffDays}天后申购`, type: 'future' };
         } else if (diffDays < 0) {
-            return `已结束申购`;
+            return { text: '已结束申购', type: 'past' };
         } else {
             // 其他情况显示具体日期
-            return date.toLocaleDateString('zh-CN', {
+            const formattedDate = date.toLocaleDateString('zh-CN', {
                 month: 'short',
                 day: 'numeric'
             });
+            return { text: formattedDate, type: 'default' };
         }
     } catch (error) {
-        return dateStr;
+        return { text: dateStr, type: 'error' };
     }
 }
 

@@ -189,7 +189,7 @@ header h1 {
 .hot-rank {
     width: 25px;
     height: 25px;
-    background: #dc3545;
+    background: #6c757d;
     color: white;
     border-radius: 50%;
     display: flex;
@@ -201,9 +201,9 @@ header h1 {
     flex-shrink: 0;
 }
 
-.hot-rank.top3 {
-    background: #ffc107;
-    color: #333;
+.hot-rank.top5 {
+    background: #dc3545;
+    color: white;
 }
 
 .hot-content {
@@ -247,7 +247,7 @@ header h1 {
 
 /* RSS 项目样式 */
 .hot-item.rss {
-    border-left: 4px solid #6f42c1;
+    /* 移除左侧紫色边框 */
 }
 
 .hot-desc {
@@ -475,7 +475,6 @@ footer {
 
 /* 新股信息样式 */
 .hot-item.newshare {
-    border-left: 4px solid #28a745;
     background: #f8fff9;
 }
 
@@ -504,12 +503,97 @@ footer {
     font-weight: 600;
     font-size: 14px;
     color: #333;
+    flex: 1;
+}
+
+.stock-type {
+    background: #007bff;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-weight: 500;
+    white-space: nowrap;
 }
 
 .newshare-info {
     display: flex;
     flex-direction: column;
     gap: 4px;
+}
+
+.purchase-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.purchase-code {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.purchase-date {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-align: right;
+}
+
+/* 申购日期颜色样式 */
+.purchase-date-today {
+    color: #dc3545;
+    font-weight: 600;
+    background: rgba(220, 53, 69, 0.1);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.purchase-date-tomorrow {
+    color: #fd7e14;
+    font-weight: 600;
+    background: rgba(253, 126, 20, 0.1);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.purchase-date-upcoming {
+    color: #6610f2;
+    font-weight: 600;
+    background: rgba(102, 16, 242, 0.1);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.purchase-date-future {
+    color: #087f5b;
+    font-weight: 500;
+    background: rgba(8, 127, 91, 0.05);
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.purchase-date-past {
+    color: #6c757d;
+    font-weight: normal;
+}
+
+.purchase-date-default {
+    color: #495057;
+    font-weight: normal;
+}
+
+.purchase-date-error {
+    color: #dc3545;
+    font-style: italic;
+}
+
+.purchase-date-unknown {
+    color: #adb5bd;
+    font-style: italic;
 }
 
 .info-row {
