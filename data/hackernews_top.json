@@ -3,32 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-03T04:20:10.625Z"
+    "lastUpdate": "2025-11-03T08:17:12.019Z"
   },
   "data": [
     {
       "id": 45794032,
       "title": "Facts about throwing good parties",
       "link": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-      "score": 287,
+      "score": 570,
       "author": "cjbarber",
       "created": "2025-11-02 22:32:42",
       "created_at": 1762122762000
     },
     {
-      "id": 45795036,
-      "title": "Simple trick to increase coverage: Lying to users about signal strength",
-      "link": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-      "score": 54,
-      "author": "tsujamin",
-      "created": "2025-11-03 01:27:48",
-      "created_at": 1762133268000
+      "id": 45795511,
+      "title": "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
+      "link": "https://blog.cloudflare.com/introducing-oxy/",
+      "score": 75,
+      "author": "Garbage",
+      "created": "2025-11-03 03:13:46",
+      "created_at": 1762139626000
     },
     {
       "id": 45793466,
       "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
       "link": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-      "score": 211,
+      "score": 264,
       "author": "rbanffy",
       "created": "2025-11-02 21:08:15",
       "created_at": 1762117695000
@@ -37,7 +37,7 @@
       "id": 45789424,
       "title": "Using FreeBSD to make self-hosting fun again",
       "link": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "score": 241,
+      "score": 282,
       "author": "todsacerdoti",
       "created": "2025-11-02 11:01:23",
       "created_at": 1762081283000
@@ -46,7 +46,7 @@
       "id": 45743105,
       "title": "When models manipulate manifolds: The geometry of a counting task",
       "link": "https://transformer-circuits.pub/2025/linebreaks/index.html",
-      "score": 11,
+      "score": 46,
       "author": "vinhnx",
       "created": "2025-10-29 05:50:56",
       "created_at": 1761717056000
@@ -55,46 +55,46 @@
       "id": 45793244,
       "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
       "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "score": 103,
+      "score": 128,
       "author": "todsacerdoti",
       "created": "2025-11-02 20:40:54",
       "created_at": 1762116054000
     },
     {
-      "id": 45790827,
-      "title": "Why don't you use dependent types?",
-      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "score": 194,
-      "author": "baruchel",
-      "created": "2025-11-02 15:06:36",
-      "created_at": 1762095996000
+      "id": 45796421,
+      "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
+      "link": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
+      "score": 28,
+      "author": "thunderbong",
+      "created": "2025-11-03 06:39:13",
+      "created_at": 1762151953000
+    },
+    {
+      "id": 45707330,
+      "title": "Terahertz Tech Sets Stage for \"Wireless Wired\" Chips",
+      "link": "https://spectrum.ieee.org/terahertz-chip-room-temperature",
+      "score": 20,
+      "author": "FromTheArchives",
+      "created": "2025-10-25 21:57:57",
+      "created_at": 1761429477000
     },
     {
       "id": 45789602,
       "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
       "link": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-      "score": 264,
+      "score": 291,
       "author": "meander_water",
       "created": "2025-11-02 11:43:26",
       "created_at": 1762083806000
     },
     {
-      "id": 45792579,
-      "title": "Lisp: Notes on its Past and Future (1980)",
-      "link": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
-      "score": 141,
-      "author": "birdculture",
-      "created": "2025-11-02 19:05:32",
-      "created_at": 1762110332000
-    },
-    {
-      "id": 45719636,
-      "title": "How the Mayans were able to accurately predict solar eclipses for centuries",
-      "link": "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html",
-      "score": 38,
-      "author": "pseudolus",
-      "created": "2025-10-27 11:15:19",
-      "created_at": 1761563719000
+      "id": 45790827,
+      "title": "Why don't you use dependent types?",
+      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "score": 216,
+      "author": "baruchel",
+      "created": "2025-11-02 15:06:36",
+      "created_at": 1762095996000
     }
   ],
   "code": 200,
