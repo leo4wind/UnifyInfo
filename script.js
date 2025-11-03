@@ -624,7 +624,7 @@ function renderNewShares(data) {
                     </div>
                     <div class="info-row">
                         <span class="label">申购日期:</span>
-                        <span class="value purchase-date">${formatDate(item.sgrq)}</span>
+                        <span class="value purchase-date">${formatPurchaseDate(item.sgrq)}</span>
                     </div>
                     <div class="info-row">
                         <span class="label">主营业务:</span>
@@ -708,6 +708,41 @@ function decodeHTML(html) {
     const text = document.createElement('textarea');
     text.innerHTML = html;
     return text.value;
+}
+
+// 格式化新股申购日期
+function formatPurchaseDate(dateStr) {
+    if (!dateStr) return '';
+
+    try {
+        const date = new Date(dateStr);
+        const now = new Date();
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        const purchaseDate = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+
+        // 计算日期差异（忽略时分秒）
+        const diffDays = Math.floor((purchaseDate - today) / (1000 * 60 * 60 * 24));
+
+        if (diffDays === 0) {
+            return '今日申购';
+        } else if (diffDays === 1) {
+            return '明日申购';
+        } else if (diffDays === -1) {
+            return '昨日申购';
+        } else if (diffDays > 0) {
+            return `${diffDays}天后申购`;
+        } else if (diffDays < 0) {
+            return `已结束申购`;
+        } else {
+            // 其他情况显示具体日期
+            return date.toLocaleDateString('zh-CN', {
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+    } catch (error) {
+        return dateStr;
+    }
 }
 
 // 格式化RSS日期
