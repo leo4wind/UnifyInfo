@@ -102,7 +102,8 @@ const elements = {
     currentDate: document.getElementById('currentDate'),
     hotLists: document.getElementById('hotLists'),
     searchInput: document.getElementById('searchInput'),
-    clearSearchBtn: document.getElementById('clearSearchBtn')
+    clearSearchBtn: document.getElementById('clearSearchBtn'),
+    newsDate: document.getElementById('newsDate')
 };
 
 // 初始化
@@ -336,7 +337,6 @@ function renderLocalData(key, data, source) {
 
 // 渲染60秒新闻
 function render60sNews(data) {
-    const newsMain = document.getElementById('newsMain');
     const newsList = document.getElementById('newsList');
 
     if (!data || !data.news) {
@@ -344,22 +344,17 @@ function render60sNews(data) {
         return;
     }
 
-    // 主要新闻 - 截取前50个字符
-    const mainNews = data.news[0];
-    const shortMainNews = mainNews.length > 50 ? mainNews.substring(0, 50) + '...' : mainNews;
-    newsMain.innerHTML = `
-        <h3 title="${mainNews}">${shortMainNews}</h3>
-        <div class="news-meta">
-            📅 ${data.date} | ${data.day_of_week}
-        </div>
-    `;
+    // 设置标题栏日期
+    if (elements.newsDate) {
+        elements.newsDate.textContent = `📅 ${data.date} | ${data.day_of_week}`;
+    }
 
-    // 新闻列表 - 每条新闻限制长度
-    const otherNews = data.news.slice(1, 15); // 显示前14条其他新闻
+    // 显示所有新闻（包括第一条），统一样式，限制60个字符
+    const allNews = data.news.slice(0, 15); // 显示前15条新闻
     newsList.innerHTML = `
         <ul>
-            ${otherNews.map(news => {
-                const shortNews = news.length > 40 ? news.substring(0, 40) + '...' : news;
+            ${allNews.map((news, index) => {
+                const shortNews = news.length > 60 ? news.substring(0, 60) + '...' : news;
                 return `<li title="${news}">• ${shortNews}</li>`;
             }).join('')}
         </ul>
