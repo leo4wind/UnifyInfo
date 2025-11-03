@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-02T20:10:56.407Z"
+    "lastUpdate": "2025-11-03T00:55:46.367Z"
   },
   "data": [
     {
-      "id": 45792579,
-      "title": "Lisp: Notes on its Past and Future (1980)",
-      "link": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
-      "score": 20,
-      "author": "birdculture",
-      "created": "2025-11-02 19:05:32",
-      "created_at": 1762110332000
-    },
-    {
-      "id": 45790827,
-      "title": "Why don't you use dependent types?",
-      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "score": 122,
-      "author": "baruchel",
-      "created": "2025-11-02 15:06:36",
-      "created_at": 1762095996000
-    },
-    {
-      "id": 45792503,
-      "title": "Linux gamers on Steam cross over the 3% mark",
-      "link": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
-      "score": 91,
-      "author": "haunter",
-      "created": "2025-11-02 18:54:59",
-      "created_at": 1762109699000
+      "id": 45793466,
+      "title": "Paris had a moving sidewalk in 1900, and a Thomas edison film captured it (2020)",
+      "link": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
+      "score": 164,
+      "author": "rbanffy",
+      "created": "2025-11-02 21:08:15",
+      "created_at": 1762117695000
     },
     {
       "id": 45789424,
       "title": "Using FreeBSD to make self-hosting fun again",
       "link": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "score": 37,
+      "score": 204,
       "author": "todsacerdoti",
       "created": "2025-11-02 11:01:23",
       "created_at": 1762081283000
     },
     {
+      "id": 45794032,
+      "title": "Facts about throwing good parties",
+      "link": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+      "score": 64,
+      "author": "cjbarber",
+      "created": "2025-11-02 22:32:42",
+      "created_at": 1762122762000
+    },
+    {
+      "id": 45793244,
+      "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
+      "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "score": 72,
+      "author": "todsacerdoti",
+      "created": "2025-11-02 20:40:54",
+      "created_at": 1762116054000
+    },
+    {
+      "id": 45790827,
+      "title": "Why don't you use dependent types?",
+      "link": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "score": 177,
+      "author": "baruchel",
+      "created": "2025-11-02 15:06:36",
+      "created_at": 1762095996000
+    },
+    {
+      "id": 45792579,
+      "title": "Lisp: Notes on its Past and Future (1980)",
+      "link": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+      "score": 114,
+      "author": "birdculture",
+      "created": "2025-11-02 19:05:32",
+      "created_at": 1762110332000
+    },
+    {
       "id": 45789602,
       "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
       "link": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-      "score": 179,
+      "score": 241,
       "author": "meander_water",
       "created": "2025-11-02 11:43:26",
       "created_at": 1762083806000
     },
     {
-      "id": 45792209,
-      "title": "Anti-cybercrime laws are being weaponized to repress journalism",
-      "link": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
-      "score": 106,
-      "author": "giuliomagnifico",
-      "created": "2025-11-02 18:12:49",
-      "created_at": 1762107169000
-    },
-    {
       "id": 45792373,
       "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
       "link": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
-      "score": 17,
+      "score": 78,
       "author": "simplegeek",
       "created": "2025-11-02 18:37:38",
       "created_at": 1762108658000
     },
     {
-      "id": 45722570,
-      "title": "Printed circuit board substrates derived from lignocellulose nanofibrils",
-      "link": "https://www.nature.com/articles/s41598-025-91653-1",
-      "score": 8,
-      "author": "PaulHoule",
-      "created": "2025-10-27 16:03:54",
-      "created_at": 1761581034000
+      "id": 45793087,
+      "title": "Amazon Rivian electric delivery vans arrive in Canada",
+      "link": "https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/",
+      "score": 38,
+      "author": "TMWNN",
+      "created": "2025-11-02 20:22:52",
+      "created_at": 1762114972000
     },
     {
-      "id": 45790015,
-      "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "link": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
-      "score": 87,
-      "author": "birdculture",
-      "created": "2025-11-02 13:07:31",
-      "created_at": 1762088851000
-    },
-    {
-      "id": 45745382,
-      "title": "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
-      "link": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/",
-      "score": 86,
-      "author": "suioir",
-      "created": "2025-10-29 11:28:17",
-      "created_at": 1761737297000
+      "id": 45789474,
+      "title": "URLs are state containers",
+      "link": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+      "score": 320,
+      "author": "thm",
+      "created": "2025-11-02 11:12:58",
+      "created_at": 1762081978000
     }
   ],
   "code": 200,
