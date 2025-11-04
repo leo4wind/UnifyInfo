@@ -3,23 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-03T20:13:08.602Z"
+    "lastUpdate": "2025-11-04T00:53:10.521Z"
   },
   "data": [
+    {
+      "id": 45805458,
+      "title": "Guideline has been acquired by Gusto",
+      "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
+      "score": 58,
+      "author": "surprisetalk",
+      "created": "2025-11-03 22:54:20",
+      "created_at": 1762210460000
+    },
+    {
+      "id": 45804377,
+      "title": "AI's Dial-Up Era",
+      "link": "https://www.wreflection.com/p/ai-dial-up-era",
+      "score": 110,
+      "author": "nowflux",
+      "created": "2025-11-03 21:01:09",
+      "created_at": 1762203669000
+    },
+    {
+      "id": 45804122,
+      "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
+      "link": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
+      "score": 95,
+      "author": "mstngl",
+      "created": "2025-11-03 20:37:34",
+      "created_at": 1762202254000
+    },
+    {
+      "id": 45805539,
+      "title": "A Friendly Tour of Process Memory on Linux",
+      "link": "https://www.0xkato.xyz/linux-process-memory/",
+      "score": 23,
+      "author": "0xkato",
+      "created": "2025-11-03 23:04:22",
+      "created_at": 1762211062000
+    },
+    {
+      "id": 45805900,
+      "title": "Things you can do with diodes",
+      "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
+      "score": 16,
+      "author": "zdw",
+      "created": "2025-11-03 23:49:03",
+      "created_at": 1762213743000
+    },
     {
       "id": 45800465,
       "title": "Ask HN: Who is hiring? (November 2025)",
       "link": "",
-      "score": 203,
+      "score": 281,
       "author": "whoishiring",
       "created": "2025-11-03 16:00:00",
       "created_at": 1762185600000
     },
     {
+      "id": 45805514,
+      "title": "Linkers: A 20 Part Series (2007)",
+      "link": "https://www.airs.com/blog/archives/38",
+      "score": 18,
+      "author": "mattrighetti",
+      "created": "2025-11-03 23:01:08",
+      "created_at": 1762210868000
+    },
+    {
+      "id": 45753109,
+      "title": "Maintaining a Music Library, Ten Years On",
+      "link": "https://brianschrader.com/archive/maintaining-a-music-library-ten-years-on/",
+      "score": 45,
+      "author": "sonicrocketman",
+      "created": "2025-10-29 21:12:38",
+      "created_at": 1761772358000
+    },
+    {
       "id": 45800777,
       "title": "Learning to read Arthur Whitney's C to become smart (2024)",
       "link": "https://needleful.net/blog/2024/01/arthur_whitney.html",
-      "score": 130,
+      "score": 219,
       "author": "gudzpoz",
       "created": "2025-11-03 16:23:11",
       "created_at": 1762186991000
@@ -28,73 +91,10 @@
       "id": 45800464,
       "title": "Ask HN: Who wants to be hired? (November 2025)",
       "link": "",
-      "score": 67,
+      "score": 120,
       "author": "whoishiring",
       "created": "2025-11-03 16:00:00",
       "created_at": 1762185600000
-    },
-    {
-      "id": 45802459,
-      "title": "Gallery of wonderful drawings our little thermal printer received",
-      "link": "https://guestbook.goodenough.us",
-      "score": 26,
-      "author": "busymom0",
-      "created": "2025-11-03 18:27:32",
-      "created_at": 1762194452000
-    },
-    {
-      "id": 45801416,
-      "title": "Why Engineers Can't Be Rational About Programming Languages",
-      "link": "https://spf13.com/p/the-hidden-conversation/",
-      "score": 41,
-      "author": "spf13",
-      "created": "2025-11-03 17:08:22",
-      "created_at": 1762189702000
-    },
-    {
-      "id": 45797242,
-      "title": "Tiny electric motor can produce more than 1,000 horsepower",
-      "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-      "score": 440,
-      "author": "chris_overseas",
-      "created": "2025-11-03 09:20:01",
-      "created_at": 1762161601000
-    },
-    {
-      "id": 45798479,
-      "title": "The Case Against PGVector",
-      "link": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
-      "score": 188,
-      "author": "tacoooooooo",
-      "created": "2025-11-03 12:50:27",
-      "created_at": 1762174227000
-    },
-    {
-      "id": 45748816,
-      "title": "A visualization of the RGB space covered by named colors",
-      "link": "https://codepen.io/meodai/full/zdgXJj/",
-      "score": 153,
-      "author": "BlankCanvas",
-      "created": "2025-10-29 16:09:39",
-      "created_at": 1761754179000
-    },
-    {
-      "id": 45680602,
-      "title": "Harder, Better, Faster, Stronger Version of Uber H3 in Rust",
-      "link": "https://grim7reaper.github.io/blog/2023/01/09/the-hydronium-project/",
-      "score": 53,
-      "author": "ashergill",
-      "created": "2025-10-23 11:23:51",
-      "created_at": 1761218631000
-    },
-    {
-      "id": 45783074,
-      "title": "WebAssembly (WASM) arch support for the Linux kernel",
-      "link": "https://github.com/joelseverin/linux-wasm",
-      "score": 174,
-      "author": "marcodiego",
-      "created": "2025-11-01 16:39:05",
-      "created_at": 1762015145000
     }
   ],
   "code": 200,
