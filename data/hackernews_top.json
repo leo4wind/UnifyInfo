@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-04T00:53:10.492Z"
+    "lastUpdate": "2025-11-04T04:14:07.945Z"
   },
   "data": [
-    {
-      "id": 45805458,
-      "title": "Guideline has been acquired by Gusto",
-      "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
-      "score": 58,
-      "author": "surprisetalk",
-      "created": "2025-11-03 22:54:20",
-      "created_at": 1762210460000
-    },
-    {
-      "id": 45804377,
-      "title": "AI's Dial-Up Era",
-      "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 110,
-      "author": "nowflux",
-      "created": "2025-11-03 21:01:09",
-      "created_at": 1762203669000
-    },
-    {
-      "id": 45804122,
-      "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
-      "link": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
-      "score": 95,
-      "author": "mstngl",
-      "created": "2025-11-03 20:37:34",
-      "created_at": 1762202254000
-    },
-    {
-      "id": 45805539,
-      "title": "A Friendly Tour of Process Memory on Linux",
-      "link": "https://www.0xkato.xyz/linux-process-memory/",
-      "score": 23,
-      "author": "0xkato",
-      "created": "2025-11-03 23:04:22",
-      "created_at": 1762211062000
-    },
     {
       "id": 45805900,
       "title": "Things you can do with diodes",
       "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-      "score": 16,
+      "score": 119,
       "author": "zdw",
       "created": "2025-11-03 23:49:03",
       "created_at": 1762213743000
     },
     {
+      "id": 45804377,
+      "title": "AI's Dial-Up Era",
+      "link": "https://www.wreflection.com/p/ai-dial-up-era",
+      "score": 191,
+      "author": "nowflux",
+      "created": "2025-11-03 21:01:09",
+      "created_at": 1762203669000
+    },
+    {
+      "id": 45805539,
+      "title": "A friendly tour of process memory on Linux",
+      "link": "https://www.0xkato.xyz/linux-process-memory/",
+      "score": 84,
+      "author": "0xkato",
+      "created": "2025-11-03 23:04:22",
+      "created_at": 1762211062000
+    },
+    {
+      "id": 45805458,
+      "title": "Guideline has been acquired by Gusto",
+      "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
+      "score": 81,
+      "author": "surprisetalk",
+      "created": "2025-11-03 22:54:20",
+      "created_at": 1762210460000
+    },
+    {
       "id": 45800465,
       "title": "Ask HN: Who is hiring? (November 2025)",
       "link": "",
-      "score": 281,
+      "score": 314,
       "author": "whoishiring",
       "created": "2025-11-03 16:00:00",
       "created_at": 1762185600000
+    },
+    {
+      "id": 45807018,
+      "title": "An individual can change an organization",
+      "link": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
+      "score": 8,
+      "author": "zdw",
+      "created": "2025-11-04 02:58:40",
+      "created_at": 1762225120000
+    },
+    {
+      "id": 45806348,
+      "title": "When stick figures fought",
+      "link": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
+      "score": 42,
+      "author": "ani_obsessive",
+      "created": "2025-11-04 00:48:56",
+      "created_at": 1762217336000
     },
     {
       "id": 45805514,
       "title": "Linkers: A 20 Part Series (2007)",
       "link": "https://www.airs.com/blog/archives/38",
-      "score": 18,
+      "score": 52,
       "author": "mattrighetti",
       "created": "2025-11-03 23:01:08",
       "created_at": 1762210868000
     },
     {
-      "id": 45753109,
-      "title": "Maintaining a Music Library, Ten Years On",
-      "link": "https://brianschrader.com/archive/maintaining-a-music-library-ten-years-on/",
-      "score": 45,
-      "author": "sonicrocketman",
-      "created": "2025-10-29 21:12:38",
-      "created_at": 1761772358000
+      "id": 45719250,
+      "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
+      "link": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
+      "score": 21,
+      "author": "thomasjb",
+      "created": "2025-10-27 10:17:24",
+      "created_at": 1761560244000
     },
     {
       "id": 45800777,
       "title": "Learning to read Arthur Whitney's C to become smart (2024)",
       "link": "https://needleful.net/blog/2024/01/arthur_whitney.html",
-      "score": 219,
+      "score": 248,
       "author": "gudzpoz",
       "created": "2025-11-03 16:23:11",
       "created_at": 1762186991000
-    },
-    {
-      "id": 45800464,
-      "title": "Ask HN: Who wants to be hired? (November 2025)",
-      "link": "",
-      "score": 120,
-      "author": "whoishiring",
-      "created": "2025-11-03 16:00:00",
-      "created_at": 1762185600000
     }
   ],
   "code": 200,
