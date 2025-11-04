@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-04T16:15:04.142Z"
+    "lastUpdate": "2025-11-04T20:13:16.988Z"
   },
   "data": [
+    {
+      "id": 45812606,
+      "title": "Pg_lake: Postgres with Iceberg and data lake access",
+      "link": "https://github.com/Snowflake-Labs/pg_lake",
+      "score": 195,
+      "author": "plaur782",
+      "created": "2025-11-04 16:12:27",
+      "created_at": 1762272747000
+    },
+    {
+      "id": 45813343,
+      "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+      "link": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+      "score": 74,
+      "author": "mukti",
+      "created": "2025-11-04 17:10:35",
+      "created_at": 1762276235000
+    },
+    {
+      "id": 45813767,
+      "title": "Codemaps: Understand Code, Before You Vibe It",
+      "link": "https://cognition.ai/blog/codemaps",
+      "score": 77,
+      "author": "janpio",
+      "created": "2025-11-04 17:47:09",
+      "created_at": 1762278429000
+    },
     {
       "id": 45811093,
       "title": "Show HN: A CSS-Only Terrain Generator",
       "link": "https://terra.layoutit.com",
-      "score": 85,
+      "score": 212,
       "author": "rofko",
       "created": "2025-11-04 13:58:35",
       "created_at": 1762264715000
     },
     {
-      "id": 45811447,
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
-      "score": 39,
-      "author": "blakepelton",
-      "created": "2025-11-04 14:31:27",
-      "created_at": 1762266687000
+      "id": 45734259,
+      "title": "Whole Earth Index",
+      "link": "https://wholeearth.info/",
+      "score": 28,
+      "author": "bookofjoe",
+      "created": "2025-10-28 15:36:39",
+      "created_at": 1761665799000
+    },
+    {
+      "id": 45813310,
+      "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+      "link": "https://www.plexe.ai/",
+      "score": 42,
+      "author": "vaibhavdubey97",
+      "created": "2025-11-04 17:07:47",
+      "created_at": 1762276067000
+    },
+    {
+      "id": 45813994,
+      "title": "We're open-sourcing the successor of Jupyter notebook",
+      "link": "https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook",
+      "score": 121,
+      "author": "zX41ZdbW",
+      "created": "2025-11-04 18:06:42",
+      "created_at": 1762279602000
+    },
+    {
+      "id": 45747938,
+      "title": "Normalize Identifying Corporate Devices in Your Software",
+      "link": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
+      "score": 43,
+      "author": "Bogdanp",
+      "created": "2025-10-29 15:16:08",
+      "created_at": 1761750968000
     },
     {
       "id": 45809193,
       "title": "What is a manifold?",
       "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-      "score": 184,
+      "score": 287,
       "author": "isaacfrond",
       "created": "2025-11-04 09:58:14",
       "created_at": 1762250294000
     },
     {
-      "id": 45810430,
-      "title": "Chaining FFmpeg with a Browser Agent",
-      "link": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
-      "score": 41,
-      "author": "shardullavekar",
-      "created": "2025-11-04 12:52:54",
-      "created_at": 1762260774000
-    },
-    {
-      "id": 45810856,
-      "title": "Show HN: I built a local-first daily planner for iOS",
-      "link": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
-      "score": 33,
-      "author": "zesfy",
-      "created": "2025-11-04 13:34:45",
-      "created_at": 1762263285000
-    },
-    {
-      "id": 45806263,
-      "title": "You can't cURL a Border",
-      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "score": 359,
-      "author": "valzevul",
-      "created": "2025-11-04 00:37:14",
-      "created_at": 1762216634000
-    },
-    {
-      "id": 45812403,
-      "title": "Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers",
-      "link": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
-      "score": 24,
-      "author": "walterbell",
-      "created": "2025-11-04 15:55:59",
-      "created_at": 1762271759000
-    },
-    {
-      "id": 45808998,
-      "title": "Bloom filters are good for search that does not scale",
-      "link": "https://notpeerreviewed.com/blog/bloom-filters/",
-      "score": 103,
-      "author": "birdculture",
-      "created": "2025-11-04 09:25:31",
-      "created_at": 1762248331000
-    },
-    {
-      "id": 45806903,
-      "title": "My Truck Desk",
-      "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "score": 277,
-      "author": "zdw",
-      "created": "2025-11-04 02:37:01",
-      "created_at": 1762223821000
-    },
-    {
-      "id": 45674676,
-      "title": "The Farmer Was Replaced [video]",
-      "link": "https://www.youtube.com/watch?v=aP2WHQKJVsw",
-      "score": 76,
-      "author": "surprisetalk",
-      "created": "2025-10-22 20:23:09",
-      "created_at": 1761164589000
+      "id": 45684564,
+      "title": "Recovering videos from my Sony camera that I stupidly deleted",
+      "link": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
+      "score": 49,
+      "author": "speckx",
+      "created": "2025-10-23 17:38:38",
+      "created_at": 1761241118000
     }
   ],
   "code": 200,
