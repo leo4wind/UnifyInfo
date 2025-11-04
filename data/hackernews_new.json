@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-04T04:14:08.113Z"
+    "lastUpdate": "2025-11-04T08:15:56.757Z"
   },
   "data": [
+    {
+      "id": 45806263,
+      "title": "You can't cURL a Border",
+      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
+      "score": 60,
+      "author": "valzevul",
+      "created": "2025-11-04 00:37:14",
+      "created_at": 1762216634000
+    },
     {
       "id": 45805900,
       "title": "Things you can do with diodes",
       "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-      "score": 119,
+      "score": 210,
       "author": "zdw",
       "created": "2025-11-03 23:49:03",
       "created_at": 1762213743000
@@ -19,82 +28,73 @@
       "id": 45804377,
       "title": "AI's Dial-Up Era",
       "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 191,
+      "score": 282,
       "author": "nowflux",
       "created": "2025-11-03 21:01:09",
       "created_at": 1762203669000
     },
     {
-      "id": 45805539,
-      "title": "A friendly tour of process memory on Linux",
-      "link": "https://www.0xkato.xyz/linux-process-memory/",
-      "score": 84,
-      "author": "0xkato",
-      "created": "2025-11-03 23:04:22",
-      "created_at": 1762211062000
-    },
-    {
-      "id": 45805458,
-      "title": "Guideline has been acquired by Gusto",
-      "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
-      "score": 81,
-      "author": "surprisetalk",
-      "created": "2025-11-03 22:54:20",
-      "created_at": 1762210460000
-    },
-    {
-      "id": 45800465,
-      "title": "Ask HN: Who is hiring? (November 2025)",
-      "link": "",
-      "score": 314,
-      "author": "whoishiring",
-      "created": "2025-11-03 16:00:00",
-      "created_at": 1762185600000
-    },
-    {
-      "id": 45807018,
-      "title": "An individual can change an organization",
-      "link": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
-      "score": 8,
+      "id": 45806903,
+      "title": "My Truck Desk",
+      "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+      "score": 71,
       "author": "zdw",
-      "created": "2025-11-04 02:58:40",
-      "created_at": 1762225120000
+      "created": "2025-11-04 02:37:01",
+      "created_at": 1762223821000
     },
     {
       "id": 45806348,
       "title": "When stick figures fought",
       "link": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
-      "score": 42,
+      "score": 135,
       "author": "ani_obsessive",
       "created": "2025-11-04 00:48:56",
       "created_at": 1762217336000
     },
     {
-      "id": 45805514,
-      "title": "Linkers: A 20 Part Series (2007)",
-      "link": "https://www.airs.com/blog/archives/38",
-      "score": 52,
-      "author": "mattrighetti",
-      "created": "2025-11-03 23:01:08",
-      "created_at": 1762210868000
+      "id": 45805539,
+      "title": "A friendly tour of process memory on Linux",
+      "link": "https://www.0xkato.xyz/linux-process-memory/",
+      "score": 136,
+      "author": "0xkato",
+      "created": "2025-11-03 23:04:22",
+      "created_at": 1762211062000
+    },
+    {
+      "id": 45808308,
+      "title": "Lessons from 70 interviews on deploying AI Agents in production",
+      "link": "https://mmc.vc/research/state-of-agentic-ai-founders-edition/",
+      "score": 4,
+      "author": "advikipedia",
+      "created": "2025-11-04 07:26:45",
+      "created_at": 1762241205000
+    },
+    {
+      "id": 45800465,
+      "title": "Ask HN: Who is hiring? (November 2025)",
+      "link": "",
+      "score": 335,
+      "author": "whoishiring",
+      "created": "2025-11-03 16:00:00",
+      "created_at": 1762185600000
+    },
+    {
+      "id": 45805458,
+      "title": "Guideline has been acquired by Gusto",
+      "link": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
+      "score": 104,
+      "author": "surprisetalk",
+      "created": "2025-11-03 22:54:20",
+      "created_at": 1762210460000
     },
     {
       "id": 45719250,
       "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
       "link": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
-      "score": 21,
+      "score": 40,
       "author": "thomasjb",
       "created": "2025-10-27 10:17:24",
       "created_at": 1761560244000
-    },
-    {
-      "id": 45800777,
-      "title": "Learning to read Arthur Whitney's C to become smart (2024)",
-      "link": "https://needleful.net/blog/2024/01/arthur_whitney.html",
-      "score": 248,
-      "author": "gudzpoz",
-      "created": "2025-11-03 16:23:11",
-      "created_at": 1762186991000
     }
   ],
   "code": 200,
