@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-04T12:23:34.076Z"
+    "lastUpdate": "2025-11-04T16:15:04.205Z"
   },
   "data": [
     {
-      "id": 45806263,
-      "title": "You can't cURL a Border",
-      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "score": 243,
-      "author": "valzevul",
-      "created": "2025-11-04 00:37:14",
-      "created_at": 1762216634000
+      "id": 45811093,
+      "title": "Show HN: A CSS-Only Terrain Generator",
+      "link": "https://terra.layoutit.com",
+      "score": 85,
+      "author": "rofko",
+      "created": "2025-11-04 13:58:35",
+      "created_at": 1762264715000
+    },
+    {
+      "id": 45811447,
+      "title": "Optimizing Datalog for the GPU",
+      "link": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
+      "score": 39,
+      "author": "blakepelton",
+      "created": "2025-11-04 14:31:27",
+      "created_at": 1762266687000
     },
     {
       "id": 45809193,
-      "title": "What Is a Manifold?",
+      "title": "What is a manifold?",
       "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-      "score": 47,
+      "score": 184,
       "author": "isaacfrond",
       "created": "2025-11-04 09:58:14",
       "created_at": 1762250294000
     },
     {
-      "id": 45809897,
-      "title": "This Month in Ladybird – October 2025",
-      "link": "https://ladybird.org/newsletter/2025-10-31/",
+      "id": 45810430,
+      "title": "Chaining FFmpeg with a Browser Agent",
+      "link": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
+      "score": 41,
+      "author": "shardullavekar",
+      "created": "2025-11-04 12:52:54",
+      "created_at": 1762260774000
+    },
+    {
+      "id": 45810856,
+      "title": "Show HN: I built a local-first daily planner for iOS",
+      "link": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
       "score": 33,
-      "author": "exploraz",
-      "created": "2025-11-04 11:52:02",
-      "created_at": 1762257122000
+      "author": "zesfy",
+      "created": "2025-11-04 13:34:45",
+      "created_at": 1762263285000
     },
     {
-      "id": 45806903,
-      "title": "My Truck Desk",
-      "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "score": 158,
-      "author": "zdw",
-      "created": "2025-11-04 02:37:01",
-      "created_at": 1762223821000
+      "id": 45806263,
+      "title": "You can't cURL a Border",
+      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
+      "score": 359,
+      "author": "valzevul",
+      "created": "2025-11-04 00:37:14",
+      "created_at": 1762216634000
     },
     {
-      "id": 45805900,
-      "title": "Things you can do with diodes",
-      "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-      "score": 264,
-      "author": "zdw",
-      "created": "2025-11-03 23:49:03",
-      "created_at": 1762213743000
+      "id": 45812403,
+      "title": "Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers",
+      "link": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
+      "score": 24,
+      "author": "walterbell",
+      "created": "2025-11-04 15:55:59",
+      "created_at": 1762271759000
     },
     {
       "id": 45808998,
       "title": "Bloom filters are good for search that does not scale",
       "link": "https://notpeerreviewed.com/blog/bloom-filters/",
-      "score": 27,
+      "score": 103,
       "author": "birdculture",
       "created": "2025-11-04 09:25:31",
       "created_at": 1762248331000
     },
     {
-      "id": 45809866,
-      "title": "Over $70T of inherited wealth over next decade will widen inequality, economists",
-      "link": "https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn",
-      "score": 23,
-      "author": "prmph",
-      "created": "2025-11-04 11:47:06",
-      "created_at": 1762256826000
+      "id": 45806903,
+      "title": "My Truck Desk",
+      "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+      "score": 277,
+      "author": "zdw",
+      "created": "2025-11-04 02:37:01",
+      "created_at": 1762223821000
     },
     {
-      "id": 45804377,
-      "title": "AI's Dial-Up Era",
-      "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 341,
-      "author": "nowflux",
-      "created": "2025-11-03 21:01:09",
-      "created_at": 1762203669000
-    },
-    {
-      "id": 45729340,
-      "title": "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
-      "link": "https://github.com/vivier/phomemo-tools",
-      "score": 30,
-      "author": "Curiositry",
-      "created": "2025-10-28 05:01:38",
-      "created_at": 1761627698000
-    },
-    {
-      "id": 45806348,
-      "title": "When stick figures fought",
-      "link": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
-      "score": 208,
-      "author": "ani_obsessive",
-      "created": "2025-11-04 00:48:56",
-      "created_at": 1762217336000
+      "id": 45674676,
+      "title": "The Farmer Was Replaced [video]",
+      "link": "https://www.youtube.com/watch?v=aP2WHQKJVsw",
+      "score": 76,
+      "author": "surprisetalk",
+      "created": "2025-10-22 20:23:09",
+      "created_at": 1761164589000
     }
   ],
   "code": 200,

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-04T12:23:33.825Z"
+    "lastUpdate": "2025-11-04T16:15:04.001Z"
   },
   "data": [
     {
       "id": 45794032,
       "title": "Facts about throwing good parties",
       "link": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-      "score": 911,
+      "score": 920,
       "author": "cjbarber",
       "created": "2025-11-02 22:32:42",
       "created_at": 1762122762000
@@ -19,7 +19,7 @@
       "id": 45792503,
       "title": "Linux gamers on Steam cross over the 3% mark",
       "link": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
-      "score": 808,
+      "score": 812,
       "author": "haunter",
       "created": "2025-11-02 18:54:59",
       "created_at": 1762109699000
@@ -28,28 +28,37 @@
       "id": 45797242,
       "title": "Tiny electric motor can produce more than 1,000 horsepower",
       "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-      "score": 579,
+      "score": 583,
       "author": "chris_overseas",
       "created": "2025-11-03 09:20:01",
       "created_at": 1762161601000
     },
     {
+      "id": 45798681,
+      "title": "Why Nextcloud feels slow to use",
+      "link": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
+      "score": 435,
+      "author": "rpgbr",
+      "created": "2025-11-03 13:21:09",
+      "created_at": 1762176069000
+    },
+    {
       "id": 45795036,
       "title": "Simple trick to increase coverage: Lying to users about signal strength",
       "link": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-      "score": 424,
+      "score": 430,
       "author": "tsujamin",
       "created": "2025-11-03 01:27:48",
       "created_at": 1762133268000
     },
     {
-      "id": 45798681,
-      "title": "Why Nextcloud feels slow to use",
-      "link": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
-      "score": 421,
-      "author": "rpgbr",
-      "created": "2025-11-03 13:21:09",
-      "created_at": 1762176069000
+      "id": 45798827,
+      "title": "Google suspended my company's Google cloud account for the third time",
+      "link": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
+      "score": 404,
+      "author": "agwa",
+      "created": "2025-11-03 13:39:18",
+      "created_at": 1762177158000
     },
     {
       "id": 45793466,
@@ -61,40 +70,31 @@
       "created_at": 1762117695000
     },
     {
-      "id": 45798827,
-      "title": "Google suspended my company's Google cloud account for the third time",
-      "link": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
-      "score": 394,
-      "author": "agwa",
-      "created": "2025-11-03 13:39:18",
-      "created_at": 1762177158000
-    },
-    {
-      "id": 45789602,
-      "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-      "link": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-      "score": 354,
-      "author": "meander_water",
-      "created": "2025-11-02 11:43:26",
-      "created_at": 1762083806000
+      "id": 45804377,
+      "title": "AI's Dial-Up Era",
+      "link": "https://www.wreflection.com/p/ai-dial-up-era",
+      "score": 388,
+      "author": "nowflux",
+      "created": "2025-11-03 21:01:09",
+      "created_at": 1762203669000
     },
     {
       "id": 45800465,
       "title": "Ask HN: Who is hiring? (November 2025)",
       "link": "",
-      "score": 351,
+      "score": 365,
       "author": "whoishiring",
       "created": "2025-11-03 16:00:00",
       "created_at": 1762185600000
     },
     {
-      "id": 45804377,
-      "title": "AI's Dial-Up Era",
-      "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 341,
-      "author": "nowflux",
-      "created": "2025-11-03 21:01:09",
-      "created_at": 1762203669000
+      "id": 45806263,
+      "title": "You can't cURL a Border",
+      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
+      "score": 359,
+      "author": "valzevul",
+      "created": "2025-11-04 00:37:14",
+      "created_at": 1762216634000
     }
   ],
   "code": 200,
