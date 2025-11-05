@@ -3,26 +3,53 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-05T04:14:43.800Z"
+    "lastUpdate": "2025-11-05T08:16:00.884Z"
   },
   "data": [
+    {
+      "id": 45807775,
+      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+      "link": "",
+      "score": 601,
+      "author": "stillatit",
+      "created": "2025-11-04 05:53:02",
+      "created_at": 1762235582000
+    },
     {
       "id": 45797242,
       "title": "Tiny electric motor can produce more than 1,000 horsepower",
       "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-      "score": 600,
+      "score": 601,
       "author": "chris_overseas",
       "created": "2025-11-03 09:20:01",
       "created_at": 1762161601000
     },
     {
-      "id": 45807775,
-      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-      "link": "",
-      "score": 585,
-      "author": "stillatit",
-      "created": "2025-11-04 05:53:02",
-      "created_at": 1762235582000
+      "id": 45818421,
+      "title": "Zohran Mamdani wins the New York mayoral race",
+      "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "score": 566,
+      "author": "jsheard",
+      "created": "2025-11-05 02:50:06",
+      "created_at": 1762311006000
+    },
+    {
+      "id": 45816853,
+      "title": "Mr Tiff",
+      "link": "https://inventingthefuture.ghost.io/mr-tiff/",
+      "score": 506,
+      "author": "speckx",
+      "created": "2025-11-04 22:57:12",
+      "created_at": 1762297032000
+    },
+    {
+      "id": 45804377,
+      "title": "AI's Dial-Up Era",
+      "link": "https://www.wreflection.com/p/ai-dial-up-era",
+      "score": 453,
+      "author": "nowflux",
+      "created": "2025-11-03 21:01:09",
+      "created_at": 1762203669000
     },
     {
       "id": 45798681,
@@ -34,19 +61,10 @@
       "created_at": 1762176069000
     },
     {
-      "id": 45804377,
-      "title": "AI's Dial-Up Era",
-      "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 449,
-      "author": "nowflux",
-      "created": "2025-11-03 21:01:09",
-      "created_at": 1762203669000
-    },
-    {
       "id": 45806263,
       "title": "You can't cURL a Border",
       "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "score": 442,
+      "score": 447,
       "author": "valzevul",
       "created": "2025-11-04 00:37:14",
       "created_at": 1762216634000
@@ -55,7 +73,7 @@
       "id": 45806903,
       "title": "My Truck Desk",
       "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "score": 428,
+      "score": 431,
       "author": "zdw",
       "created": "2025-11-04 02:37:01",
       "created_at": 1762223821000
@@ -73,28 +91,10 @@
       "id": 45800465,
       "title": "Ask HN: Who is hiring? (November 2025)",
       "link": "",
-      "score": 384,
+      "score": 387,
       "author": "whoishiring",
       "created": "2025-11-03 16:00:00",
       "created_at": 1762185600000
-    },
-    {
-      "id": 45805900,
-      "title": "Things you can do with diodes",
-      "link": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-      "score": 378,
-      "author": "zdw",
-      "created": "2025-11-03 23:49:03",
-      "created_at": 1762213743000
-    },
-    {
-      "id": 45798479,
-      "title": "The Case Against PGVector",
-      "link": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
-      "score": 364,
-      "author": "tacoooooooo",
-      "created": "2025-11-03 12:50:27",
-      "created_at": 1762174227000
     }
   ],
   "code": 200,
