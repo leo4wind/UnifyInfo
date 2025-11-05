@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-05T16:14:55.740Z"
+    "lastUpdate": "2025-11-05T20:13:20.085Z"
   },
   "data": [
     {
+      "id": 45826995,
+      "title": "New gel restores dental enamel and could revolutionise tooth repair",
+      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+      "score": 68,
+      "author": "CGMthrowaway",
+      "created": "2025-11-05 19:44:49",
+      "created_at": 1762371889000
+    },
+    {
+      "id": 45826266,
+      "title": "Dillo, a multi-platform graphical web browser",
+      "link": "https://github.com/dillo-browser/dillo",
+      "score": 73,
+      "author": "nazgulsenpai",
+      "created": "2025-11-05 18:40:32",
+      "created_at": 1762368032000
+    },
+    {
+      "id": 45826348,
+      "title": "The state of SIMD in Rust in 2025",
+      "link": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
+      "score": 45,
+      "author": "ashvardanian",
+      "created": "2025-11-05 18:45:57",
+      "created_at": 1762368357000
+    },
+    {
+      "id": 45826971,
+      "title": "Fiber reduces overall mortality by 23%",
+      "link": "https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/",
+      "score": 23,
+      "author": "brandonb",
+      "created": "2025-11-05 19:42:58",
+      "created_at": 1762371778000
+    },
+    {
+      "id": 45823831,
+      "title": "Ruby and Its Neighbors: Smalltalk",
+      "link": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+      "score": 121,
+      "author": "jrochkind1",
+      "created": "2025-11-05 15:24:35",
+      "created_at": 1762356275000
+    },
+    {
       "id": 45823141,
-      "title": "The Shadows Lurking in the Equations",
+      "title": "The shadows lurking in the equations",
       "link": "https://gods.art/articles/equation_shadows.html",
-      "score": 85,
+      "score": 213,
       "author": "calebm",
       "created": "2025-11-05 14:21:13",
       "created_at": 1762352473000
     },
     {
-      "id": 45823186,
-      "title": "Carice TC2 – A non-digital electric car",
-      "link": "https://www.caricecars.com/",
-      "score": 38,
-      "author": "RubenvanE",
-      "created": "2025-11-05 14:25:36",
-      "created_at": 1762352736000
+      "id": 45807993,
+      "title": "I want a good parallel language [video]",
+      "link": "https://www.youtube.com/watch?v=0-eViUyPwso",
+      "score": 21,
+      "author": "raphlinus",
+      "created": "2025-11-04 06:35:27",
+      "created_at": 1762238127000
     },
     {
       "id": 45812756,
       "title": "An eBPF Loophole: Using XDP for Egress Traffic",
       "link": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-      "score": 96,
+      "score": 161,
       "author": "loopholelabs",
       "created": "2025-11-04 16:26:09",
       "created_at": 1762273569000
     },
     {
-      "id": 45763262,
-      "title": "Learning from Failure to Tackle Hard Problems",
-      "link": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
-      "score": 16,
-      "author": "djoldman",
-      "created": "2025-10-30 18:18:40",
-      "created_at": 1761848320000
+      "id": 45823186,
+      "title": "Carice TC2 – A non-digital electric car",
+      "link": "https://www.caricecars.com/",
+      "score": 136,
+      "author": "RubenvanE",
+      "created": "2025-11-05 14:25:36",
+      "created_at": 1762352736000
     },
     {
       "id": 45822982,
       "title": "A P2P Vision for QUIC (2024)",
       "link": "https://seemann.io/posts/2024-10-26---p2p-quic/",
-      "score": 19,
+      "score": 67,
       "author": "mooreds",
       "created": "2025-11-05 14:06:22",
       "created_at": 1762351582000
-    },
-    {
-      "id": 45816853,
-      "title": "Mr TIFF",
-      "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 845,
-      "author": "speckx",
-      "created": "2025-11-04 22:57:12",
-      "created_at": 1762297032000
-    },
-    {
-      "id": 45822302,
-      "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
-      "link": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
-      "score": 156,
-      "author": "tosh",
-      "created": "2025-11-05 12:51:44",
-      "created_at": 1762347104000
-    },
-    {
-      "id": 45822559,
-      "title": "Radiant Computer",
-      "link": "https://radiant.computer",
-      "score": 68,
-      "author": "beardicus",
-      "created": "2025-11-05 13:22:35",
-      "created_at": 1762348955000
-    },
-    {
-      "id": 45761594,
-      "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
-      "link": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
-      "score": 155,
-      "author": "og_kalu",
-      "created": "2025-10-30 16:08:25",
-      "created_at": 1761840505000
-    },
-    {
-      "id": 45697414,
-      "title": "Parsing Chemistry",
-      "link": "https://re.factorcode.org/2025/10/parsing-chemistry.html",
-      "score": 30,
-      "author": "kencausey",
-      "created": "2025-10-24 18:07:53",
-      "created_at": 1761329273000
     }
   ],
   "code": 200,
