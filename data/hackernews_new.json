@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-04T20:13:17.026Z"
+    "lastUpdate": "2025-11-05T00:54:41.997Z"
   },
   "data": [
+    {
+      "id": 45816853,
+      "title": "Mr Tiff",
+      "link": "https://inventingthefuture.ghost.io/mr-tiff/",
+      "score": 111,
+      "author": "speckx",
+      "created": "2025-11-04 22:57:12",
+      "created_at": 1762297032000
+    },
+    {
+      "id": 45816879,
+      "title": "Patching 68K Software – SimpleText",
+      "link": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
+      "score": 37,
+      "author": "mmoogle",
+      "created": "2025-11-04 22:59:22",
+      "created_at": 1762297162000
+    },
+    {
+      "id": 45812024,
+      "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+      "score": 281,
+      "author": "canucker2016",
+      "created": "2025-11-04 15:23:14",
+      "created_at": 1762269794000
+    },
+    {
+      "id": 45761433,
+      "title": "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
+      "link": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
+      "score": 20,
+      "author": "dmarcos",
+      "created": "2025-10-30 15:53:21",
+      "created_at": 1761839601000
+    },
     {
       "id": 45812606,
       "title": "Pg_lake: Postgres with Iceberg and data lake access",
       "link": "https://github.com/Snowflake-Labs/pg_lake",
-      "score": 195,
+      "score": 264,
       "author": "plaur782",
       "created": "2025-11-04 16:12:27",
       "created_at": 1762272747000
     },
     {
-      "id": 45813343,
-      "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
-      "link": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-      "score": 74,
-      "author": "mukti",
-      "created": "2025-11-04 17:10:35",
-      "created_at": 1762276235000
-    },
-    {
-      "id": 45813767,
-      "title": "Codemaps: Understand Code, Before You Vibe It",
-      "link": "https://cognition.ai/blog/codemaps",
-      "score": 77,
-      "author": "janpio",
-      "created": "2025-11-04 17:47:09",
-      "created_at": 1762278429000
-    },
-    {
-      "id": 45811093,
-      "title": "Show HN: A CSS-Only Terrain Generator",
-      "link": "https://terra.layoutit.com",
-      "score": 212,
-      "author": "rofko",
-      "created": "2025-11-04 13:58:35",
-      "created_at": 1762264715000
-    },
-    {
       "id": 45734259,
       "title": "Whole Earth Index",
       "link": "https://wholeearth.info/",
-      "score": 28,
+      "score": 128,
       "author": "bookofjoe",
       "created": "2025-10-28 15:36:39",
       "created_at": 1761665799000
     },
     {
-      "id": 45813310,
-      "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
-      "link": "https://www.plexe.ai/",
-      "score": 42,
-      "author": "vaibhavdubey97",
-      "created": "2025-11-04 17:07:47",
-      "created_at": 1762276067000
+      "id": 45813767,
+      "title": "Codemaps: Understand Code, Before You Vibe It",
+      "link": "https://cognition.ai/blog/codemaps",
+      "score": 186,
+      "author": "janpio",
+      "created": "2025-11-04 17:47:09",
+      "created_at": 1762278429000
     },
     {
-      "id": 45813994,
-      "title": "We're open-sourcing the successor of Jupyter notebook",
-      "link": "https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook",
-      "score": 121,
-      "author": "zX41ZdbW",
-      "created": "2025-11-04 18:06:42",
-      "created_at": 1762279602000
+      "id": 45817167,
+      "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+      "link": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+      "score": 62,
+      "author": "SanjayMehta",
+      "created": "2025-11-04 23:35:27",
+      "created_at": 1762299327000
     },
     {
-      "id": 45747938,
-      "title": "Normalize Identifying Corporate Devices in Your Software",
-      "link": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
-      "score": 43,
-      "author": "Bogdanp",
-      "created": "2025-10-29 15:16:08",
-      "created_at": 1761750968000
+      "id": 45816191,
+      "title": "BlackRock's Larry Fink: \"Tokenization\", Digital IDs, & Social Credit",
+      "link": "https://thewinepress.substack.com/p/tokenization-blackrocks-larry-fink",
+      "score": 26,
+      "author": "sbuttgereit",
+      "created": "2025-11-04 21:39:32",
+      "created_at": 1762292372000
     },
     {
-      "id": 45809193,
-      "title": "What is a manifold?",
-      "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-      "score": 287,
-      "author": "isaacfrond",
-      "created": "2025-11-04 09:58:14",
-      "created_at": 1762250294000
-    },
-    {
-      "id": 45684564,
-      "title": "Recovering videos from my Sony camera that I stupidly deleted",
-      "link": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
-      "score": 49,
-      "author": "speckx",
-      "created": "2025-10-23 17:38:38",
-      "created_at": 1761241118000
+      "id": 45811093,
+      "title": "Show HN: A CSS-Only Terrain Generator",
+      "link": "https://terra.layoutit.com",
+      "score": 270,
+      "author": "rofko",
+      "created": "2025-11-04 13:58:35",
+      "created_at": 1762264715000
     }
   ],
   "code": 200,
