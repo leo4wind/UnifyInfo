@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-05T12:22:09.961Z"
+    "lastUpdate": "2025-11-05T16:14:55.695Z"
   },
   "data": [
+    {
+      "id": 45823141,
+      "title": "The Shadows Lurking in the Equations",
+      "link": "https://gods.art/articles/equation_shadows.html",
+      "score": 85,
+      "author": "calebm",
+      "created": "2025-11-05 14:21:13",
+      "created_at": 1762352473000
+    },
+    {
+      "id": 45823186,
+      "title": "Carice TC2 – A non-digital electric car",
+      "link": "https://www.caricecars.com/",
+      "score": 38,
+      "author": "RubenvanE",
+      "created": "2025-11-05 14:25:36",
+      "created_at": 1762352736000
+    },
+    {
+      "id": 45812756,
+      "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+      "link": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
+      "score": 96,
+      "author": "loopholelabs",
+      "created": "2025-11-04 16:26:09",
+      "created_at": 1762273569000
+    },
+    {
+      "id": 45763262,
+      "title": "Learning from Failure to Tackle Hard Problems",
+      "link": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
+      "score": 16,
+      "author": "djoldman",
+      "created": "2025-10-30 18:18:40",
+      "created_at": 1761848320000
+    },
+    {
+      "id": 45822982,
+      "title": "A P2P Vision for QUIC (2024)",
+      "link": "https://seemann.io/posts/2024-10-26---p2p-quic/",
+      "score": 19,
+      "author": "mooreds",
+      "created": "2025-11-05 14:06:22",
+      "created_at": 1762351582000
+    },
     {
       "id": 45816853,
       "title": "Mr TIFF",
       "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 670,
+      "score": 845,
       "author": "speckx",
       "created": "2025-11-04 22:57:12",
       "created_at": 1762297032000
     },
     {
+      "id": 45822302,
+      "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+      "link": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
+      "score": 156,
+      "author": "tosh",
+      "created": "2025-11-05 12:51:44",
+      "created_at": 1762347104000
+    },
+    {
+      "id": 45822559,
+      "title": "Radiant Computer",
+      "link": "https://radiant.computer",
+      "score": 68,
+      "author": "beardicus",
+      "created": "2025-11-05 13:22:35",
+      "created_at": 1762348955000
+    },
+    {
       "id": 45761594,
       "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
       "link": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
-      "score": 77,
+      "score": 155,
       "author": "og_kalu",
       "created": "2025-10-30 16:08:25",
       "created_at": 1761840505000
     },
     {
-      "id": 45822018,
-      "title": "YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations",
-      "link": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
-      "score": 25,
-      "author": "rzk",
-      "created": "2025-11-05 12:13:08",
-      "created_at": 1762344788000
-    },
-    {
-      "id": 45759839,
-      "title": "RISC-V takes first step toward international ISO/IEC standardization",
-      "link": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
-      "score": 167,
-      "author": "jrepinc",
-      "created": "2025-10-30 13:30:37",
-      "created_at": 1761831037000
-    },
-    {
-      "id": 45812024,
-      "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "score": 396,
-      "author": "canucker2016",
-      "created": "2025-11-04 15:23:14",
-      "created_at": 1762269794000
-    },
-    {
-      "id": 45733204,
-      "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
-      "link": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
-      "score": 102,
-      "author": "Roachma",
-      "created": "2025-10-28 14:17:04",
-      "created_at": 1761661024000
-    },
-    {
-      "id": 45818562,
-      "title": "Hypothesis: Property-Based Testing for Python",
-      "link": "https://hypothesis.readthedocs.io/en/latest/",
-      "score": 126,
-      "author": "lwhsiao",
-      "created": "2025-11-05 03:15:37",
-      "created_at": 1762312537000
-    },
-    {
-      "id": 45788385,
-      "title": "Intervaltree with Rust Back End",
-      "link": "https://github.com/Athe-kunal/intervaltree_rs",
-      "score": 19,
-      "author": "athekunal",
-      "created": "2025-11-02 07:04:59",
-      "created_at": 1762067099000
-    },
-    {
-      "id": 45817114,
-      "title": "Bluetui – A TUI for managing Bluetooth on Linux",
-      "link": "https://github.com/pythops/bluetui",
-      "score": 176,
-      "author": "birdculture",
-      "created": "2025-11-04 23:29:31",
-      "created_at": 1762298971000
+      "id": 45697414,
+      "title": "Parsing Chemistry",
+      "link": "https://re.factorcode.org/2025/10/parsing-chemistry.html",
+      "score": 30,
+      "author": "kencausey",
+      "created": "2025-10-24 18:07:53",
+      "created_at": 1761329273000
     }
   ],
   "code": 200,
