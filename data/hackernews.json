@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-05T08:16:00.884Z"
+    "lastUpdate": "2025-11-05T12:22:09.865Z"
   },
   "data": [
     {
-      "id": 45807775,
-      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-      "link": "",
-      "score": 601,
-      "author": "stillatit",
-      "created": "2025-11-04 05:53:02",
-      "created_at": 1762235582000
-    },
-    {
-      "id": 45797242,
-      "title": "Tiny electric motor can produce more than 1,000 horsepower",
-      "link": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
-      "score": 601,
-      "author": "chris_overseas",
-      "created": "2025-11-03 09:20:01",
-      "created_at": 1762161601000
-    },
-    {
-      "id": 45818421,
-      "title": "Zohran Mamdani wins the New York mayoral race",
-      "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
-      "score": 566,
-      "author": "jsheard",
-      "created": "2025-11-05 02:50:06",
-      "created_at": 1762311006000
-    },
-    {
       "id": 45816853,
-      "title": "Mr Tiff",
+      "title": "Mr TIFF",
       "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 506,
+      "score": 670,
       "author": "speckx",
       "created": "2025-11-04 22:57:12",
       "created_at": 1762297032000
     },
     {
+      "id": 45818421,
+      "title": "Zohran Mamdani wins the New York mayoral race",
+      "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "score": 642,
+      "author": "jsheard",
+      "created": "2025-11-05 02:50:06",
+      "created_at": 1762311006000
+    },
+    {
+      "id": 45807775,
+      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+      "link": "",
+      "score": 608,
+      "author": "stillatit",
+      "created": "2025-11-04 05:53:02",
+      "created_at": 1762235582000
+    },
+    {
       "id": 45804377,
       "title": "AI's Dial-Up Era",
       "link": "https://www.wreflection.com/p/ai-dial-up-era",
-      "score": 453,
+      "score": 455,
       "author": "nowflux",
       "created": "2025-11-03 21:01:09",
       "created_at": 1762203669000
@@ -55,7 +46,7 @@
       "id": 45798681,
       "title": "Why Nextcloud feels slow to use",
       "link": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
-      "score": 450,
+      "score": 452,
       "author": "rpgbr",
       "created": "2025-11-03 13:21:09",
       "created_at": 1762176069000
@@ -64,7 +55,7 @@
       "id": 45806263,
       "title": "You can't cURL a Border",
       "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "score": 447,
+      "score": 450,
       "author": "valzevul",
       "created": "2025-11-04 00:37:14",
       "created_at": 1762216634000
@@ -73,7 +64,7 @@
       "id": 45806903,
       "title": "My Truck Desk",
       "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "score": 431,
+      "score": 436,
       "author": "zdw",
       "created": "2025-11-04 02:37:01",
       "created_at": 1762223821000
@@ -82,10 +73,19 @@
       "id": 45798827,
       "title": "Google suspended my company's Google cloud account for the third time",
       "link": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
-      "score": 409,
+      "score": 410,
       "author": "agwa",
       "created": "2025-11-03 13:39:18",
       "created_at": 1762177158000
+    },
+    {
+      "id": 45812024,
+      "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+      "score": 396,
+      "author": "canucker2016",
+      "created": "2025-11-04 15:23:14",
+      "created_at": 1762269794000
     },
     {
       "id": 45800465,

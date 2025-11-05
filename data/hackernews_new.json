@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-05T08:16:01.045Z"
+    "lastUpdate": "2025-11-05T12:22:09.978Z"
   },
   "data": [
     {
       "id": 45816853,
-      "title": "Mr Tiff",
+      "title": "Mr TIFF",
       "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 506,
+      "score": 670,
       "author": "speckx",
       "created": "2025-11-04 22:57:12",
       "created_at": 1762297032000
     },
     {
-      "id": 45749833,
-      "title": "Developers are choosing older AI models, and the data explains why",
-      "link": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
-      "score": 22,
-      "author": "knes",
-      "created": "2025-10-29 17:08:28",
-      "created_at": 1761757708000
+      "id": 45761594,
+      "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+      "link": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
+      "score": 77,
+      "author": "og_kalu",
+      "created": "2025-10-30 16:08:25",
+      "created_at": 1761840505000
     },
     {
-      "id": 45818562,
-      "title": "Hypothesis: Property-Based Testing for Python",
-      "link": "https://hypothesis.readthedocs.io/en/latest/",
-      "score": 78,
-      "author": "lwhsiao",
-      "created": "2025-11-05 03:15:37",
-      "created_at": 1762312537000
+      "id": 45822018,
+      "title": "YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations",
+      "link": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
+      "score": 25,
+      "author": "rzk",
+      "created": "2025-11-05 12:13:08",
+      "created_at": 1762344788000
     },
     {
       "id": 45759839,
       "title": "RISC-V takes first step toward international ISO/IEC standardization",
       "link": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
-      "score": 104,
+      "score": 167,
       "author": "jrepinc",
       "created": "2025-10-30 13:30:37",
       "created_at": 1761831037000
     },
     {
       "id": 45812024,
-      "title": "This week in 1988, Robert Morris unleashed his eponymous worm upon the Internet",
+      "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "score": 362,
+      "score": 396,
       "author": "canucker2016",
       "created": "2025-11-04 15:23:14",
       "created_at": 1762269794000
     },
     {
-      "id": 45761433,
-      "title": "Apple’s Persona technology uses Gaussian splatting to create 3D facial scans",
-      "link": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
-      "score": 125,
-      "author": "dmarcos",
-      "created": "2025-10-30 15:53:21",
-      "created_at": 1761839601000
+      "id": 45733204,
+      "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+      "link": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
+      "score": 102,
+      "author": "Roachma",
+      "created": "2025-10-28 14:17:04",
+      "created_at": 1761661024000
+    },
+    {
+      "id": 45818562,
+      "title": "Hypothesis: Property-Based Testing for Python",
+      "link": "https://hypothesis.readthedocs.io/en/latest/",
+      "score": 126,
+      "author": "lwhsiao",
+      "created": "2025-11-05 03:15:37",
+      "created_at": 1762312537000
+    },
+    {
+      "id": 45788385,
+      "title": "Intervaltree with Rust Back End",
+      "link": "https://github.com/Athe-kunal/intervaltree_rs",
+      "score": 19,
+      "author": "athekunal",
+      "created": "2025-11-02 07:04:59",
+      "created_at": 1762067099000
     },
     {
       "id": 45817114,
       "title": "Bluetui – A TUI for managing Bluetooth on Linux",
       "link": "https://github.com/pythops/bluetui",
-      "score": 122,
+      "score": 176,
       "author": "birdculture",
       "created": "2025-11-04 23:29:31",
       "created_at": 1762298971000
-    },
-    {
-      "id": 45818471,
-      "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
-      "score": 23,
-      "author": "zdw",
-      "created": "2025-11-05 02:58:25",
-      "created_at": 1762311505000
-    },
-    {
-      "id": 45812606,
-      "title": "Pg_lake: Postgres with Iceberg and data lake access",
-      "link": "https://github.com/Snowflake-Labs/pg_lake",
-      "score": 323,
-      "author": "plaur782",
-      "created": "2025-11-04 16:12:27",
-      "created_at": 1762272747000
-    },
-    {
-      "id": 45816879,
-      "title": "Patching 68K Software – SimpleText",
-      "link": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
-      "score": 83,
-      "author": "mmoogle",
-      "created": "2025-11-04 22:59:22",
-      "created_at": 1762297162000
     }
   ],
   "code": 200,
