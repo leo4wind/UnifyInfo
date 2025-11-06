@@ -3,32 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-06T00:53:34.968Z"
+    "lastUpdate": "2025-11-06T04:17:38.033Z"
   },
   "data": [
+    {
+      "id": 45830770,
+      "title": "Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage",
+      "link": "https://support.mozilla.org/en-US/forums/contributors/717446",
+      "score": 167,
+      "author": "phantomathkg",
+      "created": "2025-11-06 02:38:53",
+      "created_at": 1762396733000
+    },
     {
       "id": 45827190,
       "title": "Solarpunk is happening in Africa",
       "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-      "score": 475,
+      "score": 619,
       "author": "JoiDegn",
       "created": "2025-11-05 20:00:40",
       "created_at": 1762372840000
     },
     {
-      "id": 45829594,
-      "title": "Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks",
-      "link": "https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/",
-      "score": 26,
-      "author": "tortilla",
-      "created": "2025-11-05 23:43:43",
-      "created_at": 1762386223000
+      "id": 45830829,
+      "title": "Rust's TUI Revolution",
+      "link": "https://ratatui.rs/showcase/apps/",
+      "score": 44,
+      "author": "AbuAssar",
+      "created": "2025-11-06 02:50:31",
+      "created_at": 1762397431000
+    },
+    {
+      "id": 45830223,
+      "title": "Recursive macros in C, demystified (once the ugly crying stops)",
+      "link": "https://h4x0r.org/big-mac-ro-attack/",
+      "score": 36,
+      "author": "eatonphil",
+      "created": "2025-11-06 01:09:18",
+      "created_at": 1762391358000
     },
     {
       "id": 45826266,
       "title": "Dillo, a multi-platform graphical web browser",
       "link": "https://github.com/dillo-browser/dillo",
-      "score": 214,
+      "score": 256,
       "author": "nazgulsenpai",
       "created": "2025-11-05 18:40:32",
       "created_at": 1762368032000
@@ -37,34 +55,16 @@
       "id": 45825965,
       "title": "ChatGPT terms disallow its use in providing legal and medical advice to others",
       "link": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
-      "score": 188,
+      "score": 245,
       "author": "randycupertino",
       "created": "2025-11-05 18:11:16",
       "created_at": 1762366276000
     },
     {
-      "id": 45826995,
-      "title": "New gel restores dental enamel and could revolutionise tooth repair",
-      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
-      "score": 291,
-      "author": "CGMthrowaway",
-      "created": "2025-11-05 19:44:49",
-      "created_at": 1762371889000
-    },
-    {
-      "id": 45826348,
-      "title": "The state of SIMD in Rust in 2025",
-      "link": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
-      "score": 144,
-      "author": "ashvardanian",
-      "created": "2025-11-05 18:45:57",
-      "created_at": 1762368357000
-    },
-    {
       "id": 45744038,
       "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
       "link": "https://blog.mozilla.org/en/firefox/profile-management/",
-      "score": 97,
+      "score": 161,
       "author": "darkwater",
       "created": "2025-10-29 08:10:58",
       "created_at": 1761725458000
@@ -73,28 +73,28 @@
       "id": 45824864,
       "title": "Why aren't smart people happier?",
       "link": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
-      "score": 163,
+      "score": 230,
       "author": "zdw",
       "created": "2025-11-05 16:32:43",
       "created_at": 1762360363000
     },
     {
-      "id": 45823831,
-      "title": "Ruby and Its Neighbors: Smalltalk",
-      "link": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
-      "score": 164,
-      "author": "jrochkind1",
-      "created": "2025-11-05 15:24:35",
-      "created_at": 1762356275000
+      "id": 45826995,
+      "title": "New gel restores dental enamel and could revolutionise tooth repair",
+      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+      "score": 377,
+      "author": "CGMthrowaway",
+      "created": "2025-11-05 19:44:49",
+      "created_at": 1762371889000
     },
     {
-      "id": 45827661,
-      "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
-      "link": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
-      "score": 54,
-      "author": "TMWNN",
-      "created": "2025-11-05 20:40:39",
-      "created_at": 1762375239000
+      "id": 45826348,
+      "title": "The state of SIMD in Rust in 2025",
+      "link": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
+      "score": 170,
+      "author": "ashvardanian",
+      "created": "2025-11-05 18:45:57",
+      "created_at": 1762368357000
     }
   ],
   "code": 200,

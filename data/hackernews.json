@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-06T00:53:34.826Z"
+    "lastUpdate": "2025-11-06T04:17:37.857Z"
   },
   "data": [
     {
       "id": 45816853,
       "title": "Mr TIFF",
       "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 977,
+      "score": 990,
       "author": "speckx",
       "created": "2025-11-04 22:57:12",
       "created_at": 1762297032000
@@ -19,7 +19,7 @@
       "id": 45818421,
       "title": "Zohran Mamdani wins the New York mayoral race",
       "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
-      "score": 766,
+      "score": 773,
       "author": "jsheard",
       "created": "2025-11-05 02:50:06",
       "created_at": 1762311006000
@@ -28,7 +28,7 @@
       "id": 45807775,
       "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
       "link": "",
-      "score": 622,
+      "score": 624,
       "author": "stillatit",
       "created": "2025-11-04 05:53:02",
       "created_at": 1762235582000
@@ -37,7 +37,7 @@
       "id": 45827190,
       "title": "Solarpunk is happening in Africa",
       "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-      "score": 475,
+      "score": 619,
       "author": "JoiDegn",
       "created": "2025-11-05 20:00:40",
       "created_at": 1762372840000
@@ -46,34 +46,16 @@
       "id": 45816041,
       "title": "I took all my projects off the cloud, saving thousands of dollars",
       "link": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
-      "score": 469,
+      "score": 482,
       "author": "sebnun",
       "created": "2025-11-04 21:22:15",
       "created_at": 1762291335000
     },
     {
-      "id": 45806263,
-      "title": "You can't cURL a Border",
-      "link": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "score": 462,
-      "author": "valzevul",
-      "created": "2025-11-04 00:37:14",
-      "created_at": 1762216634000
-    },
-    {
-      "id": 45806903,
-      "title": "My Truck Desk",
-      "link": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "score": 451,
-      "author": "zdw",
-      "created": "2025-11-04 02:37:01",
-      "created_at": 1762223821000
-    },
-    {
       "id": 45812024,
       "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "score": 422,
+      "score": 426,
       "author": "canucker2016",
       "created": "2025-11-04 15:23:14",
       "created_at": 1762269794000
@@ -82,7 +64,7 @@
       "id": 45822018,
       "title": "YouTube erased more than 700 videos documenting Israeli human rights violations",
       "link": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
-      "score": 389,
+      "score": 405,
       "author": "rzk",
       "created": "2025-11-05 12:13:08",
       "created_at": 1762344788000
@@ -91,10 +73,28 @@
       "id": 45820872,
       "title": "I’m worried that they put co-pilot in Excel",
       "link": "https://simonwillison.net/2025/Nov/5/brenda/",
-      "score": 381,
+      "score": 398,
       "author": "isaacfrond",
       "created": "2025-11-05 08:54:11",
       "created_at": 1762332851000
+    },
+    {
+      "id": 45813343,
+      "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+      "link": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+      "score": 378,
+      "author": "mukti",
+      "created": "2025-11-04 17:10:35",
+      "created_at": 1762276235000
+    },
+    {
+      "id": 45826995,
+      "title": "New gel restores dental enamel and could revolutionise tooth repair",
+      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+      "score": 377,
+      "author": "CGMthrowaway",
+      "created": "2025-11-05 19:44:49",
+      "created_at": 1762371889000
     }
   ],
   "code": 200,
