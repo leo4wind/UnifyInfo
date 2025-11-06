@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-06T16:14:58.568Z"
+    "lastUpdate": "2025-11-06T20:12:51.131Z"
   },
   "data": [
+    {
+      "id": 45836070,
+      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+      "score": 370,
+      "author": "nekofneko",
+      "created": "2025-11-06 15:06:06",
+      "created_at": 1762441566000
+    },
+    {
+      "id": 45837871,
+      "title": "Swift on FreeBSD Preview",
+      "link": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
+      "score": 110,
+      "author": "glhaynes",
+      "created": "2025-11-06 17:37:49",
+      "created_at": 1762450669000
+    },
+    {
+      "id": 45837342,
+      "title": "ICC ditches Microsoft 365 for openDesk",
+      "link": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
+      "score": 355,
+      "author": "vincvinc",
+      "created": "2025-11-06 16:57:55",
+      "created_at": 1762448275000
+    },
     {
       "id": 45824243,
       "title": "Open Source Implementation of Apple's Private Compute Cloud",
       "link": "https://github.com/openpcc/openpcc",
-      "score": 192,
+      "score": 300,
       "author": "adam_gyroscope",
       "created": "2025-11-05 15:52:27",
       "created_at": 1762357947000
     },
     {
+      "id": 45838564,
+      "title": "LLMs Encode How Difficult Problems Are",
+      "link": "https://arxiv.org/abs/2510.18147",
+      "score": 27,
+      "author": "stansApprentice",
+      "created": "2025-11-06 18:29:03",
+      "created_at": 1762453743000
+    },
+    {
+      "id": 45719090,
+      "title": "What if hard work felt easier?",
+      "link": "https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier",
+      "score": 33,
+      "author": "kiyanwang",
+      "created": "2025-10-27 09:55:32",
+      "created_at": 1761558932000
+    },
+    {
+      "id": 45837425,
+      "title": "The Parallel Search API",
+      "link": "https://parallel.ai/blog/introducing-parallel-search",
+      "score": 39,
+      "author": "lukaslevert",
+      "created": "2025-11-06 17:04:41",
+      "created_at": 1762448681000
+    },
+    {
+      "id": 45838540,
+      "title": "Show HN: TabPFN-2.5 – SOTA foundation model for tabular data",
+      "link": "https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report",
+      "score": 39,
+      "author": "onasta",
+      "created": "2025-11-06 18:26:53",
+      "created_at": 1762453613000
+    },
+    {
       "id": 45835083,
       "title": "I analyzed the lineups at the most popular nightclubs",
       "link": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
-      "score": 57,
+      "score": 119,
       "author": "kalli",
       "created": "2025-11-06 13:37:07",
       "created_at": 1762436227000
     },
     {
-      "id": 45830829,
-      "title": "Ratatui – App Showcase",
-      "link": "https://ratatui.rs/showcase/apps/",
-      "score": 580,
-      "author": "AbuAssar",
-      "created": "2025-11-06 02:50:31",
-      "created_at": 1762397431000
-    },
-    {
-      "id": 45826472,
-      "title": "Show HN: See chords as flags – Visual harmony of top composers on musescore",
-      "link": "https://rawl.rocks/",
-      "score": 58,
-      "author": "vitaly-pavlenko",
-      "created": "2025-11-05 18:57:09",
-      "created_at": 1762369029000
-    },
-    {
-      "id": 45833162,
-      "title": "Mathematical exploration and discovery at scale",
-      "link": "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/",
-      "score": 154,
-      "author": "nabla9",
-      "created": "2025-11-06 09:24:42",
-      "created_at": 1762421082000
-    },
-    {
-      "id": 45835123,
-      "title": "Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers",
-      "link": "https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/",
-      "score": 142,
-      "author": "iamnothere",
-      "created": "2025-11-06 13:41:14",
-      "created_at": 1762436474000
-    },
-    {
-      "id": 45786041,
-      "title": "How often does Python allocate?",
-      "link": "https://zackoverflow.dev/writing/how-often-does-python-allocate/",
-      "score": 29,
-      "author": "ingve",
-      "created": "2025-11-01 22:34:43",
-      "created_at": 1762036483000
-    },
-    {
-      "id": 45827190,
-      "title": "Solarpunk is happening in Africa",
-      "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-      "score": 1019,
-      "author": "JoiDegn",
-      "created": "2025-11-05 20:00:40",
-      "created_at": 1762372840000
-    },
-    {
-      "id": 45832341,
-      "title": "How I am deeply integrating Emacs",
-      "link": "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/",
-      "score": 153,
-      "author": "signa11",
-      "created": "2025-11-06 07:09:07",
-      "created_at": 1762412947000
-    },
-    {
-      "id": 45834303,
-      "title": "AI Slop vs. OSS Security",
-      "link": "https://devansh.bearblog.dev/ai-slop/",
-      "score": 134,
-      "author": "mooreds",
-      "created": "2025-11-06 12:05:12",
-      "created_at": 1762430712000
+      "id": 45836826,
+      "title": "FBI tries to unmask owner of archive.is",
+      "link": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
+      "score": 450,
+      "author": "Projectiboga",
+      "created": "2025-11-06 16:18:18",
+      "created_at": 1762445898000
     }
   ],
   "code": 200,
