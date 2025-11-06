@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-05T20:13:20.038Z"
+    "lastUpdate": "2025-11-06T00:53:34.968Z"
   },
   "data": [
     {
-      "id": 45826995,
-      "title": "New gel restores dental enamel and could revolutionise tooth repair",
-      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
-      "score": 68,
-      "author": "CGMthrowaway",
-      "created": "2025-11-05 19:44:49",
-      "created_at": 1762371889000
+      "id": 45827190,
+      "title": "Solarpunk is happening in Africa",
+      "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
+      "score": 475,
+      "author": "JoiDegn",
+      "created": "2025-11-05 20:00:40",
+      "created_at": 1762372840000
+    },
+    {
+      "id": 45829594,
+      "title": "Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks",
+      "link": "https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/",
+      "score": 26,
+      "author": "tortilla",
+      "created": "2025-11-05 23:43:43",
+      "created_at": 1762386223000
     },
     {
       "id": 45826266,
       "title": "Dillo, a multi-platform graphical web browser",
       "link": "https://github.com/dillo-browser/dillo",
-      "score": 73,
+      "score": 214,
       "author": "nazgulsenpai",
       "created": "2025-11-05 18:40:32",
       "created_at": 1762368032000
     },
     {
+      "id": 45825965,
+      "title": "ChatGPT terms disallow its use in providing legal and medical advice to others",
+      "link": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
+      "score": 188,
+      "author": "randycupertino",
+      "created": "2025-11-05 18:11:16",
+      "created_at": 1762366276000
+    },
+    {
+      "id": 45826995,
+      "title": "New gel restores dental enamel and could revolutionise tooth repair",
+      "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+      "score": 291,
+      "author": "CGMthrowaway",
+      "created": "2025-11-05 19:44:49",
+      "created_at": 1762371889000
+    },
+    {
       "id": 45826348,
       "title": "The state of SIMD in Rust in 2025",
       "link": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
-      "score": 45,
+      "score": 144,
       "author": "ashvardanian",
       "created": "2025-11-05 18:45:57",
       "created_at": 1762368357000
     },
     {
-      "id": 45826971,
-      "title": "Fiber reduces overall mortality by 23%",
-      "link": "https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/",
-      "score": 23,
-      "author": "brandonb",
-      "created": "2025-11-05 19:42:58",
-      "created_at": 1762371778000
+      "id": 45744038,
+      "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
+      "link": "https://blog.mozilla.org/en/firefox/profile-management/",
+      "score": 97,
+      "author": "darkwater",
+      "created": "2025-10-29 08:10:58",
+      "created_at": 1761725458000
+    },
+    {
+      "id": 45824864,
+      "title": "Why aren't smart people happier?",
+      "link": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+      "score": 163,
+      "author": "zdw",
+      "created": "2025-11-05 16:32:43",
+      "created_at": 1762360363000
     },
     {
       "id": 45823831,
       "title": "Ruby and Its Neighbors: Smalltalk",
       "link": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
-      "score": 121,
+      "score": 164,
       "author": "jrochkind1",
       "created": "2025-11-05 15:24:35",
       "created_at": 1762356275000
     },
     {
-      "id": 45823141,
-      "title": "The shadows lurking in the equations",
-      "link": "https://gods.art/articles/equation_shadows.html",
-      "score": 213,
-      "author": "calebm",
-      "created": "2025-11-05 14:21:13",
-      "created_at": 1762352473000
-    },
-    {
-      "id": 45807993,
-      "title": "I want a good parallel language [video]",
-      "link": "https://www.youtube.com/watch?v=0-eViUyPwso",
-      "score": 21,
-      "author": "raphlinus",
-      "created": "2025-11-04 06:35:27",
-      "created_at": 1762238127000
-    },
-    {
-      "id": 45812756,
-      "title": "An eBPF Loophole: Using XDP for Egress Traffic",
-      "link": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-      "score": 161,
-      "author": "loopholelabs",
-      "created": "2025-11-04 16:26:09",
-      "created_at": 1762273569000
-    },
-    {
-      "id": 45823186,
-      "title": "Carice TC2 – A non-digital electric car",
-      "link": "https://www.caricecars.com/",
-      "score": 136,
-      "author": "RubenvanE",
-      "created": "2025-11-05 14:25:36",
-      "created_at": 1762352736000
-    },
-    {
-      "id": 45822982,
-      "title": "A P2P Vision for QUIC (2024)",
-      "link": "https://seemann.io/posts/2024-10-26---p2p-quic/",
-      "score": 67,
-      "author": "mooreds",
-      "created": "2025-11-05 14:06:22",
-      "created_at": 1762351582000
+      "id": 45827661,
+      "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
+      "link": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
+      "score": 54,
+      "author": "TMWNN",
+      "created": "2025-11-05 20:40:39",
+      "created_at": 1762375239000
     }
   ],
   "code": 200,
