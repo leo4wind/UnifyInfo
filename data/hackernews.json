@@ -3,59 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-06T12:22:00.644Z"
+    "lastUpdate": "2025-11-06T16:14:58.426Z"
   },
   "data": [
-    {
-      "id": 45816853,
-      "title": "Mr TIFF",
-      "link": "https://inventingthefuture.ghost.io/mr-tiff/",
-      "score": 1006,
-      "author": "speckx",
-      "created": "2025-11-04 22:57:12",
-      "created_at": 1762297032000
-    },
     {
       "id": 45827190,
       "title": "Solarpunk is happening in Africa",
       "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-      "score": 893,
+      "score": 1019,
       "author": "JoiDegn",
       "created": "2025-11-05 20:00:40",
       "created_at": 1762372840000
     },
     {
-      "id": 45818421,
-      "title": "Zohran Mamdani wins the New York mayoral race",
-      "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
-      "score": 784,
-      "author": "jsheard",
-      "created": "2025-11-05 02:50:06",
-      "created_at": 1762311006000
+      "id": 45816853,
+      "title": "Mr TIFF",
+      "link": "https://inventingthefuture.ghost.io/mr-tiff/",
+      "score": 1014,
+      "author": "speckx",
+      "created": "2025-11-04 22:57:12",
+      "created_at": 1762297032000
     },
     {
       "id": 45830770,
       "title": "End of Japanese community",
       "link": "https://support.mozilla.org/en-US/forums/contributors/717446",
-      "score": 652,
+      "score": 794,
       "author": "phantomathkg",
       "created": "2025-11-06 02:38:53",
       "created_at": 1762396733000
     },
     {
+      "id": 45818421,
+      "title": "Zohran Mamdani wins the New York mayoral race",
+      "link": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "score": 793,
+      "author": "jsheard",
+      "created": "2025-11-05 02:50:06",
+      "created_at": 1762311006000
+    },
+    {
       "id": 45826995,
       "title": "New gel restores dental enamel and could revolutionise tooth repair",
       "link": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
-      "score": 519,
+      "score": 587,
       "author": "CGMthrowaway",
       "created": "2025-11-05 19:44:49",
       "created_at": 1762371889000
     },
     {
+      "id": 45830829,
+      "title": "Ratatui – App Showcase",
+      "link": "https://ratatui.rs/showcase/apps/",
+      "score": 580,
+      "author": "AbuAssar",
+      "created": "2025-11-06 02:50:31",
+      "created_at": 1762397431000
+    },
+    {
       "id": 45816041,
       "title": "I took all my projects off the cloud, saving thousands of dollars",
       "link": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
-      "score": 499,
+      "score": 502,
       "author": "sebnun",
       "created": "2025-11-04 21:22:15",
       "created_at": 1762291335000
@@ -64,7 +73,7 @@
       "id": 45815419,
       "title": "I was right about dishwasher pods and now I can prove it [video]",
       "link": "https://www.youtube.com/watch?v=DAX2_mPr9W8",
-      "score": 468,
+      "score": 498,
       "author": "hnaccount_rng",
       "created": "2025-11-04 20:16:45",
       "created_at": 1762287405000
@@ -73,28 +82,19 @@
       "id": 45820872,
       "title": "I’m worried that they put co-pilot in Excel",
       "link": "https://simonwillison.net/2025/Nov/5/brenda/",
-      "score": 440,
+      "score": 454,
       "author": "isaacfrond",
       "created": "2025-11-05 08:54:11",
       "created_at": 1762332851000
     },
     {
-      "id": 45812024,
-      "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "score": 429,
-      "author": "canucker2016",
-      "created": "2025-11-04 15:23:14",
-      "created_at": 1762269794000
-    },
-    {
-      "id": 45822018,
-      "title": "YouTube erased more than 700 videos documenting Israeli human rights violations",
-      "link": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
-      "score": 427,
-      "author": "rzk",
-      "created": "2025-11-05 12:13:08",
-      "created_at": 1762344788000
+      "id": 45824864,
+      "title": "Why aren't smart people happier?",
+      "link": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+      "score": 446,
+      "author": "zdw",
+      "created": "2025-11-05 16:32:43",
+      "created_at": 1762360363000
     }
   ],
   "code": 200,

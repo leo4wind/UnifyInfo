@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-06T12:22:00.809Z"
+    "lastUpdate": "2025-11-06T16:14:58.646Z"
   },
   "data": [
     {
-      "id": 45833734,
-      "title": "80year old grandmother becomes oldest woman to finish Ironman World Championship",
-      "link": "https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/",
-      "score": 52,
-      "author": "austinallegro",
-      "created": "2025-11-06 10:47:51",
-      "created_at": 1762426071000
+      "id": 45824243,
+      "title": "Open Source Implementation of Apple's Private Compute Cloud",
+      "link": "https://github.com/openpcc/openpcc",
+      "score": 192,
+      "author": "adam_gyroscope",
+      "created": "2025-11-05 15:52:27",
+      "created_at": 1762357947000
     },
     {
-      "id": 45833162,
-      "title": "Mathematical Exploration and Discovery at Scale",
-      "link": "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/",
-      "score": 74,
-      "author": "nabla9",
-      "created": "2025-11-06 09:24:42",
-      "created_at": 1762421082000
-    },
-    {
-      "id": 45833811,
-      "title": "Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell",
-      "link": "https://github.com/matisojka/qqqa",
-      "score": 24,
-      "author": "iagooar",
-      "created": "2025-11-06 10:59:42",
-      "created_at": 1762426782000
+      "id": 45835083,
+      "title": "I analyzed the lineups at the most popular nightclubs",
+      "link": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
+      "score": 57,
+      "author": "kalli",
+      "created": "2025-11-06 13:37:07",
+      "created_at": 1762436227000
     },
     {
       "id": 45830829,
       "title": "Ratatui – App Showcase",
       "link": "https://ratatui.rs/showcase/apps/",
-      "score": 414,
+      "score": 580,
       "author": "AbuAssar",
       "created": "2025-11-06 02:50:31",
       "created_at": 1762397431000
     },
     {
+      "id": 45826472,
+      "title": "Show HN: See chords as flags – Visual harmony of top composers on musescore",
+      "link": "https://rawl.rocks/",
+      "score": 58,
+      "author": "vitaly-pavlenko",
+      "created": "2025-11-05 18:57:09",
+      "created_at": 1762369029000
+    },
+    {
+      "id": 45833162,
+      "title": "Mathematical exploration and discovery at scale",
+      "link": "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/",
+      "score": 154,
+      "author": "nabla9",
+      "created": "2025-11-06 09:24:42",
+      "created_at": 1762421082000
+    },
+    {
+      "id": 45835123,
+      "title": "Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers",
+      "link": "https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/",
+      "score": 142,
+      "author": "iamnothere",
+      "created": "2025-11-06 13:41:14",
+      "created_at": 1762436474000
+    },
+    {
+      "id": 45786041,
+      "title": "How often does Python allocate?",
+      "link": "https://zackoverflow.dev/writing/how-often-does-python-allocate/",
+      "score": 29,
+      "author": "ingve",
+      "created": "2025-11-01 22:34:43",
+      "created_at": 1762036483000
+    },
+    {
       "id": 45827190,
       "title": "Solarpunk is happening in Africa",
       "link": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-      "score": 893,
+      "score": 1019,
       "author": "JoiDegn",
       "created": "2025-11-05 20:00:40",
       "created_at": 1762372840000
     },
     {
-      "id": 45832803,
-      "title": "What the hell have you built",
-      "link": "https://wthhyb.sacha.house/",
-      "score": 232,
-      "author": "sachahjkl",
-      "created": "2025-11-06 08:23:46",
-      "created_at": 1762417426000
+      "id": 45832341,
+      "title": "How I am deeply integrating Emacs",
+      "link": "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/",
+      "score": 153,
+      "author": "signa11",
+      "created": "2025-11-06 07:09:07",
+      "created_at": 1762412947000
     },
     {
-      "id": 45826266,
-      "title": "Dillo, a multi-platform graphical web browser",
-      "link": "https://github.com/dillo-browser/dillo",
-      "score": 350,
-      "author": "nazgulsenpai",
-      "created": "2025-11-05 18:40:32",
-      "created_at": 1762368032000
-    },
-    {
-      "id": 45830770,
-      "title": "End of Japanese community",
-      "link": "https://support.mozilla.org/en-US/forums/contributors/717446",
-      "score": 652,
-      "author": "phantomathkg",
-      "created": "2025-11-06 02:38:53",
-      "created_at": 1762396733000
-    },
-    {
-      "id": 45825965,
-      "title": "ChatGPT terms disallow its use in providing legal and medical advice to others",
-      "link": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
-      "score": 318,
-      "author": "randycupertino",
-      "created": "2025-11-05 18:11:16",
-      "created_at": 1762366276000
-    },
-    {
-      "id": 45744038,
-      "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
-      "link": "https://blog.mozilla.org/en/firefox/profile-management/",
-      "score": 280,
-      "author": "darkwater",
-      "created": "2025-10-29 08:10:58",
-      "created_at": 1761725458000
+      "id": 45834303,
+      "title": "AI Slop vs. OSS Security",
+      "link": "https://devansh.bearblog.dev/ai-slop/",
+      "score": 134,
+      "author": "mooreds",
+      "created": "2025-11-06 12:05:12",
+      "created_at": 1762430712000
     }
   ],
   "code": 200,
