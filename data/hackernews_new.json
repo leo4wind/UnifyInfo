@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-07T00:53:25.732Z"
+    "lastUpdate": "2025-11-07T04:13:59.552Z"
   },
   "data": [
     {
       "id": 45840088,
       "title": "You should write an agent",
       "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 225,
+      "score": 450,
       "author": "tabletcorry",
       "created": "2025-11-06 20:37:06",
       "created_at": 1762461426000
     },
     {
-      "id": 45839901,
-      "title": "Two billion email addresses were exposed",
-      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 305,
-      "author": "esnard",
-      "created": "2025-11-06 20:20:23",
-      "created_at": 1762460423000
-    },
-    {
-      "id": 45836070,
-      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 555,
-      "author": "nekofneko",
-      "created": "2025-11-06 15:06:06",
-      "created_at": 1762441566000
+      "id": 45842263,
+      "title": "Scientists find ways to boost memory in aging brains",
+      "link": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
+      "score": 77,
+      "author": "stevenjgarner",
+      "created": "2025-11-07 00:22:53",
+      "created_at": 1762474973000
     },
     {
       "id": 45841262,
       "title": "Game design is simple",
       "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 71,
+      "score": 172,
       "author": "vrnvu",
       "created": "2025-11-06 22:24:23",
       "created_at": 1762467863000
     },
     {
+      "id": 45842494,
+      "title": "A Note on Fil-C",
+      "link": "https://graydon2.dreamwidth.org/320265.html",
+      "score": 71,
+      "author": "signa11",
+      "created": "2025-11-07 00:59:58",
+      "created_at": 1762477198000
+    },
+    {
+      "id": 45836070,
+      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+      "score": 639,
+      "author": "nekofneko",
+      "created": "2025-11-06 15:06:06",
+      "created_at": 1762441566000
+    },
+    {
+      "id": 45839901,
+      "title": "Two billion email addresses were exposed",
+      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "score": 367,
+      "author": "esnard",
+      "created": "2025-11-06 20:20:23",
+      "created_at": 1762460423000
+    },
+    {
+      "id": 45843146,
+      "title": "A Fond Farewell from Farmers' Almanac",
+      "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+      "score": 21,
+      "author": "erhuve",
+      "created": "2025-11-07 03:01:32",
+      "created_at": 1762484492000
+    },
+    {
       "id": 45825733,
       "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
       "link": "https://book.sv",
-      "score": 203,
+      "score": 290,
       "author": "costco",
       "created": "2025-11-05 17:50:45",
       "created_at": 1762365045000
     },
     {
+      "id": 45843120,
+      "title": "A prvalue is not a temporary",
+      "link": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
+      "score": 10,
+      "author": "ingve",
+      "created": "2025-11-07 02:57:02",
+      "created_at": 1762484222000
+    },
+    {
       "id": 45840200,
-      "title": "Universe's expansion 'is now slowing, not speeding up'",
+      "title": "Analysis indicates that the universe’s expansion is not accelerating",
       "link": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
-      "score": 78,
+      "score": 118,
       "author": "chrka",
       "created": "2025-11-06 20:45:39",
       "created_at": 1762461939000
-    },
-    {
-      "id": 45837871,
-      "title": "Swift on FreeBSD Preview",
-      "link": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
-      "score": 174,
-      "author": "glhaynes",
-      "created": "2025-11-06 17:37:49",
-      "created_at": 1762450669000
-    },
-    {
-      "id": 45824243,
-      "title": "Open Source Implementation of Apple's Private Compute Cloud",
-      "link": "https://github.com/openpcc/openpcc",
-      "score": 346,
-      "author": "adam_gyroscope",
-      "created": "2025-11-05 15:52:27",
-      "created_at": 1762357947000
-    },
-    {
-      "id": 45838564,
-      "title": "LLMs encode how difficult problems are",
-      "link": "https://arxiv.org/abs/2510.18147",
-      "score": 90,
-      "author": "stansApprentice",
-      "created": "2025-11-06 18:29:03",
-      "created_at": 1762453743000
-    },
-    {
-      "id": 45837425,
-      "title": "The Parallel Search API",
-      "link": "https://parallel.ai/blog/introducing-parallel-search",
-      "score": 84,
-      "author": "lukaslevert",
-      "created": "2025-11-06 17:04:41",
-      "created_at": 1762448681000
     }
   ],
   "code": 200,
