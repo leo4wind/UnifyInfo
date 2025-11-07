@@ -3,23 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-07T08:15:55.971Z"
+    "lastUpdate": "2025-11-07T12:21:30.682Z"
   },
   "data": [
     {
       "id": 45843948,
       "title": "Leaving Meta and PyTorch",
       "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "score": 159,
+      "score": 351,
       "author": "saikatsg",
       "created": "2025-11-07 06:14:50",
       "created_at": 1762496090000
     },
     {
       "id": 45843146,
-      "title": "A Fond Farewell from Farmers' Almanac",
+      "title": "A Fond Farewell",
       "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "score": 192,
+      "score": 275,
       "author": "erhuve",
       "created": "2025-11-07 03:01:32",
       "created_at": 1762484492000
@@ -28,25 +28,16 @@
       "id": 45840088,
       "title": "You should write an agent",
       "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 618,
+      "score": 744,
       "author": "tabletcorry",
       "created": "2025-11-06 20:37:06",
       "created_at": 1762461426000
     },
     {
-      "id": 45844197,
-      "title": "Lessons from Growing a Piracy Streaming Site",
-      "link": "https://prison.josh.mn/lessons",
-      "score": 14,
-      "author": "zuhayeer",
-      "created": "2025-11-07 07:09:30",
-      "created_at": 1762499370000
-    },
-    {
       "id": 45839901,
       "title": "Two billion email addresses were exposed",
       "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 432,
+      "score": 497,
       "author": "esnard",
       "created": "2025-11-06 20:20:23",
       "created_at": 1762460423000
@@ -55,37 +46,46 @@
       "id": 45836070,
       "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 716,
+      "score": 777,
       "author": "nekofneko",
       "created": "2025-11-06 15:06:06",
       "created_at": 1762441566000
     },
     {
+      "id": 45786490,
+      "title": "Text case changes the size of QR codes",
+      "link": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
+      "score": 62,
+      "author": "ibobev",
+      "created": "2025-11-01 23:34:51",
+      "created_at": 1762040091000
+    },
+    {
+      "id": 45844197,
+      "title": "Lessons from Growing a Piracy Streaming Site",
+      "link": "https://prison.josh.mn/lessons",
+      "score": 157,
+      "author": "zuhayeer",
+      "created": "2025-11-07 07:09:30",
+      "created_at": 1762499370000
+    },
+    {
+      "id": 45809835,
+      "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
+      "link": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view",
+      "score": 20,
+      "author": "ndhandala",
+      "created": "2025-11-04 11:42:10",
+      "created_at": 1762256530000
+    },
+    {
       "id": 45841262,
       "title": "Game design is simple",
       "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 260,
+      "score": 334,
       "author": "vrnvu",
       "created": "2025-11-06 22:24:23",
       "created_at": 1762467863000
-    },
-    {
-      "id": 45825733,
-      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
-      "link": "https://book.sv",
-      "score": 373,
-      "author": "costco",
-      "created": "2025-11-05 17:50:45",
-      "created_at": 1762365045000
-    },
-    {
-      "id": 45842494,
-      "title": "A Note on Fil-C",
-      "link": "https://graydon2.dreamwidth.org/320265.html",
-      "score": 146,
-      "author": "signa11",
-      "created": "2025-11-07 00:59:58",
-      "created_at": 1762477198000
     }
   ],
   "code": 200,
