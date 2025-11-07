@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-06T20:12:57.719Z"
+    "lastUpdate": "2025-11-07T00:53:31.258Z"
   },
   "data": [
+    {
+      "zqdm": "001233",
+      "zqjc": "海安集团",
+      "sgdm": "001233",
+      "fxsl": 46493334,
+      "swfxsl": 14877500,
+      "sgsx": 14500,
+      "dgsz": 145000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-11-14",
+      "zqgbrq": "2025-11-18",
+      "zqjkrq": "2025-11-18",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 26.33,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "巨型全钢工程机械子午线轮胎的研发、生产与销售,以及矿用轮胎运营管理业务"
+    },
     {
       "zqdm": "688727",
       "zqjc": "恒坤新材",
@@ -99,5 +122,5 @@
       "zyyw": "专业从事有色金属矿产资源检验检测技术研发、技术服务及仪器研发,业务涵盖矿石及矿产品、冶炼产品、环境样品、再生资源、先进材料、选冶药剂检验检测,检验检测技术研发及标准化、技术推广、高端分析仪器研发等领域。"
     }
   ],
-  "total": 4
+  "total": 5
 }

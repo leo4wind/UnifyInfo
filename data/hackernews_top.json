@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-06T20:12:51.131Z"
+    "lastUpdate": "2025-11-07T00:53:25.663Z"
   },
   "data": [
+    {
+      "id": 45840088,
+      "title": "You should write an agent",
+      "link": "https://fly.io/blog/everyone-write-an-agent/",
+      "score": 225,
+      "author": "tabletcorry",
+      "created": "2025-11-06 20:37:06",
+      "created_at": 1762461426000
+    },
+    {
+      "id": 45839901,
+      "title": "Two billion email addresses were exposed",
+      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "score": 305,
+      "author": "esnard",
+      "created": "2025-11-06 20:20:23",
+      "created_at": 1762460423000
+    },
     {
       "id": 45836070,
       "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 370,
+      "score": 555,
       "author": "nekofneko",
       "created": "2025-11-06 15:06:06",
       "created_at": 1762441566000
     },
     {
+      "id": 45841262,
+      "title": "Game design is simple",
+      "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+      "score": 71,
+      "author": "vrnvu",
+      "created": "2025-11-06 22:24:23",
+      "created_at": 1762467863000
+    },
+    {
+      "id": 45825733,
+      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
+      "link": "https://book.sv",
+      "score": 203,
+      "author": "costco",
+      "created": "2025-11-05 17:50:45",
+      "created_at": 1762365045000
+    },
+    {
+      "id": 45840200,
+      "title": "Universe's expansion 'is now slowing, not speeding up'",
+      "link": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
+      "score": 78,
+      "author": "chrka",
+      "created": "2025-11-06 20:45:39",
+      "created_at": 1762461939000
+    },
+    {
       "id": 45837871,
       "title": "Swift on FreeBSD Preview",
       "link": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
-      "score": 110,
+      "score": 174,
       "author": "glhaynes",
       "created": "2025-11-06 17:37:49",
       "created_at": 1762450669000
     },
     {
-      "id": 45837342,
-      "title": "ICC ditches Microsoft 365 for openDesk",
-      "link": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
-      "score": 355,
-      "author": "vincvinc",
-      "created": "2025-11-06 16:57:55",
-      "created_at": 1762448275000
-    },
-    {
       "id": 45824243,
       "title": "Open Source Implementation of Apple's Private Compute Cloud",
       "link": "https://github.com/openpcc/openpcc",
-      "score": 300,
+      "score": 346,
       "author": "adam_gyroscope",
       "created": "2025-11-05 15:52:27",
       "created_at": 1762357947000
     },
     {
       "id": 45838564,
-      "title": "LLMs Encode How Difficult Problems Are",
+      "title": "LLMs encode how difficult problems are",
       "link": "https://arxiv.org/abs/2510.18147",
-      "score": 27,
+      "score": 90,
       "author": "stansApprentice",
       "created": "2025-11-06 18:29:03",
       "created_at": 1762453743000
     },
     {
-      "id": 45719090,
-      "title": "What if hard work felt easier?",
-      "link": "https://jeanhsu.substack.com/p/what-if-hard-work-felt-easier",
-      "score": 33,
-      "author": "kiyanwang",
-      "created": "2025-10-27 09:55:32",
-      "created_at": 1761558932000
-    },
-    {
       "id": 45837425,
       "title": "The Parallel Search API",
       "link": "https://parallel.ai/blog/introducing-parallel-search",
-      "score": 39,
+      "score": 84,
       "author": "lukaslevert",
       "created": "2025-11-06 17:04:41",
       "created_at": 1762448681000
-    },
-    {
-      "id": 45838540,
-      "title": "Show HN: TabPFN-2.5 – SOTA foundation model for tabular data",
-      "link": "https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report",
-      "score": 39,
-      "author": "onasta",
-      "created": "2025-11-06 18:26:53",
-      "created_at": 1762453613000
-    },
-    {
-      "id": 45835083,
-      "title": "I analyzed the lineups at the most popular nightclubs",
-      "link": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
-      "score": 119,
-      "author": "kalli",
-      "created": "2025-11-06 13:37:07",
-      "created_at": 1762436227000
-    },
-    {
-      "id": 45836826,
-      "title": "FBI tries to unmask owner of archive.is",
-      "link": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
-      "score": 450,
-      "author": "Projectiboga",
-      "created": "2025-11-06 16:18:18",
-      "created_at": 1762445898000
     }
   ],
   "code": 200,
