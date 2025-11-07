@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-07T04:13:59.517Z"
+    "lastUpdate": "2025-11-07T08:15:55.900Z"
   },
   "data": [
     {
-      "id": 45840088,
-      "title": "You should write an agent",
-      "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 450,
-      "author": "tabletcorry",
-      "created": "2025-11-06 20:37:06",
-      "created_at": 1762461426000
-    },
-    {
-      "id": 45842263,
-      "title": "Scientists find ways to boost memory in aging brains",
-      "link": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
-      "score": 77,
-      "author": "stevenjgarner",
-      "created": "2025-11-07 00:22:53",
-      "created_at": 1762474973000
-    },
-    {
-      "id": 45841262,
-      "title": "Game design is simple",
-      "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 172,
-      "author": "vrnvu",
-      "created": "2025-11-06 22:24:23",
-      "created_at": 1762467863000
-    },
-    {
-      "id": 45842494,
-      "title": "A Note on Fil-C",
-      "link": "https://graydon2.dreamwidth.org/320265.html",
-      "score": 71,
-      "author": "signa11",
-      "created": "2025-11-07 00:59:58",
-      "created_at": 1762477198000
-    },
-    {
-      "id": 45836070,
-      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 639,
-      "author": "nekofneko",
-      "created": "2025-11-06 15:06:06",
-      "created_at": 1762441566000
-    },
-    {
-      "id": 45839901,
-      "title": "Two billion email addresses were exposed",
-      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 367,
-      "author": "esnard",
-      "created": "2025-11-06 20:20:23",
-      "created_at": 1762460423000
+      "id": 45843948,
+      "title": "Leaving Meta and PyTorch",
+      "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
+      "score": 159,
+      "author": "saikatsg",
+      "created": "2025-11-07 06:14:50",
+      "created_at": 1762496090000
     },
     {
       "id": 45843146,
       "title": "A Fond Farewell from Farmers' Almanac",
       "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "score": 21,
+      "score": 192,
       "author": "erhuve",
       "created": "2025-11-07 03:01:32",
       "created_at": 1762484492000
     },
     {
+      "id": 45840088,
+      "title": "You should write an agent",
+      "link": "https://fly.io/blog/everyone-write-an-agent/",
+      "score": 618,
+      "author": "tabletcorry",
+      "created": "2025-11-06 20:37:06",
+      "created_at": 1762461426000
+    },
+    {
+      "id": 45844197,
+      "title": "Lessons from Growing a Piracy Streaming Site",
+      "link": "https://prison.josh.mn/lessons",
+      "score": 14,
+      "author": "zuhayeer",
+      "created": "2025-11-07 07:09:30",
+      "created_at": 1762499370000
+    },
+    {
+      "id": 45839901,
+      "title": "Two billion email addresses were exposed",
+      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "score": 432,
+      "author": "esnard",
+      "created": "2025-11-06 20:20:23",
+      "created_at": 1762460423000
+    },
+    {
+      "id": 45836070,
+      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+      "score": 716,
+      "author": "nekofneko",
+      "created": "2025-11-06 15:06:06",
+      "created_at": 1762441566000
+    },
+    {
+      "id": 45841262,
+      "title": "Game design is simple",
+      "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+      "score": 260,
+      "author": "vrnvu",
+      "created": "2025-11-06 22:24:23",
+      "created_at": 1762467863000
+    },
+    {
       "id": 45825733,
       "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
       "link": "https://book.sv",
-      "score": 290,
+      "score": 373,
       "author": "costco",
       "created": "2025-11-05 17:50:45",
       "created_at": 1762365045000
     },
     {
-      "id": 45843120,
-      "title": "A prvalue is not a temporary",
-      "link": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
-      "score": 10,
-      "author": "ingve",
-      "created": "2025-11-07 02:57:02",
-      "created_at": 1762484222000
-    },
-    {
-      "id": 45840200,
-      "title": "Analysis indicates that the universe’s expansion is not accelerating",
-      "link": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
-      "score": 118,
-      "author": "chrka",
-      "created": "2025-11-06 20:45:39",
-      "created_at": 1762461939000
+      "id": 45842494,
+      "title": "A Note on Fil-C",
+      "link": "https://graydon2.dreamwidth.org/320265.html",
+      "score": 146,
+      "author": "signa11",
+      "created": "2025-11-07 00:59:58",
+      "created_at": 1762477198000
     }
   ],
   "code": 200,
