@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-07T12:21:30.682Z"
+    "lastUpdate": "2025-11-07T16:11:47.110Z"
   },
   "data": [
     {
       "id": 45843948,
       "title": "Leaving Meta and PyTorch",
       "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "score": 351,
+      "score": 518,
       "author": "saikatsg",
       "created": "2025-11-07 06:14:50",
       "created_at": 1762496090000
@@ -19,73 +19,82 @@
       "id": 45843146,
       "title": "A Fond Farewell",
       "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "score": 275,
+      "score": 412,
       "author": "erhuve",
       "created": "2025-11-07 03:01:32",
       "created_at": 1762484492000
     },
     {
+      "id": 45846090,
+      "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
+      "link": "https://openmw.org/2025/openmw-0-50-0-released/",
+      "score": 114,
+      "author": "agluszak",
+      "created": "2025-11-07 13:25:27",
+      "created_at": 1762521927000
+    },
+    {
+      "id": 45845800,
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "link": "https://arxiv.org/abs/2510.24256",
+      "score": 30,
+      "author": "andy12_",
+      "created": "2025-11-07 12:43:49",
+      "created_at": 1762519429000
+    },
+    {
+      "id": 45788194,
+      "title": "PyTorch Helion",
+      "link": "https://pytorch.org/blog/helion/",
+      "score": 71,
+      "author": "jarbus",
+      "created": "2025-11-02 06:21:37",
+      "created_at": 1762064497000
+    },
+    {
+      "id": 45846517,
+      "title": "I Love OCaml",
+      "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
+      "score": 14,
+      "author": "art-w",
+      "created": "2025-11-07 14:05:49",
+      "created_at": 1762524349000
+    },
+    {
+      "id": 45845772,
+      "title": "Meta projected 10% of 2024 revenue came from scams",
+      "link": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+      "score": 296,
+      "author": "donohoe",
+      "created": "2025-11-07 12:39:54",
+      "created_at": 1762519194000
+    },
+    {
       "id": 45840088,
       "title": "You should write an agent",
       "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 744,
+      "score": 863,
       "author": "tabletcorry",
       "created": "2025-11-06 20:37:06",
       "created_at": 1762461426000
     },
     {
-      "id": 45839901,
-      "title": "Two billion email addresses were exposed",
-      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 497,
-      "author": "esnard",
-      "created": "2025-11-06 20:20:23",
-      "created_at": 1762460423000
+      "id": 45789143,
+      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
+      "link": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
+      "score": 13,
+      "author": "rpunkfu",
+      "created": "2025-11-02 10:00:07",
+      "created_at": 1762077607000
     },
     {
-      "id": 45836070,
-      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-      "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 777,
-      "author": "nekofneko",
-      "created": "2025-11-06 15:06:06",
-      "created_at": 1762441566000
-    },
-    {
-      "id": 45786490,
-      "title": "Text case changes the size of QR codes",
-      "link": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
-      "score": 62,
-      "author": "ibobev",
-      "created": "2025-11-01 23:34:51",
-      "created_at": 1762040091000
-    },
-    {
-      "id": 45844197,
-      "title": "Lessons from Growing a Piracy Streaming Site",
-      "link": "https://prison.josh.mn/lessons",
-      "score": 157,
-      "author": "zuhayeer",
-      "created": "2025-11-07 07:09:30",
-      "created_at": 1762499370000
-    },
-    {
-      "id": 45809835,
-      "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
-      "link": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view",
-      "score": 20,
-      "author": "ndhandala",
-      "created": "2025-11-04 11:42:10",
-      "created_at": 1762256530000
-    },
-    {
-      "id": 45841262,
-      "title": "Game design is simple",
-      "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 334,
-      "author": "vrnvu",
-      "created": "2025-11-06 22:24:23",
-      "created_at": 1762467863000
+      "id": 45846769,
+      "title": "Claude Is Down",
+      "link": "https://status.claude.com/incidents/tgtw1sqs9ths",
+      "score": 30,
+      "author": "agrocrag",
+      "created": "2025-11-07 14:31:07",
+      "created_at": 1762525867000
     }
   ],
   "code": 200,
