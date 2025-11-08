@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-08T16:12:00.956Z"
+    "lastUpdate": "2025-11-08T20:10:57.637Z"
   },
   "data": [
     {
-      "id": 45856804,
-      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-      "link": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
-      "score": 81,
-      "author": "pseudolus",
-      "created": "2025-11-08 14:18:22",
-      "created_at": 1762611502000
-    },
-    {
-      "id": 45852328,
-      "title": "Why is Zig so cool?",
-      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 425,
-      "author": "vitalnodo",
-      "created": "2025-11-07 23:04:39",
-      "created_at": 1762556679000
-    },
-    {
-      "id": 45852854,
-      "title": "Valdi – A cross-platform UI framework that delivers native performance",
-      "link": "https://github.com/Snapchat/Valdi",
-      "score": 375,
-      "author": "yehiaabdelm",
-      "created": "2025-11-08 00:14:50",
-      "created_at": 1762560890000
-    },
-    {
-      "id": 45856883,
-      "title": "Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree",
-      "link": "https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/",
+      "id": 45858905,
+      "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
+      "link": "https://markojs.com/",
       "score": 47,
-      "author": "rramadass",
-      "created": "2025-11-08 14:33:00",
-      "created_at": 1762612380000
+      "author": "ulrischa",
+      "created": "2025-11-08 18:43:55",
+      "created_at": 1762627435000
     },
     {
-      "id": 45855933,
-      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-      "link": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-      "score": 200,
-      "author": "djrockstar1",
-      "created": "2025-11-08 11:27:56",
-      "created_at": 1762601276000
+      "id": 45858945,
+      "title": "WriterdeckOS",
+      "link": "https://writerdeckos.com",
+      "score": 17,
+      "author": "surprisetalk",
+      "created": "2025-11-08 18:49:47",
+      "created_at": 1762627787000
     },
     {
-      "id": 45854862,
-      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "link": "https://arxiv.org/abs/2511.02743",
-      "score": 96,
-      "author": "otrack",
-      "created": "2025-11-08 07:29:35",
-      "created_at": 1762586975000
+      "id": 45857836,
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "score": 74,
+      "author": "jtbayly",
+      "created": "2025-11-08 16:25:41",
+      "created_at": 1762619141000
+    },
+    {
+      "id": 45859107,
+      "title": "Transparent computer monitor designed to protect your vision",
+      "link": "https://www.visualinstruments.co/phantom/display",
+      "score": 11,
+      "author": "plun9",
+      "created": "2025-11-08 19:11:16",
+      "created_at": 1762629076000
+    },
+    {
+      "id": 45859243,
+      "title": "Avería: The Average Font (2011)",
+      "link": "http://iotic.com/averia/",
+      "score": 5,
+      "author": "JoshTriplett",
+      "created": "2025-11-08 19:29:44",
+      "created_at": 1762630184000
     },
     {
       "id": 45857045,
       "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
       "link": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
-      "score": 4,
+      "score": 52,
       "author": "swatson741",
       "created": "2025-11-08 14:58:03",
       "created_at": 1762613883000
     },
     {
-      "id": 45792555,
-      "title": "Friendly attributes pattern in Ruby",
-      "link": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-      "score": 67,
-      "author": "brunosutic",
-      "created": "2025-11-02 19:02:04",
-      "created_at": 1762110124000
+      "id": 45782713,
+      "title": "Syntax and Semantics of Programming Languages",
+      "link": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+      "score": 28,
+      "author": "nill0",
+      "created": "2025-11-01 16:02:11",
+      "created_at": 1762012931000
     },
     {
-      "id": 45808288,
-      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
-      "link": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
-      "score": 36,
-      "author": "Ameo",
-      "created": "2025-11-04 07:22:46",
-      "created_at": 1762240966000
+      "id": 45856804,
+      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+      "link": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+      "score": 220,
+      "author": "pseudolus",
+      "created": "2025-11-08 14:18:22",
+      "created_at": 1762611502000
     },
     {
-      "id": 45809782,
-      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
-      "link": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
-      "score": 19,
-      "author": "arnon",
-      "created": "2025-11-04 11:33:31",
-      "created_at": 1762256011000
+      "id": 45801721,
+      "title": "What Is a Manifold?",
+      "link": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
+      "score": 13,
+      "author": "genoveffo",
+      "created": "2025-11-03 17:31:45",
+      "created_at": 1762191105000
+    },
+    {
+      "id": 45857695,
+      "title": "52 Year old data tape could contain Unix history",
+      "link": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
+      "score": 85,
+      "author": "rbanffy",
+      "created": "2025-11-08 16:12:14",
+      "created_at": 1762618334000
     }
   ],
   "code": 200,
