@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-07T20:12:31.873Z"
+    "lastUpdate": "2025-11-08T00:50:15.275Z"
   },
   "data": [
     {
-      "id": 45849281,
-      "title": "Rockstar employee shares account of the company's union-busting efforts",
-      "link": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
-      "score": 178,
-      "author": "mrzool",
-      "created": "2025-11-07 18:22:09",
-      "created_at": 1762539729000
+      "id": 45852328,
+      "title": "Why is Zig so Cool?",
+      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "score": 87,
+      "author": "vitalnodo",
+      "created": "2025-11-07 23:04:39",
+      "created_at": 1762556679000
     },
     {
-      "id": 45848484,
-      "title": "Vodafone Germany is killing the open internet – one peering connection at a time",
-      "link": "https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/",
-      "score": 300,
-      "author": "PhilKunz",
-      "created": "2025-11-07 17:05:06",
-      "created_at": 1762535106000
+      "id": 45851495,
+      "title": "Becoming a Compiler Engineer",
+      "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
+      "score": 77,
+      "author": "lalitkale",
+      "created": "2025-11-07 21:45:03",
+      "created_at": 1762551903000
+    },
+    {
+      "id": 45852642,
+      "title": "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
+      "link": "https://researchers.one/articles/24.01.00001v4",
+      "score": 16,
+      "author": "drmpeg",
+      "created": "2025-11-07 23:42:01",
+      "created_at": 1762558921000
     },
     {
       "id": 45849342,
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
       "link": "https://github.com/sayyadirfanali/Myna",
-      "score": 60,
+      "score": 187,
       "author": "birdculture",
       "created": "2025-11-07 18:27:36",
       "created_at": 1762540056000
     },
     {
+      "id": 45850382,
+      "title": "How did I get here?",
+      "link": "https://how-did-i-get-here.net/",
+      "score": 106,
+      "author": "zachlatta",
+      "created": "2025-11-07 20:01:09",
+      "created_at": 1762545669000
+    },
+    {
+      "id": 45852029,
+      "title": "How a devboard works (and how to make your own)",
+      "link": "https://kaipereira.com/journal/build-a-devboard",
+      "score": 27,
+      "author": "kaipereira",
+      "created": "2025-11-07 22:35:28",
+      "created_at": 1762554928000
+    },
+    {
       "id": 45849528,
       "title": "Ruby Solved My Problem",
       "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "score": 51,
+      "score": 155,
       "author": "joemasilotti",
       "created": "2025-11-07 18:45:35",
       "created_at": 1762541135000
     },
     {
-      "id": 45848504,
-      "title": "Gmail AI gets more intrusive",
-      "link": "https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/",
-      "score": 151,
-      "author": "speckx",
-      "created": "2025-11-07 17:07:01",
-      "created_at": 1762535221000
+      "id": 45850963,
+      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
+      "link": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
+      "score": 337,
+      "author": "WaitWaitWha",
+      "created": "2025-11-07 20:50:40",
+      "created_at": 1762548640000
     },
     {
-      "id": 45809007,
-      "title": "Venn Diagram for 7 Sets",
-      "link": "https://moebio.com/research/sevensets/",
-      "score": 29,
-      "author": "bramadityaw",
-      "created": "2025-11-04 09:27:57",
-      "created_at": 1762248477000
+      "id": 45850671,
+      "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
+      "link": "https://github.com/RibirX/Ribir",
+      "score": 42,
+      "author": "adamnemecek",
+      "created": "2025-11-07 20:26:26",
+      "created_at": 1762547186000
     },
     {
-      "id": 45846517,
-      "title": "I Love OCaml",
-      "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
-      "score": 219,
-      "author": "art-w",
-      "created": "2025-11-07 14:05:49",
-      "created_at": 1762524349000
-    },
-    {
-      "id": 45850069,
-      "title": "James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97",
-      "link": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
-      "score": 51,
-      "author": "granzymes",
-      "created": "2025-11-07 19:30:18",
-      "created_at": 1762543818000
-    },
-    {
-      "id": 45843948,
-      "title": "Leaving Meta and PyTorch",
-      "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "score": 629,
-      "author": "saikatsg",
-      "created": "2025-11-07 06:14:50",
-      "created_at": 1762496090000
-    },
-    {
-      "id": 45848468,
-      "title": "Angel Investors, a Field Guide",
-      "link": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
-      "score": 31,
-      "author": "azhenley",
-      "created": "2025-11-07 17:03:30",
-      "created_at": 1762535010000
+      "id": 45852275,
+      "title": "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown",
+      "score": 66,
+      "author": "bookmtn",
+      "created": "2025-11-07 22:59:04",
+      "created_at": 1762556344000
     }
   ],
   "code": 200,
