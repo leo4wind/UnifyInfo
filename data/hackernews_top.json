@@ -3,41 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-08T00:50:15.247Z"
+    "lastUpdate": "2025-11-08T04:13:05.331Z"
   },
   "data": [
     {
       "id": 45852328,
-      "title": "Why is Zig so Cool?",
+      "title": "Why is Zig so cool?",
       "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 87,
+      "score": 199,
       "author": "vitalnodo",
       "created": "2025-11-07 23:04:39",
       "created_at": 1762556679000
     },
     {
+      "id": 45852854,
+      "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+      "link": "https://github.com/Snapchat/Valdi",
+      "score": 121,
+      "author": "yehiaabdelm",
+      "created": "2025-11-08 00:14:50",
+      "created_at": 1762560890000
+    },
+    {
+      "id": 45852974,
+      "title": "Mullvad: Shutting down our search proxy Leta",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
+      "score": 65,
+      "author": "holysoles",
+      "created": "2025-11-08 00:37:36",
+      "created_at": 1762562256000
+    },
+    {
       "id": 45851495,
       "title": "Becoming a Compiler Engineer",
       "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "score": 77,
+      "score": 149,
       "author": "lalitkale",
       "created": "2025-11-07 21:45:03",
       "created_at": 1762551903000
     },
     {
-      "id": 45852642,
-      "title": "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
-      "link": "https://researchers.one/articles/24.01.00001v4",
-      "score": 16,
-      "author": "drmpeg",
-      "created": "2025-11-07 23:42:01",
-      "created_at": 1762558921000
+      "id": 45852895,
+      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+      "link": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
+      "score": 42,
+      "author": "vermaden",
+      "created": "2025-11-08 00:21:45",
+      "created_at": 1762561305000
     },
     {
       "id": 45849342,
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
       "link": "https://github.com/sayyadirfanali/Myna",
-      "score": 187,
+      "score": 219,
       "author": "birdculture",
       "created": "2025-11-07 18:27:36",
       "created_at": 1762540056000
@@ -46,55 +64,37 @@
       "id": 45850382,
       "title": "How did I get here?",
       "link": "https://how-did-i-get-here.net/",
-      "score": 106,
+      "score": 152,
       "author": "zachlatta",
       "created": "2025-11-07 20:01:09",
       "created_at": 1762545669000
     },
     {
-      "id": 45852029,
-      "title": "How a devboard works (and how to make your own)",
-      "link": "https://kaipereira.com/journal/build-a-devboard",
-      "score": 27,
-      "author": "kaipereira",
-      "created": "2025-11-07 22:35:28",
-      "created_at": 1762554928000
-    },
-    {
       "id": 45849528,
       "title": "Ruby Solved My Problem",
       "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "score": 155,
+      "score": 187,
       "author": "joemasilotti",
       "created": "2025-11-07 18:45:35",
       "created_at": 1762541135000
     },
     {
-      "id": 45850963,
-      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-      "link": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
-      "score": 337,
-      "author": "WaitWaitWha",
-      "created": "2025-11-07 20:50:40",
-      "created_at": 1762548640000
+      "id": 45846517,
+      "title": "Why I love OCaml (2023)",
+      "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
+      "score": 304,
+      "author": "art-w",
+      "created": "2025-11-07 14:05:49",
+      "created_at": 1762524349000
     },
     {
-      "id": 45850671,
-      "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
-      "link": "https://github.com/RibirX/Ribir",
-      "score": 42,
-      "author": "adamnemecek",
-      "created": "2025-11-07 20:26:26",
-      "created_at": 1762547186000
-    },
-    {
-      "id": 45852275,
-      "title": "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown",
-      "score": 66,
-      "author": "bookmtn",
-      "created": "2025-11-07 22:59:04",
-      "created_at": 1762556344000
+      "id": 45852751,
+      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "link": "https://www.cerebras.ai/code",
+      "score": 23,
+      "author": "nathabonfim59",
+      "created": "2025-11-08 00:00:27",
+      "created_at": 1762560027000
     }
   ],
   "code": 200,
