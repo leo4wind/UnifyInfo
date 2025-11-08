@@ -3,32 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-08T08:13:38.964Z"
+    "lastUpdate": "2025-11-08T12:19:08.613Z"
   },
   "data": [
     {
-      "id": 45852328,
-      "title": "Why is Zig so cool?",
-      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 302,
-      "author": "vitalnodo",
-      "created": "2025-11-07 23:04:39",
-      "created_at": 1762556679000
-    },
-    {
       "id": 45852854,
-      "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+      "title": "Valdi – A cross-platform UI framework",
       "link": "https://github.com/Snapchat/Valdi",
-      "score": 221,
+      "score": 319,
       "author": "yehiaabdelm",
       "created": "2025-11-08 00:14:50",
       "created_at": 1762560890000
     },
     {
+      "id": 45855933,
+      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
+      "link": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
+      "score": 35,
+      "author": "djrockstar1",
+      "created": "2025-11-08 11:27:56",
+      "created_at": 1762601276000
+    },
+    {
+      "id": 45854862,
+      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+      "link": "https://arxiv.org/abs/2511.02743",
+      "score": 53,
+      "author": "otrack",
+      "created": "2025-11-08 07:29:35",
+      "created_at": 1762586975000
+    },
+    {
+      "id": 45852328,
+      "title": "Why is Zig so cool?",
+      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "score": 365,
+      "author": "vitalnodo",
+      "created": "2025-11-07 23:04:39",
+      "created_at": 1762556679000
+    },
+    {
+      "id": 45792555,
+      "title": "Friendly Attributes Pattern in Ruby",
+      "link": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
+      "score": 32,
+      "author": "brunosutic",
+      "created": "2025-11-02 19:02:04",
+      "created_at": 1762110124000
+    },
+    {
       "id": 45851495,
       "title": "Becoming a Compiler Engineer",
       "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "score": 200,
+      "score": 240,
       "author": "lalitkale",
       "created": "2025-11-07 21:45:03",
       "created_at": 1762551903000
@@ -37,7 +64,7 @@
       "id": 45849342,
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
       "link": "https://github.com/sayyadirfanali/Myna",
-      "score": 251,
+      "score": 287,
       "author": "birdculture",
       "created": "2025-11-07 18:27:36",
       "created_at": 1762540056000
@@ -46,55 +73,19 @@
       "id": 45852895,
       "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
       "link": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-      "score": 63,
+      "score": 93,
       "author": "vermaden",
       "created": "2025-11-08 00:21:45",
       "created_at": 1762561305000
     },
     {
-      "id": 45850382,
-      "title": "How did I get here?",
-      "link": "https://how-did-i-get-here.net/",
-      "score": 199,
-      "author": "zachlatta",
-      "created": "2025-11-07 20:01:09",
-      "created_at": 1762545669000
-    },
-    {
-      "id": 45846517,
-      "title": "Why I love OCaml (2023)",
-      "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
-      "score": 318,
-      "author": "art-w",
-      "created": "2025-11-07 14:05:49",
-      "created_at": 1762524349000
-    },
-    {
       "id": 45801651,
       "title": "How to find your ideal customer, right away",
       "link": "https://www.reifyworks.com/writing/2023-01-30-iicp",
-      "score": 20,
+      "score": 53,
       "author": "mrbbk",
       "created": "2025-11-03 17:27:12",
       "created_at": 1762190832000
-    },
-    {
-      "id": 45849528,
-      "title": "Ruby Solved My Problem",
-      "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "score": 215,
-      "author": "joemasilotti",
-      "created": "2025-11-07 18:45:35",
-      "created_at": 1762541135000
-    },
-    {
-      "id": 45853536,
-      "title": "Local First Htmx",
-      "link": "https://elijahm.com/posts/local_first_htmx/",
-      "score": 23,
-      "author": "srid",
-      "created": "2025-11-08 02:27:48",
-      "created_at": 1762568868000
     }
   ],
   "code": 200,
