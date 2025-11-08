@@ -3,23 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-08T12:19:08.613Z"
+    "lastUpdate": "2025-11-08T16:12:00.921Z"
   },
   "data": [
     {
+      "id": 45856804,
+      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+      "link": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+      "score": 81,
+      "author": "pseudolus",
+      "created": "2025-11-08 14:18:22",
+      "created_at": 1762611502000
+    },
+    {
+      "id": 45852328,
+      "title": "Why is Zig so cool?",
+      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "score": 425,
+      "author": "vitalnodo",
+      "created": "2025-11-07 23:04:39",
+      "created_at": 1762556679000
+    },
+    {
       "id": 45852854,
-      "title": "Valdi – A cross-platform UI framework",
+      "title": "Valdi – A cross-platform UI framework that delivers native performance",
       "link": "https://github.com/Snapchat/Valdi",
-      "score": 319,
+      "score": 375,
       "author": "yehiaabdelm",
       "created": "2025-11-08 00:14:50",
       "created_at": 1762560890000
     },
     {
+      "id": 45856883,
+      "title": "Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree",
+      "link": "https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/",
+      "score": 47,
+      "author": "rramadass",
+      "created": "2025-11-08 14:33:00",
+      "created_at": 1762612380000
+    },
+    {
       "id": 45855933,
       "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
       "link": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-      "score": 35,
+      "score": 200,
       "author": "djrockstar1",
       "created": "2025-11-08 11:27:56",
       "created_at": 1762601276000
@@ -28,64 +55,46 @@
       "id": 45854862,
       "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
       "link": "https://arxiv.org/abs/2511.02743",
-      "score": 53,
+      "score": 96,
       "author": "otrack",
       "created": "2025-11-08 07:29:35",
       "created_at": 1762586975000
     },
     {
-      "id": 45852328,
-      "title": "Why is Zig so cool?",
-      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 365,
-      "author": "vitalnodo",
-      "created": "2025-11-07 23:04:39",
-      "created_at": 1762556679000
+      "id": 45857045,
+      "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
+      "link": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
+      "score": 4,
+      "author": "swatson741",
+      "created": "2025-11-08 14:58:03",
+      "created_at": 1762613883000
     },
     {
       "id": 45792555,
-      "title": "Friendly Attributes Pattern in Ruby",
+      "title": "Friendly attributes pattern in Ruby",
       "link": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-      "score": 32,
+      "score": 67,
       "author": "brunosutic",
       "created": "2025-11-02 19:02:04",
       "created_at": 1762110124000
     },
     {
-      "id": 45851495,
-      "title": "Becoming a Compiler Engineer",
-      "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "score": 240,
-      "author": "lalitkale",
-      "created": "2025-11-07 21:45:03",
-      "created_at": 1762551903000
+      "id": 45808288,
+      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
+      "link": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
+      "score": 36,
+      "author": "Ameo",
+      "created": "2025-11-04 07:22:46",
+      "created_at": 1762240966000
     },
     {
-      "id": 45849342,
-      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-      "link": "https://github.com/sayyadirfanali/Myna",
-      "score": 287,
-      "author": "birdculture",
-      "created": "2025-11-07 18:27:36",
-      "created_at": 1762540056000
-    },
-    {
-      "id": 45852895,
-      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "link": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-      "score": 93,
-      "author": "vermaden",
-      "created": "2025-11-08 00:21:45",
-      "created_at": 1762561305000
-    },
-    {
-      "id": 45801651,
-      "title": "How to find your ideal customer, right away",
-      "link": "https://www.reifyworks.com/writing/2023-01-30-iicp",
-      "score": 53,
-      "author": "mrbbk",
-      "created": "2025-11-03 17:27:12",
-      "created_at": 1762190832000
+      "id": 45809782,
+      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
+      "link": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
+      "score": 19,
+      "author": "arnon",
+      "created": "2025-11-04 11:33:31",
+      "created_at": 1762256011000
     }
   ],
   "code": 200,
