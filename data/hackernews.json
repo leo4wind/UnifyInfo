@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-08T04:13:05.192Z"
+    "lastUpdate": "2025-11-08T08:13:38.822Z"
   },
   "data": [
     {
       "id": 45836826,
       "title": "FBI tries to unmask owner of archive.is",
       "link": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
-      "score": 978,
+      "score": 985,
       "author": "Projectiboga",
       "created": "2025-11-06 16:18:18",
       "created_at": 1762445898000
@@ -19,7 +19,7 @@
       "id": 45840088,
       "title": "You should write an agent",
       "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 972,
+      "score": 980,
       "author": "tabletcorry",
       "created": "2025-11-06 20:37:06",
       "created_at": 1762461426000
@@ -28,7 +28,7 @@
       "id": 45836070,
       "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "link": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "score": 873,
+      "score": 880,
       "author": "nekofneko",
       "created": "2025-11-06 15:06:06",
       "created_at": 1762441566000
@@ -37,7 +37,7 @@
       "id": 45843948,
       "title": "Leaving Meta and PyTorch",
       "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "score": 676,
+      "score": 687,
       "author": "saikatsg",
       "created": "2025-11-07 06:14:50",
       "created_at": 1762496090000
@@ -46,7 +46,7 @@
       "id": 45845772,
       "title": "Meta projected 10% of 2024 revenue came from scams",
       "link": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
-      "score": 652,
+      "score": 669,
       "author": "donohoe",
       "created": "2025-11-07 12:39:54",
       "created_at": 1762519194000
@@ -55,7 +55,7 @@
       "id": 45837342,
       "title": "ICC ditches Microsoft 365 for openDesk",
       "link": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
-      "score": 621,
+      "score": 623,
       "author": "vincvinc",
       "created": "2025-11-06 16:57:55",
       "created_at": 1762448275000
@@ -64,16 +64,25 @@
       "id": 45839901,
       "title": "Two billion email addresses were exposed",
       "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 597,
+      "score": 601,
       "author": "esnard",
       "created": "2025-11-06 20:20:23",
       "created_at": 1762460423000
     },
     {
+      "id": 45850963,
+      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
+      "link": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
+      "score": 575,
+      "author": "WaitWaitWha",
+      "created": "2025-11-07 20:50:40",
+      "created_at": 1762548640000
+    },
+    {
       "id": 45843146,
       "title": "A Fond Farewell",
       "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "score": 553,
+      "score": 557,
       "author": "erhuve",
       "created": "2025-11-07 03:01:32",
       "created_at": 1762484492000
@@ -82,19 +91,10 @@
       "id": 45841262,
       "title": "Game design is simple",
       "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 507,
+      "score": 511,
       "author": "vrnvu",
       "created": "2025-11-06 22:24:23",
       "created_at": 1762467863000
-    },
-    {
-      "id": 45849281,
-      "title": "Rockstar employee shares account of the company's union-busting efforts",
-      "link": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
-      "score": 466,
-      "author": "mrzool",
-      "created": "2025-11-07 18:22:09",
-      "created_at": 1762539729000
     }
   ],
   "code": 200,

@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-08T04:13:08.323Z"
+    "lastUpdate": "2025-11-08T08:13:41.515Z"
   },
   "data": [
     {
@@ -22,12 +22,35 @@
       "zqjkrq": "2025-11-18",
       "ssrq": null,
       "syl": null,
-      "hysyl": 26.35,
+      "hysyl": 26.37,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "巨型全钢工程机械子午线轮胎的研发、生产与销售,以及矿用轮胎运营管理业务"
+    },
+    {
+      "zqdm": "920124",
+      "zqjc": "南特科技",
+      "sgdm": "920124",
+      "fxsl": 37183329,
+      "swfxsl": 33464997,
+      "sgsx": 1673200,
+      "dgsz": 16732000,
+      "fxjg": 8.66,
+      "zxj": null,
+      "srspj": null,
+      "sgrq": "2025-11-11",
+      "zqgbrq": "2025-11-14",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 13.6,
+      "hysyl": 44.33,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "精密机械零部件的研发、生产及销售"
     },
     {
       "zqdm": "688727",
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 14.52,
       "hysyl": 38.54,
-      "wszql": null,
+      "wszql": 0.01869341,
       "yzbsl": null,
       "zf": null,
       "yqhl": null,
@@ -122,5 +145,5 @@
       "zyyw": "专业从事有色金属矿产资源检验检测技术研发、技术服务及仪器研发,业务涵盖矿石及矿产品、冶炼产品、环境样品、再生资源、先进材料、选冶药剂检验检测,检验检测技术研发及标准化、技术推广、高端分析仪器研发等领域。"
     }
   ],
-  "total": 5
+  "total": 6
 }

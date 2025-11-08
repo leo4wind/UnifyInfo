@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-08T04:13:05.331Z"
+    "lastUpdate": "2025-11-08T08:13:38.964Z"
   },
   "data": [
     {
       "id": 45852328,
       "title": "Why is Zig so cool?",
       "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 199,
+      "score": 302,
       "author": "vitalnodo",
       "created": "2025-11-07 23:04:39",
       "created_at": 1762556679000
@@ -19,82 +19,82 @@
       "id": 45852854,
       "title": "Snapchat open-sources Valdi a cross-platform UI framework",
       "link": "https://github.com/Snapchat/Valdi",
-      "score": 121,
+      "score": 221,
       "author": "yehiaabdelm",
       "created": "2025-11-08 00:14:50",
       "created_at": 1762560890000
     },
     {
-      "id": 45852974,
-      "title": "Mullvad: Shutting down our search proxy Leta",
-      "link": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
-      "score": 65,
-      "author": "holysoles",
-      "created": "2025-11-08 00:37:36",
-      "created_at": 1762562256000
-    },
-    {
       "id": 45851495,
       "title": "Becoming a Compiler Engineer",
       "link": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "score": 149,
+      "score": 200,
       "author": "lalitkale",
       "created": "2025-11-07 21:45:03",
       "created_at": 1762551903000
     },
     {
-      "id": 45852895,
-      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "link": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-      "score": 42,
-      "author": "vermaden",
-      "created": "2025-11-08 00:21:45",
-      "created_at": 1762561305000
-    },
-    {
       "id": 45849342,
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
       "link": "https://github.com/sayyadirfanali/Myna",
-      "score": 219,
+      "score": 251,
       "author": "birdculture",
       "created": "2025-11-07 18:27:36",
       "created_at": 1762540056000
     },
     {
+      "id": 45852895,
+      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+      "link": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
+      "score": 63,
+      "author": "vermaden",
+      "created": "2025-11-08 00:21:45",
+      "created_at": 1762561305000
+    },
+    {
       "id": 45850382,
       "title": "How did I get here?",
       "link": "https://how-did-i-get-here.net/",
-      "score": 152,
+      "score": 199,
       "author": "zachlatta",
       "created": "2025-11-07 20:01:09",
       "created_at": 1762545669000
     },
     {
-      "id": 45849528,
-      "title": "Ruby Solved My Problem",
-      "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "score": 187,
-      "author": "joemasilotti",
-      "created": "2025-11-07 18:45:35",
-      "created_at": 1762541135000
-    },
-    {
       "id": 45846517,
       "title": "Why I love OCaml (2023)",
       "link": "https://mccd.space/posts/ocaml-the-worlds-best/",
-      "score": 304,
+      "score": 318,
       "author": "art-w",
       "created": "2025-11-07 14:05:49",
       "created_at": 1762524349000
     },
     {
-      "id": 45852751,
-      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
-      "link": "https://www.cerebras.ai/code",
+      "id": 45801651,
+      "title": "How to find your ideal customer, right away",
+      "link": "https://www.reifyworks.com/writing/2023-01-30-iicp",
+      "score": 20,
+      "author": "mrbbk",
+      "created": "2025-11-03 17:27:12",
+      "created_at": 1762190832000
+    },
+    {
+      "id": 45849528,
+      "title": "Ruby Solved My Problem",
+      "link": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
+      "score": 215,
+      "author": "joemasilotti",
+      "created": "2025-11-07 18:45:35",
+      "created_at": 1762541135000
+    },
+    {
+      "id": 45853536,
+      "title": "Local First Htmx",
+      "link": "https://elijahm.com/posts/local_first_htmx/",
       "score": 23,
-      "author": "nathabonfim59",
-      "created": "2025-11-08 00:00:27",
-      "created_at": 1762560027000
+      "author": "srid",
+      "created": "2025-11-08 02:27:48",
+      "created_at": 1762568868000
     }
   ],
   "code": 200,
