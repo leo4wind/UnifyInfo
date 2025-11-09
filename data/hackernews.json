@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-08T20:10:57.464Z"
+    "lastUpdate": "2025-11-09T00:56:14.593Z"
   },
   "data": [
-    {
-      "id": 45840088,
-      "title": "You should write an agent",
-      "link": "https://fly.io/blog/everyone-write-an-agent/",
-      "score": 1006,
-      "author": "tabletcorry",
-      "created": "2025-11-06 20:37:06",
-      "created_at": 1762461426000
-    },
     {
       "id": 45850963,
       "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
       "link": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
-      "score": 827,
+      "score": 855,
       "author": "WaitWaitWha",
       "created": "2025-11-07 20:50:40",
       "created_at": 1762548640000
@@ -28,7 +19,7 @@
       "id": 45845772,
       "title": "Meta projected 10% of 2024 revenue came from scams",
       "link": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
-      "score": 712,
+      "score": 720,
       "author": "donohoe",
       "created": "2025-11-07 12:39:54",
       "created_at": 1762519194000
@@ -37,64 +28,73 @@
       "id": 45843948,
       "title": "Leaving Meta and PyTorch",
       "link": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "score": 703,
+      "score": 710,
       "author": "saikatsg",
       "created": "2025-11-07 06:14:50",
       "created_at": 1762496090000
     },
     {
-      "id": 45839901,
-      "title": "Two billion email addresses were exposed",
-      "link": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "score": 615,
-      "author": "esnard",
-      "created": "2025-11-06 20:20:23",
-      "created_at": 1762460423000
-    },
-    {
       "id": 45843146,
       "title": "A Fond Farewell",
       "link": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "score": 564,
+      "score": 566,
       "author": "erhuve",
       "created": "2025-11-07 03:01:32",
       "created_at": 1762484492000
     },
     {
-      "id": 45841262,
-      "title": "Game design is simple",
-      "link": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "score": 525,
-      "author": "vrnvu",
-      "created": "2025-11-06 22:24:23",
-      "created_at": 1762467863000
-    },
-    {
-      "id": 45849281,
-      "title": "Rockstar employee shares account of the company's union-busting efforts",
-      "link": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
-      "score": 506,
-      "author": "mrzool",
-      "created": "2025-11-07 18:22:09",
-      "created_at": 1762539729000
+      "id": 45850430,
+      "title": "Apple is crossing a Steve Jobs red line",
+      "link": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
+      "score": 528,
+      "author": "zdw",
+      "created": "2025-11-07 20:05:32",
+      "created_at": 1762545932000
     },
     {
       "id": 45848083,
       "title": "Denmark's government aims to ban access to social media for children under 15",
       "link": "https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4",
-      "score": 504,
+      "score": 515,
       "author": "c420",
       "created": "2025-11-07 16:28:31",
       "created_at": 1762532911000
     },
     {
-      "id": 45850430,
-      "title": "Apple is crossing a Steve Jobs red line",
-      "link": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
-      "score": 501,
-      "author": "zdw",
-      "created": "2025-11-07 20:05:32",
-      "created_at": 1762545932000
+      "id": 45849281,
+      "title": "Rockstar employee shares account of the company's union-busting efforts",
+      "link": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
+      "score": 507,
+      "author": "mrzool",
+      "created": "2025-11-07 18:22:09",
+      "created_at": 1762539729000
+    },
+    {
+      "id": 45859402,
+      "title": "I Want You to Understand Chicago",
+      "link": "https://aphyr.com/posts/397-i-want-you-to-understand-chicago",
+      "score": 505,
+      "author": "tonyg",
+      "created": "2025-11-08 19:47:26",
+      "created_at": 1762631246000
+    },
+    {
+      "id": 45852328,
+      "title": "Why is Zig so cool?",
+      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "score": 487,
+      "author": "vitalnodo",
+      "created": "2025-11-07 23:04:39",
+      "created_at": 1762556679000
+    },
+    {
+      "id": 45848484,
+      "title": "Vodafone Germany is killing the open internet – one peering connection at a time",
+      "link": "https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/",
+      "score": 464,
+      "author": "PhilKunz",
+      "created": "2025-11-07 17:05:06",
+      "created_at": 1762535106000
     }
   ],
   "code": 200,
