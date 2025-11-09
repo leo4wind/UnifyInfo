@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-09T12:18:52.877Z"
+    "lastUpdate": "2025-11-09T16:11:44.354Z"
   },
   "data": [
     {
-      "id": 45860843,
-      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
-      "link": "https://ironclad-os.org/",
-      "score": 290,
-      "author": "vitalnodo",
-      "created": "2025-11-08 23:03:10",
-      "created_at": 1762642990000
+      "id": 45866165,
+      "title": "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
+      "link": "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/",
+      "score": 51,
+      "author": "janandonly",
+      "created": "2025-11-09 15:18:23",
+      "created_at": 1762701503000
+    },
+    {
+      "id": 45866224,
+      "title": "The Manuscripts of Edsger W. Dijkstra",
+      "link": "https://www.cs.utexas.edu/~EWD/",
+      "score": 27,
+      "author": "nathan-barry",
+      "created": "2025-11-09 15:27:42",
+      "created_at": 1762702062000
+    },
+    {
+      "id": 45865159,
+      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+      "link": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+      "score": 62,
+      "author": "mwheeler",
+      "created": "2025-11-09 12:44:35",
+      "created_at": 1762692275000
+    },
+    {
+      "id": 45865049,
+      "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
+      "link": "https://www.newsyeah.fun/voyager/",
+      "score": 62,
+      "author": "tank-34",
+      "created": "2025-11-09 12:24:50",
+      "created_at": 1762691090000
+    },
+    {
+      "id": 45865289,
+      "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
+      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+      "score": 38,
+      "author": "bilsbie",
+      "created": "2025-11-09 13:03:36",
+      "created_at": 1762693416000
+    },
+    {
+      "id": 45782192,
+      "title": "Email verification protocol",
+      "link": "https://github.com/WICG/email-verification-protocol",
+      "score": 59,
+      "author": "sgoto",
+      "created": "2025-11-01 15:04:56",
+      "created_at": 1762009496000
+    },
+    {
+      "id": 45865327,
+      "title": "Using bubblewrap to add sandboxing to NetBSD",
+      "link": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
+      "score": 26,
+      "author": "jaypatelani",
+      "created": "2025-11-09 13:09:22",
+      "created_at": 1762693762000
+    },
+    {
+      "id": 45865189,
+      "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+      "link": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+      "score": 23,
+      "author": "japhyr",
+      "created": "2025-11-09 12:50:07",
+      "created_at": 1762692607000
     },
     {
       "id": 45863360,
       "title": "I Am Mark Zuckerberg",
       "link": "https://iammarkzuckerberg.com/",
-      "score": 466,
+      "score": 785,
       "author": "jb1991",
       "created": "2025-11-09 06:13:05",
       "created_at": 1762668785000
     },
     {
-      "id": 45864732,
-      "title": "Ask HN: How would u setup a child's first Linux computer?",
-      "link": "",
-      "score": 14,
-      "author": "evolve2k",
-      "created": "2025-11-09 11:12:02",
-      "created_at": 1762686722000
-    },
-    {
-      "id": 45862802,
-      "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
-      "link": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
-      "score": 86,
-      "author": "simonw",
-      "created": "2025-11-09 04:02:47",
-      "created_at": 1762660967000
-    },
-    {
-      "id": 45794814,
-      "title": "The overengineered Solution to my Pigeon Problem",
-      "link": "https://maxnagy.com/posts/pigeons/",
-      "score": 8,
-      "author": "cyb0rg0",
-      "created": "2025-11-03 00:48:32",
-      "created_at": 1762130912000
-    },
-    {
-      "id": 45859471,
-      "title": "Largest cargo sailboat completes first Atlantic crossing",
-      "link": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
-      "score": 262,
-      "author": "defrost",
-      "created": "2025-11-08 19:57:52",
-      "created_at": 1762631872000
-    },
-    {
-      "id": 45858905,
-      "title": "Marko – A declarative, HTML‑based language",
-      "link": "https://markojs.com/",
-      "score": 304,
-      "author": "ulrischa",
-      "created": "2025-11-08 18:43:55",
-      "created_at": 1762627435000
-    },
-    {
-      "id": 45776512,
-      "title": "Show HN: I built a self-hosted error tracker in Rails",
-      "link": "https://telebugs.com",
-      "score": 39,
-      "author": "kyrylo",
-      "created": "2025-10-31 20:46:51",
-      "created_at": 1761943611000
-    },
-    {
-      "id": 45863024,
-      "title": "Forth – is it still relevant?",
-      "link": "https://github.com/chochain/eforth",
-      "score": 55,
-      "author": "lioeters",
-      "created": "2025-11-09 04:59:19",
-      "created_at": 1762664359000
-    },
-    {
-      "id": 45809552,
-      "title": "Defeating Kaslr by Doing Nothing at All",
-      "link": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
-      "score": 50,
-      "author": "aa_is_op",
-      "created": "2025-11-04 10:52:29",
-      "created_at": 1762253549000
+      "id": 45860843,
+      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
+      "link": "https://ironclad-os.org/",
+      "score": 312,
+      "author": "vitalnodo",
+      "created": "2025-11-08 23:03:10",
+      "created_at": 1762642990000
     }
   ],
   "code": 200,
