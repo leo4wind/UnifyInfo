@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-09T16:11:44.389Z"
+    "lastUpdate": "2025-11-09T20:11:04.182Z"
   },
   "data": [
     {
-      "id": 45866165,
-      "title": "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
-      "link": "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/",
-      "score": 51,
-      "author": "janandonly",
-      "created": "2025-11-09 15:18:23",
-      "created_at": 1762701503000
+      "id": 45866697,
+      "title": "Marble Fountain",
+      "link": "https://willmorrison.net/posts/marble-fountain/",
+      "score": 187,
+      "author": "chris_overseas",
+      "created": "2025-11-09 16:26:09",
+      "created_at": 1762705569000
+    },
+    {
+      "id": 45867717,
+      "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "score": 43,
+      "author": "todsacerdoti",
+      "created": "2025-11-09 18:17:44",
+      "created_at": 1762712264000
     },
     {
       "id": 45866224,
       "title": "The Manuscripts of Edsger W. Dijkstra",
       "link": "https://www.cs.utexas.edu/~EWD/",
-      "score": 27,
+      "score": 127,
       "author": "nathan-barry",
       "created": "2025-11-09 15:27:42",
       "created_at": 1762702062000
     },
     {
-      "id": 45865159,
-      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-      "link": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
-      "score": 62,
-      "author": "mwheeler",
-      "created": "2025-11-09 12:44:35",
-      "created_at": 1762692275000
-    },
-    {
-      "id": 45865049,
-      "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
-      "link": "https://www.newsyeah.fun/voyager/",
-      "score": 62,
-      "author": "tank-34",
-      "created": "2025-11-09 12:24:50",
-      "created_at": 1762691090000
-    },
-    {
       "id": 45865289,
       "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
       "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "score": 38,
+      "score": 204,
       "author": "bilsbie",
       "created": "2025-11-09 13:03:36",
       "created_at": 1762693416000
     },
     {
-      "id": 45782192,
-      "title": "Email verification protocol",
-      "link": "https://github.com/WICG/email-verification-protocol",
-      "score": 59,
-      "author": "sgoto",
-      "created": "2025-11-01 15:04:56",
-      "created_at": 1762009496000
+      "id": 45866572,
+      "title": "The Principles of Diffusion Models",
+      "link": "https://arxiv.org/abs/2510.21890",
+      "score": 70,
+      "author": "Anon84",
+      "created": "2025-11-09 16:10:23",
+      "created_at": 1762704623000
     },
     {
-      "id": 45865327,
-      "title": "Using bubblewrap to add sandboxing to NetBSD",
-      "link": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
-      "score": 26,
-      "author": "jaypatelani",
-      "created": "2025-11-09 13:09:22",
-      "created_at": 1762693762000
+      "id": 45868260,
+      "title": "U.S. Tech Layoffs Hit Two-Decade High in October",
+      "link": "https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/",
+      "score": 50,
+      "author": "mraniki",
+      "created": "2025-11-09 19:15:24",
+      "created_at": 1762715724000
     },
     {
-      "id": 45865189,
-      "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
-      "link": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
-      "score": 23,
-      "author": "japhyr",
-      "created": "2025-11-09 12:50:07",
-      "created_at": 1762692607000
+      "id": 45866772,
+      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+      "link": "https://github.com/samcervantes/bumble-berry-pi",
+      "score": 45,
+      "author": "MakerSam",
+      "created": "2025-11-09 16:34:44",
+      "created_at": 1762706084000
     },
     {
-      "id": 45863360,
-      "title": "I Am Mark Zuckerberg",
-      "link": "https://iammarkzuckerberg.com/",
-      "score": 785,
-      "author": "jb1991",
-      "created": "2025-11-09 06:13:05",
-      "created_at": 1762668785000
+      "id": 45866243,
+      "title": "AI isn't replacing jobs. AI spending is",
+      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
+      "score": 388,
+      "author": "felineflock",
+      "created": "2025-11-09 15:30:23",
+      "created_at": 1762702223000
     },
     {
-      "id": 45860843,
-      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
-      "link": "https://ironclad-os.org/",
-      "score": 312,
-      "author": "vitalnodo",
-      "created": "2025-11-08 23:03:10",
-      "created_at": 1762642990000
+      "id": 45804295,
+      "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+      "link": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+      "score": 16,
+      "author": "qikcik",
+      "created": "2025-11-03 20:52:50",
+      "created_at": 1762203170000
+    },
+    {
+      "id": 45865159,
+      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+      "link": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+      "score": 103,
+      "author": "mwheeler",
+      "created": "2025-11-09 12:44:35",
+      "created_at": 1762692275000
     }
   ],
   "code": 200,
