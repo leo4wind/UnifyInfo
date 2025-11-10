@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-10T16:14:48.781Z"
+    "lastUpdate": "2025-11-10T20:13:39.133Z"
   },
   "data": [
     {
-      "id": 45877027,
-      "title": "Ryanair reminds passengers of move to digital boarding pass in own app on nov 12",
-      "link": "https://corporate.ryanair.com/news/ryanair-issues-reminder-to-passengers-ahead-of-move-to-100-digital-boarding-passes-from-wednesday-12-nov/",
-      "score": 12,
-      "author": "teekert",
-      "created": "2025-11-10 15:46:03",
-      "created_at": 1762789563000
+      "id": 45877257,
+      "title": "Unexpected things that are people",
+      "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+      "score": 243,
+      "author": "lindowe",
+      "created": "2025-11-10 16:05:46",
+      "created_at": 1762790746000
     },
     {
-      "id": 45875918,
-      "title": "Interesting SPI Routing with iCE40 FPGAs",
-      "link": "https://danielmangum.com/posts/spi-routing-ice40-fpga/",
+      "id": 45878311,
+      "title": "European Commission plans “digital omnibus” package to simplify its tech laws",
+      "link": "https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/",
+      "score": 42,
+      "author": "purpleKiwi",
+      "created": "2025-11-10 17:29:59",
+      "created_at": 1762795799000
+    },
+    {
+      "id": 45878578,
+      "title": "The (Lazy) Git UI You Didn't Know You Need",
+      "link": "https://www.bwplotka.dev/2025/lazygit/",
+      "score": 43,
+      "author": "linhns",
+      "created": "2025-11-10 17:50:21",
+      "created_at": 1762797021000
+    },
+    {
+      "id": 45877517,
+      "title": "Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes",
+      "link": "https://www.hypercubic.ai/",
       "score": 53,
-      "author": "hasheddan",
-      "created": "2025-11-10 13:40:59",
-      "created_at": 1762782059000
+      "author": "sai18",
+      "created": "2025-11-10 16:23:24",
+      "created_at": 1762791804000
     },
     {
-      "id": 45876598,
-      "title": "Time to Start De-Appling",
-      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-      "score": 12,
-      "author": "msangi",
-      "created": "2025-11-10 14:57:26",
-      "created_at": 1762786646000
-    },
-    {
-      "id": 45810116,
-      "title": "Pose Animator – An open source tool to bring SVG characters to life (2020)",
-      "link": "https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html",
-      "score": 51,
-      "author": "jerlendds",
-      "created": "2025-11-04 12:26:28",
-      "created_at": 1762259188000
+      "id": 45877698,
+      "title": "Benchmarking leading AI agents against Google reCAPTCHA v2",
+      "link": "https://research.roundtable.ai/captcha-benchmarking/",
+      "score": 53,
+      "author": "mdahardy",
+      "created": "2025-11-10 16:38:31",
+      "created_at": 1762792711000
     },
     {
       "id": 45877149,
       "title": "Asus Ascent GX10",
       "link": "https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/",
-      "score": 3,
+      "score": 156,
       "author": "jimexp69",
       "created": "2025-11-10 15:56:57",
       "created_at": 1762790217000
     },
     {
-      "id": 45877077,
-      "title": "Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030",
-      "link": "https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials",
-      "score": 27,
-      "author": "badcryptobitch",
-      "created": "2025-11-10 15:50:20",
-      "created_at": 1762789820000
+      "id": 45876744,
+      "title": "LLMs are steroids for your Dunning-Kruger",
+      "link": "https://bytesauna.com/post/dunning-kruger",
+      "score": 181,
+      "author": "gridentio",
+      "created": "2025-11-10 15:14:05",
+      "created_at": 1762787645000
     },
     {
-      "id": 45873904,
-      "title": "Installing and using HP-UX 9",
-      "link": "https://thejpster.org.uk/blog/blog-2025-11-08/",
-      "score": 86,
-      "author": "TMWNN",
-      "created": "2025-11-10 08:48:14",
-      "created_at": 1762764494000
+      "id": 45875918,
+      "title": "Interesting SPI Routing with iCE40 FPGAs",
+      "link": "https://danielmangum.com/posts/spi-routing-ice40-fpga/",
+      "score": 79,
+      "author": "hasheddan",
+      "created": "2025-11-10 13:40:59",
+      "created_at": 1762782059000
     },
     {
-      "id": 45873037,
-      "title": "Beets: The music geek’s media organizer",
-      "link": "https://beets.io/",
-      "score": 174,
-      "author": "hyperific",
-      "created": "2025-11-10 06:29:54",
-      "created_at": 1762756194000
-    },
-    {
-      "id": 45776138,
-      "title": "Using the expand and contract pattern for schema changes",
-      "link": "https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern",
-      "score": 51,
-      "author": "tanelpoder",
-      "created": "2025-10-31 20:06:50",
-      "created_at": 1761941210000
-    },
-    {
-      "id": 45875903,
-      "title": "Steven Heller's Font of the Month: Archive Matrix",
-      "link": "https://ilovetypography.com/2025/11/07/steven-hellers-font-of-the-month-archive-matrix/",
+      "id": 45789250,
+      "title": "Rewilding the Internet",
+      "link": "https://www.protein.xyz/rewilding-the-internet/",
       "score": 15,
-      "author": "baruchel",
-      "created": "2025-11-10 13:38:42",
-      "created_at": 1762781922000
+      "author": "thinkingemote",
+      "created": "2025-11-02 10:24:05",
+      "created_at": 1762079045000
+    },
+    {
+      "id": 45810116,
+      "title": "Pose Animator – An open source tool to bring SVG characters to life (2020)",
+      "link": "https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html",
+      "score": 103,
+      "author": "jerlendds",
+      "created": "2025-11-04 12:26:28",
+      "created_at": 1762259188000
     }
   ],
   "code": 200,
