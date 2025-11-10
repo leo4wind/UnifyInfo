@@ -3,68 +3,77 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-10T04:19:25.168Z"
+    "lastUpdate": "2025-11-10T08:17:22.999Z"
   },
   "data": [
     {
-      "id": 45803904,
-      "title": "40 years on, Former Nintendo employees reveal what it took to launch the NES",
-      "link": "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/",
-      "score": 60,
-      "author": "brandrick",
-      "created": "2025-11-03 20:19:53",
-      "created_at": 1762201193000
+      "id": 45873434,
+      "title": "XSLT RIP",
+      "link": "https://xslt.rip/",
+      "score": 54,
+      "author": "edent",
+      "created": "2025-11-10 07:39:36",
+      "created_at": 1762760376000
     },
     {
-      "id": 45871531,
-      "title": "Open source has a growing problem with LLM generated issues",
-      "link": "https://github.com/opencontainers/runc/issues/4990",
-      "score": 36,
-      "author": "dropbox_miner",
-      "created": "2025-11-10 02:10:59",
-      "created_at": 1762740659000
+      "id": 45873113,
+      "title": "Realtime BART Arrival Display",
+      "link": "https://filbot.com/real-time-bart-display/",
+      "score": 40,
+      "author": "Jadrago",
+      "created": "2025-11-10 06:44:40",
+      "created_at": 1762757080000
     },
     {
       "id": 45866697,
       "title": "Marble Fountain",
       "link": "https://willmorrison.net/posts/marble-fountain/",
-      "score": 555,
+      "score": 664,
       "author": "chris_overseas",
       "created": "2025-11-09 16:26:09",
       "created_at": 1762705569000
     },
     {
+      "id": 45873037,
+      "title": "Beets: The music geek's media organizer",
+      "link": "https://beets.io/",
+      "score": 19,
+      "author": "hyperific",
+      "created": "2025-11-10 06:29:54",
+      "created_at": 1762756194000
+    },
+    {
       "id": 45869146,
       "title": "Ask HN: What Are You Working On? (Nov 2025)",
       "link": "",
-      "score": 160,
+      "score": 238,
       "author": "david927",
       "created": "2025-11-09 21:02:33",
       "created_at": 1762722153000
     },
     {
+      "id": 45871141,
+      "title": "How the UK lost its shipbuilding industry",
+      "link": "https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding",
+      "score": 69,
+      "author": "surprisetalk",
+      "created": "2025-11-10 01:23:58",
+      "created_at": 1762737838000
+    },
+    {
       "id": 45865289,
       "title": "Montana becomes first state to enshrine 'right to compute' into law",
       "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "score": 371,
+      "score": 426,
       "author": "bilsbie",
       "created": "2025-11-09 13:03:36",
       "created_at": 1762693416000
     },
     {
-      "id": 45870925,
-      "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
-      "link": "https://rajivm1991.github.io/DroidDock/",
-      "score": 33,
-      "author": "rajivm1991",
-      "created": "2025-11-10 00:51:33",
-      "created_at": 1762735893000
-    },
-    {
       "id": 45867717,
       "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
       "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "score": 148,
+      "score": 188,
       "author": "todsacerdoti",
       "created": "2025-11-09 18:17:44",
       "created_at": 1762712264000
@@ -73,28 +82,19 @@
       "id": 45803601,
       "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
       "link": "https://www.youtube.com/watch?v=dy-wFixuRVU",
-      "score": 136,
+      "score": 187,
       "author": "rsanek",
       "created": "2025-11-03 19:51:30",
       "created_at": 1762199490000
     },
     {
-      "id": 45808899,
-      "title": "JVM exceptions are weird: a decompiler perspective",
-      "link": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-      "score": 86,
-      "author": "vrnvu",
-      "created": "2025-11-04 09:08:23",
-      "created_at": 1762247303000
-    },
-    {
-      "id": 45866224,
-      "title": "The Manuscripts of Edsger W. Dijkstra",
-      "link": "https://www.cs.utexas.edu/~EWD/",
-      "score": 200,
-      "author": "nathan-barry",
-      "created": "2025-11-09 15:27:42",
-      "created_at": 1762702062000
+      "id": 45864341,
+      "title": "Itiner-e: the Google Maps of Roman Roads",
+      "link": "https://itiner-e.org/",
+      "score": 75,
+      "author": "helsinkiandrew",
+      "created": "2025-11-09 09:46:04",
+      "created_at": 1762681564000
     }
   ],
   "code": 200,

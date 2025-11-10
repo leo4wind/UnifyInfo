@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-10T04:19:24.991Z"
+    "lastUpdate": "2025-11-10T08:17:22.898Z"
   },
   "data": [
     {
       "id": 45863360,
       "title": "I Am Mark Zuckerberg",
       "link": "https://iammarkzuckerberg.com/",
-      "score": 1143,
+      "score": 1175,
       "author": "jb1991",
       "created": "2025-11-09 06:13:05",
       "created_at": 1762668785000
@@ -19,43 +19,52 @@
       "id": 45859402,
       "title": "I Want You to Understand Chicago",
       "link": "https://aphyr.com/posts/397-i-want-you-to-understand-chicago",
-      "score": 689,
+      "score": 695,
       "author": "tonyg",
       "created": "2025-11-08 19:47:26",
       "created_at": 1762631246000
     },
     {
-      "id": 45866243,
-      "title": "AI isn't replacing jobs. AI spending is",
-      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "score": 603,
-      "author": "felineflock",
-      "created": "2025-11-09 15:30:23",
-      "created_at": 1762702223000
-    },
-    {
       "id": 45866697,
       "title": "Marble Fountain",
       "link": "https://willmorrison.net/posts/marble-fountain/",
-      "score": 555,
+      "score": 664,
       "author": "chris_overseas",
       "created": "2025-11-09 16:26:09",
       "created_at": 1762705569000
     },
     {
+      "id": 45866243,
+      "title": "AI isn't replacing jobs. AI spending is",
+      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
+      "score": 630,
+      "author": "felineflock",
+      "created": "2025-11-09 15:30:23",
+      "created_at": 1762702223000
+    },
+    {
       "id": 45857053,
       "title": "Ticker: Don't die of heart disease",
       "link": "https://myticker.com/",
-      "score": 552,
+      "score": 555,
       "author": "colelyman",
       "created": "2025-11-08 14:59:05",
       "created_at": 1762613945000
     },
     {
+      "id": 45865289,
+      "title": "Montana becomes first state to enshrine 'right to compute' into law",
+      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+      "score": 426,
+      "author": "bilsbie",
+      "created": "2025-11-09 13:03:36",
+      "created_at": 1762693416000
+    },
+    {
       "id": 45856804,
       "title": "Study identifies weaknesses in how AI systems are evaluated",
       "link": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/",
-      "score": 402,
+      "score": 404,
       "author": "pseudolus",
       "created": "2025-11-08 14:18:22",
       "created_at": 1762611502000
@@ -64,25 +73,16 @@
       "id": 45859471,
       "title": "Largest cargo sailboat completes first Atlantic crossing",
       "link": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
-      "score": 376,
+      "score": 380,
       "author": "defrost",
       "created": "2025-11-08 19:57:52",
       "created_at": 1762631872000
     },
     {
-      "id": 45865289,
-      "title": "Montana becomes first state to enshrine 'right to compute' into law",
-      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "score": 371,
-      "author": "bilsbie",
-      "created": "2025-11-09 13:03:36",
-      "created_at": 1762693416000
-    },
-    {
       "id": 45860843,
       "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
       "link": "https://ironclad-os.org/",
-      "score": 358,
+      "score": 361,
       "author": "vitalnodo",
       "created": "2025-11-08 23:03:10",
       "created_at": 1762642990000
@@ -91,7 +91,7 @@
       "id": 45858905,
       "title": "Marko – A declarative, HTML‑based language",
       "link": "https://markojs.com/",
-      "score": 351,
+      "score": 355,
       "author": "ulrischa",
       "created": "2025-11-08 18:43:55",
       "created_at": 1762627435000
