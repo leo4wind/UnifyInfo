@@ -3,23 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-09T20:11:04.182Z"
+    "lastUpdate": "2025-11-10T00:56:15.598Z"
   },
   "data": [
     {
       "id": 45866697,
       "title": "Marble Fountain",
       "link": "https://willmorrison.net/posts/marble-fountain/",
-      "score": 187,
+      "score": 471,
       "author": "chris_overseas",
       "created": "2025-11-09 16:26:09",
       "created_at": 1762705569000
     },
     {
+      "id": 45869146,
+      "title": "Ask HN: What Are You Working On? (Nov 2025)",
+      "link": "",
+      "score": 103,
+      "author": "david927",
+      "created": "2025-11-09 21:02:33",
+      "created_at": 1762722153000
+    },
+    {
+      "id": 45808899,
+      "title": "JVM exceptions are weird: a decompiler perspective",
+      "link": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+      "score": 65,
+      "author": "vrnvu",
+      "created": "2025-11-04 09:08:23",
+      "created_at": 1762247303000
+    },
+    {
+      "id": 45865289,
+      "title": "Montana becomes first state to enshrine 'right to compute' into law",
+      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+      "score": 329,
+      "author": "bilsbie",
+      "created": "2025-11-09 13:03:36",
+      "created_at": 1762693416000
+    },
+    {
+      "id": 45803601,
+      "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+      "link": "https://www.youtube.com/watch?v=dy-wFixuRVU",
+      "score": 111,
+      "author": "rsanek",
+      "created": "2025-11-03 19:51:30",
+      "created_at": 1762199490000
+    },
+    {
       "id": 45867717,
-      "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+      "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
       "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "score": 43,
+      "score": 108,
       "author": "todsacerdoti",
       "created": "2025-11-09 18:17:44",
       "created_at": 1762712264000
@@ -28,73 +64,37 @@
       "id": 45866224,
       "title": "The Manuscripts of Edsger W. Dijkstra",
       "link": "https://www.cs.utexas.edu/~EWD/",
-      "score": 127,
+      "score": 180,
       "author": "nathan-barry",
       "created": "2025-11-09 15:27:42",
       "created_at": 1762702062000
     },
     {
-      "id": 45865289,
-      "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
-      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "score": 204,
-      "author": "bilsbie",
-      "created": "2025-11-09 13:03:36",
-      "created_at": 1762693416000
-    },
-    {
       "id": 45866572,
       "title": "The Principles of Diffusion Models",
       "link": "https://arxiv.org/abs/2510.21890",
-      "score": 70,
+      "score": 130,
       "author": "Anon84",
       "created": "2025-11-09 16:10:23",
       "created_at": 1762704623000
     },
     {
-      "id": 45868260,
-      "title": "U.S. Tech Layoffs Hit Two-Decade High in October",
-      "link": "https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/",
-      "score": 50,
-      "author": "mraniki",
-      "created": "2025-11-09 19:15:24",
-      "created_at": 1762715724000
-    },
-    {
-      "id": 45866772,
-      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
-      "link": "https://github.com/samcervantes/bumble-berry-pi",
+      "id": 45869587,
+      "title": "If You're Not Active, You're Sick – You Just Don't Know It Yet",
+      "link": "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you",
       "score": 45,
-      "author": "MakerSam",
-      "created": "2025-11-09 16:34:44",
-      "created_at": 1762706084000
+      "author": "rzk",
+      "created": "2025-11-09 21:56:29",
+      "created_at": 1762725389000
     },
     {
-      "id": 45866243,
-      "title": "AI isn't replacing jobs. AI spending is",
-      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "score": 388,
-      "author": "felineflock",
-      "created": "2025-11-09 15:30:23",
-      "created_at": 1762702223000
-    },
-    {
-      "id": 45804295,
-      "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
-      "link": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
-      "score": 16,
-      "author": "qikcik",
-      "created": "2025-11-03 20:52:50",
-      "created_at": 1762203170000
-    },
-    {
-      "id": 45865159,
-      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-      "link": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
-      "score": 103,
-      "author": "mwheeler",
-      "created": "2025-11-09 12:44:35",
-      "created_at": 1762692275000
+      "id": 45868259,
+      "title": "The Sega Master System",
+      "link": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+      "score": 52,
+      "author": "ibobev",
+      "created": "2025-11-09 19:15:21",
+      "created_at": 1762715721000
     }
   ],
   "code": 200,

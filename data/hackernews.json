@@ -3,59 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-09T20:11:04.022Z"
+    "lastUpdate": "2025-11-10T00:56:15.220Z"
   },
   "data": [
     {
       "id": 45863360,
       "title": "I Am Mark Zuckerberg",
       "link": "https://iammarkzuckerberg.com/",
-      "score": 996,
+      "score": 1111,
       "author": "jb1991",
       "created": "2025-11-09 06:13:05",
       "created_at": 1762668785000
     },
     {
-      "id": 45850963,
-      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-      "link": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
-      "score": 910,
-      "author": "WaitWaitWha",
-      "created": "2025-11-07 20:50:40",
-      "created_at": 1762548640000
-    },
-    {
       "id": 45859402,
       "title": "I Want You to Understand Chicago",
       "link": "https://aphyr.com/posts/397-i-want-you-to-understand-chicago",
-      "score": 669,
+      "score": 680,
       "author": "tonyg",
       "created": "2025-11-08 19:47:26",
       "created_at": 1762631246000
     },
     {
-      "id": 45850430,
-      "title": "Apple is crossing a Steve Jobs red line",
-      "link": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
-      "score": 587,
-      "author": "zdw",
-      "created": "2025-11-07 20:05:32",
-      "created_at": 1762545932000
-    },
-    {
-      "id": 45852328,
-      "title": "Why is Zig so cool?",
-      "link": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "score": 540,
-      "author": "vitalnodo",
-      "created": "2025-11-07 23:04:39",
-      "created_at": 1762556679000
+      "id": 45866243,
+      "title": "AI isn't replacing jobs. AI spending is",
+      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
+      "score": 574,
+      "author": "felineflock",
+      "created": "2025-11-09 15:30:23",
+      "created_at": 1762702223000
     },
     {
       "id": 45857053,
       "title": "Ticker: Don't die of heart disease",
       "link": "https://myticker.com/",
-      "score": 534,
+      "score": 544,
       "author": "colelyman",
       "created": "2025-11-08 14:59:05",
       "created_at": 1762613945000
@@ -64,37 +46,55 @@
       "id": 45852854,
       "title": "Valdi – A cross-platform UI framework that delivers native performance",
       "link": "https://github.com/Snapchat/Valdi",
-      "score": 505,
+      "score": 510,
       "author": "yehiaabdelm",
       "created": "2025-11-08 00:14:50",
       "created_at": 1762560890000
     },
     {
-      "id": 45850751,
-      "title": "VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025",
-      "link": "https://fsfe.org/news/2025/news-20251107-01.en.html",
-      "score": 427,
-      "author": "kirschner",
-      "created": "2025-11-07 20:31:36",
-      "created_at": 1762547496000
+      "id": 45866697,
+      "title": "Marble Fountain",
+      "link": "https://willmorrison.net/posts/marble-fountain/",
+      "score": 471,
+      "author": "chris_overseas",
+      "created": "2025-11-09 16:26:09",
+      "created_at": 1762705569000
     },
     {
       "id": 45856804,
       "title": "Study identifies weaknesses in how AI systems are evaluated",
       "link": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/",
-      "score": 397,
+      "score": 400,
       "author": "pseudolus",
       "created": "2025-11-08 14:18:22",
       "created_at": 1762611502000
     },
     {
-      "id": 45866243,
-      "title": "AI isn't replacing jobs. AI spending is",
-      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "score": 388,
-      "author": "felineflock",
-      "created": "2025-11-09 15:30:23",
-      "created_at": 1762702223000
+      "id": 45859471,
+      "title": "Largest cargo sailboat completes first Atlantic crossing",
+      "link": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
+      "score": 372,
+      "author": "defrost",
+      "created": "2025-11-08 19:57:52",
+      "created_at": 1762631872000
+    },
+    {
+      "id": 45860843,
+      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
+      "link": "https://ironclad-os.org/",
+      "score": 355,
+      "author": "vitalnodo",
+      "created": "2025-11-08 23:03:10",
+      "created_at": 1762642990000
+    },
+    {
+      "id": 45858905,
+      "title": "Marko – A declarative, HTML‑based language",
+      "link": "https://markojs.com/",
+      "score": 350,
+      "author": "ulrischa",
+      "created": "2025-11-08 18:43:55",
+      "created_at": 1762627435000
     }
   ],
   "code": 200,
