@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-11T12:21:53.525Z"
+    "lastUpdate": "2025-11-11T16:14:19.259Z"
   },
   "data": [
     {
       "id": 45883788,
       "title": "The 'Toy Story' You Remember",
       "link": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-      "score": 563,
+      "score": 848,
       "author": "ani_obsessive",
       "created": "2025-11-11 03:17:43",
       "created_at": 1762831063000
     },
     {
+      "id": 45887709,
+      "title": "Show HN: Gametje – A casual online gaming platform",
+      "link": "https://gametje.com",
+      "score": 42,
+      "author": "jmpavlec",
+      "created": "2025-11-11 14:36:31",
+      "created_at": 1762871791000
+    },
+    {
+      "id": 45885813,
+      "title": "iPhone Pocket",
+      "link": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
+      "score": 129,
+      "author": "soheilpro",
+      "created": "2025-11-11 10:17:57",
+      "created_at": 1762856277000
+    },
+    {
       "id": 45785300,
       "title": "I Fell in Love with Erlang",
       "link": "https://boragonul.com/post/falling-in-love-with-erlang",
-      "score": 111,
+      "score": 235,
       "author": "asabil",
       "created": "2025-11-01 21:00:33",
       "created_at": 1762030833000
     },
     {
-      "id": 45885242,
-      "title": "Why Effort Scales Superlinearly with the Perceived Quality of Creative Work",
-      "link": "https://markusstrasser.org/creative-work-landscapes.html",
-      "score": 34,
-      "author": "eatitraw",
-      "created": "2025-11-11 08:29:23",
-      "created_at": 1762849763000
-    },
-    {
-      "id": 45885135,
-      "title": "Zig / C++ Interop",
-      "link": "https://tuple.app/blog/zig-cpp-interop",
-      "score": 32,
-      "author": "simonklee",
-      "created": "2025-11-11 08:09:05",
-      "created_at": 1762848545000
-    },
-    {
-      "id": 45886131,
-      "title": "OpenAI may not use lyrics without license, German court rules",
-      "link": "https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/",
-      "score": 36,
-      "author": "aiz0Houp",
-      "created": "2025-11-11 11:20:55",
-      "created_at": 1762860055000
-    },
-    {
-      "id": 45840321,
-      "title": "Unix v4 Tape Found",
-      "link": "https://discuss.systems/@ricci/115504720054699983",
-      "score": 425,
-      "author": "greatquux",
-      "created": "2025-11-06 20:57:09",
-      "created_at": 1762462629000
-    },
-    {
-      "id": 45877257,
-      "title": "Unexpected things that are people",
-      "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
-      "score": 596,
-      "author": "lindowe",
-      "created": "2025-11-10 16:05:46",
-      "created_at": 1762790746000
-    },
-    {
-      "id": 45881568,
-      "title": "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
-      "link": "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf",
-      "score": 250,
+      "id": 45886479,
+      "title": "Widespread distribution of bacteria containing PETases across global oceans",
+      "link": "https://academic.oup.com/ismej/article/19/1/wraf121/8159680?login=false",
+      "score": 50,
       "author": "PaulHoule",
-      "created": "2025-11-10 22:05:16",
-      "created_at": 1762812316000
+      "created": "2025-11-11 12:22:38",
+      "created_at": 1762863758000
     },
     {
-      "id": 45876598,
-      "title": "Time to start de-Appling",
-      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-      "score": 515,
-      "author": "msangi",
-      "created": "2025-11-10 14:57:26",
-      "created_at": 1762786646000
+      "id": 45886194,
+      "title": "Advent of Code on the Z-Machine",
+      "link": "https://entropicthoughts.com/advent-of-code-on-z-machine",
+      "score": 50,
+      "author": "todsacerdoti",
+      "created": "2025-11-11 11:34:22",
+      "created_at": 1762860862000
+    },
+    {
+      "id": 45887536,
+      "title": "Show HN: Tusk Drift – Open-source tool for automating API tests",
+      "link": "https://github.com/Use-Tusk/drift-node-sdk",
+      "score": 18,
+      "author": "Marceltan",
+      "created": "2025-11-11 14:18:16",
+      "created_at": 1762870696000
+    },
+    {
+      "id": 45886002,
+      "title": "Welcome, the entire land - \"Hello, world!\" in hieroglyphics",
+      "link": "https://optional.is/required/2009/12/03/welcome-the-entire-land/",
+      "score": 50,
+      "author": "andrelaszlo",
+      "created": "2025-11-11 10:52:39",
+      "created_at": 1762858359000
+    },
+    {
+      "id": 45887857,
+      "title": "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
+      "link": "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html",
+      "score": 10,
+      "author": "PaulHoule",
+      "created": "2025-11-11 14:49:51",
+      "created_at": 1762872591000
+    },
+    {
+      "id": 45887105,
+      "title": "The Perplexing Appeal of the Telepathy Tapes",
+      "link": "https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes",
+      "score": 13,
+      "author": "surprisetalk",
+      "created": "2025-11-11 13:34:15",
+      "created_at": 1762868055000
     }
   ],
   "code": 200,
