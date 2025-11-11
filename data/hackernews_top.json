@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-10T20:13:39.133Z"
+    "lastUpdate": "2025-11-11T00:54:32.309Z"
   },
   "data": [
+    {
+      "id": 45881568,
+      "title": "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
+      "link": "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf",
+      "score": 106,
+      "author": "PaulHoule",
+      "created": "2025-11-10 22:05:16",
+      "created_at": 1762812316000
+    },
     {
       "id": 45877257,
       "title": "Unexpected things that are people",
       "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
-      "score": 243,
+      "score": 423,
       "author": "lindowe",
       "created": "2025-11-10 16:05:46",
       "created_at": 1762790746000
     },
     {
-      "id": 45878311,
-      "title": "European Commission plans “digital omnibus” package to simplify its tech laws",
-      "link": "https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/",
-      "score": 42,
-      "author": "purpleKiwi",
-      "created": "2025-11-10 17:29:59",
-      "created_at": 1762795799000
+      "id": 45867828,
+      "title": "Writing your own BEAM",
+      "link": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
+      "score": 132,
+      "author": "cbzbc",
+      "created": "2025-11-09 18:29:43",
+      "created_at": 1762712983000
+    },
+    {
+      "id": 45880939,
+      "title": "Spatial intelligence is AI’s next frontier",
+      "link": "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence",
+      "score": 102,
+      "author": "mkirchner",
+      "created": "2025-11-10 21:07:02",
+      "created_at": 1762808822000
     },
     {
       "id": 45878578,
-      "title": "The (Lazy) Git UI You Didn't Know You Need",
+      "title": "The lazy Git UI you didn't know you need",
       "link": "https://www.bwplotka.dev/2025/lazygit/",
-      "score": 43,
+      "score": 201,
       "author": "linhns",
       "created": "2025-11-10 17:50:21",
       "created_at": 1762797021000
     },
     {
-      "id": 45877517,
-      "title": "Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes",
-      "link": "https://www.hypercubic.ai/",
-      "score": 53,
-      "author": "sai18",
-      "created": "2025-11-10 16:23:24",
-      "created_at": 1762791804000
+      "id": 45879793,
+      "title": "Using Generative AI in Content Production",
+      "link": "https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production",
+      "score": 80,
+      "author": "CaRDiaK",
+      "created": "2025-11-10 19:28:07",
+      "created_at": 1762802887000
     },
     {
-      "id": 45877698,
-      "title": "Benchmarking leading AI agents against Google reCAPTCHA v2",
-      "link": "https://research.roundtable.ai/captcha-benchmarking/",
-      "score": 53,
-      "author": "mdahardy",
-      "created": "2025-11-10 16:38:31",
-      "created_at": 1762792711000
+      "id": 45840321,
+      "title": "Unix v4 Tape Found",
+      "link": "https://discuss.systems/@ricci/115504720054699983",
+      "score": 143,
+      "author": "greatquux",
+      "created": "2025-11-06 20:57:09",
+      "created_at": 1762462629000
     },
     {
-      "id": 45877149,
-      "title": "Asus Ascent GX10",
-      "link": "https://www.asus.com/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/",
-      "score": 156,
-      "author": "jimexp69",
-      "created": "2025-11-10 15:56:57",
-      "created_at": 1762790217000
+      "id": 45801966,
+      "title": "Dependent types and how to get rid of them",
+      "link": "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased",
+      "score": 40,
+      "author": "pie_flavor",
+      "created": "2025-11-03 17:49:25",
+      "created_at": 1762192165000
     },
     {
-      "id": 45876744,
-      "title": "LLMs are steroids for your Dunning-Kruger",
-      "link": "https://bytesauna.com/post/dunning-kruger",
-      "score": 181,
-      "author": "gridentio",
-      "created": "2025-11-10 15:14:05",
-      "created_at": 1762787645000
+      "id": 45881056,
+      "title": "Zeroing in on Zero-Point Motion Inside a Crystal",
+      "link": "https://physics.aps.org/articles/v18/178",
+      "score": 31,
+      "author": "lc0_stein",
+      "created": "2025-11-10 21:17:04",
+      "created_at": 1762809424000
     },
     {
-      "id": 45875918,
-      "title": "Interesting SPI Routing with iCE40 FPGAs",
-      "link": "https://danielmangum.com/posts/spi-routing-ice40-fpga/",
-      "score": 79,
-      "author": "hasheddan",
-      "created": "2025-11-10 13:40:59",
-      "created_at": 1762782059000
-    },
-    {
-      "id": 45789250,
-      "title": "Rewilding the Internet",
-      "link": "https://www.protein.xyz/rewilding-the-internet/",
-      "score": 15,
-      "author": "thinkingemote",
-      "created": "2025-11-02 10:24:05",
-      "created_at": 1762079045000
-    },
-    {
-      "id": 45810116,
-      "title": "Pose Animator – An open source tool to bring SVG characters to life (2020)",
-      "link": "https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html",
-      "score": 103,
-      "author": "jerlendds",
-      "created": "2025-11-04 12:26:28",
-      "created_at": 1762259188000
+      "id": 45817559,
+      "title": "The Physics of News, Rumors, and Opinions",
+      "link": "https://arxiv.org/abs/2510.15053",
+      "score": 14,
+      "author": "Anon84",
+      "created": "2025-11-05 00:22:16",
+      "created_at": 1762302136000
     }
   ],
   "code": 200,

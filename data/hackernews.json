@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-10T20:13:39.034Z"
+    "lastUpdate": "2025-11-11T00:54:32.218Z"
   },
   "data": [
     {
       "id": 45863360,
       "title": "I Am Mark Zuckerberg",
       "link": "https://iammarkzuckerberg.com/",
-      "score": 1254,
+      "score": 1259,
       "author": "jb1991",
       "created": "2025-11-09 06:13:05",
       "created_at": 1762668785000
@@ -19,25 +19,16 @@
       "id": 45866697,
       "title": "Marble Fountain",
       "link": "https://willmorrison.net/posts/marble-fountain/",
-      "score": 821,
+      "score": 847,
       "author": "chris_overseas",
       "created": "2025-11-09 16:26:09",
       "created_at": 1762705569000
     },
     {
-      "id": 45859402,
-      "title": "I Want You to Understand Chicago",
-      "link": "https://aphyr.com/posts/397-i-want-you-to-understand-chicago",
-      "score": 718,
-      "author": "tonyg",
-      "created": "2025-11-08 19:47:26",
-      "created_at": 1762631246000
-    },
-    {
       "id": 45866243,
       "title": "AI isn't replacing jobs. AI spending is",
       "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "score": 669,
+      "score": 673,
       "author": "felineflock",
       "created": "2025-11-09 15:30:23",
       "created_at": 1762702223000
@@ -46,7 +37,7 @@
       "id": 45873434,
       "title": "XSLT RIP",
       "link": "https://xslt.rip/",
-      "score": 616,
+      "score": 639,
       "author": "edent",
       "created": "2025-11-10 07:39:36",
       "created_at": 1762760376000
@@ -55,7 +46,7 @@
       "id": 45865289,
       "title": "Montana becomes first state to enshrine 'right to compute' into law",
       "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "score": 517,
+      "score": 528,
       "author": "bilsbie",
       "created": "2025-11-09 13:03:36",
       "created_at": 1762693416000
@@ -64,37 +55,46 @@
       "id": 45870863,
       "title": "Work after work: Notes from an unemployed new grad watching the job market break",
       "link": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
-      "score": 487,
+      "score": 504,
       "author": "linkregister",
       "created": "2025-11-10 00:43:59",
       "created_at": 1762735439000
     },
     {
-      "id": 45859471,
-      "title": "Largest cargo sailboat completes first Atlantic crossing",
-      "link": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
-      "score": 386,
-      "author": "defrost",
-      "created": "2025-11-08 19:57:52",
-      "created_at": 1762631872000
-    },
-    {
-      "id": 45860843,
-      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
-      "link": "https://ironclad-os.org/",
-      "score": 364,
-      "author": "vitalnodo",
-      "created": "2025-11-08 23:03:10",
-      "created_at": 1762642990000
+      "id": 45877257,
+      "title": "Unexpected things that are people",
+      "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+      "score": 423,
+      "author": "lindowe",
+      "created": "2025-11-10 16:05:46",
+      "created_at": 1762790746000
     },
     {
       "id": 45869146,
       "title": "Ask HN: What Are You Working On? (Nov 2025)",
       "link": "",
-      "score": 351,
+      "score": 361,
       "author": "david927",
       "created": "2025-11-09 21:02:33",
       "created_at": 1762722153000
+    },
+    {
+      "id": 45862470,
+      "title": "Tabloid: The Clickbait Headline Programming Language",
+      "link": "https://tabloid.vercel.app/",
+      "score": 321,
+      "author": "sadeshmukh",
+      "created": "2025-11-09 02:53:45",
+      "created_at": 1762656825000
+    },
+    {
+      "id": 45876744,
+      "title": "LLMs are steroids for your Dunning-Kruger",
+      "link": "https://bytesauna.com/post/dunning-kruger",
+      "score": 312,
+      "author": "gridentio",
+      "created": "2025-11-10 15:14:05",
+      "created_at": 1762787645000
     }
   ],
   "code": 200,
