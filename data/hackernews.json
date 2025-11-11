@@ -3,41 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-11T16:14:18.859Z"
+    "lastUpdate": "2025-11-11T20:12:40.743Z"
   },
   "data": [
-    {
-      "id": 45866697,
-      "title": "Marble Fountain",
-      "link": "https://willmorrison.net/posts/marble-fountain/",
-      "score": 867,
-      "author": "chris_overseas",
-      "created": "2025-11-09 16:26:09",
-      "created_at": 1762705569000
-    },
     {
       "id": 45883788,
       "title": "The 'Toy Story' You Remember",
       "link": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-      "score": 848,
+      "score": 1054,
       "author": "ani_obsessive",
       "created": "2025-11-11 03:17:43",
       "created_at": 1762831063000
     },
     {
-      "id": 45866243,
-      "title": "AI isn't replacing jobs. AI spending is",
-      "link": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "score": 683,
-      "author": "felineflock",
-      "created": "2025-11-09 15:30:23",
-      "created_at": 1762702223000
-    },
-    {
       "id": 45873434,
       "title": "XSLT RIP",
       "link": "https://xslt.rip/",
-      "score": 672,
+      "score": 679,
       "author": "edent",
       "created": "2025-11-10 07:39:36",
       "created_at": 1762760376000
@@ -46,7 +28,7 @@
       "id": 45877257,
       "title": "Unexpected things that are people",
       "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
-      "score": 624,
+      "score": 633,
       "author": "lindowe",
       "created": "2025-11-10 16:05:46",
       "created_at": 1762790746000
@@ -55,7 +37,7 @@
       "id": 45876598,
       "title": "Time to start de-Appling",
       "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-      "score": 570,
+      "score": 586,
       "author": "msangi",
       "created": "2025-11-10 14:57:26",
       "created_at": 1762786646000
@@ -64,7 +46,7 @@
       "id": 45870863,
       "title": "Work after work: Notes from an unemployed new grad watching the job market break",
       "link": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
-      "score": 522,
+      "score": 529,
       "author": "linkregister",
       "created": "2025-11-10 00:43:59",
       "created_at": 1762735439000
@@ -73,7 +55,7 @@
       "id": 45869146,
       "title": "Ask HN: What Are You Working On? (Nov 2025)",
       "link": "",
-      "score": 415,
+      "score": 423,
       "author": "david927",
       "created": "2025-11-09 21:02:33",
       "created_at": 1762722153000
@@ -82,7 +64,7 @@
       "id": 45878578,
       "title": "The lazy Git UI you didn't know you need",
       "link": "https://www.bwplotka.dev/2025/lazygit/",
-      "score": 401,
+      "score": 408,
       "author": "linhns",
       "created": "2025-11-10 17:50:21",
       "created_at": 1762797021000
@@ -91,10 +73,28 @@
       "id": 45876744,
       "title": "LLMs are steroids for your Dunning-Kruger",
       "link": "https://bytesauna.com/post/dunning-kruger",
-      "score": 373,
+      "score": 381,
       "author": "gridentio",
       "created": "2025-11-10 15:14:05",
       "created_at": 1762787645000
+    },
+    {
+      "id": 45874987,
+      "title": "Vibe Code Warning – A personal casestudy",
+      "link": "https://github.com/jackdoe/pico2-swd-riscv",
+      "score": 371,
+      "author": "jackdoe",
+      "created": "2025-11-10 11:45:15",
+      "created_at": 1762775115000
+    },
+    {
+      "id": 45882837,
+      "title": "Warren Buffett's final shareholder letter [pdf]",
+      "link": "https://berkshirehathaway.com/news/nov1025.pdf",
+      "score": 368,
+      "author": "philip1209",
+      "created": "2025-11-11 00:51:44",
+      "created_at": 1762822304000
     }
   ],
   "code": 200,
