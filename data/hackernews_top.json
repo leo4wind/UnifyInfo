@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-11T04:16:09.414Z"
+    "lastUpdate": "2025-11-11T08:15:35.977Z"
   },
   "data": [
     {
       "id": 45883788,
       "title": "The 'Toy Story' You Remember",
       "link": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-      "score": 15,
+      "score": 389,
       "author": "ani_obsessive",
       "created": "2025-11-11 03:17:43",
       "created_at": 1762831063000
     },
     {
-      "id": 45881568,
-      "title": "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
-      "link": "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf",
-      "score": 168,
-      "author": "PaulHoule",
-      "created": "2025-11-10 22:05:16",
-      "created_at": 1762812316000
-    },
-    {
-      "id": 45877257,
-      "title": "Unexpected things that are people",
-      "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
-      "score": 495,
-      "author": "lindowe",
-      "created": "2025-11-10 16:05:46",
-      "created_at": 1762790746000
-    },
-    {
-      "id": 45840321,
-      "title": "Unix v4 Tape Found",
-      "link": "https://discuss.systems/@ricci/115504720054699983",
-      "score": 247,
-      "author": "greatquux",
-      "created": "2025-11-06 20:57:09",
-      "created_at": 1762462629000
-    },
-    {
-      "id": 45882736,
-      "title": "Toucan Wireless Split Keyboard with Touchpad",
-      "link": "https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad",
-      "score": 51,
-      "author": "tortilla",
-      "created": "2025-11-11 00:31:58",
-      "created_at": 1762821118000
-    },
-    {
-      "id": 45878578,
-      "title": "The lazy Git UI you didn't know you need",
-      "link": "https://www.bwplotka.dev/2025/lazygit/",
-      "score": 255,
-      "author": "linhns",
-      "created": "2025-11-10 17:50:21",
-      "created_at": 1762797021000
-    },
-    {
-      "id": 45867828,
-      "title": "Writing your own BEAM",
-      "link": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
-      "score": 173,
-      "author": "cbzbc",
-      "created": "2025-11-09 18:29:43",
-      "created_at": 1762712983000
-    },
-    {
-      "id": 45876598,
-      "title": "Time to start de-Appling",
-      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-      "score": 339,
-      "author": "msangi",
-      "created": "2025-11-10 14:57:26",
-      "created_at": 1762786646000
+      "id": 45884169,
+      "title": "AI documentation you can talk to, for every repo",
+      "link": "https://deepwiki.com/",
+      "score": 68,
+      "author": "jicea",
+      "created": "2025-11-11 04:38:24",
+      "created_at": 1762835904000
     },
     {
       "id": 45810048,
-      "title": "When Soviet-Made Cars Roamed Singapore Roads",
+      "title": "When Soviet-made cars roamed Singapore roads",
       "link": "https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/",
-      "score": 9,
+      "score": 60,
       "author": "sohkamyung",
       "created": "2025-11-04 12:16:54",
       "created_at": 1762258614000
     },
     {
-      "id": 45880939,
-      "title": "Spatial intelligence is AI’s next frontier",
-      "link": "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence",
-      "score": 151,
-      "author": "mkirchner",
-      "created": "2025-11-10 21:07:02",
-      "created_at": 1762808822000
+      "id": 45840321,
+      "title": "Unix v4 Tape Found",
+      "link": "https://discuss.systems/@ricci/115504720054699983",
+      "score": 349,
+      "author": "greatquux",
+      "created": "2025-11-06 20:57:09",
+      "created_at": 1762462629000
+    },
+    {
+      "id": 45877257,
+      "title": "Unexpected things that are people",
+      "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+      "score": 545,
+      "author": "lindowe",
+      "created": "2025-11-10 16:05:46",
+      "created_at": 1762790746000
+    },
+    {
+      "id": 45881568,
+      "title": "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
+      "link": "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf",
+      "score": 208,
+      "author": "PaulHoule",
+      "created": "2025-11-10 22:05:16",
+      "created_at": 1762812316000
+    },
+    {
+      "id": 45883995,
+      "title": "Hiring a developer as a small indie studio in 2025",
+      "link": "https://www.ballardgames.com/tales/hiring-dev-2025/",
+      "score": 46,
+      "author": "jordigh",
+      "created": "2025-11-11 04:04:24",
+      "created_at": 1762833864000
+    },
+    {
+      "id": 45878578,
+      "title": "The lazy Git UI you didn't know you need",
+      "link": "https://www.bwplotka.dev/2025/lazygit/",
+      "score": 318,
+      "author": "linhns",
+      "created": "2025-11-10 17:50:21",
+      "created_at": 1762797021000
+    },
+    {
+      "id": 45876598,
+      "title": "Time to start de-Appling",
+      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
+      "score": 421,
+      "author": "msangi",
+      "created": "2025-11-10 14:57:26",
+      "created_at": 1762786646000
+    },
+    {
+      "id": 45830869,
+      "title": "Myna: monospace typeface designed for symbol-rich programming",
+      "link": "https://github.com/sayyadirfanali/Myna",
+      "score": 13,
+      "author": "vinhnx",
+      "created": "2025-11-06 02:56:22",
+      "created_at": 1762397782000
     }
   ],
   "code": 200,
