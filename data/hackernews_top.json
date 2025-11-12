@@ -3,32 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-12T00:54:21.247Z"
+    "lastUpdate": "2025-11-12T04:15:22.737Z"
   },
   "data": [
-    {
-      "id": 45894569,
-      "title": "I can build enterprise software but I can't charge for it",
-      "link": "https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa",
-      "score": 75,
-      "author": "echend",
-      "created": "2025-11-11 23:58:08",
-      "created_at": 1762905488000
-    },
     {
       "id": 45893004,
       "title": "X5.1 solar flare, G4 geomagnetic storm watch",
       "link": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
-      "score": 131,
+      "score": 219,
       "author": "sva_",
       "created": "2025-11-11 21:18:26",
       "created_at": 1762895906000
     },
     {
       "id": 45893986,
-      "title": ".NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia",
+      "title": ".NET MAUI is coming to Linux and the browser, powered by Avalonia",
       "link": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia",
-      "score": 58,
+      "score": 109,
       "author": "vyrotek",
       "created": "2025-11-11 22:50:32",
       "created_at": 1762901432000
@@ -37,34 +28,34 @@
       "id": 45893095,
       "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
       "link": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
-      "score": 87,
+      "score": 154,
       "author": "jamesbelchamber",
       "created": "2025-11-11 21:25:19",
       "created_at": 1762896319000
     },
     {
-      "id": 45894588,
-      "title": "Why Nietzsche Matters in the Age of Artificial Intelligence",
-      "link": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/",
-      "score": 15,
-      "author": "pseudolus",
-      "created": "2025-11-11 23:59:49",
-      "created_at": 1762905589000
-    },
-    {
       "id": 45789674,
       "title": "Laptops adorned with creative stickers",
       "link": "https://stickertop.art/main/",
-      "score": 134,
+      "score": 220,
       "author": "z303",
       "created": "2025-11-02 11:58:52",
       "created_at": 1762084732000
     },
     {
+      "id": 45896130,
+      "title": "Perkeep lets you permanently keep your stuff, for life",
+      "link": "https://perkeep.org/",
+      "score": 7,
+      "author": "nikolay",
+      "created": "2025-11-12 03:34:32",
+      "created_at": 1762918472000
+    },
+    {
       "id": 45893795,
       "title": "Four strange places to see London's Roman Wall",
       "link": "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html",
-      "score": 46,
+      "score": 86,
       "author": "zeristor",
       "created": "2025-11-11 22:31:41",
       "created_at": 1762900301000
@@ -73,28 +64,37 @@
       "id": 45891907,
       "title": "A modern 35mm film scanner for home",
       "link": "https://www.soke.engineering/",
-      "score": 120,
+      "score": 162,
       "author": "QiuChuck",
       "created": "2025-11-11 19:48:19",
       "created_at": 1762890499000
     },
     {
-      "id": 45892191,
-      "title": "The terminal of the future",
-      "link": "https://jyn.dev/the-terminal-of-the-future",
-      "score": 91,
-      "author": "miguelraz",
-      "created": "2025-11-11 20:11:33",
-      "created_at": 1762891893000
-    },
-    {
       "id": 45893646,
       "title": "Heroku Support for .NET 10",
       "link": "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/",
-      "score": 20,
+      "score": 45,
       "author": "runesoerensen",
       "created": "2025-11-11 22:18:17",
       "created_at": 1762899497000
+    },
+    {
+      "id": 45860552,
+      "title": "The history of Casio watches",
+      "link": "https://www.casio.com/us/watches/50th/Heritage/1970s/",
+      "score": 177,
+      "author": "qainsights",
+      "created": "2025-11-08 22:16:40",
+      "created_at": 1762640200000
+    },
+    {
+      "id": 45892191,
+      "title": "The terminal of the future",
+      "link": "https://jyn.dev/the-terminal-of-the-future",
+      "score": 139,
+      "author": "miguelraz",
+      "created": "2025-11-11 20:11:33",
+      "created_at": 1762891893000
     }
   ],
   "code": 200,

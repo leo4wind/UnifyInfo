@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-12T00:54:21.134Z"
+    "lastUpdate": "2025-11-12T04:15:22.496Z"
   },
   "data": [
     {
       "id": 45883788,
       "title": "The 'Toy Story' You Remember",
       "link": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-      "score": 1091,
+      "score": 1111,
       "author": "ani_obsessive",
       "created": "2025-11-11 03:17:43",
       "created_at": 1762831063000
@@ -19,7 +19,7 @@
       "id": 45873434,
       "title": "XSLT RIP",
       "link": "https://xslt.rip/",
-      "score": 682,
+      "score": 685,
       "author": "edent",
       "created": "2025-11-10 07:39:36",
       "created_at": 1762760376000
@@ -34,37 +34,28 @@
       "created_at": 1762790746000
     },
     {
-      "id": 45876598,
-      "title": "Time to start de-Appling",
-      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-      "score": 590,
-      "author": "msangi",
-      "created": "2025-11-10 14:57:26",
-      "created_at": 1762786646000
-    },
-    {
-      "id": 45870863,
-      "title": "Work after work: Notes from an unemployed new grad watching the job market break",
-      "link": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
-      "score": 530,
-      "author": "linkregister",
-      "created": "2025-11-10 00:43:59",
-      "created_at": 1762735439000
-    },
-    {
       "id": 45891016,
       "title": "FFmpeg to Google: Fund us or stop sending bugs",
       "link": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-      "score": 455,
+      "score": 635,
       "author": "CrankyBear",
       "created": "2025-11-11 18:32:11",
       "created_at": 1762885931000
     },
     {
+      "id": 45876598,
+      "title": "Time to start de-Appling",
+      "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
+      "score": 594,
+      "author": "msangi",
+      "created": "2025-11-10 14:57:26",
+      "created_at": 1762786646000
+    },
+    {
       "id": 45885813,
       "title": "iPhone Pocket",
       "link": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
-      "score": 421,
+      "score": 457,
       "author": "soheilpro",
       "created": "2025-11-11 10:17:57",
       "created_at": 1762856277000
@@ -73,7 +64,7 @@
       "id": 45878578,
       "title": "The lazy Git UI you didn't know you need",
       "link": "https://www.bwplotka.dev/2025/lazygit/",
-      "score": 411,
+      "score": 414,
       "author": "linhns",
       "created": "2025-11-10 17:50:21",
       "created_at": 1762797021000
@@ -82,7 +73,7 @@
       "id": 45876744,
       "title": "LLMs are steroids for your Dunning-Kruger",
       "link": "https://bytesauna.com/post/dunning-kruger",
-      "score": 382,
+      "score": 384,
       "author": "gridentio",
       "created": "2025-11-10 15:14:05",
       "created_at": 1762787645000
@@ -91,10 +82,19 @@
       "id": 45882837,
       "title": "Warren Buffett's final shareholder letter [pdf]",
       "link": "https://berkshirehathaway.com/news/nov1025.pdf",
-      "score": 377,
+      "score": 379,
       "author": "philip1209",
       "created": "2025-11-11 00:51:44",
       "created_at": 1762822304000
+    },
+    {
+      "id": 45874987,
+      "title": "Vibe Code Warning – A personal casestudy",
+      "link": "https://github.com/jackdoe/pico2-swd-riscv",
+      "score": 379,
+      "author": "jackdoe",
+      "created": "2025-11-10 11:45:15",
+      "created_at": 1762775115000
     }
   ],
   "code": 200,
