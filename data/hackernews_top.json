@@ -3,59 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-12T08:16:15.131Z"
+    "lastUpdate": "2025-11-12T12:22:37.344Z"
   },
   "data": [
     {
       "id": 45897271,
       "title": "Yann LeCun to depart Meta and launch AI startup focused on 'world models'",
       "link": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models",
-      "score": 64,
+      "score": 339,
       "author": "MindBreaker2605",
       "created": "2025-11-12 07:25:30",
       "created_at": 1762932330000
     },
     {
+      "id": 45897457,
+      "title": "Please donate to keep Network Time Protocol up – Goal 1k",
+      "link": "https://www.ntp.org/",
+      "score": 105,
+      "author": "gastonmorixe",
+      "created": "2025-11-12 07:56:35",
+      "created_at": 1762934195000
+    },
+    {
+      "id": 45897935,
+      "title": "What happened to Transmeta, the last big dotcom IPO",
+      "link": "https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/",
+      "score": 32,
+      "author": "onename",
+      "created": "2025-11-12 09:01:41",
+      "created_at": 1762938101000
+    },
+    {
+      "id": 45898789,
+      "title": "Pakistani newspaper mistakenly prints AI prompt with the article",
+      "link": "https://twitter.com/omar_quraishi/status/1988518627859951986",
+      "score": 54,
+      "author": "wg0",
+      "created": "2025-11-12 11:17:06",
+      "created_at": 1762946226000
+    },
+    {
       "id": 45897122,
       "title": "Simulating a Planet on the GPU: Part 1 (2022)",
       "link": "https://www.patrickcelentano.com/blog/planet-sim-part-1",
-      "score": 13,
+      "score": 70,
       "author": "Doches",
       "created": "2025-11-12 06:58:06",
       "created_at": 1762930686000
     },
     {
-      "id": 45897016,
-      "title": "You will own nothing and be (un)happy",
-      "link": "https://racc.blog/you-will-own-nothing-and-be-unhappy/",
-      "score": 21,
-      "author": "showthemfangs",
-      "created": "2025-11-12 06:37:13",
-      "created_at": 1762929433000
-    },
-    {
       "id": 45893004,
       "title": "X5.1 solar flare, G4 geomagnetic storm watch",
       "link": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
-      "score": 304,
+      "score": 342,
       "author": "sva_",
       "created": "2025-11-11 21:18:26",
       "created_at": 1762895906000
     },
     {
-      "id": 45829790,
-      "title": "Bluetooth 6.2 – more responsive, improves security, USB comms, and testing",
-      "link": "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/",
-      "score": 66,
-      "author": "zdw",
-      "created": "2025-11-06 00:09:05",
-      "created_at": 1762387745000
-    },
-    {
       "id": 45789674,
       "title": "Laptops with Stickers",
       "link": "https://stickertop.art/main/",
-      "score": 348,
+      "score": 452,
       "author": "z303",
       "created": "2025-11-02 11:58:52",
       "created_at": 1762084732000
@@ -64,37 +73,28 @@
       "id": 45893095,
       "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
       "link": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
-      "score": 203,
+      "score": 253,
       "author": "jamesbelchamber",
       "created": "2025-11-11 21:25:19",
       "created_at": 1762896319000
     },
     {
-      "id": 45896130,
-      "title": "Perkeep – Personal storage system for life",
-      "link": "https://perkeep.org/",
-      "score": 147,
-      "author": "nikolay",
-      "created": "2025-11-12 03:34:32",
-      "created_at": 1762918472000
+      "id": 45898407,
+      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
+      "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
+      "score": 10,
+      "author": "bertman",
+      "created": "2025-11-12 10:12:53",
+      "created_at": 1762942373000
     },
     {
-      "id": 45893986,
-      "title": ".NET MAUI is coming to Linux and the browser",
-      "link": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia",
-      "score": 192,
-      "author": "vyrotek",
-      "created": "2025-11-11 22:50:32",
-      "created_at": 1762901432000
-    },
-    {
-      "id": 45893795,
-      "title": "Four strange places to see London's Roman Wall",
-      "link": "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html",
-      "score": 139,
-      "author": "zeristor",
-      "created": "2025-11-11 22:31:41",
-      "created_at": 1762900301000
+      "id": 45888620,
+      "title": ".NET 10",
+      "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
+      "score": 262,
+      "author": "runesoerensen",
+      "created": "2025-11-11 15:44:35",
+      "created_at": 1762875875000
     }
   ],
   "code": 200,
