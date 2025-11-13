@@ -3,23 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-13T00:54:12.735Z"
+    "lastUpdate": "2025-11-13T04:17:36.682Z"
   },
   "data": [
+    {
+      "id": 45908938,
+      "title": "Google will allow users to sideload Android apps without verification",
+      "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "score": 390,
+      "author": "erohead",
+      "created": "2025-11-13 00:33:25",
+      "created_at": 1762994005000
+    },
+    {
+      "id": 45909667,
+      "title": "My dad could still be alive, but he's not",
+      "link": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
+      "score": 231,
+      "author": "DustinEchoes",
+      "created": "2025-11-13 02:17:30",
+      "created_at": 1763000250000
+    },
     {
       "id": 45901904,
       "title": "The last-ever penny will be minted today in Philadelphia",
       "link": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-      "score": 525,
+      "score": 603,
       "author": "andrewl",
       "created": "2025-11-12 16:10:13",
       "created_at": 1762963813000
     },
     {
+      "id": 45909059,
+      "title": "Human Fovea Detector",
+      "link": "https://www.shadertoy.com/view/4dsXzM",
+      "score": 42,
+      "author": "AbuAssar",
+      "created": "2025-11-13 00:48:45",
+      "created_at": 1762994925000
+    },
+    {
       "id": 45907541,
       "title": "Marble: A Multimodal World Model",
       "link": "https://www.worldlabs.ai/blog/marble-world-model",
-      "score": 59,
+      "score": 138,
       "author": "meetpateltech",
       "created": "2025-11-12 22:11:14",
       "created_at": 1762985474000
@@ -28,7 +55,7 @@
       "id": 45902898,
       "title": "Project Euler",
       "link": "https://projecteuler.net",
-      "score": 294,
+      "score": 372,
       "author": "swatson741",
       "created": "2025-11-12 17:24:54",
       "created_at": 1762968294000
@@ -37,64 +64,37 @@
       "id": 45903404,
       "title": "Steam Machine",
       "link": "https://store.steampowered.com/sale/steammachine",
-      "score": 1283,
+      "score": 1492,
       "author": "davikr",
       "created": "2025-11-12 17:59:43",
       "created_at": 1762970383000
     },
     {
-      "id": 45898407,
-      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-      "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "score": 847,
-      "author": "bertman",
-      "created": "2025-11-12 10:12:53",
-      "created_at": 1762942373000
+      "id": 45837042,
+      "title": "Benzene at 200",
+      "link": "https://www.rigb.org/explore-science/explore/blog/tiny-vial-changed-world-benzene-200",
+      "score": 16,
+      "author": "conditionnumber",
+      "created": "2025-11-06 16:33:42",
+      "created_at": 1762446822000
     },
     {
-      "id": 45903325,
-      "title": "Steam Frame",
-      "link": "https://store.steampowered.com/sale/steamframe",
-      "score": 933,
-      "author": "Philpax",
-      "created": "2025-11-12 17:54:58",
-      "created_at": 1762970098000
+      "id": 45900370,
+      "title": "Fighting the New York Times' invasion of user privacy",
+      "link": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
+      "score": 291,
+      "author": "meetpateltech",
+      "created": "2025-11-12 14:08:28",
+      "created_at": 1762956508000
     },
     {
-      "id": 45856014,
-      "title": "Disassembling terabytes of random data with Zig and Capstone to prove a point",
-      "link": "https://jstrieb.github.io/posts/random-instructions/",
-      "score": 30,
-      "author": "birdculture",
-      "created": "2025-11-08 11:49:36",
-      "created_at": 1762602576000
-    },
-    {
-      "id": 45907259,
-      "title": "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
-      "link": "https://github.com/Homebrew/brew/issues/20755",
-      "score": 114,
-      "author": "firexcy",
-      "created": "2025-11-12 21:50:14",
-      "created_at": 1762984214000
-    },
-    {
-      "id": 45903161,
-      "title": "Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React",
-      "link": "",
-      "score": 72,
-      "author": "jsunderland323",
-      "created": "2025-11-12 17:43:42",
-      "created_at": 1762969422000
-    },
-    {
-      "id": 45899189,
-      "title": "A brief look at FreeBSD",
-      "link": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
-      "score": 109,
-      "author": "todsacerdoti",
-      "created": "2025-11-12 12:10:11",
-      "created_at": 1762949411000
+      "id": 45803408,
+      "title": "Max Number of Simultaneous Key-Press (N-Key Rollover, NKRO, Ghosting) (2010)",
+      "link": "http://xahlee.info/kbd/keyboard_n-key_rollover_key_ghosting.html",
+      "score": 21,
+      "author": "behnamoh",
+      "created": "2025-11-03 19:36:27",
+      "created_at": 1762198587000
     }
   ],
   "code": 200,
