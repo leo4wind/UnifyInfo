@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-12T20:13:22.552Z"
+    "lastUpdate": "2025-11-13T00:54:12.735Z"
   },
   "data": [
     {
       "id": 45901904,
       "title": "The last-ever penny will be minted today in Philadelphia",
       "link": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-      "score": 289,
+      "score": 525,
       "author": "andrewl",
       "created": "2025-11-12 16:10:13",
       "created_at": 1762963813000
     },
     {
-      "id": 45903888,
-      "title": "Maestro Technology Sells Used SSD Drives as New",
-      "link": "https://kozubik.com/items/MaestroTechnology/",
-      "score": 94,
-      "author": "walterbell",
-      "created": "2025-11-12 18:29:18",
-      "created_at": 1762972158000
-    },
-    {
-      "id": 45903404,
-      "title": "Steam Machine",
-      "link": "https://store.steampowered.com/sale/steammachine",
-      "score": 604,
-      "author": "davikr",
-      "created": "2025-11-12 17:59:43",
-      "created_at": 1762970383000
-    },
-    {
-      "id": 45903325,
-      "title": "Steam Frame",
-      "link": "https://store.steampowered.com/sale/steamframe",
-      "score": 437,
-      "author": "Philpax",
-      "created": "2025-11-12 17:54:58",
-      "created_at": 1762970098000
+      "id": 45907541,
+      "title": "Marble: A Multimodal World Model",
+      "link": "https://www.worldlabs.ai/blog/marble-world-model",
+      "score": 59,
+      "author": "meetpateltech",
+      "created": "2025-11-12 22:11:14",
+      "created_at": 1762985474000
     },
     {
       "id": 45902898,
       "title": "Project Euler",
       "link": "https://projecteuler.net",
-      "score": 80,
+      "score": 294,
       "author": "swatson741",
       "created": "2025-11-12 17:24:54",
       "created_at": 1762968294000
     },
     {
-      "id": 45900978,
-      "title": "Learn Prolog Now",
-      "link": "https://lpn.swi-prolog.org/lpnpage.php?pageid=top",
-      "score": 191,
-      "author": "rramadass",
-      "created": "2025-11-12 14:54:27",
-      "created_at": 1762959267000
+      "id": 45903404,
+      "title": "Steam Machine",
+      "link": "https://store.steampowered.com/sale/steammachine",
+      "score": 1283,
+      "author": "davikr",
+      "created": "2025-11-12 17:59:43",
+      "created_at": 1762970383000
     },
     {
       "id": 45898407,
       "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
       "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "score": 715,
+      "score": 847,
       "author": "bertman",
       "created": "2025-11-12 10:12:53",
       "created_at": 1762942373000
     },
     {
+      "id": 45903325,
+      "title": "Steam Frame",
+      "link": "https://store.steampowered.com/sale/steamframe",
+      "score": 933,
+      "author": "Philpax",
+      "created": "2025-11-12 17:54:58",
+      "created_at": 1762970098000
+    },
+    {
+      "id": 45856014,
+      "title": "Disassembling terabytes of random data with Zig and Capstone to prove a point",
+      "link": "https://jstrieb.github.io/posts/random-instructions/",
+      "score": 30,
+      "author": "birdculture",
+      "created": "2025-11-08 11:49:36",
+      "created_at": 1762602576000
+    },
+    {
+      "id": 45907259,
+      "title": "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
+      "link": "https://github.com/Homebrew/brew/issues/20755",
+      "score": 114,
+      "author": "firexcy",
+      "created": "2025-11-12 21:50:14",
+      "created_at": 1762984214000
+    },
+    {
       "id": 45903161,
       "title": "Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React",
       "link": "",
-      "score": 30,
+      "score": 72,
       "author": "jsunderland323",
       "created": "2025-11-12 17:43:42",
       "created_at": 1762969422000
     },
     {
-      "id": 45903586,
-      "title": "Async and Finaliser Deadlocks",
-      "link": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
-      "score": 30,
-      "author": "emailed",
-      "created": "2025-11-12 18:12:29",
-      "created_at": 1762971149000
-    },
-    {
-      "id": 45826596,
-      "title": "Archive or Delete?",
-      "link": "https://email-is-good.com/2025/11/05/archive-or-delete/",
-      "score": 15,
-      "author": "speckx",
-      "created": "2025-11-05 19:07:20",
-      "created_at": 1762369640000
+      "id": 45899189,
+      "title": "A brief look at FreeBSD",
+      "link": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
+      "score": 109,
+      "author": "todsacerdoti",
+      "created": "2025-11-12 12:10:11",
+      "created_at": 1762949411000
     }
   ],
   "code": 200,
