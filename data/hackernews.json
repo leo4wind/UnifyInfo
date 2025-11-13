@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-13T04:17:36.515Z"
+    "lastUpdate": "2025-11-13T08:15:43.094Z"
   },
   "data": [
     {
       "id": 45903404,
       "title": "Steam Machine",
       "link": "https://store.steampowered.com/sale/steammachine",
-      "score": 1492,
+      "score": 1836,
       "author": "davikr",
       "created": "2025-11-12 17:59:43",
       "created_at": 1762970383000
     },
     {
-      "id": 45883788,
-      "title": "The 'Toy Story' You Remember",
-      "link": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
-      "score": 1163,
-      "author": "ani_obsessive",
-      "created": "2025-11-11 03:17:43",
-      "created_at": 1762831063000
-    },
-    {
-      "id": 45891016,
-      "title": "FFmpeg to Google: Fund us or stop sending bugs",
-      "link": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-      "score": 1133,
-      "author": "CrankyBear",
-      "created": "2025-11-11 18:32:11",
-      "created_at": 1762885931000
-    },
-    {
       "id": 45903325,
       "title": "Steam Frame",
       "link": "https://store.steampowered.com/sale/steamframe",
-      "score": 1070,
+      "score": 1339,
       "author": "Philpax",
       "created": "2025-11-12 17:54:58",
       "created_at": 1762970098000
     },
     {
+      "id": 45891016,
+      "title": "FFmpeg to Google: Fund us or stop sending bugs",
+      "link": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+      "score": 1142,
+      "author": "CrankyBear",
+      "created": "2025-11-11 18:32:11",
+      "created_at": 1762885931000
+    },
+    {
       "id": 45898407,
       "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
       "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "score": 912,
+      "score": 948,
       "author": "bertman",
       "created": "2025-11-12 10:12:53",
       "created_at": 1762942373000
@@ -55,16 +46,25 @@
       "id": 45897271,
       "title": "Yann LeCun to depart Meta and launch AI startup focused on 'world models'",
       "link": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models",
-      "score": 806,
+      "score": 813,
       "author": "MindBreaker2605",
       "created": "2025-11-12 07:25:30",
       "created_at": 1762932330000
     },
     {
+      "id": 45908938,
+      "title": "Google will allow users to sideload Android apps without verification",
+      "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "score": 745,
+      "author": "erohead",
+      "created": "2025-11-13 00:33:25",
+      "created_at": 1762994005000
+    },
+    {
       "id": 45901904,
       "title": "The last-ever penny will be minted today in Philadelphia",
       "link": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-      "score": 603,
+      "score": 654,
       "author": "andrewl",
       "created": "2025-11-12 16:10:13",
       "created_at": 1762963813000
@@ -73,7 +73,7 @@
       "id": 45888620,
       "title": ".NET 10",
       "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
-      "score": 550,
+      "score": 564,
       "author": "runesoerensen",
       "created": "2025-11-11 15:44:35",
       "created_at": 1762875875000
@@ -82,7 +82,7 @@
       "id": 45885813,
       "title": "iPhone Pocket",
       "link": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
-      "score": 513,
+      "score": 515,
       "author": "soheilpro",
       "created": "2025-11-11 10:17:57",
       "created_at": 1762856277000
@@ -91,7 +91,7 @@
       "id": 45898789,
       "title": "Pakistani newspaper mistakenly prints AI prompt with the article",
       "link": "https://twitter.com/omar_quraishi/status/1988518627859951986",
-      "score": 475,
+      "score": 488,
       "author": "wg0",
       "created": "2025-11-12 11:17:06",
       "created_at": 1762946226000
