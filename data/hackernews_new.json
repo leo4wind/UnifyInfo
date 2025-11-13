@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-13T16:14:44.423Z"
+    "lastUpdate": "2025-11-13T20:13:23.363Z"
   },
   "data": [
     {
-      "id": 45914718,
-      "title": "Britain's railway privatization was an abject failure",
-      "link": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
-      "score": 279,
-      "author": "robtherobber",
-      "created": "2025-11-13 13:34:38",
-      "created_at": 1763040878000
+      "id": 45917875,
+      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+      "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+      "score": 189,
+      "author": "minimaxir",
+      "created": "2025-11-13 17:39:13",
+      "created_at": 1763055553000
     },
     {
-      "id": 45915731,
-      "title": "GitHub Partial Outage",
-      "link": "https://www.githubstatus.com/incidents/1jw8ltnr1qrj",
-      "score": 53,
-      "author": "danfritz",
-      "created": "2025-11-13 15:04:39",
-      "created_at": 1763046279000
+      "id": 45916196,
+      "title": "Zed is our office",
+      "link": "https://zed.dev/blog/zed-is-our-office",
+      "score": 321,
+      "author": "sagacity",
+      "created": "2025-11-13 15:41:26",
+      "created_at": 1763048486000
     },
     {
-      "id": 45916044,
-      "title": "European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft",
-      "link": "https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft",
-      "score": 37,
-      "author": "saubeidl",
-      "created": "2025-11-13 15:30:15",
-      "created_at": 1763047815000
+      "id": 45918616,
+      "title": "Rust in Android: move fast and fix things",
+      "link": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+      "score": 39,
+      "author": "abraham",
+      "created": "2025-11-13 18:32:36",
+      "created_at": 1763058756000
     },
     {
       "id": 45916525,
-      "title": "Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web",
+      "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
       "link": "https://www.tweeks.io/onboarding",
-      "score": 8,
+      "score": 97,
       "author": "jmadeano",
       "created": "2025-11-13 16:03:04",
       "created_at": 1763049784000
     },
     {
+      "id": 45915731,
+      "title": "GitHub Partial Outage",
+      "link": "https://www.githubstatus.com/incidents/1jw8ltnr1qrj",
+      "score": 146,
+      "author": "danfritz",
+      "created": "2025-11-13 15:04:39",
+      "created_at": 1763046279000
+    },
+    {
       "id": 45912698,
       "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
       "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "score": 347,
+      "score": 450,
       "author": "StrangeSound",
       "created": "2025-11-13 09:23:30",
       "created_at": 1763025810000
     },
     {
-      "id": 45914761,
-      "title": "Blender Lab",
-      "link": "https://www.blender.org/news/introducing-blender-lab/",
-      "score": 79,
-      "author": "radeeyate",
-      "created": "2025-11-13 13:38:47",
-      "created_at": 1763041127000
-    },
-    {
-      "id": 45908938,
-      "title": "Android developer verification: Early access starts",
-      "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "score": 1207,
-      "author": "erohead",
-      "created": "2025-11-13 00:33:25",
-      "created_at": 1762994005000
-    },
-    {
-      "id": 45915069,
-      "title": "Denx (a.k.a. U-Boot) Retires",
-      "link": "https://www.denx.de/",
-      "score": 39,
-      "author": "synergy20",
-      "created": "2025-11-13 14:10:48",
-      "created_at": 1763043048000
-    },
-    {
-      "id": 45915114,
-      "title": "Kratos - Cloud native Auth0 open-source alternative (self-hosted)",
-      "link": "https://github.com/ory/kratos",
-      "score": 43,
-      "author": "curtistyr",
-      "created": "2025-11-13 14:14:36",
-      "created_at": 1763043276000
-    },
-    {
       "id": 45916037,
-      "title": "SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds",
+      "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
       "link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-      "score": 20,
+      "score": 113,
       "author": "meetpateltech",
       "created": "2025-11-13 15:29:38",
       "created_at": 1763047778000
+    },
+    {
+      "id": 45919067,
+      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+      "link": "https://blog.kagi.com/slopstop",
+      "score": 78,
+      "author": "msub2",
+      "created": "2025-11-13 19:03:26",
+      "created_at": 1763060606000
+    },
+    {
+      "id": 45918638,
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "link": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "score": 36,
+      "author": "koakuma-chan",
+      "created": "2025-11-13 18:34:12",
+      "created_at": 1763058852000
+    },
+    {
+      "id": 45864954,
+      "title": "Think in Math. Write in Code",
+      "link": "https://www.jmeiners.com/think-in-math/",
+      "score": 44,
+      "author": "alabhyajindal",
+      "created": "2025-11-09 12:03:15",
+      "created_at": 1762689795000
     }
   ],
   "code": 200,
