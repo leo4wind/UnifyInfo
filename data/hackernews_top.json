@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-14T12:22:28.706Z"
+    "lastUpdate": "2025-11-14T16:14:22.621Z"
   },
   "data": [
+    {
+      "id": 45926779,
+      "title": "I think nobody wants AI in Firefox, Mozilla",
+      "link": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+      "score": 481,
+      "author": "rpgbr",
+      "created": "2025-11-14 14:05:00",
+      "created_at": 1763129100000
+    },
+    {
+      "id": 45926469,
+      "title": "AGI fantasy is a blocker to actual engineering",
+      "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
+      "score": 240,
+      "author": "tomwphillips",
+      "created": "2025-11-14 13:21:24",
+      "created_at": 1763126484000
+    },
+    {
+      "id": 45821154,
+      "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
+      "link": "https://linuxcontainers.org/incus-os/",
+      "score": 23,
+      "author": "_kb",
+      "created": "2025-11-05 09:39:58",
+      "created_at": 1762335598000
+    },
+    {
+      "id": 45926263,
+      "title": "EDE: Small and Fast Desktop Environment",
+      "link": "https://edeproject.org/",
+      "score": 51,
+      "author": "bradley_taunt",
+      "created": "2025-11-14 12:51:23",
+      "created_at": 1763124683000
+    },
+    {
+      "id": 45875618,
+      "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
+      "link": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
+      "score": 139,
+      "author": "Ostatnigrosh",
+      "created": "2025-11-10 13:11:49",
+      "created_at": 1762780309000
+    },
+    {
+      "id": 45926037,
+      "title": "Magit manuals are available online again",
+      "link": "https://github.com/magit/magit/issues/5472",
+      "score": 49,
+      "author": "vetronauta",
+      "created": "2025-11-14 12:09:59",
+      "created_at": 1763122199000
+    },
     {
       "id": 45866366,
       "title": "Operating Margins",
       "link": "https://fi-le.net/margin/",
-      "score": 86,
+      "score": 191,
       "author": "fi-le",
       "created": "2025-11-09 15:46:29",
       "created_at": 1762703189000
     },
     {
-      "id": 45924619,
-      "title": "RegreSQL: Regression Testing for PostgreSQL Queries",
-      "link": "https://boringsql.com/posts/regresql-testing-queries/",
-      "score": 81,
-      "author": "radimm",
-      "created": "2025-11-14 07:10:10",
-      "created_at": 1763104210000
-    },
-    {
-      "id": 45917875,
-      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
-      "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-      "score": 727,
-      "author": "minimaxir",
-      "created": "2025-11-13 17:39:13",
-      "created_at": 1763055553000
+      "id": 45846534,
+      "title": "Writerdeck.org",
+      "link": "http://www.writerdeck.org/",
+      "score": 35,
+      "author": "surprisetalk",
+      "created": "2025-11-07 14:07:15",
+      "created_at": 1762524435000
     },
     {
       "id": 45925890,
       "title": "Show HN: Encore – Type-safe back end framework that generates infra from code",
       "link": "https://github.com/encoredev/encore",
-      "score": 7,
+      "score": 55,
       "author": "andout_",
       "created": "2025-11-14 11:41:47",
       "created_at": 1763120507000
     },
     {
-      "id": 45924872,
-      "title": "Show HN: Pegma, the free and open-source version of the classic Peg solitaire",
-      "link": "https://pegma.vercel.app",
-      "score": 18,
-      "author": "GlebShalimov",
-      "created": "2025-11-14 08:06:41",
-      "created_at": 1763107601000
-    },
-    {
-      "id": 45922420,
-      "title": "What Happened with the CIA and The Paris Review?",
-      "link": "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/",
-      "score": 85,
-      "author": "benbreen",
-      "created": "2025-11-14 00:18:23",
-      "created_at": 1763079503000
-    },
-    {
-      "id": 45918638,
-      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-      "link": "https://www.anthropic.com/news/disrupting-AI-espionage",
-      "score": 286,
-      "author": "koakuma-chan",
-      "created": "2025-11-13 18:34:12",
-      "created_at": 1763058852000
-    },
-    {
-      "id": 45925431,
-      "title": "V8 Garbage Collector",
-      "link": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
-      "score": 37,
-      "author": "swah",
-      "created": "2025-11-14 09:53:13",
-      "created_at": 1763113993000
-    },
-    {
-      "id": 45916525,
-      "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
-      "link": "https://www.tweeks.io/onboarding",
-      "score": 272,
-      "author": "jmadeano",
-      "created": "2025-11-13 16:03:04",
-      "created_at": 1763049784000
-    },
-    {
-      "id": 45922850,
-      "title": "How to Get a North Korea / Antarctica VPS",
-      "link": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
-      "score": 140,
-      "author": "uneven9434",
-      "created": "2025-11-14 01:30:50",
-      "created_at": 1763083850000
+      "id": 45926439,
+      "title": "Nvidia is gearing up to sell servers instead of just GPUs and components",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin",
+      "score": 86,
+      "author": "giuliomagnifico",
+      "created": "2025-11-14 13:18:09",
+      "created_at": 1763126289000
     }
   ],
   "code": 200,
