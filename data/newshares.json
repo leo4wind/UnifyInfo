@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-13T20:13:26.452Z"
+    "lastUpdate": "2025-11-14T00:54:03.519Z"
   },
   "data": [
+    {
+      "zqdm": "001280",
+      "zqjc": "中国铀业",
+      "sgdm": "001280",
+      "fxsl": 248181818,
+      "swfxsl": 52118000,
+      "sgsx": 52000,
+      "dgsz": 520000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-11-21",
+      "zqgbrq": "2025-11-25",
+      "zqjkrq": "2025-11-25",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 27.8,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "天然铀资源的采冶、销售及贸易,以及独居石、铀钼等放射性共伴生矿产资源综合利用及产品销售"
+    },
     {
       "zqdm": "001233",
       "zqjc": "海安集团",
@@ -51,53 +74,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "精密机械零部件的研发、生产及销售"
-    },
-    {
-      "zqdm": "688727",
-      "zqjc": "恒坤新材",
-      "sgdm": "787727",
-      "fxsl": 67397940,
-      "swfxsl": 16186500,
-      "sgsx": 10500,
-      "dgsz": 105000,
-      "fxjg": 14.99,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-07",
-      "zqgbrq": "2025-11-11",
-      "zqjkrq": "2025-11-11",
-      "ssrq": null,
-      "syl": 71.42,
-      "hysyl": 60.47,
-      "wszql": 0.02873717,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "光刻材料和前驱体材料的研发、生产和销售"
-    },
-    {
-      "zqdm": "301638",
-      "zqjc": "南网数字",
-      "sgdm": "301638",
-      "fxsl": 476947534,
-      "swfxsl": 97741500,
-      "sgsx": 47500,
-      "dgsz": 475000,
-      "fxjg": 5.69,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-07",
-      "zqgbrq": "2025-11-11",
-      "zqjkrq": "2025-11-11",
-      "ssrq": null,
-      "syl": 32.22,
-      "hysyl": 71.22,
-      "wszql": 0.0362424368,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "基于新一代信息技术,为电力能源等行业客户提供数字化建设综合解决方案,致力于构建世界一流的电网数字化、智能化创新平台"
     }
   ],
-  "total": 4
+  "total": 3
 }
