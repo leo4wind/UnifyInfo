@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-14T04:15:28.974Z"
+    "lastUpdate": "2025-11-14T08:15:49.749Z"
   },
   "data": [
     {
       "id": 45903404,
       "title": "Steam Machine",
       "link": "https://store.steampowered.com/sale/steammachine",
-      "score": 2664,
+      "score": 2712,
       "author": "davikr",
       "created": "2025-11-12 17:59:43",
       "created_at": 1762970383000
@@ -19,7 +19,7 @@
       "id": 45903325,
       "title": "Steam Frame",
       "link": "https://store.steampowered.com/sale/steamframe",
-      "score": 1830,
+      "score": 1842,
       "author": "Philpax",
       "created": "2025-11-12 17:54:58",
       "created_at": 1762970098000
@@ -28,7 +28,7 @@
       "id": 45908938,
       "title": "Android developer verification: Early access starts",
       "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "score": 1293,
+      "score": 1308,
       "author": "erohead",
       "created": "2025-11-13 00:33:25",
       "created_at": 1762994005000
@@ -37,7 +37,7 @@
       "id": 45898407,
       "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
       "link": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "score": 1048,
+      "score": 1055,
       "author": "bertman",
       "created": "2025-11-12 10:12:53",
       "created_at": 1762942373000
@@ -55,16 +55,25 @@
       "id": 45901904,
       "title": "The last-ever penny will be minted today in Philadelphia",
       "link": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-      "score": 724,
+      "score": 725,
       "author": "andrewl",
       "created": "2025-11-12 16:10:13",
       "created_at": 1762963813000
     },
     {
+      "id": 45917875,
+      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+      "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+      "score": 649,
+      "author": "minimaxir",
+      "created": "2025-11-13 17:39:13",
+      "created_at": 1763055553000
+    },
+    {
       "id": 45908464,
       "title": "Valve is about to win the console generation",
       "link": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
-      "score": 571,
+      "score": 582,
       "author": "moonleay",
       "created": "2025-11-12 23:35:41",
       "created_at": 1762990541000
@@ -73,7 +82,7 @@
       "id": 45912698,
       "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
       "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "score": 559,
+      "score": 580,
       "author": "StrangeSound",
       "created": "2025-11-13 09:23:30",
       "created_at": 1763025810000
@@ -82,19 +91,10 @@
       "id": 45902898,
       "title": "Project Euler",
       "link": "https://projecteuler.net",
-      "score": 544,
+      "score": 547,
       "author": "swatson741",
       "created": "2025-11-12 17:24:54",
       "created_at": 1762968294000
-    },
-    {
-      "id": 45904551,
-      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
-      "link": "https://openai.com/index/gpt-5-1/",
-      "score": 531,
-      "author": "tedsanders",
-      "created": "2025-11-12 19:05:41",
-      "created_at": 1762974341000
     }
   ],
   "code": 200,
