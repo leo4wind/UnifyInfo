@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-14T00:53:56.320Z"
+    "lastUpdate": "2025-11-14T04:15:29.075Z"
   },
   "data": [
+    {
+      "id": 45923406,
+      "title": "Copyright Winter Is Coming (To Wikipedia?)",
+      "link": "https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia",
+      "score": 44,
+      "author": "the-mitr",
+      "created": "2025-11-14 03:08:09",
+      "created_at": 1763089689000
+    },
+    {
+      "id": 45923326,
+      "title": "Why Fei-Fei Li and Yann LeCun Are Both Betting on \"World Models\"",
+      "link": "https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/",
+      "score": 56,
+      "author": "signa11",
+      "created": "2025-11-14 02:49:44",
+      "created_at": 1763088584000
+    },
     {
       "id": 45917875,
       "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
       "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-      "score": 424,
+      "score": 510,
       "author": "minimaxir",
       "created": "2025-11-13 17:39:13",
       "created_at": 1763055553000
@@ -19,25 +37,25 @@
       "id": 45916196,
       "title": "Zed is our office",
       "link": "https://zed.dev/blog/zed-is-our-office",
-      "score": 454,
+      "score": 507,
       "author": "sagacity",
       "created": "2025-11-13 15:41:26",
       "created_at": 1763048486000
     },
     {
-      "id": 45920677,
-      "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
-      "link": "https://openmanet.net/",
-      "score": 58,
-      "author": "hexmiles",
-      "created": "2025-11-13 21:18:14",
-      "created_at": 1763068694000
+      "id": 45923433,
+      "title": "Fannie Mae officials ousted after sounding alarm on sharing confidential data",
+      "link": "https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746",
+      "score": 47,
+      "author": "consumer451",
+      "created": "2025-11-14 03:12:38",
+      "created_at": 1763089958000
     },
     {
       "id": 45920881,
       "title": "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
       "link": "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars",
-      "score": 49,
+      "score": 110,
       "author": "tanelpoder",
       "created": "2025-11-13 21:33:26",
       "created_at": 1763069606000
@@ -46,55 +64,37 @@
       "id": 45916525,
       "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
       "link": "https://www.tweeks.io/onboarding",
-      "score": 159,
+      "score": 197,
       "author": "jmadeano",
       "created": "2025-11-13 16:03:04",
       "created_at": 1763049784000
     },
     {
-      "id": 45912698,
-      "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
-      "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "score": 535,
-      "author": "StrangeSound",
-      "created": "2025-11-13 09:23:30",
-      "created_at": 1763025810000
+      "id": 45920677,
+      "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
+      "link": "https://openmanet.net/",
+      "score": 82,
+      "author": "hexmiles",
+      "created": "2025-11-13 21:18:14",
+      "created_at": 1763068694000
     },
     {
-      "id": 45920748,
-      "title": "Blue Origin lands New Glenn rocket booster on second try",
-      "link": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
-      "score": 187,
-      "author": "perihelions",
-      "created": "2025-11-13 21:24:25",
-      "created_at": 1763069065000
+      "id": 45922850,
+      "title": "How to Get a North Korea / Antarctica VPS",
+      "link": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
+      "score": 22,
+      "author": "uneven9434",
+      "created": "2025-11-14 01:30:50",
+      "created_at": 1763083850000
     },
     {
-      "id": 45916037,
-      "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
-      "link": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-      "score": 163,
-      "author": "meetpateltech",
-      "created": "2025-11-13 15:29:38",
-      "created_at": 1763047778000
-    },
-    {
-      "id": 45920156,
-      "title": "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
-      "link": "https://github.com/dbos-inc/dbos-transact-java",
-      "score": 45,
-      "author": "KraftyOne",
-      "created": "2025-11-13 20:33:43",
-      "created_at": 1763066023000
-    },
-    {
-      "id": 45864954,
-      "title": "Think in math, write in code",
-      "link": "https://www.jmeiners.com/think-in-math/",
-      "score": 97,
-      "author": "alabhyajindal",
-      "created": "2025-11-09 12:03:15",
-      "created_at": 1762689795000
+      "id": 45922550,
+      "title": "Apple Mini Apps Partner Program",
+      "link": "https://developer.apple.com/programs/mini-apps-partner/",
+      "score": 82,
+      "author": "soheilpro",
+      "created": "2025-11-14 00:41:08",
+      "created_at": 1763080868000
     }
   ],
   "code": 200,
