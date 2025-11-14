@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-14T16:14:22.654Z"
+    "lastUpdate": "2025-11-14T20:13:22.121Z"
   },
   "data": [
     {
-      "id": 45926779,
-      "title": "I think nobody wants AI in Firefox, Mozilla",
-      "link": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
-      "score": 481,
-      "author": "rpgbr",
-      "created": "2025-11-14 14:05:00",
-      "created_at": 1763129100000
+      "id": 45930151,
+      "title": "AI World Clocks",
+      "link": "https://clocks.brianmoore.com/",
+      "score": 171,
+      "author": "waxpancake",
+      "created": "2025-11-14 18:35:22",
+      "created_at": 1763145322000
     },
     {
-      "id": 45926469,
-      "title": "AGI fantasy is a blocker to actual engineering",
-      "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-      "score": 240,
-      "author": "tomwphillips",
-      "created": "2025-11-14 13:21:24",
-      "created_at": 1763126484000
+      "id": 45929921,
+      "title": "A race condition in Aurora RDS",
+      "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
+      "score": 108,
+      "author": "theanomaly",
+      "created": "2025-11-14 18:20:08",
+      "created_at": 1763144408000
+    },
+    {
+      "id": 45928709,
+      "title": "Manganese is Lyme disease's double-edge sword",
+      "link": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
+      "score": 72,
+      "author": "gmays",
+      "created": "2025-11-14 16:51:03",
+      "created_at": 1763139063000
+    },
+    {
+      "id": 45929511,
+      "title": "The disguised return of EU Chat Control",
+      "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+      "score": 235,
+      "author": "egorfine",
+      "created": "2025-11-14 17:54:07",
+      "created_at": 1763142847000
+    },
+    {
+      "id": 45876742,
+      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
+      "link": "https://github.com/nathan-barry/tiny-diffusion",
+      "score": 28,
+      "author": "nathan-barry",
+      "created": "2025-11-10 15:13:55",
+      "created_at": 1762787635000
+    },
+    {
+      "id": 45930284,
+      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+      "score": 23,
+      "author": "kencausey",
+      "created": "2025-11-14 18:42:55",
+      "created_at": 1763145775000
+    },
+    {
+      "id": 45930598,
+      "title": "Structured Outputs on the Claude Developer Platform (API)",
+      "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
+      "score": 16,
+      "author": "adocomplete",
+      "created": "2025-11-14 19:04:23",
+      "created_at": 1763147063000
+    },
+    {
+      "id": 45797689,
+      "title": "Awk Technical Notes (2023)",
+      "link": "https://maximullaris.com/awk_tech_notes.html",
+      "score": 34,
+      "author": "signa11",
+      "created": "2025-11-03 10:40:11",
+      "created_at": 1762166411000
+    },
+    {
+      "id": 45929358,
+      "title": "Bitchat for Gaza – messaging without internet",
+      "link": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
+      "score": 156,
+      "author": "ciconia",
+      "created": "2025-11-14 17:43:40",
+      "created_at": 1763142220000
     },
     {
       "id": 45821154,
       "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
       "link": "https://linuxcontainers.org/incus-os/",
-      "score": 23,
+      "score": 113,
       "author": "_kb",
       "created": "2025-11-05 09:39:58",
       "created_at": 1762335598000
-    },
-    {
-      "id": 45926263,
-      "title": "EDE: Small and Fast Desktop Environment",
-      "link": "https://edeproject.org/",
-      "score": 51,
-      "author": "bradley_taunt",
-      "created": "2025-11-14 12:51:23",
-      "created_at": 1763124683000
-    },
-    {
-      "id": 45875618,
-      "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
-      "link": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
-      "score": 139,
-      "author": "Ostatnigrosh",
-      "created": "2025-11-10 13:11:49",
-      "created_at": 1762780309000
-    },
-    {
-      "id": 45926037,
-      "title": "Magit manuals are available online again",
-      "link": "https://github.com/magit/magit/issues/5472",
-      "score": 49,
-      "author": "vetronauta",
-      "created": "2025-11-14 12:09:59",
-      "created_at": 1763122199000
-    },
-    {
-      "id": 45866366,
-      "title": "Operating Margins",
-      "link": "https://fi-le.net/margin/",
-      "score": 191,
-      "author": "fi-le",
-      "created": "2025-11-09 15:46:29",
-      "created_at": 1762703189000
-    },
-    {
-      "id": 45846534,
-      "title": "Writerdeck.org",
-      "link": "http://www.writerdeck.org/",
-      "score": 35,
-      "author": "surprisetalk",
-      "created": "2025-11-07 14:07:15",
-      "created_at": 1762524435000
-    },
-    {
-      "id": 45925890,
-      "title": "Show HN: Encore – Type-safe back end framework that generates infra from code",
-      "link": "https://github.com/encoredev/encore",
-      "score": 55,
-      "author": "andout_",
-      "created": "2025-11-14 11:41:47",
-      "created_at": 1763120507000
-    },
-    {
-      "id": 45926439,
-      "title": "Nvidia is gearing up to sell servers instead of just GPUs and components",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin",
-      "score": 86,
-      "author": "giuliomagnifico",
-      "created": "2025-11-14 13:18:09",
-      "created_at": 1763126289000
     }
   ],
   "code": 200,

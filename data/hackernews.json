@@ -3,59 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-14T16:14:22.483Z"
+    "lastUpdate": "2025-11-14T20:13:21.948Z"
   },
   "data": [
-    {
-      "id": 45903404,
-      "title": "Steam Machine",
-      "link": "https://store.steampowered.com/sale/steammachine",
-      "score": 2820,
-      "author": "davikr",
-      "created": "2025-11-12 17:59:43",
-      "created_at": 1762970383000
-    },
-    {
-      "id": 45903325,
-      "title": "Steam Frame",
-      "link": "https://store.steampowered.com/sale/steamframe",
-      "score": 1866,
-      "author": "Philpax",
-      "created": "2025-11-12 17:54:58",
-      "created_at": 1762970098000
-    },
     {
       "id": 45908938,
       "title": "Android developer verification: Early access starts",
       "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "score": 1333,
+      "score": 1338,
       "author": "erohead",
       "created": "2025-11-13 00:33:25",
       "created_at": 1762994005000
     },
     {
+      "id": 45926779,
+      "title": "I think nobody wants AI in Firefox, Mozilla",
+      "link": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+      "score": 1024,
+      "author": "rpgbr",
+      "created": "2025-11-14 14:05:00",
+      "created_at": 1763129100000
+    },
+    {
       "id": 45917875,
       "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
       "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-      "score": 803,
+      "score": 836,
       "author": "minimaxir",
       "created": "2025-11-13 17:39:13",
       "created_at": 1763055553000
     },
     {
-      "id": 45901904,
-      "title": "The last-ever penny will be minted today in Philadelphia",
-      "link": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-      "score": 727,
-      "author": "andrewl",
-      "created": "2025-11-12 16:10:13",
-      "created_at": 1762963813000
-    },
-    {
       "id": 45908464,
       "title": "Valve is about to win the console generation",
       "link": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
-      "score": 609,
+      "score": 616,
       "author": "moonleay",
       "created": "2025-11-12 23:35:41",
       "created_at": 1762990541000
@@ -64,7 +46,7 @@
       "id": 45912698,
       "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
       "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "score": 603,
+      "score": 607,
       "author": "StrangeSound",
       "created": "2025-11-13 09:23:30",
       "created_at": 1763025810000
@@ -73,28 +55,46 @@
       "id": 45916196,
       "title": "Zed is our office",
       "link": "https://zed.dev/blog/zed-is-our-office",
-      "score": 585,
+      "score": 593,
       "author": "sagacity",
       "created": "2025-11-13 15:41:26",
       "created_at": 1763048486000
     },
     {
-      "id": 45902898,
-      "title": "Project Euler",
-      "link": "https://projecteuler.net",
-      "score": 549,
-      "author": "swatson741",
-      "created": "2025-11-12 17:24:54",
-      "created_at": 1762968294000
+      "id": 45919067,
+      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+      "link": "https://blog.kagi.com/slopstop",
+      "score": 550,
+      "author": "msub2",
+      "created": "2025-11-13 19:03:26",
+      "created_at": 1763060606000
     },
     {
-      "id": 45904551,
-      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
-      "link": "https://openai.com/index/gpt-5-1/",
-      "score": 542,
-      "author": "tedsanders",
-      "created": "2025-11-12 19:05:41",
-      "created_at": 1762974341000
+      "id": 45909059,
+      "title": "Human Fovea Detector",
+      "link": "https://www.shadertoy.com/view/4dsXzM",
+      "score": 480,
+      "author": "AbuAssar",
+      "created": "2025-11-13 00:48:45",
+      "created_at": 1762994925000
+    },
+    {
+      "id": 45914718,
+      "title": "Britain's railway privatization was an abject failure",
+      "link": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
+      "score": 466,
+      "author": "robtherobber",
+      "created": "2025-11-13 13:34:38",
+      "created_at": 1763040878000
+    },
+    {
+      "id": 45926469,
+      "title": "AGI fantasy is a blocker to actual engineering",
+      "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
+      "score": 455,
+      "author": "tomwphillips",
+      "created": "2025-11-14 13:21:24",
+      "created_at": 1763126484000
     }
   ],
   "code": 200,
