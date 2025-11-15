@@ -3,41 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-15T04:13:07.122Z"
+    "lastUpdate": "2025-11-15T08:13:22.752Z"
   },
   "data": [
     {
       "id": 45926779,
       "title": "I think nobody wants AI in Firefox, Mozilla",
       "link": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
-      "score": 1163,
+      "score": 1185,
       "author": "rpgbr",
       "created": "2025-11-14 14:05:00",
       "created_at": 1763129100000
     },
     {
-      "id": 45917875,
-      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
-      "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-      "score": 851,
-      "author": "minimaxir",
-      "created": "2025-11-13 17:39:13",
-      "created_at": 1763055553000
-    },
-    {
       "id": 45930151,
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
-      "score": 806,
+      "score": 966,
       "author": "waxpancake",
       "created": "2025-11-14 18:35:22",
       "created_at": 1763145322000
     },
     {
+      "id": 45917875,
+      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+      "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+      "score": 857,
+      "author": "minimaxir",
+      "created": "2025-11-13 17:39:13",
+      "created_at": 1763055553000
+    },
+    {
+      "id": 45929511,
+      "title": "The disguised return of EU Chat Control",
+      "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+      "score": 623,
+      "author": "egorfine",
+      "created": "2025-11-14 17:54:07",
+      "created_at": 1763142847000
+    },
+    {
       "id": 45912698,
       "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
       "link": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "score": 610,
+      "score": 616,
       "author": "StrangeSound",
       "created": "2025-11-13 09:23:30",
       "created_at": 1763025810000
@@ -46,7 +55,7 @@
       "id": 45916196,
       "title": "Zed is our office",
       "link": "https://zed.dev/blog/zed-is-our-office",
-      "score": 599,
+      "score": 603,
       "author": "sagacity",
       "created": "2025-11-13 15:41:26",
       "created_at": 1763048486000
@@ -55,7 +64,7 @@
       "id": 45926469,
       "title": "AGI fantasy is a blocker to actual engineering",
       "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-      "score": 568,
+      "score": 586,
       "author": "tomwphillips",
       "created": "2025-11-14 13:21:24",
       "created_at": 1763126484000
@@ -64,37 +73,28 @@
       "id": 45919067,
       "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
       "link": "https://blog.kagi.com/slopstop",
-      "score": 556,
+      "score": 558,
       "author": "msub2",
       "created": "2025-11-13 19:03:26",
       "created_at": 1763060606000
     },
     {
-      "id": 45929511,
-      "title": "The disguised return of EU Chat Control",
-      "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "score": 553,
-      "author": "egorfine",
-      "created": "2025-11-14 17:54:07",
-      "created_at": 1763142847000
+      "id": 45928912,
+      "title": "Being poor vs. being broke",
+      "link": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
+      "score": 474,
+      "author": "speckx",
+      "created": "2025-11-14 17:08:15",
+      "created_at": 1763140095000
     },
     {
       "id": 45914718,
       "title": "Britain's railway privatization was an abject failure",
       "link": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
-      "score": 466,
+      "score": 468,
       "author": "robtherobber",
       "created": "2025-11-13 13:34:38",
       "created_at": 1763040878000
-    },
-    {
-      "id": 45920748,
-      "title": "Blue Origin lands New Glenn rocket booster on second try",
-      "link": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
-      "score": 433,
-      "author": "perihelions",
-      "created": "2025-11-13 21:24:25",
-      "created_at": 1763069065000
     }
   ],
   "code": 200,

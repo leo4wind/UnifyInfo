@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-15T04:13:10.348Z"
+    "lastUpdate": "2025-11-15T08:13:26.720Z"
   },
   "data": [
     {
@@ -22,12 +22,35 @@
       "zqjkrq": "2025-11-25",
       "ssrq": null,
       "syl": null,
-      "hysyl": 27.75,
+      "hysyl": 27.73,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "天然铀资源的采冶、销售及贸易,以及独居石、铀钼等放射性共伴生矿产资源综合利用及产品销售"
+    },
+    {
+      "zqdm": "920035",
+      "zqjc": "精创电气",
+      "sgdm": "920035",
+      "fxsl": 14460000,
+      "swfxsl": 13014000,
+      "sgsx": 650700,
+      "dgsz": 6507000,
+      "fxjg": 12.1,
+      "zxj": null,
+      "srspj": null,
+      "sgrq": "2025-11-18",
+      "zqgbrq": "2025-11-21",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 13.47,
+      "hysyl": 41.07,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "冷链设备智能控制器、医药与食品冷链监测记录仪、制冷热泵检测仪表及环境颗粒物检测仪器等产品的研发、生产和销售,并提供物联网和基于云的系统解决方案。"
     },
     {
       "zqdm": "001233",
@@ -76,5 +99,5 @@
       "zyyw": "精密机械零部件的研发、生产及销售"
     }
   ],
-  "total": 3
+  "total": 4
 }

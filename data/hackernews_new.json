@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-15T04:13:07.262Z"
+    "lastUpdate": "2025-11-15T08:13:22.916Z"
   },
   "data": [
+    {
+      "id": 45935342,
+      "title": "So, you want to design your own language? (2017)",
+      "link": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+      "score": 45,
+      "author": "veqq",
+      "created": "2025-11-15 05:44:43",
+      "created_at": 1763185483000
+    },
     {
       "id": 45930151,
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
-      "score": 806,
+      "score": 966,
       "author": "waxpancake",
       "created": "2025-11-14 18:35:22",
       "created_at": 1763145322000
     },
     {
-      "id": 45934940,
-      "title": "I can't recommend Grafana anymore",
-      "link": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
-      "score": 6,
-      "author": "gpi",
-      "created": "2025-11-15 03:58:01",
-      "created_at": 1763179081000
+      "id": 45935763,
+      "title": "Spec-Driven Development: The Waterfall Strikes Back",
+      "link": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
+      "score": 8,
+      "author": "vinhnx",
+      "created": "2025-11-15 07:48:23",
+      "created_at": 1763192903000
+    },
+    {
+      "id": 45935503,
+      "title": "The Internet Is Cool. Thank You, TCP",
+      "link": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+      "score": 14,
+      "author": "signa11",
+      "created": "2025-11-15 06:37:50",
+      "created_at": 1763188670000
+    },
+    {
+      "id": 45845782,
+      "title": "Löb and Möb: Loops in Haskell",
+      "link": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
+      "score": 19,
+      "author": "fanf2",
+      "created": "2025-11-07 12:42:04",
+      "created_at": 1762519324000
+    },
+    {
+      "id": 45934416,
+      "title": "AMD GPUs Go Brrr",
+      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
+      "score": 72,
+      "author": "vinhnx",
+      "created": "2025-11-15 02:06:16",
+      "created_at": 1763172376000
     },
     {
       "id": 45932798,
       "title": "SSL Configuration Generator",
       "link": "https://ssl-config.mozilla.org/",
-      "score": 104,
+      "score": 147,
       "author": "smartmic",
       "created": "2025-11-14 22:15:04",
       "created_at": 1763158504000
     },
     {
       "id": 45887262,
-      "title": "Has Google solved two of AI’s oldest problems?",
+      "title": "A new Google model is nearly perfect on automated handwriting recognition",
       "link": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
-      "score": 216,
+      "score": 301,
       "author": "scrlk",
       "created": "2025-11-11 13:52:15",
       "created_at": 1762869135000
     },
     {
-      "id": 45933497,
-      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
-      "link": "https://modzero.com/en/blog/no-leak-no-problem/",
-      "score": 42,
-      "author": "todsacerdoti",
-      "created": "2025-11-14 23:39:36",
-      "created_at": 1763163576000
+      "id": 45808407,
+      "title": "Unofficial Microsoft Teams client for Linux",
+      "link": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "score": 107,
+      "author": "basemi",
+      "created": "2025-11-04 07:41:58",
+      "created_at": 1762242118000
     },
     {
       "id": 45923188,
       "title": "HipKittens: Fast and furious AMD kernels",
       "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
-      "score": 103,
+      "score": 147,
       "author": "dataminer",
       "created": "2025-11-14 02:27:20",
       "created_at": 1763087240000
-    },
-    {
-      "id": 45928492,
-      "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
-      "link": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
-      "score": 188,
-      "author": "speckx",
-      "created": "2025-11-14 16:31:26",
-      "created_at": 1763137886000
-    },
-    {
-      "id": 45930598,
-      "title": "Structured outputs on the Claude Developer Platform",
-      "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-      "score": 109,
-      "author": "adocomplete",
-      "created": "2025-11-14 19:04:23",
-      "created_at": 1763147063000
-    },
-    {
-      "id": 45929921,
-      "title": "A race condition in Aurora RDS",
-      "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
-      "score": 200,
-      "author": "theanomaly",
-      "created": "2025-11-14 18:20:08",
-      "created_at": 1763144408000
-    },
-    {
-      "id": 45934683,
-      "title": "Over-reliance on English hinders cognitive science",
-      "link": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
-      "score": 11,
-      "author": "DrierCycle",
-      "created": "2025-11-15 02:58:56",
-      "created_at": 1763175536000
     }
   ],
   "code": 200,
