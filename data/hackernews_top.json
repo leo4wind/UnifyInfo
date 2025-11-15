@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-14T20:13:22.086Z"
+    "lastUpdate": "2025-11-15T00:52:42.689Z"
   },
   "data": [
     {
       "id": 45930151,
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
-      "score": 171,
+      "score": 605,
       "author": "waxpancake",
       "created": "2025-11-14 18:35:22",
       "created_at": 1763145322000
     },
     {
+      "id": 45932798,
+      "title": "SSL Configuration Generator",
+      "link": "https://ssl-config.mozilla.org/",
+      "score": 37,
+      "author": "smartmic",
+      "created": "2025-11-14 22:15:04",
+      "created_at": 1763158504000
+    },
+    {
+      "id": 45923188,
+      "title": "HipKittens: Fast and furious AMD kernels",
+      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+      "score": 65,
+      "author": "dataminer",
+      "created": "2025-11-14 02:27:20",
+      "created_at": 1763087240000
+    },
+    {
       "id": 45929921,
       "title": "A race condition in Aurora RDS",
       "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
-      "score": 108,
+      "score": 185,
       "author": "theanomaly",
       "created": "2025-11-14 18:20:08",
       "created_at": 1763144408000
     },
     {
-      "id": 45928709,
-      "title": "Manganese is Lyme disease's double-edge sword",
-      "link": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
-      "score": 72,
-      "author": "gmays",
-      "created": "2025-11-14 16:51:03",
-      "created_at": 1763139063000
-    },
-    {
-      "id": 45929511,
-      "title": "The disguised return of EU Chat Control",
-      "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "score": 235,
-      "author": "egorfine",
-      "created": "2025-11-14 17:54:07",
-      "created_at": 1763142847000
-    },
-    {
-      "id": 45876742,
-      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
-      "link": "https://github.com/nathan-barry/tiny-diffusion",
-      "score": 28,
-      "author": "nathan-barry",
-      "created": "2025-11-10 15:13:55",
-      "created_at": 1762787635000
-    },
-    {
-      "id": 45930284,
-      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-      "link": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
-      "score": 23,
-      "author": "kencausey",
-      "created": "2025-11-14 18:42:55",
-      "created_at": 1763145775000
+      "id": 45808407,
+      "title": "Unofficial Microsoft Teams Client for Linux",
+      "link": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "score": 19,
+      "author": "basemi",
+      "created": "2025-11-04 07:41:58",
+      "created_at": 1762242118000
     },
     {
       "id": 45930598,
       "title": "Structured Outputs on the Claude Developer Platform (API)",
       "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-      "score": 16,
+      "score": 82,
       "author": "adocomplete",
       "created": "2025-11-14 19:04:23",
       "created_at": 1763147063000
     },
     {
-      "id": 45797689,
-      "title": "Awk Technical Notes (2023)",
-      "link": "https://maximullaris.com/awk_tech_notes.html",
-      "score": 34,
-      "author": "signa11",
-      "created": "2025-11-03 10:40:11",
-      "created_at": 1762166411000
+      "id": 45887262,
+      "title": "Has Google solved two of AI's oldest problems?",
+      "link": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
+      "score": 126,
+      "author": "scrlk",
+      "created": "2025-11-11 13:52:15",
+      "created_at": 1762869135000
     },
     {
-      "id": 45929358,
-      "title": "Bitchat for Gaza – messaging without internet",
-      "link": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
-      "score": 156,
-      "author": "ciconia",
-      "created": "2025-11-14 17:43:40",
-      "created_at": 1763142220000
+      "id": 45931403,
+      "title": "All praise to the lunch ladies",
+      "link": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
+      "score": 109,
+      "author": "gmays",
+      "created": "2025-11-14 19:54:58",
+      "created_at": 1763150098000
     },
     {
-      "id": 45821154,
-      "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
-      "link": "https://linuxcontainers.org/incus-os/",
-      "score": 113,
-      "author": "_kb",
-      "created": "2025-11-05 09:39:58",
-      "created_at": 1762335598000
+      "id": 45928709,
+      "title": "Manganese is Lyme disease's double-edge sword",
+      "link": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
+      "score": 117,
+      "author": "gmays",
+      "created": "2025-11-14 16:51:03",
+      "created_at": 1763139063000
+    },
+    {
+      "id": 45876742,
+      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
+      "link": "https://github.com/nathan-barry/tiny-diffusion",
+      "score": 87,
+      "author": "nathan-barry",
+      "created": "2025-11-10 15:13:55",
+      "created_at": 1762787635000
     }
   ],
   "code": 200,
