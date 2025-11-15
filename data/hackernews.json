@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-15T00:52:42.599Z"
+    "lastUpdate": "2025-11-15T04:13:07.122Z"
   },
   "data": [
-    {
-      "id": 45908938,
-      "title": "Android developer verification: Early access starts",
-      "link": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "score": 1341,
-      "author": "erohead",
-      "created": "2025-11-13 00:33:25",
-      "created_at": 1762994005000
-    },
     {
       "id": 45926779,
       "title": "I think nobody wants AI in Firefox, Mozilla",
       "link": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
-      "score": 1134,
+      "score": 1163,
       "author": "rpgbr",
       "created": "2025-11-14 14:05:00",
       "created_at": 1763129100000
@@ -28,10 +19,19 @@
       "id": 45917875,
       "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
       "link": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-      "score": 848,
+      "score": 851,
       "author": "minimaxir",
       "created": "2025-11-13 17:39:13",
       "created_at": 1763055553000
+    },
+    {
+      "id": 45930151,
+      "title": "AI World Clocks",
+      "link": "https://clocks.brianmoore.com/",
+      "score": 806,
+      "author": "waxpancake",
+      "created": "2025-11-14 18:35:22",
+      "created_at": 1763145322000
     },
     {
       "id": 45912698,
@@ -43,58 +43,58 @@
       "created_at": 1763025810000
     },
     {
-      "id": 45930151,
-      "title": "AI World Clocks",
-      "link": "https://clocks.brianmoore.com/",
-      "score": 605,
-      "author": "waxpancake",
-      "created": "2025-11-14 18:35:22",
-      "created_at": 1763145322000
-    },
-    {
       "id": 45916196,
       "title": "Zed is our office",
       "link": "https://zed.dev/blog/zed-is-our-office",
-      "score": 598,
+      "score": 599,
       "author": "sagacity",
       "created": "2025-11-13 15:41:26",
       "created_at": 1763048486000
     },
     {
-      "id": 45919067,
-      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
-      "link": "https://blog.kagi.com/slopstop",
-      "score": 555,
-      "author": "msub2",
-      "created": "2025-11-13 19:03:26",
-      "created_at": 1763060606000
-    },
-    {
       "id": 45926469,
       "title": "AGI fantasy is a blocker to actual engineering",
       "link": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-      "score": 536,
+      "score": 568,
       "author": "tomwphillips",
       "created": "2025-11-14 13:21:24",
       "created_at": 1763126484000
     },
     {
+      "id": 45919067,
+      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+      "link": "https://blog.kagi.com/slopstop",
+      "score": 556,
+      "author": "msub2",
+      "created": "2025-11-13 19:03:26",
+      "created_at": 1763060606000
+    },
+    {
       "id": 45929511,
       "title": "The disguised return of EU Chat Control",
       "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "score": 497,
+      "score": 553,
       "author": "egorfine",
       "created": "2025-11-14 17:54:07",
       "created_at": 1763142847000
     },
     {
-      "id": 45909059,
-      "title": "Human Fovea Detector",
-      "link": "https://www.shadertoy.com/view/4dsXzM",
-      "score": 482,
-      "author": "AbuAssar",
-      "created": "2025-11-13 00:48:45",
-      "created_at": 1762994925000
+      "id": 45914718,
+      "title": "Britain's railway privatization was an abject failure",
+      "link": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
+      "score": 466,
+      "author": "robtherobber",
+      "created": "2025-11-13 13:34:38",
+      "created_at": 1763040878000
+    },
+    {
+      "id": 45920748,
+      "title": "Blue Origin lands New Glenn rocket booster on second try",
+      "link": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
+      "score": 433,
+      "author": "perihelions",
+      "created": "2025-11-13 21:24:25",
+      "created_at": 1763069065000
     }
   ],
   "code": 200,

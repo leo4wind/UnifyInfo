@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-15T00:52:42.711Z"
+    "lastUpdate": "2025-11-15T04:13:07.262Z"
   },
   "data": [
     {
       "id": 45930151,
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
-      "score": 605,
+      "score": 806,
       "author": "waxpancake",
       "created": "2025-11-14 18:35:22",
       "created_at": 1763145322000
     },
     {
+      "id": 45934940,
+      "title": "I can't recommend Grafana anymore",
+      "link": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
+      "score": 6,
+      "author": "gpi",
+      "created": "2025-11-15 03:58:01",
+      "created_at": 1763179081000
+    },
+    {
       "id": 45932798,
       "title": "SSL Configuration Generator",
       "link": "https://ssl-config.mozilla.org/",
-      "score": 37,
+      "score": 104,
       "author": "smartmic",
       "created": "2025-11-14 22:15:04",
       "created_at": 1763158504000
     },
     {
-      "id": 45923188,
-      "title": "HipKittens: Fast and furious AMD kernels",
-      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
-      "score": 65,
-      "author": "dataminer",
-      "created": "2025-11-14 02:27:20",
-      "created_at": 1763087240000
-    },
-    {
-      "id": 45929921,
-      "title": "A race condition in Aurora RDS",
-      "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
-      "score": 185,
-      "author": "theanomaly",
-      "created": "2025-11-14 18:20:08",
-      "created_at": 1763144408000
-    },
-    {
-      "id": 45808407,
-      "title": "Unofficial Microsoft Teams Client for Linux",
-      "link": "https://github.com/IsmaelMartinez/teams-for-linux",
-      "score": 19,
-      "author": "basemi",
-      "created": "2025-11-04 07:41:58",
-      "created_at": 1762242118000
-    },
-    {
-      "id": 45930598,
-      "title": "Structured Outputs on the Claude Developer Platform (API)",
-      "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-      "score": 82,
-      "author": "adocomplete",
-      "created": "2025-11-14 19:04:23",
-      "created_at": 1763147063000
-    },
-    {
       "id": 45887262,
-      "title": "Has Google solved two of AI's oldest problems?",
+      "title": "Has Google solved two of AI’s oldest problems?",
       "link": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
-      "score": 126,
+      "score": 216,
       "author": "scrlk",
       "created": "2025-11-11 13:52:15",
       "created_at": 1762869135000
     },
     {
-      "id": 45931403,
-      "title": "All praise to the lunch ladies",
-      "link": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
+      "id": 45933497,
+      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
+      "link": "https://modzero.com/en/blog/no-leak-no-problem/",
+      "score": 42,
+      "author": "todsacerdoti",
+      "created": "2025-11-14 23:39:36",
+      "created_at": 1763163576000
+    },
+    {
+      "id": 45923188,
+      "title": "HipKittens: Fast and furious AMD kernels",
+      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+      "score": 103,
+      "author": "dataminer",
+      "created": "2025-11-14 02:27:20",
+      "created_at": 1763087240000
+    },
+    {
+      "id": 45928492,
+      "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
+      "link": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
+      "score": 188,
+      "author": "speckx",
+      "created": "2025-11-14 16:31:26",
+      "created_at": 1763137886000
+    },
+    {
+      "id": 45930598,
+      "title": "Structured outputs on the Claude Developer Platform",
+      "link": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
       "score": 109,
-      "author": "gmays",
-      "created": "2025-11-14 19:54:58",
-      "created_at": 1763150098000
+      "author": "adocomplete",
+      "created": "2025-11-14 19:04:23",
+      "created_at": 1763147063000
     },
     {
-      "id": 45928709,
-      "title": "Manganese is Lyme disease's double-edge sword",
-      "link": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
-      "score": 117,
-      "author": "gmays",
-      "created": "2025-11-14 16:51:03",
-      "created_at": 1763139063000
+      "id": 45929921,
+      "title": "A race condition in Aurora RDS",
+      "link": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
+      "score": 200,
+      "author": "theanomaly",
+      "created": "2025-11-14 18:20:08",
+      "created_at": 1763144408000
     },
     {
-      "id": 45876742,
-      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
-      "link": "https://github.com/nathan-barry/tiny-diffusion",
-      "score": 87,
-      "author": "nathan-barry",
-      "created": "2025-11-10 15:13:55",
-      "created_at": 1762787635000
+      "id": 45934683,
+      "title": "Over-reliance on English hinders cognitive science",
+      "link": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
+      "score": 11,
+      "author": "DrierCycle",
+      "created": "2025-11-15 02:58:56",
+      "created_at": 1763175536000
     }
   ],
   "code": 200,
