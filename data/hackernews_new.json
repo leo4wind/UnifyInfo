@@ -3,41 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-15T12:18:58.832Z"
+    "lastUpdate": "2025-11-15T16:11:36.528Z"
   },
   "data": [
     {
-      "id": 45936262,
-      "title": "One Handed Keyboard",
-      "link": "https://github.com/htx-studio/One-Handed-Keyboard",
-      "score": 33,
-      "author": "doppp",
-      "created": "2025-11-15 09:44:15",
-      "created_at": 1763199855000
+      "id": 45937989,
+      "title": "Linux on the Fujitsu Lifebook U729",
+      "link": "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729",
+      "score": 26,
+      "author": "ibobev",
+      "created": "2025-11-15 15:19:20",
+      "created_at": 1763219960000
     },
     {
-      "id": 45935503,
-      "title": "The Internet Is Cool. Thank You, TCP",
-      "link": "https://cefboud.com/posts/tcp-deep-dive-internals/",
-      "score": 98,
-      "author": "signa11",
-      "created": "2025-11-15 06:37:50",
-      "created_at": 1763188670000
+      "id": 45872519,
+      "title": "The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)",
+      "link": "https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/",
+      "score": 22,
+      "author": "Petiver",
+      "created": "2025-11-10 04:46:59",
+      "created_at": 1762750019000
     },
     {
       "id": 45936460,
       "title": "Our investigation into the suspicious pressure on Archive.today",
       "link": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-      "score": 110,
+      "score": 483,
       "author": "immibis",
       "created": "2025-11-15 10:30:52",
       "created_at": 1763202652000
     },
     {
+      "id": 45935503,
+      "title": "The Internet Is Cool. Thank You, TCP",
+      "link": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+      "score": 171,
+      "author": "signa11",
+      "created": "2025-11-15 06:37:50",
+      "created_at": 1763188670000
+    },
+    {
       "id": 45930151,
       "title": "AI World Clocks",
       "link": "https://clocks.brianmoore.com/",
-      "score": 1064,
+      "score": 1183,
       "author": "waxpancake",
       "created": "2025-11-14 18:35:22",
       "created_at": 1763145322000
@@ -46,46 +55,46 @@
       "id": 45935729,
       "title": "Messing with Scraper Bots",
       "link": "https://herman.bearblog.dev/messing-with-bots/",
-      "score": 56,
+      "score": 108,
       "author": "HermanMartinus",
       "created": "2025-11-15 07:38:18",
       "created_at": 1763192298000
     },
     {
-      "id": 45934416,
-      "title": "AMD GPUs Go Brrr",
-      "link": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
-      "score": 168,
-      "author": "vinhnx",
-      "created": "2025-11-15 02:06:16",
-      "created_at": 1763172376000
-    },
-    {
-      "id": 45793920,
-      "title": "Can text be made to sound more than just its words? (2022)",
-      "link": "https://arxiv.org/abs/2202.10631",
-      "score": 12,
-      "author": "tobr",
-      "created": "2025-11-02 22:17:15",
-      "created_at": 1762121835000
+      "id": 45936262,
+      "title": "One Handed Keyboard",
+      "link": "https://github.com/htx-studio/One-Handed-Keyboard",
+      "score": 72,
+      "author": "doppp",
+      "created": "2025-11-15 09:44:15",
+      "created_at": 1763199855000
     },
     {
       "id": 45935342,
       "title": "So, you want to design your own language? (2017)",
       "link": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
-      "score": 87,
+      "score": 118,
       "author": "veqq",
       "created": "2025-11-15 05:44:43",
       "created_at": 1763185483000
     },
     {
-      "id": 45935763,
-      "title": "Spec-Driven Development: The Waterfall Strikes Back",
-      "link": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
-      "score": 115,
-      "author": "vinhnx",
-      "created": "2025-11-15 07:48:23",
-      "created_at": 1763192903000
+      "id": 45825121,
+      "title": "Streaming AI Agent Desktops with Gaming Protocols",
+      "link": "https://blog.helix.ml/p/technical-deep-dive-on-streaming",
+      "score": 25,
+      "author": "quesobob",
+      "created": "2025-11-05 16:59:08",
+      "created_at": 1762361948000
+    },
+    {
+      "id": 45808407,
+      "title": "Unofficial Microsoft Teams client for Linux",
+      "link": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "score": 202,
+      "author": "basemi",
+      "created": "2025-11-04 07:41:58",
+      "created_at": 1762242118000
     }
   ],
   "code": 200,
