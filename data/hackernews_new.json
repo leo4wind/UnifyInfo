@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-16T16:11:46.595Z"
+    "lastUpdate": "2025-11-16T20:12:02.607Z"
   },
   "data": [
     {
-      "id": 45944870,
-      "title": "The Internet Is No Longer a Safe Haven",
-      "link": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
-      "score": 89,
-      "author": "akyuu",
-      "created": "2025-11-16 13:12:03",
-      "created_at": 1763298723000
-    },
-    {
-      "id": 45945188,
-      "title": "Iran begins cloud seeding operations as drought bites",
-      "link": "https://www.arabnews.com/node/2622812/middle-east",
-      "score": 45,
-      "author": "mhb",
-      "created": "2025-11-16 13:57:03",
-      "created_at": 1763301423000
-    },
-    {
-      "id": 45944337,
-      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
-      "link": "https://github.com/Hans-Halverson/brimstone",
-      "score": 101,
-      "author": "ivankra",
-      "created": "2025-11-16 11:41:10",
-      "created_at": 1763293270000
+      "id": 45947639,
+      "title": "The fate of \"small\" open source",
+      "link": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
+      "score": 37,
+      "author": "todsacerdoti",
+      "created": "2025-11-16 19:21:13",
+      "created_at": 1763320873000
     },
     {
       "id": 45945587,
       "title": "Heretic: Automatic censorship removal for language models",
       "link": "https://github.com/p-e-w/heretic",
-      "score": 22,
+      "score": 267,
       "author": "melded",
       "created": "2025-11-16 15:00:24",
       "created_at": 1763305224000
     },
     {
-      "id": 45945202,
-      "title": "Running the \"Reflections on Trusting Trust\" Compiler",
-      "link": "https://research.swtch.com/nih",
-      "score": 32,
-      "author": "naves",
-      "created": "2025-11-16 13:59:19",
-      "created_at": 1763301559000
+      "id": 45947810,
+      "title": "62 chapter open-source Zig book",
+      "link": "https://www.zigbook.net",
+      "score": 14,
+      "author": "rudedogg",
+      "created": "2025-11-16 19:44:27",
+      "created_at": 1763322267000
     },
     {
-      "id": 45945750,
-      "title": "De Bruijn Numerals",
-      "link": "https://text.marvinborner.de/2023-08-22-22.html",
-      "score": 11,
-      "author": "marvinborner",
-      "created": "2025-11-16 15:22:16",
-      "created_at": 1763306536000
+      "id": 45945784,
+      "title": "FPGA Based IBM-PC-XT",
+      "link": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+      "score": 94,
+      "author": "andsoitis",
+      "created": "2025-11-16 15:26:24",
+      "created_at": 1763306784000
     },
     {
-      "id": 45941596,
-      "title": "AirPods libreated from Apple's ecosystem",
-      "link": "https://github.com/kavishdevar/librepods",
-      "score": 1001,
-      "author": "moonleay",
-      "created": "2025-11-16 00:01:25",
-      "created_at": 1763251285000
+      "id": 45947301,
+      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "link": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+      "score": 20,
+      "author": "amit-bansil",
+      "created": "2025-11-16 18:38:37",
+      "created_at": 1763318317000
     },
     {
-      "id": 45944296,
-      "title": "Anthropic's report smells a lot like bullshit",
-      "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "score": 479,
-      "author": "vxvxvx",
-      "created": "2025-11-16 11:32:39",
-      "created_at": 1763292759000
+      "id": 45947434,
+      "title": "AI is killing privacy. We can't let that happen",
+      "link": "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps",
+      "score": 59,
+      "author": "johnshades",
+      "created": "2025-11-16 18:56:31",
+      "created_at": 1763319391000
+    },
+    {
+      "id": 45825413,
+      "title": "Fourier Transforms",
+      "link": "https://www.continuummechanics.org/fourierxforms.html",
+      "score": 53,
+      "author": "o4c",
+      "created": "2025-11-05 17:24:18",
+      "created_at": 1762363458000
+    },
+    {
+      "id": 45944337,
+      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+      "link": "https://github.com/Hans-Halverson/brimstone",
+      "score": 157,
+      "author": "ivankra",
+      "created": "2025-11-16 11:41:10",
+      "created_at": 1763293270000
+    },
+    {
+      "id": 45946865,
+      "title": "I finally understand Cloudflare Zero Trust tunnels",
+      "link": "https://david.coffee/cloudflare-zero-trust-tunnels",
+      "score": 19,
+      "author": "eustoria",
+      "created": "2025-11-16 17:39:43",
+      "created_at": 1763314783000
     },
     {
       "id": 45944969,
       "title": "Garbage Collection Is Useful",
       "link": "https://dubroy.com/blog/garbage-collection-is-useful/",
-      "score": 19,
+      "score": 90,
       "author": "surprisetalk",
       "created": "2025-11-16 13:25:32",
       "created_at": 1763299532000
-    },
-    {
-      "id": 45815948,
-      "title": "Measuring the doppler shift of WWVB during a flight",
-      "link": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
-      "score": 40,
-      "author": "Jyaif",
-      "created": "2025-11-04 21:12:57",
-      "created_at": 1762290777000
     }
   ],
   "code": 200,

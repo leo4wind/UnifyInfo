@@ -3,68 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-16T16:11:46.434Z"
+    "lastUpdate": "2025-11-16T20:12:02.247Z"
   },
   "data": [
     {
       "id": 45936460,
       "title": "Our investigation into the suspicious pressure on Archive.today",
       "link": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-      "score": 1671,
+      "score": 1714,
       "author": "immibis",
       "created": "2025-11-15 10:30:52",
       "created_at": 1763202652000
     },
     {
-      "id": 45930151,
-      "title": "AI World Clocks",
-      "link": "https://clocks.brianmoore.com/",
-      "score": 1320,
-      "author": "waxpancake",
-      "created": "2025-11-14 18:35:22",
-      "created_at": 1763145322000
-    },
-    {
       "id": 45941596,
       "title": "AirPods libreated from Apple's ecosystem",
       "link": "https://github.com/kavishdevar/librepods",
-      "score": 1001,
+      "score": 1186,
       "author": "moonleay",
       "created": "2025-11-16 00:01:25",
       "created_at": 1763251285000
     },
     {
-      "id": 45929511,
-      "title": "The disguised return of EU Chat Control",
-      "link": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "score": 825,
-      "author": "egorfine",
-      "created": "2025-11-14 17:54:07",
-      "created_at": 1763142847000
-    },
-    {
-      "id": 45928912,
-      "title": "Being poor vs. being broke",
-      "link": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
-      "score": 566,
-      "author": "speckx",
-      "created": "2025-11-14 17:08:15",
-      "created_at": 1763140095000
-    },
-    {
-      "id": 45929358,
-      "title": "Bitchat for Gaza – messaging without internet",
-      "link": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
-      "score": 501,
-      "author": "ciconia",
-      "created": "2025-11-14 17:43:40",
-      "created_at": 1763142220000
-    },
-    {
       "id": 45944296,
       "title": "Anthropic's report smells a lot like bullshit",
       "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "score": 479,
+      "score": 704,
       "author": "vxvxvx",
       "created": "2025-11-16 11:32:39",
       "created_at": 1763292759000
@@ -73,28 +37,64 @@
       "id": 45939431,
       "title": "Things that aren't doing the thing",
       "link": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-      "score": 382,
+      "score": 436,
       "author": "downboots",
       "created": "2025-11-15 18:24:58",
       "created_at": 1763231098000
     },
     {
-      "id": 45928492,
-      "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
-      "link": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
-      "score": 362,
-      "author": "speckx",
-      "created": "2025-11-14 16:31:26",
-      "created_at": 1763137886000
-    },
-    {
       "id": 45935503,
       "title": "TCP, the workhorse of the internet",
       "link": "https://cefboud.com/posts/tcp-deep-dive-internals/",
-      "score": 330,
+      "score": 333,
       "author": "signa11",
       "created": "2025-11-15 06:37:50",
       "created_at": 1763188670000
+    },
+    {
+      "id": 45943979,
+      "title": "Maybe you’re not trying",
+      "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+      "score": 330,
+      "author": "eatitraw",
+      "created": "2025-11-16 10:14:25",
+      "created_at": 1763288065000
+    },
+    {
+      "id": 45939798,
+      "title": "Nevada Governor's office covered up Boring Co safety violations",
+      "link": "https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/",
+      "score": 317,
+      "author": "Chinjut",
+      "created": "2025-11-15 19:10:31",
+      "created_at": 1763233831000
+    },
+    {
+      "id": 45931331,
+      "title": "Show HN: Epstein Files Organized and Searchable",
+      "link": "https://searchepsteinfiles.com/",
+      "score": 317,
+      "author": "searchepstein",
+      "created": "2025-11-14 19:50:16",
+      "created_at": 1763149816000
+    },
+    {
+      "id": 45932962,
+      "title": "Go's Sweet 16",
+      "link": "https://go.dev/blog/16years",
+      "score": 304,
+      "author": "0xedb",
+      "created": "2025-11-14 22:33:15",
+      "created_at": 1763159595000
+    },
+    {
+      "id": 45941563,
+      "title": "When UPS charged me a $684 tariff on $355 of vintage computer parts",
+      "link": "http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html",
+      "score": 293,
+      "author": "goldenskye",
+      "created": "2025-11-15 23:55:19",
+      "created_at": 1763250919000
     }
   ],
   "code": 200,
