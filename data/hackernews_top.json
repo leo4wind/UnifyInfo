@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-16T08:13:59.129Z"
+    "lastUpdate": "2025-11-16T12:19:20.827Z"
   },
   "data": [
+    {
+      "id": 45944296,
+      "title": "Anthropic's report smells a lot like bullshit",
+      "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+      "score": 54,
+      "author": "vxvxvx",
+      "created": "2025-11-16 11:32:39",
+      "created_at": 1763292759000
+    },
     {
       "id": 45941596,
       "title": "AirPods libreated from Apple's ecosystem",
       "link": "https://github.com/kavishdevar/librepods",
-      "score": 586,
+      "score": 822,
       "author": "moonleay",
       "created": "2025-11-16 00:01:25",
       "created_at": 1763251285000
     },
     {
+      "id": 45943979,
+      "title": "Maybe You're Not Actually Trying",
+      "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+      "score": 49,
+      "author": "eatitraw",
+      "created": "2025-11-16 10:14:25",
+      "created_at": 1763288065000
+    },
+    {
       "id": 45936460,
       "title": "Our investigation into the suspicious pressure on Archive.today",
       "link": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-      "score": 1515,
+      "score": 1619,
       "author": "immibis",
       "created": "2025-11-15 10:30:52",
       "created_at": 1763202652000
@@ -28,73 +46,55 @@
       "id": 45941835,
       "title": "IDEmacs: A Visual Studio Code clone for Emacs",
       "link": "https://codeberg.org/IDEmacs/IDEmacs",
-      "score": 167,
+      "score": 220,
       "author": "nogajun",
       "created": "2025-11-16 00:56:31",
       "created_at": 1763254591000
     },
     {
+      "id": 45876884,
+      "title": "Run Nix Based Environments in Kubernetes",
+      "link": "https://flox.dev/kubernetes/",
+      "score": 40,
+      "author": "kelseyhightower",
+      "created": "2025-11-10 15:27:42",
+      "created_at": 1762788462000
+    },
+    {
+      "id": 45942518,
+      "title": "Hyundai Paywalls Brake Pads replacement on Ioniq 5 N",
+      "link": "https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login",
+      "score": 107,
+      "author": "zdw",
+      "created": "2025-11-16 03:29:48",
+      "created_at": 1763263788000
+    },
+    {
+      "id": 45943486,
+      "title": "Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)",
+      "link": "https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb",
+      "score": 30,
+      "author": "Fiveplus",
+      "created": "2025-11-16 07:55:09",
+      "created_at": 1763279709000
+    },
+    {
+      "id": 45944056,
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "link": "https://www.bbc.com/news/articles/c051y3d7myzo",
+      "score": 48,
+      "author": "ksec",
+      "created": "2025-11-16 10:38:41",
+      "created_at": 1763289521000
+    },
+    {
       "id": 45939431,
       "title": "Things that aren't doing the thing",
       "link": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-      "score": 235,
+      "score": 317,
       "author": "downboots",
       "created": "2025-11-15 18:24:58",
       "created_at": 1763231098000
-    },
-    {
-      "id": 45941441,
-      "title": "Blocking LLM crawlers without JavaScript",
-      "link": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
-      "score": 116,
-      "author": "todsacerdoti",
-      "created": "2025-11-15 23:30:04",
-      "created_at": 1763249404000
-    },
-    {
-      "id": 45941025,
-      "title": "libwifi: an 802.11 frame parsing and generation library written in C",
-      "link": "https://libwifi.so/",
-      "score": 95,
-      "author": "vitalnodo",
-      "created": "2025-11-15 22:16:33",
-      "created_at": 1763244993000
-    },
-    {
-      "id": 45941443,
-      "title": "The inconceivable types of Rust: How to make self-borrows safe (2024)",
-      "link": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
-      "score": 72,
-      "author": "birdculture",
-      "created": "2025-11-15 23:31:39",
-      "created_at": 1763249499000
-    },
-    {
-      "id": 45841095,
-      "title": "When did people favor composition over inheritance?",
-      "link": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
-      "score": 147,
-      "author": "ingve",
-      "created": "2025-11-06 22:09:29",
-      "created_at": 1762466969000
-    },
-    {
-      "id": 45832051,
-      "title": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
-      "link": "https://github.com/boa-dev/boa",
-      "score": 209,
-      "author": "maxloh",
-      "created": "2025-11-06 06:15:43",
-      "created_at": 1762409743000
-    },
-    {
-      "id": 45940706,
-      "title": "AsciiMath",
-      "link": "https://asciimath.org/",
-      "score": 87,
-      "author": "smartmic",
-      "created": "2025-11-15 21:22:57",
-      "created_at": 1763241777000
     }
   ],
   "code": 200,
