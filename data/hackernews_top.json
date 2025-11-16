@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-16T12:19:20.827Z"
+    "lastUpdate": "2025-11-16T16:11:46.565Z"
   },
   "data": [
     {
-      "id": 45944296,
-      "title": "Anthropic's report smells a lot like bullshit",
-      "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "score": 54,
-      "author": "vxvxvx",
-      "created": "2025-11-16 11:32:39",
-      "created_at": 1763292759000
+      "id": 45944870,
+      "title": "The Internet Is No Longer a Safe Haven",
+      "link": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
+      "score": 89,
+      "author": "akyuu",
+      "created": "2025-11-16 13:12:03",
+      "created_at": 1763298723000
+    },
+    {
+      "id": 45945188,
+      "title": "Iran begins cloud seeding operations as drought bites",
+      "link": "https://www.arabnews.com/node/2622812/middle-east",
+      "score": 45,
+      "author": "mhb",
+      "created": "2025-11-16 13:57:03",
+      "created_at": 1763301423000
+    },
+    {
+      "id": 45944337,
+      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+      "link": "https://github.com/Hans-Halverson/brimstone",
+      "score": 101,
+      "author": "ivankra",
+      "created": "2025-11-16 11:41:10",
+      "created_at": 1763293270000
+    },
+    {
+      "id": 45945587,
+      "title": "Heretic: Automatic censorship removal for language models",
+      "link": "https://github.com/p-e-w/heretic",
+      "score": 22,
+      "author": "melded",
+      "created": "2025-11-16 15:00:24",
+      "created_at": 1763305224000
+    },
+    {
+      "id": 45945202,
+      "title": "Running the \"Reflections on Trusting Trust\" Compiler",
+      "link": "https://research.swtch.com/nih",
+      "score": 32,
+      "author": "naves",
+      "created": "2025-11-16 13:59:19",
+      "created_at": 1763301559000
+    },
+    {
+      "id": 45945750,
+      "title": "De Bruijn Numerals",
+      "link": "https://text.marvinborner.de/2023-08-22-22.html",
+      "score": 11,
+      "author": "marvinborner",
+      "created": "2025-11-16 15:22:16",
+      "created_at": 1763306536000
     },
     {
       "id": 45941596,
       "title": "AirPods libreated from Apple's ecosystem",
       "link": "https://github.com/kavishdevar/librepods",
-      "score": 822,
+      "score": 1001,
       "author": "moonleay",
       "created": "2025-11-16 00:01:25",
       "created_at": 1763251285000
     },
     {
-      "id": 45943979,
-      "title": "Maybe You're Not Actually Trying",
-      "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
-      "score": 49,
-      "author": "eatitraw",
-      "created": "2025-11-16 10:14:25",
-      "created_at": 1763288065000
+      "id": 45944296,
+      "title": "Anthropic's report smells a lot like bullshit",
+      "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+      "score": 479,
+      "author": "vxvxvx",
+      "created": "2025-11-16 11:32:39",
+      "created_at": 1763292759000
     },
     {
-      "id": 45936460,
-      "title": "Our investigation into the suspicious pressure on Archive.today",
-      "link": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-      "score": 1619,
-      "author": "immibis",
-      "created": "2025-11-15 10:30:52",
-      "created_at": 1763202652000
+      "id": 45944969,
+      "title": "Garbage Collection Is Useful",
+      "link": "https://dubroy.com/blog/garbage-collection-is-useful/",
+      "score": 19,
+      "author": "surprisetalk",
+      "created": "2025-11-16 13:25:32",
+      "created_at": 1763299532000
     },
     {
-      "id": 45941835,
-      "title": "IDEmacs: A Visual Studio Code clone for Emacs",
-      "link": "https://codeberg.org/IDEmacs/IDEmacs",
-      "score": 220,
-      "author": "nogajun",
-      "created": "2025-11-16 00:56:31",
-      "created_at": 1763254591000
-    },
-    {
-      "id": 45876884,
-      "title": "Run Nix Based Environments in Kubernetes",
-      "link": "https://flox.dev/kubernetes/",
+      "id": 45815948,
+      "title": "Measuring the doppler shift of WWVB during a flight",
+      "link": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
       "score": 40,
-      "author": "kelseyhightower",
-      "created": "2025-11-10 15:27:42",
-      "created_at": 1762788462000
-    },
-    {
-      "id": 45942518,
-      "title": "Hyundai Paywalls Brake Pads replacement on Ioniq 5 N",
-      "link": "https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login",
-      "score": 107,
-      "author": "zdw",
-      "created": "2025-11-16 03:29:48",
-      "created_at": 1763263788000
-    },
-    {
-      "id": 45943486,
-      "title": "Facebook Text Log Between Mark Zuckerberg and Kevin Systrom(Instagram Cofounder)",
-      "link": "https://www.dropbox.com/scl/fo/0e4qbvj7w8cwxdlpo010c/AHCMfNHmj03nPnJ-VKDYRvA?dl=0&e=1&noscript=1&preview=Facebook%2Btext%2Blog%2Bbetween%2BMark%2BZuckerberg%2Band%2BKevin%2BSystrom.pdf&rlkey=43f3smc5zi5v82h986hujmvfb",
-      "score": 30,
-      "author": "Fiveplus",
-      "created": "2025-11-16 07:55:09",
-      "created_at": 1763279709000
-    },
-    {
-      "id": 45944056,
-      "title": "UK's first small nuclear power station to be built in north Wales",
-      "link": "https://www.bbc.com/news/articles/c051y3d7myzo",
-      "score": 48,
-      "author": "ksec",
-      "created": "2025-11-16 10:38:41",
-      "created_at": 1763289521000
-    },
-    {
-      "id": 45939431,
-      "title": "Things that aren't doing the thing",
-      "link": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-      "score": 317,
-      "author": "downboots",
-      "created": "2025-11-15 18:24:58",
-      "created_at": 1763231098000
+      "author": "Jyaif",
+      "created": "2025-11-04 21:12:57",
+      "created_at": 1762290777000
     }
   ],
   "code": 200,
