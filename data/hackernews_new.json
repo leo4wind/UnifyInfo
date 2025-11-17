@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-17T12:22:36.974Z"
+    "lastUpdate": "2025-11-17T16:15:30.427Z"
   },
   "data": [
     {
-      "id": 45845060,
-      "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
-      "link": "https://developer.chrome.com/blog/cdp-command-editor",
-      "score": 34,
-      "author": "keepamovin",
-      "created": "2025-11-07 10:11:08",
-      "created_at": 1762510268000
+      "id": 45900425,
+      "title": "Show HN: I built a synth for my daughter",
+      "link": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
+      "score": 371,
+      "author": "random_moonwalk",
+      "created": "2025-11-12 14:12:13",
+      "created_at": 1762956733000
     },
     {
-      "id": 45950720,
-      "title": "Building a Simple Search Engine That Works",
-      "link": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
-      "score": 145,
-      "author": "freediver",
-      "created": "2025-11-17 03:52:50",
-      "created_at": 1763351570000
+      "id": 45953452,
+      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+      "link": "https://github.com/medusalix/FreeMDU",
+      "score": 103,
+      "author": "Medusalix",
+      "created": "2025-11-17 13:40:40",
+      "created_at": 1763386840000
+    },
+    {
+      "id": 45953702,
+      "title": "Replicate is joining Cloudflare",
+      "link": "https://replicate.com/blog/replicate-cloudflare",
+      "score": 106,
+      "author": "bfirsh",
+      "created": "2025-11-17 14:11:57",
+      "created_at": 1763388717000
+    },
+    {
+      "id": 45954560,
+      "title": "Google is killing the open web, part 2",
+      "link": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+      "score": 16,
+      "author": "akagusu",
+      "created": "2025-11-17 15:41:08",
+      "created_at": 1763394068000
+    },
+    {
+      "id": 45954640,
+      "title": "Project Gemini",
+      "link": "https://geminiprotocol.net/",
+      "score": 6,
+      "author": "andsoitis",
+      "created": "2025-11-17 15:50:04",
+      "created_at": 1763394604000
+    },
+    {
+      "id": 45954626,
+      "title": "WBlock: A New Ad-Blocker for Safari",
+      "link": "https://github.com/0xCUB3/wBlock",
+      "score": 4,
+      "author": "InfiniteVortex",
+      "created": "2025-11-17 15:48:18",
+      "created_at": 1763394498000
+    },
+    {
+      "id": 45952890,
+      "title": "Are you stuck in movie logic?",
+      "link": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic",
+      "score": 41,
+      "author": "eatitraw",
+      "created": "2025-11-17 12:06:37",
+      "created_at": 1763381197000
+    },
+    {
+      "id": 45796932,
+      "title": "Celtic Code: Drawing Knots with Python",
+      "link": "https://2earth.github.io/website/20250202.html",
+      "score": 30,
+      "author": "HansardExpert",
+      "created": "2025-11-03 08:19:09",
+      "created_at": 1762157949000
     },
     {
       "id": 45952428,
       "title": "Giving C a Superpower",
       "link": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
-      "score": 7,
+      "score": 147,
       "author": "mithcs",
       "created": "2025-11-17 10:40:55",
       "created_at": 1763376055000
     },
     {
-      "id": 45945587,
-      "title": "Heretic: Automatic censorship removal for language models",
-      "link": "https://github.com/p-e-w/heretic",
-      "score": 618,
-      "author": "melded",
-      "created": "2025-11-16 15:00:24",
-      "created_at": 1763305224000
-    },
-    {
-      "id": 45837259,
-      "title": "A file format uncracked for 20 years",
-      "link": "https://landaire.net/a-file-format-uncracked-for-20-years/",
-      "score": 214,
-      "author": "todsacerdoti",
-      "created": "2025-11-06 16:52:19",
-      "created_at": 1762447939000
-    },
-    {
-      "id": 45885768,
-      "title": "Listen to Database Changes Through the Postgres WAL",
-      "link": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
-      "score": 114,
-      "author": "pjullrich",
-      "created": "2025-11-11 10:08:30",
-      "created_at": 1762855710000
-    },
-    {
-      "id": 45947810,
-      "title": "Open-source Zig book",
-      "link": "https://www.zigbook.net",
-      "score": 647,
-      "author": "rudedogg",
-      "created": "2025-11-16 19:44:27",
-      "created_at": 1763322267000
-    },
-    {
-      "id": 45950396,
-      "title": "A 1961 Relay Computer Running in the Browser",
-      "link": "https://minivac.greg.technology/",
-      "score": 81,
-      "author": "vaibhavsagar",
-      "created": "2025-11-17 02:36:18",
-      "created_at": 1763346978000
-    },
-    {
-      "id": 45947639,
-      "title": "The fate of \"small\" open source",
-      "link": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "score": 237,
-      "author": "todsacerdoti",
-      "created": "2025-11-16 19:21:13",
-      "created_at": 1763320873000
-    },
-    {
-      "id": 45949352,
-      "title": "PicoIDE – An open IDE/ATAPI drive emulator",
-      "link": "https://picoide.com/",
-      "score": 134,
-      "author": "st_goliath",
-      "created": "2025-11-16 23:19:24",
-      "created_at": 1763335164000
+      "id": 45822953,
+      "title": "C++ implementation of SIP, ICE, TURN and related protocols",
+      "link": "https://github.com/resiprocate/resiprocate",
+      "score": 53,
+      "author": "mooreds",
+      "created": "2025-11-05 14:04:22",
+      "created_at": 1762351462000
     }
   ],
   "code": 200,
