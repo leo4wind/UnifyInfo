@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-17T16:15:30.427Z"
+    "lastUpdate": "2025-11-17T20:13:08.964Z"
   },
   "data": [
     {
       "id": 45900425,
       "title": "Show HN: I built a synth for my daughter",
       "link": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "score": 371,
+      "score": 706,
       "author": "random_moonwalk",
       "created": "2025-11-12 14:12:13",
       "created_at": 1762956733000
     },
     {
+      "id": 45956176,
+      "title": "An official atlas of North Korea",
+      "link": "https://www.cartographerstale.com/p/an-official-atlas-of-north-korea",
+      "score": 95,
+      "author": "speckx",
+      "created": "2025-11-17 18:07:17",
+      "created_at": 1763402837000
+    },
+    {
       "id": 45953452,
       "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
       "link": "https://github.com/medusalix/FreeMDU",
-      "score": 103,
+      "score": 185,
       "author": "Medusalix",
       "created": "2025-11-17 13:40:40",
       "created_at": 1763386840000
     },
     {
-      "id": 45953702,
-      "title": "Replicate is joining Cloudflare",
-      "link": "https://replicate.com/blog/replicate-cloudflare",
-      "score": 106,
-      "author": "bfirsh",
-      "created": "2025-11-17 14:11:57",
-      "created_at": 1763388717000
+      "id": 45937302,
+      "title": "My stages of learning to be a socially normal person",
+      "link": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
+      "score": 94,
+      "author": "eatitraw",
+      "created": "2025-11-15 13:24:54",
+      "created_at": 1763213094000
     },
     {
-      "id": 45954560,
-      "title": "Google is killing the open web, part 2",
-      "link": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
-      "score": 16,
-      "author": "akagusu",
-      "created": "2025-11-17 15:41:08",
-      "created_at": 1763394068000
+      "id": 45954210,
+      "title": "WeatherNext 2: Our most advanced weather forecasting model",
+      "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+      "score": 102,
+      "author": "meetpateltech",
+      "created": "2025-11-17 15:04:26",
+      "created_at": 1763391866000
     },
     {
       "id": 45954640,
       "title": "Project Gemini",
       "link": "https://geminiprotocol.net/",
-      "score": 6,
+      "score": 122,
       "author": "andsoitis",
       "created": "2025-11-17 15:50:04",
       "created_at": 1763394604000
     },
     {
-      "id": 45954626,
-      "title": "WBlock: A New Ad-Blocker for Safari",
-      "link": "https://github.com/0xCUB3/wBlock",
-      "score": 4,
-      "author": "InfiniteVortex",
-      "created": "2025-11-17 15:48:18",
-      "created_at": 1763394498000
+      "id": 45952614,
+      "title": "Things I don't like in configuration languages",
+      "link": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
+      "score": 31,
+      "author": "birdculture",
+      "created": "2025-11-17 11:14:41",
+      "created_at": 1763378081000
     },
     {
-      "id": 45952890,
-      "title": "Are you stuck in movie logic?",
-      "link": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic",
-      "score": 41,
-      "author": "eatitraw",
-      "created": "2025-11-17 12:06:37",
-      "created_at": 1763381197000
+      "id": 45953977,
+      "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+      "link": "https://github.com/francescopace/espectre",
+      "score": 27,
+      "author": "francescopace",
+      "created": "2025-11-17 14:40:54",
+      "created_at": 1763390454000
     },
     {
-      "id": 45796932,
-      "title": "Celtic Code: Drawing Knots with Python",
-      "link": "https://2earth.github.io/website/20250202.html",
-      "score": 30,
-      "author": "HansardExpert",
-      "created": "2025-11-03 08:19:09",
-      "created_at": 1762157949000
+      "id": 45955424,
+      "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+      "link": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+      "score": 155,
+      "author": "croes",
+      "created": "2025-11-17 16:54:53",
+      "created_at": 1763398493000
     },
     {
-      "id": 45952428,
-      "title": "Giving C a Superpower",
-      "link": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
-      "score": 147,
-      "author": "mithcs",
-      "created": "2025-11-17 10:40:55",
-      "created_at": 1763376055000
-    },
-    {
-      "id": 45822953,
-      "title": "C++ implementation of SIP, ICE, TURN and related protocols",
-      "link": "https://github.com/resiprocate/resiprocate",
-      "score": 53,
-      "author": "mooreds",
-      "created": "2025-11-05 14:04:22",
-      "created_at": 1762351462000
+      "id": 45954638,
+      "title": "How to escape the Linux networking stack",
+      "link": "https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/",
+      "score": 34,
+      "author": "meysamazad",
+      "created": "2025-11-17 15:49:38",
+      "created_at": 1763394578000
     }
   ],
   "code": 200,
