@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-16T20:12:02.607Z"
+    "lastUpdate": "2025-11-17T00:55:25.661Z"
   },
   "data": [
     {
-      "id": 45947639,
-      "title": "The fate of \"small\" open source",
-      "link": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "score": 37,
-      "author": "todsacerdoti",
-      "created": "2025-11-16 19:21:13",
-      "created_at": 1763320873000
-    },
-    {
-      "id": 45945587,
-      "title": "Heretic: Automatic censorship removal for language models",
-      "link": "https://github.com/p-e-w/heretic",
-      "score": 267,
-      "author": "melded",
-      "created": "2025-11-16 15:00:24",
-      "created_at": 1763305224000
-    },
-    {
       "id": 45947810,
-      "title": "62 chapter open-source Zig book",
+      "title": "Open-source Zig book",
       "link": "https://www.zigbook.net",
-      "score": 14,
+      "score": 316,
       "author": "rudedogg",
       "created": "2025-11-16 19:44:27",
       "created_at": 1763322267000
     },
     {
-      "id": 45945784,
-      "title": "FPGA Based IBM-PC-XT",
-      "link": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+      "id": 45949326,
+      "title": "Britney Spears' Guide to Semiconductor Physics",
+      "link": "https://britneyspears.ac/lasers.htm",
+      "score": 73,
+      "author": "lachlan_gray",
+      "created": "2025-11-16 23:15:20",
+      "created_at": 1763334920000
+    },
+    {
+      "id": 45947770,
+      "title": "Browser fingerprinting via favicon",
+      "link": "https://github.com/jonasstrehle/supercookie",
+      "score": 184,
+      "author": "vxvrs",
+      "created": "2025-11-16 19:39:52",
+      "created_at": 1763321992000
+    },
+    {
+      "id": 45945587,
+      "title": "Heretic: Automatic censorship removal for language models",
+      "link": "https://github.com/p-e-w/heretic",
+      "score": 383,
+      "author": "melded",
+      "created": "2025-11-16 15:00:24",
+      "created_at": 1763305224000
+    },
+    {
+      "id": 45947761,
+      "title": "Dark Pattern Games",
+      "link": "https://www.darkpattern.games",
       "score": 94,
-      "author": "andsoitis",
-      "created": "2025-11-16 15:26:24",
-      "created_at": 1763306784000
+      "author": "robotnikman",
+      "created": "2025-11-16 19:38:49",
+      "created_at": 1763321929000
+    },
+    {
+      "id": 45947444,
+      "title": "What if you don't need MCP at all?",
+      "link": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/",
+      "score": 117,
+      "author": "jdkee",
+      "created": "2025-11-16 18:58:10",
+      "created_at": 1763319490000
+    },
+    {
+      "id": 45949352,
+      "title": "PicoIDE – An open IDE/ATAPI drive emulator",
+      "link": "https://picoide.com/",
+      "score": 10,
+      "author": "st_goliath",
+      "created": "2025-11-16 23:19:24",
+      "created_at": 1763335164000
+    },
+    {
+      "id": 45948254,
+      "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
+      "link": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
+      "score": 62,
+      "author": "ahalbert2",
+      "created": "2025-11-16 20:46:30",
+      "created_at": 1763325990000
+    },
+    {
+      "id": 45948792,
+      "title": "How Your Brain Creates 'Aha' Moments and Why They Stick",
+      "link": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+      "score": 20,
+      "author": "wjb3",
+      "created": "2025-11-16 21:57:13",
+      "created_at": 1763330233000
     },
     {
       "id": 45947301,
       "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
       "link": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
-      "score": 20,
+      "score": 79,
       "author": "amit-bansil",
       "created": "2025-11-16 18:38:37",
       "created_at": 1763318317000
-    },
-    {
-      "id": 45947434,
-      "title": "AI is killing privacy. We can't let that happen",
-      "link": "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps",
-      "score": 59,
-      "author": "johnshades",
-      "created": "2025-11-16 18:56:31",
-      "created_at": 1763319391000
-    },
-    {
-      "id": 45825413,
-      "title": "Fourier Transforms",
-      "link": "https://www.continuummechanics.org/fourierxforms.html",
-      "score": 53,
-      "author": "o4c",
-      "created": "2025-11-05 17:24:18",
-      "created_at": 1762363458000
-    },
-    {
-      "id": 45944337,
-      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
-      "link": "https://github.com/Hans-Halverson/brimstone",
-      "score": 157,
-      "author": "ivankra",
-      "created": "2025-11-16 11:41:10",
-      "created_at": 1763293270000
-    },
-    {
-      "id": 45946865,
-      "title": "I finally understand Cloudflare Zero Trust tunnels",
-      "link": "https://david.coffee/cloudflare-zero-trust-tunnels",
-      "score": 19,
-      "author": "eustoria",
-      "created": "2025-11-16 17:39:43",
-      "created_at": 1763314783000
-    },
-    {
-      "id": 45944969,
-      "title": "Garbage Collection Is Useful",
-      "link": "https://dubroy.com/blog/garbage-collection-is-useful/",
-      "score": 90,
-      "author": "surprisetalk",
-      "created": "2025-11-16 13:25:32",
-      "created_at": 1763299532000
     }
   ],
   "code": 200,

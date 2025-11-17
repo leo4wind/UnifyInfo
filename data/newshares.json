@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-16T20:12:09.796Z"
+    "lastUpdate": "2025-11-17T00:55:29.058Z"
   },
   "data": [
+    {
+      "zqdm": "688795",
+      "zqjc": "摩尔线程",
+      "sgdm": "787795",
+      "fxsl": 70000000,
+      "swfxsl": 11200000,
+      "sgsx": 11000,
+      "dgsz": 110000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-11-24",
+      "zqgbrq": "2025-11-26",
+      "zqjkrq": "2025-11-26",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 60.18,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "GPU及相关产品的研发、设计和销售"
+    },
     {
       "zqdm": "001280",
       "zqjc": "中国铀业",
@@ -99,5 +122,5 @@
       "zyyw": "精密机械零部件的研发、生产及销售"
     }
   ],
-  "total": 4
+  "total": 5
 }
