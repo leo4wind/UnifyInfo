@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-17T08:17:46.498Z"
+    "lastUpdate": "2025-11-17T12:22:36.974Z"
   },
   "data": [
     {
-      "id": 45947810,
-      "title": "Open-source Zig book",
-      "link": "https://www.zigbook.net",
-      "score": 547,
-      "author": "rudedogg",
-      "created": "2025-11-16 19:44:27",
-      "created_at": 1763322267000
+      "id": 45845060,
+      "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
+      "link": "https://developer.chrome.com/blog/cdp-command-editor",
+      "score": 34,
+      "author": "keepamovin",
+      "created": "2025-11-07 10:11:08",
+      "created_at": 1762510268000
     },
     {
       "id": 45950720,
       "title": "Building a Simple Search Engine That Works",
       "link": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
-      "score": 58,
+      "score": 145,
       "author": "freediver",
       "created": "2025-11-17 03:52:50",
       "created_at": 1763351570000
     },
     {
-      "id": 45837259,
-      "title": "A file format uncracked for 20 years",
-      "link": "https://landaire.net/a-file-format-uncracked-for-20-years/",
-      "score": 148,
-      "author": "todsacerdoti",
-      "created": "2025-11-06 16:52:19",
-      "created_at": 1762447939000
-    },
-    {
-      "id": 45949655,
-      "title": "A new chapter begins for EV batteries with the expiry of key LFP patents",
-      "link": "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
-      "score": 118,
-      "author": "toomuchtodo",
-      "created": "2025-11-16 23:58:21",
-      "created_at": 1763337501000
+      "id": 45952428,
+      "title": "Giving C a Superpower",
+      "link": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+      "score": 7,
+      "author": "mithcs",
+      "created": "2025-11-17 10:40:55",
+      "created_at": 1763376055000
     },
     {
       "id": 45945587,
       "title": "Heretic: Automatic censorship removal for language models",
       "link": "https://github.com/p-e-w/heretic",
-      "score": 523,
+      "score": 618,
       "author": "melded",
       "created": "2025-11-16 15:00:24",
       "created_at": 1763305224000
     },
     {
-      "id": 45950396,
-      "title": "A 1961 Relay Computer Running in the Browser",
-      "link": "https://minivac.greg.technology/",
-      "score": 51,
-      "author": "vaibhavsagar",
-      "created": "2025-11-17 02:36:18",
-      "created_at": 1763346978000
-    },
-    {
-      "id": 45950408,
-      "title": "People are using iPad OS features on their iPhones",
-      "link": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
-      "score": 51,
-      "author": "K0IN",
-      "created": "2025-11-17 02:39:28",
-      "created_at": 1763347168000
+      "id": 45837259,
+      "title": "A file format uncracked for 20 years",
+      "link": "https://landaire.net/a-file-format-uncracked-for-20-years/",
+      "score": 214,
+      "author": "todsacerdoti",
+      "created": "2025-11-06 16:52:19",
+      "created_at": 1762447939000
     },
     {
       "id": 45885768,
       "title": "Listen to Database Changes Through the Postgres WAL",
       "link": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
-      "score": 63,
+      "score": 114,
       "author": "pjullrich",
       "created": "2025-11-11 10:08:30",
       "created_at": 1762855710000
     },
     {
-      "id": 45949352,
-      "title": "PicoIDE – An open IDE/ATAPI drive emulator",
-      "link": "https://picoide.com/",
-      "score": 97,
-      "author": "st_goliath",
-      "created": "2025-11-16 23:19:24",
-      "created_at": 1763335164000
+      "id": 45947810,
+      "title": "Open-source Zig book",
+      "link": "https://www.zigbook.net",
+      "score": 647,
+      "author": "rudedogg",
+      "created": "2025-11-16 19:44:27",
+      "created_at": 1763322267000
+    },
+    {
+      "id": 45950396,
+      "title": "A 1961 Relay Computer Running in the Browser",
+      "link": "https://minivac.greg.technology/",
+      "score": 81,
+      "author": "vaibhavsagar",
+      "created": "2025-11-17 02:36:18",
+      "created_at": 1763346978000
     },
     {
       "id": 45947639,
       "title": "The fate of \"small\" open source",
       "link": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "score": 201,
+      "score": 237,
       "author": "todsacerdoti",
       "created": "2025-11-16 19:21:13",
       "created_at": 1763320873000
+    },
+    {
+      "id": 45949352,
+      "title": "PicoIDE – An open IDE/ATAPI drive emulator",
+      "link": "https://picoide.com/",
+      "score": 134,
+      "author": "st_goliath",
+      "created": "2025-11-16 23:19:24",
+      "created_at": 1763335164000
     }
   ],
   "code": 200,

@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-17T08:17:46.230Z"
+    "lastUpdate": "2025-11-17T12:22:36.817Z"
   },
   "data": [
-    {
-      "id": 45936460,
-      "title": "Our investigation into the suspicious pressure on Archive.today",
-      "link": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-      "score": 1750,
-      "author": "immibis",
-      "created": "2025-11-15 10:30:52",
-      "created_at": 1763202652000
-    },
     {
       "id": 45941596,
       "title": "AirPods libreated from Apple's ecosystem",
       "link": "https://github.com/kavishdevar/librepods",
-      "score": 1283,
+      "score": 1325,
       "author": "moonleay",
       "created": "2025-11-16 00:01:25",
       "created_at": 1763251285000
@@ -28,7 +19,7 @@
       "id": 45944296,
       "title": "Anthropic’s paper smells like bullshit",
       "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "score": 973,
+      "score": 1059,
       "author": "vxvxvx",
       "created": "2025-11-16 11:32:39",
       "created_at": 1763292759000
@@ -37,7 +28,7 @@
       "id": 45947810,
       "title": "Open-source Zig book",
       "link": "https://www.zigbook.net",
-      "score": 547,
+      "score": 647,
       "author": "rudedogg",
       "created": "2025-11-16 19:44:27",
       "created_at": 1763322267000
@@ -46,7 +37,7 @@
       "id": 45945587,
       "title": "Heretic: Automatic censorship removal for language models",
       "link": "https://github.com/p-e-w/heretic",
-      "score": 523,
+      "score": 618,
       "author": "melded",
       "created": "2025-11-16 15:00:24",
       "created_at": 1763305224000
@@ -55,7 +46,7 @@
       "id": 45948058,
       "title": "I have recordings proving Coinbase knew about breach months before disclosure",
       "link": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
-      "score": 476,
+      "score": 563,
       "author": "jclarkcom",
       "created": "2025-11-16 20:18:10",
       "created_at": 1763324290000
@@ -64,7 +55,7 @@
       "id": 45939431,
       "title": "Things that aren't doing the thing",
       "link": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-      "score": 470,
+      "score": 477,
       "author": "downboots",
       "created": "2025-11-15 18:24:58",
       "created_at": 1763231098000
@@ -73,7 +64,7 @@
       "id": 45943979,
       "title": "Maybe you’re not trying",
       "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
-      "score": 386,
+      "score": 399,
       "author": "eatitraw",
       "created": "2025-11-16 10:14:25",
       "created_at": 1763288065000
@@ -82,16 +73,25 @@
       "id": 45939798,
       "title": "Nevada Governor's office covered up Boring Co safety violations",
       "link": "https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/",
-      "score": 328,
+      "score": 329,
       "author": "Chinjut",
       "created": "2025-11-15 19:10:31",
       "created_at": 1763233831000
     },
     {
+      "id": 45947770,
+      "title": "Supercookie: Browser Fingerprinting via Favicon (2021)",
+      "link": "https://github.com/jonasstrehle/supercookie",
+      "score": 315,
+      "author": "vxvrs",
+      "created": "2025-11-16 19:39:52",
+      "created_at": 1763321992000
+    },
+    {
       "id": 45941563,
       "title": "When UPS charged me a $684 tariff on $355 of vintage computer parts",
       "link": "http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html",
-      "score": 305,
+      "score": 308,
       "author": "goldenskye",
       "created": "2025-11-15 23:55:19",
       "created_at": 1763250919000
