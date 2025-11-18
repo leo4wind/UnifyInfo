@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-18T00:53:34.528Z"
+    "lastUpdate": "2025-11-18T04:15:30.664Z"
   },
   "data": [
-    {
-      "id": 45941596,
-      "title": "AirPods libreated from Apple's ecosystem",
-      "link": "https://github.com/kavishdevar/librepods",
-      "score": 1381,
-      "author": "moonleay",
-      "created": "2025-11-16 00:01:25",
-      "created_at": 1763251285000
-    },
     {
       "id": 45944296,
       "title": "Anthropic’s paper smells like bullshit",
       "link": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "score": 1130,
+      "score": 1133,
       "author": "vxvxvx",
       "created": "2025-11-16 11:32:39",
       "created_at": 1763292759000
@@ -28,7 +19,7 @@
       "id": 45945587,
       "title": "Heretic: Automatic censorship removal for language models",
       "link": "https://github.com/p-e-w/heretic",
-      "score": 720,
+      "score": 726,
       "author": "melded",
       "created": "2025-11-16 15:00:24",
       "created_at": 1763305224000
@@ -37,7 +28,7 @@
       "id": 45947810,
       "title": "Open-source Zig book",
       "link": "https://www.zigbook.net",
-      "score": 685,
+      "score": 686,
       "author": "rudedogg",
       "created": "2025-11-16 19:44:27",
       "created_at": 1763322267000
@@ -46,7 +37,7 @@
       "id": 45948058,
       "title": "I have recordings proving Coinbase knew about breach months before disclosure",
       "link": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
-      "score": 656,
+      "score": 661,
       "author": "jclarkcom",
       "created": "2025-11-16 20:18:10",
       "created_at": 1763324290000
@@ -55,10 +46,28 @@
       "id": 45943979,
       "title": "Maybe you’re not trying",
       "link": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
-      "score": 424,
+      "score": 426,
       "author": "eatitraw",
       "created": "2025-11-16 10:14:25",
       "created_at": 1763288065000
+    },
+    {
+      "id": 45945114,
+      "title": "Where do the children play?",
+      "link": "https://unpublishablepapers.substack.com/p/where-do-the-children-play",
+      "score": 365,
+      "author": "casca",
+      "created": "2025-11-16 13:45:45",
+      "created_at": 1763300745000
+    },
+    {
+      "id": 45954560,
+      "title": "Google is killing the open web, part 2",
+      "link": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+      "score": 356,
+      "author": "akagusu",
+      "created": "2025-11-17 15:41:08",
+      "created_at": 1763394068000
     },
     {
       "id": 45947770,
@@ -70,31 +79,22 @@
       "created_at": 1763321992000
     },
     {
+      "id": 45955424,
+      "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+      "link": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+      "score": 338,
+      "author": "croes",
+      "created": "2025-11-17 16:54:53",
+      "created_at": 1763398493000
+    },
+    {
       "id": 45947761,
       "title": "Dark Pattern Games",
       "link": "https://www.darkpattern.games",
-      "score": 333,
+      "score": 336,
       "author": "robotnikman",
       "created": "2025-11-16 19:38:49",
       "created_at": 1763321929000
-    },
-    {
-      "id": 45954560,
-      "title": "Google is killing the open web, part 2",
-      "link": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
-      "score": 332,
-      "author": "akagusu",
-      "created": "2025-11-17 15:41:08",
-      "created_at": 1763394068000
-    },
-    {
-      "id": 45945114,
-      "title": "Where do the children play?",
-      "link": "https://unpublishablepapers.substack.com/p/where-do-the-children-play",
-      "score": 320,
-      "author": "casca",
-      "created": "2025-11-16 13:45:45",
-      "created_at": 1763300745000
     }
   ],
   "code": 200,

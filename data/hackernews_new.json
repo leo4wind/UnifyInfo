@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-18T00:53:34.810Z"
+    "lastUpdate": "2025-11-18T04:15:30.831Z"
   },
   "data": [
+    {
+      "id": 45960893,
+      "title": "Core Devices keeps stealing our work",
+      "link": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
+      "score": 123,
+      "author": "jdauriemma",
+      "created": "2025-11-18 02:53:28",
+      "created_at": 1763434408000
+    },
     {
       "id": 45957629,
       "title": "Compiling Ruby to machine language",
       "link": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
-      "score": 166,
+      "score": 214,
       "author": "todsacerdoti",
       "created": "2025-11-17 20:04:49",
       "created_at": 1763409889000
@@ -19,82 +28,73 @@
       "id": 45900425,
       "title": "Show HN: I built a synth for my daughter",
       "link": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "score": 915,
+      "score": 1006,
       "author": "random_moonwalk",
       "created": "2025-11-12 14:12:13",
       "created_at": 1762956733000
     },
     {
+      "id": 45916094,
+      "title": "The marriage proposal that's hidden in two 1990s PlayStation games",
+      "link": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
+      "score": 47,
+      "author": "bbayles",
+      "created": "2025-11-13 15:33:51",
+      "created_at": 1763048031000
+    },
+    {
       "id": 45955900,
       "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "score": 197,
+      "score": 268,
       "author": "speckx",
       "created": "2025-11-17 17:39:15",
       "created_at": 1763401155000
     },
     {
-      "id": 45901379,
-      "title": "“One Student One Chip” Course Homepage",
-      "link": "https://ysyx.oscc.cc/docs/en/",
-      "score": 105,
-      "author": "camel-cdr",
-      "created": "2025-11-12 15:28:54",
-      "created_at": 1762961334000
+      "id": 45937302,
+      "title": "My stages of learning to be a socially normal person",
+      "link": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
+      "score": 344,
+      "author": "eatitraw",
+      "created": "2025-11-15 13:24:54",
+      "created_at": 1763213094000
     },
     {
-      "id": 45958717,
-      "title": "Run ancient Unix on modern hardware",
-      "link": "https://github.com/felipenlunkes/run-ancient-unix",
-      "score": 33,
-      "author": "doener",
-      "created": "2025-11-17 21:46:06",
-      "created_at": 1763415966000
+      "id": 45959780,
+      "title": "Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files",
+      "link": "https://github.com/kaushiksrini/parqeye",
+      "score": 45,
+      "author": "kaushiksrini",
+      "created": "2025-11-17 23:45:42",
+      "created_at": 1763423142000
     },
     {
       "id": 45954640,
       "title": "Project Gemini",
       "link": "https://geminiprotocol.net/",
-      "score": 206,
+      "score": 241,
       "author": "andsoitis",
       "created": "2025-11-17 15:50:04",
       "created_at": 1763394604000
     },
     {
-      "id": 45958815,
-      "title": "Ion: Modern System Shell in Rust",
-      "link": "https://github.com/redox-os/ion",
-      "score": 23,
-      "author": "nateb2022",
-      "created": "2025-11-17 21:56:58",
-      "created_at": 1763416618000
+      "id": 45958717,
+      "title": "Run ancient UNIX on modern hardware",
+      "link": "https://github.com/felipenlunkes/run-ancient-unix",
+      "score": 58,
+      "author": "doener",
+      "created": "2025-11-17 21:46:06",
+      "created_at": 1763415966000
     },
     {
-      "id": 45938517,
-      "title": "Show HN: Continuous Claude – run Claude Code in a loop",
-      "link": "https://github.com/AnandChowdhary/continuous-claude",
-      "score": 83,
-      "author": "anandchowdhary",
-      "created": "2025-11-15 16:27:49",
-      "created_at": 1763224069000
-    },
-    {
-      "id": 45953452,
-      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
-      "link": "https://github.com/medusalix/FreeMDU",
-      "score": 235,
-      "author": "Medusalix",
-      "created": "2025-11-17 13:40:40",
-      "created_at": 1763386840000
-    },
-    {
-      "id": 45953977,
-      "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
-      "link": "https://github.com/francescopace/espectre",
-      "score": 114,
-      "author": "francescopace",
-      "created": "2025-11-17 14:40:54",
-      "created_at": 1763390454000
+      "id": 45901379,
+      "title": "“One Student One Chip” Course Homepage",
+      "link": "https://ysyx.oscc.cc/docs/en/",
+      "score": 141,
+      "author": "camel-cdr",
+      "created": "2025-11-12 15:28:54",
+      "created_at": 1762961334000
     }
   ],
   "code": 200,
