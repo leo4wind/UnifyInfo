@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-18T12:23:11.000Z"
+    "lastUpdate": "2025-11-18T16:15:14.968Z"
   },
   "data": [
     {
-      "id": 45963949,
+      "id": 45963780,
       "title": "Cloudflare Global Network experiencing issues",
-      "link": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
-      "score": 227,
-      "author": "meetpateltech",
-      "created": "2025-11-18 11:48:56",
-      "created_at": 1763466536000
+      "link": "https://www.cloudflarestatus.com/?t=1",
+      "score": 1872,
+      "author": "imdsm",
+      "created": "2025-11-18 11:35:10",
+      "created_at": 1763465710000
+    },
+    {
+      "id": 45967211,
+      "title": "Gemini 3 Pro Preview Live in AI Studio",
+      "link": "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview",
+      "score": 191,
+      "author": "preek",
+      "created": "2025-11-18 15:09:38",
+      "created_at": 1763478578000
+    },
+    {
+      "id": 45968043,
+      "title": "Gemini 3 for developers: New reasoning, agentic capabilities",
+      "link": "https://blog.google/technology/developers/gemini-3-developers/",
+      "score": 29,
+      "author": "janpio",
+      "created": "2025-11-18 16:04:12",
+      "created_at": 1763481852000
+    },
+    {
+      "id": 45966251,
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "link": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+      "score": 296,
+      "author": "YeGoblynQueenne",
+      "created": "2025-11-18 14:11:17",
+      "created_at": 1763475077000
+    },
+    {
+      "id": 45966435,
+      "title": "Short Little Difficult Books",
+      "link": "https://countercraft.substack.com/p/short-little-difficult-books",
+      "score": 54,
+      "author": "crescit_eundo",
+      "created": "2025-11-18 14:23:18",
+      "created_at": 1763475798000
     },
     {
       "id": 45962654,
       "title": "How Quake.exe got its TCP/IP stack",
       "link": "https://fabiensanglard.net/quake_chunnel/index.html",
-      "score": 174,
+      "score": 317,
       "author": "billiob",
       "created": "2025-11-18 08:18:35",
       "created_at": 1763453915000
     },
     {
-      "id": 45963836,
-      "title": "Gemini 3 Pro Model Card",
-      "link": "https://pixeldrain.com/u/hwgaNKeH",
-      "score": 28,
-      "author": "Topfi",
-      "created": "2025-11-18 11:40:01",
-      "created_at": 1763466001000
+      "id": 45967999,
+      "title": "Gemini 3",
+      "link": "https://blog.google/products/gemini/gemini-3/",
+      "score": 45,
+      "author": "meetpateltech",
+      "created": "2025-11-18 16:00:33",
+      "created_at": 1763481633000
     },
     {
-      "id": 45895427,
-      "title": "The Uselessness of \"Fast\" and \"Slow\" in Programming",
-      "link": "https://jerf.org/iri/post/2025/the_uselessness_of_fast/",
-      "score": 25,
-      "author": "zdw",
-      "created": "2025-11-12 01:41:07",
-      "created_at": 1762911667000
+      "id": 45965060,
+      "title": "Do Not Put Your Site Behind Cloudflare If You Don't Need To",
+      "link": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont",
+      "score": 232,
+      "author": "huijzer",
+      "created": "2025-11-18 12:54:49",
+      "created_at": 1763470489000
     },
     {
-      "id": 45963583,
-      "title": "The Miracle of Wörgl",
-      "link": "https://scf.green/story-of-worgl-and-others/",
-      "score": 12,
-      "author": "simonebrunozzi",
-      "created": "2025-11-18 10:59:54",
-      "created_at": 1763463594000
-    },
-    {
-      "id": 45916094,
-      "title": "How many video games include a marriage proposal? At least one",
-      "link": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-      "score": 243,
-      "author": "bbayles",
-      "created": "2025-11-13 15:33:51",
-      "created_at": 1763048031000
-    },
-    {
-      "id": 45900425,
-      "title": "Show HN: I built a synth for my daughter",
-      "link": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "score": 1164,
-      "author": "random_moonwalk",
-      "created": "2025-11-12 14:12:13",
-      "created_at": 1762956733000
-    },
-    {
-      "id": 45900273,
-      "title": "Ruby Symbols",
-      "link": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
-      "score": 24,
-      "author": "stonecharioteer",
-      "created": "2025-11-12 14:00:52",
-      "created_at": 1762956052000
-    },
-    {
-      "id": 45960852,
-      "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
-      "link": "https://github.com/rust9x/rust",
-      "score": 97,
-      "author": "kristianp",
-      "created": "2025-11-18 02:46:50",
-      "created_at": 1763434010000
-    },
-    {
-      "id": 45955900,
-      "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "score": 372,
+      "id": 45968059,
+      "title": "How long can it take to become a US citizen?",
+      "link": "https://usafacts.org/articles/how-long-can-it-take-to-become-a-us-citizen/",
+      "score": 5,
       "author": "speckx",
-      "created": "2025-11-17 17:39:15",
-      "created_at": 1763401155000
+      "created": "2025-11-18 16:06:03",
+      "created_at": 1763481963000
+    },
+    {
+      "id": 45967814,
+      "title": "Google Antigravity",
+      "link": "https://antigravity.google/",
+      "score": 16,
+      "author": "Fysi",
+      "created": "2025-11-18 15:47:38",
+      "created_at": 1763480858000
     }
   ],
   "code": 200,
