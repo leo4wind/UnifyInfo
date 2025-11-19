@@ -3,77 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-19T00:53:54.108Z"
+    "lastUpdate": "2025-11-19T04:14:58.423Z"
   },
   "data": [
     {
       "id": 45973709,
       "title": "Cloudflare outage on November 18, 2025 post mortem",
       "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "score": 224,
+      "score": 542,
       "author": "eastdakota",
       "created": "2025-11-18 23:31:22",
       "created_at": 1763508682000
     },
     {
-      "id": 45973573,
-      "title": "Rebecca Heineman – from homelessness to porting Doom",
-      "link": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
-      "score": 46,
-      "author": "birdculture",
-      "created": "2025-11-18 23:13:35",
-      "created_at": 1763507615000
-    },
-    {
       "id": 45967211,
       "title": "Gemini 3",
       "link": "https://blog.google/products/gemini/gemini-3/",
-      "score": 1119,
+      "score": 1229,
       "author": "preek",
       "created": "2025-11-18 15:09:38",
       "created_at": 1763478578000
     },
     {
-      "id": 45972519,
-      "title": "Blender 5.0",
-      "link": "https://www.blender.org/download/releases/5-0/",
-      "score": 377,
-      "author": "FrostKiwi",
-      "created": "2025-11-18 21:39:18",
-      "created_at": 1763501958000
-    },
-    {
       "id": 45967814,
       "title": "Google Antigravity",
       "link": "https://antigravity.google/",
-      "score": 662,
+      "score": 746,
       "author": "Fysi",
       "created": "2025-11-18 15:47:38",
       "created_at": 1763480858000
     },
     {
+      "id": 45967079,
+      "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
+      "link": "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670",
+      "score": 38,
+      "author": "jgchaos",
+      "created": "2025-11-18 15:00:36",
+      "created_at": 1763478036000
+    },
+    {
       "id": 45969250,
       "title": "Pebble, Rebble, and a path forward",
       "link": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
-      "score": 304,
+      "score": 348,
       "author": "phoronixrly",
       "created": "2025-11-18 17:24:27",
       "created_at": 1763486667000
     },
     {
-      "id": 45973955,
-      "title": "Lucent 7 R/E 5ESS Telephone Switch Rescue",
-      "link": "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/",
-      "score": 14,
-      "author": "gjvc",
-      "created": "2025-11-18 23:59:14",
-      "created_at": 1763510354000
+      "id": 45972519,
+      "title": "Blender 5.0",
+      "link": "https://www.blender.org/download/releases/5-0/",
+      "score": 548,
+      "author": "FrostKiwi",
+      "created": "2025-11-18 21:39:18",
+      "created_at": 1763501958000
     },
     {
       "id": 45968121,
       "title": "The code and open-source tools I used to produce a science fiction anthology",
       "link": "https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
-      "score": 67,
+      "score": 102,
       "author": "mojoe",
       "created": "2025-11-18 16:10:34",
       "created_at": 1763482234000
@@ -82,19 +73,28 @@
       "id": 45963670,
       "title": "Gemini 3 Pro Model Card [pdf]",
       "link": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf",
-      "score": 148,
+      "score": 190,
       "author": "virgildotcodes",
       "created": "2025-11-18 11:12:20",
       "created_at": 1763464340000
     },
     {
-      "id": 45971726,
-      "title": "GitHub: Git operation failures",
-      "link": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
-      "score": 313,
-      "author": "wilhelmklopp",
-      "created": "2025-11-18 20:40:46",
-      "created_at": 1763498446000
+      "id": 45911897,
+      "title": "Fizz Buzz without conditionals or booleans",
+      "link": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/",
+      "score": 24,
+      "author": "ingve",
+      "created": "2025-11-13 07:37:50",
+      "created_at": 1763019470000
+    },
+    {
+      "id": 45931273,
+      "title": "Better pre-commit, re-engineered in Rust",
+      "link": "https://prek.j178.dev/",
+      "score": 20,
+      "author": "nikolay",
+      "created": "2025-11-14 19:46:24",
+      "created_at": 1763149584000
     }
   ],
   "code": 200,
