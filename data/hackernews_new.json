@@ -3,32 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-19T04:14:58.423Z"
+    "lastUpdate": "2025-11-19T08:16:09.767Z"
   },
   "data": [
     {
       "id": 45973709,
       "title": "Cloudflare outage on November 18, 2025 post mortem",
       "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "score": 542,
+      "score": 883,
       "author": "eastdakota",
       "created": "2025-11-18 23:31:22",
       "created_at": 1763508682000
     },
     {
+      "id": 45976670,
+      "title": "A down detector for down detector's down detector",
+      "link": "https://downdetectorsdowndetectorsdowndetector.com/",
+      "score": 35,
+      "author": "SeanAnderson",
+      "created": "2025-11-19 07:09:52",
+      "created_at": 1763536192000
+    },
+    {
       "id": 45967211,
       "title": "Gemini 3",
       "link": "https://blog.google/products/gemini/gemini-3/",
-      "score": 1229,
+      "score": 1377,
       "author": "preek",
       "created": "2025-11-18 15:09:38",
       "created_at": 1763478578000
     },
     {
+      "id": 45976832,
+      "title": "Exploring the Limits of Large Language Models as Quant Traders",
+      "link": "https://nof1.ai/blog/TechPost1",
+      "score": 9,
+      "author": "rzk",
+      "created": "2025-11-19 07:36:25",
+      "created_at": 1763537785000
+    },
+    {
       "id": 45967814,
       "title": "Google Antigravity",
       "link": "https://antigravity.google/",
-      "score": 746,
+      "score": 854,
       "author": "Fysi",
       "created": "2025-11-18 15:47:38",
       "created_at": 1763480858000
@@ -37,16 +55,25 @@
       "id": 45967079,
       "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
       "link": "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670",
-      "score": 38,
+      "score": 100,
       "author": "jgchaos",
       "created": "2025-11-18 15:00:36",
       "created_at": 1763478036000
     },
     {
+      "id": 45933932,
+      "title": "I wrote a Pong game in a 512-byte boot sector",
+      "link": "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/",
+      "score": 24,
+      "author": "akshat666",
+      "created": "2025-11-15 00:36:51",
+      "created_at": 1763167011000
+    },
+    {
       "id": 45969250,
       "title": "Pebble, Rebble, and a path forward",
       "link": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
-      "score": 348,
+      "score": 385,
       "author": "phoronixrly",
       "created": "2025-11-18 17:24:27",
       "created_at": 1763486667000
@@ -55,46 +82,19 @@
       "id": 45972519,
       "title": "Blender 5.0",
       "link": "https://www.blender.org/download/releases/5-0/",
-      "score": 548,
+      "score": 708,
       "author": "FrostKiwi",
       "created": "2025-11-18 21:39:18",
       "created_at": 1763501958000
     },
     {
-      "id": 45968121,
-      "title": "The code and open-source tools I used to produce a science fiction anthology",
-      "link": "https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
-      "score": 102,
-      "author": "mojoe",
-      "created": "2025-11-18 16:10:34",
-      "created_at": 1763482234000
-    },
-    {
-      "id": 45963670,
-      "title": "Gemini 3 Pro Model Card [pdf]",
-      "link": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf",
-      "score": 190,
-      "author": "virgildotcodes",
-      "created": "2025-11-18 11:12:20",
-      "created_at": 1763464340000
-    },
-    {
-      "id": 45911897,
-      "title": "Fizz Buzz without conditionals or booleans",
-      "link": "https://evanhahn.com/fizz-buzz-without-conditionals-or-booleans/",
-      "score": 24,
-      "author": "ingve",
-      "created": "2025-11-13 07:37:50",
-      "created_at": 1763019470000
-    },
-    {
-      "id": 45931273,
-      "title": "Better pre-commit, re-engineered in Rust",
-      "link": "https://prek.j178.dev/",
-      "score": 20,
-      "author": "nikolay",
-      "created": "2025-11-14 19:46:24",
-      "created_at": 1763149584000
+      "id": 45899074,
+      "title": "Mojo-V: Secret Computation for RISC-V",
+      "link": "https://github.com/toddmaustin/mojo-v",
+      "score": 17,
+      "author": "fork-bomber",
+      "created": "2025-11-12 11:57:23",
+      "created_at": 1762948643000
     }
   ],
   "code": 200,
