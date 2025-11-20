@@ -3,23 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-20T04:14:32.740Z"
+    "lastUpdate": "2025-11-20T08:16:39.561Z"
   },
   "data": [
     {
-      "id": 45987179,
-      "title": "Verifying your Matrix devices is becoming mandatory",
-      "link": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
-      "score": 88,
-      "author": "LorenDB",
-      "created": "2025-11-20 00:22:03",
-      "created_at": 1763598123000
+      "id": 45989329,
+      "title": "Basalt Woven Textile",
+      "link": "https://materialdistrict.com/material/basalt-woven-textile/",
+      "score": 50,
+      "author": "rbanffy",
+      "created": "2025-11-20 05:41:06",
+      "created_at": 1763617266000
+    },
+    {
+      "id": 45989650,
+      "title": "Implementation of a Java Processor on a FPGA",
+      "link": "https://mavmatrix.uta.edu/electricaleng_theses/337/",
+      "score": 19,
+      "author": "mghackerlady",
+      "created": "2025-11-20 06:40:46",
+      "created_at": 1763620846000
+    },
+    {
+      "id": 45984133,
+      "title": "The lost cause of the Lisp machines",
+      "link": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
+      "score": 51,
+      "author": "enbywithunix",
+      "created": "2025-11-19 19:44:07",
+      "created_at": 1763581447000
+    },
+    {
+      "id": 45951275,
+      "title": "Android/Linux Dual Boot",
+      "link": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
+      "score": 32,
+      "author": "joooscha",
+      "created": "2025-11-17 06:28:16",
+      "created_at": 1763360896000
     },
     {
       "id": 45984659,
       "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
       "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
-      "score": 268,
+      "score": 326,
       "author": "DamnInteresting",
       "created": "2025-11-19 20:26:43",
       "created_at": 1763584003000
@@ -28,73 +55,46 @@
       "id": 45980117,
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "link": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-      "score": 570,
+      "score": 678,
       "author": "ksec",
       "created": "2025-11-19 14:41:30",
       "created_at": 1763563290000
     },
     {
-      "id": 45985036,
-      "title": "Researchers discover security vulnerability in WhatsApp",
-      "link": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
-      "score": 161,
-      "author": "KingNoLimit",
-      "created": "2025-11-19 20:55:30",
-      "created_at": 1763585730000
+      "id": 45947437,
+      "title": "CUDA Ontology",
+      "link": "https://jamesakl.com/posts/cuda-ontology/",
+      "score": 14,
+      "author": "gugagore",
+      "created": "2025-11-16 18:56:56",
+      "created_at": 1763319416000
+    },
+    {
+      "id": 45989394,
+      "title": "Show HN: An A2A-compatible, open-source framework for multi-agent networks",
+      "link": "https://github.com/openagents-org/openagents",
+      "score": 38,
+      "author": "snasan",
+      "created": "2025-11-20 05:52:43",
+      "created_at": 1763617963000
     },
     {
       "id": 45982073,
       "title": "Meta Segment Anything Model 3",
       "link": "https://ai.meta.com/sam3/",
-      "score": 321,
+      "score": 436,
       "author": "lukeinator42",
       "created": "2025-11-19 17:14:51",
       "created_at": 1763572491000
     },
     {
-      "id": 45982649,
-      "title": "Building more with GPT-5.1-Codex-Max",
-      "link": "https://openai.com/index/gpt-5-1-codex-max/",
-      "score": 354,
-      "author": "hansonw",
-      "created": "2025-11-19 18:01:59",
-      "created_at": 1763575319000
-    },
-    {
-      "id": 45958596,
-      "title": "What Influence Has the BBC Had on History?",
-      "link": "https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history",
-      "score": 7,
-      "author": "pepys",
-      "created": "2025-11-17 21:35:04",
-      "created_at": 1763415304000
-    },
-    {
-      "id": 45888759,
-      "title": "What really happened with the CIA and The Paris Review?",
-      "link": "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/",
-      "score": 25,
-      "author": "frenzcan",
-      "created": "2025-11-11 15:54:42",
-      "created_at": 1762876482000
-    },
-    {
-      "id": 45985867,
-      "title": "Precise geolocation via Wi-Fi Positioning System",
-      "link": "https://www.amoses.dev/blog/wifi-location/",
-      "score": 123,
-      "author": "nicosalm",
-      "created": "2025-11-19 21:58:47",
-      "created_at": 1763589527000
-    },
-    {
-      "id": 45984282,
-      "title": "Robert Louis Stevenson's Art of Living (and Dying)",
-      "link": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/",
-      "score": 10,
-      "author": "Caiero",
-      "created": "2025-11-19 19:55:49",
-      "created_at": 1763582149000
+      "id": 45985036,
+      "title": "Researchers discover security vulnerability in WhatsApp",
+      "link": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
+      "score": 212,
+      "author": "KingNoLimit",
+      "created": "2025-11-19 20:55:30",
+      "created_at": 1763585730000
     }
   ],
   "code": 200,
