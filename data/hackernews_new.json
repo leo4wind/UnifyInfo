@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-21T08:16:51.937Z"
+    "lastUpdate": "2025-11-21T12:21:28.402Z"
   },
   "data": [
+    {
+      "id": 46003144,
+      "title": "FAWK: LLMs can write a language interpreter",
+      "link": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
+      "score": 50,
+      "author": "todsacerdoti",
+      "created": "2025-11-21 10:28:49",
+      "created_at": 1763720929000
+    },
     {
       "id": 46001889,
       "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
       "link": "https://allenai.org/blog/olmo3",
-      "score": 49,
+      "score": 159,
       "author": "mseri",
       "created": "2025-11-21 06:50:14",
       "created_at": 1763707814000
     },
     {
-      "id": 45993296,
-      "title": "Nano Banana Pro",
-      "link": "https://blog.google/technology/ai/nano-banana-pro/",
-      "score": 1019,
-      "author": "meetpateltech",
-      "created": "2025-11-20 15:04:23",
-      "created_at": 1763651063000
-    },
-    {
-      "id": 45937183,
-      "title": "WebAssembly from the Ground Up",
-      "link": "https://wasmgroundup.com/",
-      "score": 70,
-      "author": "gurjeet",
-      "created": "2025-11-15 13:06:38",
-      "created_at": 1763211998000
-    },
-    {
-      "id": 45994854,
-      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-      "link": "https://blog.google/products/android/quick-share-airdrop/",
-      "score": 632,
-      "author": "abraham",
-      "created": "2025-11-20 17:04:34",
-      "created_at": 1763658274000
-    },
-    {
-      "id": 46001823,
-      "title": "Streaming platform Twitch added to Australia's teen social media ban",
-      "link": "https://www.bbc.com/news/articles/cx2n2955g10o",
-      "score": 13,
-      "author": "Erikun",
-      "created": "2025-11-21 06:37:07",
-      "created_at": 1763707027000
-    },
-    {
-      "id": 45905850,
-      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
-      "link": "https://fex-emu.com/",
-      "score": 165,
-      "author": "open-paren",
-      "created": "2025-11-12 20:15:51",
-      "created_at": 1762978551000
-    },
-    {
       "id": 46002161,
       "title": "It's Hard to Build an Oscillator",
       "link": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
-      "score": 6,
+      "score": 67,
       "author": "chmaynard",
       "created": "2025-11-21 07:45:53",
       "created_at": 1763711153000
     },
     {
-      "id": 45954228,
-      "title": "Show HN: 32V TENS device from built from scratch under $100",
-      "link": "https://littlemountainman.github.io/2025/11/17/tens/",
-      "score": 4,
-      "author": "autonomydriver",
-      "created": "2025-11-17 15:06:32",
-      "created_at": 1763391992000
+      "id": 45898185,
+      "title": "I converted a rotary phone into a meeting handset",
+      "link": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
+      "score": 31,
+      "author": "todsacerdoti",
+      "created": "2025-11-12 09:37:41",
+      "created_at": 1762940261000
     },
     {
-      "id": 45999038,
-      "title": "Over-regulation is doubling the cost",
-      "link": "https://rein.pk/over-regulation-is-doubling-the-cost",
-      "score": 165,
-      "author": "bilsbie",
-      "created": "2025-11-20 22:58:06",
-      "created_at": 1763679486000
+      "id": 45993296,
+      "title": "Nano Banana Pro",
+      "link": "https://blog.google/technology/ai/nano-banana-pro/",
+      "score": 1087,
+      "author": "meetpateltech",
+      "created": "2025-11-20 15:04:23",
+      "created_at": 1763651063000
     },
     {
-      "id": 45997212,
-      "title": "New OS aims to provide (some) compatibility with macOS",
-      "link": "https://github.com/ravynsoft/ravynos",
-      "score": 209,
-      "author": "kasajian",
-      "created": "2025-11-20 20:24:42",
-      "created_at": 1763670282000
+      "id": 45994854,
+      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
+      "link": "https://blog.google/products/android/quick-share-airdrop/",
+      "score": 701,
+      "author": "abraham",
+      "created": "2025-11-20 17:04:34",
+      "created_at": 1763658274000
+    },
+    {
+      "id": 45905850,
+      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
+      "link": "https://fex-emu.com/",
+      "score": 213,
+      "author": "open-paren",
+      "created": "2025-11-12 20:15:51",
+      "created_at": 1762978551000
+    },
+    {
+      "id": 45937183,
+      "title": "WebAssembly from the Ground Up",
+      "link": "https://wasmgroundup.com/",
+      "score": 138,
+      "author": "gurjeet",
+      "created": "2025-11-15 13:06:38",
+      "created_at": 1763211998000
+    },
+    {
+      "id": 45937350,
+      "title": "Scientists now know that bees can process time, a first in insects",
+      "link": "https://www.cnn.com/2025/11/12/science/bees-visual-stimulus-study-scli-intl",
+      "score": 25,
+      "author": "Brajeshwar",
+      "created": "2025-11-15 13:32:12",
+      "created_at": 1763213532000
     }
   ],
   "code": 200,
