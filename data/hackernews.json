@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-21T16:14:11.406Z"
+    "lastUpdate": "2025-11-21T20:12:35.581Z"
   },
   "data": [
     {
       "id": 45993296,
       "title": "Nano Banana Pro",
       "link": "https://blog.google/technology/ai/nano-banana-pro/",
-      "score": 1154,
+      "score": 1219,
       "author": "meetpateltech",
       "created": "2025-11-20 15:04:23",
       "created_at": 1763651063000
@@ -19,7 +19,7 @@
       "id": 45994854,
       "title": "Android and iPhone users can now share files, starting with the Pixel 10",
       "link": "https://blog.google/products/android/quick-share-airdrop/",
-      "score": 773,
+      "score": 819,
       "author": "abraham",
       "created": "2025-11-20 17:04:34",
       "created_at": 1763658274000
@@ -28,25 +28,16 @@
       "id": 45996860,
       "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
       "link": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
-      "score": 767,
+      "score": 787,
       "author": "jjwiseman",
       "created": "2025-11-20 19:52:55",
       "created_at": 1763668375000
     },
     {
-      "id": 45982073,
-      "title": "Meta Segment Anything Model 3",
-      "link": "https://ai.meta.com/sam3/",
-      "score": 667,
-      "author": "lukeinator42",
-      "created": "2025-11-19 17:14:51",
-      "created_at": 1763572491000
-    },
-    {
       "id": 45995740,
       "title": "Microsoft makes Zork open-source",
       "link": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "score": 599,
+      "score": 610,
       "author": "tabletcorry",
       "created": "2025-11-20 18:13:39",
       "created_at": 1763662419000
@@ -55,7 +46,7 @@
       "id": 45985890,
       "title": "The patent office is about to make bad patents untouchable",
       "link": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable",
-      "score": 592,
+      "score": 598,
       "author": "iamnothere",
       "created": "2025-11-19 22:00:28",
       "created_at": 1763589628000
@@ -64,37 +55,46 @@
       "id": 45985506,
       "title": "Gaming on Linux has never been more approachable",
       "link": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos",
-      "score": 539,
+      "score": 543,
       "author": "throwaway270925",
       "created": "2025-11-19 21:30:02",
       "created_at": 1763587802000
     },
     {
-      "id": 45983700,
-      "title": "AI is a front for consolidation of resources and power",
-      "link": "https://www.chrbutler.com/what-ai-is-really-for",
-      "score": 523,
-      "author": "delaugust",
-      "created": "2025-11-19 19:09:27",
-      "created_at": 1763579367000
-    },
-    {
-      "id": 45982649,
-      "title": "Building more with GPT-5.1-Codex-Max",
-      "link": "https://openai.com/index/gpt-5-1-codex-max/",
-      "score": 478,
-      "author": "hansonw",
-      "created": "2025-11-19 18:01:59",
-      "created_at": 1763575319000
-    },
-    {
       "id": 45991853,
       "title": "Red Alert 2 in web browser",
       "link": "https://chronodivide.com/",
-      "score": 462,
+      "score": 466,
       "author": "nsoonhui",
       "created": "2025-11-20 12:21:15",
       "created_at": 1763641275000
+    },
+    {
+      "id": 45984143,
+      "title": "The Death of Arduino?",
+      "link": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
+      "score": 448,
+      "author": "ChuckMcM",
+      "created": "2025-11-19 19:44:46",
+      "created_at": 1763581486000
+    },
+    {
+      "id": 45984659,
+      "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
+      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
+      "score": 426,
+      "author": "DamnInteresting",
+      "created": "2025-11-19 20:26:43",
+      "created_at": 1763584003000
+    },
+    {
+      "id": 45991787,
+      "title": "'Calvin and Hobbes' at 40",
+      "link": "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem",
+      "score": 367,
+      "author": "mooreds",
+      "created": "2025-11-20 12:08:56",
+      "created_at": 1763640536000
     }
   ],
   "code": 200,
