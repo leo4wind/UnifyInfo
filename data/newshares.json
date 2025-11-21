@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-20T20:13:36.724Z"
+    "lastUpdate": "2025-11-21T00:53:27.083Z"
   },
   "data": [
+    {
+      "zqdm": "688796",
+      "zqjc": "百奥赛图",
+      "sgdm": "787796",
+      "fxsl": 47500000,
+      "swfxsl": 7600000,
+      "sgsx": 7500,
+      "dgsz": 75000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-11-28",
+      "zqgbrq": "2025-12-02",
+      "zqjkrq": "2025-12-02",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 39.8,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司基于自主开发的基因编辑技术提供各类创新模式动物以及临床前阶段的医药研发服务,并利用其自主开发的RenMice全人抗体小鼠平台(包括RenMab、RenLite以及RenNano三个系列)针对人体内千余个潜在药物靶点进行规模化药物发现与开发(以下简称“千鼠万抗”),并将有潜力的抗体分子对外转让、授权或合作开发"
+    },
     {
       "zqdm": "688795",
       "zqjc": "摩尔线程",
@@ -74,29 +97,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "冷链设备智能控制器、医药与食品冷链监测记录仪、制冷热泵检测仪表及环境颗粒物检测仪器等产品的研发、生产和销售,并提供物联网和基于云的系统解决方案。"
-    },
-    {
-      "zqdm": "001233",
-      "zqjc": "海安集团",
-      "sgdm": "001233",
-      "fxsl": 46493334,
-      "swfxsl": 29963000,
-      "sgsx": 14500,
-      "dgsz": 145000,
-      "fxjg": 48,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-14",
-      "zqgbrq": "2025-11-18",
-      "zqjkrq": "2025-11-18",
-      "ssrq": null,
-      "syl": 13.94,
-      "hysyl": 26.38,
-      "wszql": 0.0211693437,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "巨型全钢工程机械子午线轮胎的研发、生产与销售,以及矿用轮胎运营管理业务"
     }
   ],
   "total": 4
