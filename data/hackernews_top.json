@@ -3,41 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-22T12:18:57.838Z"
+    "lastUpdate": "2025-11-22T16:12:44.708Z"
   },
   "data": [
     {
-      "id": 46013816,
-      "title": "My private information is worth $30",
-      "link": "https://blog.melashri.net/micro/privacy-price/",
-      "score": 33,
-      "author": "elashri",
-      "created": "2025-11-22 11:04:15",
-      "created_at": 1763809455000
-    },
-    {
-      "id": 46012328,
-      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
-      "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
-      "score": 243,
-      "author": "1659447091",
-      "created": "2025-11-22 05:21:53",
-      "created_at": 1763788913000
+      "id": 46013935,
+      "title": "Agent design is still hard",
+      "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+      "score": 146,
+      "author": "the_mitsuhiko",
+      "created": "2025-11-22 11:27:24",
+      "created_at": 1763810844000
     },
     {
       "id": 46009894,
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 356,
+      "score": 467,
       "author": "gnabgib",
       "created": "2025-11-21 22:40:28",
       "created_at": 1763764828000
     },
     {
       "id": 45938005,
-      "title": "Kodak Ran a Secret Nuclear Device in Its Basement for Decades",
+      "title": "Kodak ran a nuclear device in its basement for decades",
       "link": "https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/",
-      "score": 83,
+      "score": 156,
       "author": "cainxinth",
       "created": "2025-11-15 15:21:52",
       "created_at": 1763220112000
@@ -46,16 +37,25 @@
       "id": 46006616,
       "title": "Helping Valve to power up Steam devices",
       "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 633,
+      "score": 701,
       "author": "TingPing",
       "created": "2025-11-21 17:29:59",
       "created_at": 1763746199000
     },
     {
+      "id": 45936776,
+      "title": "The twin probes just launched toward Mars have an Easter egg on board",
+      "link": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
+      "score": 26,
+      "author": "pseudolus",
+      "created": "2025-11-15 11:49:24",
+      "created_at": 1763207364000
+    },
+    {
       "id": 45934619,
       "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
       "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
-      "score": 293,
+      "score": 350,
       "author": "redohmy",
       "created": "2025-11-15 02:45:44",
       "created_at": 1763174744000
@@ -64,37 +64,37 @@
       "id": 45969398,
       "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
       "link": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
-      "score": 55,
+      "score": 84,
       "author": "paulatreides",
       "created": "2025-11-18 17:35:31",
       "created_at": 1763487331000
     },
     {
+      "id": 46012328,
+      "title": "Original Superman comic becomes the highest-priced comic book ever sold",
+      "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "score": 285,
+      "author": "1659447091",
+      "created": "2025-11-22 05:21:53",
+      "created_at": 1763788913000
+    },
+    {
       "id": 46006016,
       "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
       "link": "https://wealthfolio.app/?v=2.0",
-      "score": 540,
+      "score": 584,
       "author": "a-fadil",
       "created": "2025-11-21 16:34:52",
       "created_at": 1763742892000
     },
     {
-      "id": 45892123,
-      "title": "Single-Celled Marine Organisms Resulted in an Influential Illustrated Book",
-      "link": "https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/",
-      "score": 19,
-      "author": "PaulHoule",
-      "created": "2025-11-11 20:06:18",
-      "created_at": 1762891578000
-    },
-    {
-      "id": 46011978,
-      "title": "Moss Survives 9 Months in Space Vacuum",
-      "link": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
-      "score": 85,
-      "author": "ashishgupta2209",
-      "created": "2025-11-22 03:57:29",
-      "created_at": 1763783849000
+      "id": 45926371,
+      "title": "Weight-sparse transformers have interpretable circuits [pdf]",
+      "link": "https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf",
+      "score": 41,
+      "author": "0x79de",
+      "created": "2025-11-14 13:08:27",
+      "created_at": 1763125707000
     }
   ],
   "code": 200,
