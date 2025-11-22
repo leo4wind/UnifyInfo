@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-22T04:13:00.160Z"
+    "lastUpdate": "2025-11-22T08:14:14.111Z"
   },
   "data": [
+    {
+      "id": 46012328,
+      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "score": 146,
+      "author": "1659447091",
+      "created": "2025-11-22 05:21:53",
+      "created_at": 1763788913000
+    },
     {
       "id": 46009894,
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 151,
+      "score": 261,
       "author": "gnabgib",
       "created": "2025-11-21 22:40:28",
       "created_at": 1763764828000
     },
     {
-      "id": 46009056,
-      "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
-      "link": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+      "id": 45969398,
+      "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
+      "link": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
+      "score": 25,
+      "author": "paulatreides",
+      "created": "2025-11-18 17:35:31",
+      "created_at": 1763487331000
+    },
+    {
+      "id": 45938005,
+      "title": "Kodak Ran a Secret Nuclear Device in Its Basement for Decades",
+      "link": "https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/",
       "score": 27,
-      "author": "manchoz",
-      "created": "2025-11-21 21:13:11",
-      "created_at": 1763759591000
-    },
-    {
-      "id": 45934619,
-      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
-      "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
-      "score": 194,
-      "author": "redohmy",
-      "created": "2025-11-15 02:45:44",
-      "created_at": 1763174744000
-    },
-    {
-      "id": 46010230,
-      "title": "Apple's Problem with Bodies",
-      "link": "https://drobinin.com/posts/apples-problem-with-bodies/",
-      "score": 10,
-      "author": "valzevul",
-      "created": "2025-11-21 23:16:25",
-      "created_at": 1763766985000
+      "author": "cainxinth",
+      "created": "2025-11-15 15:21:52",
+      "created_at": 1763220112000
     },
     {
       "id": 46006616,
       "title": "Helping Valve to power up Steam devices",
       "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 475,
+      "score": 563,
       "author": "TingPing",
       "created": "2025-11-21 17:29:59",
       "created_at": 1763746199000
     },
     {
+      "id": 45934619,
+      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
+      "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
+      "score": 246,
+      "author": "redohmy",
+      "created": "2025-11-15 02:45:44",
+      "created_at": 1763174744000
+    },
+    {
       "id": 46006016,
       "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
       "link": "https://wealthfolio.app/?v=2.0",
-      "score": 457,
+      "score": 507,
       "author": "a-fadil",
       "created": "2025-11-21 16:34:52",
       "created_at": 1763742892000
     },
     {
-      "id": 45927520,
-      "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
-      "link": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
-      "score": 148,
-      "author": "dnetesn",
-      "created": "2025-11-14 15:11:13",
-      "created_at": 1763133073000
-    },
-    {
       "id": 46011978,
       "title": "Moss Survives 9 Months in Space Vacuum",
       "link": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
-      "score": 4,
+      "score": 58,
       "author": "ashishgupta2209",
       "created": "2025-11-22 03:57:29",
       "created_at": 1763783849000
     },
     {
-      "id": 46009591,
-      "title": "LAPD helicopter tracker with real-time operating costs",
-      "link": "https://lapdhelicoptertracker.com/",
-      "score": 112,
-      "author": "polalavik",
-      "created": "2025-11-21 22:11:07",
-      "created_at": 1763763067000
+      "id": 46009056,
+      "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+      "link": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+      "score": 52,
+      "author": "manchoz",
+      "created": "2025-11-21 21:13:11",
+      "created_at": 1763759591000
     },
     {
-      "id": 46010329,
-      "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
-      "link": "https://edw.is/learning-vulkan/",
-      "score": 43,
-      "author": "jakogut",
-      "created": "2025-11-21 23:28:40",
-      "created_at": 1763767720000
+      "id": 46012538,
+      "title": "Building a deep-space logistics startup",
+      "link": "https://ionmicrosys.com/",
+      "score": 8,
+      "author": "rainegarden",
+      "created": "2025-11-22 06:13:05",
+      "created_at": 1763791985000
     }
   ],
   "code": 200,
