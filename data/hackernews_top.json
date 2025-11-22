@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-22T16:12:44.708Z"
+    "lastUpdate": "2025-11-22T20:12:00.153Z"
   },
   "data": [
+    {
+      "id": 46016249,
+      "title": "The privacy nightmare of browser fingerprinting",
+      "link": "https://kevinboone.me/fingerprinting.html",
+      "score": 219,
+      "author": "ingve",
+      "created": "2025-11-22 17:08:36",
+      "created_at": 1763831316000
+    },
+    {
+      "id": 45940980,
+      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+      "link": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+      "score": 89,
+      "author": "rany_",
+      "created": "2025-11-15 22:08:28",
+      "created_at": 1763244508000
+    },
     {
       "id": 46013935,
       "title": "Agent design is still hard",
       "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-      "score": 146,
+      "score": 281,
       "author": "the_mitsuhiko",
       "created": "2025-11-22 11:27:24",
       "created_at": 1763810844000
     },
     {
+      "id": 45904873,
+      "title": "As 'Dorian Gray' ages, its relevance only grows",
+      "link": "https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/",
+      "score": 47,
+      "author": "apollinaire",
+      "created": "2025-11-12 19:21:37",
+      "created_at": 1762975297000
+    },
+    {
+      "id": 46016639,
+      "title": "China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium",
+      "link": "https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/",
+      "score": 71,
+      "author": "surprisetalk",
+      "created": "2025-11-22 17:49:27",
+      "created_at": 1763833767000
+    },
+    {
       "id": 46009894,
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 467,
+      "score": 545,
       "author": "gnabgib",
       "created": "2025-11-21 22:40:28",
       "created_at": 1763764828000
     },
     {
-      "id": 45938005,
-      "title": "Kodak ran a nuclear device in its basement for decades",
-      "link": "https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/",
-      "score": 156,
-      "author": "cainxinth",
-      "created": "2025-11-15 15:21:52",
-      "created_at": 1763220112000
-    },
-    {
       "id": 46006616,
       "title": "Helping Valve to power up Steam devices",
       "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 701,
+      "score": 757,
       "author": "TingPing",
       "created": "2025-11-21 17:29:59",
       "created_at": 1763746199000
     },
     {
-      "id": 45936776,
-      "title": "The twin probes just launched toward Mars have an Easter egg on board",
-      "link": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
-      "score": 26,
-      "author": "pseudolus",
-      "created": "2025-11-15 11:49:24",
-      "created_at": 1763207364000
+      "id": 45954973,
+      "title": "How to See the Dead",
+      "link": "https://www.asimov.press/p/see-the-dead",
+      "score": 50,
+      "author": "mailyk",
+      "created": "2025-11-17 16:17:09",
+      "created_at": 1763396229000
     },
     {
       "id": 45934619,
       "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
       "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
-      "score": 350,
+      "score": 406,
       "author": "redohmy",
       "created": "2025-11-15 02:45:44",
       "created_at": 1763174744000
-    },
-    {
-      "id": 45969398,
-      "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
-      "link": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
-      "score": 84,
-      "author": "paulatreides",
-      "created": "2025-11-18 17:35:31",
-      "created_at": 1763487331000
-    },
-    {
-      "id": 46012328,
-      "title": "Original Superman comic becomes the highest-priced comic book ever sold",
-      "link": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
-      "score": 285,
-      "author": "1659447091",
-      "created": "2025-11-22 05:21:53",
-      "created_at": 1763788913000
-    },
-    {
-      "id": 46006016,
-      "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
-      "link": "https://wealthfolio.app/?v=2.0",
-      "score": 584,
-      "author": "a-fadil",
-      "created": "2025-11-21 16:34:52",
-      "created_at": 1763742892000
-    },
-    {
-      "id": 45926371,
-      "title": "Weight-sparse transformers have interpretable circuits [pdf]",
-      "link": "https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf",
-      "score": 41,
-      "author": "0x79de",
-      "created": "2025-11-14 13:08:27",
-      "created_at": 1763125707000
     }
   ],
   "code": 200,

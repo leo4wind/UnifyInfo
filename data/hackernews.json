@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-22T16:12:44.548Z"
+    "lastUpdate": "2025-11-22T20:12:00.044Z"
   },
   "data": [
-    {
-      "id": 45994854,
-      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-      "link": "https://blog.google/products/android/quick-share-airdrop/",
-      "score": 856,
-      "author": "abraham",
-      "created": "2025-11-20 17:04:34",
-      "created_at": 1763658274000
-    },
     {
       "id": 45996860,
       "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
       "link": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
-      "score": 817,
+      "score": 823,
       "author": "jjwiseman",
       "created": "2025-11-20 19:52:55",
       "created_at": 1763668375000
@@ -28,25 +19,16 @@
       "id": 46006616,
       "title": "Helping Valve to power up Steam devices",
       "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 701,
+      "score": 757,
       "author": "TingPing",
       "created": "2025-11-21 17:29:59",
       "created_at": 1763746199000
     },
     {
-      "id": 45995740,
-      "title": "Microsoft makes Zork open-source",
-      "link": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "score": 627,
-      "author": "tabletcorry",
-      "created": "2025-11-20 18:13:39",
-      "created_at": 1763662419000
-    },
-    {
       "id": 46006016,
       "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
       "link": "https://wealthfolio.app/?v=2.0",
-      "score": 584,
+      "score": 609,
       "author": "a-fadil",
       "created": "2025-11-21 16:34:52",
       "created_at": 1763742892000
@@ -55,7 +37,7 @@
       "id": 46009894,
       "title": "Personal blogs are back, should niche blogs be next?",
       "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 467,
+      "score": 545,
       "author": "gnabgib",
       "created": "2025-11-21 22:40:28",
       "created_at": 1763764828000
@@ -64,7 +46,7 @@
       "id": 46003778,
       "title": "How a French judge was digitally cut off by the USA",
       "link": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html",
-      "score": 445,
+      "score": 453,
       "author": "i-con",
       "created": "2025-11-21 12:12:41",
       "created_at": 1763727161000
@@ -73,7 +55,7 @@
       "id": 46005111,
       "title": "We should all be using dependency cooldowns",
       "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
-      "score": 411,
+      "score": 434,
       "author": "todsacerdoti",
       "created": "2025-11-21 14:50:36",
       "created_at": 1763736636000
@@ -82,7 +64,7 @@
       "id": 46001889,
       "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
       "link": "https://allenai.org/blog/olmo3",
-      "score": 378,
+      "score": 379,
       "author": "mseri",
       "created": "2025-11-21 06:50:14",
       "created_at": 1763707814000
@@ -91,10 +73,28 @@
       "id": 46005553,
       "title": "Arduino published updated terms and conditions: no longer an open commons",
       "link": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
-      "score": 342,
+      "score": 343,
       "author": "felineflock",
       "created": "2025-11-21 15:44:16",
       "created_at": 1763739856000
+    },
+    {
+      "id": 45999038,
+      "title": "Over-regulation is doubling the cost",
+      "link": "https://rein.pk/over-regulation-is-doubling-the-cost",
+      "score": 330,
+      "author": "bilsbie",
+      "created": "2025-11-20 22:58:06",
+      "created_at": 1763679486000
+    },
+    {
+      "id": 45997212,
+      "title": "New OS aims to provide (some) compatibility with macOS",
+      "link": "https://github.com/ravynsoft/ravynos",
+      "score": 313,
+      "author": "kasajian",
+      "created": "2025-11-20 20:24:42",
+      "created_at": 1763670282000
     }
   ],
   "code": 200,
