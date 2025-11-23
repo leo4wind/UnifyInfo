@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-23T04:26:09.914Z"
+    "lastUpdate": "2025-11-23T08:14:15.201Z"
   },
   "data": [
-    {
-      "id": 46020151,
-      "title": "GCC SC approves inclusion of Algol 68 Front End",
-      "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
-      "score": 61,
-      "author": "edelsohn",
-      "created": "2025-11-23 02:18:03",
-      "created_at": 1763864283000
-    },
-    {
-      "id": 46019685,
-      "title": "A monopoly ISP refuses to fix upstream infrastructure",
-      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
-      "score": 91,
-      "author": "vedmed",
-      "created": "2025-11-23 00:46:53",
-      "created_at": 1763858813000
-    },
     {
       "id": 46020543,
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
-      "score": 12,
+      "score": 80,
       "author": "Stratoscope",
       "created": "2025-11-23 03:33:42",
       "created_at": 1763868822000
     },
     {
-      "id": 46019636,
-      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf]",
-      "link": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
-      "score": 69,
-      "author": "bmurray7jhu",
-      "created": "2025-11-23 00:35:27",
-      "created_at": 1763858127000
+      "id": 46019685,
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "score": 210,
+      "author": "vedmed",
+      "created": "2025-11-23 00:46:53",
+      "created_at": 1763858813000
     },
     {
-      "id": 46018380,
-      "title": "WorldGen – Text to Immersive 3D Worlds",
-      "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
-      "score": 161,
-      "author": "smusamashah",
-      "created": "2025-11-22 21:20:24",
-      "created_at": 1763846424000
-    },
-    {
-      "id": 46008332,
-      "title": "We Induced Smells With Ultrasound",
-      "link": "https://writetobrain.com/olfactory",
-      "score": 313,
-      "author": "exr0n",
-      "created": "2025-11-21 20:02:45",
-      "created_at": 1763755365000
+      "id": 46020151,
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "score": 103,
+      "author": "edelsohn",
+      "created": "2025-11-23 02:18:03",
+      "created_at": 1763864283000
     },
     {
       "id": 46016249,
       "title": "The privacy nightmare of browser fingerprinting",
       "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 474,
+      "score": 530,
       "author": "ingve",
       "created": "2025-11-22 17:08:36",
       "created_at": 1763831316000
     },
     {
-      "id": 46019817,
-      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
-      "score": 146,
-      "author": "pseudolus",
-      "created": "2025-11-23 01:09:47",
-      "created_at": 1763860187000
+      "id": 46008332,
+      "title": "We Induced Smells With Ultrasound",
+      "link": "https://writetobrain.com/olfactory",
+      "score": 423,
+      "author": "exr0n",
+      "created": "2025-11-21 20:02:45",
+      "created_at": 1763755365000
+    },
+    {
+      "id": 46018380,
+      "title": "WorldGen – Text to Immersive 3D Worlds",
+      "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+      "score": 191,
+      "author": "smusamashah",
+      "created": "2025-11-22 21:20:24",
+      "created_at": 1763846424000
+    },
+    {
+      "id": 46019636,
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
+      "link": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+      "score": 104,
+      "author": "bmurray7jhu",
+      "created": "2025-11-23 00:35:27",
+      "created_at": 1763858127000
+    },
+    {
+      "id": 45992035,
+      "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
+      "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
+      "score": 77,
+      "author": "taubek",
+      "created": "2025-11-20 12:47:41",
+      "created_at": 1763642861000
+    },
+    {
+      "id": 45918442,
+      "title": "Unicode Binary Input Terminal",
+      "link": "https://hackaday.io/project/192644-unicode-binary-input-terminal",
+      "score": 9,
+      "author": "speckx",
+      "created": "2025-11-13 18:18:01",
+      "created_at": 1763057881000
     },
     {
       "id": 46017175,
       "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
       "link": "https://forty.news",
-      "score": 215,
+      "score": 253,
       "author": "foxbarrington",
       "created": "2025-11-22 18:47:08",
       "created_at": 1763837228000
-    },
-    {
-      "id": 46020096,
-      "title": "An Economy of AI Agents",
-      "link": "https://arxiv.org/abs/2509.01063",
-      "score": 18,
-      "author": "nerder92",
-      "created": "2025-11-23 02:08:00",
-      "created_at": 1763863680000
     }
   ],
   "code": 200,
