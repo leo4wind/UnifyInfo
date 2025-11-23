@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-23T01:00:55.011Z"
+    "lastUpdate": "2025-11-23T04:26:09.914Z"
   },
   "data": [
+    {
+      "id": 46020151,
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "score": 61,
+      "author": "edelsohn",
+      "created": "2025-11-23 02:18:03",
+      "created_at": 1763864283000
+    },
+    {
+      "id": 46019685,
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "score": 91,
+      "author": "vedmed",
+      "created": "2025-11-23 00:46:53",
+      "created_at": 1763858813000
+    },
+    {
+      "id": 46020543,
+      "title": "Unusual circuits in the Intel 386's standard cell logic",
+      "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "score": 12,
+      "author": "Stratoscope",
+      "created": "2025-11-23 03:33:42",
+      "created_at": 1763868822000
+    },
+    {
+      "id": 46019636,
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf]",
+      "link": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+      "score": 69,
+      "author": "bmurray7jhu",
+      "created": "2025-11-23 00:35:27",
+      "created_at": 1763858127000
+    },
     {
       "id": 46018380,
       "title": "WorldGen – Text to Immersive 3D Worlds",
       "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
-      "score": 112,
+      "score": 161,
       "author": "smusamashah",
       "created": "2025-11-22 21:20:24",
       "created_at": 1763846424000
     },
     {
-      "id": 46016249,
-      "title": "The privacy nightmare of browser fingerprinting",
-      "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 408,
-      "author": "ingve",
-      "created": "2025-11-22 17:08:36",
-      "created_at": 1763831316000
-    },
-    {
       "id": 46008332,
       "title": "We Induced Smells With Ultrasound",
       "link": "https://writetobrain.com/olfactory",
-      "score": 176,
+      "score": 313,
       "author": "exr0n",
       "created": "2025-11-21 20:02:45",
       "created_at": 1763755365000
     },
     {
-      "id": 46017910,
-      "title": "The Mozilla Cycle, Part III: Mozilla Dies in Ignominy",
-      "link": "https://taggart-tech.com/mozilla-cycle-pt3/",
-      "score": 126,
-      "author": "holysoles",
-      "created": "2025-11-22 20:21:56",
-      "created_at": 1763842916000
+      "id": 46016249,
+      "title": "The privacy nightmare of browser fingerprinting",
+      "link": "https://kevinboone.me/fingerprinting.html",
+      "score": 474,
+      "author": "ingve",
+      "created": "2025-11-22 17:08:36",
+      "created_at": 1763831316000
+    },
+    {
+      "id": 46019817,
+      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
+      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
+      "score": 146,
+      "author": "pseudolus",
+      "created": "2025-11-23 01:09:47",
+      "created_at": 1763860187000
     },
     {
       "id": 46017175,
       "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
       "link": "https://forty.news",
-      "score": 158,
+      "score": 215,
       "author": "foxbarrington",
       "created": "2025-11-22 18:47:08",
       "created_at": 1763837228000
     },
     {
-      "id": 46018165,
-      "title": "Show HN: Build the habit of writing meaningful commit messages",
-      "link": "https://github.com/arpxspace/smartcommit",
-      "score": 48,
-      "author": "Aplikethewatch",
-      "created": "2025-11-22 20:54:35",
-      "created_at": 1763844875000
-    },
-    {
-      "id": 45940980,
-      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
-      "link": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
-      "score": 185,
-      "author": "rany_",
-      "created": "2025-11-15 22:08:28",
-      "created_at": 1763244508000
-    },
-    {
-      "id": 45968310,
-      "title": "TIL: `satisfies` is my favorite TypeScript keyword",
-      "link": "https://sjer.red/blog/2024-12-21/",
-      "score": 84,
-      "author": "surprisetalk",
-      "created": "2025-11-18 16:23:57",
-      "created_at": 1763483037000
-    },
-    {
-      "id": 46018158,
-      "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
-      "link": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
-      "score": 44,
-      "author": "19h",
-      "created": "2025-11-22 20:54:02",
-      "created_at": 1763844842000
-    },
-    {
-      "id": 46019168,
-      "title": "How to Spot a Counterfeit Lithium-Ion Battery",
-      "link": "https://spectrum.ieee.org/counterfeit-lithium-ion-batteries",
-      "score": 13,
-      "author": "jnord",
-      "created": "2025-11-22 23:08:57",
-      "created_at": 1763852937000
+      "id": 46020096,
+      "title": "An Economy of AI Agents",
+      "link": "https://arxiv.org/abs/2509.01063",
+      "score": 18,
+      "author": "nerder92",
+      "created": "2025-11-23 02:08:00",
+      "created_at": 1763863680000
     }
   ],
   "code": 200,
