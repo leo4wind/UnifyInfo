@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-23T12:18:47.350Z"
+    "lastUpdate": "2025-11-23T16:12:22.315Z"
   },
   "data": [
     {
       "id": 46006616,
       "title": "Helping Valve to power up Steam devices",
       "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 816,
+      "score": 822,
       "author": "TingPing",
       "created": "2025-11-21 17:29:59",
       "created_at": 1763746199000
@@ -25,76 +25,76 @@
       "created_at": 1763742892000
     },
     {
-      "id": 46009894,
-      "title": "Personal blogs are back, should niche blogs be next?",
-      "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 614,
-      "author": "gnabgib",
-      "created": "2025-11-21 22:40:28",
-      "created_at": 1763764828000
-    },
-    {
       "id": 46016249,
       "title": "The privacy nightmare of browser fingerprinting",
       "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 574,
+      "score": 652,
       "author": "ingve",
       "created": "2025-11-22 17:08:36",
       "created_at": 1763831316000
     },
     {
+      "id": 46009894,
+      "title": "Personal blogs are back, should niche blogs be next?",
+      "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+      "score": 618,
+      "author": "gnabgib",
+      "created": "2025-11-21 22:40:28",
+      "created_at": 1763764828000
+    },
+    {
       "id": 46008332,
       "title": "We Induced Smells With Ultrasound",
       "link": "https://writetobrain.com/olfactory",
-      "score": 511,
+      "score": 569,
       "author": "exr0n",
       "created": "2025-11-21 20:02:45",
       "created_at": 1763755365000
     },
     {
-      "id": 46003778,
-      "title": "How a French judge was digitally cut off by the USA",
-      "link": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html",
-      "score": 470,
-      "author": "i-con",
-      "created": "2025-11-21 12:12:41",
-      "created_at": 1763727161000
-    },
-    {
-      "id": 46005111,
-      "title": "We should all be using dependency cooldowns",
-      "link": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
-      "score": 469,
-      "author": "todsacerdoti",
-      "created": "2025-11-21 14:50:36",
-      "created_at": 1763736636000
-    },
-    {
-      "id": 46013935,
-      "title": "Agent design is still hard",
-      "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-      "score": 385,
-      "author": "the_mitsuhiko",
-      "created": "2025-11-22 11:27:24",
-      "created_at": 1763810844000
-    },
-    {
       "id": 46019817,
       "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
-      "score": 366,
+      "score": 502,
       "author": "pseudolus",
       "created": "2025-11-23 01:09:47",
       "created_at": 1763860187000
     },
     {
-      "id": 46005553,
-      "title": "Arduino published updated terms and conditions: no longer an open commons",
-      "link": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
-      "score": 343,
-      "author": "felineflock",
-      "created": "2025-11-21 15:44:16",
-      "created_at": 1763739856000
+      "id": 46021825,
+      "title": "After my dad died, we found the love letters",
+      "link": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
+      "score": 473,
+      "author": "eatitraw",
+      "created": "2025-11-23 08:40:41",
+      "created_at": 1763887241000
+    },
+    {
+      "id": 46019685,
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "score": 437,
+      "author": "vedmed",
+      "created": "2025-11-23 00:46:53",
+      "created_at": 1763858813000
+    },
+    {
+      "id": 46013935,
+      "title": "Agent design is still hard",
+      "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+      "score": 390,
+      "author": "the_mitsuhiko",
+      "created": "2025-11-22 11:27:24",
+      "created_at": 1763810844000
+    },
+    {
+      "id": 46017175,
+      "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+      "link": "https://forty.news",
+      "score": 352,
+      "author": "foxbarrington",
+      "created": "2025-11-22 18:47:08",
+      "created_at": 1763837228000
     }
   ],
   "code": 200,

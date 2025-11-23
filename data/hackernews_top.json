@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-23T12:18:47.534Z"
+    "lastUpdate": "2025-11-23T16:12:22.436Z"
   },
   "data": [
     {
-      "id": 46021825,
-      "title": "After my dad died, we found the love letters",
-      "link": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
-      "score": 205,
-      "author": "eatitraw",
-      "created": "2025-11-23 08:40:41",
-      "created_at": 1763887241000
-    },
-    {
-      "id": 45957911,
-      "title": "Almost all Collatz orbits attain almost bounded values",
-      "link": "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/",
-      "score": 30,
-      "author": "measurablefunc",
-      "created": "2025-11-17 20:28:32",
-      "created_at": 1763411312000
+      "id": 46023013,
+      "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
+      "link": "https://www.makingsoftware.com/chapters/shaders",
+      "score": 121,
+      "author": "Garbage",
+      "created": "2025-11-23 12:26:30",
+      "created_at": 1763900790000
     },
     {
       "id": 46019685,
       "title": "A monopoly ISP refuses to fix upstream infrastructure",
       "link": "https://sacbear.com/xfinity-wont-fix-internet/",
-      "score": 308,
+      "score": 437,
       "author": "vedmed",
       "created": "2025-11-23 00:46:53",
       "created_at": 1763858813000
     },
     {
+      "id": 46023531,
+      "title": "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
+      "link": "https://www.npmjs.com/package/tosijs-schema",
+      "score": 26,
+      "author": "podperson",
+      "created": "2025-11-23 13:43:24",
+      "created_at": 1763905404000
+    },
+    {
+      "id": 46023460,
+      "title": "Racket v9.0",
+      "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
+      "score": 94,
+      "author": "Fice",
+      "created": "2025-11-23 13:35:27",
+      "created_at": 1763904927000
+    },
+    {
+      "id": 45957911,
+      "title": "Almost all Collatz orbits attain almost bounded values",
+      "link": "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/",
+      "score": 67,
+      "author": "measurablefunc",
+      "created": "2025-11-17 20:28:32",
+      "created_at": 1763411312000
+    },
+    {
       "id": 46020543,
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
-      "score": 130,
+      "score": 165,
       "author": "Stratoscope",
       "created": "2025-11-23 03:33:42",
       "created_at": 1763868822000
     },
     {
+      "id": 46024062,
+      "title": "UK minister ducks cost questions on nationwide digital ID scheme",
+      "link": "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/",
+      "score": 24,
+      "author": "Bender",
+      "created": "2025-11-23 15:02:39",
+      "created_at": 1763910159000
+    },
+    {
       "id": 46020151,
       "title": "GCC SC approves inclusion of Algol 68 Front End",
       "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
-      "score": 135,
+      "score": 190,
       "author": "edelsohn",
       "created": "2025-11-23 02:18:03",
       "created_at": 1763864283000
     },
     {
+      "id": 45963768,
+      "title": "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
+      "link": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf",
+      "score": 21,
+      "author": "birdculture",
+      "created": "2025-11-18 11:33:39",
+      "created_at": 1763465619000
+    },
+    {
       "id": 46016249,
       "title": "The privacy nightmare of browser fingerprinting",
       "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 574,
+      "score": 652,
       "author": "ingve",
       "created": "2025-11-22 17:08:36",
       "created_at": 1763831316000
-    },
-    {
-      "id": 46008332,
-      "title": "We Induced Smells With Ultrasound",
-      "link": "https://writetobrain.com/olfactory",
-      "score": 511,
-      "author": "exr0n",
-      "created": "2025-11-21 20:02:45",
-      "created_at": 1763755365000
-    },
-    {
-      "id": 46018380,
-      "title": "WorldGen – Text to Immersive 3D Worlds",
-      "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
-      "score": 218,
-      "author": "smusamashah",
-      "created": "2025-11-22 21:20:24",
-      "created_at": 1763846424000
-    },
-    {
-      "id": 45992035,
-      "title": "Ubuntu LTS releases to 15 years with Legacy add-on",
-      "link": "https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on",
-      "score": 127,
-      "author": "taubek",
-      "created": "2025-11-20 12:47:41",
-      "created_at": 1763642861000
     }
   ],
   "code": 200,
