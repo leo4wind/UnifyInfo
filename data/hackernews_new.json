@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-23T16:12:22.636Z"
+    "lastUpdate": "2025-11-23T20:12:27.938Z"
   },
   "data": [
+    {
+      "id": 46025721,
+      "title": "Native Secure Enclave backed SSH keys on macOS",
+      "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+      "score": 181,
+      "author": "arianvanp",
+      "created": "2025-11-23 17:55:11",
+      "created_at": 1763920511000
+    },
+    {
+      "id": 46025942,
+      "title": "Fran Sans – font inspired by San Francisco light rail displays",
+      "link": "https://emilysneddon.com/fran-sans-essay",
+      "score": 102,
+      "author": "ChrisArchitect",
+      "created": "2025-11-23 18:20:27",
+      "created_at": 1763922027000
+    },
+    {
+      "id": 46024773,
+      "title": "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
+      "link": "https://mathcs.holycross.edu/~ahwang/print/calc.pdf",
+      "score": 117,
+      "author": "o4c",
+      "created": "2025-11-23 16:31:50",
+      "created_at": 1763915510000
+    },
     {
       "id": 46023013,
       "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
       "link": "https://www.makingsoftware.com/chapters/shaders",
-      "score": 121,
+      "score": 257,
       "author": "Garbage",
       "created": "2025-11-23 12:26:30",
       "created_at": 1763900790000
     },
     {
-      "id": 46019685,
-      "title": "A monopoly ISP refuses to fix upstream infrastructure",
-      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
-      "score": 437,
-      "author": "vedmed",
-      "created": "2025-11-23 00:46:53",
-      "created_at": 1763858813000
-    },
-    {
-      "id": 46023531,
-      "title": "Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library",
-      "link": "https://www.npmjs.com/package/tosijs-schema",
-      "score": 26,
-      "author": "podperson",
-      "created": "2025-11-23 13:43:24",
-      "created_at": 1763905404000
+      "id": 46024584,
+      "title": "Mount Proton Drive on Linux using rclone and systemd",
+      "link": "https://github.com/dadtronics/protondrive-linux",
+      "score": 58,
+      "author": "cf100clunk",
+      "created": "2025-11-23 16:12:06",
+      "created_at": 1763914326000
     },
     {
       "id": 46023460,
       "title": "Racket v9.0",
       "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
-      "score": 94,
+      "score": 192,
       "author": "Fice",
       "created": "2025-11-23 13:35:27",
       "created_at": 1763904927000
     },
     {
-      "id": 45957911,
-      "title": "Almost all Collatz orbits attain almost bounded values",
-      "link": "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/",
-      "score": 67,
-      "author": "measurablefunc",
-      "created": "2025-11-17 20:28:32",
-      "created_at": 1763411312000
+      "id": 46025978,
+      "title": "Scoop: Judge Caught Using AI to Read His Court Decisions",
+      "link": "https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read",
+      "score": 33,
+      "author": "wahnfrieden",
+      "created": "2025-11-23 18:24:42",
+      "created_at": 1763922282000
     },
     {
-      "id": 46020543,
-      "title": "Unusual circuits in the Intel 386's standard cell logic",
-      "link": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
-      "score": 165,
-      "author": "Stratoscope",
-      "created": "2025-11-23 03:33:42",
-      "created_at": 1763868822000
+      "id": 46024184,
+      "title": "Court filings allege Meta downplayed risks to children and misled the public",
+      "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
+      "score": 223,
+      "author": "binning",
+      "created": "2025-11-23 15:18:00",
+      "created_at": 1763911080000
     },
     {
-      "id": 46024062,
-      "title": "UK minister ducks cost questions on nationwide digital ID scheme",
-      "link": "https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/",
-      "score": 24,
-      "author": "Bender",
-      "created": "2025-11-23 15:02:39",
-      "created_at": 1763910159000
+      "id": 46024032,
+      "title": "Editing Code in Emacs",
+      "link": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html",
+      "score": 70,
+      "author": "redpenguin101",
+      "created": "2025-11-23 14:59:38",
+      "created_at": 1763909978000
     },
     {
-      "id": 46020151,
-      "title": "GCC SC approves inclusion of Algol 68 Front End",
-      "link": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
-      "score": 190,
-      "author": "edelsohn",
-      "created": "2025-11-23 02:18:03",
-      "created_at": 1763864283000
-    },
-    {
-      "id": 45963768,
-      "title": "Typechecking is undecideable when 'type' is a type (1989) [pdf]",
-      "link": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf",
-      "score": 21,
-      "author": "birdculture",
-      "created": "2025-11-18 11:33:39",
-      "created_at": 1763465619000
-    },
-    {
-      "id": 46016249,
-      "title": "The privacy nightmare of browser fingerprinting",
-      "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 652,
-      "author": "ingve",
-      "created": "2025-11-22 17:08:36",
-      "created_at": 1763831316000
+      "id": 46019685,
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "score": 524,
+      "author": "vedmed",
+      "created": "2025-11-23 00:46:53",
+      "created_at": 1763858813000
     }
   ],
   "code": 200,
