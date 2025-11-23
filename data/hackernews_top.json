@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-22T20:12:00.153Z"
+    "lastUpdate": "2025-11-23T01:00:54.919Z"
   },
   "data": [
+    {
+      "id": 46018380,
+      "title": "WorldGen – Text to Immersive 3D Worlds",
+      "link": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+      "score": 112,
+      "author": "smusamashah",
+      "created": "2025-11-22 21:20:24",
+      "created_at": 1763846424000
+    },
     {
       "id": 46016249,
       "title": "The privacy nightmare of browser fingerprinting",
       "link": "https://kevinboone.me/fingerprinting.html",
-      "score": 219,
+      "score": 408,
       "author": "ingve",
       "created": "2025-11-22 17:08:36",
       "created_at": 1763831316000
     },
     {
+      "id": 46008332,
+      "title": "We Induced Smells With Ultrasound",
+      "link": "https://writetobrain.com/olfactory",
+      "score": 176,
+      "author": "exr0n",
+      "created": "2025-11-21 20:02:45",
+      "created_at": 1763755365000
+    },
+    {
+      "id": 46017910,
+      "title": "The Mozilla Cycle, Part III: Mozilla Dies in Ignominy",
+      "link": "https://taggart-tech.com/mozilla-cycle-pt3/",
+      "score": 126,
+      "author": "holysoles",
+      "created": "2025-11-22 20:21:56",
+      "created_at": 1763842916000
+    },
+    {
+      "id": 46017175,
+      "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+      "link": "https://forty.news",
+      "score": 158,
+      "author": "foxbarrington",
+      "created": "2025-11-22 18:47:08",
+      "created_at": 1763837228000
+    },
+    {
+      "id": 46018165,
+      "title": "Show HN: Build the habit of writing meaningful commit messages",
+      "link": "https://github.com/arpxspace/smartcommit",
+      "score": 48,
+      "author": "Aplikethewatch",
+      "created": "2025-11-22 20:54:35",
+      "created_at": 1763844875000
+    },
+    {
       "id": 45940980,
       "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "link": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
-      "score": 89,
+      "score": 185,
       "author": "rany_",
       "created": "2025-11-15 22:08:28",
       "created_at": 1763244508000
     },
     {
-      "id": 46013935,
-      "title": "Agent design is still hard",
-      "link": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-      "score": 281,
-      "author": "the_mitsuhiko",
-      "created": "2025-11-22 11:27:24",
-      "created_at": 1763810844000
-    },
-    {
-      "id": 45904873,
-      "title": "As 'Dorian Gray' ages, its relevance only grows",
-      "link": "https://www.washingtonpost.com/books/2025/11/08/dorian-gray-oscar-wilde-history/",
-      "score": 47,
-      "author": "apollinaire",
-      "created": "2025-11-12 19:21:37",
-      "created_at": 1762975297000
-    },
-    {
-      "id": 46016639,
-      "title": "China Reaches Energy Milestone by \"Breeding\" Uranium from Thorium",
-      "link": "https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/",
-      "score": 71,
+      "id": 45968310,
+      "title": "TIL: `satisfies` is my favorite TypeScript keyword",
+      "link": "https://sjer.red/blog/2024-12-21/",
+      "score": 84,
       "author": "surprisetalk",
-      "created": "2025-11-22 17:49:27",
-      "created_at": 1763833767000
+      "created": "2025-11-18 16:23:57",
+      "created_at": 1763483037000
     },
     {
-      "id": 46009894,
-      "title": "Personal blogs are back, should niche blogs be next?",
-      "link": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
-      "score": 545,
-      "author": "gnabgib",
-      "created": "2025-11-21 22:40:28",
-      "created_at": 1763764828000
+      "id": 46018158,
+      "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
+      "link": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+      "score": 44,
+      "author": "19h",
+      "created": "2025-11-22 20:54:02",
+      "created_at": 1763844842000
     },
     {
-      "id": 46006616,
-      "title": "Helping Valve to power up Steam devices",
-      "link": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "score": 757,
-      "author": "TingPing",
-      "created": "2025-11-21 17:29:59",
-      "created_at": 1763746199000
-    },
-    {
-      "id": 45954973,
-      "title": "How to See the Dead",
-      "link": "https://www.asimov.press/p/see-the-dead",
-      "score": 50,
-      "author": "mailyk",
-      "created": "2025-11-17 16:17:09",
-      "created_at": 1763396229000
-    },
-    {
-      "id": 45934619,
-      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
-      "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
-      "score": 406,
-      "author": "redohmy",
-      "created": "2025-11-15 02:45:44",
-      "created_at": 1763174744000
+      "id": 46019168,
+      "title": "How to Spot a Counterfeit Lithium-Ion Battery",
+      "link": "https://spectrum.ieee.org/counterfeit-lithium-ion-batteries",
+      "score": 13,
+      "author": "jnord",
+      "created": "2025-11-22 23:08:57",
+      "created_at": 1763852937000
     }
   ],
   "code": 200,
