@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-23T20:12:27.904Z"
+    "lastUpdate": "2025-11-24T00:57:36.621Z"
   },
   "data": [
-    {
-      "id": 46025721,
-      "title": "Native Secure Enclave backed SSH keys on macOS",
-      "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
-      "score": 181,
-      "author": "arianvanp",
-      "created": "2025-11-23 17:55:11",
-      "created_at": 1763920511000
-    },
     {
       "id": 46025942,
       "title": "Fran Sans – font inspired by San Francisco light rail displays",
       "link": "https://emilysneddon.com/fran-sans-essay",
-      "score": 102,
+      "score": 512,
       "author": "ChrisArchitect",
       "created": "2025-11-23 18:20:27",
       "created_at": 1763922027000
     },
     {
+      "id": 46025721,
+      "title": "Native Secure Enclave backed SSH keys on macOS",
+      "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+      "score": 293,
+      "author": "arianvanp",
+      "created": "2025-11-23 17:55:11",
+      "created_at": 1763920511000
+    },
+    {
+      "id": 46027947,
+      "title": "A desktop app for isolated, parallel agentic development",
+      "link": "https://github.com/coder/mux",
+      "score": 23,
+      "author": "mercat",
+      "created": "2025-11-23 22:24:23",
+      "created_at": 1763936663000
+    },
+    {
       "id": 46024773,
       "title": "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
       "link": "https://mathcs.holycross.edu/~ahwang/print/calc.pdf",
-      "score": 117,
+      "score": 216,
       "author": "o4c",
       "created": "2025-11-23 16:31:50",
       "created_at": 1763915510000
     },
     {
+      "id": 46027216,
+      "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+      "link": "https://microcad.xyz/",
+      "score": 41,
+      "author": "todsacerdoti",
+      "created": "2025-11-23 20:51:22",
+      "created_at": 1763931082000
+    },
+    {
+      "id": 46027962,
+      "title": "Show HN: I wrote a minimal memory allocator in C",
+      "link": "https://github.com/t9nzin/memory",
+      "score": 24,
+      "author": "t9nzin",
+      "created": "2025-11-23 22:25:36",
+      "created_at": 1763936736000
+    },
+    {
+      "id": 45964956,
+      "title": "Show HN: Gitlogue – A terminal tool that replays your Git commits with animation",
+      "link": "https://github.com/unhappychoice/gitlogue",
+      "score": 85,
+      "author": "unhappychoice",
+      "created": "2025-11-18 12:47:04",
+      "created_at": 1763470024000
+    },
+    {
+      "id": 46028033,
+      "title": "Sunsetting Supermaven",
+      "link": "https://supermaven.com/blog/sunsetting-supermaven",
+      "score": 25,
+      "author": "vednig",
+      "created": "2025-11-23 22:33:34",
+      "created_at": 1763937214000
+    },
+    {
+      "id": 46027722,
+      "title": "Particle Life – Sandbox Science",
+      "link": "https://sandbox-science.com/particle-life",
+      "score": 29,
+      "author": "StromFLIX",
+      "created": "2025-11-23 21:54:32",
+      "created_at": 1763934872000
+    },
+    {
       "id": 46023013,
       "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
       "link": "https://www.makingsoftware.com/chapters/shaders",
-      "score": 257,
+      "score": 329,
       "author": "Garbage",
       "created": "2025-11-23 12:26:30",
       "created_at": 1763900790000
-    },
-    {
-      "id": 46024584,
-      "title": "Mount Proton Drive on Linux using rclone and systemd",
-      "link": "https://github.com/dadtronics/protondrive-linux",
-      "score": 58,
-      "author": "cf100clunk",
-      "created": "2025-11-23 16:12:06",
-      "created_at": 1763914326000
-    },
-    {
-      "id": 46023460,
-      "title": "Racket v9.0",
-      "link": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
-      "score": 192,
-      "author": "Fice",
-      "created": "2025-11-23 13:35:27",
-      "created_at": 1763904927000
-    },
-    {
-      "id": 46025978,
-      "title": "Scoop: Judge Caught Using AI to Read His Court Decisions",
-      "link": "https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read",
-      "score": 33,
-      "author": "wahnfrieden",
-      "created": "2025-11-23 18:24:42",
-      "created_at": 1763922282000
-    },
-    {
-      "id": 46024184,
-      "title": "Court filings allege Meta downplayed risks to children and misled the public",
-      "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
-      "score": 223,
-      "author": "binning",
-      "created": "2025-11-23 15:18:00",
-      "created_at": 1763911080000
-    },
-    {
-      "id": 46024032,
-      "title": "Editing Code in Emacs",
-      "link": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html",
-      "score": 70,
-      "author": "redpenguin101",
-      "created": "2025-11-23 14:59:38",
-      "created_at": 1763909978000
-    },
-    {
-      "id": 46019685,
-      "title": "A monopoly ISP refuses to fix upstream infrastructure",
-      "link": "https://sacbear.com/xfinity-wont-fix-internet/",
-      "score": 524,
-      "author": "vedmed",
-      "created": "2025-11-23 00:46:53",
-      "created_at": 1763858813000
     }
   ],
   "code": 200,
