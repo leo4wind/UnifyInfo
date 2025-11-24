@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-24T16:13:03.460Z"
+    "lastUpdate": "2025-11-24T20:13:32.465Z"
   },
   "data": [
     {
-      "id": 46033151,
-      "title": "NSA and IETF, part 3: Dodging the issues at hand",
-      "link": "https://blog.cr.yp.to/20251123-dodging.html",
-      "score": 188,
-      "author": "upofadown",
-      "created": "2025-11-24 12:00:55",
-      "created_at": 1763985655000
+      "id": 46037626,
+      "title": "Pebble Watch software is now 100% open source",
+      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "score": 223,
+      "author": "Larrikin",
+      "created": "2025-11-24 18:52:12",
+      "created_at": 1764010332000
     },
     {
-      "id": 46033330,
-      "title": "Chrome Jpegxl Issue Reopened",
-      "link": "https://issues.chromium.org/issues/40168998",
-      "score": 76,
-      "author": "markdog12",
-      "created": "2025-11-24 12:23:02",
-      "created_at": 1763986982000
+      "id": 46037637,
+      "title": "Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "score": 349,
+      "author": "adocomplete",
+      "created": "2025-11-24 18:53:05",
+      "created_at": 1764010385000
     },
     {
-      "id": 46034145,
-      "title": "Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows",
-      "link": "https://www.blaizenterprises.com/cynthia.html",
-      "score": 40,
-      "author": "blaiz2025",
-      "created": "2025-11-24 13:58:05",
-      "created_at": 1763992685000
+      "id": 46036895,
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "link": "https://github.com/Swordfish90/cool-retro-term",
+      "score": 72,
+      "author": "michalpleban",
+      "created": "2025-11-24 17:52:01",
+      "created_at": 1764006721000
     },
     {
-      "id": 46034142,
-      "title": "Fast Lua runtime written in Rust",
-      "link": "https://astra.arkforge.net/",
-      "score": 56,
-      "author": "akagusu",
-      "created": "2025-11-24 13:57:53",
-      "created_at": 1763992673000
+      "id": 46037267,
+      "title": "Mind-reading devices can now predict preconscious thoughts",
+      "link": "https://www.nature.com/articles/d41586-025-03714-0",
+      "score": 53,
+      "author": "srameshc",
+      "created": "2025-11-24 18:26:09",
+      "created_at": 1764008769000
     },
     {
       "id": 46032539,
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "score": 495,
+      "score": 693,
       "author": "mrdosija",
       "created": "2025-11-24 10:40:22",
       "created_at": 1763980822000
     },
     {
-      "id": 46013132,
-      "title": "Serflings is a remake of The Settlers 1",
-      "link": "https://www.simpleguide.net/serflings.xhtml",
-      "score": 55,
-      "author": "doener",
-      "created": "2025-11-22 08:26:13",
-      "created_at": 1763799973000
+      "id": 46037324,
+      "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
+      "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
+      "score": 39,
+      "author": "speckx",
+      "created": "2025-11-24 18:30:48",
+      "created_at": 1764009048000
     },
     {
-      "id": 46024541,
-      "title": "We stopped roadmap work for a week and fixed bugs",
-      "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
-      "score": 145,
-      "author": "lalitmaganti",
-      "created": "2025-11-23 16:06:46",
-      "created_at": 1763914006000
+      "id": 46019898,
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "score": 54,
+      "author": "JumpCrisscross",
+      "created": "2025-11-23 01:25:17",
+      "created_at": 1763861117000
     },
     {
-      "id": 45981441,
-      "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
-      "link": "https://arxiv.org/abs/2510.08874",
-      "score": 59,
-      "author": "matt_d",
-      "created": "2025-11-19 16:22:32",
-      "created_at": 1763569352000
+      "id": 45980474,
+      "title": "Moving from OpenBSD to FreeBSD for firewalls",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "score": 90,
+      "author": "zdw",
+      "created": "2025-11-19 15:07:35",
+      "created_at": 1763564855000
     },
     {
-      "id": 45982280,
-      "title": "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
-      "link": "https://github.com/exactlab/vhpc",
-      "score": 21,
-      "author": "ciclotrone",
-      "created": "2025-11-19 17:33:45",
-      "created_at": 1763573625000
+      "id": 46037343,
+      "title": "The Bitter Lesson of LLM Extensions",
+      "link": "https://www.sawyerhood.com/blog/llm-extension",
+      "score": 37,
+      "author": "sawyerjhood",
+      "created": "2025-11-24 18:32:27",
+      "created_at": 1764009147000
     },
     {
-      "id": 45968827,
-      "title": "Disney Lost Roger Rabbit",
-      "link": "https://pluralistic.net/2025/11/18/im-not-bad/",
-      "score": 349,
-      "author": "leephillips",
-      "created": "2025-11-18 16:54:22",
-      "created_at": 1763484862000
+      "id": 46038047,
+      "title": "Claude Advanced Tool Use",
+      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "score": 17,
+      "author": "lebovic",
+      "created": "2025-11-24 19:21:35",
+      "created_at": 1764012095000
     }
   ],
   "code": 200,
