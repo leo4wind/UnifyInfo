@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-24T08:17:26.655Z"
+    "lastUpdate": "2025-11-24T12:22:43.803Z"
   },
   "data": [
+    {
+      "id": 46032539,
+      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+      "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+      "score": 228,
+      "author": "mrdosija",
+      "created": "2025-11-24 10:40:22",
+      "created_at": 1763980822000
+    },
     {
       "id": 46029932,
       "title": "RuBee",
       "link": "https://computer.rip/2025-11-22-RuBee.html",
-      "score": 160,
+      "score": 256,
       "author": "Sniffnoy",
       "created": "2025-11-24 03:08:10",
       "created_at": 1763953690000
@@ -19,82 +28,73 @@
       "id": 46025942,
       "title": "Fran Sans – font inspired by San Francisco light rail displays",
       "link": "https://emilysneddon.com/fran-sans-essay",
-      "score": 847,
+      "score": 947,
       "author": "ChrisArchitect",
       "created": "2025-11-23 18:20:27",
       "created_at": 1763922027000
     },
     {
-      "id": 46029889,
-      "title": "A free tool that stuns LLMs with thousands of invisible Unicode characters",
-      "link": "https://gibberifier.com",
-      "score": 75,
-      "author": "wdpatti",
-      "created": "2025-11-24 03:00:31",
-      "created_at": 1763953231000
-    },
-    {
-      "id": 46029699,
-      "title": "Ask HN: Hearing aid wearers, what's hot?",
-      "link": "",
-      "score": 151,
-      "author": "pugworthy",
-      "created": "2025-11-24 02:25:39",
-      "created_at": 1763951139000
+      "id": 46024541,
+      "title": "We stopped roadmap work for a week and fixed bugs",
+      "link": "https://lalitm.com/fixits-are-good-for-the-soul/",
+      "score": 61,
+      "author": "lalitmaganti",
+      "created": "2025-11-23 16:06:46",
+      "created_at": 1763914006000
     },
     {
       "id": 45968827,
       "title": "Disney Lost Roger Rabbit",
       "link": "https://pluralistic.net/2025/11/18/im-not-bad/",
-      "score": 107,
+      "score": 225,
       "author": "leephillips",
       "created": "2025-11-18 16:54:22",
       "created_at": 1763484862000
     },
     {
-      "id": 45977386,
-      "title": "The Rust Performance Book (2020)",
-      "link": "https://nnethercote.github.io/perf-book/",
-      "score": 91,
-      "author": "vinhnx",
-      "created": "2025-11-19 09:08:10",
-      "created_at": 1763543290000
-    },
-    {
-      "id": 46031208,
-      "title": "Show HN: Syd – An offline-first, AI-augmented workstation for blue teams",
-      "link": "https://www.sydsec.co.uk",
-      "score": 6,
-      "author": "paul2495",
-      "created": "2025-11-24 07:11:38",
-      "created_at": 1763968298000
-    },
-    {
       "id": 46027216,
       "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
       "link": "https://microcad.xyz/",
-      "score": 176,
+      "score": 265,
       "author": "todsacerdoti",
       "created": "2025-11-23 20:51:22",
       "created_at": 1763931082000
     },
     {
-      "id": 46025721,
-      "title": "Native Secure Enclave backed SSH keys on macOS",
-      "link": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
-      "score": 372,
-      "author": "arianvanp",
-      "created": "2025-11-23 17:55:11",
-      "created_at": 1763920511000
+      "id": 46029929,
+      "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
+      "link": "https://www.bbc.com/news/articles/c8676qpxgnqo",
+      "score": 97,
+      "author": "1659447091",
+      "created": "2025-11-24 03:07:07",
+      "created_at": 1763953627000
     },
     {
-      "id": 46029908,
-      "title": "The Cloudflare outage was a good thing",
-      "link": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
-      "score": 121,
-      "author": "radeeyate",
-      "created": "2025-11-24 03:04:10",
-      "created_at": 1763953450000
+      "id": 45977386,
+      "title": "The Rust Performance Book (2020)",
+      "link": "https://nnethercote.github.io/perf-book/",
+      "score": 138,
+      "author": "vinhnx",
+      "created": "2025-11-19 09:08:10",
+      "created_at": 1763543290000
+    },
+    {
+      "id": 46029699,
+      "title": "Ask HN: Hearing aid wearers, what's hot?",
+      "link": "",
+      "score": 208,
+      "author": "pugworthy",
+      "created": "2025-11-24 02:25:39",
+      "created_at": 1763951139000
+    },
+    {
+      "id": 46032513,
+      "title": "General principles for the use of AI at CERN",
+      "link": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
+      "score": 15,
+      "author": "singiamtel",
+      "created": "2025-11-24 10:37:05",
+      "created_at": 1763980625000
     }
   ],
   "code": 200,
