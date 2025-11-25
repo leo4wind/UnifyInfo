@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-25T12:25:54.019Z"
+    "lastUpdate": "2025-11-25T16:15:21.580Z"
   },
   "data": [
-    {
-      "id": 46025942,
-      "title": "Fran Sans – font inspired by San Francisco light rail displays",
-      "link": "https://emilysneddon.com/fran-sans-essay",
-      "score": 1138,
-      "author": "ChrisArchitect",
-      "created": "2025-11-23 18:20:27",
-      "created_at": 1763922027000
-    },
     {
       "id": 46037626,
       "title": "Pebble Watch software is now open source",
       "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 1021,
+      "score": 1152,
       "author": "Larrikin",
       "created": "2025-11-24 18:52:12",
       "created_at": 1764010332000
     },
     {
+      "id": 46025942,
+      "title": "Fran Sans – font inspired by San Francisco light rail displays",
+      "link": "https://emilysneddon.com/fran-sans-essay",
+      "score": 1143,
+      "author": "ChrisArchitect",
+      "created": "2025-11-23 18:20:27",
+      "created_at": 1763922027000
+    },
+    {
       "id": 46037637,
       "title": "Claude Opus 4.5",
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "score": 977,
+      "score": 1041,
       "author": "adocomplete",
       "created": "2025-11-24 18:53:05",
       "created_at": 1764010385000
@@ -37,16 +37,34 @@
       "id": 46032539,
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "score": 955,
+      "score": 973,
       "author": "mrdosija",
       "created": "2025-11-24 10:40:22",
       "created_at": 1763980822000
     },
     {
+      "id": 46038099,
+      "title": "Unpowered SSDs slowly lose data",
+      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+      "score": 618,
+      "author": "amichail",
+      "created": "2025-11-24 19:25:25",
+      "created_at": 1764012325000
+    },
+    {
+      "id": 46038047,
+      "title": "Claude Advanced Tool Use",
+      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "score": 577,
+      "author": "lebovic",
+      "created": "2025-11-24 19:21:35",
+      "created_at": 1764012095000
+    },
+    {
       "id": 46036217,
       "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
       "link": "https://mamot.fr/@LaQuadrature/115581775965025042",
-      "score": 566,
+      "score": 571,
       "author": "nabakin",
       "created": "2025-11-24 17:00:07",
       "created_at": 1764003607000
@@ -61,28 +79,10 @@
       "created_at": 1763940303000
     },
     {
-      "id": 46038047,
-      "title": "Claude Advanced Tool Use",
-      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 525,
-      "author": "lebovic",
-      "created": "2025-11-24 19:21:35",
-      "created_at": 1764012095000
-    },
-    {
-      "id": 46038099,
-      "title": "Unpowered SSDs slowly lose data",
-      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 510,
-      "author": "amichail",
-      "created": "2025-11-24 19:25:25",
-      "created_at": 1764012325000
-    },
-    {
       "id": 46027833,
       "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
       "link": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
-      "score": 484,
+      "score": 491,
       "author": "bookofjoe",
       "created": "2025-11-23 22:06:44",
       "created_at": 1763935604000

@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-25T12:25:54.123Z"
+    "lastUpdate": "2025-11-25T16:15:21.831Z"
   },
   "data": [
     {
-      "id": 46037626,
-      "title": "Pebble Watch software is now open source",
-      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 1021,
-      "author": "Larrikin",
-      "created": "2025-11-24 18:52:12",
-      "created_at": 1764010332000
+      "id": 46045972,
+      "title": "Apt Rust requirement raises questions",
+      "link": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/",
+      "score": 115,
+      "author": "todsacerdoti",
+      "created": "2025-11-25 14:18:01",
+      "created_at": 1764080281000
     },
     {
-      "id": 46042946,
-      "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
-      "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
-      "score": 147,
-      "author": "todsacerdoti",
-      "created": "2025-11-25 06:35:59",
-      "created_at": 1764052559000
+      "id": 46045987,
+      "title": "Launch HN: Onyx (YC W24) – The open-source chat UI",
+      "link": "",
+      "score": 53,
+      "author": "Weves",
+      "created": "2025-11-25 14:20:30",
+      "created_at": 1764080430000
     },
     {
       "id": 46042928,
       "title": "Human brains are preconfigured with instructions for understanding the world",
       "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
-      "score": 156,
+      "score": 277,
       "author": "XzetaU8",
       "created": "2025-11-25 06:31:31",
       "created_at": 1764052291000
     },
     {
+      "id": 46037626,
+      "title": "Pebble Watch software is now open source",
+      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "score": 1152,
+      "author": "Larrikin",
+      "created": "2025-11-24 18:52:12",
+      "created_at": 1764010332000
+    },
+    {
+      "id": 45981514,
+      "title": "Meta Segment Anything Model 3",
+      "link": "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1",
+      "score": 115,
+      "author": "alcinos",
+      "created": "2025-11-19 16:27:31",
+      "created_at": 1763569651000
+    },
+    {
+      "id": 46042946,
+      "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
+      "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
+      "score": 224,
+      "author": "todsacerdoti",
+      "created": "2025-11-25 06:35:59",
+      "created_at": 1764052559000
+    },
+    {
+      "id": 46045039,
+      "title": "Making Crash Bandicoot (2011)",
+      "link": "https://all-things-andy-gavin.com/video-games/making-crash/",
+      "score": 100,
+      "author": "davikr",
+      "created": "2025-11-25 12:05:39",
+      "created_at": 1764072339000
+    },
+    {
       "id": 46038099,
       "title": "Unpowered SSDs slowly lose data",
       "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 510,
+      "score": 618,
       "author": "amichail",
       "created": "2025-11-24 19:25:25",
       "created_at": 1764012325000
     },
     {
-      "id": 46038047,
-      "title": "Claude Advanced Tool Use",
-      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 525,
-      "author": "lebovic",
-      "created": "2025-11-24 19:21:35",
-      "created_at": 1764012095000
+      "id": 46045661,
+      "title": "Brain has five 'eras' with adult mode not starting until early 30s",
+      "link": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
+      "score": 104,
+      "author": "hackernj",
+      "created": "2025-11-25 13:38:12",
+      "created_at": 1764077892000
     },
     {
-      "id": 45982875,
-      "title": "Broccoli Man, Remastered",
-      "link": "https://mbleigh.dev/posts/broccoli-man-remastered/",
-      "score": 12,
-      "author": "mbleigh",
-      "created": "2025-11-19 18:16:53",
-      "created_at": 1763576213000
-    },
-    {
-      "id": 46036908,
-      "title": "Show HN: I built an interactive HN Simulator",
-      "link": "https://news.ysimulator.run/news",
-      "score": 365,
-      "author": "johnsillings",
-      "created": "2025-11-24 17:52:43",
-      "created_at": 1764006763000
-    },
-    {
-      "id": 46009851,
-      "title": "Using an Array of Needles to Create Solid Knitted Shapes",
-      "link": "https://dl.acm.org/doi/10.1145/3746059.3747759",
-      "score": 20,
-      "author": "PaulHoule",
-      "created": "2025-11-21 22:36:24",
-      "created_at": 1763764584000
-    },
-    {
-      "id": 46009935,
-      "title": "How the Atomic Tests Looked Like from Los Angeles",
-      "link": "https://www.amusingplanet.com/2016/09/how-atomic-tests-looked-like-from-los.html",
-      "score": 63,
-      "author": "ohjeez",
-      "created": "2025-11-21 22:45:53",
-      "created_at": 1763765153000
-    },
-    {
-      "id": 46036895,
-      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
-      "link": "https://github.com/Swordfish90/cool-retro-term",
-      "score": 247,
-      "author": "michalpleban",
-      "created": "2025-11-24 17:52:01",
-      "created_at": 1764006721000
+      "id": 46003606,
+      "title": "Nearby peer discovery without GPS using environmental fingerprints",
+      "link": "https://www.svendewaerhert.com/blog/nearby-peer-discovery/",
+      "score": 35,
+      "author": "waerhert",
+      "created": "2025-11-21 11:47:38",
+      "created_at": 1763725658000
     }
   ],
   "code": 200,
