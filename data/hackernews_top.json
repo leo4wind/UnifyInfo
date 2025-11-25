@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-25T04:18:01.623Z"
+    "lastUpdate": "2025-11-25T08:16:53.080Z"
   },
   "data": [
+    {
+      "id": 46042946,
+      "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
+      "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
+      "score": 42,
+      "author": "todsacerdoti",
+      "created": "2025-11-25 06:35:59",
+      "created_at": 1764052559000
+    },
     {
       "id": 46037626,
       "title": "Pebble Watch software is now 100% open source",
       "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 758,
+      "score": 904,
       "author": "Larrikin",
       "created": "2025-11-24 18:52:12",
       "created_at": 1764010332000
     },
     {
+      "id": 46042928,
+      "title": "Human brains are preconfigured with instructions for understanding the world",
+      "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+      "score": 46,
+      "author": "XzetaU8",
+      "created": "2025-11-25 06:31:31",
+      "created_at": 1764052291000
+    },
+    {
+      "id": 46042969,
+      "title": "What you can get for the price of a Netflix subscription",
+      "link": "https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription",
+      "score": 25,
+      "author": "nmil",
+      "created": "2025-11-25 06:39:36",
+      "created_at": 1764052776000
+    },
+    {
       "id": 46038099,
       "title": "Unpowered SSDs slowly lose data",
       "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 261,
+      "score": 393,
       "author": "amichail",
       "created": "2025-11-24 19:25:25",
       "created_at": 1764012325000
     },
     {
+      "id": 46015095,
+      "title": "A million ways to die from a data race in Go",
+      "link": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
+      "score": 65,
+      "author": "ingve",
+      "created": "2025-11-22 14:33:57",
+      "created_at": 1763822037000
+    },
+    {
       "id": 46038047,
       "title": "Claude Advanced Tool Use",
       "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 396,
+      "score": 473,
       "author": "lebovic",
       "created": "2025-11-24 19:21:35",
       "created_at": 1764012095000
     },
     {
-      "id": 46036895,
-      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
-      "link": "https://github.com/Swordfish90/cool-retro-term",
-      "score": 183,
-      "author": "michalpleban",
-      "created": "2025-11-24 17:52:01",
-      "created_at": 1764006721000
+      "id": 46042800,
+      "title": "Why I (Still) Love Linux ?",
+      "link": "https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/",
+      "score": 19,
+      "author": "signa11",
+      "created": "2025-11-25 06:07:34",
+      "created_at": 1764050854000
     },
     {
       "id": 46036908,
       "title": "Show HN: I built an interactive HN Simulator",
       "link": "https://news.ysimulator.run/news",
-      "score": 205,
+      "score": 281,
       "author": "johnsillings",
       "created": "2025-11-24 17:52:43",
       "created_at": 1764006763000
     },
     {
-      "id": 46031220,
-      "title": "Build a Compiler in Five Projects",
-      "link": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
-      "score": 49,
-      "author": "azhenley",
-      "created": "2025-11-24 07:14:55",
-      "created_at": 1763968495000
-    },
-    {
-      "id": 46037637,
-      "title": "Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "score": 823,
-      "author": "adocomplete",
-      "created": "2025-11-24 18:53:05",
-      "created_at": 1764010385000
-    },
-    {
-      "id": 46006104,
-      "title": "Show HN: OCR Arena – A playground for OCR models",
-      "link": "https://www.ocrarena.ai/battle",
-      "score": 86,
-      "author": "kbyatnal",
-      "created": "2025-11-21 16:44:45",
-      "created_at": 1763743485000
-    },
-    {
-      "id": 46019898,
-      "title": "Three Years from GPT-3 to Gemini 3",
-      "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-      "score": 213,
-      "author": "JumpCrisscross",
-      "created": "2025-11-23 01:25:17",
-      "created_at": 1763861117000
-    },
-    {
-      "id": 45980474,
-      "title": "Moving from OpenBSD to FreeBSD for firewalls",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
-      "score": 157,
-      "author": "zdw",
-      "created": "2025-11-19 15:07:35",
-      "created_at": 1763564855000
+      "id": 46036895,
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
+      "link": "https://github.com/Swordfish90/cool-retro-term",
+      "score": 221,
+      "author": "michalpleban",
+      "created": "2025-11-24 17:52:01",
+      "created_at": 1764006721000
     }
   ],
   "code": 200,
