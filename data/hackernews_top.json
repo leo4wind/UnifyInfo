@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-24T20:13:32.465Z"
+    "lastUpdate": "2025-11-25T00:53:19.950Z"
   },
   "data": [
     {
       "id": 46037626,
       "title": "Pebble Watch software is now 100% open source",
       "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 223,
+      "score": 641,
       "author": "Larrikin",
       "created": "2025-11-24 18:52:12",
       "created_at": 1764010332000
     },
     {
-      "id": 46037637,
-      "title": "Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "score": 349,
-      "author": "adocomplete",
-      "created": "2025-11-24 18:53:05",
-      "created_at": 1764010385000
+      "id": 46038047,
+      "title": "Claude Advanced Tool Use",
+      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "score": 302,
+      "author": "lebovic",
+      "created": "2025-11-24 19:21:35",
+      "created_at": 1764012095000
     },
     {
-      "id": 46036895,
-      "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
-      "link": "https://github.com/Swordfish90/cool-retro-term",
-      "score": 72,
-      "author": "michalpleban",
-      "created": "2025-11-24 17:52:01",
-      "created_at": 1764006721000
-    },
-    {
-      "id": 46037267,
-      "title": "Mind-reading devices can now predict preconscious thoughts",
-      "link": "https://www.nature.com/articles/d41586-025-03714-0",
-      "score": 53,
-      "author": "srameshc",
-      "created": "2025-11-24 18:26:09",
-      "created_at": 1764008769000
+      "id": 46038099,
+      "title": "Unpowered SSDs slowly lose data",
+      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+      "score": 127,
+      "author": "amichail",
+      "created": "2025-11-24 19:25:25",
+      "created_at": 1764012325000
     },
     {
       "id": 46032539,
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "score": 693,
+      "score": 845,
       "author": "mrdosija",
       "created": "2025-11-24 10:40:22",
       "created_at": 1763980822000
     },
     {
-      "id": 46037324,
-      "title": "TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped",
-      "link": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
-      "score": 39,
-      "author": "speckx",
-      "created": "2025-11-24 18:30:48",
-      "created_at": 1764009048000
-    },
-    {
       "id": 46019898,
       "title": "Three Years from GPT-3 to Gemini 3",
       "link": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-      "score": 54,
+      "score": 168,
       "author": "JumpCrisscross",
       "created": "2025-11-23 01:25:17",
       "created_at": 1763861117000
     },
     {
+      "id": 46036895,
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of the old CRTs",
+      "link": "https://github.com/Swordfish90/cool-retro-term",
+      "score": 149,
+      "author": "michalpleban",
+      "created": "2025-11-24 17:52:01",
+      "created_at": 1764006721000
+    },
+    {
+      "id": 46037637,
+      "title": "Claude Opus 4.5",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "score": 722,
+      "author": "adocomplete",
+      "created": "2025-11-24 18:53:05",
+      "created_at": 1764010385000
+    },
+    {
+      "id": 45974732,
+      "title": "Neopets.com changed my life (2019)",
+      "link": "https://annastreetman.com/2019/05/19/how-neopets-com-changed-my-life/",
+      "score": 44,
+      "author": "bariumbitmap",
+      "created": "2025-11-19 01:24:12",
+      "created_at": 1763515452000
+    },
+    {
       "id": 45980474,
       "title": "Moving from OpenBSD to FreeBSD for firewalls",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
-      "score": 90,
+      "score": 136,
       "author": "zdw",
       "created": "2025-11-19 15:07:35",
       "created_at": 1763564855000
     },
     {
-      "id": 46037343,
-      "title": "The Bitter Lesson of LLM Extensions",
-      "link": "https://www.sawyerhood.com/blog/llm-extension",
-      "score": 37,
-      "author": "sawyerjhood",
-      "created": "2025-11-24 18:32:27",
-      "created_at": 1764009147000
-    },
-    {
-      "id": 46038047,
-      "title": "Claude Advanced Tool Use",
-      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 17,
-      "author": "lebovic",
-      "created": "2025-11-24 19:21:35",
-      "created_at": 1764012095000
+      "id": 46036908,
+      "title": "Show HN: I built an interactive HN Simulator",
+      "link": "https://news.ysimulator.run/news",
+      "score": 137,
+      "author": "johnsillings",
+      "created": "2025-11-24 17:52:43",
+      "created_at": 1764006763000
     }
   ],
   "code": 200,
