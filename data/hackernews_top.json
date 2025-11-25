@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-25T16:15:21.756Z"
+    "lastUpdate": "2025-11-25T20:13:11.209Z"
   },
   "data": [
     {
-      "id": 46045972,
-      "title": "Apt Rust requirement raises questions",
-      "link": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/",
-      "score": 115,
-      "author": "todsacerdoti",
-      "created": "2025-11-25 14:18:01",
-      "created_at": 1764080281000
+      "id": 46048996,
+      "title": "Google Antigravity Exfiltrates Data",
+      "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+      "score": 244,
+      "author": "jjmaxwell4",
+      "created": "2025-11-25 18:31:16",
+      "created_at": 1764095476000
+    },
+    {
+      "id": 46049066,
+      "title": "Bad UX World Cup 2025",
+      "link": "https://badux.lol/",
+      "score": 40,
+      "author": "CharlesW",
+      "created": "2025-11-25 18:36:10",
+      "created_at": 1764095770000
+    },
+    {
+      "id": 46016902,
+      "title": "how to repurpose your old phone into a web server",
+      "link": "https://far.computer/how-to/",
+      "score": 69,
+      "author": "louismerlin",
+      "created": "2025-11-22 18:16:59",
+      "created_at": 1763835419000
+    },
+    {
+      "id": 46046916,
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "link": "https://bfl.ai/blog/flux-2",
+      "score": 152,
+      "author": "meetpateltech",
+      "created": "2025-11-25 15:47:14",
+      "created_at": 1764085634000
     },
     {
       "id": 46045987,
-      "title": "Launch HN: Onyx (YC W24) – The open-source chat UI",
+      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
       "link": "",
-      "score": 53,
+      "score": 122,
       "author": "Weves",
       "created": "2025-11-25 14:20:30",
       "created_at": 1764080430000
     },
     {
-      "id": 46042928,
-      "title": "Human brains are preconfigured with instructions for understanding the world",
-      "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
-      "score": 277,
-      "author": "XzetaU8",
-      "created": "2025-11-25 06:31:31",
-      "created_at": 1764052291000
-    },
-    {
-      "id": 46037626,
-      "title": "Pebble Watch software is now open source",
-      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 1152,
-      "author": "Larrikin",
-      "created": "2025-11-24 18:52:12",
-      "created_at": 1764010332000
-    },
-    {
-      "id": 45981514,
-      "title": "Meta Segment Anything Model 3",
-      "link": "https://ai.meta.com/blog/segment-anything-model-3/?_fb_noscript=1",
+      "id": 46048252,
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "link": "https://github.com/flowglad/flowglad",
       "score": 115,
-      "author": "alcinos",
-      "created": "2025-11-19 16:27:31",
-      "created_at": 1763569651000
+      "author": "agreeahmed",
+      "created": "2025-11-25 17:33:50",
+      "created_at": 1764092030000
     },
     {
-      "id": 46042946,
-      "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
-      "link": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
-      "score": 224,
-      "author": "todsacerdoti",
-      "created": "2025-11-25 06:35:59",
-      "created_at": 1764052559000
+      "id": 46003271,
+      "title": "The 101 of analog signal filtering (2024)",
+      "link": "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering",
+      "score": 78,
+      "author": "harperlee",
+      "created": "2025-11-21 10:54:15",
+      "created_at": 1763722455000
     },
     {
-      "id": 46045039,
-      "title": "Making Crash Bandicoot (2011)",
-      "link": "https://all-things-andy-gavin.com/video-games/making-crash/",
-      "score": 100,
-      "author": "davikr",
-      "created": "2025-11-25 12:05:39",
-      "created_at": 1764072339000
+      "id": 46045085,
+      "title": "Trillions spent and big software projects are still failing",
+      "link": "https://spectrum.ieee.org/it-management-software-failures",
+      "score": 156,
+      "author": "pseudolus",
+      "created": "2025-11-25 12:14:11",
+      "created_at": 1764072851000
     },
     {
-      "id": 46038099,
-      "title": "Unpowered SSDs slowly lose data",
-      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 618,
-      "author": "amichail",
-      "created": "2025-11-24 19:25:25",
-      "created_at": 1764012325000
-    },
-    {
-      "id": 46045661,
-      "title": "Brain has five 'eras' with adult mode not starting until early 30s",
-      "link": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
-      "score": 104,
-      "author": "hackernj",
-      "created": "2025-11-25 13:38:12",
-      "created_at": 1764077892000
-    },
-    {
-      "id": 46003606,
-      "title": "Nearby peer discovery without GPS using environmental fingerprints",
-      "link": "https://www.svendewaerhert.com/blog/nearby-peer-discovery/",
+      "id": 46049624,
+      "title": "IQ differences of identical twins reared apart are influenced by education",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0001691825003853",
       "score": 35,
-      "author": "waerhert",
-      "created": "2025-11-21 11:47:38",
-      "created_at": 1763725658000
+      "author": "wjb3",
+      "created": "2025-11-25 19:23:04",
+      "created_at": 1764098584000
+    },
+    {
+      "id": 46042810,
+      "title": "Jakarta is now the biggest city in the world",
+      "link": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+      "score": 96,
+      "author": "skx001",
+      "created": "2025-11-25 06:09:05",
+      "created_at": 1764050945000
     }
   ],
   "code": 200,
