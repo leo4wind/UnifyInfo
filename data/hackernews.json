@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-26T16:14:15.261Z"
+    "lastUpdate": "2025-11-26T20:12:47.771Z"
   },
   "data": [
-    {
-      "id": 46037626,
-      "title": "Pebble Watch software is now open source",
-      "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 1225,
-      "author": "Larrikin",
-      "created": "2025-11-24 18:52:12",
-      "created_at": 1764010332000
-    },
-    {
-      "id": 46037637,
-      "title": "Claude Opus 4.5",
-      "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "score": 1091,
-      "author": "adocomplete",
-      "created": "2025-11-24 18:53:05",
-      "created_at": 1764010385000
-    },
     {
       "id": 46051340,
       "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
       "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "score": 836,
+      "score": 878,
       "author": "jaydenmilne",
       "created": "2025-11-25 22:04:31",
       "created_at": 1764108271000
@@ -37,7 +19,7 @@
       "id": 46038099,
       "title": "Unpowered SSDs slowly lose data",
       "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 741,
+      "score": 744,
       "author": "amichail",
       "created": "2025-11-24 19:25:25",
       "created_at": 1764012325000
@@ -46,7 +28,7 @@
       "id": 46048996,
       "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "score": 723,
+      "score": 731,
       "author": "jjmaxwell4",
       "created": "2025-11-25 18:31:16",
       "created_at": 1764095476000
@@ -55,46 +37,64 @@
       "id": 46038047,
       "title": "Claude Advanced Tool Use",
       "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 655,
+      "score": 658,
       "author": "lebovic",
       "created": "2025-11-24 19:21:35",
       "created_at": 1764012095000
     },
     {
-      "id": 46036217,
-      "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-      "link": "https://mamot.fr/@LaQuadrature/115581775965025042",
-      "score": 574,
-      "author": "nabakin",
-      "created": "2025-11-24 17:00:07",
-      "created_at": 1764003607000
-    },
-    {
       "id": 46045085,
       "title": "Trillions spent and big software projects are still failing",
       "link": "https://spectrum.ieee.org/it-management-software-failures",
-      "score": 546,
+      "score": 583,
       "author": "pseudolus",
       "created": "2025-11-25 12:14:11",
       "created_at": 1764072851000
     },
     {
-      "id": 46036908,
-      "title": "Show HN: I built an interactive HN Simulator",
-      "link": "https://news.ysimulator.run/news",
-      "score": 506,
-      "author": "johnsillings",
-      "created": "2025-11-24 17:52:43",
-      "created_at": 1764006763000
+      "id": 46057488,
+      "title": "Voyager 1 Is About to Reach One Light-Day from Earth",
+      "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
+      "score": 514,
+      "author": "ashishgupta2209",
+      "created": "2025-11-26 14:02:46",
+      "created_at": 1764165766000
     },
     {
       "id": 46038143,
       "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
       "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-      "score": 468,
+      "score": 472,
       "author": "speckx",
       "created": "2025-11-24 19:29:12",
       "created_at": 1764012552000
+    },
+    {
+      "id": 46058065,
+      "title": "OpenAI needs to raise at least $207B by 2030",
+      "link": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
+      "score": 463,
+      "author": "akira_067",
+      "created": "2025-11-26 15:06:37",
+      "created_at": 1764169597000
+    },
+    {
+      "id": 46055944,
+      "title": "I don't care how well your \"AI\" works",
+      "link": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
+      "score": 452,
+      "author": "todsacerdoti",
+      "created": "2025-11-26 10:08:20",
+      "created_at": 1764151700000
+    },
+    {
+      "id": 46042928,
+      "title": "Human brains are preconfigured with instructions for understanding the world",
+      "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+      "score": 444,
+      "author": "XzetaU8",
+      "created": "2025-11-25 06:31:31",
+      "created_at": 1764052291000
     }
   ],
   "code": 200,
