@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-26T04:17:42.062Z"
+    "lastUpdate": "2025-11-26T08:16:28.444Z"
   },
   "data": [
     {
       "id": 46037626,
       "title": "Pebble Watch software is now open source",
       "link": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "score": 1211,
+      "score": 1215,
       "author": "Larrikin",
       "created": "2025-11-24 18:52:12",
       "created_at": 1764010332000
@@ -19,7 +19,7 @@
       "id": 46037637,
       "title": "Claude Opus 4.5",
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
-      "score": 1081,
+      "score": 1087,
       "author": "adocomplete",
       "created": "2025-11-24 18:53:05",
       "created_at": 1764010385000
@@ -28,7 +28,7 @@
       "id": 46032539,
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "score": 989,
+      "score": 994,
       "author": "mrdosija",
       "created": "2025-11-24 10:40:22",
       "created_at": 1763980822000
@@ -37,7 +37,7 @@
       "id": 46038099,
       "title": "Unpowered SSDs slowly lose data",
       "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 724,
+      "score": 731,
       "author": "amichail",
       "created": "2025-11-24 19:25:25",
       "created_at": 1764012325000
@@ -46,7 +46,7 @@
       "id": 46038047,
       "title": "Claude Advanced Tool Use",
       "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 651,
+      "score": 653,
       "author": "lebovic",
       "created": "2025-11-24 19:21:35",
       "created_at": 1764012095000
@@ -55,7 +55,7 @@
       "id": 46048996,
       "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "score": 592,
+      "score": 646,
       "author": "jjmaxwell4",
       "created": "2025-11-25 18:31:16",
       "created_at": 1764095476000
@@ -70,10 +70,19 @@
       "created_at": 1764003607000
     },
     {
+      "id": 46051340,
+      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+      "score": 564,
+      "author": "jaydenmilne",
+      "created": "2025-11-25 22:04:31",
+      "created_at": 1764108271000
+    },
+    {
       "id": 46036908,
       "title": "Show HN: I built an interactive HN Simulator",
       "link": "https://news.ysimulator.run/news",
-      "score": 487,
+      "score": 494,
       "author": "johnsillings",
       "created": "2025-11-24 17:52:43",
       "created_at": 1764006763000
@@ -86,15 +95,6 @@
       "author": "speckx",
       "created": "2025-11-24 19:29:12",
       "created_at": 1764012552000
-    },
-    {
-      "id": 46042928,
-      "title": "Human brains are preconfigured with instructions for understanding the world",
-      "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
-      "score": 423,
-      "author": "XzetaU8",
-      "created": "2025-11-25 06:31:31",
-      "created_at": 1764052291000
     }
   ],
   "code": 200,

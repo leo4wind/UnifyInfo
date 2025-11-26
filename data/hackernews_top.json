@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-26T04:17:42.236Z"
+    "lastUpdate": "2025-11-26T08:16:28.605Z"
   },
   "data": [
     {
       "id": 46051449,
       "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
       "link": "https://www.mikeayles.com/#kidoom",
-      "score": 116,
+      "score": 208,
       "author": "mikeayles",
       "created": "2025-11-25 22:13:35",
       "created_at": 1764108815000
     },
     {
-      "id": 46047053,
-      "title": "Brand New Layouts with CSS Subgrid",
-      "link": "https://www.joshwcomeau.com/css/subgrid/",
-      "score": 64,
-      "author": "joshwcomeau",
-      "created": "2025-11-25 15:57:54",
-      "created_at": 1764086274000
-    },
-    {
       "id": 46021577,
       "title": "Surprisingly, Emacs on Android is pretty good",
       "link": "https://kristofferbalintona.me/posts/202505291438/",
-      "score": 51,
+      "score": 114,
       "author": "harryday",
       "created": "2025-11-23 07:40:26",
       "created_at": 1763883626000
     },
     {
+      "id": 45984864,
+      "title": "Copyparty, the FOSS file server [video]",
+      "link": "https://www.youtube.com/watch?v=15_-hgsX2V0",
+      "score": 24,
+      "author": "franczesko",
+      "created": "2025-11-19 20:44:16",
+      "created_at": 1763585056000
+    },
+    {
       "id": 46053566,
       "title": "Space Truckin' – The Nostromo (2012)",
       "link": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
-      "score": 22,
+      "score": 74,
       "author": "exvi",
       "created": "2025-11-26 02:31:41",
       "created_at": 1764124301000
     },
     {
-      "id": 46053385,
-      "title": "Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery",
-      "link": "https://wordpress.org/plugins/bandwidth-saver/",
-      "score": 23,
-      "author": "cr1st1an",
-      "created": "2025-11-26 02:05:36",
-      "created_at": 1764122736000
-    },
-    {
       "id": 46049932,
       "title": "A new bridge links the math of infinity to computer science",
       "link": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
-      "score": 141,
+      "score": 172,
       "author": "digital55",
       "created": "2025-11-25 19:53:20",
       "created_at": 1764100400000
     },
     {
+      "id": 46016579,
+      "title": "Java Decompiler",
+      "link": "http://java-decompiler.github.io",
+      "score": 59,
+      "author": "mooreds",
+      "created": "2025-11-22 17:44:12",
+      "created_at": 1763833452000
+    },
+    {
       "id": 46048252,
       "title": "Show HN: We built an open source, zero webhooks payment processor",
       "link": "https://github.com/flowglad/flowglad",
-      "score": 248,
+      "score": 294,
       "author": "agreeahmed",
       "created": "2025-11-25 17:33:50",
       "created_at": 1764092030000
     },
     {
-      "id": 46053017,
-      "title": "Space: 1999 – Special Effects Techniques",
-      "link": "https://catacombs.space1999.net/main/pguide/upsfx.html",
-      "score": 19,
-      "author": "exvi",
-      "created": "2025-11-26 01:19:17",
-      "created_at": 1764119957000
-    },
-    {
-      "id": 46053787,
-      "title": "The myth of reflected power (2017)",
-      "link": "https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/",
-      "score": 7,
-      "author": "pera",
-      "created": "2025-11-26 03:05:29",
-      "created_at": 1764126329000
+      "id": 46052685,
+      "title": "CS234: Reinforcement Learning Winter 2025",
+      "link": "https://web.stanford.edu/class/cs234/",
+      "score": 86,
+      "author": "jonbaer",
+      "created": "2025-11-26 00:33:29",
+      "created_at": 1764117209000
     },
     {
       "id": 46045085,
       "title": "Trillions spent and big software projects are still failing",
       "link": "https://spectrum.ieee.org/it-management-software-failures",
-      "score": 348,
+      "score": 416,
       "author": "pseudolus",
       "created": "2025-11-25 12:14:11",
       "created_at": 1764072851000
+    },
+    {
+      "id": 46047053,
+      "title": "New layouts with CSS Subgrid",
+      "link": "https://www.joshwcomeau.com/css/subgrid/",
+      "score": 174,
+      "author": "joshwcomeau",
+      "created": "2025-11-25 15:57:54",
+      "created_at": 1764086274000
     }
   ],
   "code": 200,
