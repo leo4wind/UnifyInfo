@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-26T12:23:41.408Z"
+    "lastUpdate": "2025-11-26T16:14:15.344Z"
   },
   "data": [
     {
-      "id": 46056197,
-      "title": "Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks",
-      "link": "https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks",
-      "score": 53,
-      "author": "remyduthu",
-      "created": "2025-11-26 11:00:49",
-      "created_at": 1764154849000
+      "id": 46057488,
+      "title": "Voyager 1 Is About to Reach One Light-Day from Earth",
+      "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
+      "score": 201,
+      "author": "ashishgupta2209",
+      "created": "2025-11-26 14:02:46",
+      "created_at": 1764165766000
+    },
+    {
+      "id": 46058065,
+      "title": "OpenAI needs to raise at least $207B by 2030 so it can continue to lose money",
+      "link": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
+      "score": 201,
+      "author": "akira_067",
+      "created": "2025-11-26 15:06:37",
+      "created_at": 1764169597000
+    },
+    {
+      "id": 46055944,
+      "title": "I don't care how well your \"AI\" works",
+      "link": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
+      "score": 291,
+      "author": "todsacerdoti",
+      "created": "2025-11-26 10:08:20",
+      "created_at": 1764151700000
+    },
+    {
+      "id": 46055935,
+      "title": "A cell so minimal that it challenges definitions of life",
+      "link": "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/",
+      "score": 120,
+      "author": "ibobev",
+      "created": "2025-11-26 10:06:41",
+      "created_at": 1764151601000
     },
     {
       "id": 46055421,
       "title": "Statistical Process Control in Python",
       "link": "https://timothyfraser.com/sigma/statistical-process-control-in-python.html",
-      "score": 61,
+      "score": 130,
       "author": "lifeisstillgood",
       "created": "2025-11-26 08:40:29",
       "created_at": 1764146429000
     },
     {
+      "id": 46058361,
+      "title": "MIT study finds AI can replace 11.7% of U.S. workforce",
+      "link": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "score": 35,
+      "author": "tiahura",
+      "created": "2025-11-26 15:32:06",
+      "created_at": 1764171126000
+    },
+    {
+      "id": 46058531,
+      "title": "KDE Plasma 6.8 Will Go Wayland-Exclusive in Dropping X11 Session Support",
+      "link": "https://www.phoronix.com/news/KDE-Plasma-68-Wayland-Exclusive",
+      "score": 26,
+      "author": "mikece",
+      "created": "2025-11-26 15:44:09",
+      "created_at": 1764171849000
+    },
+    {
+      "id": 46005581,
+      "title": "Is DWPD Still a Useful SSD Spec?",
+      "link": "https://klarasystems.com/articles/is-dwpd-still-useful-ssd-spec/",
+      "score": 28,
+      "author": "zdw",
+      "created": "2025-11-21 15:47:20",
+      "created_at": 1763740040000
+    },
+    {
       "id": 46051449,
       "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
       "link": "https://www.mikeayles.com/#kidoom",
-      "score": 260,
+      "score": 291,
       "author": "mikeayles",
       "created": "2025-11-25 22:13:35",
       "created_at": 1764108815000
     },
     {
-      "id": 46055177,
-      "title": "Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos",
-      "link": "https://arxiv.org/abs/2511.19936",
-      "score": 36,
-      "author": "50kIters",
-      "created": "2025-11-26 07:55:49",
-      "created_at": 1764143749000
-    },
-    {
-      "id": 46021577,
-      "title": "Surprisingly, Emacs on Android is pretty good",
-      "link": "https://kristofferbalintona.me/posts/202505291438/",
-      "score": 148,
-      "author": "harryday",
-      "created": "2025-11-23 07:40:26",
-      "created_at": 1763883626000
-    },
-    {
-      "id": 45984864,
-      "title": "Copyparty, the FOSS file server [video]",
-      "link": "https://www.youtube.com/watch?v=15_-hgsX2V0",
-      "score": 91,
-      "author": "franczesko",
-      "created": "2025-11-19 20:44:16",
-      "created_at": 1763585056000
-    },
-    {
-      "id": 46053566,
-      "title": "Space Truckin' – The Nostromo (2012)",
-      "link": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
-      "score": 104,
-      "author": "exvi",
-      "created": "2025-11-26 02:31:41",
-      "created_at": 1764124301000
-    },
-    {
-      "id": 46049932,
-      "title": "A new bridge links the math of infinity to computer science",
-      "link": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
-      "score": 195,
-      "author": "digital55",
-      "created": "2025-11-25 19:53:20",
-      "created_at": 1764100400000
-    },
-    {
-      "id": 46045085,
-      "title": "Trillions spent and big software projects are still failing",
-      "link": "https://spectrum.ieee.org/it-management-software-failures",
-      "score": 476,
-      "author": "pseudolus",
-      "created": "2025-11-25 12:14:11",
-      "created_at": 1764072851000
+      "id": 46056757,
+      "title": "Qiskit open-source SDK for working with quantum computers",
+      "link": "https://github.com/Qiskit/qiskit",
+      "score": 14,
+      "author": "thinkingemote",
+      "created": "2025-11-26 12:26:49",
+      "created_at": 1764160009000
     }
   ],
   "code": 200,
