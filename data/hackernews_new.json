@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-27T08:17:21.487Z"
+    "lastUpdate": "2025-11-27T12:22:49.574Z"
   },
   "data": [
     {
-      "id": 46066522,
-      "title": "Mixpanel Security Breach",
-      "link": "https://mixpanel.com/blog/sms-security-incident/",
-      "score": 27,
-      "author": "jaredwiener",
-      "created": "2025-11-27 07:02:40",
-      "created_at": 1764226960000
+      "id": 46068015,
+      "title": "How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes",
+      "link": "https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/",
+      "score": 35,
+      "author": "PikelEmi",
+      "created": "2025-11-27 10:54:02",
+      "created_at": 1764240842000
+    },
+    {
+      "id": 46066280,
+      "title": "Linux Kernel Explorer",
+      "link": "https://reverser.dev/linux-kernel-explorer",
+      "score": 220,
+      "author": "tanelpoder",
+      "created": "2025-11-27 06:17:37",
+      "created_at": 1764224257000
     },
     {
       "id": 46064757,
       "title": "Penpot: The Open-Source Figma",
       "link": "https://github.com/penpot/penpot",
-      "score": 203,
+      "score": 401,
       "author": "selvan",
       "created": "2025-11-27 02:14:36",
       "created_at": 1764209676000
     },
     {
-      "id": 46065034,
-      "title": "DIY NAS: 2026 Edition",
-      "link": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-      "score": 142,
-      "author": "sashk",
-      "created": "2025-11-27 02:54:23",
-      "created_at": 1764212063000
-    },
-    {
-      "id": 46057488,
-      "title": "Voyager 1 is about to reach one light-day from Earth",
-      "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-      "score": 885,
-      "author": "ashishgupta2209",
-      "created": "2025-11-26 14:02:46",
-      "created_at": 1764165766000
-    },
-    {
-      "id": 46065817,
-      "title": "Music eases surgery and speeds recovery, study finds",
-      "link": "https://www.bbc.com/news/articles/c231dv9zpz3o",
-      "score": 43,
-      "author": "1659447091",
-      "created": "2025-11-27 04:55:57",
-      "created_at": 1764219357000
-    },
-    {
-      "id": 46039387,
-      "title": "Willis Whitfield: A simple man with a simple solution that changed the world",
-      "link": "https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/",
-      "score": 46,
-      "author": "rbanffy",
-      "created": "2025-11-24 21:12:25",
-      "created_at": 1764018745000
-    },
-    {
-      "id": 46039106,
-      "title": "Interactive λ-Reduction",
-      "link": "https://deltanets.org/",
-      "score": 6,
-      "author": "jy14898",
-      "created": "2025-11-24 20:48:18",
-      "created_at": 1764017298000
-    },
-    {
       "id": 46066695,
       "title": "Ray Marching Soft Shadows in 2D",
       "link": "https://www.rykap.com/2020/09/23/distance-fields/",
-      "score": 7,
+      "score": 89,
       "author": "memalign",
       "created": "2025-11-27 07:31:24",
       "created_at": 1764228684000
     },
     {
-      "id": 46065698,
-      "title": "Coq: The World's Best Macro Assembler? [pdf] [2013]",
-      "link": "https://nickbenton.name/coqasm.pdf",
-      "score": 57,
-      "author": "addaon",
-      "created": "2025-11-27 04:34:56",
-      "created_at": 1764218096000
+      "id": 46065034,
+      "title": "DIY NAS: 2026 Edition",
+      "link": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+      "score": 220,
+      "author": "sashk",
+      "created": "2025-11-27 02:54:23",
+      "created_at": 1764212063000
+    },
+    {
+      "id": 46065817,
+      "title": "Music eases surgery and speeds recovery, study finds",
+      "link": "https://www.bbc.com/news/articles/c231dv9zpz3o",
+      "score": 94,
+      "author": "1659447091",
+      "created": "2025-11-27 04:55:57",
+      "created_at": 1764219357000
+    },
+    {
+      "id": 46039106,
+      "title": "Interactive λ-Reduction",
+      "link": "https://deltanets.org/",
+      "score": 45,
+      "author": "jy14898",
+      "created": "2025-11-24 20:48:18",
+      "created_at": 1764017298000
+    },
+    {
+      "id": 46039387,
+      "title": "Willis Whitfield: A simple man with a simple solution that changed the world",
+      "link": "https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/",
+      "score": 91,
+      "author": "rbanffy",
+      "created": "2025-11-24 21:12:25",
+      "created_at": 1764018745000
     },
     {
       "id": 46025911,
       "title": "G0-G3 corners, visualised: learn what \"Apple corners\" are",
       "link": "https://www.printables.com/model/1490911-g0-g3-corners-visualised-learn-what-apple-corners",
-      "score": 14,
+      "score": 56,
       "author": "dgroshev",
       "created": "2025-11-23 18:16:58",
       "created_at": 1763921818000
+    },
+    {
+      "id": 46061682,
+      "title": "S&box is now an open source game engine",
+      "link": "https://sbox.game/news/update-25-11-26",
+      "score": 336,
+      "author": "MaximilianEmel",
+      "created": "2025-11-26 19:58:27",
+      "created_at": 1764187107000
     }
   ],
   "code": 200,

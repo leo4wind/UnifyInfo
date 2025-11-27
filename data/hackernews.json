@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-27T08:17:21.270Z"
+    "lastUpdate": "2025-11-27T12:22:49.324Z"
   },
   "data": [
-    {
-      "id": 46051340,
-      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
-      "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "score": 944,
-      "author": "jaydenmilne",
-      "created": "2025-11-25 22:04:31",
-      "created_at": 1764108271000
-    },
     {
       "id": 46057488,
       "title": "Voyager 1 is about to reach one light-day from Earth",
       "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-      "score": 885,
+      "score": 955,
       "author": "ashishgupta2209",
       "created": "2025-11-26 14:02:46",
       "created_at": 1764165766000
     },
     {
+      "id": 46051340,
+      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+      "score": 953,
+      "author": "jaydenmilne",
+      "created": "2025-11-25 22:04:31",
+      "created_at": 1764108271000
+    },
+    {
       "id": 46048996,
       "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "score": 746,
+      "score": 751,
       "author": "jjmaxwell4",
       "created": "2025-11-25 18:31:16",
       "created_at": 1764095476000
@@ -37,43 +37,52 @@
       "id": 46063072,
       "title": "Bring bathroom doors back to hotels",
       "link": "https://bringbackdoors.com/",
-      "score": 620,
+      "score": 696,
       "author": "bariumbitmap",
       "created": "2025-11-26 22:26:36",
       "created_at": 1764195996000
     },
     {
-      "id": 46045085,
-      "title": "Trillions spent and big software projects are still failing",
-      "link": "https://spectrum.ieee.org/it-management-software-failures",
-      "score": 604,
-      "author": "pseudolus",
-      "created": "2025-11-25 12:14:11",
-      "created_at": 1764072851000
-    },
-    {
       "id": 46064571,
       "title": "Migrating the main Zig repository from GitHub to Codeberg",
       "link": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-      "score": 538,
+      "score": 666,
       "author": "todsacerdoti",
       "created": "2025-11-27 01:49:00",
       "created_at": 1764208140000
     },
     {
+      "id": 46045085,
+      "title": "Trillions spent and big software projects are still failing",
+      "link": "https://spectrum.ieee.org/it-management-software-failures",
+      "score": 605,
+      "author": "pseudolus",
+      "created": "2025-11-25 12:14:11",
+      "created_at": 1764072851000
+    },
+    {
       "id": 46058065,
       "title": "OpenAI needs to raise at least $207B by 2030",
       "link": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
-      "score": 530,
+      "score": 535,
       "author": "akira_067",
       "created": "2025-11-26 15:06:37",
       "created_at": 1764169597000
     },
     {
+      "id": 46062504,
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "score": 502,
+      "author": "cyclecount",
+      "created": "2025-11-26 21:25:36",
+      "created_at": 1764192336000
+    },
+    {
       "id": 46055944,
       "title": "I don't care how well your \"AI\" works",
       "link": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-      "score": 466,
+      "score": 471,
       "author": "todsacerdoti",
       "created": "2025-11-26 10:08:20",
       "created_at": 1764151700000
@@ -86,15 +95,6 @@
       "author": "STRiDEX",
       "created": "2025-11-25 16:21:24",
       "created_at": 1764087684000
-    },
-    {
-      "id": 46062504,
-      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-      "score": 424,
-      "author": "cyclecount",
-      "created": "2025-11-26 21:25:36",
-      "created_at": 1764192336000
     }
   ],
   "code": 200,
