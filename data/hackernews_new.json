@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-26T20:12:48.002Z"
+    "lastUpdate": "2025-11-27T00:53:08.470Z"
   },
   "data": [
     {
+      "id": 46063072,
+      "title": "Bring Bathroom Doors Back to Hotels",
+      "link": "https://bringbackdoors.com/",
+      "score": 198,
+      "author": "bariumbitmap",
+      "created": "2025-11-26 22:26:36",
+      "created_at": 1764195996000
+    },
+    {
       "id": 46057488,
-      "title": "Voyager 1 Is About to Reach One Light-Day from Earth",
+      "title": "Voyager 1 is about to reach one light-day from earth",
       "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-      "score": 514,
+      "score": 751,
       "author": "ashishgupta2209",
       "created": "2025-11-26 14:02:46",
       "created_at": 1764165766000
     },
     {
-      "id": 46061232,
-      "title": "API that auto-routes to the cheapest AI provider (OpenAI/Anthropic/Gemini)",
-      "link": "https://tokensaver.org/",
-      "score": 17,
-      "author": "h2o_wine",
-      "created": "2025-11-26 19:12:26",
-      "created_at": 1764184346000
+      "id": 46063272,
+      "title": "Running Unsupported iOS on Deprecated Devices",
+      "link": "https://nyansatan.github.io/run-unsupported-ios/",
+      "score": 50,
+      "author": "OuterVale",
+      "created": "2025-11-26 22:57:56",
+      "created_at": 1764197876000
     },
     {
-      "id": 46020193,
-      "title": "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
-      "link": "https://www.benjoffe.com/fast-date-64",
-      "score": 132,
-      "author": "benjoffe",
-      "created": "2025-11-23 02:27:16",
-      "created_at": 1763864836000
+      "id": 46061682,
+      "title": "S&box is now an open source game engine",
+      "link": "https://sbox.game/news/update-25-11-26",
+      "score": 205,
+      "author": "MaximilianEmel",
+      "created": "2025-11-26 19:58:27",
+      "created_at": 1764187107000
+    },
+    {
+      "id": 46063450,
+      "title": "C100 Developer Terminal",
+      "link": "https://caligra.com/",
+      "score": 23,
+      "author": "matthewsinclair",
+      "created": "2025-11-26 23:22:24",
+      "created_at": 1764199344000
     },
     {
       "id": 46060508,
       "title": "Gemini CLI Tips and Tricks for Agentic Coding",
       "link": "https://github.com/addyosmani/gemini-cli-tips",
-      "score": 57,
+      "score": 175,
       "author": "ayoisaiah",
       "created": "2025-11-26 18:08:02",
       "created_at": 1764180482000
     },
     {
-      "id": 46017830,
-      "title": "A Woman on a Mission to Photograph Every Species of Hummingbird",
-      "link": "https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world",
-      "score": 35,
-      "author": "zeech",
-      "created": "2025-11-22 20:11:25",
-      "created_at": 1763842285000
+      "id": 46062504,
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "score": 226,
+      "author": "cyclecount",
+      "created": "2025-11-26 21:25:36",
+      "created_at": 1764192336000
     },
     {
-      "id": 46055935,
-      "title": "A cell so minimal that it challenges definitions of life",
-      "link": "https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/",
-      "score": 188,
-      "author": "ibobev",
-      "created": "2025-11-26 10:06:41",
-      "created_at": 1764151601000
+      "id": 46020193,
+      "title": "A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)",
+      "link": "https://www.benjoffe.com/fast-date-64",
+      "score": 244,
+      "author": "benjoffe",
+      "created": "2025-11-23 02:27:16",
+      "created_at": 1763864836000
     },
     {
-      "id": 46016288,
-      "title": "Show HN: I turned algae into a bio-altimeter and put it on a weather balloon",
-      "link": "https://radi8.dev/blog/stratospore/",
-      "score": 57,
-      "author": "radeeyate",
-      "created": "2025-11-22 17:11:52",
-      "created_at": 1763831512000
+      "id": 46061239,
+      "title": "Alan.app – Add a Border to macOS Active Window",
+      "link": "https://tyler.io/2025/11/alan/",
+      "score": 71,
+      "author": "donatj",
+      "created": "2025-11-26 19:12:40",
+      "created_at": 1764184360000
     },
     {
-      "id": 46055421,
-      "title": "Statistical Process Control in Python",
-      "link": "https://timothyfraser.com/sigma/statistical-process-control-in-python.html",
-      "score": 168,
-      "author": "lifeisstillgood",
-      "created": "2025-11-26 08:40:29",
-      "created_at": 1764146429000
-    },
-    {
-      "id": 46059737,
-      "title": "DRAM prices are spiking, but I don't trust the industry's why",
-      "link": "https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/",
-      "score": 90,
-      "author": "binarycrusader",
-      "created": "2025-11-26 17:12:01",
-      "created_at": 1764177121000
-    },
-    {
-      "id": 46060935,
-      "title": "China Has Three Reusable Rockets Ready for Their Debut Flights",
-      "link": "https://www.china-in-space.com/p/china-has-three-reusable-rockets",
-      "score": 32,
-      "author": "speckx",
-      "created": "2025-11-26 18:45:43",
-      "created_at": 1764182743000
+      "id": 46061208,
+      "title": "Fara-7B: An efficient agentic model for computer use",
+      "link": "https://github.com/microsoft/fara",
+      "score": 45,
+      "author": "maxloh",
+      "created": "2025-11-26 19:10:24",
+      "created_at": 1764184224000
     }
   ],
   "code": 200,

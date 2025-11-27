@@ -3,77 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-26T20:12:47.771Z"
+    "lastUpdate": "2025-11-27T00:53:08.369Z"
   },
   "data": [
     {
       "id": 46051340,
       "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
       "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "score": 878,
+      "score": 910,
       "author": "jaydenmilne",
       "created": "2025-11-25 22:04:31",
       "created_at": 1764108271000
     },
     {
-      "id": 46038099,
-      "title": "Unpowered SSDs slowly lose data",
-      "link": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "score": 744,
-      "author": "amichail",
-      "created": "2025-11-24 19:25:25",
-      "created_at": 1764012325000
-    },
-    {
-      "id": 46048996,
-      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
-      "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "score": 731,
-      "author": "jjmaxwell4",
-      "created": "2025-11-25 18:31:16",
-      "created_at": 1764095476000
-    },
-    {
-      "id": 46038047,
-      "title": "Claude Advanced Tool Use",
-      "link": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "score": 658,
-      "author": "lebovic",
-      "created": "2025-11-24 19:21:35",
-      "created_at": 1764012095000
-    },
-    {
-      "id": 46045085,
-      "title": "Trillions spent and big software projects are still failing",
-      "link": "https://spectrum.ieee.org/it-management-software-failures",
-      "score": 583,
-      "author": "pseudolus",
-      "created": "2025-11-25 12:14:11",
-      "created_at": 1764072851000
-    },
-    {
       "id": 46057488,
-      "title": "Voyager 1 Is About to Reach One Light-Day from Earth",
+      "title": "Voyager 1 is about to reach one light-day from earth",
       "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-      "score": 514,
+      "score": 751,
       "author": "ashishgupta2209",
       "created": "2025-11-26 14:02:46",
       "created_at": 1764165766000
     },
     {
-      "id": 46038143,
-      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
-      "link": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-      "score": 472,
-      "author": "speckx",
-      "created": "2025-11-24 19:29:12",
-      "created_at": 1764012552000
+      "id": 46048996,
+      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+      "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+      "score": 740,
+      "author": "jjmaxwell4",
+      "created": "2025-11-25 18:31:16",
+      "created_at": 1764095476000
+    },
+    {
+      "id": 46045085,
+      "title": "Trillions spent and big software projects are still failing",
+      "link": "https://spectrum.ieee.org/it-management-software-failures",
+      "score": 592,
+      "author": "pseudolus",
+      "created": "2025-11-25 12:14:11",
+      "created_at": 1764072851000
     },
     {
       "id": 46058065,
       "title": "OpenAI needs to raise at least $207B by 2030",
       "link": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
-      "score": 463,
+      "score": 521,
       "author": "akira_067",
       "created": "2025-11-26 15:06:37",
       "created_at": 1764169597000
@@ -82,19 +55,46 @@
       "id": 46055944,
       "title": "I don't care how well your \"AI\" works",
       "link": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-      "score": 452,
+      "score": 462,
       "author": "todsacerdoti",
       "created": "2025-11-26 10:08:20",
       "created_at": 1764151700000
     },
     {
+      "id": 46042810,
+      "title": "Jakarta is now the biggest city in the world",
+      "link": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+      "score": 459,
+      "author": "skx001",
+      "created": "2025-11-25 06:09:05",
+      "created_at": 1764050945000
+    },
+    {
       "id": 46042928,
       "title": "Human brains are preconfigured with instructions for understanding the world",
       "link": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
-      "score": 444,
+      "score": 446,
       "author": "XzetaU8",
       "created": "2025-11-25 06:31:31",
       "created_at": 1764052291000
+    },
+    {
+      "id": 46047350,
+      "title": "Orion 1.0",
+      "link": "https://blog.kagi.com/orion",
+      "score": 426,
+      "author": "STRiDEX",
+      "created": "2025-11-25 16:21:24",
+      "created_at": 1764087684000
+    },
+    {
+      "id": 46048125,
+      "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+      "link": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+      "score": 392,
+      "author": "piotrgrabowski",
+      "created": "2025-11-25 17:21:52",
+      "created_at": 1764091312000
     }
   ],
   "code": 200,
