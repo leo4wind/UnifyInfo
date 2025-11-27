@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-27T16:14:08.785Z"
+    "lastUpdate": "2025-11-27T20:10:47.096Z"
   },
   "data": [
     {
       "id": 46057488,
       "title": "Voyager 1 is about to reach one light-day from Earth",
       "link": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-      "score": 999,
+      "score": 1027,
       "author": "ashishgupta2209",
       "created": "2025-11-26 14:02:46",
       "created_at": 1764165766000
@@ -19,7 +19,7 @@
       "id": 46051340,
       "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
       "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "score": 957,
+      "score": 965,
       "author": "jaydenmilne",
       "created": "2025-11-25 22:04:31",
       "created_at": 1764108271000
@@ -28,34 +28,34 @@
       "id": 46064571,
       "title": "Migrating the main Zig repository from GitHub to Codeberg",
       "link": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-      "score": 782,
+      "score": 832,
       "author": "todsacerdoti",
       "created": "2025-11-27 01:49:00",
       "created_at": 1764208140000
     },
     {
-      "id": 46048996,
-      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
-      "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "score": 752,
-      "author": "jjmaxwell4",
-      "created": "2025-11-25 18:31:16",
-      "created_at": 1764095476000
-    },
-    {
       "id": 46063072,
       "title": "Bring bathroom doors back to hotels",
       "link": "https://bringbackdoors.com/",
-      "score": 739,
+      "score": 758,
       "author": "bariumbitmap",
       "created": "2025-11-26 22:26:36",
       "created_at": 1764195996000
     },
     {
+      "id": 46064757,
+      "title": "Penpot: The Open-Source Figma",
+      "link": "https://github.com/penpot/penpot",
+      "score": 617,
+      "author": "selvan",
+      "created": "2025-11-27 02:14:36",
+      "created_at": 1764209676000
+    },
+    {
       "id": 46062504,
       "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
       "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-      "score": 545,
+      "score": 556,
       "author": "cyclecount",
       "created": "2025-11-26 21:25:36",
       "created_at": 1764192336000
@@ -64,19 +64,10 @@
       "id": 46058065,
       "title": "OpenAI needs to raise at least $207B by 2030",
       "link": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
-      "score": 537,
+      "score": 538,
       "author": "akira_067",
       "created": "2025-11-26 15:06:37",
       "created_at": 1764169597000
-    },
-    {
-      "id": 46064757,
-      "title": "Penpot: The Open-Source Figma",
-      "link": "https://github.com/penpot/penpot",
-      "score": 524,
-      "author": "selvan",
-      "created": "2025-11-27 02:14:36",
-      "created_at": 1764209676000
     },
     {
       "id": 46055944,
@@ -88,13 +79,22 @@
       "created_at": 1764151700000
     },
     {
-      "id": 46047350,
-      "title": "Orion 1.0",
-      "link": "https://blog.kagi.com/orion",
-      "score": 431,
-      "author": "STRiDEX",
-      "created": "2025-11-25 16:21:24",
-      "created_at": 1764087684000
+      "id": 46066280,
+      "title": "Linux Kernel Explorer",
+      "link": "https://reverser.dev/linux-kernel-explorer",
+      "score": 471,
+      "author": "tanelpoder",
+      "created": "2025-11-27 06:17:37",
+      "created_at": 1764224257000
+    },
+    {
+      "id": 46061623,
+      "title": "Don't Download Apps",
+      "link": "https://blog.calebjay.com/posts/dont-download-apps/",
+      "score": 399,
+      "author": "speckx",
+      "created": "2025-11-26 19:51:52",
+      "created_at": 1764186712000
     }
   ],
   "code": 200,

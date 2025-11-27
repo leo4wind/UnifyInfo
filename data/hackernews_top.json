@@ -3,41 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-27T16:14:08.867Z"
+    "lastUpdate": "2025-11-27T20:10:47.189Z"
   },
   "data": [
     {
-      "id": 46069771,
-      "title": "We're Losing Our Voice to LLMs",
-      "link": "https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/",
-      "score": 52,
-      "author": "TonyAlicea10",
-      "created": "2025-11-27 14:51:01",
-      "created_at": 1764255061000
+      "id": 46072002,
+      "title": "Replace your boss before they replace you",
+      "link": "https://replaceyourboss.ai/",
+      "score": 186,
+      "author": "_tk_",
+      "created": "2025-11-27 18:37:41",
+      "created_at": 1764268661000
     },
     {
-      "id": 46068015,
-      "title": "Arthur Conan Doyle explored men’s mental health through Sherlock Holmes",
-      "link": "https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/",
-      "score": 131,
-      "author": "PikelEmi",
-      "created": "2025-11-27 10:54:02",
-      "created_at": 1764240842000
+      "id": 46070668,
+      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
+      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
+      "score": 198,
+      "author": "mfilion",
+      "created": "2025-11-27 16:19:03",
+      "created_at": 1764260343000
     },
     {
-      "id": 46069556,
-      "title": "Show HN: Runprompt – run .prompt files from the command line",
-      "link": "https://github.com/chr15m/runprompt",
+      "id": 46071030,
+      "title": "The Input Stack on Linux: An End-to-End Architecture Overview",
+      "link": "https://venam.net/blog/unix/2025/11/27/input_devices_linux.html",
+      "score": 69,
+      "author": "venamresm__",
+      "created": "2025-11-27 16:55:30",
+      "created_at": 1764262530000
+    },
+    {
+      "id": 46031552,
+      "title": "Quake Engine Indicators",
+      "link": "https://fabiensanglard.net/quake_indicators/index.html",
+      "score": 108,
+      "author": "liquid_x",
+      "created": "2025-11-24 08:10:11",
+      "created_at": 1763971811000
+    },
+    {
+      "id": 46057266,
+      "title": "Memories of .us",
+      "link": "https://computer.rip/2025-11-11-dot-us.html",
+      "score": 26,
+      "author": "sabas_ge",
+      "created": "2025-11-26 13:36:19",
+      "created_at": 1764164179000
+    },
+    {
+      "id": 46062855,
+      "title": "Why Strong Consistency?",
+      "link": "https://brooker.co.za/blog/2025/11/18/consistency.html",
       "score": 28,
-      "author": "chr15m",
-      "created": "2025-11-27 14:26:35",
-      "created_at": 1764253595000
+      "author": "SchwKatze",
+      "created": "2025-11-26 22:00:48",
+      "created_at": 1764194448000
     },
     {
       "id": 46066280,
       "title": "Linux Kernel Explorer",
       "link": "https://reverser.dev/linux-kernel-explorer",
-      "score": 373,
+      "score": 471,
       "author": "tanelpoder",
       "created": "2025-11-27 06:17:37",
       "created_at": 1764224257000
@@ -46,55 +73,28 @@
       "id": 46064757,
       "title": "Penpot: The Open-Source Figma",
       "link": "https://github.com/penpot/penpot",
-      "score": 524,
+      "score": 617,
       "author": "selvan",
       "created": "2025-11-27 02:14:36",
       "created_at": 1764209676000
     },
     {
-      "id": 46066695,
-      "title": "Ray Marching Soft Shadows in 2D (2020)",
-      "link": "https://www.rykap.com/2020/09/23/distance-fields/",
-      "score": 137,
-      "author": "memalign",
-      "created": "2025-11-27 07:31:24",
-      "created_at": 1764228684000
+      "id": 46065955,
+      "title": "Tell HN: Happy Thanksgiving",
+      "link": "",
+      "score": 233,
+      "author": "prodigycorp",
+      "created": "2025-11-27 05:21:16",
+      "created_at": 1764220876000
     },
     {
-      "id": 46066522,
-      "title": "Mixpanel Security Breach",
-      "link": "https://mixpanel.com/blog/sms-security-incident/",
-      "score": 127,
-      "author": "jaredwiener",
-      "created": "2025-11-27 07:02:40",
-      "created_at": 1764226960000
-    },
-    {
-      "id": 46039106,
-      "title": "Interactive λ-Reduction",
-      "link": "https://deltanets.org/",
-      "score": 81,
-      "author": "jy14898",
-      "created": "2025-11-24 20:48:18",
-      "created_at": 1764017298000
-    },
-    {
-      "id": 46065034,
-      "title": "DIY NAS: 2026 Edition",
-      "link": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-      "score": 296,
-      "author": "sashk",
-      "created": "2025-11-27 02:54:23",
-      "created_at": 1764212063000
-    },
-    {
-      "id": 46033472,
-      "title": "Technical Deflation",
-      "link": "https://benanderson.work/blog/technical-deflation/",
-      "score": 41,
-      "author": "0x79de",
-      "created": "2025-11-24 12:39:10",
-      "created_at": 1763987950000
+      "id": 46058471,
+      "title": "Feedback doesn't scale",
+      "link": "https://another.rodeo/feedback/",
+      "score": 25,
+      "author": "ohjeez",
+      "created": "2025-11-26 15:40:14",
+      "created_at": 1764171614000
     }
   ],
   "code": 200,
