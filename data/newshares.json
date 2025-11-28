@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-27T20:10:52.828Z"
+    "lastUpdate": "2025-11-28T00:52:21.339Z"
   },
   "data": [
+    {
+      "zqdm": "688802",
+      "zqjc": "沐曦股份",
+      "sgdm": "787802",
+      "fxsl": 40100000,
+      "swfxsl": 6416000,
+      "sgsx": 6000,
+      "dgsz": 60000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-05",
+      "zqgbrq": "2025-12-09",
+      "zqjkrq": "2025-12-09",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 59.37,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "研发、设计和销售应用于人工智能训练和推理、通用计算与图形渲染领域的全栈GPU产品,并围绕GPU芯片提供配套的软件栈与计算平台"
+    },
+    {
+      "zqdm": "688790",
+      "zqjc": "昂瑞微",
+      "sgdm": "787790",
+      "fxsl": 24882922,
+      "swfxsl": 3981000,
+      "sgsx": 3500,
+      "dgsz": 35000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-05",
+      "zqgbrq": "2025-12-09",
+      "zqjkrq": "2025-12-09",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 59.37,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "从事射频前端芯片、射频SoC芯片及其他模拟芯片的研发、设计与销售"
+    },
     {
       "zqdm": "688796",
       "zqjc": "百奥赛图",
@@ -51,30 +97,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "GPU及相关产品的研发、设计和销售"
-    },
-    {
-      "zqdm": "001280",
-      "zqjc": "中国铀业",
-      "sgdm": "001280",
-      "fxsl": 248181818,
-      "swfxsl": 121609000,
-      "sgsx": 52000,
-      "dgsz": 520000,
-      "fxjg": 17.89,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-21",
-      "zqgbrq": "2025-11-25",
-      "zqjkrq": "2025-11-25",
-      "ssrq": null,
-      "syl": 27.06,
-      "hysyl": 27.57,
-      "wszql": 0.0433935265,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "天然铀资源的采冶、销售及贸易,以及独居石、铀钼等放射性共伴生矿产资源综合利用及产品销售"
     }
   ],
-  "total": 3
+  "total": 4
 }
