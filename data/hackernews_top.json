@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-28T00:52:18.087Z"
+    "lastUpdate": "2025-11-28T04:15:26.854Z"
   },
   "data": [
+    {
+      "id": 46074362,
+      "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
+      "link": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
+      "score": 81,
+      "author": "1659447091",
+      "created": "2025-11-28 00:10:38",
+      "created_at": 1764288638000
+    },
+    {
+      "id": 46070668,
+      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
+      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
+      "score": 358,
+      "author": "mfilion",
+      "created": "2025-11-27 16:19:03",
+      "created_at": 1764260343000
+    },
     {
       "id": 46073855,
       "title": "250MWh 'Sand Battery' to start construction in Finland",
       "link": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
-      "score": 98,
+      "score": 166,
       "author": "doener",
       "created": "2025-11-27 22:48:44",
       "created_at": 1764283724000
@@ -19,61 +37,25 @@
       "id": 46074111,
       "title": "Vsora Jotunn-8 5nm European inference chip",
       "link": "https://vsora.com/products/jotunn-8/",
-      "score": 22,
+      "score": 45,
       "author": "rdg42",
       "created": "2025-11-27 23:30:11",
       "created_at": 1764286211000
     },
     {
-      "id": 46070668,
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
-      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "score": 317,
-      "author": "mfilion",
-      "created": "2025-11-27 16:19:03",
-      "created_at": 1764260343000
-    },
-    {
-      "id": 46074362,
-      "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
-      "link": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
-      "score": 10,
-      "author": "1659447091",
-      "created": "2025-11-28 00:10:38",
-      "created_at": 1764288638000
-    },
-    {
-      "id": 46072988,
-      "title": "LinkedIn is loud, and corporate is hell",
-      "link": "https://ramones.dev/posts/linkedin-is-loud/",
-      "score": 153,
-      "author": "austinallegro",
-      "created": "2025-11-27 20:30:21",
-      "created_at": 1764275421000
-    },
-    {
       "id": 46018159,
       "title": "Physicists drive antihydrogen breakthrough at CERN",
       "link": "https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html",
-      "score": 112,
+      "score": 142,
       "author": "naves",
       "created": "2025-11-22 20:54:06",
       "created_at": 1763844846000
     },
     {
-      "id": 46073033,
-      "title": "Underrated reasons to be thankful V",
-      "link": "https://dynomight.net/thanks-5/",
-      "score": 109,
-      "author": "numeri",
-      "created": "2025-11-27 20:37:51",
-      "created_at": 1764275871000
-    },
-    {
       "id": 46073817,
-      "title": "A Programmer-Friendly I/O Abstraction Over io_uring and kqueue",
+      "title": "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
       "link": "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/",
-      "score": 21,
+      "score": 51,
       "author": "enz",
       "created": "2025-11-27 22:41:06",
       "created_at": 1764283266000
@@ -82,16 +64,34 @@
       "id": 46031552,
       "title": "Quake Engine Indicators",
       "link": "https://fabiensanglard.net/quake_indicators/index.html",
-      "score": 182,
+      "score": 215,
       "author": "liquid_x",
       "created": "2025-11-24 08:10:11",
       "created_at": 1763971811000
     },
     {
+      "id": 46058471,
+      "title": "Feedback doesn't scale",
+      "link": "https://another.rodeo/feedback/",
+      "score": 132,
+      "author": "ohjeez",
+      "created": "2025-11-26 15:40:14",
+      "created_at": 1764171614000
+    },
+    {
+      "id": 46075178,
+      "title": "The VPN panic is only getting started",
+      "link": "https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act",
+      "score": 22,
+      "author": "cebert",
+      "created": "2025-11-28 03:08:27",
+      "created_at": 1764299307000
+    },
+    {
       "id": 46057266,
       "title": "Memories of .us",
       "link": "https://computer.rip/2025-11-11-dot-us.html",
-      "score": 101,
+      "score": 133,
       "author": "sabas_ge",
       "created": "2025-11-26 13:36:19",
       "created_at": 1764164179000
