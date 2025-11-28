@@ -3,50 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-28T04:15:26.854Z"
+    "lastUpdate": "2025-11-28T08:16:45.696Z"
   },
   "data": [
+    {
+      "id": 46075882,
+      "title": "Show HN: Glasses to detect smart-glasses that have cameras",
+      "link": "https://github.com/NullPxl/banrays",
+      "score": 75,
+      "author": "nullpxl",
+      "created": "2025-11-28 05:52:38",
+      "created_at": 1764309158000
+    },
+    {
+      "id": 46075320,
+      "title": "Pocketbase – open-source realtime back end in 1 file",
+      "link": "https://pocketbase.io/",
+      "score": 163,
+      "author": "modinfo",
+      "created": "2025-11-28 03:45:04",
+      "created_at": 1764301504000
+    },
     {
       "id": 46074362,
       "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
       "link": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
-      "score": 81,
+      "score": 123,
       "author": "1659447091",
       "created": "2025-11-28 00:10:38",
       "created_at": 1764288638000
     },
     {
+      "id": 46075628,
+      "title": "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
+      "link": "https://tigerstyle.dev/",
+      "score": 56,
+      "author": "nateb2022",
+      "created": "2025-11-28 04:53:07",
+      "created_at": 1764305587000
+    },
+    {
       "id": 46070668,
       "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
       "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "score": 358,
+      "score": 396,
       "author": "mfilion",
       "created": "2025-11-27 16:19:03",
       "created_at": 1764260343000
     },
     {
-      "id": 46073855,
-      "title": "250MWh 'Sand Battery' to start construction in Finland",
-      "link": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
-      "score": 166,
-      "author": "doener",
-      "created": "2025-11-27 22:48:44",
-      "created_at": 1764283724000
-    },
-    {
       "id": 46074111,
       "title": "Vsora Jotunn-8 5nm European inference chip",
       "link": "https://vsora.com/products/jotunn-8/",
-      "score": 45,
+      "score": 81,
       "author": "rdg42",
       "created": "2025-11-27 23:30:11",
       "created_at": 1764286211000
     },
     {
+      "id": 46073855,
+      "title": "250MWh 'Sand Battery' to start construction in Finland",
+      "link": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
+      "score": 234,
+      "author": "doener",
+      "created": "2025-11-27 22:48:44",
+      "created_at": 1764283724000
+    },
+    {
       "id": 46018159,
       "title": "Physicists drive antihydrogen breakthrough at CERN",
       "link": "https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html",
-      "score": 142,
+      "score": 175,
       "author": "naves",
       "created": "2025-11-22 20:54:06",
       "created_at": 1763844846000
@@ -55,46 +82,19 @@
       "id": 46073817,
       "title": "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
       "link": "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/",
-      "score": 51,
+      "score": 68,
       "author": "enz",
       "created": "2025-11-27 22:41:06",
       "created_at": 1764283266000
     },
     {
-      "id": 46031552,
-      "title": "Quake Engine Indicators",
-      "link": "https://fabiensanglard.net/quake_indicators/index.html",
-      "score": 215,
-      "author": "liquid_x",
-      "created": "2025-11-24 08:10:11",
-      "created_at": 1763971811000
-    },
-    {
-      "id": 46058471,
-      "title": "Feedback doesn't scale",
-      "link": "https://another.rodeo/feedback/",
-      "score": 132,
-      "author": "ohjeez",
-      "created": "2025-11-26 15:40:14",
-      "created_at": 1764171614000
-    },
-    {
-      "id": 46075178,
-      "title": "The VPN panic is only getting started",
-      "link": "https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act",
+      "id": 46037261,
+      "title": "Installing Java in 2025, and Version Managers",
+      "link": "https://blog.hakanserce.com/post/version_managers/",
       "score": 22,
-      "author": "cebert",
-      "created": "2025-11-28 03:08:27",
-      "created_at": 1764299307000
-    },
-    {
-      "id": 46057266,
-      "title": "Memories of .us",
-      "link": "https://computer.rip/2025-11-11-dot-us.html",
-      "score": 133,
-      "author": "sabas_ge",
-      "created": "2025-11-26 13:36:19",
-      "created_at": 1764164179000
+      "author": "hakanserce",
+      "created": "2025-11-24 18:25:53",
+      "created_at": 1764008753000
     }
   ],
   "code": 200,
