@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-28T12:22:22.679Z"
+    "lastUpdate": "2025-11-28T16:13:56.712Z"
   },
   "data": [
+    {
+      "id": 46077992,
+      "title": "The mysterious black fungus from Chernobyl that may eat radiation",
+      "link": "https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation",
+      "score": 193,
+      "author": "bookmtn",
+      "created": "2025-11-28 12:17:15",
+      "created_at": 1764332235000
+    },
+    {
+      "id": 46039317,
+      "title": "Atuin’s New Runbook Execution Engine",
+      "link": "https://blog.atuin.sh/introducing-the-new-runbook-execution-engine/",
+      "score": 34,
+      "author": "emschwartz",
+      "created": "2025-11-24 21:06:39",
+      "created_at": 1764018399000
+    },
+    {
+      "id": 46078770,
+      "title": "Petition to formally recognize open source work as civic service in Germany",
+      "link": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
+      "score": 256,
+      "author": "PhilippGille",
+      "created": "2025-11-28 14:08:14",
+      "created_at": 1764338894000
+    },
+    {
+      "id": 46079745,
+      "title": "Tell HN: Want a better HN? Visit /newest",
+      "link": "",
+      "score": 27,
+      "author": "alecco",
+      "created": "2025-11-28 15:57:27",
+      "created_at": 1764345447000
+    },
     {
       "id": 46075882,
       "title": "Show HN: Glasses to detect smart-glasses that have cameras",
       "link": "https://github.com/NullPxl/banrays",
-      "score": 252,
+      "score": 380,
       "author": "nullpxl",
       "created": "2025-11-28 05:52:38",
       "created_at": 1764309158000
     },
     {
-      "id": 46077393,
-      "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
-      "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-      "score": 218,
-      "author": "fragebogen",
-      "created": "2025-11-28 10:36:08",
-      "created_at": 1764326168000
-    },
-    {
-      "id": 46075320,
-      "title": "Pocketbase – open-source realtime back end in 1 file",
-      "link": "https://pocketbase.io/",
-      "score": 347,
-      "author": "modinfo",
-      "created": "2025-11-28 03:45:04",
-      "created_at": 1764301504000
+      "id": 46077038,
+      "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
+      "link": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
+      "score": 107,
+      "author": "thm",
+      "created": "2025-11-28 09:21:55",
+      "created_at": 1764321715000
     },
     {
       "id": 46012803,
       "title": "Moss: a Rust Linux-compatible kernel in 26,000 lines of code",
       "link": "https://github.com/hexagonal-sun/moss",
-      "score": 121,
+      "score": 268,
       "author": "hexagonal-sun",
       "created": "2025-11-22 07:11:59",
       "created_at": 1763795519000
     },
     {
+      "id": 46075320,
+      "title": "Pocketbase – open-source realtime back end in 1 file",
+      "link": "https://pocketbase.io/",
+      "score": 495,
+      "author": "modinfo",
+      "created": "2025-11-28 03:45:04",
+      "created_at": 1764301504000
+    },
+    {
       "id": 46077964,
       "title": "A Tale of Four Fuzzers",
       "link": "https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/",
-      "score": 3,
+      "score": 42,
       "author": "jorangreef",
       "created": "2025-11-28 12:11:39",
       "created_at": 1764331899000
     },
     {
-      "id": 46077106,
-      "title": "A Repository with 44 Years of Unix Evolution",
-      "link": "https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html",
-      "score": 21,
-      "author": "lioeters",
-      "created": "2025-11-28 09:32:38",
-      "created_at": 1764322358000
-    },
-    {
-      "id": 46020561,
-      "title": "How to make precise sheet metal parts (photochemical machining) [video]",
-      "link": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
-      "score": 33,
-      "author": "surprisetalk",
-      "created": "2025-11-23 03:37:49",
-      "created_at": 1763869069000
-    },
-    {
-      "id": 45999475,
-      "title": "The three thousand year journey of colchicine",
-      "link": "https://www.worksinprogress.news/p/the-three-thousand-year-journey-of",
-      "score": 3,
-      "author": "quadrin",
-      "created": "2025-11-20 23:43:30",
-      "created_at": 1763682210000
-    },
-    {
-      "id": 46070668,
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
-      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "score": 426,
-      "author": "mfilion",
-      "created": "2025-11-27 16:19:03",
-      "created_at": 1764260343000
-    },
-    {
-      "id": 46074111,
-      "title": "Vsora Jotunn-8 5nm European inference chip",
-      "link": "https://vsora.com/products/jotunn-8/",
-      "score": 128,
-      "author": "rdg42",
-      "created": "2025-11-27 23:30:11",
-      "created_at": 1764286211000
+      "id": 46068138,
+      "title": "Show HN: Spikelog – A simple metrics service for scripts, cron jobs, and MVPs",
+      "link": "https://spikelog.com",
+      "score": 18,
+      "author": "dsmurrell",
+      "created": "2025-11-27 11:10:51",
+      "created_at": 1764241851000
     }
   ],
   "code": 200,
