@@ -3,41 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-29T16:12:46.953Z"
+    "lastUpdate": "2025-11-29T20:12:26.545Z"
   },
   "data": [
     {
-      "id": 46087737,
-      "title": "It's Always the Process, Stupid",
-      "link": "https://its.promp.td/its-always-the-process-stupid/",
-      "score": 97,
-      "author": "DocIsInDaHouse",
-      "created": "2025-11-29 14:20:46",
-      "created_at": 1764426046000
+      "id": 46089394,
+      "title": "Zero knowlege proof of compositeness",
+      "link": "https://www.johndcook.com/blog/2025/11/29/zkp-composite/",
+      "score": 34,
+      "author": "ColinWright",
+      "created": "2025-11-29 17:53:57",
+      "created_at": 1764438837000
     },
     {
-      "id": 46088241,
-      "title": "Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities",
-      "link": "https://copenhagenizeindex.eu/",
-      "score": 24,
-      "author": "axelfontaine",
-      "created": "2025-11-29 15:28:05",
-      "created_at": 1764430085000
+      "id": 46089546,
+      "title": "Student Perceptions of AI Coding Assistants in Learning",
+      "link": "https://arxiv.org/abs/2507.22900",
+      "score": 21,
+      "author": "victorbuilds",
+      "created": "2025-11-29 18:14:21",
+      "created_at": 1764440061000
     },
     {
-      "id": 46087596,
-      "title": "DNS LOC Record (2014)",
-      "link": "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/",
-      "score": 53,
-      "author": "mikejeays",
-      "created": "2025-11-29 14:02:23",
-      "created_at": 1764424943000
+      "id": 46020730,
+      "title": "Hardening the C++ Standard Library at scale",
+      "link": "https://queue.acm.org/detail.cfm?id=3773097",
+      "score": 66,
+      "author": "ndesaulniers",
+      "created": "2025-11-23 04:22:41",
+      "created_at": 1763871761000
+    },
+    {
+      "id": 46032074,
+      "title": "Show HN: Network Monitor – a GUI to spot anomalous connections on your Linux",
+      "link": "",
+      "score": 33,
+      "author": "grigio",
+      "created": "2025-11-24 09:30:40",
+      "created_at": 1763976640000
     },
     {
       "id": 46087549,
       "title": "Hachi: An Image Search Engine",
       "link": "https://eagledot.xyz/hachi.md.html",
-      "score": 43,
+      "score": 97,
       "author": "warangal",
       "created": "2025-11-29 13:56:04",
       "created_at": 1764424564000
@@ -46,55 +55,46 @@
       "id": 46006323,
       "title": "Bronze Age mega-settlement in Kazakhstan has advanced urban planning, metallurgy",
       "link": "https://archaeologymag.com/2025/11/bronze-age-mega-settlement-in-kazakhstan/",
-      "score": 22,
+      "score": 90,
       "author": "CGMthrowaway",
       "created": "2025-11-21 17:06:21",
       "created_at": 1763744781000
     },
     {
-      "id": 46088192,
-      "title": "Iceland declares ocean-current instability a national security risk",
-      "link": "https://www.dagens.com/news/iceland-declares-ocean-current-instability-a-national-security-risk",
-      "score": 8,
-      "author": "donohoe",
-      "created": "2025-11-29 15:21:29",
-      "created_at": 1764429689000
+      "id": 46089980,
+      "title": "Framework Computer Now Sponsoring LVFS / Fwupd Development",
+      "link": "https://www.phoronix.com/news/Framework-Sponsoring-LVFS",
+      "score": 30,
+      "author": "LorenDB",
+      "created": "2025-11-29 19:14:13",
+      "created_at": 1764443653000
     },
     {
-      "id": 46084956,
-      "title": "System 7 natively boots on the Mac mini G4",
-      "link": "https://macos9lives.com/smforum/index.php?topic=7711.0",
-      "score": 256,
-      "author": "ibobev",
-      "created": "2025-11-29 03:26:01",
-      "created_at": 1764386761000
+      "id": 46087596,
+      "title": "DNS LOC Record (2014)",
+      "link": "https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/",
+      "score": 106,
+      "author": "mikejeays",
+      "created": "2025-11-29 14:02:23",
+      "created_at": 1764424943000
     },
     {
-      "id": 46043318,
-      "title": "Build Your Own Router with URLPattern()",
-      "link": "https://jschof.dev/posts/2025/11/build-your-own-router/",
-      "score": 29,
-      "author": "tobr",
-      "created": "2025-11-25 07:43:39",
-      "created_at": 1764056619000
+      "id": 46087022,
+      "title": "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
+      "link": "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/",
+      "score": 95,
+      "author": "birdculture",
+      "created": "2025-11-29 12:25:35",
+      "created_at": 1764419135000
     },
     {
-      "id": 46035126,
-      "title": "WebR – R in the Browser",
-      "link": "https://webr.sh/",
-      "score": 53,
-      "author": "creata",
-      "created": "2025-11-24 15:27:53",
-      "created_at": 1763998073000
-    },
-    {
-      "id": 46086920,
-      "title": "Show HN: I built Magiclip – an all-in-one AI studio",
-      "link": "https://magiclip.io/",
-      "score": 18,
-      "author": "kokau",
-      "created": "2025-11-29 12:04:23",
-      "created_at": 1764417863000
+      "id": 46089971,
+      "title": "Electric vehicle sales are booming in South America – without Tesla",
+      "link": "https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/",
+      "score": 30,
+      "author": "breve",
+      "created": "2025-11-29 19:12:48",
+      "created_at": 1764443568000
     }
   ],
   "code": 200,

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-29T16:12:46.849Z"
+    "lastUpdate": "2025-11-29T20:12:26.452Z"
   },
   "data": [
     {
       "id": 46075320,
       "title": "Pocketbase – open-source realtime back end in 1 file",
       "link": "https://pocketbase.io/",
-      "score": 628,
+      "score": 637,
       "author": "modinfo",
       "created": "2025-11-28 03:45:04",
       "created_at": 1764301504000
@@ -19,7 +19,7 @@
       "id": 46077393,
       "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
       "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-      "score": 618,
+      "score": 619,
       "author": "fragebogen",
       "created": "2025-11-28 10:36:08",
       "created_at": 1764326168000
@@ -28,7 +28,7 @@
       "id": 46078770,
       "title": "Petition to formally recognize open source work as civic service in Germany",
       "link": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
-      "score": 567,
+      "score": 577,
       "author": "PhilippGille",
       "created": "2025-11-28 14:08:14",
       "created_at": 1764338894000
@@ -37,64 +37,64 @@
       "id": 46075882,
       "title": "Show HN: Glasses to detect smart-glasses that have cameras",
       "link": "https://github.com/NullPxl/banrays",
-      "score": 489,
+      "score": 491,
       "author": "nullpxl",
       "created": "2025-11-28 05:52:38",
       "created_at": 1764309158000
     },
     {
-      "id": 46070668,
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
-      "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "score": 448,
-      "author": "mfilion",
-      "created": "2025-11-27 16:19:03",
-      "created_at": 1764260343000
-    },
-    {
       "id": 46081188,
       "title": "Imgur geo-blocked the UK, so I geo-unblocked my network",
       "link": "https://blog.tymscar.com/posts/imgurukproxy/",
-      "score": 442,
+      "score": 469,
       "author": "tymscar",
       "created": "2025-11-28 18:15:50",
       "created_at": 1764353750000
     },
     {
-      "id": 46072002,
-      "title": "AI CEO – Replace your boss before they replace you",
-      "link": "https://replaceyourboss.ai/",
-      "score": 435,
-      "author": "_tk_",
-      "created": "2025-11-27 18:37:41",
-      "created_at": 1764268661000
-    },
-    {
-      "id": 46081053,
-      "title": "28M Hacker News comments as vector embedding search dataset",
-      "link": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
-      "score": 427,
-      "author": "walterbell",
-      "created": "2025-11-28 18:02:04",
-      "created_at": 1764352924000
-    },
-    {
       "id": 46083004,
       "title": "Airbus A320 – intense solar radiation may corrupt data critical for flight",
       "link": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
-      "score": 415,
+      "score": 460,
       "author": "pyrophoenix",
       "created": "2025-11-28 21:40:21",
       "created_at": 1764366021000
     },
     {
+      "id": 46086771,
+      "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+      "score": 442,
+      "author": "fleahunter",
+      "created": "2025-11-29 11:31:58",
+      "created_at": 1764415918000
+    },
+    {
+      "id": 46081053,
+      "title": "28M Hacker News comments as vector embedding search dataset",
+      "link": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
+      "score": 437,
+      "author": "walterbell",
+      "created": "2025-11-28 18:02:04",
+      "created_at": 1764352924000
+    },
+    {
       "id": 46079868,
       "title": "Credit report shows Meta keeping $27B off its books through advanced geometry",
       "link": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
-      "score": 398,
+      "score": 402,
       "author": "FreeQueso",
       "created": "2025-11-28 16:09:50",
       "created_at": 1764346190000
+    },
+    {
+      "id": 46080916,
+      "title": "Molly: An Improved Signal App",
+      "link": "https://molly.im/",
+      "score": 400,
+      "author": "dtj1123",
+      "created": "2025-11-28 17:48:25",
+      "created_at": 1764352105000
     }
   ],
   "code": 200,
