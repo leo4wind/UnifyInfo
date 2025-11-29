@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-28T20:12:15.739Z"
+    "lastUpdate": "2025-11-29T00:52:29.482Z"
   },
   "data": [
     {
       "id": 46064571,
       "title": "Migrating the main Zig repository from GitHub to Codeberg",
       "link": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-      "score": 889,
+      "score": 893,
       "author": "todsacerdoti",
       "created": "2025-11-27 01:49:00",
       "created_at": 1764208140000
     },
     {
-      "id": 46063072,
-      "title": "Bring bathroom doors back to hotels",
-      "link": "https://bringbackdoors.com/",
-      "score": 788,
-      "author": "bariumbitmap",
-      "created": "2025-11-26 22:26:36",
-      "created_at": 1764195996000
-    },
-    {
       "id": 46065955,
       "title": "Tell HN: Happy Thanksgiving",
       "link": "",
-      "score": 777,
+      "score": 782,
       "author": "prodigycorp",
       "created": "2025-11-27 05:21:16",
       "created_at": 1764220876000
@@ -37,7 +28,7 @@
       "id": 46064757,
       "title": "Penpot: The Open-Source Figma",
       "link": "https://github.com/penpot/penpot",
-      "score": 753,
+      "score": 756,
       "author": "selvan",
       "created": "2025-11-27 02:14:36",
       "created_at": 1764209676000
@@ -46,19 +37,10 @@
       "id": 46075320,
       "title": "Pocketbase – open-source realtime back end in 1 file",
       "link": "https://pocketbase.io/",
-      "score": 588,
+      "score": 601,
       "author": "modinfo",
       "created": "2025-11-28 03:45:04",
       "created_at": 1764301504000
-    },
-    {
-      "id": 46062504,
-      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-      "link": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-      "score": 588,
-      "author": "cyclecount",
-      "created": "2025-11-26 21:25:36",
-      "created_at": 1764192336000
     },
     {
       "id": 46066280,
@@ -73,16 +55,34 @@
       "id": 46077393,
       "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
       "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-      "score": 549,
+      "score": 578,
       "author": "fragebogen",
       "created": "2025-11-28 10:36:08",
       "created_at": 1764326168000
     },
     {
+      "id": 46078770,
+      "title": "Petition to formally recognize open source work as civic service in Germany",
+      "link": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
+      "score": 494,
+      "author": "PhilippGille",
+      "created": "2025-11-28 14:08:14",
+      "created_at": 1764338894000
+    },
+    {
+      "id": 46075882,
+      "title": "Show HN: Glasses to detect smart-glasses that have cameras",
+      "link": "https://github.com/NullPxl/banrays",
+      "score": 468,
+      "author": "nullpxl",
+      "created": "2025-11-28 05:52:38",
+      "created_at": 1764309158000
+    },
+    {
       "id": 46070668,
       "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
       "link": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "score": 445,
+      "score": 446,
       "author": "mfilion",
       "created": "2025-11-27 16:19:03",
       "created_at": 1764260343000
@@ -91,7 +91,7 @@
       "id": 46065034,
       "title": "DIY NAS: 2026 Edition",
       "link": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-      "score": 439,
+      "score": 442,
       "author": "sashk",
       "created": "2025-11-27 02:54:23",
       "created_at": 1764212063000

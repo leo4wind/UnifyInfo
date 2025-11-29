@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-28T20:12:15.828Z"
+    "lastUpdate": "2025-11-29T00:52:29.565Z"
   },
   "data": [
     {
-      "id": 46081053,
-      "title": "28M Hacker News comments as vector embedding search dataset",
-      "link": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
-      "score": 149,
-      "author": "walterbell",
-      "created": "2025-11-28 18:02:04",
-      "created_at": 1764352924000
+      "id": 46084122,
+      "title": "A triangle whose interior angles sum to zero",
+      "link": "https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/",
+      "score": 9,
+      "author": "tzury",
+      "created": "2025-11-29 00:26:42",
+      "created_at": 1764376002000
     },
     {
       "id": 46081188,
-      "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+      "title": "Imgur geo-blocked the UK, so I geo-unblocked my network",
       "link": "https://blog.tymscar.com/posts/imgurukproxy/",
-      "score": 114,
+      "score": 253,
       "author": "tymscar",
       "created": "2025-11-28 18:15:50",
       "created_at": 1764353750000
     },
     {
-      "id": 46080364,
-      "title": "So you wanna build a local RAG?",
-      "link": "https://blog.yakkomajuri.com/blog/local-rag",
-      "score": 93,
-      "author": "pedriquepacheco",
-      "created": "2025-11-28 16:54:56",
-      "created_at": 1764348896000
+      "id": 46082223,
+      "title": "How good engineers write bad code at big companies",
+      "link": "https://www.seangoedecke.com/bad-code-at-big-companies/",
+      "score": 203,
+      "author": "gfysfm",
+      "created": "2025-11-28 19:59:32",
+      "created_at": 1764359972000
+    },
+    {
+      "id": 46083303,
+      "title": "Confessions of a Software Developer: No More Self-Censorship",
+      "link": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/",
+      "score": 66,
+      "author": "Kerrick",
+      "created": "2025-11-28 22:21:25",
+      "created_at": 1764368485000
     },
     {
       "id": 46080916,
       "title": "Molly: An Improved Signal App",
       "link": "https://molly.im/",
-      "score": 55,
+      "score": 212,
       "author": "dtj1123",
       "created": "2025-11-28 17:48:25",
       "created_at": 1764352105000
     },
     {
-      "id": 46081704,
-      "title": "Effective harnesses for long-running agents",
-      "link": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-      "score": 17,
-      "author": "diwank",
-      "created": "2025-11-28 19:05:16",
-      "created_at": 1764356716000
+      "id": 46083004,
+      "title": "Airbus A320 – intense solar radiation may corrupt data critical for flight",
+      "link": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
+      "score": 49,
+      "author": "pyrophoenix",
+      "created": "2025-11-28 21:40:21",
+      "created_at": 1764366021000
     },
     {
-      "id": 46080579,
-      "title": "C++ Web Server on my custom hobby OS",
-      "link": "https://oshub.org/projects/retros-32/posts/getting-a-webserver-running",
-      "score": 45,
-      "author": "joexbayer",
-      "created": "2025-11-28 17:15:20",
-      "created_at": 1764350120000
+      "id": 46080364,
+      "title": "So you wanna build a local RAG?",
+      "link": "https://blog.yakkomajuri.com/blog/local-rag",
+      "score": 187,
+      "author": "pedriquepacheco",
+      "created": "2025-11-28 16:54:56",
+      "created_at": 1764348896000
     },
     {
-      "id": 46080473,
-      "title": "Bringing Sexy Back. Internet surveillance has killed eroticism",
-      "link": "https://lux-magazine.com/article/privacy-eroticism/",
-      "score": 191,
-      "author": "eustoria",
-      "created": "2025-11-28 17:05:31",
-      "created_at": 1764349531000
+      "id": 46083051,
+      "title": "A first look at Django's new background tasks",
+      "link": "https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/",
+      "score": 46,
+      "author": "roam",
+      "created": "2025-11-28 21:46:07",
+      "created_at": 1764366367000
     },
     {
-      "id": 46079785,
-      "title": "Don't tug on that, you never know what it might be attached to (2016)",
-      "link": "https://blog.plover.com/2016/07/01/#tmpdir",
-      "score": 75,
-      "author": "todsacerdoti",
-      "created": "2025-11-28 16:01:01",
-      "created_at": 1764345661000
+      "id": 46082204,
+      "title": "The original ABC language, Python's predecessor (1991)",
+      "link": "https://github.com/gvanrossum/abc-unix",
+      "score": 62,
+      "author": "tony",
+      "created": "2025-11-28 19:58:13",
+      "created_at": 1764359893000
     },
     {
-      "id": 46080143,
-      "title": "True P2P Email on Top of Yggdrasil Network",
-      "link": "https://github.com/JB-SelfCompany/Tyr",
-      "score": 63,
-      "author": "basemi",
-      "created": "2025-11-28 16:35:24",
-      "created_at": 1764347724000
-    },
-    {
-      "id": 46080218,
-      "title": "Lobsters Interview",
-      "link": "https://susam.net/my-lobsters-interview.html",
-      "score": 33,
-      "author": "blenderob",
-      "created": "2025-11-28 16:42:46",
-      "created_at": 1764348166000
+      "id": 46082825,
+      "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
+      "link": "https://www.bbc.com/news/live/cvg4y6g74ert",
+      "score": 145,
+      "author": "nrhrjrjrjtntbt",
+      "created": "2025-11-28 21:16:46",
+      "created_at": 1764364606000
     }
   ],
   "code": 200,
