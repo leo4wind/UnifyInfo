@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-29T04:14:18.924Z"
+    "lastUpdate": "2025-11-29T08:14:36.229Z"
   },
   "data": [
-    {
-      "id": 46065955,
-      "title": "Tell HN: Happy Thanksgiving",
-      "link": "",
-      "score": 786,
-      "author": "prodigycorp",
-      "created": "2025-11-27 05:21:16",
-      "created_at": 1764220876000
-    },
     {
       "id": 46075320,
       "title": "Pocketbase – open-source realtime back end in 1 file",
       "link": "https://pocketbase.io/",
-      "score": 605,
+      "score": 614,
       "author": "modinfo",
       "created": "2025-11-28 03:45:04",
       "created_at": 1764301504000
@@ -28,25 +19,16 @@
       "id": 46077393,
       "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
       "link": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-      "score": 586,
+      "score": 600,
       "author": "fragebogen",
       "created": "2025-11-28 10:36:08",
       "created_at": 1764326168000
     },
     {
-      "id": 46066280,
-      "title": "Linux Kernel Explorer",
-      "link": "https://reverser.dev/linux-kernel-explorer",
-      "score": 583,
-      "author": "tanelpoder",
-      "created": "2025-11-27 06:17:37",
-      "created_at": 1764224257000
-    },
-    {
       "id": 46078770,
       "title": "Petition to formally recognize open source work as civic service in Germany",
       "link": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
-      "score": 507,
+      "score": 532,
       "author": "PhilippGille",
       "created": "2025-11-28 14:08:14",
       "created_at": 1764338894000
@@ -55,7 +37,7 @@
       "id": 46075882,
       "title": "Show HN: Glasses to detect smart-glasses that have cameras",
       "link": "https://github.com/NullPxl/banrays",
-      "score": 472,
+      "score": 478,
       "author": "nullpxl",
       "created": "2025-11-28 05:52:38",
       "created_at": 1764309158000
@@ -73,7 +55,7 @@
       "id": 46072002,
       "title": "AI CEO – Replace your boss before they replace you",
       "link": "https://replaceyourboss.ai/",
-      "score": 428,
+      "score": 432,
       "author": "_tk_",
       "created": "2025-11-27 18:37:41",
       "created_at": 1764268661000
@@ -82,19 +64,37 @@
       "id": 46069048,
       "title": "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
       "link": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
-      "score": 406,
+      "score": 410,
       "author": "vegasbrianc",
       "created": "2025-11-27 13:28:34",
       "created_at": 1764250114000
     },
     {
+      "id": 46079868,
+      "title": "Credit report shows Meta keeping $27B off its books through advanced geometry",
+      "link": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
+      "score": 383,
+      "author": "FreeQueso",
+      "created": "2025-11-28 16:09:50",
+      "created_at": 1764346190000
+    },
+    {
       "id": 46070203,
       "title": "GitLab discovers widespread NPM supply chain attack",
       "link": "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/",
-      "score": 378,
+      "score": 382,
       "author": "OuterVale",
       "created": "2025-11-27 15:36:56",
       "created_at": 1764257816000
+    },
+    {
+      "id": 46081053,
+      "title": "28M Hacker News comments as vector embedding search dataset",
+      "link": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
+      "score": 377,
+      "author": "walterbell",
+      "created": "2025-11-28 18:02:04",
+      "created_at": 1764352924000
     }
   ],
   "code": 200,
