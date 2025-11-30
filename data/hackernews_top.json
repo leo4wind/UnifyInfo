@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-30T08:13:53.146Z"
+    "lastUpdate": "2025-11-30T12:20:00.586Z"
   },
   "data": [
+    {
+      "id": 46095585,
+      "title": "CachyOS: Fast and Customizable Linux Distribution",
+      "link": "https://cachyos.org/",
+      "score": 47,
+      "author": "doener",
+      "created": "2025-11-30 10:47:27",
+      "created_at": 1764499647000
+    },
     {
       "id": 46093473,
       "title": "Show HN: Boing",
       "link": "https://boing.greg.technology/",
-      "score": 223,
+      "score": 420,
       "author": "gregsadetsky",
       "created": "2025-11-30 03:46:35",
       "created_at": 1764474395000
@@ -19,7 +28,7 @@
       "id": 46093518,
       "title": "Zigbook Is Plagiarizing the Zigtools Playground",
       "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-      "score": 155,
+      "score": 304,
       "author": "todsacerdoti",
       "created": "2025-11-30 03:54:51",
       "created_at": 1764474891000
@@ -28,16 +37,25 @@
       "id": 46091362,
       "title": "Bazzite: The next generation of Linux gaming",
       "link": "https://bazzite.gg/",
-      "score": 363,
+      "score": 436,
       "author": "doener",
       "created": "2025-11-29 22:22:24",
       "created_at": 1764454944000
     },
     {
+      "id": 46053076,
+      "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
+      "link": "https://yandori.io/news-flow/",
+      "score": 35,
+      "author": "antiochIst",
+      "created": "2025-11-26 01:27:16",
+      "created_at": 1764120436000
+    },
+    {
       "id": 46090433,
       "title": "All it takes is for one to work out",
       "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-      "score": 478,
+      "score": 580,
       "author": "herbertl",
       "created": "2025-11-29 20:22:44",
       "created_at": 1764447764000
@@ -46,7 +64,7 @@
       "id": 46092558,
       "title": "Meshtastic",
       "link": "https://meshtastic.org/",
-      "score": 119,
+      "score": 183,
       "author": "debo_",
       "created": "2025-11-30 01:15:59",
       "created_at": 1764465359000
@@ -55,7 +73,7 @@
       "id": 46090969,
       "title": "Landlock-Ing Linux",
       "link": "https://blog.prizrak.me/post/landlock/",
-      "score": 172,
+      "score": 213,
       "author": "razighter777",
       "created": "2025-11-29 21:30:53",
       "created_at": 1764451853000
@@ -64,28 +82,19 @@
       "id": 46056954,
       "title": "The HTTP Query Method",
       "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
-      "score": 138,
+      "score": 197,
       "author": "Ivoah",
       "created": "2025-11-26 12:57:35",
       "created_at": 1764161855000
     },
     {
-      "id": 46055942,
-      "title": "Dynamic Skillset Reference Architecture",
-      "link": "https://chatbotkit.com/examples/dynamic-skillset-reference-architecture",
-      "score": 5,
-      "author": "_pdp_",
-      "created": "2025-11-26 10:08:19",
-      "created_at": 1764151699000
-    },
-    {
-      "id": 46090269,
-      "title": "Learning Feynman's Trick for Integrals",
-      "link": "https://zackyzz.github.io/feynman.html",
-      "score": 178,
-      "author": "Zen1th",
-      "created": "2025-11-29 19:55:17",
-      "created_at": 1764446117000
+      "id": 46067011,
+      "title": "RL is more information inefficient than you thought",
+      "link": "https://www.dwarkesh.com/p/bits-per-sample",
+      "score": 11,
+      "author": "cubefox",
+      "created": "2025-11-27 08:23:03",
+      "created_at": 1764231783000
     }
   ],
   "code": 200,
