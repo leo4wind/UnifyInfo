@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-11-30T01:00:24.937Z"
+    "lastUpdate": "2025-11-30T04:27:00.985Z"
   },
   "data": [
     {
       "id": 46091362,
       "title": "Bazzite: The next generation of Linux gaming",
       "link": "https://bazzite.gg/",
-      "score": 98,
+      "score": 266,
       "author": "doener",
       "created": "2025-11-29 22:22:24",
       "created_at": 1764454944000
     },
     {
-      "id": 46090969,
-      "title": "Landlock-Ing Linux",
-      "link": "https://blog.prizrak.me/post/landlock/",
-      "score": 96,
-      "author": "razighter777",
-      "created": "2025-11-29 21:30:53",
-      "created_at": 1764451853000
-    },
-    {
       "id": 46090433,
       "title": "All it takes is for one to work out",
       "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-      "score": 270,
+      "score": 389,
       "author": "herbertl",
       "created": "2025-11-29 20:22:44",
       "created_at": 1764447764000
     },
     {
+      "id": 46092558,
+      "title": "Meshtastic",
+      "link": "https://meshtastic.org/",
+      "score": 56,
+      "author": "debo_",
+      "created": "2025-11-30 01:15:59",
+      "created_at": 1764465359000
+    },
+    {
+      "id": 46093473,
+      "title": "Show HN: Boing",
+      "link": "https://boing.greg.technology/",
+      "score": 7,
+      "author": "gregsadetsky",
+      "created": "2025-11-30 03:46:35",
+      "created_at": 1764474395000
+    },
+    {
+      "id": 46056954,
+      "title": "The HTTP Query Method",
+      "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
+      "score": 78,
+      "author": "Ivoah",
+      "created": "2025-11-26 12:57:35",
+      "created_at": 1764161855000
+    },
+    {
+      "id": 46090969,
+      "title": "Landlock-Ing Linux",
+      "link": "https://blog.prizrak.me/post/landlock/",
+      "score": 143,
+      "author": "razighter777",
+      "created": "2025-11-29 21:30:53",
+      "created_at": 1764451853000
+    },
+    {
       "id": 46090172,
       "title": "Be Like Clippy",
       "link": "https://be-clippy.com/",
-      "score": 194,
+      "score": 247,
       "author": "Aloha",
       "created": "2025-11-29 19:41:55",
       "created_at": 1764445315000
     },
     {
-      "id": 46092056,
-      "title": "Dilution vs. Risk taking: Capital gains taxes and entrepreneurs",
-      "link": "https://www.nber.org/papers/w34512",
-      "score": 21,
-      "author": "hhs",
-      "created": "2025-11-29 23:59:49",
-      "created_at": 1764460789000
-    },
-    {
       "id": 46090269,
       "title": "Learning Feynman's Trick for Integrals",
       "link": "https://zackyzz.github.io/feynman.html",
-      "score": 97,
+      "score": 141,
       "author": "Zen1th",
       "created": "2025-11-29 19:55:17",
       "created_at": 1764446117000
     },
     {
-      "id": 46090619,
-      "title": "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
-      "link": "https://github.com/gavrielc/Nano-PDF",
-      "score": 81,
-      "author": "GavCo",
-      "created": "2025-11-29 20:44:24",
-      "created_at": 1764449064000
+      "id": 46092478,
+      "title": "A new Little Prince museum has opened its doors in Switzerland",
+      "link": "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/",
+      "score": 23,
+      "author": "gnabgib",
+      "created": "2025-11-30 01:03:44",
+      "created_at": 1764464624000
     },
     {
       "id": 46071221,
       "title": "Blender facial animation tool. What else should it do?",
       "link": "https://github.com/shun126/livelinkface_arkit_receiver/wiki",
-      "score": 24,
+      "score": 48,
       "author": "happy-game-dev",
       "created": "2025-11-27 17:13:51",
       "created_at": 1764263631000
-    },
-    {
-      "id": 46051182,
-      "title": "Let go of StackOverflow; communities must take ownership",
-      "link": "https://ahelwer.ca/post/2025-11-25-stackoverflow/",
-      "score": 26,
-      "author": "tensegrist",
-      "created": "2025-11-25 21:46:21",
-      "created_at": 1764107181000
-    },
-    {
-      "id": 46090294,
-      "title": "The Origins of Scala (2009)",
-      "link": "https://www.artima.com/articles/the-origins-of-scala",
-      "score": 47,
-      "author": "todsacerdoti",
-      "created": "2025-11-29 19:59:12",
-      "created_at": 1764446352000
     }
   ],
   "code": 200,
