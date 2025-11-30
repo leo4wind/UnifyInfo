@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-30T16:13:00.102Z"
+    "lastUpdate": "2025-11-30T20:12:38.054Z"
   },
   "data": [
     {
       "id": 46096337,
       "title": "Advent of Code 2025",
       "link": "https://adventofcode.com/2025/about",
-      "score": 240,
+      "score": 515,
       "author": "vismit2000",
       "created": "2025-11-30 13:07:15",
       "created_at": 1764508035000
@@ -19,82 +19,82 @@
       "id": 46096556,
       "title": "Windows drive letters are not limited to A-Z",
       "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-      "score": 108,
+      "score": 257,
       "author": "LorenDB",
       "created": "2025-11-30 13:40:17",
       "created_at": 1764510017000
     },
     {
+      "id": 46099367,
+      "title": "You Want Microservices, but Do You Need Them?",
+      "link": "https://www.docker.com/blog/do-you-really-need-microservices/",
+      "score": 30,
+      "author": "tsenturk",
+      "created": "2025-11-30 19:02:04",
+      "created_at": 1764529324000
+    },
+    {
+      "id": 46098747,
+      "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
+      "link": "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start",
+      "score": 59,
+      "author": "__rito__",
+      "created": "2025-11-30 17:45:51",
+      "created_at": 1764524751000
+    },
+    {
+      "id": 46098359,
+      "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
+      "link": "https://llvm-mos.org/wiki/Welcome",
+      "score": 54,
+      "author": "jdmoreira",
+      "created": "2025-11-30 17:02:48",
+      "created_at": 1764522168000
+    },
+    {
+      "id": 46098673,
+      "title": "ESA Sentinel-1D delivers first high-resolution images",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen",
+      "score": 34,
+      "author": "giuliomagnifico",
+      "created": "2025-11-30 17:37:09",
+      "created_at": 1764524229000
+    },
+    {
+      "id": 46098838,
+      "title": "Writing a Good Claude.md",
+      "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+      "score": 26,
+      "author": "objcts",
+      "created": "2025-11-30 17:56:43",
+      "created_at": 1764525403000
+    },
+    {
       "id": 46096800,
       "title": "Migrating Dillo from GitHub",
       "link": "https://dillo-browser.org/news/migration-from-github/",
-      "score": 88,
+      "score": 193,
       "author": "todsacerdoti",
       "created": "2025-11-30 14:11:40",
       "created_at": 1764511900000
     },
     {
-      "id": 46095585,
-      "title": "CachyOS: Fast and Customizable Linux Distribution",
-      "link": "https://cachyos.org/",
-      "score": 160,
-      "author": "doener",
-      "created": "2025-11-30 10:47:27",
-      "created_at": 1764499647000
+      "id": 46099108,
+      "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
+      "link": "https://arxiv.org/abs/2211.12588",
+      "score": 15,
+      "author": "mkagenius",
+      "created": "2025-11-30 18:34:52",
+      "created_at": 1764527692000
     },
     {
-      "id": 46093473,
-      "title": "Show HN: Boing",
-      "link": "https://boing.greg.technology/",
-      "score": 554,
-      "author": "gregsadetsky",
-      "created": "2025-11-30 03:46:35",
-      "created_at": 1764474395000
-    },
-    {
-      "id": 46053076,
-      "title": "Show HN: Real-time system that tracks how news spreads across 200k websites",
-      "link": "https://yandori.io/news-flow/",
-      "score": 130,
-      "author": "antiochIst",
-      "created": "2025-11-26 01:27:16",
-      "created_at": 1764120436000
-    },
-    {
-      "id": 46097609,
-      "title": "Atlas Shrugged",
-      "link": "https://david-jasso.com/2024/04/11/atlas-shrugged/",
-      "score": 6,
-      "author": "mnky9800n",
-      "created": "2025-11-30 15:51:03",
-      "created_at": 1764517863000
-    },
-    {
-      "id": 46051422,
-      "title": "Paul Hegarty's updated CS193p SwiftUI course released by Stanford",
-      "link": "https://cs193p.stanford.edu/",
-      "score": 57,
-      "author": "yehiaabdelm",
-      "created": "2025-11-25 22:11:50",
-      "created_at": 1764108710000
-    },
-    {
-      "id": 46093518,
-      "title": "Zigbook Is Plagiarizing the Zigtools Playground",
-      "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-      "score": 386,
-      "author": "todsacerdoti",
-      "created": "2025-11-30 03:54:51",
-      "created_at": 1764474891000
-    },
-    {
-      "id": 46096555,
-      "title": "Norway wealth fund to vote for human rights report at Microsoft, against Nadella",
-      "link": "https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html",
-      "score": 140,
-      "author": "saubeidl",
-      "created": "2025-11-30 13:40:09",
-      "created_at": 1764510009000
+      "id": 46098992,
+      "title": "Don't push AI down our throats",
+      "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
+      "score": 134,
+      "author": "nutanc",
+      "created": "2025-11-30 18:17:13",
+      "created_at": 1764526633000
     }
   ],
   "code": 200,
