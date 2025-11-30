@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-30T04:27:00.946Z"
+    "lastUpdate": "2025-11-30T08:13:53.146Z"
   },
   "data": [
+    {
+      "id": 46093473,
+      "title": "Show HN: Boing",
+      "link": "https://boing.greg.technology/",
+      "score": 223,
+      "author": "gregsadetsky",
+      "created": "2025-11-30 03:46:35",
+      "created_at": 1764474395000
+    },
+    {
+      "id": 46093518,
+      "title": "Zigbook Is Plagiarizing the Zigtools Playground",
+      "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
+      "score": 155,
+      "author": "todsacerdoti",
+      "created": "2025-11-30 03:54:51",
+      "created_at": 1764474891000
+    },
     {
       "id": 46091362,
       "title": "Bazzite: The next generation of Linux gaming",
       "link": "https://bazzite.gg/",
-      "score": 266,
+      "score": 363,
       "author": "doener",
       "created": "2025-11-29 22:22:24",
       "created_at": 1764454944000
@@ -19,7 +37,7 @@
       "id": 46090433,
       "title": "All it takes is for one to work out",
       "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-      "score": 389,
+      "score": 478,
       "author": "herbertl",
       "created": "2025-11-29 20:22:44",
       "created_at": 1764447764000
@@ -28,73 +46,46 @@
       "id": 46092558,
       "title": "Meshtastic",
       "link": "https://meshtastic.org/",
-      "score": 56,
+      "score": 119,
       "author": "debo_",
       "created": "2025-11-30 01:15:59",
       "created_at": 1764465359000
     },
     {
-      "id": 46093473,
-      "title": "Show HN: Boing",
-      "link": "https://boing.greg.technology/",
-      "score": 7,
-      "author": "gregsadetsky",
-      "created": "2025-11-30 03:46:35",
-      "created_at": 1764474395000
-    },
-    {
-      "id": 46056954,
-      "title": "The HTTP Query Method",
-      "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
-      "score": 78,
-      "author": "Ivoah",
-      "created": "2025-11-26 12:57:35",
-      "created_at": 1764161855000
-    },
-    {
       "id": 46090969,
       "title": "Landlock-Ing Linux",
       "link": "https://blog.prizrak.me/post/landlock/",
-      "score": 143,
+      "score": 172,
       "author": "razighter777",
       "created": "2025-11-29 21:30:53",
       "created_at": 1764451853000
     },
     {
-      "id": 46090172,
-      "title": "Be Like Clippy",
-      "link": "https://be-clippy.com/",
-      "score": 247,
-      "author": "Aloha",
-      "created": "2025-11-29 19:41:55",
-      "created_at": 1764445315000
+      "id": 46056954,
+      "title": "The HTTP Query Method",
+      "link": "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html",
+      "score": 138,
+      "author": "Ivoah",
+      "created": "2025-11-26 12:57:35",
+      "created_at": 1764161855000
+    },
+    {
+      "id": 46055942,
+      "title": "Dynamic Skillset Reference Architecture",
+      "link": "https://chatbotkit.com/examples/dynamic-skillset-reference-architecture",
+      "score": 5,
+      "author": "_pdp_",
+      "created": "2025-11-26 10:08:19",
+      "created_at": 1764151699000
     },
     {
       "id": 46090269,
       "title": "Learning Feynman's Trick for Integrals",
       "link": "https://zackyzz.github.io/feynman.html",
-      "score": 141,
+      "score": 178,
       "author": "Zen1th",
       "created": "2025-11-29 19:55:17",
       "created_at": 1764446117000
-    },
-    {
-      "id": 46092478,
-      "title": "A new Little Prince museum has opened its doors in Switzerland",
-      "link": "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/",
-      "score": 23,
-      "author": "gnabgib",
-      "created": "2025-11-30 01:03:44",
-      "created_at": 1764464624000
-    },
-    {
-      "id": 46071221,
-      "title": "Blender facial animation tool. What else should it do?",
-      "link": "https://github.com/shun126/livelinkface_arkit_receiver/wiki",
-      "score": 48,
-      "author": "happy-game-dev",
-      "created": "2025-11-27 17:13:51",
-      "created_at": 1764263631000
     }
   ],
   "code": 200,
