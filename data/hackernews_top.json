@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-11-30T20:12:38.054Z"
+    "lastUpdate": "2025-12-01T01:04:54.527Z"
   },
   "data": [
     {
-      "id": 46096337,
-      "title": "Advent of Code 2025",
-      "link": "https://adventofcode.com/2025/about",
-      "score": 515,
-      "author": "vismit2000",
-      "created": "2025-11-30 13:07:15",
-      "created_at": 1764508035000
+      "id": 46100892,
+      "title": "A Love Letter to FreeBSD",
+      "link": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
+      "score": 146,
+      "author": "rbanffy",
+      "created": "2025-11-30 22:05:07",
+      "created_at": 1764540307000
     },
     {
-      "id": 46096556,
-      "title": "Windows drive letters are not limited to A-Z",
-      "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-      "score": 257,
-      "author": "LorenDB",
-      "created": "2025-11-30 13:40:17",
-      "created_at": 1764510017000
-    },
-    {
-      "id": 46099367,
-      "title": "You Want Microservices, but Do You Need Them?",
-      "link": "https://www.docker.com/blog/do-you-really-need-microservices/",
-      "score": 30,
-      "author": "tsenturk",
-      "created": "2025-11-30 19:02:04",
-      "created_at": 1764529324000
-    },
-    {
-      "id": 46098747,
-      "title": "ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025",
-      "link": "https://safari.ethz.ch/ddca/spring2025/doku.php?id=start",
-      "score": 59,
-      "author": "__rito__",
-      "created": "2025-11-30 17:45:51",
-      "created_at": 1764524751000
-    },
-    {
-      "id": 46098359,
-      "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
-      "link": "https://llvm-mos.org/wiki/Welcome",
-      "score": 54,
-      "author": "jdmoreira",
-      "created": "2025-11-30 17:02:48",
-      "created_at": 1764522168000
-    },
-    {
-      "id": 46098673,
-      "title": "ESA Sentinel-1D delivers first high-resolution images",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen",
-      "score": 34,
-      "author": "giuliomagnifico",
-      "created": "2025-11-30 17:37:09",
-      "created_at": 1764524229000
+      "id": 46101492,
+      "title": "Algorithms for Optimization [pdf]",
+      "link": "https://algorithmsbook.com/optimization/files/optimization.pdf",
+      "score": 39,
+      "author": "Anon84",
+      "created": "2025-11-30 23:21:32",
+      "created_at": 1764544892000
     },
     {
       "id": 46098838,
-      "title": "Writing a Good Claude.md",
+      "title": "Writing a good Claude.md",
       "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-      "score": 26,
+      "score": 283,
       "author": "objcts",
       "created": "2025-11-30 17:56:43",
       "created_at": 1764525403000
     },
     {
+      "id": 46096337,
+      "title": "Advent of Code 2025",
+      "link": "https://adventofcode.com/2025/about",
+      "score": 706,
+      "author": "vismit2000",
+      "created": "2025-11-30 13:07:15",
+      "created_at": 1764508035000
+    },
+    {
+      "id": 46101263,
+      "title": "Bricklink suspends Marketplace operations in 35 countries (developing story)",
+      "link": "https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/",
+      "score": 44,
+      "author": "makeitdouble",
+      "created": "2025-11-30 22:53:08",
+      "created_at": 1764543188000
+    },
+    {
+      "id": 46096556,
+      "title": "Windows drive letters are not limited to A-Z",
+      "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
+      "score": 362,
+      "author": "LorenDB",
+      "created": "2025-11-30 13:40:17",
+      "created_at": 1764510017000
+    },
+    {
+      "id": 46098359,
+      "title": "LLVM-MOS – Clang LLVM fork targeting the 6502",
+      "link": "https://llvm-mos.org/wiki/Welcome",
+      "score": 105,
+      "author": "jdmoreira",
+      "created": "2025-11-30 17:02:48",
+      "created_at": 1764522168000
+    },
+    {
       "id": 46096800,
       "title": "Migrating Dillo from GitHub",
       "link": "https://dillo-browser.org/news/migration-from-github/",
-      "score": 193,
+      "score": 262,
       "author": "todsacerdoti",
       "created": "2025-11-30 14:11:40",
       "created_at": 1764511900000
     },
     {
-      "id": 46099108,
-      "title": "Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)",
-      "link": "https://arxiv.org/abs/2211.12588",
-      "score": 15,
-      "author": "mkagenius",
-      "created": "2025-11-30 18:34:52",
-      "created_at": 1764527692000
+      "id": 46098673,
+      "title": "ESA Sentinel-1D delivers first high-resolution images",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen",
+      "score": 77,
+      "author": "giuliomagnifico",
+      "created": "2025-11-30 17:37:09",
+      "created_at": 1764524229000
     },
     {
-      "id": 46098992,
-      "title": "Don't push AI down our throats",
-      "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
-      "score": 134,
-      "author": "nutanc",
-      "created": "2025-11-30 18:17:13",
-      "created_at": 1764526633000
+      "id": 46058670,
+      "title": "Stop Hacklore – An Open Letter",
+      "link": "https://www.hacklore.org/letter",
+      "score": 95,
+      "author": "zdw",
+      "created": "2025-11-26 15:55:48",
+      "created_at": 1764172548000
     }
   ],
   "code": 200,

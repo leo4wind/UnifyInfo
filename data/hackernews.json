@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-11-30T20:12:37.894Z"
+    "lastUpdate": "2025-12-01T01:04:54.157Z"
   },
   "data": [
     {
       "id": 46086771,
       "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
-      "score": 810,
+      "score": 822,
       "author": "fleahunter",
       "created": "2025-11-29 11:31:58",
       "created_at": 1764415918000
@@ -19,43 +19,34 @@
       "id": 46090433,
       "title": "All it takes is for one to work out",
       "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-      "score": 716,
+      "score": 752,
       "author": "herbertl",
       "created": "2025-11-29 20:22:44",
       "created_at": 1764447764000
     },
     {
-      "id": 46093473,
-      "title": "Show HN: Boing",
-      "link": "https://boing.greg.technology/",
-      "score": 648,
-      "author": "gregsadetsky",
-      "created": "2025-11-30 03:46:35",
-      "created_at": 1764474395000
-    },
-    {
       "id": 46096337,
       "title": "Advent of Code 2025",
       "link": "https://adventofcode.com/2025/about",
-      "score": 515,
+      "score": 706,
       "author": "vismit2000",
       "created": "2025-11-30 13:07:15",
       "created_at": 1764508035000
     },
     {
-      "id": 46083004,
-      "title": "Airbus A320 – intense solar radiation may corrupt data critical for flight",
-      "link": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
-      "score": 500,
-      "author": "pyrophoenix",
-      "created": "2025-11-28 21:40:21",
-      "created_at": 1764366021000
+      "id": 46093473,
+      "title": "Show HN: Boing",
+      "link": "https://boing.greg.technology/",
+      "score": 699,
+      "author": "gregsadetsky",
+      "created": "2025-11-30 03:46:35",
+      "created_at": 1764474395000
     },
     {
       "id": 46091362,
       "title": "Bazzite: Operating System for Linux gaming",
       "link": "https://bazzite.gg/",
-      "score": 473,
+      "score": 479,
       "author": "doener",
       "created": "2025-11-29 22:22:24",
       "created_at": 1764454944000
@@ -64,7 +55,7 @@
       "id": 46087616,
       "title": "Datacenters in space aren't going to work",
       "link": "https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/",
-      "score": 442,
+      "score": 464,
       "author": "mindracer",
       "created": "2025-11-29 14:05:53",
       "created_at": 1764425153000
@@ -73,7 +64,7 @@
       "id": 46093518,
       "title": "Zigbook Is Plagiarizing the Zigtools Playground",
       "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-      "score": 428,
+      "score": 451,
       "author": "todsacerdoti",
       "created": "2025-11-30 03:54:51",
       "created_at": 1764474891000
@@ -82,19 +73,28 @@
       "id": 46091591,
       "title": "Americans no longer see four-year college degrees as worth the cost",
       "link": "https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672",
-      "score": 428,
+      "score": 442,
       "author": "jnord",
       "created": "2025-11-29 22:56:14",
       "created_at": 1764456974000
     },
     {
-      "id": 46082223,
-      "title": "How good engineers write bad code at big companies",
-      "link": "https://www.seangoedecke.com/bad-code-at-big-companies/",
-      "score": 396,
-      "author": "gfysfm",
-      "created": "2025-11-28 19:59:32",
-      "created_at": 1764359972000
+      "id": 46088192,
+      "title": "Iceland declares ocean-current instability a national security risk",
+      "link": "https://edition.cnn.com/2025/11/15/climate/iceland-warming-current-amoc-collapse-threat",
+      "score": 365,
+      "author": "donohoe",
+      "created": "2025-11-29 15:21:29",
+      "created_at": 1764429689000
+    },
+    {
+      "id": 46096556,
+      "title": "Windows drive letters are not limited to A-Z",
+      "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
+      "score": 362,
+      "author": "LorenDB",
+      "created": "2025-11-30 13:40:17",
+      "created_at": 1764510017000
     }
   ],
   "code": 200,

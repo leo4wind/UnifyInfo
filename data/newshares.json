@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-11-30T20:12:40.850Z"
+    "lastUpdate": "2025-12-01T01:04:59.724Z"
   },
   "data": [
+    {
+      "zqdm": "688807",
+      "zqjc": "优迅股份",
+      "sgdm": "787807",
+      "fxsl": 20000000,
+      "swfxsl": 4800000,
+      "sgsx": 4500,
+      "dgsz": 45000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-08",
+      "zqgbrq": "2025-12-10",
+      "zqjkrq": "2025-12-10",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 58.84,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "光通信前端收发电芯片的研发、设计与销售"
+    },
+    {
+      "zqdm": "301667",
+      "zqjc": "纳百川",
+      "sgdm": "301667",
+      "fxsl": 27917400,
+      "swfxsl": 6700000,
+      "sgsx": 6500,
+      "dgsz": 65000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-08",
+      "zqgbrq": "2025-12-10",
+      "zqjkrq": "2025-12-10",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 28.9,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "新能源汽车动力电池热管理、燃油汽车动力系统热管理及储能电池热管理相关产品的研发、生产和销售"
+    },
     {
       "zqdm": "688802",
       "zqjc": "沐曦股份",
@@ -74,30 +120,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "公司基于自主开发的基因编辑技术提供各类创新模式动物以及临床前阶段的医药研发服务,并利用其自主开发的RenMice全人抗体小鼠平台(包括RenMab、RenLite以及RenNano三个系列)针对人体内千余个潜在药物靶点进行规模化药物发现与开发(以下简称“千鼠万抗”),并将有潜力的抗体分子对外转让、授权或合作开发"
-    },
-    {
-      "zqdm": "688795",
-      "zqjc": "摩尔线程",
-      "sgdm": "787795",
-      "fxsl": 70000000,
-      "swfxsl": 16800000,
-      "sgsx": 11000,
-      "dgsz": 110000,
-      "fxjg": 114.28,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-24",
-      "zqgbrq": "2025-11-26",
-      "zqjkrq": "2025-11-26",
-      "ssrq": null,
-      "syl": null,
-      "hysyl": 60.12,
-      "wszql": 0.03635054,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "GPU及相关产品的研发、设计和销售"
     }
   ],
-  "total": 4
+  "total": 5
 }
