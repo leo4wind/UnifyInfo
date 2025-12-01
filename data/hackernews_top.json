@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-01T12:23:17.666Z"
+    "lastUpdate": "2025-12-01T16:16:37.670Z"
   },
   "data": [
+    {
+      "id": 46106556,
+      "title": "Why xor eax, eax?",
+      "link": "https://xania.org/202512/01-xor-eax-eax",
+      "score": 230,
+      "author": "hasheddan",
+      "created": "2025-12-01 12:22:35",
+      "created_at": 1764591755000
+    },
+    {
+      "id": 46108243,
+      "title": "WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]",
+      "link": "https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf",
+      "score": 66,
+      "author": "robtaylor",
+      "created": "2025-12-01 15:00:45",
+      "created_at": 1764601245000
+    },
+    {
+      "id": 46107282,
+      "title": "Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps",
+      "link": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
+      "score": 80,
+      "author": "mhb",
+      "created": "2025-12-01 13:41:15",
+      "created_at": 1764596475000
+    },
     {
       "id": 46103376,
       "title": "Search tool that only returns content created before ChatGPT's public release",
       "link": "https://tegabrain.com/Slop-Evader",
-      "score": 495,
+      "score": 666,
       "author": "dmitrygr",
       "created": "2025-12-01 04:06:06",
       "created_at": 1764561966000
@@ -19,82 +46,55 @@
       "id": 46106132,
       "title": "Self-hosting a Matrix server for 5 years",
       "link": "https://yaky.dev/2025-11-30-self-hosting-matrix/",
-      "score": 37,
+      "score": 155,
       "author": "the-anarchist",
       "created": "2025-12-01 11:26:39",
       "created_at": 1764588399000
     },
     {
-      "id": 46096337,
-      "title": "Advent of Code 2025",
-      "link": "https://adventofcode.com/2025/about",
-      "score": 1008,
-      "author": "vismit2000",
-      "created": "2025-11-30 13:07:15",
-      "created_at": 1764508035000
+      "id": 46107658,
+      "title": "The Penicillin Myth",
+      "link": "https://www.asimov.press/p/penicillin-myth",
+      "score": 34,
+      "author": "surprisetalk",
+      "created": "2025-12-01 14:13:06",
+      "created_at": 1764598386000
     },
     {
-      "id": 46061390,
-      "title": "Detection of triboelectric discharges during dust events on Mars",
-      "link": "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996",
-      "score": 54,
-      "author": "domofutu",
-      "created": "2025-11-26 19:26:43",
-      "created_at": 1764185203000
+      "id": 46108941,
+      "title": "Ask HN: Who is hiring? (December 2025)",
+      "link": "",
+      "score": 13,
+      "author": "whoishiring",
+      "created": "2025-12-01 16:01:26",
+      "created_at": 1764604886000
     },
     {
-      "id": 46105079,
-      "title": "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
-      "score": 148,
-      "author": "victorbuilds",
-      "created": "2025-12-01 08:54:31",
-      "created_at": 1764579271000
+      "id": 46045876,
+      "title": "Historic Engineering Wonders: Photos That Reveal How They Pulled It Off",
+      "link": "https://rarehistoricalphotos.com/engineering-methods-from-the-past/",
+      "score": 42,
+      "author": "dxs",
+      "created": "2025-11-25 14:04:37",
+      "created_at": 1764079477000
     },
     {
-      "id": 46031608,
-      "title": "Trifold is a tool to quickly and cheaply host static websites using a CDN",
-      "link": "https://www.jpt.sh/projects/trifold/",
-      "score": 30,
-      "author": "birdculture",
-      "created": "2025-11-24 08:19:45",
-      "created_at": 1763972385000
+      "id": 46107177,
+      "title": "A vector graphics workstation from the 70s",
+      "link": "https://justanotherelectronicsblog.com/?p=1429",
+      "score": 38,
+      "author": "ibobev",
+      "created": "2025-12-01 13:31:58",
+      "created_at": 1764595918000
     },
     {
-      "id": 46100892,
-      "title": "A Love Letter to FreeBSD",
-      "link": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
-      "score": 334,
-      "author": "rbanffy",
-      "created": "2025-11-30 22:05:07",
-      "created_at": 1764540307000
-    },
-    {
-      "id": 46098838,
-      "title": "Writing a good Claude.md",
-      "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-      "score": 560,
-      "author": "objcts",
-      "created": "2025-11-30 17:56:43",
-      "created_at": 1764525403000
-    },
-    {
-      "id": 46106181,
-      "title": "UK Government plans new powers to label dissenting movements as 'subversion'",
-      "link": "https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/",
-      "score": 66,
-      "author": "robtherobber",
-      "created": "2025-12-01 11:35:34",
-      "created_at": 1764588934000
-    },
-    {
-      "id": 46102347,
-      "title": "Advent of Sysadmin 2025",
-      "link": "https://sadservers.com/advent",
-      "score": 252,
-      "author": "lazyant",
-      "created": "2025-12-01 01:17:28",
-      "created_at": 1764551848000
+      "id": 46104396,
+      "title": "Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton",
+      "link": "https://areweanticheatyet.com/",
+      "score": 165,
+      "author": "doener",
+      "created": "2025-12-01 07:05:57",
+      "created_at": 1764572757000
     }
   ],
   "code": 200,
