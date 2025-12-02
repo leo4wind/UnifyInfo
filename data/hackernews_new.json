@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-02T08:17:26.637Z"
+    "lastUpdate": "2025-12-02T12:24:14.441Z"
   },
   "data": [
+    {
+      "id": 46120181,
+      "title": "Addressing the adding situation",
+      "link": "https://xania.org/202512/02-adding-integers",
+      "score": 48,
+      "author": "messe",
+      "created": "2025-12-02 11:30:29",
+      "created_at": 1764675029000
+    },
+    {
+      "id": 46119500,
+      "title": "Advent of Compiler Optimisations 2025",
+      "link": "https://xania.org/202511/advent-of-compiler-optimisation",
+      "score": 95,
+      "author": "vismit2000",
+      "created": "2025-12-02 09:51:42",
+      "created_at": 1764669102000
+    },
     {
       "id": 46117112,
       "title": "What will enter the public domain in 2026?",
       "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-      "score": 194,
+      "score": 306,
       "author": "herbertl",
       "created": "2025-12-02 03:23:10",
       "created_at": 1764645790000
@@ -19,34 +37,43 @@
       "id": 46117802,
       "title": "Apple Releases Open Weights Video Model",
       "link": "https://starflow-v.github.io",
-      "score": 52,
+      "score": 206,
       "author": "vessenes",
       "created": "2025-12-02 05:10:01",
       "created_at": 1764652201000
     },
     {
+      "id": 46093613,
+      "title": "YouTube increases FreeBASIC performance (2019)",
+      "link": "https://freebasic.net/forum/viewtopic.php?t=27927",
+      "score": 37,
+      "author": "giancarlostoro",
+      "created": "2025-11-30 04:09:41",
+      "created_at": 1764475781000
+    },
+    {
+      "id": 46119214,
+      "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
+      "link": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/",
+      "score": 38,
+      "author": "hasanhaja",
+      "created": "2025-12-02 09:11:41",
+      "created_at": 1764666701000
+    },
+    {
       "id": 46118432,
       "title": "Rootless Pings in Rust",
       "link": "https://bou.ke/blog/rust-ping/",
-      "score": 21,
+      "score": 78,
       "author": "bouk",
       "created": "2025-12-02 07:01:03",
       "created_at": 1764658863000
     },
     {
-      "id": 46095662,
-      "title": "Beej's Guide to Learning Computer Science",
-      "link": "https://beej.us/guide/bglcs/",
-      "score": 91,
-      "author": "amruthreddi",
-      "created": "2025-11-30 11:03:13",
-      "created_at": 1764500593000
-    },
-    {
       "id": 46108780,
       "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "score": 735,
+      "score": 817,
       "author": "pretext",
       "created": "2025-12-01 15:48:03",
       "created_at": 1764604083000
@@ -55,46 +82,19 @@
       "id": 46104193,
       "title": "India orders smartphone makers to preload state-owned cyber safety app",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-      "score": 643,
+      "score": 742,
       "author": "jmsflknr",
       "created": "2025-12-01 06:30:14",
       "created_at": 1764570614000
     },
     {
-      "id": 46091211,
-      "title": "Tom Stoppard has died",
-      "link": "https://www.bbc.com/news/articles/c74xe49q7vlo",
-      "score": 76,
-      "author": "mstep",
-      "created": "2025-11-29 22:03:33",
-      "created_at": 1764453813000
-    },
-    {
-      "id": 46116724,
-      "title": "Reverse math shows why hard problems are hard",
-      "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
-      "score": 78,
-      "author": "gsf_emergency_6",
-      "created": "2025-12-02 02:35:47",
-      "created_at": 1764642947000
-    },
-    {
-      "id": 46066764,
-      "title": "URL in C Puzzle",
-      "link": "https://susam.net/url-in-c.html",
-      "score": 17,
-      "author": "birdculture",
-      "created": "2025-11-27 07:42:39",
-      "created_at": 1764229359000
-    },
-    {
-      "id": 46117900,
-      "title": "Frequently Asked Unicycling Questions",
-      "link": "https://vale.rocks/posts/unicycle-faq",
-      "score": 28,
-      "author": "edent",
-      "created": "2025-12-02 05:27:18",
-      "created_at": 1764653238000
+      "id": 46095662,
+      "title": "Beej's Guide to Learning Computer Science",
+      "link": "https://beej.us/guide/bglcs/",
+      "score": 180,
+      "author": "amruthreddi",
+      "created": "2025-11-30 11:03:13",
+      "created_at": 1764500593000
     }
   ],
   "code": 200,
