@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-02T12:24:14.441Z"
+    "lastUpdate": "2025-12-02T16:15:58.053Z"
   },
   "data": [
+    {
+      "id": 46052478,
+      "title": "Learning Music with Strudel",
+      "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
+      "score": 90,
+      "author": "terryds",
+      "created": "2025-11-26 00:09:19",
+      "created_at": 1764115759000
+    },
+    {
+      "id": 46121799,
+      "title": "Nixtml: Static website and blog generator written in Nix",
+      "link": "https://github.com/arnarg/nixtml",
+      "score": 31,
+      "author": "todsacerdoti",
+      "created": "2025-12-02 14:54:49",
+      "created_at": 1764687289000
+    },
     {
       "id": 46120181,
       "title": "Addressing the adding situation",
       "link": "https://xania.org/202512/02-adding-integers",
-      "score": 48,
+      "score": 181,
       "author": "messe",
       "created": "2025-12-02 11:30:29",
       "created_at": 1764675029000
     },
     {
+      "id": 46121889,
+      "title": "Mistral 3 family of models released",
+      "link": "https://mistral.ai/news/mistral-3",
+      "score": 170,
+      "author": "pember",
+      "created": "2025-12-02 15:01:53",
+      "created_at": 1764687713000
+    },
+    {
       "id": 46119500,
       "title": "Advent of Compiler Optimisations 2025",
       "link": "https://xania.org/202511/advent-of-compiler-optimisation",
-      "score": 95,
+      "score": 224,
       "author": "vismit2000",
       "created": "2025-12-02 09:51:42",
       "created_at": 1764669102000
     },
     {
-      "id": 46117112,
-      "title": "What will enter the public domain in 2026?",
-      "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-      "score": 306,
-      "author": "herbertl",
-      "created": "2025-12-02 03:23:10",
-      "created_at": 1764645790000
+      "id": 46120611,
+      "title": "Python Data Science Handbook",
+      "link": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "score": 66,
+      "author": "cl3misch",
+      "created": "2025-12-02 12:38:28",
+      "created_at": 1764679108000
+    },
+    {
+      "id": 46121860,
+      "title": "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
+      "link": "https://github.com/marmotdata/marmot",
+      "score": 30,
+      "author": "charlie-haley",
+      "created": "2025-12-02 14:59:40",
+      "created_at": 1764687580000
+    },
+    {
+      "id": 46047170,
+      "title": "YesNotice",
+      "link": "https://infinitedigits.co/docs/software/yesnotice/",
+      "score": 26,
+      "author": "surprisetalk",
+      "created": "2025-11-25 16:08:33",
+      "created_at": 1764086913000
+    },
+    {
+      "id": 46120549,
+      "title": "A series of vignettes from my childhood and early career",
+      "link": "https://www.jasonscheirer.com/weblog/vignettes/",
+      "score": 78,
+      "author": "absqueued",
+      "created": "2025-12-02 12:28:34",
+      "created_at": 1764678514000
     },
     {
       "id": 46117802,
       "title": "Apple Releases Open Weights Video Model",
       "link": "https://starflow-v.github.io",
-      "score": 206,
+      "score": 315,
       "author": "vessenes",
       "created": "2025-12-02 05:10:01",
       "created_at": 1764652201000
-    },
-    {
-      "id": 46093613,
-      "title": "YouTube increases FreeBASIC performance (2019)",
-      "link": "https://freebasic.net/forum/viewtopic.php?t=27927",
-      "score": 37,
-      "author": "giancarlostoro",
-      "created": "2025-11-30 04:09:41",
-      "created_at": 1764475781000
-    },
-    {
-      "id": 46119214,
-      "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
-      "link": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/",
-      "score": 38,
-      "author": "hasanhaja",
-      "created": "2025-12-02 09:11:41",
-      "created_at": 1764666701000
-    },
-    {
-      "id": 46118432,
-      "title": "Rootless Pings in Rust",
-      "link": "https://bou.ke/blog/rust-ping/",
-      "score": 78,
-      "author": "bouk",
-      "created": "2025-12-02 07:01:03",
-      "created_at": 1764658863000
-    },
-    {
-      "id": 46108780,
-      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "score": 817,
-      "author": "pretext",
-      "created": "2025-12-01 15:48:03",
-      "created_at": 1764604083000
-    },
-    {
-      "id": 46104193,
-      "title": "India orders smartphone makers to preload state-owned cyber safety app",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-      "score": 742,
-      "author": "jmsflknr",
-      "created": "2025-12-01 06:30:14",
-      "created_at": 1764570614000
-    },
-    {
-      "id": 46095662,
-      "title": "Beej's Guide to Learning Computer Science",
-      "link": "https://beej.us/guide/bglcs/",
-      "score": 180,
-      "author": "amruthreddi",
-      "created": "2025-11-30 11:03:13",
-      "created_at": 1764500593000
     }
   ],
   "code": 200,

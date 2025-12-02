@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-02T12:24:14.193Z"
+    "lastUpdate": "2025-12-02T16:15:57.869Z"
   },
   "data": [
-    {
-      "id": 46096337,
-      "title": "Advent of Code 2025",
-      "link": "https://adventofcode.com/2025/about",
-      "score": 1190,
-      "author": "vismit2000",
-      "created": "2025-11-30 13:07:15",
-      "created_at": 1764508035000
-    },
-    {
-      "id": 46103376,
-      "title": "Search tool that only returns content created before ChatGPT's public release",
-      "link": "https://tegabrain.com/Slop-Evader",
-      "score": 859,
-      "author": "dmitrygr",
-      "created": "2025-12-01 04:06:06",
-      "created_at": 1764561966000
-    },
     {
       "id": 46108780,
       "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "score": 817,
+      "score": 893,
       "author": "pretext",
       "created": "2025-12-01 15:48:03",
       "created_at": 1764604083000
     },
     {
+      "id": 46103376,
+      "title": "Search tool that only returns content created before ChatGPT's public release",
+      "link": "https://tegabrain.com/Slop-Evader",
+      "score": 865,
+      "author": "dmitrygr",
+      "created": "2025-12-01 04:06:06",
+      "created_at": 1764561966000
+    },
+    {
       "id": 46104193,
       "title": "India orders smartphone makers to preload state-owned cyber safety app",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-      "score": 742,
+      "score": 821,
       "author": "jmsflknr",
       "created": "2025-12-01 06:30:14",
       "created_at": 1764570614000
@@ -46,7 +37,7 @@
       "id": 46098838,
       "title": "Writing a good Claude.md",
       "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-      "score": 720,
+      "score": 722,
       "author": "objcts",
       "created": "2025-11-30 17:56:43",
       "created_at": 1764525403000
@@ -55,7 +46,7 @@
       "id": 46106556,
       "title": "Why xor eax, eax?",
       "link": "https://xania.org/202512/01-xor-eax-eax",
-      "score": 538,
+      "score": 547,
       "author": "hasheddan",
       "created": "2025-12-01 12:22:35",
       "created_at": 1764591755000
@@ -64,19 +55,10 @@
       "id": 46103532,
       "title": "Google Antigravity just deleted the contents of whole drive",
       "link": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
-      "score": 500,
+      "score": 509,
       "author": "tamnd",
       "created": "2025-12-01 04:39:28",
       "created_at": 1764563968000
-    },
-    {
-      "id": 46096556,
-      "title": "Windows drive letters are not limited to A-Z",
-      "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-      "score": 494,
-      "author": "LorenDB",
-      "created": "2025-11-30 13:40:17",
-      "created_at": 1764510017000
     },
     {
       "id": 46098992,
@@ -91,10 +73,28 @@
       "id": 46100892,
       "title": "A Love Letter to FreeBSD",
       "link": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
-      "score": 420,
+      "score": 421,
       "author": "rbanffy",
       "created": "2025-11-30 22:05:07",
       "created_at": 1764540307000
+    },
+    {
+      "id": 46103858,
+      "title": "It’s been a very hard year",
+      "link": "https://bell.bz/its-been-a-very-hard-year/",
+      "score": 416,
+      "author": "surprisetalk",
+      "created": "2025-12-01 05:36:48",
+      "created_at": 1764567408000
+    },
+    {
+      "id": 46114599,
+      "title": "Last Week on My Mac: Losing confidence",
+      "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
+      "score": 403,
+      "author": "frizlab",
+      "created": "2025-12-01 22:56:16",
+      "created_at": 1764629776000
     }
   ],
   "code": 200,
