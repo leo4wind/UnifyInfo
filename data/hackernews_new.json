@@ -3,23 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-02T04:22:20.582Z"
+    "lastUpdate": "2025-12-02T08:17:26.637Z"
   },
   "data": [
     {
       "id": 46117112,
       "title": "What will enter the public domain in 2026?",
       "link": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-      "score": 42,
+      "score": 194,
       "author": "herbertl",
       "created": "2025-12-02 03:23:10",
       "created_at": 1764645790000
     },
     {
+      "id": 46117802,
+      "title": "Apple Releases Open Weights Video Model",
+      "link": "https://starflow-v.github.io",
+      "score": 52,
+      "author": "vessenes",
+      "created": "2025-12-02 05:10:01",
+      "created_at": 1764652201000
+    },
+    {
+      "id": 46118432,
+      "title": "Rootless Pings in Rust",
+      "link": "https://bou.ke/blog/rust-ping/",
+      "score": 21,
+      "author": "bouk",
+      "created": "2025-12-02 07:01:03",
+      "created_at": 1764658863000
+    },
+    {
+      "id": 46095662,
+      "title": "Beej's Guide to Learning Computer Science",
+      "link": "https://beej.us/guide/bglcs/",
+      "score": 91,
+      "author": "amruthreddi",
+      "created": "2025-11-30 11:03:13",
+      "created_at": 1764500593000
+    },
+    {
       "id": 46108780,
       "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "score": 649,
+      "score": 735,
       "author": "pretext",
       "created": "2025-12-01 15:48:03",
       "created_at": 1764604083000
@@ -28,73 +55,46 @@
       "id": 46104193,
       "title": "India orders smartphone makers to preload state-owned cyber safety app",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-      "score": 515,
+      "score": 643,
       "author": "jmsflknr",
       "created": "2025-12-01 06:30:14",
       "created_at": 1764570614000
     },
     {
+      "id": 46091211,
+      "title": "Tom Stoppard has died",
+      "link": "https://www.bbc.com/news/articles/c74xe49q7vlo",
+      "score": 76,
+      "author": "mstep",
+      "created": "2025-11-29 22:03:33",
+      "created_at": 1764453813000
+    },
+    {
       "id": 46116724,
       "title": "Reverse math shows why hard problems are hard",
       "link": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
-      "score": 23,
+      "score": 78,
       "author": "gsf_emergency_6",
       "created": "2025-12-02 02:35:47",
       "created_at": 1764642947000
     },
     {
-      "id": 46117280,
-      "title": "Beej's Guide to Learning Computer Science",
-      "link": "https://beej.us/guide/bglcs/html/split/",
-      "score": 14,
-      "author": "intelkishan",
-      "created": "2025-12-02 03:47:11",
-      "created_at": 1764647231000
+      "id": 46066764,
+      "title": "URL in C Puzzle",
+      "link": "https://susam.net/url-in-c.html",
+      "score": 17,
+      "author": "birdculture",
+      "created": "2025-11-27 07:42:39",
+      "created_at": 1764229359000
     },
     {
-      "id": 46115682,
-      "title": "Arcee Trinity Mini: US-Trained Moe Model",
-      "link": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-      "score": 35,
-      "author": "hurrycane",
-      "created": "2025-12-02 00:31:01",
-      "created_at": 1764635461000
-    },
-    {
-      "id": 46110842,
-      "title": "Ghostty compiled to WASM with xterm.js API compatibility",
-      "link": "https://github.com/coder/ghostty-web",
-      "score": 267,
-      "author": "kylecarbs",
-      "created": "2025-12-01 18:17:02",
-      "created_at": 1764613022000
-    },
-    {
-      "id": 46090184,
-      "title": "Tested: 1981 Datsun 280ZX Turbo (1981)",
-      "link": "https://www.caranddriver.com/reviews/a69529696/1981-datsun-280-zx-turbo-archive-test/",
+      "id": 46117900,
+      "title": "Frequently Asked Unicycling Questions",
+      "link": "https://vale.rocks/posts/unicycle-faq",
       "score": 28,
-      "author": "RickJWagner",
-      "created": "2025-11-29 19:43:59",
-      "created_at": 1764445439000
-    },
-    {
-      "id": 46114599,
-      "title": "Last Week on My Mac: Losing confidence",
-      "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
-      "score": 303,
-      "author": "frizlab",
-      "created": "2025-12-01 22:56:16",
-      "created_at": 1764629776000
-    },
-    {
-      "id": 46108941,
-      "title": "Ask HN: Who is hiring? (December 2025)",
-      "link": "",
-      "score": 232,
-      "author": "whoishiring",
-      "created": "2025-12-01 16:01:26",
-      "created_at": 1764604886000
+      "author": "edent",
+      "created": "2025-12-02 05:27:18",
+      "created_at": 1764653238000
     }
   ],
   "code": 200,
