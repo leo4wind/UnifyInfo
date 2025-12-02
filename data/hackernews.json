@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-01T20:12:52.235Z"
+    "lastUpdate": "2025-12-02T00:55:17.828Z"
   },
   "data": [
     {
       "id": 46096337,
       "title": "Advent of Code 2025",
       "link": "https://adventofcode.com/2025/about",
-      "score": 1147,
+      "score": 1174,
       "author": "vismit2000",
       "created": "2025-11-30 13:07:15",
       "created_at": 1764508035000
     },
     {
-      "id": 46090433,
-      "title": "All it takes is for one to work out",
-      "link": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-      "score": 788,
-      "author": "herbertl",
-      "created": "2025-11-29 20:22:44",
-      "created_at": 1764447764000
-    },
-    {
       "id": 46103376,
       "title": "Search tool that only returns content created before ChatGPT's public release",
       "link": "https://tegabrain.com/Slop-Evader",
-      "score": 777,
+      "score": 830,
       "author": "dmitrygr",
       "created": "2025-12-01 04:06:06",
       "created_at": 1764561966000
@@ -37,7 +28,7 @@
       "id": 46093473,
       "title": "Show HN: Boing",
       "link": "https://boing.greg.technology/",
-      "score": 745,
+      "score": 756,
       "author": "gregsadetsky",
       "created": "2025-11-30 03:46:35",
       "created_at": 1764474395000
@@ -46,55 +37,64 @@
       "id": 46098838,
       "title": "Writing a good Claude.md",
       "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-      "score": 691,
+      "score": 702,
       "author": "objcts",
       "created": "2025-11-30 17:56:43",
       "created_at": 1764525403000
     },
     {
-      "id": 46091362,
-      "title": "Bazzite: Operating System for Linux gaming",
-      "link": "https://bazzite.gg/",
-      "score": 486,
-      "author": "doener",
-      "created": "2025-11-29 22:22:24",
-      "created_at": 1764454944000
+      "id": 46108780,
+      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+      "score": 521,
+      "author": "pretext",
+      "created": "2025-12-01 15:48:03",
+      "created_at": 1764604083000
     },
     {
       "id": 46096556,
       "title": "Windows drive letters are not limited to A-Z",
       "link": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-      "score": 485,
+      "score": 488,
       "author": "LorenDB",
       "created": "2025-11-30 13:40:17",
       "created_at": 1764510017000
     },
     {
-      "id": 46091591,
-      "title": "Americans no longer see four-year college degrees as worth the cost",
-      "link": "https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672",
+      "id": 46103532,
+      "title": "Google Antigravity just deleted the contents of whole drive",
+      "link": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
+      "score": 481,
+      "author": "tamnd",
+      "created": "2025-12-01 04:39:28",
+      "created_at": 1764563968000
+    },
+    {
+      "id": 46106556,
+      "title": "Why xor eax, eax?",
+      "link": "https://xania.org/202512/01-xor-eax-eax",
       "score": 479,
-      "author": "jnord",
-      "created": "2025-11-29 22:56:14",
-      "created_at": 1764456974000
+      "author": "hasheddan",
+      "created": "2025-12-01 12:22:35",
+      "created_at": 1764591755000
     },
     {
       "id": 46093518,
       "title": "Zigbook Is Plagiarizing the Zigtools Playground",
       "link": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-      "score": 470,
+      "score": 471,
       "author": "todsacerdoti",
       "created": "2025-11-30 03:54:51",
       "created_at": 1764474891000
     },
     {
-      "id": 46103532,
-      "title": "Google Antigravity just deleted the contents of whole drive",
-      "link": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
-      "score": 458,
-      "author": "tamnd",
-      "created": "2025-12-01 04:39:28",
-      "created_at": 1764563968000
+      "id": 46098992,
+      "title": "Don't push AI down our throats",
+      "link": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
+      "score": 427,
+      "author": "nutanc",
+      "created": "2025-11-30 18:17:13",
+      "created_at": 1764526633000
     }
   ],
   "code": 200,

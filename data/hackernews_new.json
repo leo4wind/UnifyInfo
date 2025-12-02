@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-01T20:12:52.822Z"
+    "lastUpdate": "2025-12-02T00:55:18.054Z"
   },
   "data": [
+    {
+      "id": 46114599,
+      "title": "Losing Confidence",
+      "link": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
+      "score": 153,
+      "author": "frizlab",
+      "created": "2025-12-01 22:56:16",
+      "created_at": 1764629776000
+    },
+    {
+      "id": 46112906,
+      "title": "How to Attend Meetings – Internal guidelines from the New York Times",
+      "link": "https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p",
+      "score": 265,
+      "author": "spagoop",
+      "created": "2025-12-01 20:40:58",
+      "created_at": 1764621658000
+    },
     {
       "id": 46108780,
       "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-      "score": 227,
+      "score": 521,
       "author": "pretext",
       "created": "2025-12-01 15:48:03",
       "created_at": 1764604083000
@@ -19,82 +37,64 @@
       "id": 46104193,
       "title": "India orders smartphone makers to preload state-owned cyber safety app",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-      "score": 173,
+      "score": 418,
       "author": "jmsflknr",
       "created": "2025-12-01 06:30:14",
       "created_at": 1764570614000
     },
     {
-      "id": 46111284,
-      "title": "Intel could return to Apple computers in 2027",
-      "link": "https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor",
-      "score": 43,
-      "author": "DamnInteresting",
-      "created": "2025-12-01 18:46:17",
-      "created_at": 1764614777000
+      "id": 46056232,
+      "title": "Amazon faces FAA probe after delivery drone snaps internet cable in Texas",
+      "link": "https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html",
+      "score": 120,
+      "author": "jonathanzufi",
+      "created": "2025-11-26 11:05:26",
+      "created_at": 1764155126000
     },
     {
-      "id": 46108941,
-      "title": "Ask HN: Who is hiring? (December 2025)",
-      "link": "",
-      "score": 150,
-      "author": "whoishiring",
-      "created": "2025-12-01 16:01:26",
-      "created_at": 1764604886000
+      "id": 46115214,
+      "title": "Anthropic: AI agents find $4.6M in blockchain smart contract exploits",
+      "link": "https://red.anthropic.com/2025/smart-contracts/",
+      "score": 25,
+      "author": "bpierre",
+      "created": "2025-12-01 23:44:51",
+      "created_at": 1764632691000
     },
     {
       "id": 46110842,
       "title": "Ghostty compiled to WASM with xterm.js API compatibility",
       "link": "https://github.com/coder/ghostty-web",
-      "score": 56,
+      "score": 224,
       "author": "kylecarbs",
       "created": "2025-12-01 18:17:02",
       "created_at": 1764613022000
     },
     {
-      "id": 46106556,
-      "title": "Why xor eax, eax?",
-      "link": "https://xania.org/202512/01-xor-eax-eax",
-      "score": 381,
-      "author": "hasheddan",
-      "created": "2025-12-01 12:22:35",
-      "created_at": 1764591755000
-    },
-    {
-      "id": 46039140,
-      "title": "Isn't WSL2 just a VM?",
-      "link": "https://ssg.dev/isnt-wsl2-just-a-vm/",
-      "score": 121,
-      "author": "sedatk",
-      "created": "2025-11-24 20:50:54",
-      "created_at": 1764017454000
-    },
-    {
-      "id": 46107282,
-      "title": "Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps",
-      "link": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
-      "score": 192,
-      "author": "mhb",
-      "created": "2025-12-01 13:41:15",
-      "created_at": 1764596475000
-    },
-    {
-      "id": 46108940,
-      "title": "Ask HN: Who wants to be hired? (December 2025)",
+      "id": 46108941,
+      "title": "Ask HN: Who is hiring? (December 2025)",
       "link": "",
-      "score": 59,
+      "score": 208,
       "author": "whoishiring",
       "created": "2025-12-01 16:01:26",
       "created_at": 1764604886000
     },
     {
-      "id": 46103376,
-      "title": "Search tool that only returns content created before ChatGPT's public release",
-      "link": "https://tegabrain.com/Slop-Evader",
-      "score": 777,
-      "author": "dmitrygr",
-      "created": "2025-12-01 04:06:06",
-      "created_at": 1764561966000
+      "id": 46106556,
+      "title": "Why xor eax, eax?",
+      "link": "https://xania.org/202512/01-xor-eax-eax",
+      "score": 479,
+      "author": "hasheddan",
+      "created": "2025-12-01 12:22:35",
+      "created_at": 1764591755000
+    },
+    {
+      "id": 46115729,
+      "title": "Around The World, Part 27: Planting trees",
+      "link": "https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/",
+      "score": 3,
+      "author": "ibobev",
+      "created": "2025-12-02 00:36:15",
+      "created_at": 1764635775000
     }
   ],
   "code": 200,
