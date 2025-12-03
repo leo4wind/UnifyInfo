@@ -3,41 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-03T00:54:55.013Z"
+    "lastUpdate": "2025-12-03T04:20:28.161Z"
   },
   "data": [
     {
       "id": 46124267,
       "title": "Anthropic acquires Bun",
       "link": "https://bun.com/blog/bun-joins-anthropic",
-      "score": 1331,
+      "score": 1516,
       "author": "ryanvogel",
       "created": "2025-12-02 18:05:44",
       "created_at": 1764698744000
     },
     {
-      "id": 46126217,
-      "title": "Paged Out",
-      "link": "https://pagedout.institute",
-      "score": 188,
-      "author": "varjag",
-      "created": "2025-12-02 20:14:20",
-      "created_at": 1764706460000
-    },
-    {
       "id": 46124324,
       "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "score": 170,
+      "score": 314,
       "author": "nabla9",
       "created": "2025-12-02 18:10:23",
       "created_at": 1764699023000
     },
     {
+      "id": 46126217,
+      "title": "Paged Out",
+      "link": "https://pagedout.institute",
+      "score": 267,
+      "author": "varjag",
+      "created": "2025-12-02 20:14:20",
+      "created_at": 1764706460000
+    },
+    {
       "id": 46094460,
       "title": "I designed and printed a custom nose guard to help my dog with DLE",
       "link": "https://snoutcover.com/billie-story",
-      "score": 380,
+      "score": 444,
       "author": "ragswag",
       "created": "2025-11-30 06:56:33",
       "created_at": 1764485793000
@@ -46,55 +46,55 @@
       "id": 46121870,
       "title": "OpenAI declares 'code red' as Google catches up in AI race",
       "link": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "score": 411,
+      "score": 510,
       "author": "goplayoutside",
       "created": "2025-12-02 15:00:16",
       "created_at": 1764687616000
     },
     {
-      "id": 46126141,
-      "title": "Free static site generator for small restaurants and cafes",
-      "link": "https://lite.localcafe.org/",
-      "score": 71,
-      "author": "fullstacking",
-      "created": "2025-12-02 20:08:55",
-      "created_at": 1764706135000
-    },
-    {
-      "id": 46125155,
-      "title": "Amazon launches Trainium3",
-      "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
-      "score": 119,
-      "author": "thnaks",
-      "created": "2025-12-02 19:04:31",
-      "created_at": 1764702271000
-    },
-    {
       "id": 46128286,
       "title": "DOOM could have had PC Speaker Music",
       "link": "https://lenowo.org/viewtopic.php?t=45",
-      "score": 15,
+      "score": 49,
       "author": "minki_the_avali",
       "created": "2025-12-02 23:19:07",
       "created_at": 1764717547000
     },
     {
-      "id": 46126964,
-      "title": "Ecosia: The greenest AI is here",
-      "link": "https://blog.ecosia.org/ecosia-ai/",
-      "score": 55,
-      "author": "doener",
-      "created": "2025-12-02 21:14:38",
-      "created_at": 1764710078000
+      "id": 46125155,
+      "title": "Amazon launches Trainium3",
+      "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "score": 148,
+      "author": "thnaks",
+      "created": "2025-12-02 19:04:31",
+      "created_at": 1764702271000
     },
     {
       "id": 46052478,
       "title": "Learning music with Strudel",
       "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
-      "score": 377,
+      "score": 417,
       "author": "terryds",
       "created": "2025-11-26 00:09:19",
       "created_at": 1764115759000
+    },
+    {
+      "id": 46094606,
+      "title": "Qwen3-VL can scan two-hour videos and pinpoint nearly every detail",
+      "link": "https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/",
+      "score": 131,
+      "author": "thm",
+      "created": "2025-11-30 07:27:25",
+      "created_at": 1764487645000
+    },
+    {
+      "id": 46050624,
+      "title": "Counter Galois Onion: Improved encryption for Tor circuit traffic",
+      "link": "https://blog.torproject.org/introducing-cgo/",
+      "score": 20,
+      "author": "wrayjustin",
+      "created": "2025-11-25 20:51:33",
+      "created_at": 1764103893000
     }
   ],
   "code": 200,
