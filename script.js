@@ -86,6 +86,11 @@ const LOCAL_DATA_SOURCES = {
         url: './data/newshares.json',
         name: '新股信息',
         description: '新股申购日历信息'
+    },
+    quark: {
+        url: './data/quark.json',
+        name: '夸克热榜',
+        description: '夸克热门资讯'
     }
 };
 
@@ -355,6 +360,9 @@ function renderData(key, data) {
             break;
         case 'newshares':
             renderNewShares(data.data);
+            break;
+        case 'quark':
+            renderQuark(data.data);
             break;
     }
 }
@@ -689,6 +697,26 @@ function renderNewShares(data) {
             </div>
         </div>
     `}).join('');
+}
+
+// 渲染夸克热榜
+function renderQuark(data) {
+    const container = document.getElementById('quarkList');
+
+    if (!Array.isArray(data)) {
+        showError('quark', '数据格式错误');
+        return;
+    }
+
+    const items = data; // 显示全部数据
+    container.innerHTML = items.map((item, index) => `
+        <div class="hot-item simple">
+            <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
+            <div class="hot-content">
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
+            </div>
+        </div>
+    `).join('');
 }
 
 // 显示错误信息

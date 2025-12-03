@@ -92,6 +92,12 @@ const API_SOURCES = [
         filename: 'newshares.json',
         name: '新股信息',
         description: '新股申购日历信息'
+    },
+    {
+        url: 'https://60s.viki.moe/v2/quark',
+        filename: 'quark.json',
+        name: '夸克热榜',
+        description: '夸克热门资讯'
     }
 ];
 
