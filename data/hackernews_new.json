@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-02T20:14:09.192Z"
+    "lastUpdate": "2025-12-03T00:54:55.044Z"
   },
   "data": [
     {
       "id": 46124267,
       "title": "Anthropic acquires Bun",
       "link": "https://bun.com/blog/bun-joins-anthropic",
-      "score": 716,
+      "score": 1331,
       "author": "ryanvogel",
       "created": "2025-12-02 18:05:44",
       "created_at": 1764698744000
     },
     {
-      "id": 46124205,
-      "title": "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
-      "link": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
-      "score": 150,
-      "author": "speckx",
-      "created": "2025-12-02 17:59:53",
-      "created_at": 1764698393000
+      "id": 46126217,
+      "title": "Paged Out",
+      "link": "https://pagedout.institute",
+      "score": 188,
+      "author": "varjag",
+      "created": "2025-12-02 20:14:20",
+      "created_at": 1764706460000
     },
     {
-      "id": 46125184,
-      "title": "Claude 4.5 Opus' Soul Document",
-      "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
-      "score": 91,
-      "author": "the-needful",
-      "created": "2025-12-02 19:05:54",
-      "created_at": 1764702354000
-    },
-    {
-      "id": 46125155,
-      "title": "Amazon launches Trainium3",
-      "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
-      "score": 45,
-      "author": "thnaks",
-      "created": "2025-12-02 19:04:31",
-      "created_at": 1764702271000
+      "id": 46124324,
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "score": 170,
+      "author": "nabla9",
+      "created": "2025-12-02 18:10:23",
+      "created_at": 1764699023000
     },
     {
       "id": 46094460,
       "title": "I designed and printed a custom nose guard to help my dog with DLE",
       "link": "https://snoutcover.com/billie-story",
-      "score": 224,
+      "score": 380,
       "author": "ragswag",
       "created": "2025-11-30 06:56:33",
       "created_at": 1764485793000
     },
     {
-      "id": 46052478,
-      "title": "Learning music with Strudel",
-      "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
-      "score": 300,
-      "author": "terryds",
-      "created": "2025-11-26 00:09:19",
-      "created_at": 1764115759000
-    },
-    {
-      "id": 46124892,
-      "title": "Cursed circuits: charge pump voltage halver",
-      "link": "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage",
-      "score": 17,
-      "author": "surprisetalk",
-      "created": "2025-12-02 18:47:53",
-      "created_at": 1764701273000
-    },
-    {
       "id": 46121870,
       "title": "OpenAI declares 'code red' as Google catches up in AI race",
       "link": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "score": 162,
+      "score": 411,
       "author": "goplayoutside",
       "created": "2025-12-02 15:00:16",
       "created_at": 1764687616000
     },
     {
-      "id": 46121539,
-      "title": "Zig's new plan for asynchronous programs",
-      "link": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
-      "score": 126,
-      "author": "messe",
-      "created": "2025-12-02 14:31:16",
-      "created_at": 1764685876000
+      "id": 46126141,
+      "title": "Free static site generator for small restaurants and cafes",
+      "link": "https://lite.localcafe.org/",
+      "score": 71,
+      "author": "fullstacking",
+      "created": "2025-12-02 20:08:55",
+      "created_at": 1764706135000
     },
     {
-      "id": 46124179,
-      "title": "School Cell Phone Bans and Student Achievement (NBER Digest)",
-      "link": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
-      "score": 31,
-      "author": "harias",
-      "created": "2025-12-02 17:58:11",
-      "created_at": 1764698291000
+      "id": 46125155,
+      "title": "Amazon launches Trainium3",
+      "link": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "score": 119,
+      "author": "thnaks",
+      "created": "2025-12-02 19:04:31",
+      "created_at": 1764702271000
+    },
+    {
+      "id": 46128286,
+      "title": "DOOM could have had PC Speaker Music",
+      "link": "https://lenowo.org/viewtopic.php?t=45",
+      "score": 15,
+      "author": "minki_the_avali",
+      "created": "2025-12-02 23:19:07",
+      "created_at": 1764717547000
+    },
+    {
+      "id": 46126964,
+      "title": "Ecosia: The greenest AI is here",
+      "link": "https://blog.ecosia.org/ecosia-ai/",
+      "score": 55,
+      "author": "doener",
+      "created": "2025-12-02 21:14:38",
+      "created_at": 1764710078000
+    },
+    {
+      "id": 46052478,
+      "title": "Learning music with Strudel",
+      "link": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
+      "score": 377,
+      "author": "terryds",
+      "created": "2025-11-26 00:09:19",
+      "created_at": 1764115759000
     }
   ],
   "code": 200,
