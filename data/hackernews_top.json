@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-03T12:23:41.988Z"
+    "lastUpdate": "2025-12-03T16:16:55.806Z"
   },
   "data": [
+    {
+      "id": 46134443,
+      "title": "Congressional lawmakers 47% pts better at picking stocks",
+      "link": "https://www.nber.org/papers/w34524",
+      "score": 405,
+      "author": "mhb",
+      "created": "2025-12-03 13:50:10",
+      "created_at": 1764769810000
+    },
+    {
+      "id": 46135627,
+      "title": "Why are my headphones buzzing whenever I run my game?",
+      "link": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+      "score": 31,
+      "author": "pacificat0r",
+      "created": "2025-12-03 15:30:30",
+      "created_at": 1764775830000
+    },
+    {
+      "id": 46133622,
+      "title": "You Can't Fool the Optimizer",
+      "link": "https://xania.org/202512/03-more-adding-integers",
+      "score": 143,
+      "author": "HeliumHydride",
+      "created": "2025-12-03 12:14:34",
+      "created_at": 1764764074000
+    },
+    {
+      "id": 46134991,
+      "title": "GSWT: Gaussian Splatting Wang Tiles",
+      "link": "https://yunfan.zone/gswt_webpage/",
+      "score": 26,
+      "author": "klaussilveira",
+      "created": "2025-12-03 14:40:25",
+      "created_at": 1764772825000
+    },
+    {
+      "id": 46072280,
+      "title": "How to Synthesize a House Loop",
+      "link": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+      "score": 23,
+      "author": "stagas",
+      "created": "2025-11-27 19:04:56",
+      "created_at": 1764270296000
+    },
     {
       "id": 46124267,
       "title": "Anthropic acquires Bun",
       "link": "https://bun.com/blog/bun-joins-anthropic",
-      "score": 1904,
+      "score": 2029,
       "author": "ryanvogel",
       "created": "2025-12-02 18:05:44",
       "created_at": 1764698744000
     },
     {
-      "id": 46131406,
-      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "score": 368,
-      "author": "Brajeshwar",
-      "created": "2025-12-03 07:52:37",
-      "created_at": 1764748357000
+      "id": 46050855,
+      "title": "A Look at Rust from 2012",
+      "link": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
+      "score": 92,
+      "author": "todsacerdoti",
+      "created": "2025-11-25 21:12:36",
+      "created_at": 1764105156000
     },
     {
-      "id": 46073978,
-      "title": "Mathematics is hard for mathematicians to understand too",
-      "link": "https://www.science.org/doi/10.1126/science.aec9014",
-      "score": 25,
-      "author": "mmaaz",
-      "created": "2025-11-27 23:05:54",
-      "created_at": 1764284754000
+      "id": 46134178,
+      "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
+      "link": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
+      "score": 195,
+      "author": "doener",
+      "created": "2025-12-03 13:20:58",
+      "created_at": 1764768058000
     },
     {
-      "id": 46124324,
-      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
-      "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "score": 604,
-      "author": "nabla9",
-      "created": "2025-12-02 18:10:23",
-      "created_at": 1764699023000
+      "id": 46136023,
+      "title": "MinIO is now in maintenance-mode",
+      "link": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+      "score": 3,
+      "author": "hajtom",
+      "created": "2025-12-03 16:00:19",
+      "created_at": 1764777619000
     },
     {
-      "id": 46130335,
-      "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
-      "link": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
-      "score": 131,
-      "author": "areoform",
-      "created": "2025-12-03 04:32:16",
-      "created_at": 1764736336000
-    },
-    {
-      "id": 46067995,
-      "title": "AI agents break rules under everyday pressure",
-      "link": "https://spectrum.ieee.org/ai-agents-safety",
-      "score": 164,
-      "author": "pseudolus",
-      "created": "2025-11-27 10:52:15",
-      "created_at": 1764240735000
-    },
-    {
-      "id": 46058154,
-      "title": "The Writing Is on the Wall for Handwriting Recognition",
-      "link": "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/",
-      "score": 63,
-      "author": "speckx",
-      "created": "2025-11-26 15:14:42",
-      "created_at": 1764170082000
-    },
-    {
-      "id": 46054467,
-      "title": "Super fast aggregations in PostgreSQL 19",
-      "link": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
-      "score": 99,
-      "author": "jnord",
-      "created": "2025-11-26 05:32:28",
-      "created_at": 1764135148000
-    },
-    {
-      "id": 46126217,
-      "title": "Paged Out",
-      "link": "https://pagedout.institute",
-      "score": 447,
-      "author": "varjag",
-      "created": "2025-12-02 20:14:20",
-      "created_at": 1764706460000
-    },
-    {
-      "id": 46130784,
-      "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
-      "link": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
-      "score": 74,
-      "author": "pickledoyster",
-      "created": "2025-12-03 06:07:22",
-      "created_at": 1764742042000
+      "id": 46135008,
+      "title": "Mapping Every Dollar of America's $5T Healthcare System",
+      "link": "https://healthisotherpeople.substack.com/p/an-abominable-creature",
+      "score": 57,
+      "author": "brandonb",
+      "created": "2025-12-03 14:42:02",
+      "created_at": 1764772922000
     }
   ],
   "code": 200,
