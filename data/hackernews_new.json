@@ -3,68 +3,77 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-03T08:17:06.171Z"
+    "lastUpdate": "2025-12-03T12:23:42.015Z"
   },
   "data": [
-    {
-      "id": 46131330,
-      "title": "Accepting US car standards would risk European lives",
-      "link": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
-      "score": 75,
-      "author": "saubeidl",
-      "created": "2025-12-03 07:41:51",
-      "created_at": 1764747711000
-    },
     {
       "id": 46124267,
       "title": "Anthropic acquires Bun",
       "link": "https://bun.com/blog/bun-joins-anthropic",
-      "score": 1733,
+      "score": 1904,
       "author": "ryanvogel",
       "created": "2025-12-02 18:05:44",
       "created_at": 1764698744000
     },
     {
+      "id": 46131406,
+      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+      "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+      "score": 368,
+      "author": "Brajeshwar",
+      "created": "2025-12-03 07:52:37",
+      "created_at": 1764748357000
+    },
+    {
+      "id": 46073978,
+      "title": "Mathematics is hard for mathematicians to understand too",
+      "link": "https://www.science.org/doi/10.1126/science.aec9014",
+      "score": 25,
+      "author": "mmaaz",
+      "created": "2025-11-27 23:05:54",
+      "created_at": 1764284754000
+    },
+    {
       "id": 46124324,
       "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "score": 462,
+      "score": 604,
       "author": "nabla9",
       "created": "2025-12-02 18:10:23",
       "created_at": 1764699023000
     },
     {
-      "id": 46067995,
-      "title": "AI agents break rules under everyday pressure",
-      "link": "https://spectrum.ieee.org/ai-agents-safety",
-      "score": 100,
-      "author": "pseudolus",
-      "created": "2025-11-27 10:52:15",
-      "created_at": 1764240735000
-    },
-    {
-      "id": 46130784,
-      "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
-      "link": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
-      "score": 36,
-      "author": "pickledoyster",
-      "created": "2025-12-03 06:07:22",
-      "created_at": 1764742042000
-    },
-    {
       "id": 46130335,
       "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
       "link": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
-      "score": 48,
+      "score": 131,
       "author": "areoform",
       "created": "2025-12-03 04:32:16",
       "created_at": 1764736336000
     },
     {
+      "id": 46067995,
+      "title": "AI agents break rules under everyday pressure",
+      "link": "https://spectrum.ieee.org/ai-agents-safety",
+      "score": 164,
+      "author": "pseudolus",
+      "created": "2025-11-27 10:52:15",
+      "created_at": 1764240735000
+    },
+    {
+      "id": 46058154,
+      "title": "The Writing Is on the Wall for Handwriting Recognition",
+      "link": "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/",
+      "score": 63,
+      "author": "speckx",
+      "created": "2025-11-26 15:14:42",
+      "created_at": 1764170082000
+    },
+    {
       "id": 46054467,
       "title": "Super fast aggregations in PostgreSQL 19",
       "link": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
-      "score": 46,
+      "score": 99,
       "author": "jnord",
       "created": "2025-11-26 05:32:28",
       "created_at": 1764135148000
@@ -73,28 +82,19 @@
       "id": 46126217,
       "title": "Paged Out",
       "link": "https://pagedout.institute",
-      "score": 370,
+      "score": 447,
       "author": "varjag",
       "created": "2025-12-02 20:14:20",
       "created_at": 1764706460000
     },
     {
-      "id": 46130233,
-      "title": "Understanding ECDSA",
-      "link": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
-      "score": 47,
-      "author": "avidthinker",
-      "created": "2025-12-03 04:13:41",
-      "created_at": 1764735221000
-    },
-    {
-      "id": 46094460,
-      "title": "I designed and printed a custom nose guard to help my dog with DLE",
-      "link": "https://snoutcover.com/billie-story",
-      "score": 497,
-      "author": "ragswag",
-      "created": "2025-11-30 06:56:33",
-      "created_at": 1764485793000
+      "id": 46130784,
+      "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
+      "link": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
+      "score": 74,
+      "author": "pickledoyster",
+      "created": "2025-12-03 06:07:22",
+      "created_at": 1764742042000
     }
   ],
   "code": 200,
