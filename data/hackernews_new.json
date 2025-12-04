@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-03T20:13:41.478Z"
+    "lastUpdate": "2025-12-04T00:55:04.192Z"
   },
   "data": [
     {
       "id": 46138238,
       "title": "Ghostty is now non-profit",
       "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 248,
+      "score": 713,
       "author": "vrnvu",
       "created": "2025-12-03 18:40:06",
       "created_at": 1764787206000
     },
     {
-      "id": 46137514,
-      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "score": 249,
-      "author": "bearsyankees",
-      "created": "2025-12-03 17:44:33",
-      "created_at": 1764783873000
-    },
-    {
-      "id": 46138952,
-      "title": "Everyone in Seattle hates AI",
-      "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-      "score": 70,
-      "author": "mips_avatar",
-      "created": "2025-12-03 19:37:25",
-      "created_at": 1764790645000
-    },
-    {
-      "id": 46137253,
-      "title": "1D Conway's Life glider found, 3.7B cells long",
-      "link": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-      "score": 170,
-      "author": "nooks",
-      "created": "2025-12-03 17:24:49",
-      "created_at": 1764782689000
-    },
-    {
       "id": 46126446,
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "score": 80,
+      "score": 378,
       "author": "evolve2k",
       "created": "2025-12-02 20:33:10",
       "created_at": 1764707590000
     },
     {
-      "id": 46138632,
-      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
-      "link": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
-      "score": 19,
-      "author": "ibobev",
-      "created": "2025-12-03 19:12:40",
-      "created_at": 1764789160000
+      "id": 46137514,
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "score": 461,
+      "author": "bearsyankees",
+      "created": "2025-12-03 17:44:33",
+      "created_at": 1764783873000
+    },
+    {
+      "id": 46141745,
+      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+      "link": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+      "score": 32,
+      "author": "coffee--",
+      "created": "2025-12-03 23:28:34",
+      "created_at": 1764804514000
+    },
+    {
+      "id": 46137783,
+      "title": "Micron Announces Exit from Crucial Consumer Business",
+      "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+      "score": 321,
+      "author": "simlevesque",
+      "created": "2025-12-03 18:04:32",
+      "created_at": 1764785072000
+    },
+    {
+      "id": 46137253,
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "link": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "score": 303,
+      "author": "nooks",
+      "created": "2025-12-03 17:24:49",
+      "created_at": 1764782689000
     },
     {
       "id": 46136026,
       "title": "RCE Vulnerability in React and Next.js",
       "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "score": 200,
+      "score": 374,
       "author": "rayhaanj",
       "created": "2025-12-03 16:00:23",
       "created_at": 1764777623000
     },
     {
-      "id": 46137548,
-      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-      "link": "",
-      "score": 42,
-      "author": "rushingcreek",
-      "created": "2025-12-03 17:47:15",
-      "created_at": 1764784035000
+      "id": 46140753,
+      "title": "Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/eth.70033",
+      "score": 46,
+      "author": "JumpCrisscross",
+      "created": "2025-12-03 21:56:37",
+      "created_at": 1764798997000
     },
     {
-      "id": 46137746,
-      "title": "Prompt Injection via Poetry",
-      "link": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "score": 29,
-      "author": "bumbailiff",
-      "created": "2025-12-03 18:01:11",
-      "created_at": 1764784871000
+      "id": 46139761,
+      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+      "link": "https://finfam.app/blog/credit-union-mortgages",
+      "score": 87,
+      "author": "mhashemi",
+      "created": "2025-12-03 20:35:27",
+      "created_at": 1764794127000
     },
     {
-      "id": 46136023,
-      "title": "MinIO is now in maintenance-mode",
-      "link": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
-      "score": 292,
-      "author": "hajtom",
-      "created": "2025-12-03 16:00:19",
-      "created_at": 1764777619000
+      "id": 46142000,
+      "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
+      "link": "https://www.isc.org/kea/",
+      "score": 11,
+      "author": "doener",
+      "created": "2025-12-03 23:58:04",
+      "created_at": 1764806284000
     }
   ],
   "code": 200,
