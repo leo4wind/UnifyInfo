@@ -3,14 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-04T08:17:40.549Z"
+    "lastUpdate": "2025-12-04T12:24:11.547Z"
   },
   "data": [
+    {
+      "id": 46146133,
+      "title": "PGlite – Embeddable Postgres",
+      "link": "https://pglite.dev/",
+      "score": 117,
+      "author": "dsego",
+      "created": "2025-12-04 10:52:42",
+      "created_at": 1764845562000
+    },
+    {
+      "id": 46145365,
+      "title": "It’s time to free JavaScript",
+      "link": "https://javascript.tm/letter",
+      "score": 127,
+      "author": "pavelai",
+      "created": "2025-12-04 09:01:55",
+      "created_at": 1764838915000
+    },
+    {
+      "id": 46145902,
+      "title": "Tunnl.gg",
+      "link": "https://tunnl.gg",
+      "score": 64,
+      "author": "klipitkas",
+      "created": "2025-12-04 10:15:53",
+      "created_at": 1764843353000
+    },
     {
       "id": 46138238,
       "title": "Ghostty is now non-profit",
       "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 1041,
+      "score": 1159,
       "author": "vrnvu",
       "created": "2025-12-03 18:40:06",
       "created_at": 1764787206000
@@ -19,73 +46,55 @@
       "id": 46126446,
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "score": 695,
+      "score": 804,
       "author": "evolve2k",
       "created": "2025-12-02 20:33:10",
       "created_at": 1764707590000
     },
     {
-      "id": 46142100,
-      "title": "Average DRAM price in USD over last 18 months",
-      "link": "https://pcpartpicker.com/trends/price/memory/",
-      "score": 249,
-      "author": "zekrioca",
-      "created": "2025-12-04 00:08:26",
-      "created_at": 1764806906000
-    },
-    {
-      "id": 46144275,
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "link": "https://uncloud.run/",
-      "score": 39,
-      "author": "rgun",
-      "created": "2025-12-04 06:02:23",
-      "created_at": 1764828143000
+      "id": 46146266,
+      "title": "NextJS Security Vulnerability",
+      "link": "https://nextjs.org/blog/CVE-2025-66478",
+      "score": 17,
+      "author": "connor11528",
+      "created": "2025-12-04 11:14:04",
+      "created_at": 1764846844000
     },
     {
       "id": 46137514,
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
       "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "score": 643,
+      "score": 715,
       "author": "bearsyankees",
       "created": "2025-12-03 17:44:33",
       "created_at": 1764783873000
     },
     {
-      "id": 46137783,
-      "title": "Micron Announces Exit from Crucial Consumer Business",
-      "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "score": 529,
-      "author": "simlevesque",
-      "created": "2025-12-03 18:04:32",
-      "created_at": 1764785072000
+      "id": 46145180,
+      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
+      "link": "https://arxiv.org/abs/2512.04047",
+      "score": 221,
+      "author": "50kIters",
+      "created": "2025-12-04 08:38:17",
+      "created_at": 1764837497000
     },
     {
-      "id": 46101816,
-      "title": "The Differences Between an IndyCar and a F1 Car",
-      "link": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
-      "score": 61,
-      "author": "1659447091",
-      "created": "2025-12-01 00:03:51",
-      "created_at": 1764547431000
+      "id": 46108557,
+      "title": "Show HN: Walrus – a Kafka alternative written in Rust",
+      "link": "https://github.com/nubskr/walrus",
+      "score": 33,
+      "author": "janicerk",
+      "created": "2025-12-01 15:28:13",
+      "created_at": 1764602893000
     },
     {
-      "id": 46137253,
-      "title": "1D Conway's Life glider found, 3.7B cells long",
-      "link": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-      "score": 427,
-      "author": "nooks",
-      "created": "2025-12-03 17:24:49",
-      "created_at": 1764782689000
-    },
-    {
-      "id": 46139761,
-      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "link": "https://finfam.app/blog/credit-union-mortgages",
-      "score": 239,
-      "author": "mhashemi",
-      "created": "2025-12-03 20:35:27",
-      "created_at": 1764794127000
+      "id": 46144275,
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "link": "https://uncloud.run/",
+      "score": 171,
+      "author": "rgun",
+      "created": "2025-12-04 06:02:23",
+      "created_at": 1764828143000
     }
   ],
   "code": 200,

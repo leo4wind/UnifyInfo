@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-04T08:17:40.300Z"
+    "lastUpdate": "2025-12-04T12:24:11.391Z"
   },
   "data": [
     {
       "id": 46124267,
       "title": "Anthropic acquires Bun",
       "link": "https://bun.com/blog/bun-joins-anthropic",
-      "score": 2136,
+      "score": 2145,
       "author": "ryanvogel",
       "created": "2025-12-02 18:05:44",
       "created_at": 1764698744000
@@ -19,7 +19,7 @@
       "id": 46138238,
       "title": "Ghostty is now non-profit",
       "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 1041,
+      "score": 1159,
       "author": "vrnvu",
       "created": "2025-12-03 18:40:06",
       "created_at": 1764787206000
@@ -28,7 +28,7 @@
       "id": 46131406,
       "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
       "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "score": 986,
+      "score": 1004,
       "author": "Brajeshwar",
       "created": "2025-12-03 07:52:37",
       "created_at": 1764748357000
@@ -37,28 +37,55 @@
       "id": 46131330,
       "title": "Accepting US car standards would risk European lives",
       "link": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
-      "score": 828,
+      "score": 832,
       "author": "saubeidl",
       "created": "2025-12-03 07:41:51",
       "created_at": 1764747711000
     },
     {
+      "id": 46138952,
+      "title": "Everyone in Seattle hates AI",
+      "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+      "score": 825,
+      "author": "mips_avatar",
+      "created": "2025-12-03 19:37:25",
+      "created_at": 1764790645000
+    },
+    {
       "id": 46124324,
       "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
       "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "score": 812,
+      "score": 820,
       "author": "nabla9",
       "created": "2025-12-02 18:10:23",
       "created_at": 1764699023000
     },
     {
+      "id": 46126446,
+      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
+      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+      "score": 804,
+      "author": "evolve2k",
+      "created": "2025-12-02 20:33:10",
+      "created_at": 1764707590000
+    },
+    {
       "id": 46121889,
       "title": "Mistral 3 family of models released",
       "link": "https://mistral.ai/news/mistral-3",
-      "score": 802,
+      "score": 804,
       "author": "pember",
       "created": "2025-12-02 15:01:53",
       "created_at": 1764687713000
+    },
+    {
+      "id": 46134443,
+      "title": "“Captain Gains” on Capitol Hill",
+      "link": "https://www.nber.org/papers/w34524",
+      "score": 802,
+      "author": "mhb",
+      "created": "2025-12-03 13:50:10",
+      "created_at": 1764769810000
     },
     {
       "id": 46121870,
@@ -68,33 +95,6 @@
       "author": "goplayoutside",
       "created": "2025-12-02 15:00:16",
       "created_at": 1764687616000
-    },
-    {
-      "id": 46134443,
-      "title": "“Captain Gains” on Capitol Hill",
-      "link": "https://www.nber.org/papers/w34524",
-      "score": 795,
-      "author": "mhb",
-      "created": "2025-12-03 13:50:10",
-      "created_at": 1764769810000
-    },
-    {
-      "id": 46138952,
-      "title": "Everyone in Seattle hates AI",
-      "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-      "score": 769,
-      "author": "mips_avatar",
-      "created": "2025-12-03 19:37:25",
-      "created_at": 1764790645000
-    },
-    {
-      "id": 46126446,
-      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "score": 695,
-      "author": "evolve2k",
-      "created": "2025-12-02 20:33:10",
-      "created_at": 1764707590000
     }
   ],
   "code": 200,
