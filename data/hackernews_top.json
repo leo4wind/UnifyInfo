@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-04T12:24:11.503Z"
+    "lastUpdate": "2025-12-04T16:16:28.177Z"
   },
   "data": [
     {
-      "id": 46146133,
-      "title": "PGlite – Embeddable Postgres",
-      "link": "https://pglite.dev/",
-      "score": 117,
-      "author": "dsego",
-      "created": "2025-12-04 10:52:42",
-      "created_at": 1764845562000
-    },
-    {
       "id": 46145365,
-      "title": "It’s time to free JavaScript",
+      "title": "It’s time to free JavaScript (2024)",
       "link": "https://javascript.tm/letter",
-      "score": 127,
+      "score": 454,
       "author": "pavelai",
       "created": "2025-12-04 09:01:55",
       "created_at": 1764838915000
     },
     {
-      "id": 46145902,
-      "title": "Tunnl.gg",
-      "link": "https://tunnl.gg",
-      "score": 64,
-      "author": "klipitkas",
-      "created": "2025-12-04 10:15:53",
-      "created_at": 1764843353000
+      "id": 46147540,
+      "title": "Transparent Leadership Beats Servant Leadership",
+      "link": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+      "score": 89,
+      "author": "ibobev",
+      "created": "2025-12-04 13:40:00",
+      "created_at": 1764855600000
     },
     {
-      "id": 46138238,
-      "title": "Ghostty is now non-profit",
-      "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 1159,
-      "author": "vrnvu",
-      "created": "2025-12-03 18:40:06",
-      "created_at": 1764787206000
+      "id": 46146451,
+      "title": "I ignore the spotlight as a staff engineer",
+      "link": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+      "score": 193,
+      "author": "todsacerdoti",
+      "created": "2025-12-04 11:36:36",
+      "created_at": 1764848196000
     },
     {
-      "id": 46126446,
-      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "score": 804,
-      "author": "evolve2k",
-      "created": "2025-12-02 20:33:10",
-      "created_at": 1764707590000
+      "id": 46147341,
+      "title": "Functional Quadtrees",
+      "link": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
+      "score": 57,
+      "author": "lbj",
+      "created": "2025-12-04 13:18:38",
+      "created_at": 1764854318000
     },
     {
-      "id": 46146266,
-      "title": "NextJS Security Vulnerability",
-      "link": "https://nextjs.org/blog/CVE-2025-66478",
-      "score": 17,
-      "author": "connor11528",
-      "created": "2025-12-04 11:14:04",
-      "created_at": 1764846844000
+      "id": 46104539,
+      "title": "A lost Amazon world just reappeared in Bolivia",
+      "link": "https://www.sciencedaily.com/releases/2025/11/251130205421.htm",
+      "score": 32,
+      "author": "ashishgupta2209",
+      "created": "2025-12-01 07:30:46",
+      "created_at": 1764574246000
     },
     {
-      "id": 46137514,
-      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "score": 715,
-      "author": "bearsyankees",
-      "created": "2025-12-03 17:44:33",
-      "created_at": 1764783873000
+      "id": 46146740,
+      "title": "Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years",
+      "link": "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/",
+      "score": 61,
+      "author": "teleforce",
+      "created": "2025-12-04 12:09:43",
+      "created_at": 1764850183000
     },
     {
-      "id": 46145180,
-      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
-      "link": "https://arxiv.org/abs/2512.04047",
-      "score": 221,
-      "author": "50kIters",
-      "created": "2025-12-04 08:38:17",
-      "created_at": 1764837497000
+      "id": 46146133,
+      "title": "PGlite – Embeddable Postgres",
+      "link": "https://pglite.dev/",
+      "score": 326,
+      "author": "dsego",
+      "created": "2025-12-04 10:52:42",
+      "created_at": 1764845562000
     },
     {
-      "id": 46108557,
-      "title": "Show HN: Walrus – a Kafka alternative written in Rust",
-      "link": "https://github.com/nubskr/walrus",
-      "score": 33,
-      "author": "janicerk",
-      "created": "2025-12-01 15:28:13",
-      "created_at": 1764602893000
+      "id": 46148763,
+      "title": "The Free Software Foundation Europe deleted its account on X",
+      "link": "https://fsfe.org/news/2025/news-20251204-01.en.html",
+      "score": 53,
+      "author": "latexr",
+      "created": "2025-12-04 15:33:14",
+      "created_at": 1764862394000
     },
     {
-      "id": 46144275,
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "link": "https://uncloud.run/",
-      "score": 171,
-      "author": "rgun",
-      "created": "2025-12-04 06:02:23",
-      "created_at": 1764828143000
+      "id": 46147353,
+      "title": "RAM is so expensive, Samsung won't even sell it to Samsung",
+      "link": "https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html",
+      "score": 177,
+      "author": "sethops1",
+      "created": "2025-12-04 13:20:07",
+      "created_at": 1764854407000
+    },
+    {
+      "id": 46095474,
+      "title": "Show HN: MTXT – Music Text Format",
+      "link": "https://github.com/Daninet/mtxt",
+      "score": 54,
+      "author": "daninet",
+      "created": "2025-11-30 10:21:34",
+      "created_at": 1764498094000
     }
   ],
   "code": 200,
