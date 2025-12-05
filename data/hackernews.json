@@ -3,50 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-05T08:16:28.184Z"
+    "lastUpdate": "2025-12-05T12:23:22.755Z"
   },
   "data": [
     {
       "id": 46138238,
       "title": "Ghostty is now non-profit",
       "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 1291,
+      "score": 1298,
       "author": "vrnvu",
       "created": "2025-12-03 18:40:06",
       "created_at": 1764787206000
     },
     {
-      "id": 46131406,
-      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "score": 1042,
-      "author": "Brajeshwar",
-      "created": "2025-12-03 07:52:37",
-      "created_at": 1764748357000
-    },
-    {
       "id": 46138952,
       "title": "Everyone in Seattle hates AI",
       "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-      "score": 927,
+      "score": 932,
       "author": "mips_avatar",
       "created": "2025-12-03 19:37:25",
       "created_at": 1764790645000
     },
     {
-      "id": 46131330,
-      "title": "Accepting US car standards would risk European lives",
-      "link": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
-      "score": 847,
-      "author": "saubeidl",
-      "created": "2025-12-03 07:41:51",
-      "created_at": 1764747711000
-    },
-    {
       "id": 46134443,
       "title": "“Captain Gains” on Capitol Hill",
       "link": "https://www.nber.org/papers/w34524",
-      "score": 819,
+      "score": 820,
       "author": "mhb",
       "created": "2025-12-03 13:50:10",
       "created_at": 1764769810000
@@ -55,16 +37,25 @@
       "id": 46137514,
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
       "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "score": 800,
+      "score": 803,
       "author": "bearsyankees",
       "created": "2025-12-03 17:44:33",
       "created_at": 1764783873000
     },
     {
+      "id": 46158191,
+      "title": "Cloudflare is down",
+      "link": "https://www.cloudflare.com/",
+      "score": 757,
+      "author": "mektrik",
+      "created": "2025-12-05 08:50:16",
+      "created_at": 1764924616000
+    },
+    {
       "id": 46137783,
       "title": "Micron Announces Exit from Crucial Consumer Business",
       "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "score": 736,
+      "score": 740,
       "author": "simlevesque",
       "created": "2025-12-03 18:04:32",
       "created_at": 1764785072000
@@ -73,7 +64,7 @@
       "id": 46145365,
       "title": "It’s time to free JavaScript (2024)",
       "link": "https://javascript.tm/letter",
-      "score": 685,
+      "score": 694,
       "author": "pavelai",
       "created": "2025-12-04 09:01:55",
       "created_at": 1764838915000
@@ -82,7 +73,7 @@
       "id": 46150715,
       "title": "Why are 38 percent of Stanford students saying they're disabled?",
       "link": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
-      "score": 606,
+      "score": 655,
       "author": "delichon",
       "created": "2025-12-04 18:04:07",
       "created_at": 1764871447000
@@ -91,10 +82,19 @@
       "id": 46136026,
       "title": "RCE Vulnerability in React and Next.js",
       "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "score": 597,
+      "score": 599,
       "author": "rayhaanj",
       "created": "2025-12-03 16:00:23",
       "created_at": 1764777623000
+    },
+    {
+      "id": 46145180,
+      "title": "How elites could shape mass preferences as AI reduces persuasion costs",
+      "link": "https://arxiv.org/abs/2512.04047",
+      "score": 591,
+      "author": "50kIters",
+      "created": "2025-12-04 08:38:17",
+      "created_at": 1764837497000
     }
   ],
   "code": 200,
