@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-05T04:21:16.795Z"
+    "lastUpdate": "2025-12-05T08:16:28.306Z"
   },
   "data": [
     {
+      "id": 46157594,
+      "title": "UniFi 5G",
+      "link": "https://blog.ui.com/article/introducing-unifi-5g",
+      "score": 25,
+      "author": "janandonly",
+      "created": "2025-12-05 07:06:38",
+      "created_at": 1764918398000
+    },
+    {
       "id": 46155135,
-      "title": "AV1: A Modern, Open Codec",
+      "title": "Netflix’s AV1 Journey: From Android to TVs and Beyond",
       "link": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
-      "score": 235,
+      "score": 343,
       "author": "CharlesW",
       "created": "2025-12-05 00:09:57",
       "created_at": 1764893397000
@@ -19,79 +28,70 @@
       "id": 46155619,
       "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
       "link": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
-      "score": 105,
+      "score": 214,
       "author": "mikelabatt",
       "created": "2025-12-05 01:05:57",
       "created_at": 1764896757000
     },
     {
+      "id": 46151299,
+      "title": "I have been writing a niche history blog for 15 years",
+      "link": "https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history",
+      "score": 79,
+      "author": "benbreen",
+      "created": "2025-12-04 18:49:20",
+      "created_at": 1764874160000
+    },
+    {
+      "id": 46094330,
+      "title": "Show HN: Tacopy – Tail Call Optimization for Python",
+      "link": "https://github.com/raaidrt/tacopy",
+      "score": 24,
+      "author": "raaid-rt",
+      "created": "2025-11-30 06:18:57",
+      "created_at": 1764483537000
+    },
+    {
       "id": 46155085,
       "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
       "link": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
-      "score": 81,
+      "score": 151,
       "author": "spartanatreyu",
       "created": "2025-12-05 00:03:36",
       "created_at": 1764893016000
     },
     {
+      "id": 46109978,
+      "title": "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death",
+      "link": "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/",
+      "score": 54,
+      "author": "mikhael",
+      "created": "2025-12-01 17:13:29",
+      "created_at": 1764609209000
+    },
+    {
+      "id": 46156832,
+      "title": "Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video",
+      "link": "https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/",
+      "score": 34,
+      "author": "bookofjoe",
+      "created": "2025-12-05 04:26:10",
+      "created_at": 1764908770000
+    },
+    {
       "id": 46155701,
       "title": "NeurIPS 2025 Best Paper Awards",
       "link": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
-      "score": 41,
+      "score": 85,
       "author": "ivansavz",
       "created": "2025-12-05 01:15:42",
       "created_at": 1764897342000
     },
     {
-      "id": 46155868,
-      "title": "How Brussels writes so many laws",
-      "link": "https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws",
-      "score": 37,
-      "author": "amadeuspagel",
-      "created": "2025-12-05 01:39:24",
-      "created_at": 1764898764000
-    },
-    {
-      "id": 46155401,
-      "title": "The Ofcom Files, Part 4: Ofcom Rides Again",
-      "link": "https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/",
-      "score": 52,
-      "author": "parliament32",
-      "created": "2025-12-05 00:41:08",
-      "created_at": 1764895268000
-    },
-    {
-      "id": 46153058,
-      "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
-      "link": "https://github.com/deepreinforce-ai/CUDA-L2",
-      "score": 91,
-      "author": "dzign",
-      "created": "2025-12-04 21:04:29",
-      "created_at": 1764882269000
-    },
-    {
-      "id": 46154022,
-      "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
-      "link": "https://openrouter.ai/state-of-ai",
-      "score": 136,
-      "author": "anjneymidha",
-      "created": "2025-12-04 22:26:43",
-      "created_at": 1764887203000
-    },
-    {
-      "id": 46149813,
-      "title": "Multivox: Volumetric Display",
-      "link": "https://github.com/AncientJames/multivox",
-      "score": 244,
-      "author": "jk_tech",
-      "created": "2025-12-04 16:58:35",
-      "created_at": 1764867515000
-    },
-    {
       "id": 46147540,
       "title": "Transparent leadership beats servant leadership",
       "link": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
-      "score": 389,
+      "score": 418,
       "author": "ibobev",
       "created": "2025-12-04 13:40:00",
       "created_at": 1764855600000

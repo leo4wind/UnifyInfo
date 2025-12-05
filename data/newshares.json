@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-12-05T04:21:20.457Z"
+    "lastUpdate": "2025-12-05T08:16:31.584Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2025-12-16",
       "ssrq": null,
       "syl": null,
-      "hysyl": 43.33,
+      "hysyl": 43.29,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,12 +45,35 @@
       "zqjkrq": "2025-12-16",
       "ssrq": null,
       "syl": null,
-      "hysyl": 36.06,
+      "hysyl": 35.95,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "计量校准、检测、认证等专业技术服务"
+    },
+    {
+      "zqdm": "001325",
+      "zqjc": "元创股份",
+      "sgdm": "001325",
+      "fxsl": 19600000,
+      "swfxsl": 19600000,
+      "sgsx": 19500,
+      "dgsz": 195000,
+      "fxjg": 24.75,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-09",
+      "zqgbrq": "2025-12-11",
+      "zqjkrq": "2025-12-11",
+      "ssrq": null,
+      "syl": 12.93,
+      "hysyl": 26.37,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "橡胶履带类产品的研发、生产与销售"
     },
     {
       "zqdm": "688807",
@@ -60,14 +83,14 @@
       "swfxsl": 4800000,
       "sgsx": 4500,
       "dgsz": 45000,
-      "fxjg": null,
+      "fxjg": 51.66,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2025-12-08",
       "zqgbrq": "2025-12-10",
       "zqjkrq": "2025-12-10",
       "ssrq": null,
-      "syl": null,
+      "syl": 60.27,
       "hysyl": 58.09,
       "wszql": null,
       "yzbsl": 0,
@@ -83,14 +106,14 @@
       "swfxsl": 6700000,
       "sgsx": 6500,
       "dgsz": 65000,
-      "fxjg": null,
+      "fxjg": 22.63,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2025-12-08",
       "zqgbrq": "2025-12-10",
       "zqjkrq": "2025-12-10",
       "ssrq": null,
-      "syl": null,
+      "syl": 28.7,
       "hysyl": 28.71,
       "wszql": null,
       "yzbsl": 0,
@@ -145,5 +168,5 @@
       "zyyw": "从事射频前端芯片、射频SoC芯片及其他模拟芯片的研发、设计与销售"
     }
   ],
-  "total": 6
+  "total": 7
 }
