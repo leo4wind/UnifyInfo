@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-04T20:13:28.331Z"
+    "lastUpdate": "2025-12-05T00:55:38.554Z"
   },
   "data": [
     {
       "id": 46138238,
       "title": "Ghostty is now non-profit",
       "link": "https://mitchellh.com/writing/ghostty-non-profit",
-      "score": 1264,
+      "score": 1281,
       "author": "vrnvu",
       "created": "2025-12-03 18:40:06",
       "created_at": 1764787206000
@@ -19,25 +19,16 @@
       "id": 46131406,
       "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
       "link": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "score": 1033,
+      "score": 1038,
       "author": "Brajeshwar",
       "created": "2025-12-03 07:52:37",
       "created_at": 1764748357000
     },
     {
-      "id": 46126446,
-      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "link": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "score": 906,
-      "author": "evolve2k",
-      "created": "2025-12-02 20:33:10",
-      "created_at": 1764707590000
-    },
-    {
       "id": 46138952,
       "title": "Everyone in Seattle hates AI",
       "link": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-      "score": 895,
+      "score": 912,
       "author": "mips_avatar",
       "created": "2025-12-03 19:37:25",
       "created_at": 1764790645000
@@ -46,7 +37,7 @@
       "id": 46131330,
       "title": "Accepting US car standards would risk European lives",
       "link": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
-      "score": 841,
+      "score": 844,
       "author": "saubeidl",
       "created": "2025-12-03 07:41:51",
       "created_at": 1764747711000
@@ -55,7 +46,7 @@
       "id": 46134443,
       "title": "“Captain Gains” on Capitol Hill",
       "link": "https://www.nber.org/papers/w34524",
-      "score": 813,
+      "score": 815,
       "author": "mhb",
       "created": "2025-12-03 13:50:10",
       "created_at": 1764769810000
@@ -64,7 +55,7 @@
       "id": 46137514,
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
       "link": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "score": 777,
+      "score": 786,
       "author": "bearsyankees",
       "created": "2025-12-03 17:44:33",
       "created_at": 1764783873000
@@ -73,28 +64,37 @@
       "id": 46137783,
       "title": "Micron Announces Exit from Crucial Consumer Business",
       "link": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "score": 722,
+      "score": 729,
       "author": "simlevesque",
       "created": "2025-12-03 18:04:32",
       "created_at": 1764785072000
     },
     {
-      "id": 46126217,
-      "title": "Paged Out",
-      "link": "https://pagedout.institute",
-      "score": 585,
-      "author": "varjag",
-      "created": "2025-12-02 20:14:20",
-      "created_at": 1764706460000
+      "id": 46145365,
+      "title": "It’s time to free JavaScript (2024)",
+      "link": "https://javascript.tm/letter",
+      "score": 642,
+      "author": "pavelai",
+      "created": "2025-12-04 09:01:55",
+      "created_at": 1764838915000
     },
     {
       "id": 46136026,
       "title": "RCE Vulnerability in React and Next.js",
       "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "score": 582,
+      "score": 591,
       "author": "rayhaanj",
       "created": "2025-12-03 16:00:23",
       "created_at": 1764777623000
+    },
+    {
+      "id": 46137253,
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "link": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "score": 510,
+      "author": "nooks",
+      "created": "2025-12-03 17:24:49",
+      "created_at": 1764782689000
     }
   ],
   "code": 200,

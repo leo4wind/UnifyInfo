@@ -3,32 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-04T20:13:28.523Z"
+    "lastUpdate": "2025-12-05T00:55:38.731Z"
   },
   "data": [
     {
-      "id": 46150715,
-      "title": "Why are 38 percent of Stanford students saying they're disabled?",
-      "link": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
-      "score": 163,
-      "author": "delichon",
-      "created": "2025-12-04 18:04:07",
-      "created_at": 1764871447000
+      "id": 46155135,
+      "title": "AV1 – Now Powering 30% of Netflix Streaming",
+      "link": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "score": 36,
+      "author": "CharlesW",
+      "created": "2025-12-05 00:09:57",
+      "created_at": 1764893397000
+    },
+    {
+      "id": 46153058,
+      "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
+      "link": "https://github.com/deepreinforce-ai/CUDA-L2",
+      "score": 69,
+      "author": "dzign",
+      "created": "2025-12-04 21:04:29",
+      "created_at": 1764882269000
+    },
+    {
+      "id": 46154022,
+      "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+      "link": "https://openrouter.ai/state-of-ai",
+      "score": 82,
+      "author": "anjneymidha",
+      "created": "2025-12-04 22:26:43",
+      "created_at": 1764887203000
     },
     {
       "id": 46149813,
       "title": "Multivox: Volumetric Display",
       "link": "https://github.com/AncientJames/multivox",
-      "score": 80,
+      "score": 218,
       "author": "jk_tech",
       "created": "2025-12-04 16:58:35",
       "created_at": 1764867515000
     },
     {
+      "id": 46154539,
+      "title": "Coca Cola has an executive dedicated to McDonald's",
+      "link": "https://www.coca-colacompany.com/about-us/leadership/roberto-mercade",
+      "score": 33,
+      "author": "sbolt",
+      "created": "2025-12-04 23:12:33",
+      "created_at": 1764889953000
+    },
+    {
+      "id": 46153466,
+      "title": "Thoughts on Go vs. Rust vs. Zig",
+      "link": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+      "score": 194,
+      "author": "yurivish",
+      "created": "2025-12-04 21:40:24",
+      "created_at": 1764884424000
+    },
+    {
+      "id": 46154491,
+      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "link": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
+      "score": 108,
+      "author": "cheeseblubber",
+      "created": "2025-12-04 23:08:25",
+      "created_at": 1764889705000
+    },
+    {
       "id": 46147540,
       "title": "Transparent leadership beats servant leadership",
       "link": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
-      "score": 274,
+      "score": 356,
       "author": "ibobev",
       "created": "2025-12-04 13:40:00",
       "created_at": 1764855600000
@@ -37,64 +82,19 @@
       "id": 46145365,
       "title": "It’s time to free JavaScript (2024)",
       "link": "https://javascript.tm/letter",
-      "score": 568,
+      "score": 642,
       "author": "pavelai",
       "created": "2025-12-04 09:01:55",
       "created_at": 1764838915000
     },
     {
-      "id": 46151578,
-      "title": "The RAM shortage comes for us all",
-      "link": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all",
-      "score": 145,
-      "author": "speckx",
-      "created": "2025-12-04 19:16:11",
-      "created_at": 1764875771000
-    },
-    {
-      "id": 46145180,
-      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
-      "link": "https://arxiv.org/abs/2512.04047",
-      "score": 383,
-      "author": "50kIters",
-      "created": "2025-12-04 08:38:17",
-      "created_at": 1764837497000
-    },
-    {
-      "id": 46150447,
-      "title": "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
-      "link": "https://github.com/SJRiz/pytogether",
-      "score": 19,
-      "author": "indigodaddy",
-      "created": "2025-12-04 17:43:07",
-      "created_at": 1764870187000
-    },
-    {
-      "id": 46149375,
-      "title": "Autism should not be treated as a single condition",
-      "link": "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition",
-      "score": 103,
-      "author": "bookofjoe",
-      "created": "2025-12-04 16:25:31",
-      "created_at": 1764865531000
-    },
-    {
-      "id": 46149066,
-      "title": "Feynman vs. Computer",
-      "link": "https://entropicthoughts.com/feynman-vs-computer",
-      "score": 34,
-      "author": "cgdl",
-      "created": "2025-12-04 16:03:02",
-      "created_at": 1764864182000
-    },
-    {
-      "id": 46149727,
-      "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
-      "link": "https://www.browserbuddy.com/",
-      "score": 26,
-      "author": "alien0006",
-      "created": "2025-12-04 16:52:56",
-      "created_at": 1764867176000
+      "id": 46153116,
+      "title": "Django 6",
+      "link": "https://docs.djangoproject.com/en/6.0/releases/6.0/",
+      "score": 205,
+      "author": "wilhelmklopp",
+      "created": "2025-12-04 21:09:56",
+      "created_at": 1764882596000
     }
   ],
   "code": 200,

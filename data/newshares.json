@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-12-04T20:13:35.042Z"
+    "lastUpdate": "2025-12-05T00:55:42.064Z"
   },
   "data": [
+    {
+      "zqdm": "603248",
+      "zqjc": "锡华科技",
+      "sgdm": "732248",
+      "fxsl": 100000000,
+      "swfxsl": 21000000,
+      "sgsx": 21000,
+      "dgsz": 210000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-12",
+      "zqgbrq": "2025-12-16",
+      "zqjkrq": "2025-12-16",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 43.33,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司主要从事大型高端装备专用部件的研发、制造与销售"
+    },
+    {
+      "zqdm": "301449",
+      "zqjc": "天溯计量",
+      "sgdm": "301449",
+      "fxsl": 16304348,
+      "swfxsl": 4157500,
+      "sgsx": 4000,
+      "dgsz": 40000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-12",
+      "zqgbrq": "2025-12-16",
+      "zqjkrq": "2025-12-16",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 36.06,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "计量校准、检测、认证等专业技术服务"
+    },
     {
       "zqdm": "688807",
       "zqjc": "优迅股份",
@@ -97,30 +143,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "从事射频前端芯片、射频SoC芯片及其他模拟芯片的研发、设计与销售"
-    },
-    {
-      "zqdm": "688796",
-      "zqjc": "百奥赛图",
-      "sgdm": "787796",
-      "fxsl": 47500000,
-      "swfxsl": 11461000,
-      "sgsx": 7500,
-      "dgsz": 75000,
-      "fxjg": 26.68,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-11-28",
-      "zqgbrq": "2025-12-02",
-      "zqjkrq": "2025-12-02",
-      "ssrq": null,
-      "syl": 519.12,
-      "hysyl": 39.31,
-      "wszql": 0.02801388,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "公司基于自主开发的基因编辑技术提供各类创新模式动物以及临床前阶段的医药研发服务,并利用其自主开发的RenMice全人抗体小鼠平台(包括RenMab、RenLite以及RenNano三个系列)针对人体内千余个潜在药物靶点进行规模化药物发现与开发(以下简称“千鼠万抗”),并将有潜力的抗体分子对外转让、授权或合作开发"
     }
   ],
-  "total": 5
+  "total": 6
 }
