@@ -3,23 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-05T00:55:38.806Z"
+    "lastUpdate": "2025-12-05T04:21:16.795Z"
   },
   "data": [
     {
       "id": 46155135,
-      "title": "AV1 – Now Powering 30% of Netflix Streaming",
+      "title": "AV1: A Modern, Open Codec",
       "link": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
-      "score": 36,
+      "score": 235,
       "author": "CharlesW",
       "created": "2025-12-05 00:09:57",
       "created_at": 1764893397000
     },
     {
+      "id": 46155619,
+      "title": "BMW PHEV: Safety fuse replacement is extremely expensive",
+      "link": "https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/",
+      "score": 105,
+      "author": "mikelabatt",
+      "created": "2025-12-05 01:05:57",
+      "created_at": 1764896757000
+    },
+    {
+      "id": 46155085,
+      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
+      "link": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "score": 81,
+      "author": "spartanatreyu",
+      "created": "2025-12-05 00:03:36",
+      "created_at": 1764893016000
+    },
+    {
+      "id": 46155701,
+      "title": "NeurIPS 2025 Best Paper Awards",
+      "link": "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/",
+      "score": 41,
+      "author": "ivansavz",
+      "created": "2025-12-05 01:15:42",
+      "created_at": 1764897342000
+    },
+    {
+      "id": 46155868,
+      "title": "How Brussels writes so many laws",
+      "link": "https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws",
+      "score": 37,
+      "author": "amadeuspagel",
+      "created": "2025-12-05 01:39:24",
+      "created_at": 1764898764000
+    },
+    {
+      "id": 46155401,
+      "title": "The Ofcom Files, Part 4: Ofcom Rides Again",
+      "link": "https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/",
+      "score": 52,
+      "author": "parliament32",
+      "created": "2025-12-05 00:41:08",
+      "created_at": 1764895268000
+    },
+    {
       "id": 46153058,
       "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
       "link": "https://github.com/deepreinforce-ai/CUDA-L2",
-      "score": 69,
+      "score": 91,
       "author": "dzign",
       "created": "2025-12-04 21:04:29",
       "created_at": 1764882269000
@@ -28,7 +73,7 @@
       "id": 46154022,
       "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
       "link": "https://openrouter.ai/state-of-ai",
-      "score": 82,
+      "score": 136,
       "author": "anjneymidha",
       "created": "2025-12-04 22:26:43",
       "created_at": 1764887203000
@@ -37,64 +82,19 @@
       "id": 46149813,
       "title": "Multivox: Volumetric Display",
       "link": "https://github.com/AncientJames/multivox",
-      "score": 218,
+      "score": 244,
       "author": "jk_tech",
       "created": "2025-12-04 16:58:35",
       "created_at": 1764867515000
     },
     {
-      "id": 46154539,
-      "title": "Coca Cola has an executive dedicated to McDonald's",
-      "link": "https://www.coca-colacompany.com/about-us/leadership/roberto-mercade",
-      "score": 33,
-      "author": "sbolt",
-      "created": "2025-12-04 23:12:33",
-      "created_at": 1764889953000
-    },
-    {
-      "id": 46153466,
-      "title": "Thoughts on Go vs. Rust vs. Zig",
-      "link": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
-      "score": 194,
-      "author": "yurivish",
-      "created": "2025-12-04 21:40:24",
-      "created_at": 1764884424000
-    },
-    {
-      "id": 46154491,
-      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
-      "link": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
-      "score": 108,
-      "author": "cheeseblubber",
-      "created": "2025-12-04 23:08:25",
-      "created_at": 1764889705000
-    },
-    {
       "id": 46147540,
       "title": "Transparent leadership beats servant leadership",
       "link": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
-      "score": 356,
+      "score": 389,
       "author": "ibobev",
       "created": "2025-12-04 13:40:00",
       "created_at": 1764855600000
-    },
-    {
-      "id": 46145365,
-      "title": "It’s time to free JavaScript (2024)",
-      "link": "https://javascript.tm/letter",
-      "score": 642,
-      "author": "pavelai",
-      "created": "2025-12-04 09:01:55",
-      "created_at": 1764838915000
-    },
-    {
-      "id": 46153116,
-      "title": "Django 6",
-      "link": "https://docs.djangoproject.com/en/6.0/releases/6.0/",
-      "score": 205,
-      "author": "wilhelmklopp",
-      "created": "2025-12-04 21:09:56",
-      "created_at": 1764882596000
     }
   ],
   "code": 200,
