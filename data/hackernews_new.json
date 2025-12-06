@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-06T16:12:50.047Z"
+    "lastUpdate": "2025-12-06T20:11:58.721Z"
   },
   "data": [
     {
       "id": 46173547,
       "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
       "link": "http://www.tinycorelinux.net/",
-      "score": 93,
+      "score": 257,
       "author": "LorenDB",
       "created": "2025-12-06 14:18:42",
       "created_at": 1765030722000
     },
     {
+      "id": 46173407,
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "link": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+      "score": 250,
+      "author": "akyuu",
+      "created": "2025-12-06 13:58:31",
+      "created_at": 1765029511000
+    },
+    {
       "id": 46173825,
       "title": "HTML as an Accessible Format for Papers",
       "link": "https://info.arxiv.org/about/accessible_HTML.html",
-      "score": 29,
+      "score": 140,
       "author": "el3ctron",
       "created": "2025-12-06 14:59:52",
       "created_at": 1765033192000
     },
     {
-      "id": 46172167,
-      "title": "Linux Instal Fest Belgrade",
-      "link": "https://dmz.rs/lif2025_en",
-      "score": 70,
-      "author": "ubavic",
-      "created": "2025-12-06 10:20:19",
-      "created_at": 1765016419000
+      "id": 46175826,
+      "title": "OMSCS Open Courseware",
+      "link": "https://sites.gatech.edu/omscsopencourseware/",
+      "score": 22,
+      "author": "kerim-ca",
+      "created": "2025-12-06 19:14:35",
+      "created_at": 1765048475000
     },
     {
-      "id": 46095087,
-      "title": "Self-hosting my photos with Immich",
-      "link": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
-      "score": 510,
-      "author": "birdculture",
-      "created": "2025-11-30 09:11:40",
-      "created_at": 1764493900000
+      "id": 46095817,
+      "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "link": "https://github.com/Tongyi-MAI/Z-Image",
+      "score": 117,
+      "author": "doener",
+      "created": "2025-11-30 11:36:34",
+      "created_at": 1764502594000
+    },
+    {
+      "id": 46172443,
+      "title": "Autism's confusing cousins",
+      "link": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+      "score": 142,
+      "author": "Anon84",
+      "created": "2025-12-06 11:18:40",
+      "created_at": 1765019920000
     },
     {
       "id": 46172797,
       "title": "Touching the Elephant – TPUs",
       "link": "https://considerthebulldog.com/tte-tpu/",
-      "score": 34,
+      "score": 103,
       "author": "giuliomagnifico",
       "created": "2025-12-06 12:29:28",
       "created_at": 1765024168000
     },
     {
+      "id": 46128616,
+      "title": "Finding Gene Cernan's Missing Moon Camera",
+      "link": "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera",
+      "score": 18,
+      "author": "theodorespeaks",
+      "created": "2025-12-02 23:59:58",
+      "created_at": 1764719998000
+    },
+    {
       "id": 46136059,
       "title": "A compact camera built using an optical mouse",
       "link": "https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/",
-      "score": 166,
+      "score": 210,
       "author": "PaulHoule",
       "created": "2025-12-03 16:02:29",
       "created_at": 1764777749000
     },
     {
-      "id": 46094989,
-      "title": "Mapping Amazing: Bee Maps",
-      "link": "https://maphappenings.com/2025/11/06/bee-maps/",
-      "score": 7,
-      "author": "altilunium",
-      "created": "2025-11-30 08:50:01",
-      "created_at": 1764492601000
-    },
-    {
-      "id": 46080498,
-      "title": "The unexpected effectiveness of one-shot decompilation with Claude",
-      "link": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
-      "score": 49,
-      "author": "knackers",
-      "created": "2025-11-28 17:07:48",
-      "created_at": 1764349668000
-    },
-    {
-      "id": 46162656,
-      "title": "Cloudflare outage on December 5, 2025",
-      "link": "https://blog.cloudflare.com/5-december-2025-outage/",
-      "score": 717,
-      "author": "meetpateltech",
-      "created": "2025-12-05 15:35:43",
-      "created_at": 1764948943000
-    },
-    {
-      "id": 46120764,
-      "title": "The Absent Silence (2010)",
-      "link": "https://www.ursulakleguin.com/blog/3-the-absent-silence",
-      "score": 37,
-      "author": "dcminter",
-      "created": "2025-12-02 12:59:55",
-      "created_at": 1764680395000
+      "id": 46175112,
+      "title": "Perl's decline was cultural",
+      "link": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
+      "score": 142,
+      "author": "todsacerdoti",
+      "created": "2025-12-06 17:42:07",
+      "created_at": 1765042927000
     }
   ],
   "code": 200,
