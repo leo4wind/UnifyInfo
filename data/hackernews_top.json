@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-05T20:13:27.230Z"
+    "lastUpdate": "2025-12-06T00:52:50.967Z"
   },
   "data": [
-    {
-      "id": 46163671,
-      "title": "Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation",
-      "link": "https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/",
-      "score": 100,
-      "author": "cratermoon",
-      "created": "2025-12-05 16:38:30",
-      "created_at": 1764952710000
-    },
     {
       "id": 46160315,
       "title": "Netflix to Acquire Warner Bros",
       "link": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
-      "score": 1148,
+      "score": 1413,
       "author": "meetpateltech",
       "created": "2025-12-05 12:21:19",
       "created_at": 1764937279000
     },
     {
-      "id": 46163609,
-      "title": "Patterns for Defensive Programming in Rust",
-      "link": "https://corrode.dev/blog/defensive-programming/",
-      "score": 97,
-      "author": "PaulHoule",
-      "created": "2025-12-05 16:34:25",
-      "created_at": 1764952465000
-    },
-    {
-      "id": 46163308,
-      "title": "Gemini 3 Pro: the frontier of vision AI",
-      "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-      "score": 94,
-      "author": "xnx",
-      "created": "2025-12-05 16:15:10",
-      "created_at": 1764951310000
-    },
-    {
-      "id": 46163121,
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "link": "",
-      "score": 116,
-      "author": "proberts",
-      "created": "2025-12-05 16:04:20",
-      "created_at": 1764950660000
-    },
-    {
       "id": 46162656,
       "title": "Cloudflare outage on December 5, 2025",
       "link": "https://blog.cloudflare.com/5-december-2025-outage/",
-      "score": 369,
+      "score": 532,
       "author": "meetpateltech",
       "created": "2025-12-05 15:35:43",
       "created_at": 1764948943000
     },
     {
-      "id": 46165249,
-      "title": "Why we built Lightpanda in Zig",
-      "link": "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig",
-      "score": 62,
-      "author": "ashvardanian",
-      "created": "2025-12-05 18:29:50",
-      "created_at": 1764959390000
+      "id": 46168057,
+      "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
+      "link": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml",
+      "score": 41,
+      "author": "PaulHoule",
+      "created": "2025-12-05 22:10:50",
+      "created_at": 1764972650000
     },
     {
-      "id": 46130260,
-      "title": "Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month",
-      "link": "https://hackclub.com/fiscal-sponsorship/mobile/",
-      "score": 25,
-      "author": "mohamad08",
-      "created": "2025-12-03 04:20:44",
-      "created_at": 1764735644000
+      "id": 46163308,
+      "title": "Gemini 3 Pro: the frontier of vision AI",
+      "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+      "score": 316,
+      "author": "xnx",
+      "created": "2025-12-05 16:15:10",
+      "created_at": 1764951310000
     },
     {
-      "id": 46160698,
-      "title": "Making RSS More Fun",
-      "link": "https://matduggan.com/making-rss-more-fun/",
-      "score": 145,
-      "author": "salmon",
-      "created": "2025-12-05 13:00:28",
-      "created_at": 1764939628000
+      "id": 46169224,
+      "title": "Sam Altman's Dirty DRAM Deal",
+      "link": "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal",
+      "score": 8,
+      "author": "pabs3",
+      "created": "2025-12-06 00:24:55",
+      "created_at": 1764980695000
     },
     {
-      "id": 46118986,
-      "title": "Compassionate Curmudgeon: Why we must root ourselves in the real world",
-      "link": "https://theamericanscholar.org/compassionate-curmudgeon/",
-      "score": 9,
-      "author": "lermontov",
-      "created": "2025-12-02 08:33:52",
-      "created_at": 1764664432000
+      "id": 46167552,
+      "title": "Leaving Intel",
+      "link": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
+      "score": 57,
+      "author": "speckx",
+      "created": "2025-12-05 21:27:04",
+      "created_at": 1764970024000
+    },
+    {
+      "id": 46167500,
+      "title": "Perpetual Futures",
+      "link": "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/",
+      "score": 46,
+      "author": "sirodoht",
+      "created": "2025-12-05 21:23:03",
+      "created_at": 1764969783000
+    },
+    {
+      "id": 46166708,
+      "title": "Fizz Buzz in CSS",
+      "link": "https://susam.net/fizz-buzz-in-css.html",
+      "score": 58,
+      "author": "froober",
+      "created": "2025-12-05 20:18:22",
+      "created_at": 1764965902000
+    },
+    {
+      "id": 46106411,
+      "title": "Idempotency Keys for Exactly-Once Processing",
+      "link": "https://www.morling.dev/blog/on-idempotency-keys/",
+      "score": 77,
+      "author": "defly",
+      "created": "2025-12-01 12:07:33",
+      "created_at": 1764590853000
+    },
+    {
+      "id": 46163609,
+      "title": "Patterns for Defensive Programming in Rust",
+      "link": "https://corrode.dev/blog/defensive-programming/",
+      "score": 193,
+      "author": "PaulHoule",
+      "created": "2025-12-05 16:34:25",
+      "created_at": 1764952465000
     }
   ],
   "code": 200,
