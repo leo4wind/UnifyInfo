@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-07T08:14:04.464Z"
+    "lastUpdate": "2025-12-07T12:19:39.399Z"
   },
   "data": [
     {
       "id": 46178347,
       "title": "Using LLMs at Oxide",
       "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 317,
+      "score": 439,
       "author": "steveklabnik",
       "created": "2025-12-07 01:17:40",
       "created_at": 1765070260000
@@ -19,7 +19,7 @@
       "id": 46177645,
       "title": "Kilauea erupts, destroying webcam [video]",
       "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
-      "score": 289,
+      "score": 369,
       "author": "zdw",
       "created": "2025-12-06 23:39:02",
       "created_at": 1765064342000
@@ -28,7 +28,7 @@
       "id": 46178789,
       "title": "Z2 – Lithographically fabricated IC in a garage fab",
       "link": "https://sam.zeloof.xyz/second-ic/",
-      "score": 129,
+      "score": 202,
       "author": "embedding-shape",
       "created": "2025-12-07 03:03:09",
       "created_at": 1765076589000
@@ -37,7 +37,7 @@
       "id": 46176905,
       "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
       "link": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
-      "score": 259,
+      "score": 322,
       "author": "turrini",
       "created": "2025-12-06 21:55:09",
       "created_at": 1765058109000
@@ -46,52 +46,52 @@
       "id": 46173407,
       "title": "GrapheneOS is the only Android OS providing full security patches",
       "link": "https://grapheneos.social/@GrapheneOS/115647408229616018",
-      "score": 568,
+      "score": 626,
       "author": "akyuu",
       "created": "2025-12-06 13:58:31",
       "created_at": 1765029511000
     },
     {
-      "id": 46178442,
-      "title": "Eurydice: a Rust to C compiler (yes)",
-      "link": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
-      "score": 78,
-      "author": "todsacerdoti",
-      "created": "2025-12-07 01:41:33",
-      "created_at": 1765071693000
-    },
-    {
       "id": 46176893,
       "title": "The past was not that cute",
       "link": "https://juliawise.net/the-past-was-not-that-cute/",
-      "score": 140,
+      "score": 219,
       "author": "mhb",
       "created": "2025-12-06 21:53:35",
       "created_at": 1765058015000
     },
     {
+      "id": 46081418,
+      "title": "Principles of Slack Maximalism",
+      "link": "https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism",
+      "score": 26,
+      "author": "surprisetalk",
+      "created": "2025-11-28 18:36:16",
+      "created_at": 1764354976000
+    },
+    {
+      "id": 46178442,
+      "title": "Eurydice: a Rust to C compiler (yes)",
+      "link": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+      "score": 116,
+      "author": "todsacerdoti",
+      "created": "2025-12-07 01:41:33",
+      "created_at": 1765071693000
+    },
+    {
       "id": 46173547,
       "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
       "link": "http://www.tinycorelinux.net/",
-      "score": 417,
+      "score": 453,
       "author": "LorenDB",
       "created": "2025-12-06 14:18:42",
       "created_at": 1765030722000
     },
     {
-      "id": 46151724,
-      "title": "Why does the Salish Sea glow in the dark?",
-      "link": "https://www.atlasobscura.com/articles/untold-earth-105-salish-sea-bioluminescence",
-      "score": 15,
-      "author": "prismatic",
-      "created": "2025-12-04 19:29:04",
-      "created_at": 1764876544000
-    },
-    {
       "id": 46178892,
       "title": "Discovering the indieweb with calm tech",
       "link": "https://alexsci.com/blog/calm-tech-discover/",
-      "score": 47,
+      "score": 104,
       "author": "todsacerdoti",
       "created": "2025-12-07 03:26:01",
       "created_at": 1765077961000

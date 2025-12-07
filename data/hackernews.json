@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-07T08:14:04.369Z"
+    "lastUpdate": "2025-12-07T12:19:39.224Z"
   },
   "data": [
     {
       "id": 46160315,
       "title": "Netflix to Acquire Warner Bros",
       "link": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
-      "score": 1690,
+      "score": 1700,
       "author": "meetpateltech",
       "created": "2025-12-05 12:21:19",
       "created_at": 1764937279000
     },
     {
-      "id": 46158191,
-      "title": "Cloudflare was down",
-      "link": "https://www.cloudflare.com/",
-      "score": 824,
-      "author": "mektrik",
-      "created": "2025-12-05 08:50:16",
-      "created_at": 1764924616000
-    },
-    {
       "id": 46162656,
       "title": "Cloudflare outage on December 5, 2025",
       "link": "https://blog.cloudflare.com/5-december-2025-outage/",
-      "score": 764,
+      "score": 766,
       "author": "meetpateltech",
       "created": "2025-12-05 15:35:43",
       "created_at": 1764948943000
@@ -37,7 +28,7 @@
       "id": 46173407,
       "title": "GrapheneOS is the only Android OS providing full security patches",
       "link": "https://grapheneos.social/@GrapheneOS/115647408229616018",
-      "score": 568,
+      "score": 626,
       "author": "akyuu",
       "created": "2025-12-06 13:58:31",
       "created_at": 1765029511000
@@ -46,7 +37,7 @@
       "id": 46163308,
       "title": "Gemini 3 Pro: the frontier of vision AI",
       "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-      "score": 548,
+      "score": 550,
       "author": "xnx",
       "created": "2025-12-05 16:15:10",
       "created_at": 1764951310000
@@ -55,19 +46,28 @@
       "id": 46171425,
       "title": "Schizophrenia sufferer mistakes smart fridge ad for psychotic episode",
       "link": "https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/",
-      "score": 496,
+      "score": 506,
       "author": "hliyan",
       "created": "2025-12-06 07:31:07",
       "created_at": 1765006267000
     },
     {
-      "id": 46159193,
-      "title": "The US polluters that are rewriting the EU's human rights and climate law",
-      "link": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
-      "score": 437,
-      "author": "saubeidl",
-      "created": "2025-12-05 09:58:01",
-      "created_at": 1764928681000
+      "id": 46173547,
+      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+      "link": "http://www.tinycorelinux.net/",
+      "score": 453,
+      "author": "LorenDB",
+      "created": "2025-12-06 14:18:42",
+      "created_at": 1765030722000
+    },
+    {
+      "id": 46178347,
+      "title": "Using LLMs at Oxide",
+      "link": "https://rfd.shared.oxide.computer/rfd/0576",
+      "score": 439,
+      "author": "steveklabnik",
+      "created": "2025-12-07 01:17:40",
+      "created_at": 1765070260000
     },
     {
       "id": 46160773,
@@ -79,22 +79,22 @@
       "created_at": 1764940079000
     },
     {
-      "id": 46173547,
-      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-      "link": "http://www.tinycorelinux.net/",
-      "score": 417,
-      "author": "LorenDB",
-      "created": "2025-12-06 14:18:42",
-      "created_at": 1765030722000
-    },
-    {
       "id": 46173383,
       "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
       "link": "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/",
-      "score": 403,
+      "score": 419,
       "author": "ementally",
       "created": "2025-12-06 13:54:59",
       "created_at": 1765029299000
+    },
+    {
+      "id": 46169554,
+      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+      "link": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
+      "score": 397,
+      "author": "mystraline",
+      "created": "2025-12-06 01:15:48",
+      "created_at": 1764983748000
     }
   ],
   "code": 200,
