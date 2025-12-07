@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-07T12:19:39.224Z"
+    "lastUpdate": "2025-12-07T16:12:25.329Z"
   },
   "data": [
-    {
-      "id": 46160315,
-      "title": "Netflix to Acquire Warner Bros",
-      "link": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
-      "score": 1700,
-      "author": "meetpateltech",
-      "created": "2025-12-05 12:21:19",
-      "created_at": 1764937279000
-    },
     {
       "id": 46162656,
       "title": "Cloudflare outage on December 5, 2025",
       "link": "https://blog.cloudflare.com/5-december-2025-outage/",
-      "score": 766,
+      "score": 771,
       "author": "meetpateltech",
       "created": "2025-12-05 15:35:43",
       "created_at": 1764948943000
@@ -28,7 +19,7 @@
       "id": 46173407,
       "title": "GrapheneOS is the only Android OS providing full security patches",
       "link": "https://grapheneos.social/@GrapheneOS/115647408229616018",
-      "score": 626,
+      "score": 684,
       "author": "akyuu",
       "created": "2025-12-06 13:58:31",
       "created_at": 1765029511000
@@ -37,16 +28,25 @@
       "id": 46163308,
       "title": "Gemini 3 Pro: the frontier of vision AI",
       "link": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-      "score": 550,
+      "score": 554,
       "author": "xnx",
       "created": "2025-12-05 16:15:10",
       "created_at": 1764951310000
     },
     {
+      "id": 46178347,
+      "title": "Using LLMs at Oxide",
+      "link": "https://rfd.shared.oxide.computer/rfd/0576",
+      "score": 546,
+      "author": "steveklabnik",
+      "created": "2025-12-07 01:17:40",
+      "created_at": 1765070260000
+    },
+    {
       "id": 46171425,
       "title": "Schizophrenia sufferer mistakes smart fridge ad for psychotic episode",
       "link": "https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/",
-      "score": 506,
+      "score": 513,
       "author": "hliyan",
       "created": "2025-12-06 07:31:07",
       "created_at": 1765006267000
@@ -55,34 +55,25 @@
       "id": 46173547,
       "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
       "link": "http://www.tinycorelinux.net/",
-      "score": 453,
+      "score": 471,
       "author": "LorenDB",
       "created": "2025-12-06 14:18:42",
       "created_at": 1765030722000
     },
     {
-      "id": 46178347,
-      "title": "Using LLMs at Oxide",
-      "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 439,
-      "author": "steveklabnik",
-      "created": "2025-12-07 01:17:40",
-      "created_at": 1765070260000
-    },
-    {
-      "id": 46160773,
-      "title": "Most technical problems are people problems",
-      "link": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html",
-      "score": 429,
-      "author": "mooreds",
-      "created": "2025-12-05 13:07:59",
-      "created_at": 1764940079000
+      "id": 46177645,
+      "title": "Kilauea erupts, destroying webcam [video]",
+      "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
+      "score": 454,
+      "author": "zdw",
+      "created": "2025-12-06 23:39:02",
+      "created_at": 1765064342000
     },
     {
       "id": 46173383,
       "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
       "link": "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/",
-      "score": 419,
+      "score": 433,
       "author": "ementally",
       "created": "2025-12-06 13:54:59",
       "created_at": 1765029299000
@@ -91,10 +82,19 @@
       "id": 46169554,
       "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
       "link": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
-      "score": 397,
+      "score": 400,
       "author": "mystraline",
       "created": "2025-12-06 01:15:48",
       "created_at": 1764983748000
+    },
+    {
+      "id": 46176905,
+      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+      "link": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
+      "score": 378,
+      "author": "turrini",
+      "created": "2025-12-06 21:55:09",
+      "created_at": 1765058109000
     }
   ],
   "code": 200,

@@ -3,14 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-07T12:19:39.494Z"
+    "lastUpdate": "2025-12-07T16:12:25.594Z"
   },
   "data": [
+    {
+      "id": 46181466,
+      "title": "At least 50 hallucinated citations found in ICLR 2026 submissions",
+      "link": "https://gptzero.me/news/iclr-2026/",
+      "score": 155,
+      "author": "puttycat",
+      "created": "2025-12-07 13:16:26",
+      "created_at": 1765113386000
+    },
+    {
+      "id": 46181076,
+      "title": "Java Hello World, LLVM Edition",
+      "link": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+      "score": 97,
+      "author": "ingve",
+      "created": "2025-12-07 11:51:02",
+      "created_at": 1765108262000
+    },
+    {
+      "id": 46181231,
+      "title": "Google Titans architecture, helping AI have long-term memory",
+      "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+      "score": 105,
+      "author": "Alifatisk",
+      "created": "2025-12-07 12:23:45",
+      "created_at": 1765110225000
+    },
+    {
+      "id": 46181491,
+      "title": "Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions",
+      "link": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
+      "score": 224,
+      "author": "doener",
+      "created": "2025-12-07 13:21:24",
+      "created_at": 1765113684000
+    },
+    {
+      "id": 46181268,
+      "title": "The Anatomy of a macOS App",
+      "link": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
+      "score": 46,
+      "author": "elashri",
+      "created": "2025-12-07 12:31:53",
+      "created_at": 1765110713000
+    },
     {
       "id": 46178347,
       "title": "Using LLMs at Oxide",
       "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 439,
+      "score": 546,
       "author": "steveklabnik",
       "created": "2025-12-07 01:17:40",
       "created_at": 1765070260000
@@ -19,82 +64,37 @@
       "id": 46177645,
       "title": "Kilauea erupts, destroying webcam [video]",
       "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
-      "score": 369,
+      "score": 454,
       "author": "zdw",
       "created": "2025-12-06 23:39:02",
       "created_at": 1765064342000
     },
     {
+      "id": 46135145,
+      "title": "Building a Toast Component",
+      "link": "https://emilkowal.ski/ui/building-a-toast-component",
+      "score": 14,
+      "author": "FragrantRiver",
+      "created": "2025-12-03 14:51:54",
+      "created_at": 1764773514000
+    },
+    {
       "id": 46178789,
       "title": "Z2 – Lithographically fabricated IC in a garage fab",
       "link": "https://sam.zeloof.xyz/second-ic/",
-      "score": 202,
+      "score": 250,
       "author": "embedding-shape",
       "created": "2025-12-07 03:03:09",
       "created_at": 1765076589000
     },
     {
-      "id": 46176905,
-      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
-      "link": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
-      "score": 322,
-      "author": "turrini",
-      "created": "2025-12-06 21:55:09",
-      "created_at": 1765058109000
-    },
-    {
-      "id": 46173407,
-      "title": "GrapheneOS is the only Android OS providing full security patches",
-      "link": "https://grapheneos.social/@GrapheneOS/115647408229616018",
-      "score": 626,
-      "author": "akyuu",
-      "created": "2025-12-06 13:58:31",
-      "created_at": 1765029511000
-    },
-    {
-      "id": 46176893,
-      "title": "The past was not that cute",
-      "link": "https://juliawise.net/the-past-was-not-that-cute/",
-      "score": 219,
-      "author": "mhb",
-      "created": "2025-12-06 21:53:35",
-      "created_at": 1765058015000
-    },
-    {
-      "id": 46081418,
-      "title": "Principles of Slack Maximalism",
-      "link": "https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism",
-      "score": 26,
-      "author": "surprisetalk",
-      "created": "2025-11-28 18:36:16",
-      "created_at": 1764354976000
-    },
-    {
-      "id": 46178442,
-      "title": "Eurydice: a Rust to C compiler (yes)",
-      "link": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
-      "score": 116,
-      "author": "todsacerdoti",
-      "created": "2025-12-07 01:41:33",
-      "created_at": 1765071693000
-    },
-    {
-      "id": 46173547,
-      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-      "link": "http://www.tinycorelinux.net/",
-      "score": 453,
-      "author": "LorenDB",
-      "created": "2025-12-06 14:18:42",
-      "created_at": 1765030722000
-    },
-    {
-      "id": 46178892,
-      "title": "Discovering the indieweb with calm tech",
-      "link": "https://alexsci.com/blog/calm-tech-discover/",
-      "score": 104,
-      "author": "todsacerdoti",
-      "created": "2025-12-07 03:26:01",
-      "created_at": 1765077961000
+      "id": 46182202,
+      "title": "Scala 3 slowed us down?",
+      "link": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
+      "score": 3,
+      "author": "kmaliszewski",
+      "created": "2025-12-07 15:08:17",
+      "created_at": 1765120097000
     }
   ],
   "code": 200,
