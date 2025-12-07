@@ -3,50 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-07T16:12:25.472Z"
+    "lastUpdate": "2025-12-07T20:11:56.328Z"
   },
   "data": [
     {
-      "id": 46181466,
-      "title": "At least 50 hallucinated citations found in ICLR 2026 submissions",
-      "link": "https://gptzero.me/news/iclr-2026/",
-      "score": 155,
-      "author": "puttycat",
-      "created": "2025-12-07 13:16:26",
-      "created_at": 1765113386000
+      "id": 46184229,
+      "title": "Estimates are difficult for developers and product owners",
+      "link": "https://thorsell.io/2025/12/07/estimates.html",
+      "score": 38,
+      "author": "todsacerdoti",
+      "created": "2025-12-07 19:17:17",
+      "created_at": 1765135037000
     },
     {
-      "id": 46181076,
-      "title": "Java Hello World, LLVM Edition",
-      "link": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
-      "score": 97,
-      "author": "ingve",
-      "created": "2025-12-07 11:51:02",
-      "created_at": 1765108262000
+      "id": 46183294,
+      "title": "I failed to recreate the 1996 Space Jam Website with Claude",
+      "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
+      "score": 121,
+      "author": "thecr0w",
+      "created": "2025-12-07 17:18:54",
+      "created_at": 1765127934000
     },
     {
       "id": 46181231,
       "title": "Google Titans architecture, helping AI have long-term memory",
       "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
-      "score": 105,
+      "score": 265,
       "author": "Alifatisk",
       "created": "2025-12-07 12:23:45",
       "created_at": 1765110225000
     },
     {
+      "id": 46182202,
+      "title": "Scala 3 slowed us down?",
+      "link": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
+      "score": 115,
+      "author": "kmaliszewski",
+      "created": "2025-12-07 15:08:17",
+      "created_at": 1765120097000
+    },
+    {
+      "id": 46118358,
+      "title": "An Interactive Guide to the Fourier Transform",
+      "link": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
+      "score": 66,
+      "author": "pykello",
+      "created": "2025-12-02 06:50:17",
+      "created_at": 1764658217000
+    },
+    {
+      "id": 46086923,
+      "title": "Build a DIY magnetometer with a couple of seasoning bottles",
+      "link": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
+      "score": 25,
+      "author": "nullbyte808",
+      "created": "2025-11-29 12:04:34",
+      "created_at": 1764417874000
+    },
+    {
       "id": 46181491,
-      "title": "Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions",
+      "title": "The state of Schleswig-Holstein is consistently relying on open source",
       "link": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
-      "score": 224,
+      "score": 453,
       "author": "doener",
       "created": "2025-12-07 13:21:24",
       "created_at": 1765113684000
     },
     {
+      "id": 46181076,
+      "title": "Java Hello World, LLVM Edition",
+      "link": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+      "score": 144,
+      "author": "ingve",
+      "created": "2025-12-07 11:51:02",
+      "created_at": 1765108262000
+    },
+    {
       "id": 46181268,
       "title": "The Anatomy of a macOS App",
       "link": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
-      "score": 46,
+      "score": 125,
       "author": "elashri",
       "created": "2025-12-07 12:31:53",
       "created_at": 1765110713000
@@ -55,46 +91,10 @@
       "id": 46178347,
       "title": "Using LLMs at Oxide",
       "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 546,
+      "score": 618,
       "author": "steveklabnik",
       "created": "2025-12-07 01:17:40",
       "created_at": 1765070260000
-    },
-    {
-      "id": 46177645,
-      "title": "Kilauea erupts, destroying webcam [video]",
-      "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
-      "score": 454,
-      "author": "zdw",
-      "created": "2025-12-06 23:39:02",
-      "created_at": 1765064342000
-    },
-    {
-      "id": 46135145,
-      "title": "Building a Toast Component",
-      "link": "https://emilkowal.ski/ui/building-a-toast-component",
-      "score": 14,
-      "author": "FragrantRiver",
-      "created": "2025-12-03 14:51:54",
-      "created_at": 1764773514000
-    },
-    {
-      "id": 46178789,
-      "title": "Z2 – Lithographically fabricated IC in a garage fab",
-      "link": "https://sam.zeloof.xyz/second-ic/",
-      "score": 250,
-      "author": "embedding-shape",
-      "created": "2025-12-07 03:03:09",
-      "created_at": 1765076589000
-    },
-    {
-      "id": 46182202,
-      "title": "Scala 3 slowed us down?",
-      "link": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
-      "score": 3,
-      "author": "kmaliszewski",
-      "created": "2025-12-07 15:08:17",
-      "created_at": 1765120097000
     }
   ],
   "code": 200,
