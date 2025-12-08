@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-08T08:19:22.630Z"
+    "lastUpdate": "2025-12-08T12:23:14.307Z"
   },
   "data": [
+    {
+      "id": 46190577,
+      "title": "12 Days of Shell",
+      "link": "https://12days.cmdchallenge.com",
+      "score": 83,
+      "author": "zoidb",
+      "created": "2025-12-08 10:13:07",
+      "created_at": 1765188787000
+    },
+    {
+      "id": 46191124,
+      "title": "Show HN: Web app that lets you send email time capsules",
+      "link": "https://resurf.me",
+      "score": 13,
+      "author": "walrussama",
+      "created": "2025-12-08 11:37:22",
+      "created_at": 1765193842000
+    },
+    {
+      "id": 46189692,
+      "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+      "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+      "score": 164,
+      "author": "robin_reala",
+      "created": "2025-12-08 08:15:32",
+      "created_at": 1765181732000
+    },
+    {
+      "id": 46141731,
+      "title": "Jujutsu Worktrees Are Convenient",
+      "link": "https://shaddy.dev/notes/jj-worktrees/",
+      "score": 48,
+      "author": "nvader",
+      "created": "2025-12-03 23:26:51",
+      "created_at": 1764804411000
+    },
     {
       "id": 46138459,
       "title": "Turtletoy",
       "link": "https://turtletoy.net/",
-      "score": 158,
+      "score": 218,
       "author": "ustad",
       "created": "2025-12-03 18:57:08",
       "created_at": 1764788228000
@@ -19,7 +55,7 @@
       "id": 46161328,
       "title": "Emacs is my new window manager",
       "link": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
-      "score": 43,
+      "score": 116,
       "author": "gpi",
       "created": "2025-12-05 13:56:34",
       "created_at": 1764942994000
@@ -28,7 +64,7 @@
       "id": 46187387,
       "title": "Damn Small Linux",
       "link": "https://www.damnsmalllinux.org/",
-      "score": 67,
+      "score": 123,
       "author": "grubbs",
       "created": "2025-12-08 01:47:11",
       "created_at": 1765158431000
@@ -37,55 +73,19 @@
       "id": 46183294,
       "title": "I failed to recreate the 1996 Space Jam website with Claude",
       "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-      "score": 418,
+      "score": 467,
       "author": "thecr0w",
       "created": "2025-12-07 17:18:54",
       "created_at": 1765127934000
     },
     {
-      "id": 46185957,
-      "title": "Bag of words, have mercy on us",
-      "link": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
-      "score": 160,
-      "author": "ntnbr",
-      "created": "2025-12-07 22:31:22",
-      "created_at": 1765146682000
-    },
-    {
-      "id": 46094552,
-      "title": "Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces",
-      "link": "https://readykit.dev/",
-      "score": 17,
-      "author": "level09",
-      "created": "2025-11-30 07:18:15",
-      "created_at": 1764487095000
-    },
-    {
-      "id": 46181962,
-      "title": "Dollar-stores overcharge customers while promising low prices",
-      "link": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
-      "score": 365,
-      "author": "bookofjoe",
-      "created": "2025-12-07 14:37:21",
-      "created_at": 1765118241000
-    },
-    {
-      "id": 46185576,
-      "title": "Mechanical power generation using Earth's ambient radiation",
-      "link": "https://www.science.org/doi/10.1126/sciadv.adw6833",
-      "score": 111,
-      "author": "defrost",
-      "created": "2025-12-07 21:55:01",
-      "created_at": 1765144501000
-    },
-    {
-      "id": 46183657,
-      "title": "The C++ standard for the F-35 Fighter Jet [video]",
-      "link": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
-      "score": 250,
-      "author": "AareyBaba",
-      "created": "2025-12-07 18:07:06",
-      "created_at": 1765130826000
+      "id": 46189480,
+      "title": "Show HN: Lockenv – Simple encrypted secrets storage for Git",
+      "link": "https://github.com/illarion/lockenv",
+      "score": 35,
+      "author": "shoemann",
+      "created": "2025-12-08 07:36:45",
+      "created_at": 1765179405000
     }
   ],
   "code": 200,
