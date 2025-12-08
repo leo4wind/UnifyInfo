@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-08T12:23:14.373Z"
+    "lastUpdate": "2025-12-08T16:15:42.666Z"
   },
   "data": [
     {
-      "id": 46190577,
-      "title": "12 Days of Shell",
-      "link": "https://12days.cmdchallenge.com",
-      "score": 83,
-      "author": "zoidb",
-      "created": "2025-12-08 10:13:07",
-      "created_at": 1765188787000
+      "id": 46193413,
+      "title": "Tsunami warning issued after 7.6-magnitude earthquake strikes Japan",
+      "link": "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453",
+      "score": 79,
+      "author": "oumua_don17",
+      "created": "2025-12-08 15:33:02",
+      "created_at": 1765207982000
     },
     {
-      "id": 46191124,
-      "title": "Show HN: Web app that lets you send email time capsules",
-      "link": "https://resurf.me",
-      "score": 13,
-      "author": "walrussama",
-      "created": "2025-12-08 11:37:22",
-      "created_at": 1765193842000
+      "id": 46193035,
+      "title": "7.6 earthquake off the coast of Japan",
+      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en",
+      "score": 89,
+      "author": "LadyCailin",
+      "created": "2025-12-08 15:05:49",
+      "created_at": 1765206349000
     },
     {
-      "id": 46189692,
-      "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
-      "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-      "score": 164,
-      "author": "robin_reala",
-      "created": "2025-12-08 08:15:32",
-      "created_at": 1765181732000
+      "id": 46191763,
+      "title": "Flow: Actor-based language for C++, used by FoundationDB",
+      "link": "https://github.com/apple/foundationdb/tree/main/flow",
+      "score": 84,
+      "author": "SchwKatze",
+      "created": "2025-12-08 13:08:38",
+      "created_at": 1765199318000
     },
     {
-      "id": 46141731,
-      "title": "Jujutsu Worktrees Are Convenient",
-      "link": "https://shaddy.dev/notes/jj-worktrees/",
-      "score": 48,
-      "author": "nvader",
-      "created": "2025-12-03 23:26:51",
-      "created_at": 1764804411000
+      "id": 46191933,
+      "title": "Alignment Is Capability",
+      "link": "https://www.off-policy.com/alignment-is-capability/",
+      "score": 65,
+      "author": "drctnlly_crrct",
+      "created": "2025-12-08 13:23:29",
+      "created_at": 1765200209000
     },
     {
-      "id": 46138459,
-      "title": "Turtletoy",
-      "link": "https://turtletoy.net/",
-      "score": 218,
-      "author": "ustad",
-      "created": "2025-12-03 18:57:08",
-      "created_at": 1764788228000
+      "id": 46193931,
+      "title": "AMD GPU Debugger",
+      "link": "https://thegeeko.me/blog/amd-gpu-debugging/",
+      "score": 5,
+      "author": "ibobev",
+      "created": "2025-12-08 16:06:14",
+      "created_at": 1765209974000
     },
     {
-      "id": 46161328,
-      "title": "Emacs is my new window manager",
-      "link": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
-      "score": 116,
-      "author": "gpi",
-      "created": "2025-12-05 13:56:34",
-      "created_at": 1764942994000
+      "id": 46192130,
+      "title": "IBM to Acquire Confluent",
+      "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+      "score": 142,
+      "author": "abd12",
+      "created": "2025-12-08 13:43:59",
+      "created_at": 1765201439000
     },
     {
-      "id": 46187387,
-      "title": "Damn Small Linux",
-      "link": "https://www.damnsmalllinux.org/",
-      "score": 123,
-      "author": "grubbs",
-      "created": "2025-12-08 01:47:11",
-      "created_at": 1765158431000
+      "id": 46191814,
+      "title": "Colors of Growth",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
+      "score": 24,
+      "author": "mhb",
+      "created": "2025-12-08 13:13:12",
+      "created_at": 1765199592000
     },
     {
-      "id": 46183294,
-      "title": "I failed to recreate the 1996 Space Jam website with Claude",
-      "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-      "score": 467,
-      "author": "thecr0w",
-      "created": "2025-12-07 17:18:54",
-      "created_at": 1765127934000
+      "id": 46152838,
+      "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
+      "link": "https://steerlabs.substack.com/p/confident-idiot-problem",
+      "score": 175,
+      "author": "steerlabs",
+      "created": "2025-12-04 20:48:56",
+      "created_at": 1764881336000
     },
     {
-      "id": 46189480,
-      "title": "Show HN: Lockenv – Simple encrypted secrets storage for Git",
-      "link": "https://github.com/illarion/lockenv",
-      "score": 35,
-      "author": "shoemann",
-      "created": "2025-12-08 07:36:45",
-      "created_at": 1765179405000
+      "id": 46192962,
+      "title": "Uber starts selling ride/eats data to marketers",
+      "link": "https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12",
+      "score": 102,
+      "author": "sethops1",
+      "created": "2025-12-08 15:00:29",
+      "created_at": 1765206029000
+    },
+    {
+      "id": 46193412,
+      "title": "I Successfully Recreated the 1996 Space Jam Website with Claude",
+      "link": "https://theahura.substack.com/p/i-successfully-recreated-the-1996",
+      "score": 26,
+      "author": "theahura",
+      "created": "2025-12-08 15:33:01",
+      "created_at": 1765207981000
     }
   ],
   "code": 200,
