@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-08T16:15:42.506Z"
+    "lastUpdate": "2025-12-08T20:13:43.849Z"
   },
   "data": [
     {
       "id": 46178347,
       "title": "Using LLMs at Oxide",
       "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 681,
+      "score": 690,
       "author": "steveklabnik",
       "created": "2025-12-07 01:17:40",
       "created_at": 1765070260000
     },
     {
+      "id": 46181371,
+      "title": "I wasted years of my life in crypto",
+      "link": "https://twitter.com/kenchangh/status/1994854381267947640",
+      "score": 610,
+      "author": "Anon84",
+      "created": "2025-12-07 12:57:59",
+      "created_at": 1765112279000
+    },
+    {
       "id": 46181491,
       "title": "The state of Schleswig-Holstein is consistently relying on open source",
       "link": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
-      "score": 577,
+      "score": 582,
       "author": "doener",
       "created": "2025-12-07 13:21:24",
       "created_at": 1765113684000
@@ -28,7 +37,7 @@
       "id": 46177645,
       "title": "Kilauea erupts, destroying webcam [video]",
       "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
-      "score": 573,
+      "score": 578,
       "author": "zdw",
       "created": "2025-12-06 23:39:02",
       "created_at": 1765064342000
@@ -37,7 +46,7 @@
       "id": 46181231,
       "title": "Google Titans architecture, helping AI have long-term memory",
       "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
-      "score": 553,
+      "score": 557,
       "author": "Alifatisk",
       "created": "2025-12-07 12:23:45",
       "created_at": 1765110225000
@@ -46,7 +55,7 @@
       "id": 46183294,
       "title": "I failed to recreate the 1996 Space Jam website with Claude",
       "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-      "score": 510,
+      "score": 528,
       "author": "thecr0w",
       "created": "2025-12-07 17:18:54",
       "created_at": 1765127934000
@@ -55,7 +64,7 @@
       "id": 46181466,
       "title": "Over fifty new hallucinations in ICLR 2026 submissions",
       "link": "https://gptzero.me/news/iclr-2026/",
-      "score": 487,
+      "score": 490,
       "author": "puttycat",
       "created": "2025-12-07 13:16:26",
       "created_at": 1765113386000
@@ -64,7 +73,7 @@
       "id": 46181962,
       "title": "Dollar-stores overcharge customers while promising low prices",
       "link": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
-      "score": 460,
+      "score": 485,
       "author": "bookofjoe",
       "created": "2025-12-07 14:37:21",
       "created_at": 1765118241000
@@ -73,25 +82,16 @@
       "id": 46176905,
       "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
       "link": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
-      "score": 450,
+      "score": 451,
       "author": "turrini",
       "created": "2025-12-06 21:55:09",
       "created_at": 1765058109000
     },
     {
-      "id": 46181371,
-      "title": "I wasted years of my life in crypto",
-      "link": "https://twitter.com/kenchangh/status/1994854381267947640",
-      "score": 444,
-      "author": "Anon84",
-      "created": "2025-12-07 12:57:59",
-      "created_at": 1765112279000
-    },
-    {
       "id": 46176893,
       "title": "The past was not that cute",
       "link": "https://juliawise.net/the-past-was-not-that-cute/",
-      "score": 423,
+      "score": 428,
       "author": "mhb",
       "created": "2025-12-06 21:53:35",
       "created_at": 1765058015000

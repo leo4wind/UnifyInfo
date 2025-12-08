@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-08T16:15:42.666Z"
+    "lastUpdate": "2025-12-08T20:13:43.951Z"
   },
   "data": [
     {
-      "id": 46193413,
-      "title": "Tsunami warning issued after 7.6-magnitude earthquake strikes Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453",
-      "score": 79,
-      "author": "oumua_don17",
-      "created": "2025-12-08 15:33:02",
-      "created_at": 1765207982000
+      "id": 46196076,
+      "title": "Deep dive on Nvidia circular funding",
+      "link": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
+      "score": 113,
+      "author": "jeanloolz",
+      "created": "2025-12-08 18:48:27",
+      "created_at": 1765219707000
     },
     {
-      "id": 46193035,
-      "title": "7.6 earthquake off the coast of Japan",
-      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en",
-      "score": 89,
-      "author": "LadyCailin",
-      "created": "2025-12-08 15:05:49",
-      "created_at": 1765206349000
+      "id": 46196105,
+      "title": "Jepsen: NATS 2.12.1",
+      "link": "https://jepsen.io/analyses/nats-2.12.1",
+      "score": 83,
+      "author": "aphyr",
+      "created": "2025-12-08 18:51:03",
+      "created_at": 1765219863000
     },
     {
-      "id": 46191763,
-      "title": "Flow: Actor-based language for C++, used by FoundationDB",
-      "link": "https://github.com/apple/foundationdb/tree/main/flow",
-      "score": 84,
-      "author": "SchwKatze",
-      "created": "2025-12-08 13:08:38",
-      "created_at": 1765199318000
-    },
-    {
-      "id": 46191933,
-      "title": "Alignment Is Capability",
-      "link": "https://www.off-policy.com/alignment-is-capability/",
-      "score": 65,
-      "author": "drctnlly_crrct",
-      "created": "2025-12-08 13:23:29",
-      "created_at": 1765200209000
+      "id": 46192846,
+      "title": "Strong earthquake hits northern Japan, tsunami warning issued",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+      "score": 175,
+      "author": "lattis",
+      "created": "2025-12-08 14:50:48",
+      "created_at": 1765205448000
     },
     {
       "id": 46193931,
       "title": "AMD GPU Debugger",
       "link": "https://thegeeko.me/blog/amd-gpu-debugging/",
-      "score": 5,
+      "score": 148,
       "author": "ibobev",
       "created": "2025-12-08 16:06:14",
       "created_at": 1765209974000
     },
     {
+      "id": 46194337,
+      "title": "Let's put Tailscale on a jailbroken Kindle",
+      "link": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
+      "score": 123,
+      "author": "Quizzical4230",
+      "created": "2025-12-08 16:34:08",
+      "created_at": 1765211648000
+    },
+    {
+      "id": 46194384,
+      "title": "Hunting for North Korean Fiber Optic Cables",
+      "link": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
+      "score": 137,
+      "author": "Bezod",
+      "created": "2025-12-08 16:38:08",
+      "created_at": 1765211888000
+    },
+    {
+      "id": 46194828,
+      "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
+      "link": "https://www.trynia.ai/",
+      "score": 56,
+      "author": "jellyotsiro",
+      "created": "2025-12-08 17:10:14",
+      "created_at": 1765213814000
+    },
+    {
       "id": 46192130,
-      "title": "IBM to Acquire Confluent",
+      "title": "IBM to acquire Confluent",
       "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-      "score": 142,
+      "score": 246,
       "author": "abd12",
       "created": "2025-12-08 13:43:59",
       "created_at": 1765201439000
     },
     {
-      "id": 46191814,
-      "title": "Colors of Growth",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
-      "score": 24,
-      "author": "mhb",
-      "created": "2025-12-08 13:13:12",
-      "created_at": 1765199592000
+      "id": 46195109,
+      "title": "We collected 10k hours of neuro-language data in our basement",
+      "link": "https://condu.it/thought/10k-hours",
+      "score": 37,
+      "author": "nee1r",
+      "created": "2025-12-08 17:33:13",
+      "created_at": 1765215193000
     },
     {
-      "id": 46152838,
-      "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
-      "link": "https://steerlabs.substack.com/p/confident-idiot-problem",
-      "score": 175,
-      "author": "steerlabs",
-      "created": "2025-12-04 20:48:56",
-      "created_at": 1764881336000
-    },
-    {
-      "id": 46192962,
-      "title": "Uber starts selling ride/eats data to marketers",
-      "link": "https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12",
-      "score": 102,
-      "author": "sethops1",
-      "created": "2025-12-08 15:00:29",
-      "created_at": 1765206029000
-    },
-    {
-      "id": 46193412,
-      "title": "I Successfully Recreated the 1996 Space Jam Website with Claude",
-      "link": "https://theahura.substack.com/p/i-successfully-recreated-the-1996",
-      "score": 26,
-      "author": "theahura",
-      "created": "2025-12-08 15:33:01",
-      "created_at": 1765207981000
+      "id": 46194477,
+      "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+      "link": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+      "score": 57,
+      "author": "ibobev",
+      "created": "2025-12-08 16:44:42",
+      "created_at": 1765212282000
     }
   ],
   "code": 200,
