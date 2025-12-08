@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-12-07T16:12:29.399Z"
+    "lastUpdate": "2025-12-08T00:55:52.114Z"
   },
   "data": [
+    {
+      "zqdm": "688805",
+      "zqjc": "健信超导",
+      "sgdm": "787805",
+      "fxsl": 41920000,
+      "swfxsl": 10060500,
+      "sgsx": 10000,
+      "dgsz": 100000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-15",
+      "zqgbrq": "2025-12-17",
+      "zqjkrq": "2025-12-17",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 37.24,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "从事医用磁共振成像(MRI)设备核心部件的研发、生产和销售"
+    },
     {
       "zqdm": "603248",
       "zqjc": "锡华科技",
@@ -168,5 +191,5 @@
       "zyyw": "从事射频前端芯片、射频SoC芯片及其他模拟芯片的研发、设计与销售"
     }
   ],
-  "total": 7
+  "total": 8
 }
