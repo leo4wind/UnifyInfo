@@ -3,32 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-09T16:15:52.122Z"
+    "lastUpdate": "2025-12-09T20:12:12.090Z"
   },
   "data": [
+    {
+      "id": 46205632,
+      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "score": 970,
+      "author": "keepamovin",
+      "created": "2025-12-09 15:00:38",
+      "created_at": 1765292438000
+    },
     {
       "id": 46196688,
       "title": "Icons in Menus Everywhere – Send Help",
       "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-      "score": 706,
+      "score": 777,
       "author": "ArmageddonIt",
       "created": "2025-12-08 19:44:00",
       "created_at": 1765223040000
     },
     {
-      "id": 46183294,
-      "title": "I failed to recreate the 1996 Space Jam website with Claude",
-      "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-      "score": 544,
-      "author": "thecr0w",
-      "created": "2025-12-07 17:18:54",
-      "created_at": 1765127934000
+      "id": 46206457,
+      "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
+      "link": "",
+      "score": 551,
+      "author": "embedding-shape",
+      "created": "2025-12-09 16:02:37",
+      "created_at": 1765296157000
     },
     {
       "id": 46199723,
       "title": "Horses: AI progress is steady. Human equivalence is sudden",
       "link": "https://andyljones.com/posts/horses.html",
-      "score": 499,
+      "score": 527,
       "author": "pbui",
       "created": "2025-12-09 00:26:35",
       "created_at": 1765239995000
@@ -37,7 +46,7 @@
       "id": 46189994,
       "title": "The fuck off contact page",
       "link": "https://www.nicchan.me/blog/the-f-off-contact-page/",
-      "score": 468,
+      "score": 474,
       "author": "OuterVale",
       "created": "2025-12-08 08:57:19",
       "created_at": 1765184239000
@@ -46,7 +55,7 @@
       "id": 46192186,
       "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
       "link": "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/",
-      "score": 442,
+      "score": 455,
       "author": "taubek",
       "created": "2025-12-08 13:49:21",
       "created_at": 1765201761000
@@ -55,7 +64,7 @@
       "id": 46192130,
       "title": "IBM to acquire Confluent",
       "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-      "score": 430,
+      "score": 433,
       "author": "abd12",
       "created": "2025-12-08 13:43:59",
       "created_at": 1765201439000
@@ -64,37 +73,28 @@
       "id": 46189692,
       "title": "GitHub Actions has a package manager, and it might be the worst",
       "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-      "score": 419,
+      "score": 425,
       "author": "robin_reala",
       "created": "2025-12-08 08:15:32",
       "created_at": 1765181732000
     },
     {
-      "id": 46194615,
-      "title": "Microsoft has a problem: lack of demand for its AI products",
-      "link": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
-      "score": 411,
-      "author": "mohi-kalantari",
-      "created": "2025-12-08 16:54:31",
-      "created_at": 1765212871000
-    },
-    {
       "id": 46196105,
       "title": "Jepsen: NATS 2.12.1",
       "link": "https://jepsen.io/analyses/nats-2.12.1",
-      "score": 404,
+      "score": 420,
       "author": "aphyr",
       "created": "2025-12-08 18:51:03",
       "created_at": 1765219863000
     },
     {
-      "id": 46196228,
-      "title": "Has the cost of building software dropped 90%?",
-      "link": "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/",
-      "score": 364,
-      "author": "martinald",
-      "created": "2025-12-08 19:00:48",
-      "created_at": 1765220448000
+      "id": 46194615,
+      "title": "Microsoft has a problem: lack of demand for its AI products",
+      "link": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+      "score": 414,
+      "author": "mohi-kalantari",
+      "created": "2025-12-08 16:54:31",
+      "created_at": 1765212871000
     }
   ],
   "code": 200,
