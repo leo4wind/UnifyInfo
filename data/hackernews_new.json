@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-09T04:20:57.712Z"
+    "lastUpdate": "2025-12-09T08:17:26.848Z"
   },
   "data": [
+    {
+      "id": 46201750,
+      "title": "The closer we look at time, the stranger it gets",
+      "link": "https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets",
+      "score": 25,
+      "author": "philbo",
+      "created": "2025-12-09 06:01:57",
+      "created_at": 1765260117000
+    },
     {
       "id": 46199623,
       "title": "The universal weight subspace hypothesis",
       "link": "https://arxiv.org/abs/2512.05117",
-      "score": 144,
+      "score": 249,
       "author": "lukeplato",
       "created": "2025-12-09 00:16:46",
       "created_at": 1765239406000
     },
     {
-      "id": 46199411,
-      "title": "Kroger acknowledges that its bet on robotics went too far",
-      "link": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
-      "score": 97,
-      "author": "JumpCrisscross",
-      "created": "2025-12-08 23:53:52",
-      "created_at": 1765238032000
-    },
-    {
-      "id": 46148202,
-      "title": "The web runs on tolerance",
-      "link": "https://shkspr.mobi/blog/2025/12/the-web-runs-on-tolerance/",
-      "score": 18,
-      "author": "speckx",
-      "created": "2025-12-04 14:45:10",
-      "created_at": 1764859510000
-    },
-    {
       "id": 46196688,
       "title": "Icons in Menus Everywhere – Send Help",
       "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-      "score": 293,
+      "score": 448,
       "author": "ArmageddonIt",
       "created": "2025-12-08 19:44:00",
       "created_at": 1765223040000
     },
     {
+      "id": 46199530,
+      "title": "Manual: Spaces",
+      "link": "https://type.today/en/journal/spaces",
+      "score": 30,
+      "author": "doener",
+      "created": "2025-12-09 00:07:42",
+      "created_at": 1765238862000
+    },
+    {
+      "id": 46198430,
+      "title": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
+      "link": "https://withdocket.com",
+      "score": 87,
+      "author": "davnicwil",
+      "created": "2025-12-08 22:21:26",
+      "created_at": 1765232486000
+    },
+    {
+      "id": 46202058,
+      "title": "A thousand-year-long composition turns 25 (2024)",
+      "link": "https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/",
+      "score": 10,
+      "author": "1659447091",
+      "created": "2025-12-09 07:01:38",
+      "created_at": 1765263698000
+    },
+    {
+      "id": 46199411,
+      "title": "Kroger acknowledges that its bet on robotics went too far",
+      "link": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
+      "score": 136,
+      "author": "JumpCrisscross",
+      "created": "2025-12-08 23:53:52",
+      "created_at": 1765238032000
+    },
+    {
       "id": 46196105,
       "title": "Jepsen: NATS 2.12.1",
       "link": "https://jepsen.io/analyses/nats-2.12.1",
-      "score": 303,
+      "score": 347,
       "author": "aphyr",
       "created": "2025-12-08 18:51:03",
       "created_at": 1765219863000
     },
     {
-      "id": 46199723,
-      "title": "Horses: AI progress is steady. Human equivalence is sudden",
-      "link": "https://andyljones.com/posts/horses.html",
-      "score": 218,
-      "author": "pbui",
-      "created": "2025-12-09 00:26:35",
-      "created_at": 1765239995000
-    },
-    {
-      "id": 46136277,
-      "title": "OSHW: Small tablet based on RK3568 and AMOLED screen",
-      "link": "https://oshwhub.com/oglggc/rui-xin-wei-rk3568-si-ceng-jia-li-chuang-mian-fei-gong-yi",
-      "score": 32,
-      "author": "thenthenthen",
-      "created": "2025-12-03 16:19:53",
-      "created_at": 1764778793000
-    },
-    {
-      "id": 46199950,
-      "title": "The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)",
-      "link": "https://www.untappedcities.com/automats-cafeterias-nyc/",
-      "score": 37,
-      "author": "walterbell",
-      "created": "2025-12-09 00:51:31",
-      "created_at": 1765241491000
+      "id": 46137772,
+      "title": "Periodic Spaces",
+      "link": "https://ianthehenry.com/posts/periodic-spaces/",
+      "score": 6,
+      "author": "surprisetalk",
+      "created": "2025-12-03 18:03:40",
+      "created_at": 1764785020000
     },
     {
       "id": 46192846,
       "title": "Strong earthquake hits northern Japan, tsunami warning issued",
       "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
-      "score": 274,
+      "score": 298,
       "author": "lattis",
       "created": "2025-12-08 14:50:48",
       "created_at": 1765205448000
-    },
-    {
-      "id": 46193931,
-      "title": "AMD GPU Debugger",
-      "link": "https://thegeeko.me/blog/amd-gpu-debugging/",
-      "score": 218,
-      "author": "ibobev",
-      "created": "2025-12-08 16:06:14",
-      "created_at": 1765209974000
     }
   ],
   "code": 200,
