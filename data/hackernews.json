@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-09T00:55:26.454Z"
+    "lastUpdate": "2025-12-09T04:20:57.539Z"
   },
   "data": [
-    {
-      "id": 46178347,
-      "title": "Using LLMs at Oxide",
-      "link": "https://rfd.shared.oxide.computer/rfd/0576",
-      "score": 693,
-      "author": "steveklabnik",
-      "created": "2025-12-07 01:17:40",
-      "created_at": 1765070260000
-    },
     {
       "id": 46181371,
       "title": "I wasted years of my life in crypto",
       "link": "https://twitter.com/kenchangh/status/1994854381267947640",
-      "score": 631,
+      "score": 645,
       "author": "Anon84",
       "created": "2025-12-07 12:57:59",
       "created_at": 1765112279000
@@ -37,7 +28,7 @@
       "id": 46181231,
       "title": "Google Titans architecture, helping AI have long-term memory",
       "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
-      "score": 565,
+      "score": 569,
       "author": "Alifatisk",
       "created": "2025-12-07 12:23:45",
       "created_at": 1765110225000
@@ -46,7 +37,7 @@
       "id": 46183294,
       "title": "I failed to recreate the 1996 Space Jam website with Claude",
       "link": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-      "score": 530,
+      "score": 531,
       "author": "thecr0w",
       "created": "2025-12-07 17:18:54",
       "created_at": 1765127934000
@@ -64,7 +55,7 @@
       "id": 46181962,
       "title": "Dollar-stores overcharge customers while promising low prices",
       "link": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
-      "score": 489,
+      "score": 494,
       "author": "bookofjoe",
       "created": "2025-12-07 14:37:21",
       "created_at": 1765118241000
@@ -73,28 +64,37 @@
       "id": 46189994,
       "title": "The fuck off contact page",
       "link": "https://www.nicchan.me/blog/the-f-off-contact-page/",
-      "score": 444,
+      "score": 453,
       "author": "OuterVale",
       "created": "2025-12-08 08:57:19",
       "created_at": 1765184239000
     },
     {
+      "id": 46189692,
+      "title": "GitHub Actions has a package manager, and it might be the worst",
+      "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+      "score": 386,
+      "author": "robin_reala",
+      "created": "2025-12-08 08:15:32",
+      "created_at": 1765181732000
+    },
+    {
       "id": 46194615,
       "title": "Microsoft has a problem: lack of demand for its AI products",
       "link": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
-      "score": 378,
+      "score": 383,
       "author": "mohi-kalantari",
       "created": "2025-12-08 16:54:31",
       "created_at": 1765212871000
     },
     {
-      "id": 46189692,
-      "title": "GitHub Actions has a package manager, and it might be the worst",
-      "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-      "score": 374,
-      "author": "robin_reala",
-      "created": "2025-12-08 08:15:32",
-      "created_at": 1765181732000
+      "id": 46192130,
+      "title": "IBM to acquire Confluent",
+      "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+      "score": 357,
+      "author": "abd12",
+      "created": "2025-12-08 13:43:59",
+      "created_at": 1765201439000
     }
   ],
   "code": 200,
