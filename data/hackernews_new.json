@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-08T20:13:43.951Z"
+    "lastUpdate": "2025-12-09T00:55:27.601Z"
   },
   "data": [
     {
-      "id": 46196076,
-      "title": "Deep dive on Nvidia circular funding",
-      "link": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
-      "score": 113,
-      "author": "jeanloolz",
-      "created": "2025-12-08 18:48:27",
-      "created_at": 1765219707000
+      "id": 46199411,
+      "title": "Kroger acknowledges that its bet on robotics went too far",
+      "link": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
+      "score": 50,
+      "author": "JumpCrisscross",
+      "created": "2025-12-08 23:53:52",
+      "created_at": 1765238032000
+    },
+    {
+      "id": 46199623,
+      "title": "The Universal Weight Subspace Hypothesis",
+      "link": "https://arxiv.org/abs/2512.05117",
+      "score": 13,
+      "author": "lukeplato",
+      "created": "2025-12-09 00:16:46",
+      "created_at": 1765239406000
+    },
+    {
+      "id": 46196688,
+      "title": "Icons in Menus Everywhere – Send Help",
+      "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
+      "score": 173,
+      "author": "ArmageddonIt",
+      "created": "2025-12-08 19:44:00",
+      "created_at": 1765223040000
     },
     {
       "id": 46196105,
       "title": "Jepsen: NATS 2.12.1",
       "link": "https://jepsen.io/analyses/nats-2.12.1",
-      "score": 83,
+      "score": 256,
       "author": "aphyr",
       "created": "2025-12-08 18:51:03",
       "created_at": 1765219863000
@@ -28,7 +46,7 @@
       "id": 46192846,
       "title": "Strong earthquake hits northern Japan, tsunami warning issued",
       "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
-      "score": 175,
+      "score": 257,
       "author": "lattis",
       "created": "2025-12-08 14:50:48",
       "created_at": 1765205448000
@@ -37,7 +55,7 @@
       "id": 46193931,
       "title": "AMD GPU Debugger",
       "link": "https://thegeeko.me/blog/amd-gpu-debugging/",
-      "score": 148,
+      "score": 208,
       "author": "ibobev",
       "created": "2025-12-08 16:06:14",
       "created_at": 1765209974000
@@ -46,55 +64,37 @@
       "id": 46194337,
       "title": "Let's put Tailscale on a jailbroken Kindle",
       "link": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
-      "score": 123,
+      "score": 224,
       "author": "Quizzical4230",
       "created": "2025-12-08 16:34:08",
       "created_at": 1765211648000
     },
     {
+      "id": 46199935,
+      "title": "Scientific and Technical Amateur Radio",
+      "link": "https://destevez.net/",
+      "score": 3,
+      "author": "gballan",
+      "created": "2025-12-09 00:50:32",
+      "created_at": 1765241432000
+    },
+    {
       "id": 46194384,
       "title": "Hunting for North Korean Fiber Optic Cables",
       "link": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
-      "score": 137,
+      "score": 207,
       "author": "Bezod",
       "created": "2025-12-08 16:38:08",
       "created_at": 1765211888000
     },
     {
-      "id": 46194828,
-      "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
-      "link": "https://www.trynia.ai/",
-      "score": 56,
-      "author": "jellyotsiro",
-      "created": "2025-12-08 17:10:14",
-      "created_at": 1765213814000
-    },
-    {
-      "id": 46192130,
-      "title": "IBM to acquire Confluent",
-      "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-      "score": 246,
-      "author": "abd12",
-      "created": "2025-12-08 13:43:59",
-      "created_at": 1765201439000
-    },
-    {
-      "id": 46195109,
-      "title": "We collected 10k hours of neuro-language data in our basement",
-      "link": "https://condu.it/thought/10k-hours",
-      "score": 37,
-      "author": "nee1r",
-      "created": "2025-12-08 17:33:13",
-      "created_at": 1765215193000
-    },
-    {
-      "id": 46194477,
-      "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
-      "link": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
-      "score": 57,
-      "author": "ibobev",
-      "created": "2025-12-08 16:44:42",
-      "created_at": 1765212282000
+      "id": 46147329,
+      "title": "Show HN: Fanfa – Interactive and animated Mermaid diagrams",
+      "link": "https://fanfa.dev/",
+      "score": 54,
+      "author": "bairess",
+      "created": "2025-12-04 13:16:54",
+      "created_at": 1764854214000
     }
   ],
   "code": 200,
