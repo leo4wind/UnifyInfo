@@ -3,23 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-09T12:23:42.491Z"
+    "lastUpdate": "2025-12-09T16:15:52.557Z"
   },
   "data": [
+    {
+      "id": 46205519,
+      "title": "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
+      "link": "https://github.com/KaijuEngine/kaiju",
+      "score": 45,
+      "author": "discomrobertul8",
+      "created": "2025-12-09 14:51:46",
+      "created_at": 1765291906000
+    },
+    {
+      "id": 46205437,
+      "title": "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
+      "link": "https://mistral.ai/news/devstral-2-vibe-cli",
+      "score": 51,
+      "author": "pember",
+      "created": "2025-12-09 14:45:01",
+      "created_at": 1765291501000
+    },
     {
       "id": 46124425,
       "title": "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
       "link": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
-      "score": 103,
+      "score": 314,
       "author": "gpjt",
       "created": "2025-12-02 18:17:48",
       "created_at": 1764699468000
     },
     {
+      "id": 46205661,
+      "title": "New Pebble Device",
+      "link": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+      "score": 139,
+      "author": "freshrap6",
+      "created": "2025-12-09 15:03:09",
+      "created_at": 1765292589000
+    },
+    {
       "id": 46203138,
       "title": "The Joy of Playing Grandia, on Sega Saturn",
       "link": "https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/",
-      "score": 59,
+      "score": 125,
       "author": "tosh",
       "created": "2025-12-09 09:48:55",
       "created_at": 1765273735000
@@ -28,73 +55,46 @@
       "id": 46203581,
       "title": "Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns",
       "link": "https://algodrill.io",
-      "score": 23,
+      "score": 100,
       "author": "henwfan",
       "created": "2025-12-09 11:09:06",
       "created_at": 1765278546000
     },
     {
-      "id": 46131837,
-      "title": "No ARIA is better than bad ARIA",
-      "link": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
-      "score": 75,
-      "author": "robin_reala",
-      "created": "2025-12-03 08:39:12",
-      "created_at": 1764751152000
+      "id": 46137596,
+      "title": "Transformers know more than they can tell: Learning the Collatz sequence",
+      "link": "https://www.arxiv.org/pdf/2511.10811",
+      "score": 58,
+      "author": "Xcelerate",
+      "created": "2025-12-03 17:50:17",
+      "created_at": 1764784217000
+    },
+    {
+      "id": 46114440,
+      "title": "Constructing the Word's First JPEG XL MD5 Hash Quine",
+      "link": "https://stackchk.fail/blog/jxl_hashquine_writeup",
+      "score": 54,
+      "author": "luispa",
+      "created": "2025-12-01 22:44:15",
+      "created_at": 1764629055000
+    },
+    {
+      "id": 46205461,
+      "title": "My favourite small hash table",
+      "link": "https://www.corsix.org/content/my-favourite-small-hash-table",
+      "score": 12,
+      "author": "speckx",
+      "created": "2025-12-09 14:47:20",
+      "created_at": 1765291640000
     },
     {
       "id": 46121105,
-      "title": "A deep dive into QEMU: The Tiny Code Generator (TCG), part 1",
+      "title": "A deep dive into QEMU: The Tiny Code Generator (TCG), part 1 (2021)",
       "link": "https://airbus-seclab.github.io/qemu_blog/tcg_p1.html",
-      "score": 16,
+      "score": 51,
       "author": "costco",
       "created": "2025-12-02 13:42:43",
       "created_at": 1764682963000
-    },
-    {
-      "id": 46102311,
-      "title": "Epsilon: A WASM virtual machine written in Go",
-      "link": "https://github.com/ziggy42/epsilon",
-      "score": 63,
-      "author": "ziggy42",
-      "created": "2025-12-01 01:12:03",
-      "created_at": 1764551523000
-    },
-    {
-      "id": 46196688,
-      "title": "Icons in Menus Everywhere – Send Help",
-      "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-      "score": 595,
-      "author": "ArmageddonIt",
-      "created": "2025-12-08 19:44:00",
-      "created_at": 1765223040000
-    },
-    {
-      "id": 46203499,
-      "title": "ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades",
-      "link": "https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/",
-      "score": 6,
-      "author": "ibobev",
-      "created": "2025-12-09 10:52:58",
-      "created_at": 1765277578000
-    },
-    {
-      "id": 46199623,
-      "title": "The universal weight subspace hypothesis",
-      "link": "https://arxiv.org/abs/2512.05117",
-      "score": 298,
-      "author": "lukeplato",
-      "created": "2025-12-09 00:16:46",
-      "created_at": 1765239406000
-    },
-    {
-      "id": 46199411,
-      "title": "Kroger acknowledges that its bet on robotics went too far",
-      "link": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
-      "score": 189,
-      "author": "JumpCrisscross",
-      "created": "2025-12-08 23:53:52",
-      "created_at": 1765238032000
     }
   ],
   "code": 200,
