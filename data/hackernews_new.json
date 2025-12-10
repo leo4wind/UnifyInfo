@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-10T12:23:56.652Z"
+    "lastUpdate": "2025-12-10T16:18:00.128Z"
   },
   "data": [
     {
-      "id": 46205632,
-      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
-      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "score": 2779,
-      "author": "keepamovin",
-      "created": "2025-12-09 15:00:38",
-      "created_at": 1765292438000
+      "id": 46218725,
+      "title": "In New York City, congestion pricing leads to marked drop in pollution",
+      "link": "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution",
+      "score": 144,
+      "author": "Brajeshwar",
+      "created": "2025-12-10 15:25:05",
+      "created_at": 1765380305000
+    },
+    {
+      "id": 46154220,
+      "title": "Map of all the buildings in the world",
+      "link": "https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696",
+      "score": 104,
+      "author": "dr_dshiv",
+      "created": "2025-12-04 22:43:33",
+      "created_at": 1764888213000
+    },
+    {
+      "id": 46219386,
+      "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
+      "link": "https://www.inspectmind.ai/",
+      "score": 3,
+      "author": "aakashprasad91",
+      "created": "2025-12-10 16:05:03",
+      "created_at": 1765382703000
     },
     {
       "id": 46214693,
       "title": "Revisiting \"Let's Build a Compiler\"",
       "link": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
-      "score": 106,
+      "score": 190,
       "author": "cui",
       "created": "2025-12-10 06:22:19",
       "created_at": 1765347739000
@@ -28,7 +46,7 @@
       "id": 46213585,
       "title": "Rust in the kernel is no longer experimental",
       "link": "https://lwn.net/Articles/1049831/",
-      "score": 610,
+      "score": 796,
       "author": "rascul",
       "created": "2025-12-10 03:15:24",
       "created_at": 1765336524000
@@ -37,64 +55,46 @@
       "id": 46207464,
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
       "link": "https://www.digitalpublicgoods.net/r/peertube",
-      "score": 564,
+      "score": 621,
       "author": "fsflover",
       "created": "2025-12-09 17:08:37",
       "created_at": 1765300117000
     },
     {
-      "id": 46140579,
-      "title": "Putting email in its place with Emacs and Mu4e",
-      "link": "https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/",
-      "score": 49,
-      "author": "eamonnsullivan",
-      "created": "2025-12-03 21:42:48",
-      "created_at": 1764798168000
+      "id": 46170707,
+      "title": "Volcanic eruptions set off a chain of events that brought Black Death to Europe",
+      "link": "https://www.cam.ac.uk/stories/volcanoes-black-death",
+      "score": 7,
+      "author": "gmays",
+      "created": "2025-12-06 04:31:42",
+      "created_at": 1764995502000
     },
     {
       "id": 46171008,
-      "title": "AWS Announces Graviton 5",
+      "title": "Amazon EC2 M9g Instances",
       "link": "https://aws.amazon.com/ec2/instance-types/m9g/",
-      "score": 65,
+      "score": 117,
       "author": "AlexClickHouse",
       "created": "2025-12-06 05:36:48",
       "created_at": 1764999408000
     },
     {
-      "id": 46164197,
-      "title": "When a video codec wins an Emmy",
-      "link": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/",
-      "score": 168,
-      "author": "todsacerdoti",
-      "created": "2025-12-05 17:15:01",
-      "created_at": 1764954901000
+      "id": 46218538,
+      "title": "Writing an Outlook Add-in in Rust",
+      "link": "https://tritium.legal/blog/outlook",
+      "score": 4,
+      "author": "piker",
+      "created": "2025-12-10 15:10:36",
+      "created_at": 1765379436000
     },
     {
-      "id": 46205437,
-      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
-      "link": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "score": 631,
-      "author": "pember",
-      "created": "2025-12-09 14:45:01",
-      "created_at": 1765291501000
-    },
-    {
-      "id": 46207505,
-      "title": "If you're going to vibe code, why not do it in C?",
-      "link": "https://stephenramsay.net/posts/vibe-coding.html",
-      "score": 506,
-      "author": "sramsay",
-      "created": "2025-12-09 17:11:09",
-      "created_at": 1765300269000
-    },
-    {
-      "id": 46210240,
-      "title": "Django: what’s new in 6.0",
-      "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
-      "score": 304,
-      "author": "rbanffy",
-      "created": "2025-12-09 20:33:14",
-      "created_at": 1765312394000
+      "id": 46127981,
+      "title": "Cloth Simulation",
+      "link": "https://cloth.mikail-khan.com/",
+      "score": 120,
+      "author": "adamch",
+      "created": "2025-12-02 22:44:37",
+      "created_at": 1764715477000
     }
   ],
   "code": 200,
