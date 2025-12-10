@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-10T00:56:44.411Z"
+    "lastUpdate": "2025-12-10T04:25:27.243Z"
   },
   "data": [
     {
       "id": 46205632,
       "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
       "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "score": 1764,
+      "score": 2093,
       "author": "keepamovin",
       "created": "2025-12-09 15:00:38",
       "created_at": 1765292438000
@@ -19,7 +19,7 @@
       "id": 46196688,
       "title": "Icons in Menus Everywhere – Send Help",
       "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-      "score": 793,
+      "score": 801,
       "author": "ArmageddonIt",
       "created": "2025-12-08 19:44:00",
       "created_at": 1765223040000
@@ -28,7 +28,7 @@
       "id": 46206457,
       "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
       "link": "",
-      "score": 758,
+      "score": 796,
       "author": "embedding-shape",
       "created": "2025-12-09 16:02:37",
       "created_at": 1765296157000
@@ -37,16 +37,25 @@
       "id": 46199723,
       "title": "Horses: AI progress is steady. Human equivalence is sudden",
       "link": "https://andyljones.com/posts/horses.html",
-      "score": 540,
+      "score": 548,
       "author": "pbui",
       "created": "2025-12-09 00:26:35",
       "created_at": 1765239995000
     },
     {
+      "id": 46208962,
+      "title": "10 Years of Let's Encrypt",
+      "link": "https://letsencrypt.org/2025/12/09/10-years",
+      "score": 531,
+      "author": "SGran",
+      "created": "2025-12-09 18:54:55",
+      "created_at": 1765306495000
+    },
+    {
       "id": 46205437,
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "score": 478,
+      "score": 518,
       "author": "pember",
       "created": "2025-12-09 14:45:01",
       "created_at": 1765291501000
@@ -55,46 +64,37 @@
       "id": 46189994,
       "title": "The fuck off contact page",
       "link": "https://www.nicchan.me/blog/the-f-off-contact-page/",
-      "score": 478,
+      "score": 480,
       "author": "OuterVale",
       "created": "2025-12-08 08:57:19",
       "created_at": 1765184239000
     },
     {
+      "id": 46206531,
+      "title": "Handsdown one of the coolest 3D websites",
+      "link": "https://bruno-simon.com/",
+      "score": 465,
+      "author": "razzmataks",
+      "created": "2025-12-09 16:06:58",
+      "created_at": 1765296418000
+    },
+    {
       "id": 46192186,
       "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
       "link": "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/",
-      "score": 461,
+      "score": 463,
       "author": "taubek",
       "created": "2025-12-08 13:49:21",
       "created_at": 1765201761000
     },
     {
-      "id": 46192130,
-      "title": "IBM to acquire Confluent",
-      "link": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-      "score": 435,
-      "author": "abd12",
-      "created": "2025-12-08 13:43:59",
-      "created_at": 1765201439000
-    },
-    {
-      "id": 46208962,
-      "title": "10 Years of Let's Encrypt",
-      "link": "https://letsencrypt.org/2025/12/09/10-years",
-      "score": 432,
-      "author": "SGran",
-      "created": "2025-12-09 18:54:55",
-      "created_at": 1765306495000
-    },
-    {
-      "id": 46189692,
-      "title": "GitHub Actions has a package manager, and it might be the worst",
-      "link": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-      "score": 429,
-      "author": "robin_reala",
-      "created": "2025-12-08 08:15:32",
-      "created_at": 1765181732000
+      "id": 46207464,
+      "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
+      "link": "https://www.digitalpublicgoods.net/r/peertube",
+      "score": 441,
+      "author": "fsflover",
+      "created": "2025-12-09 17:08:37",
+      "created_at": 1765300117000
     }
   ],
   "code": 200,

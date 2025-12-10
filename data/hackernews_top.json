@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-10T00:56:44.517Z"
+    "lastUpdate": "2025-12-10T04:25:27.385Z"
   },
   "data": [
     {
       "id": 46205632,
       "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
       "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "score": 1764,
+      "score": 2093,
       "author": "keepamovin",
       "created": "2025-12-09 15:00:38",
       "created_at": 1765292438000
@@ -19,16 +19,25 @@
       "id": 46207464,
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
       "link": "https://www.digitalpublicgoods.net/r/peertube",
-      "score": 378,
+      "score": 441,
       "author": "fsflover",
       "created": "2025-12-09 17:08:37",
       "created_at": 1765300117000
     },
     {
+      "id": 46213585,
+      "title": "The end of the kernel Rust experiment",
+      "link": "https://lwn.net/Articles/1049831/",
+      "score": 78,
+      "author": "rascul",
+      "created": "2025-12-10 03:15:24",
+      "created_at": 1765336524000
+    },
+    {
       "id": 46210240,
       "title": "Django: what’s new in 6.0",
       "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
-      "score": 138,
+      "score": 187,
       "author": "rbanffy",
       "created": "2025-12-09 20:33:14",
       "created_at": 1765312394000
@@ -37,7 +46,7 @@
       "id": 46205437,
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "score": 478,
+      "score": 518,
       "author": "pember",
       "created": "2025-12-09 14:45:01",
       "created_at": 1765291501000
@@ -46,25 +55,16 @@
       "id": 46207505,
       "title": "If you're going to vibe code, why not do it in C?",
       "link": "https://stephenramsay.net/posts/vibe-coding.html",
-      "score": 299,
+      "score": 366,
       "author": "sramsay",
       "created": "2025-12-09 17:11:09",
       "created_at": 1765300269000
     },
     {
-      "id": 46208962,
-      "title": "10 Years of Let's Encrypt",
-      "link": "https://letsencrypt.org/2025/12/09/10-years",
-      "score": 432,
-      "author": "SGran",
-      "created": "2025-12-09 18:54:55",
-      "created_at": 1765306495000
-    },
-    {
       "id": 46206531,
       "title": "Handsdown one of the coolest 3D websites",
       "link": "https://bruno-simon.com/",
-      "score": 378,
+      "score": 465,
       "author": "razzmataks",
       "created": "2025-12-09 16:06:58",
       "created_at": 1765296418000
@@ -73,28 +73,28 @@
       "id": 46205661,
       "title": "Pebble Index 01 – External memory for your brain",
       "link": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
-      "score": 378,
+      "score": 425,
       "author": "freshrap6",
       "created": "2025-12-09 15:03:09",
       "created_at": 1765292589000
     },
     {
-      "id": 46155740,
-      "title": "Italy's longest-serving barista reflects on six decades behind the counter",
-      "link": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
-      "score": 55,
-      "author": "NaOH",
-      "created": "2025-12-05 01:22:29",
-      "created_at": 1764897749000
+      "id": 46212969,
+      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "link": "https://zenodo.org/records/17873275",
+      "score": 24,
+      "author": "anima-core",
+      "created": "2025-12-10 01:25:00",
+      "created_at": 1765329900000
     },
     {
-      "id": 46210806,
-      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
-      "link": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
-      "score": 40,
-      "author": "speckx",
-      "created": "2025-12-09 21:19:37",
-      "created_at": 1765315177000
+      "id": 46208962,
+      "title": "10 Years of Let's Encrypt",
+      "link": "https://letsencrypt.org/2025/12/09/10-years",
+      "score": 531,
+      "author": "SGran",
+      "created": "2025-12-09 18:54:55",
+      "created_at": 1765306495000
     }
   ],
   "code": 200,
