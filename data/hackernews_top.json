@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-11T16:17:30.505Z"
+    "lastUpdate": "2025-12-11T20:14:51.840Z"
   },
   "data": [
     {
+      "id": 46234788,
+      "title": "GPT-5.2",
+      "link": "https://openai.com/index/introducing-gpt-5-2/",
+      "score": 338,
+      "author": "atgctg",
+      "created": "2025-12-11 18:04:47",
+      "created_at": 1765476287000
+    },
+    {
+      "id": 46235531,
+      "title": "Age verification is coming for the internet",
+      "link": "https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back",
+      "score": 58,
+      "author": "heavyset_go",
+      "created": "2025-12-11 18:58:49",
+      "created_at": 1765479529000
+    },
+    {
+      "id": 46235412,
+      "title": "Going Through Snowden Documents, Part 1",
+      "link": "https://libroot.org/posts/going-through-snowden-documents-part-1/",
+      "score": 79,
+      "author": "libroot",
+      "created": "2025-12-11 18:52:08",
+      "created_at": 1765479128000
+    },
+    {
+      "id": 46234710,
+      "title": "Litestream VFS",
+      "link": "https://fly.io/blog/litestream-vfs/",
+      "score": 102,
+      "author": "emschwartz",
+      "created": "2025-12-11 17:59:10",
+      "created_at": 1765475950000
+    },
+    {
       "id": 46197930,
-      "title": "Show HN: I've asked Claude to improve codebase quality 200 times",
+      "title": "The highest quality codebase",
       "link": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "score": 90,
+      "score": 305,
       "author": "Gricha",
       "created": "2025-12-08 21:33:09",
       "created_at": 1765229589000
     },
     {
-      "id": 46232220,
-      "title": "An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions",
-      "link": "https://arxiv.org/abs/2512.09643",
-      "score": 36,
-      "author": "rapnie",
-      "created": "2025-12-11 15:01:44",
-      "created_at": 1765465304000
+      "id": 46236037,
+      "title": "My productivity app is a never-ending .txt file (2022)",
+      "link": "https://jeffhuang.com/productivity_text_file/",
+      "score": 22,
+      "author": "simonebrunozzi",
+      "created": "2025-12-11 19:30:58",
+      "created_at": 1765481458000
     },
     {
-      "id": 46232434,
-      "title": "Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation",
-      "link": "",
-      "score": 18,
-      "author": "cschlaepfer",
-      "created": "2025-12-11 15:18:51",
-      "created_at": 1765466331000
+      "id": 46234186,
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "link": "https://github.com/simstudioai/sim",
+      "score": 59,
+      "author": "waleedlatif1",
+      "created": "2025-12-11 17:20:11",
+      "created_at": 1765473611000
     },
     {
-      "id": 46231585,
-      "title": "Disney making $1B investment in OpenAI, will allow characters on Sora AI",
-      "link": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html",
-      "score": 163,
-      "author": "tiahura",
-      "created": "2025-12-11 14:12:14",
-      "created_at": 1765462334000
+      "id": 46235959,
+      "title": "An SVG is all you need",
+      "link": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
+      "score": 13,
+      "author": "sadiq",
+      "created": "2025-12-11 19:25:14",
+      "created_at": 1765481114000
     },
     {
       "id": 46231274,
       "title": "Craft software that makes people feel something",
       "link": "https://rapha.land/craft-software-that-makes-people-feel-something/",
-      "score": 46,
+      "score": 162,
       "author": "lukeio",
       "created": "2025-12-11 13:45:08",
       "created_at": 1765460708000
     },
     {
-      "id": 46219346,
-      "title": "Size of Life",
-      "link": "https://neal.fun/size-of-life/",
-      "score": 2318,
-      "author": "eatonphil",
-      "created": "2025-12-10 16:02:57",
-      "created_at": 1765382577000
-    },
-    {
-      "id": 46206591,
-      "title": "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
-      "link": "https://github.com/privacyshield-ai/privacy-firewall",
-      "score": 64,
-      "author": "arnabkarsarkar",
-      "created": "2025-12-09 16:10:37",
-      "created_at": 1765296637000
-    },
-    {
-      "id": 46232528,
-      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
-      "link": "https://www.youtube.com/watch?v=hksVvXONrIo",
-      "score": 70,
-      "author": "walterbell",
-      "created": "2025-12-11 15:25:43",
-      "created_at": 1765466743000
-    },
-    {
-      "id": 46168902,
-      "title": "Oldest attestation of Austronesian language: Đông Yên Châu inscription",
-      "link": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Y%C3%AAn_Ch%C3%A2u_inscription",
-      "score": 29,
-      "author": "teleforce",
-      "created": "2025-12-05 23:42:15",
-      "created_at": 1764978135000
-    },
-    {
-      "id": 46229467,
-      "title": "A “frozen” dictionary for Python",
-      "link": "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/",
-      "score": 134,
-      "author": "jwilk",
-      "created": "2025-12-11 09:51:47",
-      "created_at": 1765446707000
+      "id": 46127191,
+      "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
+      "link": "https://chicagoreader.com/news/prove-it-all-night/",
+      "score": 24,
+      "author": "NaOH",
+      "created": "2025-12-02 21:36:22",
+      "created_at": 1764711382000
     }
   ],
   "code": 200,
