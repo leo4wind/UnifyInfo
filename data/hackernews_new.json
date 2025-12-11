@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-10T20:14:30.052Z"
+    "lastUpdate": "2025-12-11T00:57:28.030Z"
   },
   "data": [
     {
       "id": 46219346,
       "title": "Size of Life",
       "link": "https://neal.fun/size-of-life/",
-      "score": 726,
+      "score": 1316,
       "author": "eatonphil",
       "created": "2025-12-10 16:02:57",
       "created_at": 1765382577000
@@ -19,79 +19,79 @@
       "id": 46208348,
       "title": "Australia begins enforcing world-first teen social media ban",
       "link": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
-      "score": 224,
+      "score": 530,
       "author": "chirau",
       "created": "2025-12-09 18:12:29",
       "created_at": 1765303949000
     },
     {
-      "id": 46221925,
-      "title": "Super Mario 64 for the PS1",
-      "link": "https://github.com/malucard/sm64-psx",
-      "score": 49,
-      "author": "LaserDiscMan",
-      "created": "2025-12-10 18:58:55",
-      "created_at": 1765393135000
-    },
-    {
-      "id": 46222165,
-      "title": "The future of Terraform CDK",
-      "link": "https://github.com/hashicorp/terraform-cdk",
-      "score": 31,
-      "author": "mfornasa",
-      "created": "2025-12-10 19:14:03",
-      "created_at": 1765394043000
+      "id": 46223311,
+      "title": "Getting a Gemini API key is an exercise in frustration",
+      "link": "https://ankursethi.com/blog/gemini-api-key-frustration/",
+      "score": 185,
+      "author": "speckx",
+      "created": "2025-12-10 20:29:12",
+      "created_at": 1765398552000
     },
     {
       "id": 46220540,
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "link": "https://karpathy.bearblog.dev/auto-grade-hn/",
-      "score": 119,
+      "score": 271,
       "author": "__rito__",
       "created": "2025-12-10 17:23:53",
       "created_at": 1765387433000
     },
     {
-      "id": 46219853,
-      "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
-      "link": "https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html",
-      "score": 216,
-      "author": "goodway",
-      "created": "2025-12-10 16:34:52",
-      "created_at": 1765384492000
+      "id": 46221925,
+      "title": "Super Mario 64 for the PS1",
+      "link": "https://github.com/malucard/sm64-psx",
+      "score": 151,
+      "author": "LaserDiscMan",
+      "created": "2025-12-10 18:58:55",
+      "created_at": 1765393135000
     },
     {
-      "id": 46221594,
-      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
-      "link": "https://arxiv.org/abs/2512.08309",
-      "score": 18,
-      "author": "kelseyfrog",
-      "created": "2025-12-10 18:37:27",
-      "created_at": 1765391847000
+      "id": 46212438,
+      "title": "Rubio stages font coup: Times New Roman ousts Calibri",
+      "link": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+      "score": 135,
+      "author": "italophil",
+      "created": "2025-12-10 00:08:34",
+      "created_at": 1765325314000
     },
     {
-      "id": 46123310,
-      "title": "Gundam is just the same as Jane Austen but happens to include giant mech suits",
-      "link": "https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits",
-      "score": 63,
-      "author": "surprisetalk",
-      "created": "2025-12-02 16:55:36",
-      "created_at": 1764694536000
+      "id": 46203343,
+      "title": "How Google Maps allocates survival across London's restaurants",
+      "link": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
+      "score": 101,
+      "author": "justincormack",
+      "created": "2025-12-09 10:20:02",
+      "created_at": 1765275602000
     },
     {
-      "id": 46198606,
-      "title": "Why the Sanitizer API is just `setHTML()`",
-      "link": "https://frederikbraun.de/why-sethtml.html",
-      "score": 76,
-      "author": "birdculture",
-      "created": "2025-12-08 22:37:28",
-      "created_at": 1765233448000
+      "id": 46216446,
+      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+      "link": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+      "score": 32,
+      "author": "todsacerdoti",
+      "created": "2025-12-10 11:10:58",
+      "created_at": 1765365058000
+    },
+    {
+      "id": 46224311,
+      "title": "When would you ever want bubblesort? (2023)",
+      "link": "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/",
+      "score": 44,
+      "author": "atan2",
+      "created": "2025-12-10 21:45:11",
+      "created_at": 1765403111000
     },
     {
       "id": 46219538,
       "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
       "link": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
-      "score": 124,
+      "score": 190,
       "author": "pretext",
       "created": "2025-12-10 16:13:38",
       "created_at": 1765383218000

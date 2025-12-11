@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-10T20:14:29.661Z"
+    "lastUpdate": "2025-12-11T00:57:27.783Z"
   },
   "data": [
     {
       "id": 46205632,
       "title": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
       "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "score": 3238,
+      "score": 3265,
       "author": "keepamovin",
       "created": "2025-12-09 15:00:38",
       "created_at": 1765292438000
     },
     {
+      "id": 46219346,
+      "title": "Size of Life",
+      "link": "https://neal.fun/size-of-life/",
+      "score": 1316,
+      "author": "eatonphil",
+      "created": "2025-12-10 16:02:57",
+      "created_at": 1765382577000
+    },
+    {
       "id": 46206457,
       "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
       "link": "",
-      "score": 935,
+      "score": 939,
       "author": "embedding-shape",
       "created": "2025-12-09 16:02:37",
       "created_at": 1765296157000
@@ -28,43 +37,25 @@
       "id": 46213585,
       "title": "Rust in the kernel is no longer experimental",
       "link": "https://lwn.net/Articles/1049831/",
-      "score": 901,
+      "score": 920,
       "author": "rascul",
       "created": "2025-12-10 03:15:24",
       "created_at": 1765336524000
     },
     {
-      "id": 46196688,
-      "title": "Icons in Menus Everywhere – Send Help",
-      "link": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-      "score": 821,
-      "author": "ArmageddonIt",
-      "created": "2025-12-08 19:44:00",
-      "created_at": 1765223040000
-    },
-    {
       "id": 46208962,
       "title": "10 Years of Let's Encrypt",
       "link": "https://letsencrypt.org/2025/12/09/10-years",
-      "score": 782,
+      "score": 793,
       "author": "SGran",
       "created": "2025-12-09 18:54:55",
       "created_at": 1765306495000
     },
     {
-      "id": 46219346,
-      "title": "Size of Life",
-      "link": "https://neal.fun/size-of-life/",
-      "score": 726,
-      "author": "eatonphil",
-      "created": "2025-12-10 16:02:57",
-      "created_at": 1765382577000
-    },
-    {
       "id": 46206531,
       "title": "Bruno Simon – 3D Portfolio",
       "link": "https://bruno-simon.com/",
-      "score": 720,
+      "score": 733,
       "author": "razzmataks",
       "created": "2025-12-09 16:06:58",
       "created_at": 1765296418000
@@ -73,7 +64,7 @@
       "id": 46205437,
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "score": 717,
+      "score": 723,
       "author": "pember",
       "created": "2025-12-09 14:45:01",
       "created_at": 1765291501000
@@ -82,7 +73,7 @@
       "id": 46207464,
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
       "link": "https://www.digitalpublicgoods.net/r/peertube",
-      "score": 658,
+      "score": 667,
       "author": "fsflover",
       "created": "2025-12-09 17:08:37",
       "created_at": 1765300117000
@@ -91,10 +82,19 @@
       "id": 46207505,
       "title": "If you're going to vibe code, why not do it in C?",
       "link": "https://stephenramsay.net/posts/vibe-coding.html",
-      "score": 600,
+      "score": 606,
       "author": "sramsay",
       "created": "2025-12-09 17:11:09",
       "created_at": 1765300269000
+    },
+    {
+      "id": 46199723,
+      "title": "Horses: AI progress is steady. Human equivalence is sudden",
+      "link": "https://andyljones.com/posts/horses.html",
+      "score": 571,
+      "author": "pbui",
+      "created": "2025-12-09 00:26:35",
+      "created_at": 1765239995000
     }
   ],
   "code": 200,
