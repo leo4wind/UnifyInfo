@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-11T08:18:19.884Z"
+    "lastUpdate": "2025-12-11T12:24:56.852Z"
   },
   "data": [
+    {
+      "id": 46229766,
+      "title": "If You Quit Social Media, Will You Read More Books?",
+      "link": "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books",
+      "score": 31,
+      "author": "pseudolus",
+      "created": "2025-12-11 10:38:51",
+      "created_at": 1765449531000
+    },
     {
       "id": 46219346,
       "title": "Size of Life",
       "link": "https://neal.fun/size-of-life/",
-      "score": 1834,
+      "score": 2119,
       "author": "eatonphil",
       "created": "2025-12-10 16:02:57",
       "created_at": 1765382577000
     },
     {
+      "id": 46229467,
+      "title": "A \"Frozen\" Dictionary for Python",
+      "link": "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/",
+      "score": 39,
+      "author": "jwilk",
+      "created": "2025-12-11 09:51:47",
+      "created_at": 1765446707000
+    },
+    {
       "id": 46228597,
       "title": "The Cost of a Closure in C",
       "link": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
-      "score": 11,
+      "score": 90,
       "author": "ingve",
       "created": "2025-12-11 07:21:33",
       "created_at": 1765437693000
@@ -28,7 +46,7 @@
       "id": 46223311,
       "title": "Getting a Gemini API key is an exercise in frustration",
       "link": "https://ankursethi.com/blog/gemini-api-key-frustration/",
-      "score": 476,
+      "score": 591,
       "author": "speckx",
       "created": "2025-12-10 20:29:12",
       "created_at": 1765398552000
@@ -37,7 +55,7 @@
       "id": 46226483,
       "title": "Patterns.dev",
       "link": "https://www.patterns.dev/",
-      "score": 195,
+      "score": 334,
       "author": "handfuloflight",
       "created": "2025-12-11 01:18:55",
       "created_at": 1765415935000
@@ -46,55 +64,37 @@
       "id": 46208348,
       "title": "Australia begins enforcing world-first teen social media ban",
       "link": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
-      "score": 715,
+      "score": 807,
       "author": "chirau",
       "created": "2025-12-09 18:12:29",
       "created_at": 1765303949000
     },
     {
-      "id": 46147987,
-      "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
-      "link": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
-      "score": 44,
-      "author": "birdculture",
-      "created": "2025-12-04 14:25:38",
-      "created_at": 1764858338000
+      "id": 46189632,
+      "title": "Why Startups Die",
+      "link": "https://www.techfounderstack.com/p/why-startups-die",
+      "score": 33,
+      "author": "makle",
+      "created": "2025-12-08 08:04:51",
+      "created_at": 1765181091000
     },
     {
-      "id": 46220540,
-      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
-      "link": "https://karpathy.bearblog.dev/auto-grade-hn/",
-      "score": 420,
-      "author": "__rito__",
-      "created": "2025-12-10 17:23:53",
-      "created_at": 1765387433000
+      "id": 46191597,
+      "title": "How the Brain Parses Language",
+      "link": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/",
+      "score": 38,
+      "author": "mylifeandtimes",
+      "created": "2025-12-08 12:46:50",
+      "created_at": 1765198010000
     },
     {
-      "id": 46227619,
-      "title": "Incomplete list of mistakes in the design of CSS",
-      "link": "https://wiki.csswg.org/ideas/mistakes",
-      "score": 76,
-      "author": "OuterVale",
-      "created": "2025-12-11 04:20:52",
-      "created_at": 1765426852000
-    },
-    {
-      "id": 46203343,
-      "title": "How Google Maps allocates survival across London's restaurants",
-      "link": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
-      "score": 230,
-      "author": "justincormack",
-      "created": "2025-12-09 10:20:02",
-      "created_at": 1765275602000
-    },
-    {
-      "id": 46174534,
-      "title": "VCMI: An open-source engine for Heroes III",
-      "link": "https://vcmi.eu/",
-      "score": 69,
-      "author": "eamag",
-      "created": "2025-12-06 16:27:35",
-      "created_at": 1765038455000
+      "id": 46230072,
+      "title": "Meta shuts down global accounts linked to abortion advice and queer content",
+      "link": "https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content",
+      "score": 22,
+      "author": "ta988",
+      "created": "2025-12-11 11:26:45",
+      "created_at": 1765452405000
     }
   ],
   "code": 200,

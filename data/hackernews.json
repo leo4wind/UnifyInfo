@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-11T08:18:19.750Z"
+    "lastUpdate": "2025-12-11T12:24:56.744Z"
   },
   "data": [
     {
       "id": 46205632,
       "title": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
       "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "score": 3283,
+      "score": 3288,
       "author": "keepamovin",
       "created": "2025-12-09 15:00:38",
       "created_at": 1765292438000
@@ -19,7 +19,7 @@
       "id": 46219346,
       "title": "Size of Life",
       "link": "https://neal.fun/size-of-life/",
-      "score": 1834,
+      "score": 2119,
       "author": "eatonphil",
       "created": "2025-12-10 16:02:57",
       "created_at": 1765382577000
@@ -28,7 +28,7 @@
       "id": 46206457,
       "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
       "link": "",
-      "score": 942,
+      "score": 948,
       "author": "embedding-shape",
       "created": "2025-12-09 16:02:37",
       "created_at": 1765296157000
@@ -37,25 +37,43 @@
       "id": 46213585,
       "title": "Rust in the kernel is no longer experimental",
       "link": "https://lwn.net/Articles/1049831/",
-      "score": 934,
+      "score": 939,
       "author": "rascul",
       "created": "2025-12-10 03:15:24",
       "created_at": 1765336524000
     },
     {
+      "id": 46208348,
+      "title": "Australia begins enforcing world-first teen social media ban",
+      "link": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
+      "score": 807,
+      "author": "chirau",
+      "created": "2025-12-09 18:12:29",
+      "created_at": 1765303949000
+    },
+    {
       "id": 46208962,
       "title": "10 Years of Let's Encrypt",
       "link": "https://letsencrypt.org/2025/12/09/10-years",
-      "score": 798,
+      "score": 800,
       "author": "SGran",
       "created": "2025-12-09 18:54:55",
       "created_at": 1765306495000
     },
     {
+      "id": 46220488,
+      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+      "link": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+      "score": 764,
+      "author": "OsrsNeedsf2P",
+      "created": "2025-12-10 17:20:06",
+      "created_at": 1765387206000
+    },
+    {
       "id": 46206531,
       "title": "Bruno Simon – 3D Portfolio",
       "link": "https://bruno-simon.com/",
-      "score": 743,
+      "score": 753,
       "author": "razzmataks",
       "created": "2025-12-09 16:06:58",
       "created_at": 1765296418000
@@ -64,37 +82,19 @@
       "id": 46205437,
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
       "link": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "score": 728,
+      "score": 730,
       "author": "pember",
       "created": "2025-12-09 14:45:01",
       "created_at": 1765291501000
     },
     {
-      "id": 46208348,
-      "title": "Australia begins enforcing world-first teen social media ban",
-      "link": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
-      "score": 715,
-      "author": "chirau",
-      "created": "2025-12-09 18:12:29",
-      "created_at": 1765303949000
-    },
-    {
       "id": 46207464,
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
       "link": "https://www.digitalpublicgoods.net/r/peertube",
-      "score": 673,
+      "score": 675,
       "author": "fsflover",
       "created": "2025-12-09 17:08:37",
       "created_at": 1765300117000
-    },
-    {
-      "id": 46220488,
-      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-      "link": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
-      "score": 661,
-      "author": "OsrsNeedsf2P",
-      "created": "2025-12-10 17:20:06",
-      "created_at": 1765387206000
     }
   ],
   "code": 200,
