@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-11T20:14:51.665Z"
+    "lastUpdate": "2025-12-12T00:56:55.938Z"
   },
   "data": [
     {
       "id": 46219346,
       "title": "Size of Life",
       "link": "https://neal.fun/size-of-life/",
-      "score": 2427,
+      "score": 2465,
       "author": "eatonphil",
       "created": "2025-12-10 16:02:57",
       "created_at": 1765382577000
@@ -19,7 +19,7 @@
       "id": 46213585,
       "title": "Rust in the kernel is no longer experimental",
       "link": "https://lwn.net/Articles/1049831/",
-      "score": 945,
+      "score": 949,
       "author": "rascul",
       "created": "2025-12-10 03:15:24",
       "created_at": 1765336524000
@@ -28,7 +28,7 @@
       "id": 46220488,
       "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
       "link": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
-      "score": 843,
+      "score": 859,
       "author": "OsrsNeedsf2P",
       "created": "2025-12-10 17:20:06",
       "created_at": 1765387206000
@@ -37,34 +37,43 @@
       "id": 46223311,
       "title": "Getting a Gemini API key is an exercise in frustration",
       "link": "https://ankursethi.com/blog/gemini-api-key-frustration/",
-      "score": 773,
+      "score": 797,
       "author": "speckx",
       "created": "2025-12-10 20:29:12",
       "created_at": 1765398552000
     },
     {
-      "id": 46220540,
-      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
-      "link": "https://karpathy.bearblog.dev/auto-grade-hn/",
-      "score": 540,
-      "author": "__rito__",
-      "created": "2025-12-10 17:23:53",
-      "created_at": 1765387433000
+      "id": 46234788,
+      "title": "GPT-5.2",
+      "link": "https://openai.com/index/introducing-gpt-5-2/",
+      "score": 721,
+      "author": "atgctg",
+      "created": "2025-12-11 18:04:47",
+      "created_at": 1765476287000
     },
     {
       "id": 46226483,
       "title": "Patterns.dev",
       "link": "https://www.patterns.dev/",
-      "score": 521,
+      "score": 572,
       "author": "handfuloflight",
       "created": "2025-12-11 01:18:55",
       "created_at": 1765415935000
     },
     {
+      "id": 46220540,
+      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
+      "link": "https://karpathy.bearblog.dev/auto-grade-hn/",
+      "score": 567,
+      "author": "__rito__",
+      "created": "2025-12-10 17:23:53",
+      "created_at": 1765387433000
+    },
+    {
       "id": 46218640,
       "title": "Israel used Palantir technologies in pager attack in Lebanon",
       "link": "https://the307.substack.com/p/revealed-israel-used-palantir-technologies",
-      "score": 504,
+      "score": 518,
       "author": "cramsession",
       "created": "2025-12-10 15:18:47",
       "created_at": 1765379927000
@@ -73,28 +82,19 @@
       "id": 46218725,
       "title": "In New York City, congestion pricing leads to marked drop in pollution",
       "link": "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution",
-      "score": 454,
+      "score": 460,
       "author": "Brajeshwar",
       "created": "2025-12-10 15:25:05",
       "created_at": 1765380305000
     },
     {
-      "id": 46212438,
-      "title": "Rubio stages font coup: Times New Roman ousts Calibri",
-      "link": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
-      "score": 377,
-      "author": "italophil",
-      "created": "2025-12-10 00:08:34",
-      "created_at": 1765325314000
-    },
-    {
-      "id": 46210240,
-      "title": "Django: what’s new in 6.0",
-      "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
-      "score": 369,
-      "author": "rbanffy",
-      "created": "2025-12-09 20:33:14",
-      "created_at": 1765312394000
+      "id": 46232528,
+      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+      "link": "https://www.youtube.com/watch?v=hksVvXONrIo",
+      "score": 453,
+      "author": "walterbell",
+      "created": "2025-12-11 15:25:43",
+      "created_at": 1765466743000
     }
   ],
   "code": 200,

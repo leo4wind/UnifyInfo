@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-11T20:14:51.840Z"
+    "lastUpdate": "2025-12-12T00:56:56.784Z"
   },
   "data": [
     {
       "id": 46234788,
       "title": "GPT-5.2",
       "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 338,
+      "score": 721,
       "author": "atgctg",
       "created": "2025-12-11 18:04:47",
       "created_at": 1765476287000
     },
     {
-      "id": 46235531,
-      "title": "Age verification is coming for the internet",
-      "link": "https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back",
-      "score": 58,
-      "author": "heavyset_go",
-      "created": "2025-12-11 18:58:49",
-      "created_at": 1765479529000
+      "id": 46236924,
+      "title": "Denial of service and source code exposure in React Server Components",
+      "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "score": 183,
+      "author": "sangeeth96",
+      "created": "2025-12-11 20:46:46",
+      "created_at": 1765486006000
     },
     {
-      "id": 46235412,
-      "title": "Going Through Snowden Documents, Part 1",
-      "link": "https://libroot.org/posts/going-through-snowden-documents-part-1/",
-      "score": 79,
-      "author": "libroot",
-      "created": "2025-12-11 18:52:08",
-      "created_at": 1765479128000
+      "id": 46234920,
+      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
+      "score": 191,
+      "author": "doctoboggan",
+      "created": "2025-12-11 18:17:19",
+      "created_at": 1765477039000
     },
     {
-      "id": 46234710,
-      "title": "Litestream VFS",
-      "link": "https://fly.io/blog/litestream-vfs/",
-      "score": 102,
-      "author": "emschwartz",
-      "created": "2025-12-11 17:59:10",
-      "created_at": 1765475950000
+      "id": 46239177,
+      "title": "Nokia N900 Necromancy – giving a new life to a classic Linux smartphone",
+      "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "score": 15,
+      "author": "yaky",
+      "created": "2025-12-12 00:04:29",
+      "created_at": 1765497869000
     },
     {
       "id": 46197930,
       "title": "The highest quality codebase",
       "link": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "score": 305,
+      "score": 412,
       "author": "Gricha",
       "created": "2025-12-08 21:33:09",
       "created_at": 1765229589000
     },
     {
-      "id": 46236037,
-      "title": "My productivity app is a never-ending .txt file (2022)",
-      "link": "https://jeffhuang.com/productivity_text_file/",
-      "score": 22,
-      "author": "simonebrunozzi",
-      "created": "2025-12-11 19:30:58",
-      "created_at": 1765481458000
-    },
-    {
-      "id": 46234186,
-      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
-      "link": "https://github.com/simstudioai/sim",
-      "score": 59,
-      "author": "waleedlatif1",
-      "created": "2025-12-11 17:20:11",
-      "created_at": 1765473611000
-    },
-    {
       "id": 46235959,
       "title": "An SVG is all you need",
       "link": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
-      "score": 13,
+      "score": 125,
       "author": "sadiq",
       "created": "2025-12-11 19:25:14",
       "created_at": 1765481114000
     },
     {
-      "id": 46231274,
-      "title": "Craft software that makes people feel something",
-      "link": "https://rapha.land/craft-software-that-makes-people-feel-something/",
-      "score": 162,
-      "author": "lukeio",
-      "created": "2025-12-11 13:45:08",
-      "created_at": 1765460708000
+      "id": 46234710,
+      "title": "Litestream VFS",
+      "link": "https://fly.io/blog/litestream-vfs/",
+      "score": 214,
+      "author": "emschwartz",
+      "created": "2025-12-11 17:59:10",
+      "created_at": 1765475950000
     },
     {
-      "id": 46127191,
-      "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
-      "link": "https://chicagoreader.com/news/prove-it-all-night/",
-      "score": 24,
-      "author": "NaOH",
-      "created": "2025-12-02 21:36:22",
-      "created_at": 1764711382000
+      "id": 46234806,
+      "title": "Programmers and software developers lost the plot on naming their tools",
+      "link": "https://larr.net/p/namings.html",
+      "score": 133,
+      "author": "todsacerdoti",
+      "created": "2025-12-11 18:06:42",
+      "created_at": 1765476402000
+    },
+    {
+      "id": 46231709,
+      "title": "The architecture of “not bad”: Decoding the Chinese source code of the void",
+      "link": "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding",
+      "score": 57,
+      "author": "Suggger",
+      "created": "2025-12-11 14:21:14",
+      "created_at": 1765462874000
+    },
+    {
+      "id": 46234186,
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "link": "https://github.com/simstudioai/sim",
+      "score": 136,
+      "author": "waleedlatif1",
+      "created": "2025-12-11 17:20:11",
+      "created_at": 1765473611000
     }
   ],
   "code": 200,
