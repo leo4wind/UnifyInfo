@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-12T08:17:39.598Z"
+    "lastUpdate": "2025-12-12T12:23:23.943Z"
   },
   "data": [
+    {
+      "id": 46242871,
+      "title": "After 27 years within budget Austria open 6thlongest railway tunnel in the world",
+      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "score": 63,
+      "author": "fzeindl",
+      "created": "2025-12-12 10:50:22",
+      "created_at": 1765536622000
+    },
     {
       "id": 46241763,
       "title": "The tiniest yet real telescope I've built",
       "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
-      "score": 28,
+      "score": 134,
       "author": "chantepierre",
       "created": "2025-12-12 07:35:49",
       "created_at": 1765524949000
     },
     {
+      "id": 46174114,
+      "title": "4 billion if statements (2023)",
+      "link": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
+      "score": 82,
+      "author": "damethos",
+      "created": "2025-12-06 15:34:26",
+      "created_at": 1765035266000
+    },
+    {
       "id": 46234788,
       "title": "GPT-5.2",
       "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 953,
+      "score": 1030,
       "author": "atgctg",
       "created": "2025-12-11 18:04:47",
       "created_at": 1765476287000
     },
     {
+      "id": 46232003,
+      "title": "From text to token: How tokenization pipelines work",
+      "link": "https://www.paradedb.com/blog/when-tokenization-becomes-token",
+      "score": 7,
+      "author": "philippemnoel",
+      "created": "2025-12-11 14:45:49",
+      "created_at": 1765464349000
+    },
+    {
       "id": 46239177,
       "title": "Nokia N900 Necromancy",
       "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
-      "score": 241,
+      "score": 343,
       "author": "yaky",
       "created": "2025-12-12 00:04:29",
       "created_at": 1765497869000
     },
     {
-      "id": 46182874,
-      "title": "He set out to walk around the world. After 27 years, his quest is nearly over",
-      "link": "https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/",
-      "score": 73,
-      "author": "wallflower",
-      "created": "2025-12-07 16:26:45",
-      "created_at": 1765124805000
+      "id": 46241849,
+      "title": "Guarding My Git Forge Against AI Scrapers",
+      "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
+      "score": 47,
+      "author": "todsacerdoti",
+      "created": "2025-12-12 07:51:04",
+      "created_at": 1765525864000
     },
     {
       "id": 46239752,
-      "title": "Google De-Indexed My Bear Blog and I Don't Know Why",
+      "title": "Google de-indexed Bear Blog and I don't know why",
       "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
-      "score": 98,
+      "score": 204,
       "author": "nafnlj",
       "created": "2025-12-12 01:20:05",
       "created_at": 1765502405000
     },
     {
-      "id": 46234920,
-      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
-      "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
-      "score": 301,
-      "author": "doctoboggan",
-      "created": "2025-12-11 18:17:19",
-      "created_at": 1765477039000
-    },
-    {
       "id": 46239629,
       "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
       "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
-      "score": 104,
+      "score": 181,
       "author": "rguiscard",
       "created": "2025-12-12 00:59:46",
       "created_at": 1765501186000
     },
     {
-      "id": 46197930,
-      "title": "The highest quality codebase",
-      "link": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "score": 512,
-      "author": "Gricha",
-      "created": "2025-12-08 21:33:09",
-      "created_at": 1765229589000
-    },
-    {
-      "id": 46234806,
-      "title": "Programmers and software developers lost the plot on naming their tools",
-      "link": "https://larr.net/p/namings.html",
-      "score": 259,
-      "author": "todsacerdoti",
-      "created": "2025-12-11 18:06:42",
-      "created_at": 1765476402000
-    },
-    {
-      "id": 46236924,
-      "title": "Denial of service and source code exposure in React Server Components",
-      "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
-      "score": 272,
-      "author": "sangeeth96",
-      "created": "2025-12-11 20:46:46",
-      "created_at": 1765486006000
+      "id": 46172439,
+      "title": "Octo: A Chip8 IDE",
+      "link": "https://github.com/JohnEarnest/Octo",
+      "score": 10,
+      "author": "tosh",
+      "created": "2025-12-06 11:17:58",
+      "created_at": 1765019878000
     }
   ],
   "code": 200,
