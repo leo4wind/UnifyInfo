@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-12T04:26:12.089Z"
+    "lastUpdate": "2025-12-12T08:17:39.554Z"
   },
   "data": [
+    {
+      "id": 46241763,
+      "title": "The tiniest yet real telescope I've built",
+      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
+      "score": 28,
+      "author": "chantepierre",
+      "created": "2025-12-12 07:35:49",
+      "created_at": 1765524949000
+    },
     {
       "id": 46234788,
       "title": "GPT-5.2",
       "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 851,
+      "score": 953,
       "author": "atgctg",
       "created": "2025-12-11 18:04:47",
       "created_at": 1765476287000
@@ -19,82 +28,73 @@
       "id": 46239177,
       "title": "Nokia N900 Necromancy",
       "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
-      "score": 119,
+      "score": 241,
       "author": "yaky",
       "created": "2025-12-12 00:04:29",
       "created_at": 1765497869000
     },
     {
+      "id": 46182874,
+      "title": "He set out to walk around the world. After 27 years, his quest is nearly over",
+      "link": "https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/",
+      "score": 73,
+      "author": "wallflower",
+      "created": "2025-12-07 16:26:45",
+      "created_at": 1765124805000
+    },
+    {
+      "id": 46239752,
+      "title": "Google De-Indexed My Bear Blog and I Don't Know Why",
+      "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
+      "score": 98,
+      "author": "nafnlj",
+      "created": "2025-12-12 01:20:05",
+      "created_at": 1765502405000
+    },
+    {
       "id": 46234920,
       "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
       "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
-      "score": 252,
+      "score": 301,
       "author": "doctoboggan",
       "created": "2025-12-11 18:17:19",
       "created_at": 1765477039000
     },
     {
-      "id": 46236924,
-      "title": "Denial of service and source code exposure in React Server Components",
-      "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
-      "score": 232,
-      "author": "sangeeth96",
-      "created": "2025-12-11 20:46:46",
-      "created_at": 1765486006000
+      "id": 46239629,
+      "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
+      "link": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
+      "score": 104,
+      "author": "rguiscard",
+      "created": "2025-12-12 00:59:46",
+      "created_at": 1765501186000
     },
     {
       "id": 46197930,
       "title": "The highest quality codebase",
       "link": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "score": 461,
+      "score": 512,
       "author": "Gricha",
       "created": "2025-12-08 21:33:09",
       "created_at": 1765229589000
     },
     {
-      "id": 46235959,
-      "title": "An SVG is all you need",
-      "link": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
-      "score": 181,
-      "author": "sadiq",
-      "created": "2025-12-11 19:25:14",
-      "created_at": 1765481114000
-    },
-    {
       "id": 46234806,
       "title": "Programmers and software developers lost the plot on naming their tools",
       "link": "https://larr.net/p/namings.html",
-      "score": 189,
+      "score": 259,
       "author": "todsacerdoti",
       "created": "2025-12-11 18:06:42",
       "created_at": 1765476402000
     },
     {
-      "id": 46234710,
-      "title": "Litestream VFS",
-      "link": "https://fly.io/blog/litestream-vfs/",
-      "score": 249,
-      "author": "emschwartz",
-      "created": "2025-12-11 17:59:10",
-      "created_at": 1765475950000
-    },
-    {
-      "id": 46165976,
-      "title": "My Father's Instant Mashed Potatoes",
-      "link": "https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed",
-      "score": 37,
-      "author": "nvader",
-      "created": "2025-12-05 19:18:53",
-      "created_at": 1764962333000
-    },
-    {
-      "id": 46239188,
-      "title": "Laying out the 404 Media zine",
-      "link": "https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?",
-      "score": 35,
-      "author": "robenkleene",
-      "created": "2025-12-12 00:05:36",
-      "created_at": 1765497936000
+      "id": 46236924,
+      "title": "Denial of service and source code exposure in React Server Components",
+      "link": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "score": 272,
+      "author": "sangeeth96",
+      "created": "2025-12-11 20:46:46",
+      "created_at": 1765486006000
     }
   ],
   "code": 200,
