@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-12T16:13:59.259Z"
+    "lastUpdate": "2025-12-12T20:13:00.614Z"
   },
   "data": [
     {
       "id": 46243904,
       "title": "SQLite JSON at Full Index Speed Using Generated Columns",
       "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
-      "score": 112,
+      "score": 253,
       "author": "upmostly",
       "created": "2025-12-12 13:25:19",
       "created_at": 1765545919000
     },
     {
+      "id": 46247415,
+      "title": "Benn Jordan's flock camera jammer will send you to jail in Florida now [video]",
+      "link": "https://www.youtube.com/watch?v=qEllWdK4l_A",
+      "score": 84,
+      "author": "givemeethekeys",
+      "created": "2025-12-12 18:58:43",
+      "created_at": 1765565923000
+    },
+    {
+      "id": 46245923,
+      "title": "Async DNS",
+      "link": "https://flak.tedunangst.com/post/async-dns",
+      "score": 64,
+      "author": "todsacerdoti",
+      "created": "2025-12-12 16:52:41",
+      "created_at": 1765558361000
+    },
+    {
       "id": 46174114,
       "title": "4 billion if statements (2023)",
       "link": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
-      "score": 313,
+      "score": 479,
       "author": "damethos",
       "created": "2025-12-06 15:34:26",
       "created_at": 1765035266000
     },
     {
-      "id": 46232003,
-      "title": "From text to token: How tokenization pipelines work",
-      "link": "https://www.paradedb.com/blog/when-tokenization-becomes-token",
-      "score": 62,
-      "author": "philippemnoel",
-      "created": "2025-12-11 14:45:49",
-      "created_at": 1765464349000
+      "id": 46244922,
+      "title": "CM0 – a new Raspberry Pi you can't buy",
+      "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+      "score": 96,
+      "author": "speckx",
+      "created": "2025-12-12 15:19:19",
+      "created_at": 1765552759000
+    },
+    {
+      "id": 46245622,
+      "title": "String Theory Inspires a Brilliant, Baffling New Math Proof",
+      "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+      "score": 51,
+      "author": "ArmageddonIt",
+      "created": "2025-12-12 16:23:10",
+      "created_at": 1765556590000
+    },
+    {
+      "id": 46246802,
+      "title": "Google Releases Its New Google Sans Flex Font as Open Source",
+      "link": "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu",
+      "score": 85,
+      "author": "CharlesW",
+      "created": "2025-12-12 18:07:57",
+      "created_at": 1765562877000
+    },
+    {
+      "id": 46245398,
+      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "score": 207,
+      "author": "nobody9999",
+      "created": "2025-12-12 16:04:16",
+      "created_at": 1765555456000
     },
     {
       "id": 46243883,
       "title": "Fedora: Open-source repository for long-term digital preservation",
       "link": "https://fedorarepository.org/",
-      "score": 40,
+      "score": 79,
       "author": "cernocky",
       "created": "2025-12-12 13:23:31",
       "created_at": 1765545811000
     },
     {
-      "id": 46241763,
-      "title": "The tiniest yet real telescope I've built",
-      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
-      "score": 183,
-      "author": "chantepierre",
-      "created": "2025-12-12 07:35:49",
-      "created_at": 1765524949000
-    },
-    {
-      "id": 46244378,
-      "title": "BpfJailer: eBPF Mandatory Access Control [pdf]",
-      "link": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
-      "score": 17,
-      "author": "voxadam",
-      "created": "2025-12-12 14:20:20",
-      "created_at": 1765549220000
-    },
-    {
-      "id": 46234788,
-      "title": "GPT-5.2",
-      "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 1100,
-      "author": "atgctg",
-      "created": "2025-12-11 18:04:47",
-      "created_at": 1765476287000
-    },
-    {
-      "id": 46242871,
-      "title": "Koralm Railway",
-      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
-      "score": 252,
-      "author": "fzeindl",
-      "created": "2025-12-12 10:50:22",
-      "created_at": 1765536622000
-    },
-    {
-      "id": 46239177,
-      "title": "Nokia N900 Necromancy",
-      "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
-      "score": 405,
-      "author": "yaky",
-      "created": "2025-12-12 00:04:29",
-      "created_at": 1765497869000
-    },
-    {
-      "id": 46243543,
-      "title": "The Tor Project is switching to Rust",
-      "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
-      "score": 203,
-      "author": "giuliomagnifico",
-      "created": "2025-12-12 12:35:57",
-      "created_at": 1765542957000
+      "id": 46247000,
+      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
+      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+      "score": 59,
+      "author": "kernelrocks",
+      "created": "2025-12-12 18:23:21",
+      "created_at": 1765563801000
     }
   ],
   "code": 200,
