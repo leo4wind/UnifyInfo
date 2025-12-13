@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-12-13T04:17:50.748Z"
+    "lastUpdate": "2025-12-13T08:14:48.933Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2025-12-23",
       "ssrq": null,
       "syl": null,
-      "hysyl": 57.9,
+      "hysyl": 57.95,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,7 +45,7 @@
       "zqjkrq": "2025-12-23",
       "ssrq": null,
       "syl": null,
-      "hysyl": 35.57,
+      "hysyl": 35.5,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -68,12 +68,35 @@
       "zqjkrq": "2025-12-23",
       "ssrq": null,
       "syl": null,
-      "hysyl": 29,
+      "hysyl": 28.93,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "聚乙烯醇(PVA)、特种纤维、醋酸乙烯(VAC)、碳化钙(电石)等PVA产业链上下游产品的研发、生产、销售"
+    },
+    {
+      "zqdm": "920121",
+      "zqjc": "江天科技",
+      "sgdm": "920121",
+      "fxsl": 13213637,
+      "swfxsl": 11892274,
+      "sgsx": 594600,
+      "dgsz": 5946000,
+      "fxjg": 21.21,
+      "zxj": null,
+      "srspj": null,
+      "sgrq": "2025-12-16",
+      "zqgbrq": "2025-12-19",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.5,
+      "hysyl": 48.66,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "主要从事标签印刷产品的研发、生产与销售,致力于为客户提供承印材料选取、色彩和油墨方案定制、工艺方案设计和优化,以及高效稳定生产供应的标签一体化综合解决方案"
     },
     {
       "zqdm": "688805",
@@ -214,5 +237,5 @@
       "zyyw": "新能源汽车动力电池热管理、燃油汽车动力系统热管理及储能电池热管理相关产品的研发、生产和销售"
     }
   ],
-  "total": 9
+  "total": 10
 }

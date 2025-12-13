@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-13T04:17:46.758Z"
+    "lastUpdate": "2025-12-13T08:14:43.903Z"
   },
   "data": [
     {
       "id": 46250332,
       "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
       "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 185,
+      "score": 321,
       "author": "simonw",
       "created": "2025-12-12 23:30:19",
       "created_at": 1765582219000
@@ -19,25 +19,43 @@
       "id": 46248644,
       "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
       "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 307,
+      "score": 370,
       "author": "guiand",
       "created": "2025-12-12 20:41:38",
       "created_at": 1765572098000
     },
     {
+      "id": 46210044,
+      "title": "Beautiful Abelian Sandpiles",
+      "link": "https://eavan.blog/posts/beautiful-sandpiles.html",
+      "score": 13,
+      "author": "eavan0",
+      "created": "2025-12-09 20:16:15",
+      "created_at": 1765311375000
+    },
+    {
       "id": 46248859,
       "title": "GNU Unifont",
       "link": "https://unifoundry.com/unifont/index.html",
-      "score": 174,
+      "score": 202,
       "author": "remywang",
       "created": "2025-12-12 20:57:34",
       "created_at": 1765573054000
     },
     {
+      "id": 46251582,
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "link": "https://www.ghibli.jp/info/013772/",
+      "score": 82,
+      "author": "vinhnx",
+      "created": "2025-12-13 02:56:49",
+      "created_at": 1765594609000
+    },
+    {
       "id": 46248323,
       "title": "Rats Play DOOM",
       "link": "https://ratsplaydoom.com/",
-      "score": 211,
+      "score": 259,
       "author": "ano-ther",
       "created": "2025-12-12 20:15:58",
       "created_at": 1765570558000
@@ -46,7 +64,7 @@
       "id": 46249538,
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
       "link": "https://github.com/ringtailsoftware/uvm32",
-      "score": 87,
+      "score": 119,
       "author": "trj",
       "created": "2025-12-12 22:02:14",
       "created_at": 1765576934000
@@ -55,46 +73,28 @@
       "id": 46175888,
       "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
       "link": "https://gwern.net/doc/technology/2008-sower.pdf",
-      "score": 9,
+      "score": 39,
       "author": "bookofjoe",
       "created": "2025-12-06 19:21:50",
       "created_at": 1765048910000
     },
     {
-      "id": 46239076,
-      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
-      "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
-      "score": 91,
-      "author": "andsoitis",
-      "created": "2025-12-11 23:56:10",
-      "created_at": 1765497370000
+      "id": 46243655,
+      "title": "Sick of smart TVs? Here are your best options",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "score": 249,
+      "author": "fleahunter",
+      "created": "2025-12-12 12:51:40",
+      "created_at": 1765543900000
     },
     {
-      "id": 46250309,
-      "title": "50 years of proof assistants",
-      "link": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
-      "score": 49,
-      "author": "baruchel",
-      "created": "2025-12-12 23:26:26",
-      "created_at": 1765581986000
-    },
-    {
-      "id": 46234734,
-      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
-      "link": "https://victorpoughon.github.io/bidicalc/",
-      "score": 79,
-      "author": "fouronnes3",
-      "created": "2025-12-11 18:00:55",
-      "created_at": 1765476055000
-    },
-    {
-      "id": 46249337,
-      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
-      "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
-      "score": 45,
-      "author": "fanf2",
-      "created": "2025-12-12 21:42:04",
-      "created_at": 1765575724000
+      "id": 46200157,
+      "title": "Easel Now Has Stencils",
+      "link": "https://easel.games/blog/2025-dec-update",
+      "score": 5,
+      "author": "BSTRhino",
+      "created": "2025-12-09 01:20:08",
+      "created_at": 1765243208000
     }
   ],
   "code": 200,
