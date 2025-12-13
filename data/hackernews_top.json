@@ -3,32 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-13T00:53:32.354Z"
+    "lastUpdate": "2025-12-13T04:17:46.727Z"
   },
   "data": [
-    {
-      "id": 46248644,
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 235,
-      "author": "guiand",
-      "created": "2025-12-12 20:41:38",
-      "created_at": 1765572098000
-    },
     {
       "id": 46250332,
       "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
       "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 49,
+      "score": 185,
       "author": "simonw",
       "created": "2025-12-12 23:30:19",
       "created_at": 1765582219000
     },
     {
+      "id": 46248644,
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "score": 307,
+      "author": "guiand",
+      "created": "2025-12-12 20:41:38",
+      "created_at": 1765572098000
+    },
+    {
       "id": 46248859,
       "title": "GNU Unifont",
       "link": "https://unifoundry.com/unifont/index.html",
-      "score": 143,
+      "score": 174,
       "author": "remywang",
       "created": "2025-12-12 20:57:34",
       "created_at": 1765573054000
@@ -37,7 +37,7 @@
       "id": 46248323,
       "title": "Rats Play DOOM",
       "link": "https://ratsplaydoom.com/",
-      "score": 159,
+      "score": 211,
       "author": "ano-ther",
       "created": "2025-12-12 20:15:58",
       "created_at": 1765570558000
@@ -46,34 +46,25 @@
       "id": 46249538,
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
       "link": "https://github.com/ringtailsoftware/uvm32",
-      "score": 52,
+      "score": 87,
       "author": "trj",
       "created": "2025-12-12 22:02:14",
       "created_at": 1765576934000
     },
     {
-      "id": 46234734,
-      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
-      "link": "https://victorpoughon.github.io/bidicalc/",
-      "score": 38,
-      "author": "fouronnes3",
-      "created": "2025-12-11 18:00:55",
-      "created_at": 1765476055000
-    },
-    {
-      "id": 46249337,
-      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
-      "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
-      "score": 29,
-      "author": "fanf2",
-      "created": "2025-12-12 21:42:04",
-      "created_at": 1765575724000
+      "id": 46175888,
+      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+      "link": "https://gwern.net/doc/technology/2008-sower.pdf",
+      "score": 9,
+      "author": "bookofjoe",
+      "created": "2025-12-06 19:21:50",
+      "created_at": 1765048910000
     },
     {
       "id": 46239076,
       "title": "Ensuring a National Policy Framework for Artificial Intelligence",
       "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
-      "score": 48,
+      "score": 91,
       "author": "andsoitis",
       "created": "2025-12-11 23:56:10",
       "created_at": 1765497370000
@@ -82,19 +73,28 @@
       "id": 46250309,
       "title": "50 years of proof assistants",
       "link": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
-      "score": 16,
+      "score": 49,
       "author": "baruchel",
       "created": "2025-12-12 23:26:26",
       "created_at": 1765581986000
     },
     {
-      "id": 46248470,
-      "title": "Security issues with electronic invoices",
-      "link": "https://invoice.secvuln.info/",
-      "score": 71,
-      "author": "todsacerdoti",
-      "created": "2025-12-12 20:28:41",
-      "created_at": 1765571321000
+      "id": 46234734,
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "link": "https://victorpoughon.github.io/bidicalc/",
+      "score": 79,
+      "author": "fouronnes3",
+      "created": "2025-12-11 18:00:55",
+      "created_at": 1765476055000
+    },
+    {
+      "id": 46249337,
+      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+      "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+      "score": 45,
+      "author": "fanf2",
+      "created": "2025-12-12 21:42:04",
+      "created_at": 1765575724000
     }
   ],
   "code": 200,
