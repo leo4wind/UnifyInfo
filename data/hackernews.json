@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-13T08:14:43.518Z"
+    "lastUpdate": "2025-12-13T12:20:45.002Z"
   },
   "data": [
     {
       "id": 46234788,
       "title": "GPT-5.2",
       "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 1167,
+      "score": 1168,
       "author": "atgctg",
       "created": "2025-12-11 18:04:47",
       "created_at": 1765476287000
@@ -19,16 +19,25 @@
       "id": 46232528,
       "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
       "link": "https://www.youtube.com/watch?v=hksVvXONrIo",
-      "score": 680,
+      "score": 683,
       "author": "walterbell",
       "created": "2025-12-11 15:25:43",
       "created_at": 1765466743000
     },
     {
+      "id": 46252114,
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "link": "https://hey.paris/posts/appleid/",
+      "score": 632,
+      "author": "parisidau",
+      "created": "2025-12-13 04:55:59",
+      "created_at": 1765601759000
+    },
+    {
       "id": 46231187,
       "title": "French supermarket's Christmas advert is worldwide hit (without AI) [video]",
       "link": "https://www.youtube.com/watch?v=Na9VmMNJvsA",
-      "score": 472,
+      "score": 479,
       "author": "gbugniot",
       "created": "2025-12-11 13:35:55",
       "created_at": 1765460155000
@@ -37,16 +46,34 @@
       "id": 46239177,
       "title": "Nokia N900 Necromancy",
       "link": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
-      "score": 464,
+      "score": 466,
       "author": "yaky",
       "created": "2025-12-12 00:04:29",
       "created_at": 1765497869000
     },
     {
+      "id": 46248644,
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "score": 430,
+      "author": "guiand",
+      "created": "2025-12-12 20:41:38",
+      "created_at": 1765572098000
+    },
+    {
+      "id": 46250332,
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "score": 422,
+      "author": "simonw",
+      "created": "2025-12-12 23:30:19",
+      "created_at": 1765582219000
+    },
+    {
       "id": 46234806,
       "title": "Programmers and software developers lost the plot on naming their tools",
       "link": "https://larr.net/p/namings.html",
-      "score": 412,
+      "score": 414,
       "author": "todsacerdoti",
       "created": "2025-12-11 18:06:42",
       "created_at": 1765476402000
@@ -55,7 +82,7 @@
       "id": 46239752,
       "title": "Google de-indexed Bear Blog and I don't know why",
       "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
-      "score": 406,
+      "score": 413,
       "author": "nafnlj",
       "created": "2025-12-12 01:20:05",
       "created_at": 1765502405000
@@ -64,37 +91,10 @@
       "id": 46245398,
       "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
       "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-      "score": 395,
+      "score": 403,
       "author": "nobody9999",
       "created": "2025-12-12 16:04:16",
       "created_at": 1765555456000
-    },
-    {
-      "id": 46234920,
-      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
-      "link": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
-      "score": 389,
-      "author": "doctoboggan",
-      "created": "2025-12-11 18:17:19",
-      "created_at": 1765477039000
-    },
-    {
-      "id": 46236738,
-      "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
-      "link": "https://alecmuffett.com/article/134925",
-      "score": 383,
-      "author": "nvarsj",
-      "created": "2025-12-11 20:32:22",
-      "created_at": 1765485142000
-    },
-    {
-      "id": 46248644,
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 370,
-      "author": "guiand",
-      "created": "2025-12-12 20:41:38",
-      "created_at": 1765572098000
     }
   ],
   "code": 200,

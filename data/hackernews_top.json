@@ -3,59 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-13T08:14:43.659Z"
+    "lastUpdate": "2025-12-13T12:20:45.243Z"
   },
   "data": [
     {
       "id": 46250332,
       "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
       "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 321,
+      "score": 422,
       "author": "simonw",
       "created": "2025-12-12 23:30:19",
       "created_at": 1765582219000
     },
     {
+      "id": 46253763,
+      "title": "Bookmark for CAD/2d/3D Useful links",
+      "link": "https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d",
+      "score": 16,
+      "author": "yogananda",
+      "created": "2025-12-13 11:16:45",
+      "created_at": 1765624605000
+    },
+    {
       "id": 46248644,
       "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
       "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 370,
+      "score": 430,
       "author": "guiand",
       "created": "2025-12-12 20:41:38",
       "created_at": 1765572098000
     },
     {
-      "id": 46210044,
-      "title": "Beautiful Abelian Sandpiles",
-      "link": "https://eavan.blog/posts/beautiful-sandpiles.html",
-      "score": 13,
-      "author": "eavan0",
-      "created": "2025-12-09 20:16:15",
-      "created_at": 1765311375000
-    },
-    {
-      "id": 46248859,
-      "title": "GNU Unifont",
-      "link": "https://unifoundry.com/unifont/index.html",
-      "score": 202,
-      "author": "remywang",
-      "created": "2025-12-12 20:57:34",
-      "created_at": 1765573054000
-    },
-    {
       "id": 46251582,
       "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
       "link": "https://www.ghibli.jp/info/013772/",
-      "score": 82,
+      "score": 173,
       "author": "vinhnx",
       "created": "2025-12-13 02:56:49",
       "created_at": 1765594609000
     },
     {
+      "id": 46191734,
+      "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
+      "link": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+      "score": 23,
+      "author": "selvan",
+      "created": "2025-12-08 13:04:17",
+      "created_at": 1765199057000
+    },
+    {
+      "id": 46177160,
+      "title": "Photographer Built a Medium-Format Rangefinder, and So Can You",
+      "link": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
+      "score": 45,
+      "author": "shinryuu",
+      "created": "2025-12-06 22:29:29",
+      "created_at": 1765060169000
+    },
+    {
+      "id": 46243655,
+      "title": "Sick of smart TVs? Here are your best options",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "score": 349,
+      "author": "fleahunter",
+      "created": "2025-12-12 12:51:40",
+      "created_at": 1765543900000
+    },
+    {
+      "id": 46248859,
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "score": 235,
+      "author": "remywang",
+      "created": "2025-12-12 20:57:34",
+      "created_at": 1765573054000
+    },
+    {
       "id": 46248323,
       "title": "Rats Play DOOM",
       "link": "https://ratsplaydoom.com/",
-      "score": 259,
+      "score": 306,
       "author": "ano-ther",
       "created": "2025-12-12 20:15:58",
       "created_at": 1765570558000
@@ -64,37 +91,10 @@
       "id": 46249538,
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
       "link": "https://github.com/ringtailsoftware/uvm32",
-      "score": 119,
+      "score": 142,
       "author": "trj",
       "created": "2025-12-12 22:02:14",
       "created_at": 1765576934000
-    },
-    {
-      "id": 46175888,
-      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
-      "link": "https://gwern.net/doc/technology/2008-sower.pdf",
-      "score": 39,
-      "author": "bookofjoe",
-      "created": "2025-12-06 19:21:50",
-      "created_at": 1765048910000
-    },
-    {
-      "id": 46243655,
-      "title": "Sick of smart TVs? Here are your best options",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "score": 249,
-      "author": "fleahunter",
-      "created": "2025-12-12 12:51:40",
-      "created_at": 1765543900000
-    },
-    {
-      "id": 46200157,
-      "title": "Easel Now Has Stencils",
-      "link": "https://easel.games/blog/2025-dec-update",
-      "score": 5,
-      "author": "BSTRhino",
-      "created": "2025-12-09 01:20:08",
-      "created_at": 1765243208000
     }
   ],
   "code": 200,
