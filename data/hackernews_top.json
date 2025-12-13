@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-13T16:13:29.390Z"
+    "lastUpdate": "2025-12-13T20:12:15.717Z"
   },
   "data": [
     {
-      "id": 46254087,
-      "title": "We built another object storage",
-      "link": "https://fractalbits.com/blog/why-we-built-another-object-storage/",
-      "score": 99,
-      "author": "fractalbits",
-      "created": "2025-12-13 12:29:19",
-      "created_at": 1765628959000
+      "id": 46255991,
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "score": 140,
+      "author": "tymscar",
+      "created": "2025-12-13 17:00:14",
+      "created_at": 1765645214000
     },
     {
-      "id": 46255335,
-      "title": "LG TV's new software update installed MS Copilot, which cannot be deleted",
-      "link": "https://old.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/",
-      "score": 26,
-      "author": "bj-rn",
-      "created": "2025-12-13 15:41:24",
-      "created_at": 1765640484000
+      "id": 46256954,
+      "title": "Dick Van Dyke turns 100",
+      "link": "https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang",
+      "score": 50,
+      "author": "thunderbong",
+      "created": "2025-12-13 18:58:09",
+      "created_at": 1765652289000
+    },
+    {
+      "id": 46256249,
+      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+      "link": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
+      "score": 85,
+      "author": "Matrixik",
+      "created": "2025-12-13 17:32:21",
+      "created_at": 1765647141000
+    },
+    {
+      "id": 46172807,
+      "title": "Show HN: Trello Clone with Source Code",
+      "link": "https://kanban.demo.codegres.com/",
+      "score": 10,
+      "author": "Codegres",
+      "created": "2025-12-06 12:30:36",
+      "created_at": 1765024236000
+    },
+    {
+      "id": 46172586,
+      "title": "Cryptids",
+      "link": "https://wiki.bbchallenge.org/wiki/Cryptids",
+      "score": 59,
+      "author": "frozenseven",
+      "created": "2025-12-06 11:48:45",
+      "created_at": 1765021725000
+    },
+    {
+      "id": 46223882,
+      "title": "Useful patterns for building HTML tools",
+      "link": "https://simonwillison.net/2025/Dec/10/html-tools/",
+      "score": 158,
+      "author": "simonw",
+      "created": "2025-12-10 21:08:41",
+      "created_at": 1765400921000
+    },
+    {
+      "id": 46257486,
+      "title": "Ask HN: How do you handle release notes for multiple audiences?",
+      "link": "",
+      "score": 3,
+      "author": "glidr_dev",
+      "created": "2025-12-13 20:04:26",
+      "created_at": 1765656266000
+    },
+    {
+      "id": 46255285,
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "link": "",
+      "score": 80,
+      "author": "lemonlime227",
+      "created": "2025-12-13 15:37:16",
+      "created_at": 1765640236000
     },
     {
       "id": 46182307,
       "title": "Java FFM zero-copy transport using io_uring",
       "link": "https://www.mvp.express/",
-      "score": 45,
+      "score": 84,
       "author": "mands",
       "created": "2025-12-07 15:19:25",
       "created_at": 1765120765000
-    },
-    {
-      "id": 46192181,
-      "title": "How exchanges turn order books into distributed logs",
-      "link": "https://quant.engineering/exchange-order-book-distributed-logs.html",
-      "score": 67,
-      "author": "rundef",
-      "created": "2025-12-08 13:48:51",
-      "created_at": 1765201731000
-    },
-    {
-      "id": 46248644,
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 473,
-      "author": "guiand",
-      "created": "2025-12-12 20:41:38",
-      "created_at": 1765572098000
-    },
-    {
-      "id": 46177160,
-      "title": "Photographer built a medium-format rangefinder, and so can you",
-      "link": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
-      "score": 97,
-      "author": "shinryuu",
-      "created": "2025-12-06 22:29:29",
-      "created_at": 1765060169000
-    },
-    {
-      "id": 46243655,
-      "title": "Sick of smart TVs? Here are your best options",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "score": 479,
-      "author": "fleahunter",
-      "created": "2025-12-12 12:51:40",
-      "created_at": 1765543900000
-    },
-    {
-      "id": 46252114,
-      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
-      "link": "https://hey.paris/posts/appleid/",
-      "score": 1024,
-      "author": "parisidau",
-      "created": "2025-12-13 04:55:59",
-      "created_at": 1765601759000
-    },
-    {
-      "id": 46191734,
-      "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
-      "link": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
-      "score": 49,
-      "author": "selvan",
-      "created": "2025-12-08 13:04:17",
-      "created_at": 1765199057000
-    },
-    {
-      "id": 46248859,
-      "title": "GNU Unifont",
-      "link": "https://unifoundry.com/unifont/index.html",
-      "score": 292,
-      "author": "remywang",
-      "created": "2025-12-12 20:57:34",
-      "created_at": 1765573054000
     }
   ],
   "code": 200,

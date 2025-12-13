@@ -3,59 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-13T16:13:29.288Z"
+    "lastUpdate": "2025-12-13T20:12:15.579Z"
   },
   "data": [
-    {
-      "id": 46234788,
-      "title": "GPT-5.2",
-      "link": "https://openai.com/index/introducing-gpt-5-2/",
-      "score": 1171,
-      "author": "atgctg",
-      "created": "2025-12-11 18:04:47",
-      "created_at": 1765476287000
-    },
     {
       "id": 46252114,
       "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
       "link": "https://hey.paris/posts/appleid/",
-      "score": 1024,
+      "score": 1393,
       "author": "parisidau",
       "created": "2025-12-13 04:55:59",
       "created_at": 1765601759000
     },
     {
-      "id": 46232528,
-      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
-      "link": "https://www.youtube.com/watch?v=hksVvXONrIo",
-      "score": 688,
-      "author": "walterbell",
-      "created": "2025-12-11 15:25:43",
-      "created_at": 1765466743000
-    },
-    {
-      "id": 46250332,
-      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 487,
-      "author": "simonw",
-      "created": "2025-12-12 23:30:19",
-      "created_at": 1765582219000
-    },
-    {
       "id": 46243655,
       "title": "Sick of smart TVs? Here are your best options",
       "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "score": 479,
+      "score": 552,
       "author": "fleahunter",
       "created": "2025-12-12 12:51:40",
       "created_at": 1765543900000
     },
     {
+      "id": 46250332,
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "score": 523,
+      "author": "simonw",
+      "created": "2025-12-12 23:30:19",
+      "created_at": 1765582219000
+    },
+    {
       "id": 46248644,
       "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
       "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 473,
+      "score": 510,
       "author": "guiand",
       "created": "2025-12-12 20:41:38",
       "created_at": 1765572098000
@@ -73,28 +55,46 @@
       "id": 46239752,
       "title": "Google de-indexed Bear Blog and I don't know why",
       "link": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
-      "score": 416,
+      "score": 420,
       "author": "nafnlj",
       "created": "2025-12-12 01:20:05",
       "created_at": 1765502405000
     },
     {
-      "id": 46234806,
-      "title": "Programmers and software developers lost the plot on naming their tools",
-      "link": "https://larr.net/p/namings.html",
-      "score": 416,
-      "author": "todsacerdoti",
-      "created": "2025-12-11 18:06:42",
-      "created_at": 1765476402000
-    },
-    {
       "id": 46245398,
       "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
       "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-      "score": 410,
+      "score": 413,
       "author": "nobody9999",
       "created": "2025-12-12 16:04:16",
       "created_at": 1765555456000
+    },
+    {
+      "id": 46236738,
+      "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
+      "link": "https://alecmuffett.com/article/134925",
+      "score": 391,
+      "author": "nvarsj",
+      "created": "2025-12-11 20:32:22",
+      "created_at": 1765485142000
+    },
+    {
+      "id": 46248323,
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "score": 376,
+      "author": "ano-ther",
+      "created": "2025-12-12 20:15:58",
+      "created_at": 1765570558000
+    },
+    {
+      "id": 46243904,
+      "title": "SQLite JSON at full index speed using generated columns",
+      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+      "score": 355,
+      "author": "upmostly",
+      "created": "2025-12-12 13:25:19",
+      "created_at": 1765545919000
     }
   ],
   "code": 200,
