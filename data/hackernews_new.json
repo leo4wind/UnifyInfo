@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-12T20:13:00.614Z"
+    "lastUpdate": "2025-12-13T00:53:32.382Z"
   },
   "data": [
     {
-      "id": 46243904,
-      "title": "SQLite JSON at Full Index Speed Using Generated Columns",
-      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
-      "score": 253,
-      "author": "upmostly",
-      "created": "2025-12-12 13:25:19",
-      "created_at": 1765545919000
+      "id": 46248644,
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "score": 235,
+      "author": "guiand",
+      "created": "2025-12-12 20:41:38",
+      "created_at": 1765572098000
     },
     {
-      "id": 46247415,
-      "title": "Benn Jordan's flock camera jammer will send you to jail in Florida now [video]",
-      "link": "https://www.youtube.com/watch?v=qEllWdK4l_A",
-      "score": 84,
-      "author": "givemeethekeys",
-      "created": "2025-12-12 18:58:43",
-      "created_at": 1765565923000
+      "id": 46250332,
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "score": 49,
+      "author": "simonw",
+      "created": "2025-12-12 23:30:19",
+      "created_at": 1765582219000
     },
     {
-      "id": 46245923,
-      "title": "Async DNS",
-      "link": "https://flak.tedunangst.com/post/async-dns",
-      "score": 64,
+      "id": 46248859,
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "score": 143,
+      "author": "remywang",
+      "created": "2025-12-12 20:57:34",
+      "created_at": 1765573054000
+    },
+    {
+      "id": 46248323,
+      "title": "Rats Play DOOM",
+      "link": "https://ratsplaydoom.com/",
+      "score": 159,
+      "author": "ano-ther",
+      "created": "2025-12-12 20:15:58",
+      "created_at": 1765570558000
+    },
+    {
+      "id": 46249538,
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "score": 52,
+      "author": "trj",
+      "created": "2025-12-12 22:02:14",
+      "created_at": 1765576934000
+    },
+    {
+      "id": 46234734,
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "link": "https://victorpoughon.github.io/bidicalc/",
+      "score": 38,
+      "author": "fouronnes3",
+      "created": "2025-12-11 18:00:55",
+      "created_at": 1765476055000
+    },
+    {
+      "id": 46249337,
+      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+      "link": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+      "score": 29,
+      "author": "fanf2",
+      "created": "2025-12-12 21:42:04",
+      "created_at": 1765575724000
+    },
+    {
+      "id": 46239076,
+      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
+      "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+      "score": 48,
+      "author": "andsoitis",
+      "created": "2025-12-11 23:56:10",
+      "created_at": 1765497370000
+    },
+    {
+      "id": 46250309,
+      "title": "50 years of proof assistants",
+      "link": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+      "score": 16,
+      "author": "baruchel",
+      "created": "2025-12-12 23:26:26",
+      "created_at": 1765581986000
+    },
+    {
+      "id": 46248470,
+      "title": "Security issues with electronic invoices",
+      "link": "https://invoice.secvuln.info/",
+      "score": 71,
       "author": "todsacerdoti",
-      "created": "2025-12-12 16:52:41",
-      "created_at": 1765558361000
-    },
-    {
-      "id": 46174114,
-      "title": "4 billion if statements (2023)",
-      "link": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
-      "score": 479,
-      "author": "damethos",
-      "created": "2025-12-06 15:34:26",
-      "created_at": 1765035266000
-    },
-    {
-      "id": 46244922,
-      "title": "CM0 – a new Raspberry Pi you can't buy",
-      "link": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
-      "score": 96,
-      "author": "speckx",
-      "created": "2025-12-12 15:19:19",
-      "created_at": 1765552759000
-    },
-    {
-      "id": 46245622,
-      "title": "String Theory Inspires a Brilliant, Baffling New Math Proof",
-      "link": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
-      "score": 51,
-      "author": "ArmageddonIt",
-      "created": "2025-12-12 16:23:10",
-      "created_at": 1765556590000
-    },
-    {
-      "id": 46246802,
-      "title": "Google Releases Its New Google Sans Flex Font as Open Source",
-      "link": "https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu",
-      "score": 85,
-      "author": "CharlesW",
-      "created": "2025-12-12 18:07:57",
-      "created_at": 1765562877000
-    },
-    {
-      "id": 46245398,
-      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
-      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-      "score": 207,
-      "author": "nobody9999",
-      "created": "2025-12-12 16:04:16",
-      "created_at": 1765555456000
-    },
-    {
-      "id": 46243883,
-      "title": "Fedora: Open-source repository for long-term digital preservation",
-      "link": "https://fedorarepository.org/",
-      "score": 79,
-      "author": "cernocky",
-      "created": "2025-12-12 13:23:31",
-      "created_at": 1765545811000
-    },
-    {
-      "id": 46247000,
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "score": 59,
-      "author": "kernelrocks",
-      "created": "2025-12-12 18:23:21",
-      "created_at": 1765563801000
+      "created": "2025-12-12 20:28:41",
+      "created_at": 1765571321000
     }
   ],
   "code": 200,
