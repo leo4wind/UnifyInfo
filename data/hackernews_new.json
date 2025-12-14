@@ -3,32 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-14T08:14:50.706Z"
+    "lastUpdate": "2025-12-14T12:20:49.441Z"
   },
   "data": [
     {
       "id": 46259064,
       "title": "Linux Sandboxes and Fil-C",
       "link": "https://fil-c.org/seccomp",
-      "score": 202,
+      "score": 258,
       "author": "pizlonator",
       "created": "2025-12-13 22:58:29",
       "created_at": 1765666709000
     },
     {
-      "id": 46258163,
-      "title": "Recovering Anthony Bourdain's Li.st's",
-      "link": "https://sandyuraz.com/blogs/bourdain/",
-      "score": 191,
-      "author": "thecsw",
-      "created": "2025-12-13 21:18:01",
-      "created_at": 1765660681000
-    },
-    {
       "id": 46205089,
-      "title": "Using E-Ink tablet as monitor for Linux",
+      "title": "Using e-ink tablet as monitor for Linux",
       "link": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
-      "score": 96,
+      "score": 161,
       "author": "yolkedgeek",
       "created": "2025-12-09 14:10:41",
       "created_at": 1765289441000
@@ -37,64 +28,73 @@
       "id": 46257607,
       "title": "I fed 24 years of my blog posts to a Markov model",
       "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
-      "score": 162,
+      "score": 207,
       "author": "zdw",
       "created": "2025-12-13 20:19:53",
       "created_at": 1765657193000
     },
     {
-      "id": 46259334,
-      "title": "Closures as Win32 Window Procedures",
-      "link": "https://nullprogram.com/blog/2025/12/12/",
-      "score": 63,
-      "author": "ibobev",
-      "created": "2025-12-13 23:39:48",
-      "created_at": 1765669188000
-    },
-    {
-      "id": 46255991,
-      "title": "I tried Gleam for Advent of Code",
-      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "score": 269,
-      "author": "tymscar",
-      "created": "2025-12-13 17:00:14",
-      "created_at": 1765645214000
-    },
-    {
-      "id": 46259702,
-      "title": "An Implementation of J",
-      "link": "https://www.jsoftware.com/ioj/ioj.htm",
-      "score": 53,
-      "author": "ofalkaed",
-      "created": "2025-12-14 00:34:56",
-      "created_at": 1765672496000
-    },
-    {
-      "id": 46260106,
-      "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
-      "link": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
-      "score": 63,
-      "author": "rdgthree",
-      "created": "2025-12-14 01:43:33",
-      "created_at": 1765676613000
+      "id": 46258163,
+      "title": "Recovering Anthony Bourdain's Li.st's",
+      "link": "https://sandyuraz.com/blogs/bourdain/",
+      "score": 222,
+      "author": "thecsw",
+      "created": "2025-12-13 21:18:01",
+      "created_at": 1765660681000
     },
     {
       "id": 46213985,
       "title": "Cat Gap",
       "link": "https://en.wikipedia.org/wiki/Cat_gap",
-      "score": 97,
+      "score": 130,
       "author": "Petiver",
       "created": "2025-12-10 04:09:04",
       "created_at": 1765339744000
     },
     {
+      "id": 46255991,
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "score": 298,
+      "author": "tymscar",
+      "created": "2025-12-13 17:00:14",
+      "created_at": 1765645214000
+    },
+    {
+      "id": 46259334,
+      "title": "Closures as Win32 Window Procedures",
+      "link": "https://nullprogram.com/blog/2025/12/12/",
+      "score": 74,
+      "author": "ibobev",
+      "created": "2025-12-13 23:39:48",
+      "created_at": 1765669188000
+    },
+    {
+      "id": 46259702,
+      "title": "An Implementation of J (1992)",
+      "link": "https://www.jsoftware.com/ioj/ioj.htm",
+      "score": 65,
+      "author": "ofalkaed",
+      "created": "2025-12-14 00:34:56",
+      "created_at": 1765672496000
+    },
+    {
       "id": 46260128,
-      "title": "Lean Theorem Prover Mathlib",
+      "title": "Lean theorem prover mathlib",
       "link": "https://github.com/leanprover-community/mathlib4",
-      "score": 30,
+      "score": 46,
       "author": "downboots",
       "created": "2025-12-14 01:49:11",
       "created_at": 1765676951000
+    },
+    {
+      "id": 46202624,
+      "title": "Dagger: Define software delivery workflows and dev environments",
+      "link": "https://dagger.io/",
+      "score": 6,
+      "author": "ahamez",
+      "created": "2025-12-09 08:32:51",
+      "created_at": 1765269171000
     }
   ],
   "code": 200,
