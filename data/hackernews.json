@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-14T12:20:49.275Z"
+    "lastUpdate": "2025-12-14T16:13:10.472Z"
   },
   "data": [
     {
       "id": 46252114,
       "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
       "link": "https://hey.paris/posts/appleid/",
-      "score": 1565,
+      "score": 1589,
       "author": "parisidau",
       "created": "2025-12-13 04:55:59",
       "created_at": 1765601759000
     },
     {
-      "id": 46243655,
-      "title": "Sick of smart TVs? Here are your best options",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "score": 584,
-      "author": "fleahunter",
-      "created": "2025-12-12 12:51:40",
-      "created_at": 1765543900000
-    },
-    {
       "id": 46250332,
       "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
       "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 553,
+      "score": 557,
       "author": "simonw",
       "created": "2025-12-12 23:30:19",
       "created_at": 1765582219000
@@ -37,64 +28,73 @@
       "id": 46248644,
       "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
       "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 523,
+      "score": 524,
       "author": "guiand",
       "created": "2025-12-12 20:41:38",
       "created_at": 1765572098000
     },
     {
-      "id": 46245398,
-      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
-      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-      "score": 424,
-      "author": "nobody9999",
-      "created": "2025-12-12 16:04:16",
-      "created_at": 1765555456000
-    },
-    {
       "id": 46257339,
       "title": "VPN location claims don't match real traffic exits",
       "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
-      "score": 409,
+      "score": 438,
       "author": "mmaia",
       "created": "2025-12-13 19:46:19",
       "created_at": 1765655179000
     },
     {
+      "id": 46245398,
+      "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "score": 427,
+      "author": "nobody9999",
+      "created": "2025-12-12 16:04:16",
+      "created_at": 1765555456000
+    },
+    {
       "id": 46248323,
       "title": "Rats Play DOOM",
       "link": "https://ratsplaydoom.com/",
-      "score": 406,
+      "score": 411,
       "author": "ano-ther",
       "created": "2025-12-12 20:15:58",
       "created_at": 1765570558000
     },
     {
-      "id": 46243904,
-      "title": "SQLite JSON at full index speed using generated columns",
-      "link": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
-      "score": 364,
-      "author": "upmostly",
-      "created": "2025-12-12 13:25:19",
-      "created_at": 1765545919000
-    },
-    {
       "id": 46255285,
       "title": "Ask HN: How can I get better at using AI for programming?",
       "link": "",
-      "score": 356,
+      "score": 390,
       "author": "lemonlime227",
       "created": "2025-12-13 15:37:16",
       "created_at": 1765640236000
     },
     {
-      "id": 46243543,
-      "title": "The Tor Project is switching to Rust",
-      "link": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
-      "score": 346,
-      "author": "giuliomagnifico",
-      "created": "2025-12-12 12:35:57",
-      "created_at": 1765542957000
+      "id": 46248859,
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "score": 334,
+      "author": "remywang",
+      "created": "2025-12-12 20:57:34",
+      "created_at": 1765573054000
+    },
+    {
+      "id": 46246845,
+      "title": "Id Software devs form \"wall-to-wall\" union",
+      "link": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
+      "score": 330,
+      "author": "simjue",
+      "created": "2025-12-12 18:11:23",
+      "created_at": 1765563083000
+    },
+    {
+      "id": 46255991,
+      "title": "I tried Gleam for Advent of Code",
+      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "score": 316,
+      "author": "tymscar",
+      "created": "2025-12-13 17:00:14",
+      "created_at": 1765645214000
     }
   ],
   "code": 200,
