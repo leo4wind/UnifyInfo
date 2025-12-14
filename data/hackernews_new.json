@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-14T16:13:10.601Z"
+    "lastUpdate": "2025-12-14T20:12:23.848Z"
   },
   "data": [
+    {
+      "id": 46264492,
+      "title": "Hashcards: A Plain-Text Spaced Repetition System",
+      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "score": 128,
+      "author": "thomascountz",
+      "created": "2025-12-14 16:55:29",
+      "created_at": 1765731329000
+    },
+    {
+      "id": 46265015,
+      "title": "The Typeframe PX-88 Portable Computing System",
+      "link": "https://www.typeframe.net/",
+      "score": 46,
+      "author": "birdculture",
+      "created": "2025-12-14 17:43:39",
+      "created_at": 1765734219000
+    },
     {
       "id": 46262816,
       "title": "AI and the ironies of automation – Part 2",
       "link": "https://www.ufried.com/blog/ironies_of_ai_2/",
-      "score": 88,
+      "score": 168,
       "author": "BinaryIgor",
       "created": "2025-12-14 13:19:15",
       "created_at": 1765718355000
     },
     {
-      "id": 46262950,
-      "title": "Apple Maps claims it's 29,905 miles away",
-      "link": "https://mathstodon.xyz/@dpiponi/115651419771418748",
-      "score": 83,
-      "author": "ColinWright",
-      "created": "2025-12-14 13:45:41",
-      "created_at": 1765719941000
+      "id": 46264491,
+      "title": "Ask HN: What Are You Working On? (December 2025)",
+      "link": "",
+      "score": 32,
+      "author": "david927",
+      "created": "2025-12-14 16:55:25",
+      "created_at": 1765731325000
     },
     {
-      "id": 46262524,
-      "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
-      "link": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-      "score": 306,
-      "author": "Fnoord",
-      "created": "2025-12-14 12:15:09",
-      "created_at": 1765714509000
+      "id": 46224303,
+      "title": "Developing a food-safe finish for my wooden spoons",
+      "link": "https://alinpanaitiu.com/blog/developing-hardwax-oil/",
+      "score": 50,
+      "author": "alin23",
+      "created": "2025-12-10 21:44:30",
+      "created_at": 1765403070000
     },
     {
-      "id": 46263530,
-      "title": "Illuminating the processor core with LLVM-mca",
-      "link": "https://abseil.io/fast/99",
-      "score": 8,
-      "author": "ckennelly",
-      "created": "2025-12-14 15:05:06",
-      "created_at": 1765724706000
+      "id": 46265579,
+      "title": "Stop crawling my HTML you dickheads – use the API",
+      "link": "https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/",
+      "score": 60,
+      "author": "edent",
+      "created": "2025-12-14 18:44:38",
+      "created_at": 1765737878000
     },
     {
-      "id": 46262777,
-      "title": "Vacuum Is a Lie: About Your Indexes",
-      "link": "https://boringsql.com/posts/vacuum-is-lie/",
-      "score": 13,
-      "author": "birdculture",
-      "created": "2025-12-14 13:13:41",
-      "created_at": 1765718021000
-    },
-    {
-      "id": 46259064,
-      "title": "Linux Sandboxes and Fil-C",
-      "link": "https://fil-c.org/seccomp",
-      "score": 293,
-      "author": "pizlonator",
-      "created": "2025-12-13 22:58:29",
-      "created_at": 1765666709000
+      "id": 46266094,
+      "title": "Do Dyslexia Fonts Actually Work? (2022)",
+      "link": "https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/",
+      "score": 4,
+      "author": "CharlesW",
+      "created": "2025-12-14 19:41:59",
+      "created_at": 1765741319000
     },
     {
       "id": 46262021,
       "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
       "link": "https://trigger.dev/blog/shai-hulud-postmortem",
-      "score": 43,
+      "score": 126,
       "author": "nkko",
       "created": "2025-12-14 10:07:00",
       "created_at": 1765706820000
     },
     {
-      "id": 46262734,
-      "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
-      "link": "https://twitter.com/awnihannun/status/1943723599971443134",
-      "score": 74,
-      "author": "jeudesprits",
-      "created": "2025-12-14 13:04:34",
-      "created_at": 1765717474000
+      "id": 46264704,
+      "title": "GraphQL: The enterprise honeymoon is over",
+      "link": "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over",
+      "score": 69,
+      "author": "johnjames4214",
+      "created": "2025-12-14 17:13:30",
+      "created_at": 1765732410000
     },
     {
-      "id": 46262480,
-      "title": "Efficient Basic Coding for the ZX Spectrum",
-      "link": "https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/",
-      "score": 17,
-      "author": "rcarmo",
-      "created": "2025-12-14 12:04:44",
-      "created_at": 1765713884000
-    },
-    {
-      "id": 46261452,
-      "title": "Compiler Engineering in Practice",
-      "link": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
-      "score": 49,
-      "author": "dhruv3006",
-      "created": "2025-12-14 07:45:15",
-      "created_at": 1765698315000
+      "id": 46265794,
+      "title": "Freakpages",
+      "link": "https://freakpages.org/",
+      "score": 5,
+      "author": "bookofjoe",
+      "created": "2025-12-14 19:07:09",
+      "created_at": 1765739229000
     }
   ],
   "code": 200,
