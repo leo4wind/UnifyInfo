@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-13T20:12:15.717Z"
+    "lastUpdate": "2025-12-14T01:01:27.591Z"
   },
   "data": [
+    {
+      "id": 46259064,
+      "title": "Linux Sandboxes and Fil-C",
+      "link": "https://fil-c.org/seccomp",
+      "score": 62,
+      "author": "pizlonator",
+      "created": "2025-12-13 22:58:29",
+      "created_at": 1765666709000
+    },
+    {
+      "id": 46259334,
+      "title": "Closures as Win32 Window Procedures",
+      "link": "https://nullprogram.com/blog/2025/12/12/",
+      "score": 27,
+      "author": "ibobev",
+      "created": "2025-12-13 23:39:48",
+      "created_at": 1765669188000
+    },
+    {
+      "id": 46257714,
+      "title": "Why Twilio Segment moved from microservices back to a monolith",
+      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "score": 145,
+      "author": "birdculture",
+      "created": "2025-12-13 20:30:34",
+      "created_at": 1765657834000
+    },
+    {
+      "id": 46258163,
+      "title": "Recovering Anthony Bourdain's (really) lost Li.st's",
+      "link": "https://sandyuraz.com/blogs/bourdain/",
+      "score": 87,
+      "author": "thecsw",
+      "created": "2025-12-13 21:18:01",
+      "created_at": 1765660681000
+    },
+    {
+      "id": 46257607,
+      "title": "I fed 24 years of my blog posts to a Markov model",
+      "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "score": 85,
+      "author": "zdw",
+      "created": "2025-12-13 20:19:53",
+      "created_at": 1765657193000
+    },
+    {
+      "id": 46257339,
+      "title": "VPN location claims don't match real traffic exits",
+      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "score": 225,
+      "author": "mmaia",
+      "created": "2025-12-13 19:46:19",
+      "created_at": 1765655179000
+    },
     {
       "id": 46255991,
       "title": "I tried Gleam for Advent of Code",
       "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "score": 140,
+      "score": 228,
       "author": "tymscar",
       "created": "2025-12-13 17:00:14",
       "created_at": 1765645214000
     },
     {
-      "id": 46256954,
-      "title": "Dick Van Dyke turns 100",
-      "link": "https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang",
-      "score": 50,
-      "author": "thunderbong",
-      "created": "2025-12-13 18:58:09",
-      "created_at": 1765652289000
+      "id": 46257599,
+      "title": "The Rise of Computer Games, Part I: Adventure",
+      "link": "https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/",
+      "score": 41,
+      "author": "cfmcdonald",
+      "created": "2025-12-13 20:19:10",
+      "created_at": 1765657150000
     },
     {
-      "id": 46256249,
-      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
-      "link": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
-      "score": 85,
-      "author": "Matrixik",
-      "created": "2025-12-13 17:32:21",
-      "created_at": 1765647141000
+      "id": 46213985,
+      "title": "Cat Gap",
+      "link": "https://en.wikipedia.org/wiki/Cat_gap",
+      "score": 23,
+      "author": "Petiver",
+      "created": "2025-12-10 04:09:04",
+      "created_at": 1765339744000
     },
     {
-      "id": 46172807,
-      "title": "Show HN: Trello Clone with Source Code",
-      "link": "https://kanban.demo.codegres.com/",
-      "score": 10,
-      "author": "Codegres",
-      "created": "2025-12-06 12:30:36",
-      "created_at": 1765024236000
-    },
-    {
-      "id": 46172586,
-      "title": "Cryptids",
-      "link": "https://wiki.bbchallenge.org/wiki/Cryptids",
-      "score": 59,
-      "author": "frozenseven",
-      "created": "2025-12-06 11:48:45",
-      "created_at": 1765021725000
-    },
-    {
-      "id": 46223882,
-      "title": "Useful patterns for building HTML tools",
-      "link": "https://simonwillison.net/2025/Dec/10/html-tools/",
-      "score": 158,
-      "author": "simonw",
-      "created": "2025-12-10 21:08:41",
-      "created_at": 1765400921000
-    },
-    {
-      "id": 46257486,
-      "title": "Ask HN: How do you handle release notes for multiple audiences?",
-      "link": "",
-      "score": 3,
-      "author": "glidr_dev",
-      "created": "2025-12-13 20:04:26",
-      "created_at": 1765656266000
-    },
-    {
-      "id": 46255285,
-      "title": "Ask HN: How can I get better at using AI for programming?",
-      "link": "",
-      "score": 80,
-      "author": "lemonlime227",
-      "created": "2025-12-13 15:37:16",
-      "created_at": 1765640236000
-    },
-    {
-      "id": 46182307,
-      "title": "Java FFM zero-copy transport using io_uring",
-      "link": "https://www.mvp.express/",
-      "score": 84,
-      "author": "mands",
-      "created": "2025-12-07 15:19:25",
-      "created_at": 1765120765000
+      "id": 46259095,
+      "title": "RemoveWindowsAI",
+      "link": "https://github.com/zoicware/RemoveWindowsAI",
+      "score": 23,
+      "author": "hansmayer",
+      "created": "2025-12-13 23:04:26",
+      "created_at": 1765667066000
     }
   ],
   "code": 200,
