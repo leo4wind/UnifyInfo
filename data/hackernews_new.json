@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-14T01:01:29.211Z"
+    "lastUpdate": "2025-12-14T04:29:17.358Z"
   },
   "data": [
     {
       "id": 46259064,
       "title": "Linux Sandboxes and Fil-C",
       "link": "https://fil-c.org/seccomp",
-      "score": 62,
+      "score": 145,
       "author": "pizlonator",
       "created": "2025-12-13 22:58:29",
       "created_at": 1765666709000
     },
     {
+      "id": 46259702,
+      "title": "An Implementation of J",
+      "link": "https://www.jsoftware.com/ioj/ioj.htm",
+      "score": 35,
+      "author": "ofalkaed",
+      "created": "2025-12-14 00:34:56",
+      "created_at": 1765672496000
+    },
+    {
       "id": 46259334,
       "title": "Closures as Win32 Window Procedures",
       "link": "https://nullprogram.com/blog/2025/12/12/",
-      "score": 27,
+      "score": 49,
       "author": "ibobev",
       "created": "2025-12-13 23:39:48",
       "created_at": 1765669188000
     },
     {
-      "id": 46257714,
-      "title": "Why Twilio Segment moved from microservices back to a monolith",
-      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
-      "score": 145,
-      "author": "birdculture",
-      "created": "2025-12-13 20:30:34",
-      "created_at": 1765657834000
-    },
-    {
       "id": 46258163,
       "title": "Recovering Anthony Bourdain's (really) lost Li.st's",
       "link": "https://sandyuraz.com/blogs/bourdain/",
-      "score": 87,
+      "score": 145,
       "author": "thecsw",
       "created": "2025-12-13 21:18:01",
       "created_at": 1765660681000
     },
     {
+      "id": 46205089,
+      "title": "Using E-Ink tablet as monitor for Linux",
+      "link": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+      "score": 45,
+      "author": "yolkedgeek",
+      "created": "2025-12-09 14:10:41",
+      "created_at": 1765289441000
+    },
+    {
       "id": 46257607,
       "title": "I fed 24 years of my blog posts to a Markov model",
       "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
-      "score": 85,
+      "score": 123,
       "author": "zdw",
       "created": "2025-12-13 20:19:53",
       "created_at": 1765657193000
     },
     {
-      "id": 46257339,
-      "title": "VPN location claims don't match real traffic exits",
-      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
-      "score": 225,
-      "author": "mmaia",
-      "created": "2025-12-13 19:46:19",
-      "created_at": 1765655179000
-    },
-    {
       "id": 46255991,
       "title": "I tried Gleam for Advent of Code",
       "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "score": 228,
+      "score": 246,
       "author": "tymscar",
       "created": "2025-12-13 17:00:14",
       "created_at": 1765645214000
     },
     {
-      "id": 46257599,
-      "title": "The Rise of Computer Games, Part I: Adventure",
-      "link": "https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/",
-      "score": 41,
-      "author": "cfmcdonald",
-      "created": "2025-12-13 20:19:10",
-      "created_at": 1765657150000
+      "id": 46260128,
+      "title": "Lean Theorem Prover Mathlib",
+      "link": "https://github.com/leanprover-community/mathlib4",
+      "score": 9,
+      "author": "downboots",
+      "created": "2025-12-14 01:49:11",
+      "created_at": 1765676951000
+    },
+    {
+      "id": 46257339,
+      "title": "VPN location claims don't match real traffic exits",
+      "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "score": 287,
+      "author": "mmaia",
+      "created": "2025-12-13 19:46:19",
+      "created_at": 1765655179000
     },
     {
       "id": 46213985,
       "title": "Cat Gap",
       "link": "https://en.wikipedia.org/wiki/Cat_gap",
-      "score": 23,
+      "score": 68,
       "author": "Petiver",
       "created": "2025-12-10 04:09:04",
       "created_at": 1765339744000
-    },
-    {
-      "id": 46259095,
-      "title": "RemoveWindowsAI",
-      "link": "https://github.com/zoicware/RemoveWindowsAI",
-      "score": 23,
-      "author": "hansmayer",
-      "created": "2025-12-13 23:04:26",
-      "created_at": 1765667066000
     }
   ],
   "code": 200,
