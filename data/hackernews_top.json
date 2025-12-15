@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-15T16:18:07.445Z"
+    "lastUpdate": "2025-12-15T20:13:54.998Z"
   },
   "data": [
+    {
+      "id": 46279123,
+      "title": "“Super secure” MAGA-themed messaging app leaks everyone's phone number",
+      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "score": 162,
+      "author": "e_daigle",
+      "created": "2025-12-15 19:23:51",
+      "created_at": 1765826631000
+    },
+    {
+      "id": 46278857,
+      "title": "D-Bus is a disgrace to the Linux desktop",
+      "link": "https://blog.vaxry.net/articles/2025-dbusSucks",
+      "score": 129,
+      "author": "LorenDB",
+      "created": "2025-12-15 19:07:10",
+      "created_at": 1765825630000
+    },
+    {
+      "id": 46279053,
+      "title": "United 777-200 fleet faces an uncertain future after Dulles engine failure",
+      "link": "https://liveandletsfly.com/united-airlines-777-200-future/",
+      "score": 48,
+      "author": "makaimc",
+      "created": "2025-12-15 19:19:23",
+      "created_at": 1765826363000
+    },
     {
       "id": 46274822,
       "title": "Carrier Landing in Top Gun for the NES",
       "link": "https://relaxing.run/blag/posts/top-gun-landing/",
-      "score": 139,
+      "score": 304,
       "author": "todsacerdoti",
       "created": "2025-12-15 14:16:32",
       "created_at": 1765808192000
     },
     {
-      "id": 46274478,
-      "title": "It seems that OpenAI is scraping [certificate transparency] logs",
-      "link": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
-      "score": 57,
-      "author": "pavel_lishin",
-      "created": "2025-12-15 13:48:03",
-      "created_at": 1765806483000
+      "id": 46279187,
+      "title": "Umbrel – Personal Cloud",
+      "link": "https://umbrel.com",
+      "score": 31,
+      "author": "oldfuture",
+      "created": "2025-12-15 19:27:08",
+      "created_at": 1765826828000
     },
     {
-      "id": 46275079,
-      "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
-      "link": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
-      "score": 141,
-      "author": "bikenaga",
-      "created": "2025-12-15 14:37:12",
-      "created_at": 1765809432000
+      "id": 46279241,
+      "title": "Upcoming Changes to Let's Encrypt Certificates",
+      "link": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
+      "score": 11,
+      "author": "schmuckonwheels",
+      "created": "2025-12-15 19:30:22",
+      "created_at": 1765827022000
+    },
+    {
+      "id": 46277090,
+      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
+      "link": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+      "score": 49,
+      "author": "toomuchtodo",
+      "created": "2025-12-15 17:01:42",
+      "created_at": 1765818102000
+    },
+    {
+      "id": 46256643,
+      "title": "Essential Semiconductor Physics [pdf]",
+      "link": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
+      "score": 21,
+      "author": "akshatjiwan",
+      "created": "2025-12-13 18:19:51",
+      "created_at": 1765649991000
+    },
+    {
+      "id": 46248294,
+      "title": "In Defense of Matlab Code",
+      "link": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code",
+      "score": 23,
+      "author": "finbarr1987",
+      "created": "2025-12-12 20:13:26",
+      "created_at": 1765570406000
     },
     {
       "id": 46272487,
-      "title": "Avoid UUIDv4 Primary Keys",
+      "title": "Avoid UUID Version 4 Primary Keys in Postgres",
       "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
-      "score": 174,
+      "score": 281,
       "author": "pil0u",
       "created": "2025-12-15 10:08:02",
       "created_at": 1765793282000
-    },
-    {
-      "id": 46189205,
-      "title": "Speech and Language Processing (3rd ed. draft)",
-      "link": "https://web.stanford.edu/~jurafsky/slp3/",
-      "score": 20,
-      "author": "atomicnature",
-      "created": "2025-12-08 06:50:59",
-      "created_at": 1765176659000
-    },
-    {
-      "id": 46181628,
-      "title": "DNA Learning Center: Mechanism of Replication 3D Animation",
-      "link": "https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html",
-      "score": 54,
-      "author": "timschmidt",
-      "created": "2025-12-07 13:43:34",
-      "created_at": 1765115014000
-    },
-    {
-      "id": 46265362,
-      "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
-      "link": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
-      "score": 346,
-      "author": "MilnerRoute",
-      "created": "2025-12-14 18:18:34",
-      "created_at": 1765736314000
-    },
-    {
-      "id": 46268854,
-      "title": "Roomba maker goes bankrupt, Chinese owner emerges",
-      "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
-      "score": 445,
-      "author": "nreece",
-      "created": "2025-12-15 00:36:44",
-      "created_at": 1765759004000
-    },
-    {
-      "id": 46273344,
-      "title": "Largest U.S. recycling project to extend landfill life for Virginia residents",
-      "link": "https://ampsortation.com/articles/largest-us-recycling-project-spsa",
-      "score": 30,
-      "author": "mooreds",
-      "created": "2025-12-15 11:58:35",
-      "created_at": 1765799915000
-    },
-    {
-      "id": 46270282,
-      "title": "Unscii",
-      "link": "http://viznut.fi/unscii/",
-      "score": 238,
-      "author": "Levitating",
-      "created": "2025-12-15 03:55:07",
-      "created_at": 1765770907000
     }
   ],
   "code": 200,
