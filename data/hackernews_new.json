@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-15T12:25:49.266Z"
+    "lastUpdate": "2025-12-15T16:18:07.475Z"
   },
   "data": [
     {
-      "id": 46265362,
-      "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
-      "link": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
-      "score": 245,
-      "author": "MilnerRoute",
-      "created": "2025-12-14 18:18:34",
-      "created_at": 1765736314000
+      "id": 46274822,
+      "title": "Carrier Landing in Top Gun for the NES",
+      "link": "https://relaxing.run/blag/posts/top-gun-landing/",
+      "score": 139,
+      "author": "todsacerdoti",
+      "created": "2025-12-15 14:16:32",
+      "created_at": 1765808192000
+    },
+    {
+      "id": 46274478,
+      "title": "It seems that OpenAI is scraping [certificate transparency] logs",
+      "link": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
+      "score": 57,
+      "author": "pavel_lishin",
+      "created": "2025-12-15 13:48:03",
+      "created_at": 1765806483000
+    },
+    {
+      "id": 46275079,
+      "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
+      "link": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
+      "score": 141,
+      "author": "bikenaga",
+      "created": "2025-12-15 14:37:12",
+      "created_at": 1765809432000
     },
     {
       "id": 46272487,
       "title": "Avoid UUIDv4 Primary Keys",
       "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
-      "score": 87,
+      "score": 174,
       "author": "pil0u",
       "created": "2025-12-15 10:08:02",
       "created_at": 1765793282000
     },
     {
+      "id": 46189205,
+      "title": "Speech and Language Processing (3rd ed. draft)",
+      "link": "https://web.stanford.edu/~jurafsky/slp3/",
+      "score": 20,
+      "author": "atomicnature",
+      "created": "2025-12-08 06:50:59",
+      "created_at": 1765176659000
+    },
+    {
+      "id": 46181628,
+      "title": "DNA Learning Center: Mechanism of Replication 3D Animation",
+      "link": "https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html",
+      "score": 54,
+      "author": "timschmidt",
+      "created": "2025-12-07 13:43:34",
+      "created_at": 1765115014000
+    },
+    {
+      "id": 46265362,
+      "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
+      "link": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
+      "score": 346,
+      "author": "MilnerRoute",
+      "created": "2025-12-14 18:18:34",
+      "created_at": 1765736314000
+    },
+    {
       "id": 46268854,
       "title": "Roomba maker goes bankrupt, Chinese owner emerges",
       "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
-      "score": 233,
+      "score": 445,
       "author": "nreece",
       "created": "2025-12-15 00:36:44",
       "created_at": 1765759004000
     },
     {
+      "id": 46273344,
+      "title": "Largest U.S. recycling project to extend landfill life for Virginia residents",
+      "link": "https://ampsortation.com/articles/largest-us-recycling-project-spsa",
+      "score": 30,
+      "author": "mooreds",
+      "created": "2025-12-15 11:58:35",
+      "created_at": 1765799915000
+    },
+    {
       "id": 46270282,
       "title": "Unscii",
       "link": "http://viznut.fi/unscii/",
-      "score": 141,
+      "score": 238,
       "author": "Levitating",
       "created": "2025-12-15 03:55:07",
       "created_at": 1765770907000
-    },
-    {
-      "id": 46270298,
-      "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
-      "link": "https://arborium.bearcove.eu/",
-      "score": 131,
-      "author": "zdw",
-      "created": "2025-12-15 03:57:46",
-      "created_at": 1765771066000
-    },
-    {
-      "id": 46264491,
-      "title": "Ask HN: What Are You Working On? (December 2025)",
-      "link": "",
-      "score": 301,
-      "author": "david927",
-      "created": "2025-12-14 16:55:25",
-      "created_at": 1765731325000
-    },
-    {
-      "id": 46268709,
-      "title": "If AI replaces workers, should it also pay taxes?",
-      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
-      "score": 173,
-      "author": "PaulHoule",
-      "created": "2025-12-15 00:17:02",
-      "created_at": 1765757822000
-    },
-    {
-      "id": 46229030,
-      "title": "$5 whale listening hydrophone making workshop",
-      "link": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/",
-      "score": 44,
-      "author": "gsf_emergency_6",
-      "created": "2025-12-11 08:42:22",
-      "created_at": 1765442542000
-    },
-    {
-      "id": 46177013,
-      "title": "Invader: Where to Spot the 8-Bit Street Art in London",
-      "link": "https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london",
-      "score": 6,
-      "author": "zeristor",
-      "created": "2025-12-06 22:10:19",
-      "created_at": 1765059019000
     }
   ],
   "code": 200,
