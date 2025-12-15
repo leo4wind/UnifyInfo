@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2025-12-14T20:12:26.569Z"
+    "lastUpdate": "2025-12-15T00:59:11.387Z"
   },
   "data": [
+    {
+      "zqdm": "301687",
+      "zqjc": "新广益",
+      "sgdm": "301687",
+      "fxsl": 36716000,
+      "swfxsl": 8811500,
+      "sgsx": 8500,
+      "dgsz": 85000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2025-12-22",
+      "zqgbrq": "2025-12-24",
+      "zqjkrq": "2025-12-24",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 57.95,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "高性能特种功能材料研发、生产及销售"
+    },
     {
       "zqdm": "688809",
       "zqjc": "强一股份",
@@ -189,53 +212,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "橡胶履带类产品的研发、生产与销售"
-    },
-    {
-      "zqdm": "688807",
-      "zqjc": "优迅股份",
-      "sgdm": "787807",
-      "fxsl": 20000000,
-      "swfxsl": 6400000,
-      "sgsx": 4500,
-      "dgsz": 45000,
-      "fxjg": 51.66,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-12-08",
-      "zqgbrq": "2025-12-10",
-      "zqjkrq": "2025-12-10",
-      "ssrq": null,
-      "syl": 60.27,
-      "hysyl": 58.09,
-      "wszql": 0.0224897,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "光通信前端收发电芯片的研发、设计与销售"
-    },
-    {
-      "zqdm": "301667",
-      "zqjc": "纳百川",
-      "sgdm": "301667",
-      "fxsl": 27917400,
-      "swfxsl": 11446000,
-      "sgsx": 6500,
-      "dgsz": 65000,
-      "fxjg": 22.63,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2025-12-08",
-      "zqgbrq": "2025-12-10",
-      "zqjkrq": "2025-12-10",
-      "ssrq": null,
-      "syl": 28.7,
-      "hysyl": 28.71,
-      "wszql": 0.0148966532,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "新能源汽车动力电池热管理、燃油汽车动力系统热管理及储能电池热管理相关产品的研发、生产和销售"
     }
   ],
-  "total": 10
+  "total": 9
 }

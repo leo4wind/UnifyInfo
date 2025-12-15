@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-14T20:12:23.571Z"
+    "lastUpdate": "2025-12-15T00:59:08.593Z"
   },
   "data": [
     {
       "id": 46252114,
       "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
       "link": "https://hey.paris/posts/appleid/",
-      "score": 1614,
+      "score": 1638,
       "author": "parisidau",
       "created": "2025-12-13 04:55:59",
       "created_at": 1765601759000
@@ -19,34 +19,16 @@
       "id": 46262524,
       "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
       "link": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-      "score": 578,
+      "score": 617,
       "author": "Fnoord",
       "created": "2025-12-14 12:15:09",
       "created_at": 1765714509000
     },
     {
-      "id": 46250332,
-      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "score": 564,
-      "author": "simonw",
-      "created": "2025-12-12 23:30:19",
-      "created_at": 1765582219000
-    },
-    {
-      "id": 46248644,
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "link": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "score": 526,
-      "author": "guiand",
-      "created": "2025-12-12 20:41:38",
-      "created_at": 1765572098000
-    },
-    {
       "id": 46257339,
       "title": "VPN location claims don't match real traffic exits",
       "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
-      "score": 452,
+      "score": 457,
       "author": "mmaia",
       "created": "2025-12-13 19:46:19",
       "created_at": 1765655179000
@@ -55,34 +37,16 @@
       "id": 46255285,
       "title": "Ask HN: How can I get better at using AI for programming?",
       "link": "",
-      "score": 414,
+      "score": 430,
       "author": "lemonlime227",
       "created": "2025-12-13 15:37:16",
       "created_at": 1765640236000
     },
     {
-      "id": 46248323,
-      "title": "Rats Play DOOM",
-      "link": "https://ratsplaydoom.com/",
-      "score": 414,
-      "author": "ano-ther",
-      "created": "2025-12-12 20:15:58",
-      "created_at": 1765570558000
-    },
-    {
-      "id": 46248859,
-      "title": "GNU Unifont",
-      "link": "https://unifoundry.com/unifont/index.html",
-      "score": 335,
-      "author": "remywang",
-      "created": "2025-12-12 20:57:34",
-      "created_at": 1765573054000
-    },
-    {
       "id": 46255991,
       "title": "I tried Gleam for Advent of Code",
       "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "score": 329,
+      "score": 335,
       "author": "tymscar",
       "created": "2025-12-13 17:00:14",
       "created_at": 1765645214000
@@ -91,10 +55,46 @@
       "id": 46259064,
       "title": "Linux Sandboxes and Fil-C",
       "link": "https://fil-c.org/seccomp",
-      "score": 318,
+      "score": 331,
       "author": "pizlonator",
       "created": "2025-12-13 22:58:29",
       "created_at": 1765666709000
+    },
+    {
+      "id": 46257607,
+      "title": "I fed 24 years of my blog posts to a Markov model",
+      "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "score": 289,
+      "author": "zdw",
+      "created": "2025-12-13 20:19:53",
+      "created_at": 1765657193000
+    },
+    {
+      "id": 46258163,
+      "title": "Recovering Anthony Bourdain's Li.st's",
+      "link": "https://sandyuraz.com/blogs/bourdain/",
+      "score": 286,
+      "author": "thecsw",
+      "created": "2025-12-13 21:18:01",
+      "created_at": 1765660681000
+    },
+    {
+      "id": 46251684,
+      "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
+      "link": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "score": 282,
+      "author": "t-3",
+      "created": "2025-12-13 03:21:32",
+      "created_at": 1765596092000
+    },
+    {
+      "id": 46257714,
+      "title": "Why Twilio Segment moved from microservices back to a monolith",
+      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "score": 266,
+      "author": "birdculture",
+      "created": "2025-12-13 20:30:34",
+      "created_at": 1765657834000
     }
   ],
   "code": 200,

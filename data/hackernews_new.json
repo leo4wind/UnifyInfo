@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-14T20:12:23.848Z"
+    "lastUpdate": "2025-12-15T00:59:08.750Z"
   },
   "data": [
     {
+      "id": 46267385,
+      "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+      "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
+      "score": 213,
+      "author": "pablo24602",
+      "created": "2025-12-14 21:53:13",
+      "created_at": 1765749193000
+    },
+    {
+      "id": 46266875,
+      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+      "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+      "score": 127,
+      "author": "cdrnsf",
+      "created": "2025-12-14 21:05:13",
+      "created_at": 1765746313000
+    },
+    {
+      "id": 46266102,
+      "title": "JSDoc is TypeScript",
+      "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+      "score": 90,
+      "author": "culi",
+      "created": "2025-12-14 19:42:53",
+      "created_at": 1765741373000
+    },
+    {
+      "id": 46267947,
+      "title": "History of Declarative Programming",
+      "link": "https://shenlanguage.org/TBoS/tbos_15.html",
+      "score": 22,
+      "author": "measurablefunc",
+      "created": "2025-12-14 22:46:01",
+      "created_at": 1765752361000
+    },
+    {
       "id": 46264492,
-      "title": "Hashcards: A Plain-Text Spaced Repetition System",
+      "title": "Hashcards: A plain-text spaced repetition system",
       "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "score": 128,
+      "score": 230,
       "author": "thomascountz",
       "created": "2025-12-14 16:55:29",
       "created_at": 1765731329000
     },
     {
-      "id": 46265015,
-      "title": "The Typeframe PX-88 Portable Computing System",
-      "link": "https://www.typeframe.net/",
-      "score": 46,
-      "author": "birdculture",
-      "created": "2025-12-14 17:43:39",
-      "created_at": 1765734219000
-    },
-    {
-      "id": 46262816,
-      "title": "AI and the ironies of automation – Part 2",
-      "link": "https://www.ufried.com/blog/ironies_of_ai_2/",
-      "score": 168,
-      "author": "BinaryIgor",
-      "created": "2025-12-14 13:19:15",
-      "created_at": 1765718355000
+      "id": 46186914,
+      "title": "An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter",
+      "link": "https://im-just-lee.ing/forth-why-cb234c03.txt",
+      "score": 10,
+      "author": "todsacerdoti",
+      "created": "2025-12-08 00:25:34",
+      "created_at": 1765153534000
     },
     {
       "id": 46264491,
       "title": "Ask HN: What Are You Working On? (December 2025)",
       "link": "",
-      "score": 32,
+      "score": 131,
       "author": "david927",
       "created": "2025-12-14 16:55:25",
       "created_at": 1765731325000
     },
     {
-      "id": 46224303,
-      "title": "Developing a food-safe finish for my wooden spoons",
-      "link": "https://alinpanaitiu.com/blog/developing-hardwax-oil/",
-      "score": 50,
-      "author": "alin23",
-      "created": "2025-12-10 21:44:30",
-      "created_at": 1765403070000
+      "id": 46189905,
+      "title": "In the Beginning was the Command Line (1999)",
+      "link": "https://web.stanford.edu/class/cs81n/command.txt",
+      "score": 82,
+      "author": "wseqyrku",
+      "created": "2025-12-08 08:44:06",
+      "created_at": 1765183446000
     },
     {
-      "id": 46265579,
-      "title": "Stop crawling my HTML you dickheads – use the API",
-      "link": "https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/",
-      "score": 60,
-      "author": "edent",
-      "created": "2025-12-14 18:44:38",
-      "created_at": 1765737878000
+      "id": 46231813,
+      "title": "Interview with Kent Overstreet (Bcachefs) [audio]",
+      "link": "https://linuxunplugged.com/644",
+      "score": 31,
+      "author": "teekert",
+      "created": "2025-12-11 14:29:16",
+      "created_at": 1765463356000
     },
     {
-      "id": 46266094,
-      "title": "Do Dyslexia Fonts Actually Work? (2022)",
-      "link": "https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/",
-      "score": 4,
-      "author": "CharlesW",
-      "created": "2025-12-14 19:41:59",
-      "created_at": 1765741319000
-    },
-    {
-      "id": 46262021,
-      "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
-      "link": "https://trigger.dev/blog/shai-hulud-postmortem",
-      "score": 126,
-      "author": "nkko",
-      "created": "2025-12-14 10:07:00",
-      "created_at": 1765706820000
-    },
-    {
-      "id": 46264704,
-      "title": "GraphQL: The enterprise honeymoon is over",
-      "link": "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over",
-      "score": 69,
-      "author": "johnjames4214",
-      "created": "2025-12-14 17:13:30",
-      "created_at": 1765732410000
-    },
-    {
-      "id": 46265794,
-      "title": "Freakpages",
-      "link": "https://freakpages.org/",
-      "score": 5,
-      "author": "bookofjoe",
-      "created": "2025-12-14 19:07:09",
-      "created_at": 1765739229000
+      "id": 46265015,
+      "title": "The Typeframe PX-88 Portable Computing System",
+      "link": "https://www.typeframe.net/",
+      "score": 88,
+      "author": "birdculture",
+      "created": "2025-12-14 17:43:39",
+      "created_at": 1765734219000
     }
   ],
   "code": 200,
