@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-15T08:19:28.095Z"
+    "lastUpdate": "2025-12-15T12:25:49.266Z"
   },
   "data": [
     {
       "id": 46265362,
       "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
       "link": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
-      "score": 142,
+      "score": 245,
       "author": "MilnerRoute",
       "created": "2025-12-14 18:18:34",
       "created_at": 1765736314000
     },
     {
-      "id": 46270972,
-      "title": "Why proteins fold and how GPUs help us fold",
-      "link": "https://aval.bearblog.dev/nvidiaproteins/",
-      "score": 56,
-      "author": "diginova",
-      "created": "2025-12-15 06:05:35",
-      "created_at": 1765778735000
+      "id": 46272487,
+      "title": "Avoid UUIDv4 Primary Keys",
+      "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
+      "score": 87,
+      "author": "pil0u",
+      "created": "2025-12-15 10:08:02",
+      "created_at": 1765793282000
     },
     {
-      "id": 46270298,
-      "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
-      "link": "https://arborium.bearcove.eu/",
-      "score": 70,
-      "author": "zdw",
-      "created": "2025-12-15 03:57:46",
-      "created_at": 1765771066000
-    },
-    {
-      "id": 46198177,
-      "title": "Running on Empty: Copper",
-      "link": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper",
-      "score": 55,
-      "author": "the-needful",
-      "created": "2025-12-08 21:54:12",
-      "created_at": 1765230852000
-    },
-    {
-      "id": 46264491,
-      "title": "Ask HN: What Are You Working On? (December 2025)",
-      "link": "",
-      "score": 245,
-      "author": "david927",
-      "created": "2025-12-14 16:55:25",
-      "created_at": 1765731325000
-    },
-    {
-      "id": 46211767,
-      "title": "How well do you know C++ auto type deduction?",
-      "link": "https://www.volatileint.dev/posts/auto-type-deduction-gauntlet/",
-      "score": 40,
-      "author": "volatileint",
-      "created": "2025-12-09 22:44:19",
-      "created_at": 1765320259000
+      "id": 46268854,
+      "title": "Roomba maker goes bankrupt, Chinese owner emerges",
+      "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
+      "score": 233,
+      "author": "nreece",
+      "created": "2025-12-15 00:36:44",
+      "created_at": 1765759004000
     },
     {
       "id": 46270282,
       "title": "Unscii",
       "link": "http://viznut.fi/unscii/",
-      "score": 45,
+      "score": 141,
       "author": "Levitating",
       "created": "2025-12-15 03:55:07",
       "created_at": 1765770907000
     },
     {
-      "id": 46270386,
-      "title": "The Whole App is a Blob",
-      "link": "https://drobinin.com/posts/the-whole-app-is-a-blob/",
-      "score": 55,
-      "author": "valzevul",
-      "created": "2025-12-15 04:09:51",
-      "created_at": 1765771791000
+      "id": 46270298,
+      "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
+      "link": "https://arborium.bearcove.eu/",
+      "score": 131,
+      "author": "zdw",
+      "created": "2025-12-15 03:57:46",
+      "created_at": 1765771066000
     },
     {
-      "id": 46269991,
-      "title": "John Varley has died",
-      "link": "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html",
-      "score": 51,
-      "author": "decimalenough",
-      "created": "2025-12-15 03:04:50",
-      "created_at": 1765767890000
+      "id": 46264491,
+      "title": "Ask HN: What Are You Working On? (December 2025)",
+      "link": "",
+      "score": 301,
+      "author": "david927",
+      "created": "2025-12-14 16:55:25",
+      "created_at": 1765731325000
+    },
+    {
+      "id": 46268709,
+      "title": "If AI replaces workers, should it also pay taxes?",
+      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
+      "score": 173,
+      "author": "PaulHoule",
+      "created": "2025-12-15 00:17:02",
+      "created_at": 1765757822000
     },
     {
       "id": 46229030,
       "title": "$5 whale listening hydrophone making workshop",
       "link": "https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/",
-      "score": 5,
+      "score": 44,
       "author": "gsf_emergency_6",
       "created": "2025-12-11 08:42:22",
       "created_at": 1765442542000
+    },
+    {
+      "id": 46177013,
+      "title": "Invader: Where to Spot the 8-Bit Street Art in London",
+      "link": "https://londonist.com/london/art-and-photography/invader-where-to-spot-the-8-bit-street-art-in-london",
+      "score": 6,
+      "author": "zeristor",
+      "created": "2025-12-06 22:10:19",
+      "created_at": 1765059019000
     }
   ],
   "code": 200,

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-15T08:19:26.691Z"
+    "lastUpdate": "2025-12-15T12:25:49.104Z"
   },
   "data": [
     {
       "id": 46262524,
       "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
       "link": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-      "score": 651,
+      "score": 662,
       "author": "Fnoord",
       "created": "2025-12-14 12:15:09",
       "created_at": 1765714509000
@@ -19,7 +19,7 @@
       "id": 46257339,
       "title": "VPN location claims don't match real traffic exits",
       "link": "https://ipinfo.io/blog/vpn-location-mismatch-report",
-      "score": 464,
+      "score": 467,
       "author": "mmaia",
       "created": "2025-12-13 19:46:19",
       "created_at": 1765655179000
@@ -28,16 +28,25 @@
       "id": 46255285,
       "title": "Ask HN: How can I get better at using AI for programming?",
       "link": "",
-      "score": 440,
+      "score": 444,
       "author": "lemonlime227",
       "created": "2025-12-13 15:37:16",
       "created_at": 1765640236000
     },
     {
+      "id": 46264492,
+      "title": "Hashcards: A plain-text spaced repetition system",
+      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "score": 343,
+      "author": "thomascountz",
+      "created": "2025-12-14 16:55:29",
+      "created_at": 1765731329000
+    },
+    {
       "id": 46255991,
       "title": "I tried Gleam for Advent of Code",
       "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "score": 339,
+      "score": 342,
       "author": "tymscar",
       "created": "2025-12-13 17:00:14",
       "created_at": 1765645214000
@@ -46,34 +55,34 @@
       "id": 46259064,
       "title": "Linux Sandboxes and Fil-C",
       "link": "https://fil-c.org/seccomp",
-      "score": 333,
+      "score": 336,
       "author": "pizlonator",
       "created": "2025-12-13 22:58:29",
       "created_at": 1765666709000
     },
     {
-      "id": 46264492,
-      "title": "Hashcards: A plain-text spaced repetition system",
-      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "score": 309,
-      "author": "thomascountz",
-      "created": "2025-12-14 16:55:29",
-      "created_at": 1765731329000
-    },
-    {
       "id": 46267385,
       "title": "Elevated errors across many models",
       "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
-      "score": 295,
+      "score": 303,
       "author": "pablo24602",
       "created": "2025-12-14 21:53:13",
       "created_at": 1765749193000
     },
     {
+      "id": 46264491,
+      "title": "Ask HN: What Are You Working On? (December 2025)",
+      "link": "",
+      "score": 301,
+      "author": "david927",
+      "created": "2025-12-14 16:55:25",
+      "created_at": 1765731325000
+    },
+    {
       "id": 46258163,
       "title": "Recovering Anthony Bourdain's Li.st's",
       "link": "https://sandyuraz.com/blogs/bourdain/",
-      "score": 294,
+      "score": 296,
       "author": "thecsw",
       "created": "2025-12-13 21:18:01",
       "created_at": 1765660681000
@@ -82,19 +91,10 @@
       "id": 46257607,
       "title": "I fed 24 years of my blog posts to a Markov model",
       "link": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
-      "score": 294,
+      "score": 296,
       "author": "zdw",
       "created": "2025-12-13 20:19:53",
       "created_at": 1765657193000
-    },
-    {
-      "id": 46257714,
-      "title": "Why Twilio Segment moved from microservices back to a monolith",
-      "link": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
-      "score": 271,
-      "author": "birdculture",
-      "created": "2025-12-13 20:30:34",
-      "created_at": 1765657834000
     }
   ],
   "code": 200,
