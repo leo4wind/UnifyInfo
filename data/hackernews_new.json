@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-15T00:59:08.750Z"
+    "lastUpdate": "2025-12-15T04:32:17.378Z"
   },
   "data": [
     {
+      "id": 46178966,
+      "title": "Rio de Janeiro's talipot palm trees bloom for the first and only time",
+      "link": "https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html",
+      "score": 42,
+      "author": "1659447091",
+      "created": "2025-12-07 03:42:37",
+      "created_at": 1765078957000
+    },
+    {
+      "id": 46264491,
+      "title": "Ask HN: What Are You Working On? (December 2025)",
+      "link": "",
+      "score": 195,
+      "author": "david927",
+      "created": "2025-12-14 16:55:25",
+      "created_at": 1765731325000
+    },
+    {
+      "id": 46268869,
+      "title": "CapROS: Capability-Based Reliable Operating System",
+      "link": "https://www.capros.org/",
+      "score": 53,
+      "author": "gjvc",
+      "created": "2025-12-15 00:39:31",
+      "created_at": 1765759171000
+    },
+    {
+      "id": 46270298,
+      "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
+      "link": "https://arborium.bearcove.eu/",
+      "score": 5,
+      "author": "zdw",
+      "created": "2025-12-15 03:57:46",
+      "created_at": 1765771066000
+    },
+    {
       "id": 46267385,
-      "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+      "title": "Elevated errors across many models",
       "link": "https://status.claude.com/incidents/9g6qpr72ttbr",
-      "score": 213,
+      "score": 277,
       "author": "pablo24602",
       "created": "2025-12-14 21:53:13",
       "created_at": 1765749193000
     },
     {
-      "id": 46266875,
-      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
-      "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
-      "score": 127,
-      "author": "cdrnsf",
-      "created": "2025-12-14 21:05:13",
-      "created_at": 1765746313000
-    },
-    {
       "id": 46266102,
       "title": "JSDoc is TypeScript",
       "link": "https://culi.bearblog.dev/jsdoc-is-typescript/",
-      "score": 90,
+      "score": 128,
       "author": "culi",
       "created": "2025-12-14 19:42:53",
       "created_at": 1765741373000
     },
     {
-      "id": 46267947,
-      "title": "History of Declarative Programming",
-      "link": "https://shenlanguage.org/TBoS/tbos_15.html",
-      "score": 22,
-      "author": "measurablefunc",
-      "created": "2025-12-14 22:46:01",
-      "created_at": 1765752361000
-    },
-    {
       "id": 46264492,
       "title": "Hashcards: A plain-text spaced repetition system",
       "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "score": 230,
+      "score": 272,
       "author": "thomascountz",
       "created": "2025-12-14 16:55:29",
       "created_at": 1765731329000
     },
     {
       "id": 46186914,
-      "title": "An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter",
+      "title": "An attempt to articulate Forth's practical strengths and eternal usefulness",
       "link": "https://im-just-lee.ing/forth-why-cb234c03.txt",
-      "score": 10,
+      "score": 33,
       "author": "todsacerdoti",
       "created": "2025-12-08 00:25:34",
       "created_at": 1765153534000
     },
     {
-      "id": 46264491,
-      "title": "Ask HN: What Are You Working On? (December 2025)",
-      "link": "",
-      "score": 131,
-      "author": "david927",
-      "created": "2025-12-14 16:55:25",
-      "created_at": 1765731325000
-    },
-    {
       "id": 46189905,
       "title": "In the Beginning was the Command Line (1999)",
       "link": "https://web.stanford.edu/class/cs81n/command.txt",
-      "score": 82,
+      "score": 112,
       "author": "wseqyrku",
       "created": "2025-12-08 08:44:06",
       "created_at": 1765183446000
     },
     {
-      "id": 46231813,
-      "title": "Interview with Kent Overstreet (Bcachefs) [audio]",
-      "link": "https://linuxunplugged.com/644",
-      "score": 31,
-      "author": "teekert",
-      "created": "2025-12-11 14:29:16",
-      "created_at": 1765463356000
-    },
-    {
-      "id": 46265015,
-      "title": "The Typeframe PX-88 Portable Computing System",
-      "link": "https://www.typeframe.net/",
-      "score": 88,
-      "author": "birdculture",
-      "created": "2025-12-14 17:43:39",
-      "created_at": 1765734219000
+      "id": 46266875,
+      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+      "link": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+      "score": 173,
+      "author": "cdrnsf",
+      "created": "2025-12-14 21:05:13",
+      "created_at": 1765746313000
     }
   ],
   "code": 200,
