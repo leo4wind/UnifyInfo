@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-15T20:13:55.135Z"
+    "lastUpdate": "2025-12-16T00:57:21.843Z"
   },
   "data": [
     {
-      "id": 46279123,
-      "title": "“Super secure” MAGA-themed messaging app leaks everyone's phone number",
-      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "score": 162,
-      "author": "e_daigle",
-      "created": "2025-12-15 19:23:51",
-      "created_at": 1765826631000
+      "id": 46281060,
+      "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+      "link": "https://johnlian.net/posts/hdmi-cec/",
+      "score": 148,
+      "author": "jlian",
+      "created": "2025-12-15 21:37:09",
+      "created_at": 1765834629000
     },
     {
-      "id": 46278857,
-      "title": "D-Bus is a disgrace to the Linux desktop",
-      "link": "https://blog.vaxry.net/articles/2025-dbusSucks",
-      "score": 129,
-      "author": "LorenDB",
-      "created": "2025-12-15 19:07:10",
-      "created_at": 1765825630000
+      "id": 46225803,
+      "title": "Nature's many attempts to evolve a Nostr",
+      "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+      "score": 66,
+      "author": "fiatjaf",
+      "created": "2025-12-10 23:54:34",
+      "created_at": 1765410874000
     },
     {
-      "id": 46279053,
-      "title": "United 777-200 fleet faces an uncertain future after Dulles engine failure",
-      "link": "https://liveandletsfly.com/united-airlines-777-200-future/",
-      "score": 48,
-      "author": "makaimc",
-      "created": "2025-12-15 19:19:23",
-      "created_at": 1765826363000
+      "id": 46241500,
+      "title": "“Are you the one?” is free money",
+      "link": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
+      "score": 144,
+      "author": "samwho",
+      "created": "2025-12-12 06:47:45",
+      "created_at": 1765522065000
     },
     {
-      "id": 46274822,
-      "title": "Carrier Landing in Top Gun for the NES",
-      "link": "https://relaxing.run/blag/posts/top-gun-landing/",
-      "score": 304,
-      "author": "todsacerdoti",
-      "created": "2025-12-15 14:16:32",
-      "created_at": 1765808192000
+      "id": 46283129,
+      "title": "Ideas Aren't Getting Harder to Find",
+      "link": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+      "score": 6,
+      "author": "mitchbob",
+      "created": "2025-12-16 00:34:35",
+      "created_at": 1765845275000
+    },
+    {
+      "id": 46225950,
+      "title": "Understanding Carriage",
+      "link": "https://seths.blog/2025/12/understanding-carriage/",
+      "score": 9,
+      "author": "herbertl",
+      "created": "2025-12-11 00:11:32",
+      "created_at": 1765411892000
     },
     {
       "id": 46279187,
       "title": "Umbrel – Personal Cloud",
       "link": "https://umbrel.com",
-      "score": 31,
+      "score": 127,
       "author": "oldfuture",
       "created": "2025-12-15 19:27:08",
       "created_at": 1765826828000
     },
     {
-      "id": 46279241,
-      "title": "Upcoming Changes to Let's Encrypt Certificates",
-      "link": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
-      "score": 11,
-      "author": "schmuckonwheels",
-      "created": "2025-12-15 19:30:22",
-      "created_at": 1765827022000
-    },
-    {
-      "id": 46277090,
-      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
-      "link": "https://www.science.org/doi/10.1126/sciadv.adx7892",
-      "score": 49,
-      "author": "toomuchtodo",
-      "created": "2025-12-15 17:01:42",
-      "created_at": 1765818102000
-    },
-    {
       "id": 46256643,
       "title": "Essential Semiconductor Physics [pdf]",
       "link": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
-      "score": 21,
+      "score": 94,
       "author": "akshatjiwan",
       "created": "2025-12-13 18:19:51",
       "created_at": 1765649991000
     },
     {
-      "id": 46248294,
-      "title": "In Defense of Matlab Code",
-      "link": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code",
-      "score": 23,
-      "author": "finbarr1987",
-      "created": "2025-12-12 20:13:26",
-      "created_at": 1765570406000
+      "id": 46280465,
+      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
+      "link": "https://questdb.com/blog/async-profiler-kernel-bug/",
+      "score": 42,
+      "author": "bluestreak",
+      "created": "2025-12-15 20:52:35",
+      "created_at": 1765831955000
     },
     {
-      "id": 46272487,
-      "title": "Avoid UUID Version 4 Primary Keys in Postgres",
-      "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
-      "score": 281,
-      "author": "pil0u",
-      "created": "2025-12-15 10:08:02",
-      "created_at": 1765793282000
+      "id": 46281944,
+      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+      "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+      "score": 75,
+      "author": "divbzero",
+      "created": "2025-12-15 22:48:56",
+      "created_at": 1765838936000
+    },
+    {
+      "id": 46283016,
+      "title": "Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders",
+      "link": "https://quill-os.org/",
+      "score": 3,
+      "author": "Curiositry",
+      "created": "2025-12-16 00:22:41",
+      "created_at": 1765844561000
     }
   ],
   "code": 200,
