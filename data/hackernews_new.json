@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-16T16:16:35.632Z"
+    "lastUpdate": "2025-12-16T20:14:37.666Z"
   },
   "data": [
     {
-      "id": 46288371,
-      "title": "This is not the future",
-      "link": "https://blog.mathieui.net/this-is-not-the-future.html",
-      "score": 436,
-      "author": "ericdanielski",
-      "created": "2025-12-16 13:42:24",
-      "created_at": 1765892544000
+      "id": 46290916,
+      "title": "alpr.watch",
+      "link": "https://alpr.watch/",
+      "score": 367,
+      "author": "theamk",
+      "created": "2025-12-16 16:54:19",
+      "created_at": 1765904059000
+    },
+    {
+      "id": 46293062,
+      "title": "No Graphics API",
+      "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "score": 76,
+      "author": "ryandrake",
+      "created": "2025-12-16 19:20:17",
+      "created_at": 1765912817000
     },
     {
       "id": 46288415,
       "title": "40 percent of fMRI signals do not correspond to actual brain activity",
       "link": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
-      "score": 153,
+      "score": 319,
       "author": "geox",
       "created": "2025-12-16 13:46:57",
       "created_at": 1765892817000
     },
     {
-      "id": 46256504,
-      "title": "Purrtran – ᓚᘏᗢ – A Programming Language for Cat People",
-      "link": "https://github.com/cmontella/purrtran",
-      "score": 67,
-      "author": "simonpure",
-      "created": "2025-12-13 18:02:46",
-      "created_at": 1765648966000
+      "id": 46288491,
+      "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
+      "link": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+      "score": 277,
+      "author": "recvonline",
+      "created": "2025-12-16 13:53:14",
+      "created_at": 1765893194000
     },
     {
-      "id": 46288291,
-      "title": "Rust GCC back end: Why and how",
-      "link": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
-      "score": 63,
-      "author": "ahlCVA",
-      "created": "2025-12-16 13:33:25",
-      "created_at": 1765892005000
+      "id": 46291941,
+      "title": "GPT Image 1.5",
+      "link": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "score": 61,
+      "author": "charlierguo",
+      "created": "2025-12-16 18:07:07",
+      "created_at": 1765908427000
     },
     {
-      "id": 46276826,
-      "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
-      "link": "https://ashvardanian.com/posts/search-utf8/",
-      "score": 95,
-      "author": "ashvardanian",
-      "created": "2025-12-15 16:42:55",
-      "created_at": 1765816975000
+      "id": 46282874,
+      "title": "The World Happiness Report is beset with methodological problems",
+      "link": "https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham",
+      "score": 39,
+      "author": "thatoneengineer",
+      "created": "2025-12-16 00:06:49",
+      "created_at": 1765843609000
+    },
+    {
+      "id": 46289918,
+      "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
+      "link": "https://kemble.net/blog/provoke/",
+      "score": 16,
+      "author": "tempodox",
+      "created": "2025-12-16 15:41:47",
+      "created_at": 1765899707000
+    },
+    {
+      "id": 46291414,
+      "title": "GitHub will begin charging for self-hosted action runners on March 2026",
+      "link": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/",
+      "score": 212,
+      "author": "nklow",
+      "created": "2025-12-16 17:32:38",
+      "created_at": 1765906358000
+    },
+    {
+      "id": 46291172,
+      "title": "FVWM-95",
+      "link": "https://fvwm95.sourceforge.net/",
+      "score": 89,
+      "author": "mghackerlady",
+      "created": "2025-12-16 17:13:07",
+      "created_at": 1765905187000
     },
     {
       "id": 46288024,
       "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
       "link": "https://gamehistory.org/segachannel/",
-      "score": 66,
+      "score": 162,
       "author": "wicket",
       "created": "2025-12-16 13:07:14",
       "created_at": 1765890434000
-    },
-    {
-      "id": 46288351,
-      "title": "I don't think Lindley's paradox supports p-circling",
-      "link": "https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/",
-      "score": 28,
-      "author": "speckx",
-      "created": "2025-12-16 13:40:02",
-      "created_at": 1765892402000
-    },
-    {
-      "id": 46284658,
-      "title": "SHARP, an approach to photorealistic view synthesis from a single image",
-      "link": "https://apple.github.io/ml-sharp/",
-      "score": 422,
-      "author": "dvrp",
-      "created": "2025-12-16 04:06:51",
-      "created_at": 1765858011000
-    },
-    {
-      "id": 46288286,
-      "title": "Put a ring on it: a lock-free MPMC ring buffer",
-      "link": "https://h4x0r.org/ring/",
-      "score": 41,
-      "author": "signa11",
-      "created": "2025-12-16 13:32:42",
-      "created_at": 1765891962000
-    },
-    {
-      "id": 46285376,
-      "title": "Children with cancer scammed out of millions fundraised for their treatment",
-      "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "score": 469,
-      "author": "1659447091",
-      "created": "2025-12-16 06:17:37",
-      "created_at": 1765865857000
     }
   ],
   "code": 200,
