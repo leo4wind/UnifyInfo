@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-16T12:24:40.506Z"
+    "lastUpdate": "2025-12-16T16:16:35.632Z"
   },
   "data": [
     {
-      "id": 46284658,
-      "title": "SHARP, an approach to photorealistic view synthesis from a single image",
-      "link": "https://apple.github.io/ml-sharp/",
-      "score": 355,
-      "author": "dvrp",
-      "created": "2025-12-16 04:06:51",
-      "created_at": 1765858011000
+      "id": 46288371,
+      "title": "This is not the future",
+      "link": "https://blog.mathieui.net/this-is-not-the-future.html",
+      "score": 436,
+      "author": "ericdanielski",
+      "created": "2025-12-16 13:42:24",
+      "created_at": 1765892544000
     },
     {
-      "id": 46286407,
-      "title": "A2UI: A Protocol for Agent-Driven Interfaces",
-      "link": "https://a2ui.org/",
-      "score": 45,
-      "author": "makeramen",
-      "created": "2025-12-16 09:16:31",
-      "created_at": 1765876591000
+      "id": 46288415,
+      "title": "40 percent of fMRI signals do not correspond to actual brain activity",
+      "link": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
+      "score": 153,
+      "author": "geox",
+      "created": "2025-12-16 13:46:57",
+      "created_at": 1765892817000
     },
     {
-      "id": 46285376,
-      "title": "Children with cancer scammed out of millions fundraised for their treatment",
-      "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "score": 290,
-      "author": "1659447091",
-      "created": "2025-12-16 06:17:37",
-      "created_at": 1765865857000
+      "id": 46256504,
+      "title": "Purrtran – ᓚᘏᗢ – A Programming Language for Cat People",
+      "link": "https://github.com/cmontella/purrtran",
+      "score": 67,
+      "author": "simonpure",
+      "created": "2025-12-13 18:02:46",
+      "created_at": 1765648966000
     },
     {
-      "id": 46283016,
-      "title": "Quill OS: An open-source OS for Kobo's eReaders",
-      "link": "https://quill-os.org/",
-      "score": 312,
-      "author": "Curiositry",
-      "created": "2025-12-16 00:22:41",
-      "created_at": 1765844561000
-    },
-    {
-      "id": 46285319,
-      "title": "Bonsai: A Voxel Engine, from scratch",
-      "link": "https://github.com/scallyw4g/bonsai",
-      "score": 93,
-      "author": "jesse__",
-      "created": "2025-12-16 06:06:43",
-      "created_at": 1765865203000
+      "id": 46288291,
+      "title": "Rust GCC back end: Why and how",
+      "link": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
+      "score": 63,
+      "author": "ahlCVA",
+      "created": "2025-12-16 13:33:25",
+      "created_at": 1765892005000
     },
     {
       "id": 46276826,
       "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
       "link": "https://ashvardanian.com/posts/search-utf8/",
-      "score": 4,
+      "score": 95,
       "author": "ashvardanian",
       "created": "2025-12-15 16:42:55",
       "created_at": 1765816975000
     },
     {
-      "id": 46285535,
-      "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
-      "link": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
-      "score": 72,
-      "author": "romanfll",
-      "created": "2025-12-16 06:47:09",
-      "created_at": 1765867629000
+      "id": 46288024,
+      "title": "Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)",
+      "link": "https://gamehistory.org/segachannel/",
+      "score": 66,
+      "author": "wicket",
+      "created": "2025-12-16 13:07:14",
+      "created_at": 1765890434000
     },
     {
-      "id": 46284897,
-      "title": "Erdős Problem #1026",
-      "link": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
-      "score": 109,
-      "author": "tzury",
-      "created": "2025-12-16 04:49:03",
-      "created_at": 1765860543000
+      "id": 46288351,
+      "title": "I don't think Lindley's paradox supports p-circling",
+      "link": "https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/",
+      "score": 28,
+      "author": "speckx",
+      "created": "2025-12-16 13:40:02",
+      "created_at": 1765892402000
     },
     {
-      "id": 46221016,
-      "title": "Internal RFCs saved us months of wasted work",
-      "link": "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding",
-      "score": 50,
-      "author": "romannikolaev",
-      "created": "2025-12-10 17:57:43",
-      "created_at": 1765389463000
+      "id": 46284658,
+      "title": "SHARP, an approach to photorealistic view synthesis from a single image",
+      "link": "https://apple.github.io/ml-sharp/",
+      "score": 422,
+      "author": "dvrp",
+      "created": "2025-12-16 04:06:51",
+      "created_at": 1765858011000
+    },
+    {
+      "id": 46288286,
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "link": "https://h4x0r.org/ring/",
+      "score": 41,
+      "author": "signa11",
+      "created": "2025-12-16 13:32:42",
+      "created_at": 1765891962000
+    },
+    {
+      "id": 46285376,
+      "title": "Children with cancer scammed out of millions fundraised for their treatment",
+      "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
+      "score": 469,
+      "author": "1659447091",
+      "created": "2025-12-16 06:17:37",
+      "created_at": 1765865857000
     }
   ],
   "code": 200,
