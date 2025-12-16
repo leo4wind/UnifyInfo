@@ -3,32 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-16T08:18:23.256Z"
+    "lastUpdate": "2025-12-16T12:24:40.462Z"
   },
   "data": [
     {
       "id": 46284658,
       "title": "SHARP, an approach to photorealistic view synthesis from a single image",
       "link": "https://apple.github.io/ml-sharp/",
-      "score": 255,
+      "score": 355,
       "author": "dvrp",
       "created": "2025-12-16 04:06:51",
       "created_at": 1765858011000
     },
     {
+      "id": 46286407,
+      "title": "A2UI: A Protocol for Agent-Driven Interfaces",
+      "link": "https://a2ui.org/",
+      "score": 45,
+      "author": "makeramen",
+      "created": "2025-12-16 09:16:31",
+      "created_at": 1765876591000
+    },
+    {
       "id": 46285376,
       "title": "Children with cancer scammed out of millions fundraised for their treatment",
       "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "score": 80,
+      "score": 290,
       "author": "1659447091",
       "created": "2025-12-16 06:17:37",
       "created_at": 1765865857000
     },
     {
+      "id": 46283016,
+      "title": "Quill OS: An open-source OS for Kobo's eReaders",
+      "link": "https://quill-os.org/",
+      "score": 312,
+      "author": "Curiositry",
+      "created": "2025-12-16 00:22:41",
+      "created_at": 1765844561000
+    },
+    {
+      "id": 46285319,
+      "title": "Bonsai: A Voxel Engine, from scratch",
+      "link": "https://github.com/scallyw4g/bonsai",
+      "score": 93,
+      "author": "jesse__",
+      "created": "2025-12-16 06:06:43",
+      "created_at": 1765865203000
+    },
+    {
+      "id": 46276826,
+      "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
+      "link": "https://ashvardanian.com/posts/search-utf8/",
+      "score": 4,
+      "author": "ashvardanian",
+      "created": "2025-12-15 16:42:55",
+      "created_at": 1765816975000
+    },
+    {
       "id": 46285535,
       "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
       "link": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
-      "score": 30,
+      "score": 72,
       "author": "romanfll",
       "created": "2025-12-16 06:47:09",
       "created_at": 1765867629000
@@ -37,64 +73,19 @@
       "id": 46284897,
       "title": "Erdős Problem #1026",
       "link": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
-      "score": 62,
+      "score": 109,
       "author": "tzury",
       "created": "2025-12-16 04:49:03",
       "created_at": 1765860543000
     },
     {
-      "id": 46283016,
-      "title": "Quill OS: An open-source OS for Kobo's eReaders",
-      "link": "https://quill-os.org/",
-      "score": 238,
-      "author": "Curiositry",
-      "created": "2025-12-16 00:22:41",
-      "created_at": 1765844561000
-    },
-    {
-      "id": 46281944,
-      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
-      "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
-      "score": 230,
-      "author": "divbzero",
-      "created": "2025-12-15 22:48:56",
-      "created_at": 1765838936000
-    },
-    {
-      "id": 46235699,
-      "title": "Creating C closures from Lua closures",
-      "link": "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html",
-      "score": 17,
-      "author": "publicdebates",
-      "created": "2025-12-11 19:08:33",
-      "created_at": 1765480113000
-    },
-    {
-      "id": 46285448,
-      "title": "O'saasy License Agreement",
-      "link": "https://osaasy.dev/",
-      "score": 20,
-      "author": "d3w1tt",
-      "created": "2025-12-16 06:29:02",
-      "created_at": 1765866542000
-    },
-    {
-      "id": 46285319,
-      "title": "Bonsai: A Voxel Engine, from scratch",
-      "link": "https://github.com/scallyw4g/bonsai",
-      "score": 13,
-      "author": "jesse__",
-      "created": "2025-12-16 06:06:43",
-      "created_at": 1765865203000
-    },
-    {
-      "id": 46284266,
-      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
-      "link": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "score": 401,
-      "author": "takira",
-      "created": "2025-12-16 03:03:49",
-      "created_at": 1765854229000
+      "id": 46221016,
+      "title": "Internal RFCs saved us months of wasted work",
+      "link": "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding",
+      "score": 50,
+      "author": "romannikolaev",
+      "created": "2025-12-10 17:57:43",
+      "created_at": 1765389463000
     }
   ],
   "code": 200,
