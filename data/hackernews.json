@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-16T00:57:21.666Z"
+    "lastUpdate": "2025-12-16T04:28:15.765Z"
   },
   "data": [
     {
       "id": 46262524,
       "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
       "link": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-      "score": 683,
+      "score": 686,
       "author": "Fnoord",
       "created": "2025-12-14 12:15:09",
       "created_at": 1765714509000
@@ -19,7 +19,7 @@
       "id": 46268854,
       "title": "Roomba maker goes bankrupt, Chinese owner emerges",
       "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
-      "score": 620,
+      "score": 627,
       "author": "nreece",
       "created": "2025-12-15 00:36:44",
       "created_at": 1765759004000
@@ -28,34 +28,34 @@
       "id": 46273466,
       "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
       "link": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
-      "score": 527,
+      "score": 596,
       "author": "florian_s",
       "created": "2025-12-15 12:12:24",
       "created_at": 1765800744000
     },
     {
-      "id": 46268709,
-      "title": "If AI replaces workers, should it also pay taxes?",
-      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
-      "score": 526,
-      "author": "PaulHoule",
-      "created": "2025-12-15 00:17:02",
-      "created_at": 1765757822000
-    },
-    {
       "id": 46279123,
       "title": "“Super secure” messaging app leaks everyone's phone number",
       "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "score": 496,
+      "score": 538,
       "author": "e_daigle",
       "created": "2025-12-15 19:23:51",
       "created_at": 1765826631000
     },
     {
+      "id": 46268709,
+      "title": "If AI replaces workers, should it also pay taxes?",
+      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
+      "score": 534,
+      "author": "PaulHoule",
+      "created": "2025-12-15 00:17:02",
+      "created_at": 1765757822000
+    },
+    {
       "id": 46265362,
       "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
       "link": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
-      "score": 415,
+      "score": 416,
       "author": "MilnerRoute",
       "created": "2025-12-14 18:18:34",
       "created_at": 1765736314000
@@ -64,7 +64,7 @@
       "id": 46276740,
       "title": "Pro-democracy HK tycoon Jimmy Lai convicted in national security trial",
       "link": "https://www.bbc.com/news/articles/cp844kjj37vo",
-      "score": 403,
+      "score": 413,
       "author": "onemoresoop",
       "created": "2025-12-15 16:36:19",
       "created_at": 1765816579000
@@ -73,28 +73,28 @@
       "id": 46264491,
       "title": "Ask HN: What Are You Working On? (December 2025)",
       "link": "",
-      "score": 388,
+      "score": 405,
       "author": "david927",
       "created": "2025-12-14 16:55:25",
       "created_at": 1765731325000
     },
     {
-      "id": 46264492,
-      "title": "Hashcards: A plain-text spaced repetition system",
-      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "score": 378,
-      "author": "thomascountz",
-      "created": "2025-12-14 16:55:29",
-      "created_at": 1765731329000
-    },
-    {
       "id": 46275079,
       "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
       "link": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
-      "score": 375,
+      "score": 389,
       "author": "bikenaga",
       "created": "2025-12-15 14:37:12",
       "created_at": 1765809432000
+    },
+    {
+      "id": 46264492,
+      "title": "Hashcards: A plain-text spaced repetition system",
+      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "score": 379,
+      "author": "thomascountz",
+      "created": "2025-12-14 16:55:29",
+      "created_at": 1765731329000
     }
   ],
   "code": 200,

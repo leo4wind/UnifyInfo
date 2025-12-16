@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-16T00:57:21.808Z"
+    "lastUpdate": "2025-12-16T04:28:15.918Z"
   },
   "data": [
     {
-      "id": 46281060,
-      "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
-      "link": "https://johnlian.net/posts/hdmi-cec/",
-      "score": 148,
-      "author": "jlian",
-      "created": "2025-12-15 21:37:09",
-      "created_at": 1765834629000
+      "id": 46284266,
+      "title": "8M Users' AI Conversations Sold for Profit by \"Privacy\" Extensions",
+      "link": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+      "score": 140,
+      "author": "takira",
+      "created": "2025-12-16 03:03:49",
+      "created_at": 1765854229000
+    },
+    {
+      "id": 46283016,
+      "title": "Quill OS is an open-source, fully-functional standalone OS for Kobo's eReaders",
+      "link": "https://quill-os.org/",
+      "score": 143,
+      "author": "Curiositry",
+      "created": "2025-12-16 00:22:41",
+      "created_at": 1765844561000
+    },
+    {
+      "id": 46282679,
+      "title": "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
+      "link": "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/",
+      "score": 27,
+      "author": "geekman7473",
+      "created": "2025-12-15 23:47:37",
+      "created_at": 1765842457000
     },
     {
       "id": 46225803,
       "title": "Nature's many attempts to evolve a Nostr",
       "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
-      "score": 66,
+      "score": 138,
       "author": "fiatjaf",
       "created": "2025-12-10 23:54:34",
       "created_at": 1765410874000
@@ -28,73 +46,55 @@
       "id": 46241500,
       "title": "“Are you the one?” is free money",
       "link": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
-      "score": 144,
+      "score": 215,
       "author": "samwho",
       "created": "2025-12-12 06:47:45",
       "created_at": 1765522065000
     },
     {
-      "id": 46283129,
-      "title": "Ideas Aren't Getting Harder to Find",
-      "link": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
-      "score": 6,
-      "author": "mitchbob",
-      "created": "2025-12-16 00:34:35",
-      "created_at": 1765845275000
-    },
-    {
-      "id": 46225950,
-      "title": "Understanding Carriage",
-      "link": "https://seths.blog/2025/12/understanding-carriage/",
-      "score": 9,
-      "author": "herbertl",
-      "created": "2025-12-11 00:11:32",
-      "created_at": 1765411892000
-    },
-    {
-      "id": 46279187,
-      "title": "Umbrel – Personal Cloud",
-      "link": "https://umbrel.com",
-      "score": 127,
-      "author": "oldfuture",
-      "created": "2025-12-15 19:27:08",
-      "created_at": 1765826828000
-    },
-    {
       "id": 46256643,
       "title": "Essential Semiconductor Physics [pdf]",
       "link": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
-      "score": 94,
+      "score": 132,
       "author": "akshatjiwan",
       "created": "2025-12-13 18:19:51",
       "created_at": 1765649991000
     },
     {
-      "id": 46280465,
-      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
-      "link": "https://questdb.com/blog/async-profiler-kernel-bug/",
-      "score": 42,
-      "author": "bluestreak",
-      "created": "2025-12-15 20:52:35",
-      "created_at": 1765831955000
+      "id": 46279187,
+      "title": "Umbrel – Personal Cloud",
+      "link": "https://umbrel.com",
+      "score": 147,
+      "author": "oldfuture",
+      "created": "2025-12-15 19:27:08",
+      "created_at": 1765826828000
     },
     {
-      "id": 46281944,
-      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
-      "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
-      "score": 75,
-      "author": "divbzero",
-      "created": "2025-12-15 22:48:56",
-      "created_at": 1765838936000
+      "id": 46281288,
+      "title": "Economics of Orbital vs. Terrestrial Data Centers",
+      "link": "https://andrewmccalip.com/space-datacenters",
+      "score": 57,
+      "author": "flinner",
+      "created": "2025-12-15 21:56:03",
+      "created_at": 1765835763000
     },
     {
-      "id": 46283016,
-      "title": "Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders",
-      "link": "https://quill-os.org/",
-      "score": 3,
-      "author": "Curiositry",
-      "created": "2025-12-16 00:22:41",
-      "created_at": 1765844561000
+      "id": 46282984,
+      "title": "The Bob Dylan concert for just one person",
+      "link": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
+      "score": 48,
+      "author": "NaOH",
+      "created": "2025-12-16 00:18:58",
+      "created_at": 1765844338000
+    },
+    {
+      "id": 46281182,
+      "title": "Ford kills the All-Electric F-150",
+      "link": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+      "score": 257,
+      "author": "sacred-rat",
+      "created": "2025-12-15 21:46:53",
+      "created_at": 1765835213000
     }
   ],
   "code": 200,
