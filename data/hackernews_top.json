@@ -3,32 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-17T12:23:58.451Z"
+    "lastUpdate": "2025-12-17T16:15:59.372Z"
   },
   "data": [
     {
-      "id": 46299934,
-      "title": "Is Mozilla trying hard to kill itself?",
-      "link": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
-      "score": 357,
-      "author": "pabs3",
-      "created": "2025-12-17 09:37:24",
-      "created_at": 1765964244000
+      "id": 46301346,
+      "title": "Coursera to combine with Udemy",
+      "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+      "score": 83,
+      "author": "throwaway019254",
+      "created": "2025-12-17 12:45:40",
+      "created_at": 1765975540000
+    },
+    {
+      "id": 46301696,
+      "title": "Learning the oldest programming language (2024)",
+      "link": "https://uncenter.dev/posts/learning-fortran/",
+      "score": 9,
+      "author": "lioeters",
+      "created": "2025-12-17 13:25:06",
+      "created_at": 1765977906000
     },
     {
       "id": 46294574,
       "title": "AI will make formal verification go mainstream",
       "link": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "score": 675,
+      "score": 695,
       "author": "evankhoury",
       "created": "2025-12-16 21:14:49",
       "created_at": 1765919689000
     },
     {
+      "id": 46299934,
+      "title": "Is Mozilla trying hard to kill itself?",
+      "link": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
+      "score": 483,
+      "author": "pabs3",
+      "created": "2025-12-17 09:37:24",
+      "created_at": 1765964244000
+    },
+    {
       "id": 46299389,
       "title": "TLA+ Modeling Tips",
       "link": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
-      "score": 49,
+      "score": 60,
       "author": "birdculture",
       "created": "2025-12-17 08:05:30",
       "created_at": 1765958730000
@@ -37,25 +55,16 @@
       "id": 46290916,
       "title": "alpr.watch",
       "link": "https://alpr.watch/",
-      "score": 810,
+      "score": 826,
       "author": "theamk",
       "created": "2025-12-16 16:54:19",
       "created_at": 1765904059000
     },
     {
-      "id": 46299552,
-      "title": "AI's real superpower: consuming, not creating",
-      "link": "https://msanroman.io/blog/ai-consumption-paradigm",
-      "score": 43,
-      "author": "firefoxd",
-      "created": "2025-12-17 08:34:00",
-      "created_at": 1765960440000
-    },
-    {
       "id": 46293062,
       "title": "No Graphics API",
       "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "score": 685,
+      "score": 710,
       "author": "ryandrake",
       "created": "2025-12-16 19:20:17",
       "created_at": 1765912817000
@@ -64,25 +73,16 @@
       "id": 46294289,
       "title": "Announcing the Beta release of ty",
       "link": "https://astral.sh/blog/ty",
-      "score": 651,
+      "score": 684,
       "author": "gavide",
       "created": "2025-12-16 20:52:45",
       "created_at": 1765918365000
     },
     {
-      "id": 46255746,
-      "title": "Playing Santa changed Bob Rutan profoundly",
-      "link": "https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/",
-      "score": 23,
-      "author": "Lightbody",
-      "created": "2025-12-13 16:30:01",
-      "created_at": 1765643401000
-    },
-    {
       "id": 46260485,
       "title": "Modern SID chip substitutes [video]",
       "link": "https://www.youtube.com/watch?v=nooPmXxO6K0",
-      "score": 13,
+      "score": 27,
       "author": "vismit2000",
       "created": "2025-12-14 03:17:11",
       "created_at": 1765682231000
@@ -91,7 +91,7 @@
       "id": 46295268,
       "title": "No AI* Here – A Response to Mozilla's Next Chapter",
       "link": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
-      "score": 378,
+      "score": 401,
       "author": "MrAlex94",
       "created": "2025-12-16 22:07:49",
       "created_at": 1765922869000
