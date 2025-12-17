@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-17T00:53:11.457Z"
+    "lastUpdate": "2025-12-17T04:24:39.380Z"
   },
   "data": [
     {
       "id": 46294574,
       "title": "AI will make formal verification go mainstream",
       "link": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "score": 265,
+      "score": 412,
       "author": "evankhoury",
       "created": "2025-12-16 21:14:49",
       "created_at": 1765919689000
     },
     {
-      "id": 46293062,
-      "title": "No Graphics API",
-      "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "score": 388,
-      "author": "ryandrake",
-      "created": "2025-12-16 19:20:17",
-      "created_at": 1765912817000
-    },
-    {
       "id": 46290916,
       "title": "alpr.watch",
       "link": "https://alpr.watch/",
-      "score": 600,
+      "score": 673,
       "author": "theamk",
       "created": "2025-12-16 16:54:19",
       "created_at": 1765904059000
     },
     {
+      "id": 46293062,
+      "title": "No Graphics API",
+      "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "score": 470,
+      "author": "ryandrake",
+      "created": "2025-12-16 19:20:17",
+      "created_at": 1765912817000
+    },
+    {
       "id": 46294289,
       "title": "Announcing the Beta release of ty",
       "link": "https://astral.sh/blog/ty",
-      "score": 262,
+      "score": 392,
       "author": "gavide",
       "created": "2025-12-16 20:52:45",
       "created_at": 1765918365000
     },
     {
-      "id": 46291941,
-      "title": "GPT Image 1.5",
-      "link": "https://openai.com/index/new-chatgpt-images-is-here/",
-      "score": 297,
-      "author": "charlierguo",
-      "created": "2025-12-16 18:07:07",
-      "created_at": 1765908427000
-    },
-    {
-      "id": 46295771,
-      "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-      "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-      "score": 40,
-      "author": "pbowyer",
-      "created": "2025-12-16 22:48:56",
-      "created_at": 1765925336000
-    },
-    {
-      "id": 46291156,
-      "title": "Pricing Changes for GitHub Actions",
-      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
-      "score": 465,
-      "author": "kevin-david",
-      "created": "2025-12-16 17:12:02",
-      "created_at": 1765905122000
-    },
-    {
       "id": 46226068,
       "title": "Midjourney is alemwjsl",
       "link": "https://www.aadillpickle.com/blog/midjourney-is-alemwjsl",
-      "score": 41,
+      "score": 112,
       "author": "aadillpickle",
       "created": "2025-12-11 00:25:57",
       "created_at": 1765412757000
     },
     {
+      "id": 46291941,
+      "title": "GPT Image 1.5",
+      "link": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "score": 353,
+      "author": "charlierguo",
+      "created": "2025-12-16 18:07:07",
+      "created_at": 1765908427000
+    },
+    {
+      "id": 46297127,
+      "title": "CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)",
+      "link": "https://bernsteinbear.com/isdt/",
+      "score": 34,
+      "author": "vismit2000",
+      "created": "2025-12-17 01:26:14",
+      "created_at": 1765934774000
+    },
+    {
+      "id": 46291156,
+      "title": "Pricing Changes for GitHub Actions",
+      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "score": 530,
+      "author": "kevin-david",
+      "created": "2025-12-16 17:12:02",
+      "created_at": 1765905122000
+    },
+    {
+      "id": 46295771,
+      "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
+      "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+      "score": 94,
+      "author": "pbowyer",
+      "created": "2025-12-16 22:48:56",
+      "created_at": 1765925336000
+    },
+    {
       "id": 46295268,
       "title": "No AI* Here – A Response to Mozilla's Next Chapter",
       "link": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
-      "score": 63,
+      "score": 160,
       "author": "MrAlex94",
       "created": "2025-12-16 22:07:49",
       "created_at": 1765922869000
-    },
-    {
-      "id": 46296181,
-      "title": "Americans overestimate how many social media users post harmful content",
-      "link": "https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false",
-      "score": 21,
-      "author": "bikenaga",
-      "created": "2025-12-16 23:28:39",
-      "created_at": 1765927719000
     }
   ],
   "code": 200,

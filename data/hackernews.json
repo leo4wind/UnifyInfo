@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-17T00:53:11.281Z"
+    "lastUpdate": "2025-12-17T04:24:39.286Z"
   },
   "data": [
     {
       "id": 46284266,
       "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
       "link": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "score": 778,
+      "score": 784,
       "author": "takira",
       "created": "2025-12-16 03:03:49",
       "created_at": 1765854229000
@@ -19,70 +19,61 @@
       "id": 46273466,
       "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
       "link": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
-      "score": 762,
+      "score": 767,
       "author": "florian_s",
       "created": "2025-12-15 12:12:24",
       "created_at": 1765800744000
     },
     {
-      "id": 46288371,
-      "title": "This is not the future",
-      "link": "https://blog.mathieui.net/this-is-not-the-future.html",
-      "score": 662,
-      "author": "ericdanielski",
-      "created": "2025-12-16 13:42:24",
-      "created_at": 1765892544000
-    },
-    {
-      "id": 46268854,
-      "title": "Roomba maker goes bankrupt, Chinese owner emerges",
-      "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
-      "score": 657,
-      "author": "nreece",
-      "created": "2025-12-15 00:36:44",
-      "created_at": 1765759004000
-    },
-    {
-      "id": 46279123,
-      "title": "“Super secure” messaging app leaks everyone's phone number",
-      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "score": 612,
-      "author": "e_daigle",
-      "created": "2025-12-15 19:23:51",
-      "created_at": 1765826631000
-    },
-    {
       "id": 46290916,
       "title": "alpr.watch",
       "link": "https://alpr.watch/",
-      "score": 600,
+      "score": 673,
       "author": "theamk",
       "created": "2025-12-16 16:54:19",
       "created_at": 1765904059000
     },
     {
-      "id": 46268709,
-      "title": "If AI replaces workers, should it also pay taxes?",
-      "link": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
-      "score": 580,
-      "author": "PaulHoule",
-      "created": "2025-12-15 00:17:02",
-      "created_at": 1765757822000
+      "id": 46288371,
+      "title": "This is not the future",
+      "link": "https://blog.mathieui.net/this-is-not-the-future.html",
+      "score": 671,
+      "author": "ericdanielski",
+      "created": "2025-12-16 13:42:24",
+      "created_at": 1765892544000
+    },
+    {
+      "id": 46279123,
+      "title": "“Super secure” messaging app leaks everyone's phone number",
+      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "score": 614,
+      "author": "e_daigle",
+      "created": "2025-12-15 19:23:51",
+      "created_at": 1765826631000
     },
     {
       "id": 46280887,
       "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
       "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
-      "score": 560,
+      "score": 563,
       "author": "connor11528",
       "created": "2025-12-15 21:24:06",
       "created_at": 1765833846000
     },
     {
+      "id": 46291156,
+      "title": "Pricing Changes for GitHub Actions",
+      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "score": 530,
+      "author": "kevin-david",
+      "created": "2025-12-16 17:12:02",
+      "created_at": 1765905122000
+    },
+    {
       "id": 46285376,
       "title": "Children with cancer scammed out of millions fundraised for their treatment",
       "link": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "score": 517,
+      "score": 523,
       "author": "1659447091",
       "created": "2025-12-16 06:17:37",
       "created_at": 1765865857000
@@ -91,10 +82,19 @@
       "id": 46284658,
       "title": "SHARP, an approach to photorealistic view synthesis from a single image",
       "link": "https://apple.github.io/ml-sharp/",
-      "score": 491,
+      "score": 494,
       "author": "dvrp",
       "created": "2025-12-16 04:06:51",
       "created_at": 1765858011000
+    },
+    {
+      "id": 46293062,
+      "title": "No Graphics API",
+      "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "score": 470,
+      "author": "ryandrake",
+      "created": "2025-12-16 19:20:17",
+      "created_at": 1765912817000
     }
   ],
   "code": 200,
