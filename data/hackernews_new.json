@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-17T04:24:39.409Z"
+    "lastUpdate": "2025-12-17T08:18:13.532Z"
   },
   "data": [
     {
       "id": 46294574,
       "title": "AI will make formal verification go mainstream",
       "link": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "score": 412,
+      "score": 560,
       "author": "evankhoury",
       "created": "2025-12-16 21:14:49",
       "created_at": 1765919689000
@@ -19,7 +19,7 @@
       "id": 46290916,
       "title": "alpr.watch",
       "link": "https://alpr.watch/",
-      "score": 673,
+      "score": 744,
       "author": "theamk",
       "created": "2025-12-16 16:54:19",
       "created_at": 1765904059000
@@ -28,7 +28,7 @@
       "id": 46293062,
       "title": "No Graphics API",
       "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "score": 470,
+      "score": 580,
       "author": "ryandrake",
       "created": "2025-12-16 19:20:17",
       "created_at": 1765912817000
@@ -37,64 +37,55 @@
       "id": 46294289,
       "title": "Announcing the Beta release of ty",
       "link": "https://astral.sh/blog/ty",
-      "score": 392,
+      "score": 527,
       "author": "gavide",
       "created": "2025-12-16 20:52:45",
       "created_at": 1765918365000
     },
     {
-      "id": 46226068,
-      "title": "Midjourney is alemwjsl",
-      "link": "https://www.aadillpickle.com/blog/midjourney-is-alemwjsl",
-      "score": 112,
-      "author": "aadillpickle",
-      "created": "2025-12-11 00:25:57",
-      "created_at": 1765412757000
+      "id": 46254909,
+      "title": "Annual Production of 1/72 (22mm) scale plastic soldiers, 1958-2025",
+      "link": "https://plasticsoldierreview.com/ShowFeature.aspx?id=27",
+      "score": 22,
+      "author": "YeGoblynQueenne",
+      "created": "2025-12-13 14:51:43",
+      "created_at": 1765637503000
     },
     {
-      "id": 46291941,
-      "title": "GPT Image 1.5",
-      "link": "https://openai.com/index/new-chatgpt-images-is-here/",
-      "score": 353,
-      "author": "charlierguo",
-      "created": "2025-12-16 18:07:07",
-      "created_at": 1765908427000
-    },
-    {
-      "id": 46297127,
-      "title": "CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)",
-      "link": "https://bernsteinbear.com/isdt/",
-      "score": 34,
-      "author": "vismit2000",
-      "created": "2025-12-17 01:26:14",
-      "created_at": 1765934774000
-    },
-    {
-      "id": 46291156,
-      "title": "Pricing Changes for GitHub Actions",
-      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
-      "score": 530,
-      "author": "kevin-david",
-      "created": "2025-12-16 17:12:02",
-      "created_at": 1765905122000
-    },
-    {
-      "id": 46295771,
-      "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-      "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-      "score": 94,
-      "author": "pbowyer",
-      "created": "2025-12-16 22:48:56",
-      "created_at": 1765925336000
+      "id": 46230456,
+      "title": "VA Linux: The biggest dotcom IPO",
+      "link": "https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/",
+      "score": 48,
+      "author": "giuliomagnifico",
+      "created": "2025-12-11 12:17:53",
+      "created_at": 1765455473000
     },
     {
       "id": 46295268,
       "title": "No AI* Here – A Response to Mozilla's Next Chapter",
       "link": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
-      "score": 160,
+      "score": 280,
       "author": "MrAlex94",
       "created": "2025-12-16 22:07:49",
       "created_at": 1765922869000
+    },
+    {
+      "id": 46291941,
+      "title": "GPT Image 1.5",
+      "link": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "score": 412,
+      "author": "charlierguo",
+      "created": "2025-12-16 18:07:07",
+      "created_at": 1765908427000
+    },
+    {
+      "id": 46234304,
+      "title": "Show HN: I built a WebMIDI sequencer to control my hardware synths",
+      "link": "https://www.simplychris.ai/droplets",
+      "score": 8,
+      "author": "simplychris",
+      "created": "2025-12-11 17:27:37",
+      "created_at": 1765474057000
     }
   ],
   "code": 200,
