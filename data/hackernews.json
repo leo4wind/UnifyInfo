@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-17T08:18:13.273Z"
+    "lastUpdate": "2025-12-17T12:23:58.357Z"
   },
   "data": [
+    {
+      "id": 46290916,
+      "title": "alpr.watch",
+      "link": "https://alpr.watch/",
+      "score": 810,
+      "author": "theamk",
+      "created": "2025-12-16 16:54:19",
+      "created_at": 1765904059000
+    },
     {
       "id": 46284266,
       "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
       "link": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "score": 793,
+      "score": 806,
       "author": "takira",
       "created": "2025-12-16 03:03:49",
       "created_at": 1765854229000
@@ -19,70 +28,43 @@
       "id": 46273466,
       "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
       "link": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
-      "score": 771,
+      "score": 775,
       "author": "florian_s",
       "created": "2025-12-15 12:12:24",
       "created_at": 1765800744000
     },
     {
-      "id": 46290916,
-      "title": "alpr.watch",
-      "link": "https://alpr.watch/",
-      "score": 744,
-      "author": "theamk",
-      "created": "2025-12-16 16:54:19",
-      "created_at": 1765904059000
-    },
-    {
       "id": 46288371,
       "title": "This is not the future",
       "link": "https://blog.mathieui.net/this-is-not-the-future.html",
-      "score": 679,
+      "score": 689,
       "author": "ericdanielski",
       "created": "2025-12-16 13:42:24",
       "created_at": 1765892544000
     },
     {
-      "id": 46279123,
-      "title": "“Super secure” messaging app leaks everyone's phone number",
-      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "score": 614,
-      "author": "e_daigle",
-      "created": "2025-12-15 19:23:51",
-      "created_at": 1765826631000
-    },
-    {
-      "id": 46291156,
-      "title": "Pricing Changes for GitHub Actions",
-      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
-      "score": 608,
-      "author": "kevin-david",
-      "created": "2025-12-16 17:12:02",
-      "created_at": 1765905122000
-    },
-    {
       "id": 46293062,
       "title": "No Graphics API",
       "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "score": 580,
+      "score": 685,
       "author": "ryandrake",
       "created": "2025-12-16 19:20:17",
       "created_at": 1765912817000
     },
     {
-      "id": 46280887,
-      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
-      "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
-      "score": 570,
-      "author": "connor11528",
-      "created": "2025-12-15 21:24:06",
-      "created_at": 1765833846000
+      "id": 46291156,
+      "title": "Pricing Changes for GitHub Actions",
+      "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "score": 683,
+      "author": "kevin-david",
+      "created": "2025-12-16 17:12:02",
+      "created_at": 1765905122000
     },
     {
       "id": 46294574,
       "title": "AI will make formal verification go mainstream",
       "link": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "score": 560,
+      "score": 675,
       "author": "evankhoury",
       "created": "2025-12-16 21:14:49",
       "created_at": 1765919689000
@@ -91,10 +73,28 @@
       "id": 46294289,
       "title": "Announcing the Beta release of ty",
       "link": "https://astral.sh/blog/ty",
-      "score": 527,
+      "score": 651,
       "author": "gavide",
       "created": "2025-12-16 20:52:45",
       "created_at": 1765918365000
+    },
+    {
+      "id": 46279123,
+      "title": "“Super secure” messaging app leaks everyone's phone number",
+      "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "score": 616,
+      "author": "e_daigle",
+      "created": "2025-12-15 19:23:51",
+      "created_at": 1765826631000
+    },
+    {
+      "id": 46280887,
+      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+      "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+      "score": 575,
+      "author": "connor11528",
+      "created": "2025-12-15 21:24:06",
+      "created_at": 1765833846000
     }
   ],
   "code": 200,
