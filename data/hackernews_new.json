@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-17T20:13:48.751Z"
+    "lastUpdate": "2025-12-18T00:53:46.586Z"
   },
   "data": [
     {
       "id": 46301851,
-      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "title": "Gemini 3 Flash: Frontier intelligence built for speed",
       "link": "https://blog.google/products/gemini/gemini-3-flash/",
-      "score": 468,
+      "score": 731,
       "author": "meetpateltech",
       "created": "2025-12-17 16:42:13",
       "created_at": 1765989733000
     },
     {
-      "id": 46303277,
-      "title": "How SQLite is tested",
-      "link": "https://sqlite.org/testing.html",
-      "score": 90,
-      "author": "whatisabcdefgh",
-      "created": "2025-12-17 18:15:38",
-      "created_at": 1765995338000
-    },
-    {
-      "id": 46302267,
-      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
-      "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
-      "score": 436,
-      "author": "birdculture",
-      "created": "2025-12-17 17:08:35",
-      "created_at": 1765991315000
-    },
-    {
-      "id": 46302337,
-      "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
-      "link": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
-      "score": 170,
-      "author": "anttiharju",
-      "created": "2025-12-17 17:13:03",
-      "created_at": 1765991583000
+      "id": 46305428,
+      "title": "OBS Studio Gets a New Renderer",
+      "link": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
+      "score": 67,
+      "author": "aizk",
+      "created": "2025-12-17 20:59:29",
+      "created_at": 1766005169000
     },
     {
       "id": 46301346,
       "title": "Coursera to combine with Udemy",
       "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
-      "score": 283,
+      "score": 405,
       "author": "throwaway019254",
       "created": "2025-12-17 12:45:40",
       "created_at": 1765975540000
     },
     {
+      "id": 46302267,
+      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+      "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+      "score": 713,
+      "author": "birdculture",
+      "created": "2025-12-17 17:08:35",
+      "created_at": 1765991315000
+    },
+    {
+      "id": 46305321,
+      "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
+      "link": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
+      "score": 69,
+      "author": "arwt",
+      "created": "2025-12-17 20:50:13",
+      "created_at": 1766004613000
+    },
+    {
+      "id": 46305585,
+      "title": "I got hacked: My Hetzner server started mining Monero",
+      "link": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
+      "score": 157,
+      "author": "jakelsaunders94",
+      "created": "2025-12-17 21:13:33",
+      "created_at": 1766006013000
+    },
+    {
       "id": 46304413,
       "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
       "link": "https://pypi.org/project/wavelet-matrix/",
-      "score": 9,
+      "score": 53,
       "author": "math-hiyoko",
       "created": "2025-12-17 19:35:56",
       "created_at": 1766000156000
     },
     {
+      "id": 46302337,
+      "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+      "link": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
+      "score": 267,
+      "author": "anttiharju",
+      "created": "2025-12-17 17:13:03",
+      "created_at": 1765991583000
+    },
+    {
+      "id": 46307055,
+      "title": "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
+      "link": "https://www.nber.org/papers/w34553",
+      "score": 9,
+      "author": "bikenaga",
+      "created": "2025-12-17 23:29:48",
+      "created_at": 1766014188000
+    },
+    {
       "id": 46301921,
       "title": "Tell HN: HN was down",
       "link": "",
-      "score": 327,
+      "score": 459,
       "author": "uyzstvqs",
       "created": "2025-12-17 16:48:18",
       "created_at": 1765990098000
-    },
-    {
-      "id": 46303090,
-      "title": "Why outcome-billing makes sense for AI Agents",
-      "link": "https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/",
-      "score": 25,
-      "author": "rajvarkala",
-      "created": "2025-12-17 18:02:12",
-      "created_at": 1765994532000
-    },
-    {
-      "id": 46302262,
-      "title": "AI capability isn't humanness",
-      "link": "https://research.roundtable.ai/capabilities-humanness/",
-      "score": 17,
-      "author": "mdahardy",
-      "created": "2025-12-17 17:08:06",
-      "created_at": 1765991286000
-    },
-    {
-      "id": 46263821,
-      "title": "Zmij: Faster floating point double-to-string conversion",
-      "link": "https://vitaut.net/posts/2025/faster-dtoa/",
-      "score": 24,
-      "author": "fanf2",
-      "created": "2025-12-14 15:42:03",
-      "created_at": 1765726923000
     }
   ],
   "code": 200,
