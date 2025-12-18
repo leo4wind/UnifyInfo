@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-18T00:53:46.586Z"
+    "lastUpdate": "2025-12-18T04:25:46.210Z"
   },
   "data": [
+    {
+      "id": 46306894,
+      "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+      "link": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html",
+      "score": 196,
+      "author": "Xunxi",
+      "created": "2025-12-17 23:11:14",
+      "created_at": 1766013074000
+    },
     {
       "id": 46301851,
       "title": "Gemini 3 Flash: Frontier intelligence built for speed",
       "link": "https://blog.google/products/gemini/gemini-3-flash/",
-      "score": 731,
+      "score": 837,
       "author": "meetpateltech",
       "created": "2025-12-17 16:42:13",
       "created_at": 1765989733000
@@ -19,7 +28,7 @@
       "id": 46305428,
       "title": "OBS Studio Gets a New Renderer",
       "link": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
-      "score": 67,
+      "score": 159,
       "author": "aizk",
       "created": "2025-12-17 20:59:29",
       "created_at": 1766005169000
@@ -28,73 +37,64 @@
       "id": 46301346,
       "title": "Coursera to combine with Udemy",
       "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
-      "score": 405,
+      "score": 452,
       "author": "throwaway019254",
       "created": "2025-12-17 12:45:40",
       "created_at": 1765975540000
     },
     {
-      "id": 46302267,
-      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
-      "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
-      "score": 713,
-      "author": "birdculture",
-      "created": "2025-12-17 17:08:35",
-      "created_at": 1765991315000
-    },
-    {
-      "id": 46305321,
-      "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
-      "link": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
-      "score": 69,
-      "author": "arwt",
-      "created": "2025-12-17 20:50:13",
-      "created_at": 1766004613000
-    },
-    {
       "id": 46305585,
       "title": "I got hacked: My Hetzner server started mining Monero",
       "link": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
-      "score": 157,
+      "score": 234,
       "author": "jakelsaunders94",
       "created": "2025-12-17 21:13:33",
       "created_at": 1766006013000
     },
     {
-      "id": 46304413,
-      "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
-      "link": "https://pypi.org/project/wavelet-matrix/",
-      "score": 53,
-      "author": "math-hiyoko",
-      "created": "2025-12-17 19:35:56",
-      "created_at": 1766000156000
+      "id": 46270918,
+      "title": "Working quickly is more important than it seems (2015)",
+      "link": "https://jsomers.net/blog/speed-matters",
+      "score": 75,
+      "author": "bschne",
+      "created": "2025-12-15 05:54:28",
+      "created_at": 1765778068000
     },
     {
-      "id": 46302337,
-      "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
-      "link": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
-      "score": 267,
-      "author": "anttiharju",
-      "created": "2025-12-17 17:13:03",
-      "created_at": 1765991583000
+      "id": 46307500,
+      "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
+      "link": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
+      "score": 128,
+      "author": "doener",
+      "created": "2025-12-18 00:25:43",
+      "created_at": 1766017543000
     },
     {
-      "id": 46307055,
-      "title": "Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?",
-      "link": "https://www.nber.org/papers/w34553",
-      "score": 9,
-      "author": "bikenaga",
-      "created": "2025-12-17 23:29:48",
-      "created_at": 1766014188000
+      "id": 46302267,
+      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+      "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+      "score": 813,
+      "author": "birdculture",
+      "created": "2025-12-17 17:08:35",
+      "created_at": 1765991315000
     },
     {
-      "id": 46301921,
-      "title": "Tell HN: HN was down",
+      "id": 46307973,
+      "title": "Ask HN: Those making $500/month on side projects in 2025 – Show and tell",
       "link": "",
-      "score": 459,
-      "author": "uyzstvqs",
-      "created": "2025-12-17 16:48:18",
-      "created_at": 1765990098000
+      "score": 58,
+      "author": "cvbox",
+      "created": "2025-12-18 01:36:54",
+      "created_at": 1766021814000
+    },
+    {
+      "id": 46265684,
+      "title": "My payment agent is named George, not stripe-agent",
+      "link": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
+      "score": 44,
+      "author": "fortyseven",
+      "created": "2025-12-14 18:55:30",
+      "created_at": 1765738530000
     }
   ],
   "code": 200,
