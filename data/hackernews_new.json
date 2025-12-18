@@ -3,14 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-18T08:17:14.626Z"
+    "lastUpdate": "2025-12-18T12:23:25.855Z"
   },
   "data": [
+    {
+      "id": 46310976,
+      "title": "After Ruining a Treasured Water Resource, Iran Is Drying Up",
+      "link": "https://e360.yale.edu/features/iran-water-drought-dams-qanats",
+      "score": 87,
+      "author": "YaleE360",
+      "created": "2025-12-18 10:27:05",
+      "created_at": 1766053625000
+    },
+    {
+      "id": 46311092,
+      "title": "Slowness Is a Virtue",
+      "link": "https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue",
+      "score": 32,
+      "author": "jakobgreenfeld",
+      "created": "2025-12-18 10:44:29",
+      "created_at": 1766054669000
+    },
+    {
+      "id": 46310856,
+      "title": "It's all about momentum",
+      "link": "https://combo.cc/posts/its-all-about-momentum-innit/",
+      "score": 35,
+      "author": "sph",
+      "created": "2025-12-18 10:09:10",
+      "created_at": 1766052550000
+    },
+    {
+      "id": 46310823,
+      "title": "How getting richer made teenagers less free",
+      "link": "https://www.theargumentmag.com/p/how-getting-richer-made-teenagers",
+      "score": 102,
+      "author": "NavinF",
+      "created": "2025-12-18 10:03:42",
+      "created_at": 1766052222000
+    },
+    {
+      "id": 46310146,
+      "title": "GitHub Actions for Self-Hosted Runners Price Increase Postponed",
+      "link": "https://pricetimeline.com/news/189",
+      "score": 76,
+      "author": "taubek",
+      "created": "2025-12-18 08:18:46",
+      "created_at": 1766045926000
+    },
+    {
+      "id": 46310104,
+      "title": "RCE via ND6 Router Advertisements in FreeBSD",
+      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+      "score": 49,
+      "author": "weeha",
+      "created": "2025-12-18 08:12:42",
+      "created_at": 1766045562000
+    },
     {
       "id": 46309571,
       "title": "What is an elliptic curve? (2019)",
       "link": "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/",
-      "score": 29,
+      "score": 82,
       "author": "tzury",
       "created": "2025-12-18 06:40:29",
       "created_at": 1766040029000
@@ -19,7 +73,7 @@
       "id": 46309407,
       "title": "Egyptian Hieroglyphs: Lesson 1",
       "link": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/",
-      "score": 19,
+      "score": 75,
       "author": "jameslk",
       "created": "2025-12-18 06:08:23",
       "created_at": 1766038103000
@@ -28,73 +82,10 @@
       "id": 46301851,
       "title": "Gemini 3 Flash: Frontier intelligence built for speed",
       "link": "https://blog.google/products/gemini/gemini-3-flash/",
-      "score": 927,
+      "score": 1008,
       "author": "meetpateltech",
       "created": "2025-12-17 16:42:13",
       "created_at": 1765989733000
-    },
-    {
-      "id": 46307306,
-      "title": "Ask HN: Does anyone understand how Hacker News works?",
-      "link": "",
-      "score": 61,
-      "author": "jannesblobel",
-      "created": "2025-12-17 23:58:40",
-      "created_at": 1766015920000
-    },
-    {
-      "id": 46301346,
-      "title": "Coursera to combine with Udemy",
-      "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
-      "score": 489,
-      "author": "throwaway019254",
-      "created": "2025-12-17 12:45:40",
-      "created_at": 1765975540000
-    },
-    {
-      "id": 46309061,
-      "title": "'Ghost jobs' are on the rise – and so are calls to ban them",
-      "link": "https://www.bbc.com/news/articles/clyzvpp8g3vo",
-      "score": 63,
-      "author": "1659447091",
-      "created": "2025-12-18 05:06:33",
-      "created_at": 1766034393000
-    },
-    {
-      "id": 46270918,
-      "title": "Working quickly is more important than it seems (2015)",
-      "link": "https://jsomers.net/blog/speed-matters",
-      "score": 138,
-      "author": "bschne",
-      "created": "2025-12-15 05:54:28",
-      "created_at": 1765778068000
-    },
-    {
-      "id": 46305585,
-      "title": "I got hacked: My Hetzner server started mining Monero",
-      "link": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
-      "score": 334,
-      "author": "jakelsaunders94",
-      "created": "2025-12-17 21:13:33",
-      "created_at": 1766006013000
-    },
-    {
-      "id": 46308893,
-      "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
-      "link": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
-      "score": 64,
-      "author": "pabs3",
-      "created": "2025-12-18 04:27:53",
-      "created_at": 1766032073000
-    },
-    {
-      "id": 46306456,
-      "title": "Developers can now submit apps to ChatGPT",
-      "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
-      "score": 130,
-      "author": "tananaev",
-      "created": "2025-12-17 22:27:29",
-      "created_at": 1766010449000
     }
   ],
   "code": 200,
