@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-19T00:56:55.610Z"
+    "lastUpdate": "2025-12-19T04:27:04.328Z"
   },
   "data": [
     {
       "id": 46313991,
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "link": "https://dl.acm.org/openaccess",
-      "score": 1286,
+      "score": 1474,
       "author": "Kerrick",
       "created": "2025-12-18 15:39:09",
       "created_at": 1766072349000
@@ -19,7 +19,7 @@
       "id": 46301851,
       "title": "Gemini 3 Flash: Frontier intelligence built for speed",
       "link": "https://blog.google/products/gemini/gemini-3-flash/",
-      "score": 1085,
+      "score": 1086,
       "author": "meetpateltech",
       "created": "2025-12-17 16:42:13",
       "created_at": 1765989733000
@@ -28,7 +28,7 @@
       "id": 46302267,
       "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
       "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
-      "score": 1032,
+      "score": 1037,
       "author": "birdculture",
       "created": "2025-12-17 17:08:35",
       "created_at": 1765991315000
@@ -37,16 +37,25 @@
       "id": 46299934,
       "title": "Is Mozilla trying hard to kill itself?",
       "link": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
-      "score": 905,
+      "score": 909,
       "author": "pabs3",
       "created": "2025-12-17 09:37:24",
       "created_at": 1765964244000
     },
     {
+      "id": 46317098,
+      "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+      "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+      "score": 685,
+      "author": "hackermondev",
+      "created": "2025-12-18 19:08:48",
+      "created_at": 1766084928000
+    },
+    {
       "id": 46313297,
       "title": "Your job is to deliver code you have proven to work",
       "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "score": 616,
+      "score": 675,
       "author": "simonw",
       "created": "2025-12-18 14:52:11",
       "created_at": 1766069531000
@@ -55,7 +64,7 @@
       "id": 46301921,
       "title": "Tell HN: HN was down",
       "link": "",
-      "score": 593,
+      "score": 594,
       "author": "uyzstvqs",
       "created": "2025-12-17 16:48:18",
       "created_at": 1765990098000
@@ -64,37 +73,28 @@
       "id": 46305585,
       "title": "I got hacked: My Hetzner server started mining Monero",
       "link": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
-      "score": 582,
+      "score": 584,
       "author": "jakelsaunders94",
       "created": "2025-12-17 21:13:33",
       "created_at": 1766006013000
     },
     {
-      "id": 46301346,
-      "title": "Coursera to combine with Udemy",
-      "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
-      "score": 572,
-      "author": "throwaway019254",
-      "created": "2025-12-17 12:45:40",
-      "created_at": 1765975540000
-    },
-    {
-      "id": 46317098,
-      "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
-      "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "score": 557,
-      "author": "hackermondev",
-      "created": "2025-12-18 19:08:48",
-      "created_at": 1766084928000
-    },
-    {
       "id": 46311856,
       "title": "Classical statues were not painted horribly",
       "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-      "score": 549,
+      "score": 575,
       "author": "bensouthwood",
       "created": "2025-12-18 12:28:45",
       "created_at": 1766060925000
+    },
+    {
+      "id": 46301346,
+      "title": "Coursera to combine with Udemy",
+      "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+      "score": 574,
+      "author": "throwaway019254",
+      "created": "2025-12-17 12:45:40",
+      "created_at": 1765975540000
     }
   ],
   "code": 200,

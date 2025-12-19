@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-19T00:56:55.702Z"
+    "lastUpdate": "2025-12-19T04:27:04.548Z"
   },
   "data": [
     {
       "id": 46313991,
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "link": "https://dl.acm.org/openaccess",
-      "score": 1286,
+      "score": 1474,
       "author": "Kerrick",
       "created": "2025-12-18 15:39:09",
       "created_at": 1766072349000
@@ -19,7 +19,7 @@
       "id": 46319657,
       "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
       "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
-      "score": 136,
+      "score": 253,
       "author": "rbanffy",
       "created": "2025-12-18 22:23:09",
       "created_at": 1766096589000
@@ -28,7 +28,7 @@
       "id": 46317098,
       "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
       "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "score": 557,
+      "score": 685,
       "author": "hackermondev",
       "created": "2025-12-18 19:08:48",
       "created_at": 1766084928000
@@ -37,7 +37,7 @@
       "id": 46319826,
       "title": "Trained LLMs exclusively on pre-1913 texts",
       "link": "https://github.com/DGoettlich/history-llms",
-      "score": 127,
+      "score": 301,
       "author": "iamwil",
       "created": "2025-12-18 22:39:47",
       "created_at": 1766097587000
@@ -46,7 +46,7 @@
       "id": 46294456,
       "title": "Texas is suing all of the big TV makers for spying on what you watch",
       "link": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
-      "score": 464,
+      "score": 612,
       "author": "tortilla",
       "created": "2025-12-16 21:04:54",
       "created_at": 1765919094000
@@ -55,46 +55,46 @@
       "id": 46316367,
       "title": "GPT-5.2-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-2-codex/",
-      "score": 350,
+      "score": 418,
       "author": "meetpateltech",
       "created": "2025-12-18 18:14:48",
       "created_at": 1766081688000
     },
     {
+      "id": 46321619,
+      "title": "Noclip.website – A digital museum of video game levels",
+      "link": "https://noclip.website/",
+      "score": 38,
+      "author": "ivmoreau",
+      "created": "2025-12-19 02:20:08",
+      "created_at": 1766110808000
+    },
+    {
       "id": 46316907,
       "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
       "link": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
-      "score": 183,
+      "score": 261,
       "author": "artninja1988",
       "created": "2025-12-18 18:55:34",
       "created_at": 1766084134000
     },
     {
-      "id": 46315414,
-      "title": "Skills for organizations, partners, the ecosystem",
-      "link": "https://claude.com/blog/organization-skills-and-directory",
-      "score": 226,
-      "author": "adocomplete",
-      "created": "2025-12-18 17:04:32",
-      "created_at": 1766077472000
-    },
-    {
       "id": 46311856,
       "title": "Classical statues were not painted horribly",
       "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-      "score": 549,
+      "score": 575,
       "author": "bensouthwood",
       "created": "2025-12-18 12:28:45",
       "created_at": 1766060925000
     },
     {
-      "id": 46319946,
-      "title": "Great ideas in theoretical computer science",
-      "link": "https://www.cs251.com/",
-      "score": 29,
-      "author": "sebg",
-      "created": "2025-12-18 22:52:06",
-      "created_at": 1766098326000
+      "id": 46315414,
+      "title": "Skills for organizations, partners, the ecosystem",
+      "link": "https://claude.com/blog/organization-skills-and-directory",
+      "score": 243,
+      "author": "adocomplete",
+      "created": "2025-12-18 17:04:32",
+      "created_at": 1766077472000
     }
   ],
   "code": 200,
