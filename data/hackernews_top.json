@@ -3,50 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-18T20:12:56.619Z"
+    "lastUpdate": "2025-12-19T00:56:55.702Z"
   },
   "data": [
     {
       "id": 46313991,
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "link": "https://dl.acm.org/openaccess",
-      "score": 845,
+      "score": 1286,
       "author": "Kerrick",
       "created": "2025-12-18 15:39:09",
       "created_at": 1766072349000
     },
     {
+      "id": 46319657,
+      "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
+      "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+      "score": 136,
+      "author": "rbanffy",
+      "created": "2025-12-18 22:23:09",
+      "created_at": 1766096589000
+    },
+    {
       "id": 46317098,
       "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
       "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "score": 110,
+      "score": 557,
       "author": "hackermondev",
       "created": "2025-12-18 19:08:48",
       "created_at": 1766084928000
     },
     {
-      "id": 46315414,
-      "title": "Agent Skills is now an open standard",
-      "link": "https://claude.com/blog/organization-skills-and-directory",
-      "score": 165,
-      "author": "adocomplete",
-      "created": "2025-12-18 17:04:32",
-      "created_at": 1766077472000
+      "id": 46319826,
+      "title": "Trained LLMs exclusively on pre-1913 texts",
+      "link": "https://github.com/DGoettlich/history-llms",
+      "score": 127,
+      "author": "iamwil",
+      "created": "2025-12-18 22:39:47",
+      "created_at": 1766097587000
     },
     {
-      "id": 46311856,
-      "title": "Classical statues were not painted horribly",
-      "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-      "score": 436,
-      "author": "bensouthwood",
-      "created": "2025-12-18 12:28:45",
-      "created_at": 1766060925000
+      "id": 46294456,
+      "title": "Texas is suing all of the big TV makers for spying on what you watch",
+      "link": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
+      "score": 464,
+      "author": "tortilla",
+      "created": "2025-12-16 21:04:54",
+      "created_at": 1765919094000
     },
     {
       "id": 46316367,
       "title": "GPT-5.2-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-2-codex/",
-      "score": 164,
+      "score": 350,
       "author": "meetpateltech",
       "created": "2025-12-18 18:14:48",
       "created_at": 1766081688000
@@ -55,46 +64,37 @@
       "id": 46316907,
       "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
       "link": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
-      "score": 25,
+      "score": 183,
       "author": "artninja1988",
       "created": "2025-12-18 18:55:34",
       "created_at": 1766084134000
     },
     {
-      "id": 46316533,
-      "title": "FunctionGemma 270M Model",
-      "link": "https://blog.google/technology/developers/functiongemma/",
-      "score": 33,
-      "author": "mariobm",
-      "created": "2025-12-18 18:26:52",
-      "created_at": 1766082412000
+      "id": 46315414,
+      "title": "Skills for organizations, partners, the ecosystem",
+      "link": "https://claude.com/blog/organization-skills-and-directory",
+      "score": 226,
+      "author": "adocomplete",
+      "created": "2025-12-18 17:04:32",
+      "created_at": 1766077472000
     },
     {
-      "id": 46313297,
-      "title": "Your job is to deliver code you have proven to work",
-      "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "score": 460,
-      "author": "simonw",
-      "created": "2025-12-18 14:52:11",
-      "created_at": 1766069531000
+      "id": 46311856,
+      "title": "Classical statues were not painted horribly",
+      "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
+      "score": 549,
+      "author": "bensouthwood",
+      "created": "2025-12-18 12:28:45",
+      "created_at": 1766060925000
     },
     {
-      "id": 46315547,
-      "title": "Military standard on software control levels",
-      "link": "https://entropicthoughts.com/mil-std-882e-software-control",
-      "score": 40,
-      "author": "ibobev",
-      "created": "2025-12-18 17:12:46",
-      "created_at": 1766077966000
-    },
-    {
-      "id": 46292266,
-      "title": "Meta Segment Anything Model Audio",
-      "link": "https://ai.meta.com/samaudio/",
-      "score": 48,
-      "author": "megaman821",
-      "created": "2025-12-16 18:26:43",
-      "created_at": 1765909603000
+      "id": 46319946,
+      "title": "Great ideas in theoretical computer science",
+      "link": "https://www.cs251.com/",
+      "score": 29,
+      "author": "sebg",
+      "created": "2025-12-18 22:52:06",
+      "created_at": 1766098326000
     }
   ],
   "code": 200,
