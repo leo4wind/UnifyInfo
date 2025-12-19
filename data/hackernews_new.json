@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-19T04:27:04.711Z"
+    "lastUpdate": "2025-12-19T08:17:37.122Z"
   },
   "data": [
     {
       "id": 46313991,
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "link": "https://dl.acm.org/openaccess",
-      "score": 1474,
+      "score": 1636,
       "author": "Kerrick",
       "created": "2025-12-18 15:39:09",
       "created_at": 1766072349000
     },
     {
+      "id": 46322540,
+      "title": "Getting bitten by Intel's poor naming schemes",
+      "link": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+      "score": 62,
+      "author": "LorenDB",
+      "created": "2025-12-19 05:35:34",
+      "created_at": 1766122534000
+    },
+    {
       "id": 46319657,
       "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
       "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
-      "score": 253,
+      "score": 356,
       "author": "rbanffy",
       "created": "2025-12-18 22:23:09",
       "created_at": 1766096589000
     },
     {
-      "id": 46317098,
-      "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
-      "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "score": 685,
-      "author": "hackermondev",
-      "created": "2025-12-18 19:08:48",
-      "created_at": 1766084928000
-    },
-    {
       "id": 46319826,
-      "title": "Trained LLMs exclusively on pre-1913 texts",
+      "title": "History LLMs: Models trained exclusively on pre-1913 texts",
       "link": "https://github.com/DGoettlich/history-llms",
-      "score": 301,
+      "score": 443,
       "author": "iamwil",
       "created": "2025-12-18 22:39:47",
       "created_at": 1766097587000
     },
     {
+      "id": 46317098,
+      "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+      "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+      "score": 782,
+      "author": "hackermondev",
+      "created": "2025-12-18 19:08:48",
+      "created_at": 1766084928000
+    },
+    {
       "id": 46294456,
       "title": "Texas is suing all of the big TV makers for spying on what you watch",
       "link": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
-      "score": 612,
+      "score": 747,
       "author": "tortilla",
       "created": "2025-12-16 21:04:54",
       "created_at": 1765919094000
     },
     {
-      "id": 46316367,
-      "title": "GPT-5.2-Codex",
-      "link": "https://openai.com/index/introducing-gpt-5-2-codex/",
-      "score": 418,
-      "author": "meetpateltech",
-      "created": "2025-12-18 18:14:48",
-      "created_at": 1766081688000
-    },
-    {
       "id": 46321619,
       "title": "Noclip.website – A digital museum of video game levels",
       "link": "https://noclip.website/",
-      "score": 38,
+      "score": 152,
       "author": "ivmoreau",
       "created": "2025-12-19 02:20:08",
       "created_at": 1766110808000
     },
     {
-      "id": 46316907,
-      "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
-      "link": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
-      "score": 261,
-      "author": "artninja1988",
-      "created": "2025-12-18 18:55:34",
-      "created_at": 1766084134000
+      "id": 46259343,
+      "title": "From Zero to QED: An informal introduction to formality with Lean 4",
+      "link": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+      "score": 14,
+      "author": "rwosync",
+      "created": "2025-12-13 23:42:03",
+      "created_at": 1765669323000
     },
     {
-      "id": 46311856,
-      "title": "Classical statues were not painted horribly",
-      "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-      "score": 575,
-      "author": "bensouthwood",
-      "created": "2025-12-18 12:28:45",
-      "created_at": 1766060925000
+      "id": 46252712,
+      "title": "The state of the kernel Rust experiment",
+      "link": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
+      "score": 72,
+      "author": "dochtman",
+      "created": "2025-12-13 07:14:21",
+      "created_at": 1765610061000
     },
     {
-      "id": 46315414,
-      "title": "Skills for organizations, partners, the ecosystem",
-      "link": "https://claude.com/blog/organization-skills-and-directory",
-      "score": 243,
-      "author": "adocomplete",
-      "created": "2025-12-18 17:04:32",
-      "created_at": 1766077472000
+      "id": 46322732,
+      "title": "Making Google Sans Flex",
+      "link": "https://design.google/library/google-sans-flex-font",
+      "score": 18,
+      "author": "meetpateltech",
+      "created": "2025-12-19 06:10:02",
+      "created_at": 1766124602000
     }
   ],
   "code": 200,
