@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-19T16:15:03.907Z"
+    "lastUpdate": "2025-12-19T20:13:18.898Z"
   },
   "data": [
     {
       "id": 46313991,
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "link": "https://dl.acm.org/openaccess",
-      "score": 1880,
+      "score": 1943,
       "author": "Kerrick",
       "created": "2025-12-18 15:39:09",
       "created_at": 1766072349000
     },
     {
-      "id": 46301851,
-      "title": "Gemini 3 Flash: Frontier intelligence built for speed",
-      "link": "https://blog.google/products/gemini/gemini-3-flash/",
-      "score": 1089,
-      "author": "meetpateltech",
-      "created": "2025-12-17 16:42:13",
-      "created_at": 1765989733000
-    },
-    {
-      "id": 46302267,
-      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
-      "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
-      "score": 1048,
-      "author": "birdculture",
-      "created": "2025-12-17 17:08:35",
-      "created_at": 1765991315000
+      "id": 46326588,
+      "title": "Hacker News front page now, but the titles are honest",
+      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
+      "score": 1223,
+      "author": "keepamovin",
+      "created": "2025-12-19 15:02:24",
+      "created_at": 1766156544000
     },
     {
       "id": 46317098,
       "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
       "link": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "score": 1019,
+      "score": 1070,
       "author": "hackermondev",
       "created": "2025-12-18 19:08:48",
       "created_at": 1766084928000
@@ -46,7 +37,7 @@
       "id": 46313297,
       "title": "Your job is to deliver code you have proven to work",
       "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "score": 789,
+      "score": 808,
       "author": "simonw",
       "created": "2025-12-18 14:52:11",
       "created_at": 1766069531000
@@ -55,7 +46,7 @@
       "id": 46319826,
       "title": "History LLMs: Models trained exclusively on pre-1913 texts",
       "link": "https://github.com/DGoettlich/history-llms",
-      "score": 638,
+      "score": 699,
       "author": "iamwil",
       "created": "2025-12-18 22:39:47",
       "created_at": 1766097587000
@@ -64,19 +55,10 @@
       "id": 46311856,
       "title": "Classical statues were not painted horribly",
       "link": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-      "score": 611,
+      "score": 616,
       "author": "bensouthwood",
       "created": "2025-12-18 12:28:45",
       "created_at": 1766060925000
-    },
-    {
-      "id": 46301921,
-      "title": "Tell HN: HN was down",
-      "link": "",
-      "score": 595,
-      "author": "uyzstvqs",
-      "created": "2025-12-17 16:48:18",
-      "created_at": 1765990098000
     },
     {
       "id": 46305585,
@@ -88,13 +70,31 @@
       "created_at": 1766006013000
     },
     {
+      "id": 46316367,
+      "title": "GPT-5.2-Codex",
+      "link": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "score": 565,
+      "author": "meetpateltech",
+      "created": "2025-12-18 18:14:48",
+      "created_at": 1766081688000
+    },
+    {
       "id": 46312973,
       "title": "Please just try HTMX",
       "link": "http://pleasejusttryhtmx.com/",
-      "score": 550,
+      "score": 565,
       "author": "iNic",
       "created": "2025-12-18 14:18:52",
       "created_at": 1766067532000
+    },
+    {
+      "id": 46319657,
+      "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
+      "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+      "score": 560,
+      "author": "rbanffy",
+      "created": "2025-12-18 22:23:09",
+      "created_at": 1766096589000
     }
   ],
   "code": 200,

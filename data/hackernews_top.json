@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-19T16:15:04.864Z"
+    "lastUpdate": "2025-12-19T20:13:19.032Z"
   },
   "data": [
     {
-      "id": 46326588,
-      "title": "Hacker News front page now, but the titles are honest",
-      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
-      "score": 460,
-      "author": "keepamovin",
-      "created": "2025-12-19 15:02:24",
-      "created_at": 1766156544000
+      "id": 46329038,
+      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+      "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+      "score": 108,
+      "author": "sibellavia",
+      "created": "2025-12-19 18:19:32",
+      "created_at": 1766168372000
+    },
+    {
+      "id": 46326984,
+      "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+      "link": "https://garagehq.deuxfleurs.fr/",
+      "score": 284,
+      "author": "ibobev",
+      "created": "2025-12-19 15:40:03",
+      "created_at": 1766158803000
+    },
+    {
+      "id": 46329696,
+      "title": "You can now play Grand Theft Auto Vice City in the browser",
+      "link": "https://dos.zone/grand-theft-auto-vice-city/",
+      "score": 42,
+      "author": "Alifatisk",
+      "created": "2025-12-19 19:12:57",
+      "created_at": 1766171577000
     },
     {
       "id": 46324543,
       "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
       "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "score": 324,
+      "score": 449,
       "author": "km",
       "created": "2025-12-19 11:16:23",
       "created_at": 1766142983000
@@ -28,7 +46,7 @@
       "id": 46324078,
       "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
       "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "score": 282,
+      "score": 420,
       "author": "captn3m0",
       "created": "2025-12-19 10:03:38",
       "created_at": 1766138618000
@@ -37,64 +55,46 @@
       "id": 46326519,
       "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
       "link": "https://github.com/FreeBSDFoundation/proj-laptop",
-      "score": 29,
+      "score": 101,
       "author": "mikece",
       "created": "2025-12-19 14:56:05",
       "created_at": 1766156165000
     },
     {
-      "id": 46326984,
-      "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
-      "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 13,
-      "author": "ibobev",
-      "created": "2025-12-19 15:40:03",
-      "created_at": 1766158803000
+      "id": 46328992,
+      "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
+      "link": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+      "score": 45,
+      "author": "bearsyankees",
+      "created": "2025-12-19 18:15:17",
+      "created_at": 1766168117000
     },
     {
-      "id": 46313991,
-      "title": "Beginning January 2026, all ACM publications will be made open access",
-      "link": "https://dl.acm.org/openaccess",
-      "score": 1880,
-      "author": "Kerrick",
-      "created": "2025-12-18 15:39:09",
-      "created_at": 1766072349000
+      "id": 46327133,
+      "title": "Believe the Checkbook",
+      "link": "https://robertgreiner.com/believe-the-checkbook/",
+      "score": 68,
+      "author": "rg81",
+      "created": "2025-12-19 15:51:30",
+      "created_at": 1766159490000
     },
     {
-      "id": 46327020,
-      "title": "Is Firefox Firefucked?",
-      "link": "https://kevquirk.com/blog/is-firefox-firefucked/",
-      "score": 9,
-      "author": "speckx",
-      "created": "2025-12-19 15:42:23",
-      "created_at": 1766158943000
+      "id": 46267862,
+      "title": "Where Is GPT in the Chomsky Hierarchy?",
+      "link": "https://fi-le.net/chomsky/",
+      "score": 36,
+      "author": "fi-le",
+      "created": "2025-12-14 22:37:05",
+      "created_at": 1765751825000
     },
     {
-      "id": 46261884,
-      "title": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
-      "link": "https://github.com/envirobly/stepped",
-      "score": 53,
-      "author": "klevo",
-      "created": "2025-12-14 09:29:47",
-      "created_at": 1765704587000
-    },
-    {
-      "id": 46294456,
-      "title": "Texas is suing all of the big TV makers for spying on what you watch",
-      "link": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
-      "score": 1059,
-      "author": "tortilla",
-      "created": "2025-12-16 21:04:54",
-      "created_at": 1765919094000
-    },
-    {
-      "id": 46322540,
-      "title": "Getting bitten by Intel's poor naming schemes",
-      "link": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
-      "score": 215,
-      "author": "LorenDB",
-      "created": "2025-12-19 05:35:34",
-      "created_at": 1766122534000
+      "id": 46300411,
+      "title": "Vm.overcommit_memory=2 is always the right setting for servers",
+      "link": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
+      "score": 8,
+      "author": "signa11",
+      "created": "2025-12-17 10:45:27",
+      "created_at": 1765968327000
     }
   ],
   "code": 200,
