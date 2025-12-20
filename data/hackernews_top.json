@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-20T00:53:50.218Z"
+    "lastUpdate": "2025-12-20T04:17:55.848Z"
   },
   "data": [
     {
       "id": 46331586,
       "title": "CSS Grid Lanes",
       "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 198,
+      "score": 348,
       "author": "frizlab",
       "created": "2025-12-19 22:13:06",
       "created_at": 1766182386000
@@ -19,16 +19,25 @@
       "id": 46313390,
       "title": "Mistral OCR 3",
       "link": "https://mistral.ai/news/mistral-ocr-3",
-      "score": 363,
+      "score": 429,
       "author": "pember",
       "created": "2025-12-18 15:01:10",
       "created_at": 1766070070000
     },
     {
+      "id": 46267283,
+      "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
+      "link": "https://carolinacloud.io/",
+      "score": 44,
+      "author": "bojangleslover",
+      "created": "2025-12-14 21:43:35",
+      "created_at": 1765748615000
+    },
+    {
       "id": 46326984,
       "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
       "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 440,
+      "score": 494,
       "author": "ibobev",
       "created": "2025-12-19 15:40:03",
       "created_at": 1766158803000
@@ -37,7 +46,7 @@
       "id": 46331216,
       "title": "A Better Zip Bomb",
       "link": "https://www.bamsoftware.com/hacks/zipbomb/",
-      "score": 72,
+      "score": 100,
       "author": "kekqqq",
       "created": "2025-12-19 21:34:10",
       "created_at": 1766180050000
@@ -46,7 +55,7 @@
       "id": 46329038,
       "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
       "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-      "score": 207,
+      "score": 233,
       "author": "sibellavia",
       "created": "2025-12-19 18:19:32",
       "created_at": 1766168372000
@@ -55,34 +64,16 @@
       "id": 46324702,
       "title": "8-bit Boléro",
       "link": "https://linusakesson.net/music/bolero/index.php",
-      "score": 158,
+      "score": 189,
       "author": "Aissen",
       "created": "2025-12-19 11:38:54",
       "created_at": 1766144334000
     },
     {
-      "id": 46324078,
-      "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
-      "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "score": 524,
-      "author": "captn3m0",
-      "created": "2025-12-19 10:03:38",
-      "created_at": 1766138618000
-    },
-    {
-      "id": 46324543,
-      "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
-      "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "score": 531,
-      "author": "km",
-      "created": "2025-12-19 11:16:23",
-      "created_at": 1766142983000
-    },
-    {
       "id": 46327206,
       "title": "Graphite is joining Cursor",
       "link": "https://cursor.com/blog/graphite",
-      "score": 165,
+      "score": 191,
       "author": "fosterfriends",
       "created": "2025-12-19 15:57:01",
       "created_at": 1766159821000
@@ -91,10 +82,19 @@
       "id": 46321947,
       "title": "Brown/MIT shooting suspect found dead, officials say",
       "link": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
-      "score": 84,
+      "score": 115,
       "author": "anigbrowl",
       "created": "2025-12-19 03:19:59",
       "created_at": 1766114399000
+    },
+    {
+      "id": 46322391,
+      "title": "Rust's Block Pattern",
+      "link": "https://notgull.net/block-pattern/",
+      "score": 139,
+      "author": "zdw",
+      "created": "2025-12-19 04:56:13",
+      "created_at": 1766120173000
     }
   ],
   "code": 200,
