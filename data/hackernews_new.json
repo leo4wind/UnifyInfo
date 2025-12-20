@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-20T08:14:42.455Z"
+    "lastUpdate": "2025-12-20T12:20:26.002Z"
   },
   "data": [
+    {
+      "id": 46334299,
+      "title": "NTP at NIST Boulder Has Lost Power",
+      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+      "score": 131,
+      "author": "lpage",
+      "created": "2025-12-20 07:39:26",
+      "created_at": 1766216366000
+    },
     {
       "id": 46333983,
       "title": "Charles Proxy",
       "link": "https://www.charlesproxy.com/",
-      "score": 81,
+      "score": 172,
       "author": "handfuloflight",
       "created": "2025-12-20 06:09:17",
       "created_at": 1766210957000
     },
     {
+      "id": 46334990,
+      "title": "What Does a Database for SSDs Look Like?",
+      "link": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "score": 22,
+      "author": "charleshn",
+      "created": "2025-12-20 10:13:33",
+      "created_at": 1766225613000
+    },
+    {
+      "id": 46301847,
+      "title": "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
+      "link": "https://github.com/magiblot/tvterm",
+      "score": 56,
+      "author": "mariuz",
+      "created": "2025-12-17 13:41:53",
+      "created_at": 1765978913000
+    },
+    {
       "id": 46331586,
       "title": "CSS Grid Lanes",
       "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 467,
+      "score": 562,
       "author": "frizlab",
       "created": "2025-12-19 22:13:06",
       "created_at": 1766182386000
     },
     {
+      "id": 46334424,
+      "title": "Skills Officially Comes to Codex",
+      "link": "https://developers.openai.com/codex/skills/",
+      "score": 45,
+      "author": "rochansinha",
+      "created": "2025-12-20 08:09:17",
+      "created_at": 1766218157000
+    },
+    {
       "id": 46313390,
       "title": "Mistral OCR 3",
       "link": "https://mistral.ai/news/mistral-ocr-3",
-      "score": 499,
+      "score": 562,
       "author": "pember",
       "created": "2025-12-18 15:01:10",
       "created_at": 1766070070000
     },
     {
-      "id": 46334025,
-      "title": "Privacy doesn't mean anything anymore, anonymity does",
-      "link": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-      "score": 24,
-      "author": "ybceo",
-      "created": "2025-12-20 06:21:05",
-      "created_at": 1766211665000
+      "id": 46334533,
+      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+      "score": 181,
+      "author": "saubeidl",
+      "created": "2025-12-20 08:36:52",
+      "created_at": 1766219812000
     },
     {
-      "id": 46326984,
-      "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
-      "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 547,
-      "author": "ibobev",
-      "created": "2025-12-19 15:40:03",
-      "created_at": 1766158803000
-    },
-    {
-      "id": 46333959,
-      "title": "Data Bank – Nuforc – Latest UFO Sightings",
-      "link": "https://nuforc.org/databank/",
-      "score": 17,
-      "author": "handfuloflight",
-      "created": "2025-12-20 06:00:31",
-      "created_at": 1766210431000
-    },
-    {
-      "id": 46271115,
-      "title": "Fuzix on a Raspberry Pi Pico",
-      "link": "https://ewpratten.com/blog/fuzix-pi-pico",
-      "score": 41,
-      "author": "ewpratten",
-      "created": "2025-12-15 06:31:39",
-      "created_at": 1765780299000
-    },
-    {
-      "id": 46333734,
-      "title": "Android introduces $2-4 install fee and 10–20% cut for US external content links",
-      "link": "https://support.google.com/googleplay/android-developer/answer/16470497?hl=en",
-      "score": 130,
-      "author": "radley",
-      "created": "2025-12-20 05:00:55",
-      "created_at": 1766206855000
-    },
-    {
-      "id": 46267283,
-      "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
-      "link": "https://carolinacloud.io/",
-      "score": 87,
-      "author": "bojangleslover",
-      "created": "2025-12-14 21:43:35",
-      "created_at": 1765748615000
-    },
-    {
-      "id": 46329038,
-      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
-      "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-      "score": 268,
-      "author": "sibellavia",
-      "created": "2025-12-19 18:19:32",
-      "created_at": 1766168372000
+      "id": 46284514,
+      "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
+      "score": 27,
+      "author": "aacker",
+      "created": "2025-12-16 03:43:02",
+      "created_at": 1765856582000
     }
   ],
   "code": 200,
