@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-20T12:20:26.002Z"
+    "lastUpdate": "2025-12-20T16:13:26.788Z"
   },
   "data": [
+    {
+      "id": 46336947,
+      "title": "Go ahead, self-host Postgres",
+      "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+      "score": 35,
+      "author": "pavel_lishin",
+      "created": "2025-12-20 15:43:15",
+      "created_at": 1766245395000
+    },
+    {
+      "id": 46287848,
+      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
+      "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+      "score": 96,
+      "author": "alphabetting",
+      "created": "2025-12-16 12:48:12",
+      "created_at": 1765889292000
+    },
+    {
+      "id": 46336097,
+      "title": "Immersa: Open-source Web-based 3D Presentation Tool",
+      "link": "https://github.com/ertugrulcetin/immersa",
+      "score": 62,
+      "author": "simonpure",
+      "created": "2025-12-20 13:38:24",
+      "created_at": 1766237904000
+    },
+    {
+      "id": 46301059,
+      "title": "Log level 'error' should mean that something needs to be fixed",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+      "score": 25,
+      "author": "todsacerdoti",
+      "created": "2025-12-17 12:08:21",
+      "created_at": 1765973301000
+    },
     {
       "id": 46334299,
       "title": "NTP at NIST Boulder Has Lost Power",
       "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-      "score": 131,
+      "score": 275,
       "author": "lpage",
       "created": "2025-12-20 07:39:26",
       "created_at": 1766216366000
     },
     {
-      "id": 46333983,
-      "title": "Charles Proxy",
-      "link": "https://www.charlesproxy.com/",
-      "score": 172,
-      "author": "handfuloflight",
-      "created": "2025-12-20 06:09:17",
-      "created_at": 1766210957000
-    },
-    {
-      "id": 46334990,
-      "title": "What Does a Database for SSDs Look Like?",
-      "link": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
-      "score": 22,
-      "author": "charleshn",
-      "created": "2025-12-20 10:13:33",
-      "created_at": 1766225613000
-    },
-    {
-      "id": 46301847,
-      "title": "A terminal emulator that runs in your terminal. Powered by Turbo Vision",
-      "link": "https://github.com/magiblot/tvterm",
-      "score": 56,
-      "author": "mariuz",
-      "created": "2025-12-17 13:41:53",
-      "created_at": 1765978913000
-    },
-    {
-      "id": 46331586,
-      "title": "CSS Grid Lanes",
-      "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 562,
-      "author": "frizlab",
-      "created": "2025-12-19 22:13:06",
-      "created_at": 1766182386000
+      "id": 46336213,
+      "title": "TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components",
+      "link": "https://github.com/mmarinovic/tailwindsql",
+      "score": 24,
+      "author": "ravenical",
+      "created": "2025-12-20 13:54:29",
+      "created_at": 1766238869000
     },
     {
       "id": 46334424,
       "title": "Skills Officially Comes to Codex",
       "link": "https://developers.openai.com/codex/skills/",
-      "score": 45,
+      "score": 130,
       "author": "rochansinha",
       "created": "2025-12-20 08:09:17",
       "created_at": 1766218157000
     },
     {
-      "id": 46313390,
-      "title": "Mistral OCR 3",
-      "link": "https://mistral.ai/news/mistral-ocr-3",
-      "score": 562,
-      "author": "pember",
-      "created": "2025-12-18 15:01:10",
-      "created_at": 1766070070000
+      "id": 46334990,
+      "title": "What Does a Database for SSDs Look Like?",
+      "link": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "score": 96,
+      "author": "charleshn",
+      "created": "2025-12-20 10:13:33",
+      "created_at": 1766225613000
     },
     {
-      "id": 46334533,
-      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-      "score": 181,
-      "author": "saubeidl",
-      "created": "2025-12-20 08:36:52",
-      "created_at": 1766219812000
+      "id": 46331586,
+      "title": "CSS Grid Lanes",
+      "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "score": 630,
+      "author": "frizlab",
+      "created": "2025-12-19 22:13:06",
+      "created_at": 1766182386000
     },
     {
-      "id": 46284514,
-      "title": "New Quantum Antenna Reveals a Hidden Terahertz World",
-      "link": "https://www.sciencedaily.com/releases/2025/12/251213032617.htm",
-      "score": 27,
-      "author": "aacker",
-      "created": "2025-12-16 03:43:02",
-      "created_at": 1765856582000
+      "id": 46291870,
+      "title": "Arduino UNO Q bridges high-performance computing with real-time control",
+      "link": "https://www.arduino.cc/product-uno-q/",
+      "score": 21,
+      "author": "doener",
+      "created": "2025-12-16 18:02:15",
+      "created_at": 1765908135000
     }
   ],
   "code": 200,
