@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-20T04:17:55.879Z"
+    "lastUpdate": "2025-12-20T08:14:42.455Z"
   },
   "data": [
+    {
+      "id": 46333983,
+      "title": "Charles Proxy",
+      "link": "https://www.charlesproxy.com/",
+      "score": 81,
+      "author": "handfuloflight",
+      "created": "2025-12-20 06:09:17",
+      "created_at": 1766210957000
+    },
     {
       "id": 46331586,
       "title": "CSS Grid Lanes",
       "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 348,
+      "score": 467,
       "author": "frizlab",
       "created": "2025-12-19 22:13:06",
       "created_at": 1766182386000
@@ -19,82 +28,73 @@
       "id": 46313390,
       "title": "Mistral OCR 3",
       "link": "https://mistral.ai/news/mistral-ocr-3",
-      "score": 429,
+      "score": 499,
       "author": "pember",
       "created": "2025-12-18 15:01:10",
       "created_at": 1766070070000
     },
     {
-      "id": 46267283,
-      "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
-      "link": "https://carolinacloud.io/",
-      "score": 44,
-      "author": "bojangleslover",
-      "created": "2025-12-14 21:43:35",
-      "created_at": 1765748615000
+      "id": 46334025,
+      "title": "Privacy doesn't mean anything anymore, anonymity does",
+      "link": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
+      "score": 24,
+      "author": "ybceo",
+      "created": "2025-12-20 06:21:05",
+      "created_at": 1766211665000
     },
     {
       "id": 46326984,
       "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
       "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 494,
+      "score": 547,
       "author": "ibobev",
       "created": "2025-12-19 15:40:03",
       "created_at": 1766158803000
     },
     {
-      "id": 46331216,
-      "title": "A Better Zip Bomb",
-      "link": "https://www.bamsoftware.com/hacks/zipbomb/",
-      "score": 100,
-      "author": "kekqqq",
-      "created": "2025-12-19 21:34:10",
-      "created_at": 1766180050000
+      "id": 46333959,
+      "title": "Data Bank – Nuforc – Latest UFO Sightings",
+      "link": "https://nuforc.org/databank/",
+      "score": 17,
+      "author": "handfuloflight",
+      "created": "2025-12-20 06:00:31",
+      "created_at": 1766210431000
+    },
+    {
+      "id": 46271115,
+      "title": "Fuzix on a Raspberry Pi Pico",
+      "link": "https://ewpratten.com/blog/fuzix-pi-pico",
+      "score": 41,
+      "author": "ewpratten",
+      "created": "2025-12-15 06:31:39",
+      "created_at": 1765780299000
+    },
+    {
+      "id": 46333734,
+      "title": "Android introduces $2-4 install fee and 10–20% cut for US external content links",
+      "link": "https://support.google.com/googleplay/android-developer/answer/16470497?hl=en",
+      "score": 130,
+      "author": "radley",
+      "created": "2025-12-20 05:00:55",
+      "created_at": 1766206855000
+    },
+    {
+      "id": 46267283,
+      "title": "Carolina Cloud – One third the cost of AWS for data science workloads",
+      "link": "https://carolinacloud.io/",
+      "score": 87,
+      "author": "bojangleslover",
+      "created": "2025-12-14 21:43:35",
+      "created_at": 1765748615000
     },
     {
       "id": 46329038,
       "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
       "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-      "score": 233,
+      "score": 268,
       "author": "sibellavia",
       "created": "2025-12-19 18:19:32",
       "created_at": 1766168372000
-    },
-    {
-      "id": 46324702,
-      "title": "8-bit Boléro",
-      "link": "https://linusakesson.net/music/bolero/index.php",
-      "score": 189,
-      "author": "Aissen",
-      "created": "2025-12-19 11:38:54",
-      "created_at": 1766144334000
-    },
-    {
-      "id": 46327206,
-      "title": "Graphite is joining Cursor",
-      "link": "https://cursor.com/blog/graphite",
-      "score": 191,
-      "author": "fosterfriends",
-      "created": "2025-12-19 15:57:01",
-      "created_at": 1766159821000
-    },
-    {
-      "id": 46321947,
-      "title": "Brown/MIT shooting suspect found dead, officials say",
-      "link": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
-      "score": 115,
-      "author": "anigbrowl",
-      "created": "2025-12-19 03:19:59",
-      "created_at": 1766114399000
-    },
-    {
-      "id": 46322391,
-      "title": "Rust's Block Pattern",
-      "link": "https://notgull.net/block-pattern/",
-      "score": 139,
-      "author": "zdw",
-      "created": "2025-12-19 04:56:13",
-      "created_at": 1766120173000
     }
   ],
   "code": 200,
