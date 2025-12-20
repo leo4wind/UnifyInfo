@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-20T16:13:26.788Z"
+    "lastUpdate": "2025-12-20T20:11:46.076Z"
   },
   "data": [
     {
-      "id": 46336947,
-      "title": "Go ahead, self-host Postgres",
-      "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 35,
-      "author": "pavel_lishin",
-      "created": "2025-12-20 15:43:15",
-      "created_at": 1766245395000
+      "id": 46337438,
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "score": 171,
+      "author": "a1k0n",
+      "created": "2025-12-20 16:45:48",
+      "created_at": 1766249148000
     },
     {
-      "id": 46287848,
-      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
-      "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
-      "score": 96,
-      "author": "alphabetting",
-      "created": "2025-12-16 12:48:12",
-      "created_at": 1765889292000
+      "id": 46337984,
+      "title": "OpenSCAD Is Kinda Neat",
+      "link": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
+      "score": 88,
+      "author": "c0nsumer",
+      "created": "2025-12-20 17:45:48",
+      "created_at": 1766252748000
     },
     {
-      "id": 46336097,
-      "title": "Immersa: Open-source Web-based 3D Presentation Tool",
-      "link": "https://github.com/ertugrulcetin/immersa",
-      "score": 62,
-      "author": "simonpure",
-      "created": "2025-12-20 13:38:24",
-      "created_at": 1766237904000
+      "id": 46338339,
+      "title": "Backing Up Spotify",
+      "link": "https://annas-archive.li/blog/backing-up-spotify.html",
+      "score": 97,
+      "author": "vitplister",
+      "created": "2025-12-20 18:28:41",
+      "created_at": 1766255321000
     },
     {
       "id": 46301059,
       "title": "Log level 'error' should mean that something needs to be fixed",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "score": 25,
+      "score": 201,
       "author": "todsacerdoti",
       "created": "2025-12-17 12:08:21",
       "created_at": 1765973301000
     },
     {
-      "id": 46334299,
-      "title": "NTP at NIST Boulder Has Lost Power",
-      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-      "score": 275,
-      "author": "lpage",
-      "created": "2025-12-20 07:39:26",
-      "created_at": 1766216366000
+      "id": 46338016,
+      "title": "Big GPUs don't need big PCs",
+      "link": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
+      "score": 50,
+      "author": "mikece",
+      "created": "2025-12-20 17:49:18",
+      "created_at": 1766252958000
     },
     {
-      "id": 46336213,
-      "title": "TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components",
-      "link": "https://github.com/mmarinovic/tailwindsql",
-      "score": 24,
-      "author": "ravenical",
-      "created": "2025-12-20 13:54:29",
-      "created_at": 1766238869000
+      "id": 46338365,
+      "title": "I spent a week without IPv4",
+      "link": "https://www.apalrd.net/posts/2023/network_ipv6/",
+      "score": 45,
+      "author": "mahirsaid",
+      "created": "2025-12-20 18:31:23",
+      "created_at": 1766255483000
     },
     {
-      "id": 46334424,
-      "title": "Skills Officially Comes to Codex",
-      "link": "https://developers.openai.com/codex/skills/",
-      "score": 130,
-      "author": "rochansinha",
-      "created": "2025-12-20 08:09:17",
-      "created_at": 1766218157000
+      "id": 46287848,
+      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
+      "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
+      "score": 198,
+      "author": "alphabetting",
+      "created": "2025-12-16 12:48:12",
+      "created_at": 1765889292000
     },
     {
-      "id": 46334990,
-      "title": "What Does a Database for SSDs Look Like?",
-      "link": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
-      "score": 96,
-      "author": "charleshn",
-      "created": "2025-12-20 10:13:33",
-      "created_at": 1766225613000
+      "id": 46336947,
+      "title": "Go ahead, self-host Postgres",
+      "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+      "score": 289,
+      "author": "pavel_lishin",
+      "created": "2025-12-20 15:43:15",
+      "created_at": 1766245395000
     },
     {
-      "id": 46331586,
-      "title": "CSS Grid Lanes",
-      "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 630,
-      "author": "frizlab",
-      "created": "2025-12-19 22:13:06",
-      "created_at": 1766182386000
-    },
-    {
-      "id": 46291870,
-      "title": "Arduino UNO Q bridges high-performance computing with real-time control",
-      "link": "https://www.arduino.cc/product-uno-q/",
-      "score": 21,
-      "author": "doener",
-      "created": "2025-12-16 18:02:15",
-      "created_at": 1765908135000
+      "id": 46336104,
+      "title": "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
+      "link": "https://hn-wrapped.kadoa.com?year=2025",
+      "score": 42,
+      "author": "hubraumhugo",
+      "created": "2025-12-20 13:39:47",
+      "created_at": 1766237987000
     }
   ],
   "code": 200,
