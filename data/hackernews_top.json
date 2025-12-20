@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-19T20:13:19.032Z"
+    "lastUpdate": "2025-12-20T00:53:50.218Z"
   },
   "data": [
     {
-      "id": 46329038,
-      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
-      "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
-      "score": 108,
-      "author": "sibellavia",
-      "created": "2025-12-19 18:19:32",
-      "created_at": 1766168372000
+      "id": 46331586,
+      "title": "CSS Grid Lanes",
+      "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "score": 198,
+      "author": "frizlab",
+      "created": "2025-12-19 22:13:06",
+      "created_at": 1766182386000
+    },
+    {
+      "id": 46313390,
+      "title": "Mistral OCR 3",
+      "link": "https://mistral.ai/news/mistral-ocr-3",
+      "score": 363,
+      "author": "pember",
+      "created": "2025-12-18 15:01:10",
+      "created_at": 1766070070000
     },
     {
       "id": 46326984,
       "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
       "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 284,
+      "score": 440,
       "author": "ibobev",
       "created": "2025-12-19 15:40:03",
       "created_at": 1766158803000
     },
     {
-      "id": 46329696,
-      "title": "You can now play Grand Theft Auto Vice City in the browser",
-      "link": "https://dos.zone/grand-theft-auto-vice-city/",
-      "score": 42,
-      "author": "Alifatisk",
-      "created": "2025-12-19 19:12:57",
-      "created_at": 1766171577000
+      "id": 46331216,
+      "title": "A Better Zip Bomb",
+      "link": "https://www.bamsoftware.com/hacks/zipbomb/",
+      "score": 72,
+      "author": "kekqqq",
+      "created": "2025-12-19 21:34:10",
+      "created_at": 1766180050000
     },
     {
-      "id": 46324543,
-      "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
-      "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "score": 449,
-      "author": "km",
-      "created": "2025-12-19 11:16:23",
-      "created_at": 1766142983000
+      "id": 46329038,
+      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+      "link": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+      "score": 207,
+      "author": "sibellavia",
+      "created": "2025-12-19 18:19:32",
+      "created_at": 1766168372000
+    },
+    {
+      "id": 46324702,
+      "title": "8-bit Boléro",
+      "link": "https://linusakesson.net/music/bolero/index.php",
+      "score": 158,
+      "author": "Aissen",
+      "created": "2025-12-19 11:38:54",
+      "created_at": 1766144334000
     },
     {
       "id": 46324078,
       "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
       "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "score": 420,
+      "score": 524,
       "author": "captn3m0",
       "created": "2025-12-19 10:03:38",
       "created_at": 1766138618000
     },
     {
-      "id": 46326519,
-      "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
-      "link": "https://github.com/FreeBSDFoundation/proj-laptop",
-      "score": 101,
-      "author": "mikece",
-      "created": "2025-12-19 14:56:05",
-      "created_at": 1766156165000
+      "id": 46324543,
+      "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
+      "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "score": 531,
+      "author": "km",
+      "created": "2025-12-19 11:16:23",
+      "created_at": 1766142983000
     },
     {
-      "id": 46328992,
-      "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
-      "link": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
-      "score": 45,
-      "author": "bearsyankees",
-      "created": "2025-12-19 18:15:17",
-      "created_at": 1766168117000
+      "id": 46327206,
+      "title": "Graphite is joining Cursor",
+      "link": "https://cursor.com/blog/graphite",
+      "score": 165,
+      "author": "fosterfriends",
+      "created": "2025-12-19 15:57:01",
+      "created_at": 1766159821000
     },
     {
-      "id": 46327133,
-      "title": "Believe the Checkbook",
-      "link": "https://robertgreiner.com/believe-the-checkbook/",
-      "score": 68,
-      "author": "rg81",
-      "created": "2025-12-19 15:51:30",
-      "created_at": 1766159490000
-    },
-    {
-      "id": 46267862,
-      "title": "Where Is GPT in the Chomsky Hierarchy?",
-      "link": "https://fi-le.net/chomsky/",
-      "score": 36,
-      "author": "fi-le",
-      "created": "2025-12-14 22:37:05",
-      "created_at": 1765751825000
-    },
-    {
-      "id": 46300411,
-      "title": "Vm.overcommit_memory=2 is always the right setting for servers",
-      "link": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
-      "score": 8,
-      "author": "signa11",
-      "created": "2025-12-17 10:45:27",
-      "created_at": 1765968327000
+      "id": 46321947,
+      "title": "Brown/MIT shooting suspect found dead, officials say",
+      "link": "https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/",
+      "score": 84,
+      "author": "anigbrowl",
+      "created": "2025-12-19 03:19:59",
+      "created_at": 1766114399000
     }
   ],
   "code": 200,
