@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-21T12:20:49.183Z"
+    "lastUpdate": "2025-12-21T16:13:06.496Z"
   },
   "data": [
-    {
-      "id": 46326588,
-      "title": "Hacker News front page now, but the titles are honest",
-      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
-      "score": 1356,
-      "author": "keepamovin",
-      "created": "2025-12-19 15:02:24",
-      "created_at": 1766156544000
-    },
     {
       "id": 46338339,
       "title": "Backing up Spotify",
       "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 1339,
+      "score": 1526,
       "author": "vitplister",
       "created": "2025-12-20 18:28:41",
       "created_at": 1766255321000
@@ -28,7 +19,7 @@
       "id": 46339600,
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "link": "https://www.jmail.world",
-      "score": 931,
+      "score": 1140,
       "author": "lukeigel",
       "created": "2025-12-20 21:00:05",
       "created_at": 1766264405000
@@ -37,7 +28,7 @@
       "id": 46331586,
       "title": "CSS Grid Lanes",
       "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 721,
+      "score": 725,
       "author": "frizlab",
       "created": "2025-12-19 22:13:06",
       "created_at": 1766182386000
@@ -46,7 +37,7 @@
       "id": 46326984,
       "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
       "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 696,
+      "score": 700,
       "author": "ibobev",
       "created": "2025-12-19 15:40:03",
       "created_at": 1766158803000
@@ -55,34 +46,34 @@
       "id": 46336947,
       "title": "Go ahead, self-host Postgres",
       "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 555,
+      "score": 605,
       "author": "pavel_lishin",
       "created": "2025-12-20 15:43:15",
       "created_at": 1766245395000
     },
     {
-      "id": 46334533,
-      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-      "score": 478,
-      "author": "saubeidl",
-      "created": "2025-12-20 08:36:52",
-      "created_at": 1766219812000
-    },
-    {
       "id": 46341305,
-      "title": "Flock and Cyble Inc. weaponize \"cybercrime\" takedowns to silence critics",
+      "title": "Flock and Cyble Inc. weaponize “cybercrime” takedowns to silence critics",
       "link": "https://haveibeenflocked.com/news/cyble-downtime",
-      "score": 470,
+      "score": 531,
       "author": "_a9",
       "created": "2025-12-21 01:12:31",
       "created_at": 1766279551000
     },
     {
+      "id": 46334533,
+      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+      "score": 488,
+      "author": "saubeidl",
+      "created": "2025-12-20 08:36:52",
+      "created_at": 1766219812000
+    },
+    {
       "id": 46334299,
       "title": "NTP at NIST Boulder Has Lost Power",
       "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-      "score": 469,
+      "score": 474,
       "author": "lpage",
       "created": "2025-12-20 07:39:26",
       "created_at": 1766216366000
@@ -91,10 +82,19 @@
       "id": 46334025,
       "title": "Privacy doesn't mean anything anymore, anonymity does",
       "link": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-      "score": 409,
+      "score": 417,
       "author": "ybceo",
       "created": "2025-12-20 06:21:05",
       "created_at": 1766211665000
+    },
+    {
+      "id": 46337438,
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "score": 387,
+      "author": "a1k0n",
+      "created": "2025-12-20 16:45:48",
+      "created_at": 1766249148000
     }
   ],
   "code": 200,
