@@ -3,41 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-20T20:11:46.033Z"
+    "lastUpdate": "2025-12-21T01:00:55.256Z"
   },
   "data": [
-    {
-      "id": 46337438,
-      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "score": 171,
-      "author": "a1k0n",
-      "created": "2025-12-20 16:45:48",
-      "created_at": 1766249148000
-    },
-    {
-      "id": 46337984,
-      "title": "OpenSCAD Is Kinda Neat",
-      "link": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
-      "score": 88,
-      "author": "c0nsumer",
-      "created": "2025-12-20 17:45:48",
-      "created_at": 1766252748000
-    },
     {
       "id": 46338339,
       "title": "Backing Up Spotify",
       "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 97,
+      "score": 728,
       "author": "vitplister",
       "created": "2025-12-20 18:28:41",
       "created_at": 1766255321000
     },
     {
+      "id": 46339600,
+      "title": "Show HN: Jmail – Google Suite for Epstein files",
+      "link": "https://www.jmail.world",
+      "score": 184,
+      "author": "lukeigel",
+      "created": "2025-12-20 21:00:05",
+      "created_at": 1766264405000
+    },
+    {
+      "id": 46339031,
+      "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
+      "link": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
+      "score": 166,
+      "author": "1659447091",
+      "created": "2025-12-20 19:56:47",
+      "created_at": 1766260607000
+    },
+    {
+      "id": 46339777,
+      "title": "Claude in Chrome",
+      "link": "https://claude.com/chrome",
+      "score": 68,
+      "author": "ianrahman",
+      "created": "2025-12-20 21:26:14",
+      "created_at": 1766265974000
+    },
+    {
+      "id": 46337438,
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "score": 270,
+      "author": "a1k0n",
+      "created": "2025-12-20 16:45:48",
+      "created_at": 1766249148000
+    },
+    {
       "id": 46301059,
       "title": "Log level 'error' should mean that something needs to be fixed",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "score": 201,
+      "score": 294,
       "author": "todsacerdoti",
       "created": "2025-12-17 12:08:21",
       "created_at": 1765973301000
@@ -46,46 +64,37 @@
       "id": 46338016,
       "title": "Big GPUs don't need big PCs",
       "link": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
-      "score": 50,
+      "score": 128,
       "author": "mikece",
       "created": "2025-12-20 17:49:18",
       "created_at": 1766252958000
     },
     {
-      "id": 46338365,
-      "title": "I spent a week without IPv4",
-      "link": "https://www.apalrd.net/posts/2023/network_ipv6/",
-      "score": 45,
-      "author": "mahirsaid",
-      "created": "2025-12-20 18:31:23",
-      "created_at": 1766255483000
-    },
-    {
-      "id": 46287848,
-      "title": "Gemini 3 Pro vs. 2.5 Pro in Pokemon Crystal",
-      "link": "https://blog.jcz.dev/gemini-3-pro-vs-25-pro-in-pokemon-crystal",
-      "score": 198,
-      "author": "alphabetting",
-      "created": "2025-12-16 12:48:12",
-      "created_at": 1765889292000
-    },
-    {
       "id": 46336947,
       "title": "Go ahead, self-host Postgres",
       "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 289,
+      "score": 411,
       "author": "pavel_lishin",
       "created": "2025-12-20 15:43:15",
       "created_at": 1766245395000
     },
     {
-      "id": 46336104,
-      "title": "Show HN: HN Wrapped 2025 - an LLM reviews your year on HN",
-      "link": "https://hn-wrapped.kadoa.com?year=2025",
-      "score": 42,
-      "author": "hubraumhugo",
-      "created": "2025-12-20 13:39:47",
-      "created_at": 1766237987000
+      "id": 46274272,
+      "title": "Italian bears living near villages have evolved to be smaller and less agressive",
+      "link": "https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html",
+      "score": 44,
+      "author": "wjSgoWPm5bWAhXB",
+      "created": "2025-12-15 13:30:45",
+      "created_at": 1765805445000
+    },
+    {
+      "id": 46338365,
+      "title": "I spent a week without IPv4 (2023)",
+      "link": "https://www.apalrd.net/posts/2023/network_ipv6/",
+      "score": 104,
+      "author": "mahirsaid",
+      "created": "2025-12-20 18:31:23",
+      "created_at": 1766255483000
     }
   ],
   "code": 200,
