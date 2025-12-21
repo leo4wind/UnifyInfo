@@ -3,32 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-21T04:29:42.877Z"
+    "lastUpdate": "2025-12-21T08:15:05.118Z"
   },
   "data": [
     {
       "id": 46341305,
       "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
       "link": "https://haveibeenflocked.com/news/cyble-downtime",
-      "score": 193,
+      "score": 374,
       "author": "_a9",
       "created": "2025-12-21 01:12:31",
       "created_at": 1766279551000
     },
     {
-      "id": 46342166,
-      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
-      "link": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
-      "score": 13,
-      "author": "spicypete",
-      "created": "2025-12-21 04:06:36",
-      "created_at": 1766289996000
-    },
-    {
       "id": 46339600,
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "link": "https://www.jmail.world",
-      "score": 454,
+      "score": 662,
       "author": "lukeigel",
       "created": "2025-12-20 21:00:05",
       "created_at": 1766264405000
@@ -37,16 +28,43 @@
       "id": 46338339,
       "title": "Backing Up Spotify",
       "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 926,
+      "score": 1115,
       "author": "vitplister",
       "created": "2025-12-20 18:28:41",
       "created_at": 1766255321000
     },
     {
+      "id": 46342166,
+      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "link": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+      "score": 106,
+      "author": "spicypete",
+      "created": "2025-12-21 04:06:36",
+      "created_at": 1766289996000
+    },
+    {
+      "id": 46342859,
+      "title": "Ruby's Website Got an Overhaul",
+      "link": "https://www.ruby-lang.org/en/",
+      "score": 15,
+      "author": "psxuaw",
+      "created": "2025-12-21 07:06:48",
+      "created_at": 1766300808000
+    },
+    {
+      "id": 46342447,
+      "title": "Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level",
+      "link": "https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level",
+      "score": 24,
+      "author": "SanjayMehta",
+      "created": "2025-12-21 05:21:42",
+      "created_at": 1766294502000
+    },
+    {
       "id": 46339031,
       "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
       "link": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
-      "score": 197,
+      "score": 228,
       "author": "1659447091",
       "created": "2025-12-20 19:56:47",
       "created_at": 1766260607000
@@ -55,7 +73,7 @@
       "id": 46339777,
       "title": "Claude in Chrome",
       "link": "https://claude.com/chrome",
-      "score": 133,
+      "score": 183,
       "author": "ianrahman",
       "created": "2025-12-20 21:26:14",
       "created_at": 1766265974000
@@ -64,7 +82,7 @@
       "id": 46337438,
       "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
       "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "score": 298,
+      "score": 335,
       "author": "a1k0n",
       "created": "2025-12-20 16:45:48",
       "created_at": 1766249148000
@@ -73,28 +91,10 @@
       "id": 46301059,
       "title": "Log level 'error' should mean that something needs to be fixed",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "score": 342,
+      "score": 367,
       "author": "todsacerdoti",
       "created": "2025-12-17 12:08:21",
       "created_at": 1765973301000
-    },
-    {
-      "id": 46336947,
-      "title": "Go ahead, self-host Postgres",
-      "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 452,
-      "author": "pavel_lishin",
-      "created": "2025-12-20 15:43:15",
-      "created_at": 1766245395000
-    },
-    {
-      "id": 46338016,
-      "title": "Big GPUs don't need big PCs",
-      "link": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
-      "score": 161,
-      "author": "mikece",
-      "created": "2025-12-20 17:49:18",
-      "created_at": 1766252958000
     }
   ],
   "code": 200,
