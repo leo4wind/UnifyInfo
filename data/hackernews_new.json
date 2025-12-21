@@ -3,32 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-21T01:00:55.416Z"
+    "lastUpdate": "2025-12-21T04:29:42.960Z"
   },
   "data": [
     {
-      "id": 46338339,
-      "title": "Backing Up Spotify",
-      "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 728,
-      "author": "vitplister",
-      "created": "2025-12-20 18:28:41",
-      "created_at": 1766255321000
+      "id": 46341305,
+      "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
+      "link": "https://haveibeenflocked.com/news/cyble-downtime",
+      "score": 193,
+      "author": "_a9",
+      "created": "2025-12-21 01:12:31",
+      "created_at": 1766279551000
+    },
+    {
+      "id": 46342166,
+      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "link": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+      "score": 13,
+      "author": "spicypete",
+      "created": "2025-12-21 04:06:36",
+      "created_at": 1766289996000
     },
     {
       "id": 46339600,
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "link": "https://www.jmail.world",
-      "score": 184,
+      "score": 454,
       "author": "lukeigel",
       "created": "2025-12-20 21:00:05",
       "created_at": 1766264405000
     },
     {
+      "id": 46338339,
+      "title": "Backing Up Spotify",
+      "link": "https://annas-archive.li/blog/backing-up-spotify.html",
+      "score": 926,
+      "author": "vitplister",
+      "created": "2025-12-20 18:28:41",
+      "created_at": 1766255321000
+    },
+    {
       "id": 46339031,
       "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
       "link": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
-      "score": 166,
+      "score": 197,
       "author": "1659447091",
       "created": "2025-12-20 19:56:47",
       "created_at": 1766260607000
@@ -37,7 +55,7 @@
       "id": 46339777,
       "title": "Claude in Chrome",
       "link": "https://claude.com/chrome",
-      "score": 68,
+      "score": 133,
       "author": "ianrahman",
       "created": "2025-12-20 21:26:14",
       "created_at": 1766265974000
@@ -46,7 +64,7 @@
       "id": 46337438,
       "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
       "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "score": 270,
+      "score": 298,
       "author": "a1k0n",
       "created": "2025-12-20 16:45:48",
       "created_at": 1766249148000
@@ -55,46 +73,28 @@
       "id": 46301059,
       "title": "Log level 'error' should mean that something needs to be fixed",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "score": 294,
+      "score": 342,
       "author": "todsacerdoti",
       "created": "2025-12-17 12:08:21",
       "created_at": 1765973301000
     },
     {
-      "id": 46338016,
-      "title": "Big GPUs don't need big PCs",
-      "link": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
-      "score": 128,
-      "author": "mikece",
-      "created": "2025-12-20 17:49:18",
-      "created_at": 1766252958000
-    },
-    {
       "id": 46336947,
       "title": "Go ahead, self-host Postgres",
       "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 411,
+      "score": 452,
       "author": "pavel_lishin",
       "created": "2025-12-20 15:43:15",
       "created_at": 1766245395000
     },
     {
-      "id": 46274272,
-      "title": "Italian bears living near villages have evolved to be smaller and less agressive",
-      "link": "https://phys.org/news/2025-12-italian-villages-evolved-smaller-aggressive.html",
-      "score": 44,
-      "author": "wjSgoWPm5bWAhXB",
-      "created": "2025-12-15 13:30:45",
-      "created_at": 1765805445000
-    },
-    {
-      "id": 46338365,
-      "title": "I spent a week without IPv4 (2023)",
-      "link": "https://www.apalrd.net/posts/2023/network_ipv6/",
-      "score": 104,
-      "author": "mahirsaid",
-      "created": "2025-12-20 18:31:23",
-      "created_at": 1766255483000
+      "id": 46338016,
+      "title": "Big GPUs don't need big PCs",
+      "link": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
+      "score": 161,
+      "author": "mikece",
+      "created": "2025-12-20 17:49:18",
+      "created_at": 1766252958000
     }
   ],
   "code": 200,

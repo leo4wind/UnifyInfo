@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-21T01:00:55.163Z"
+    "lastUpdate": "2025-12-21T04:29:42.738Z"
   },
   "data": [
     {
       "id": 46326588,
       "title": "Hacker News front page now, but the titles are honest",
       "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
-      "score": 1347,
+      "score": 1349,
       "author": "keepamovin",
       "created": "2025-12-19 15:02:24",
       "created_at": 1766156544000
@@ -19,7 +19,7 @@
       "id": 46338339,
       "title": "Backing Up Spotify",
       "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 728,
+      "score": 926,
       "author": "vitplister",
       "created": "2025-12-20 18:28:41",
       "created_at": 1766255321000
@@ -28,7 +28,7 @@
       "id": 46331586,
       "title": "CSS Grid Lanes",
       "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "score": 704,
+      "score": 711,
       "author": "frizlab",
       "created": "2025-12-19 22:13:06",
       "created_at": 1766182386000
@@ -37,7 +37,7 @@
       "id": 46326984,
       "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
       "link": "https://garagehq.deuxfleurs.fr/",
-      "score": 688,
+      "score": 691,
       "author": "ibobev",
       "created": "2025-12-19 15:40:03",
       "created_at": 1766158803000
@@ -46,7 +46,7 @@
       "id": 46324078,
       "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
       "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "score": 617,
+      "score": 618,
       "author": "captn3m0",
       "created": "2025-12-19 10:03:38",
       "created_at": 1766138618000
@@ -55,46 +55,46 @@
       "id": 46324543,
       "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
       "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "score": 606,
+      "score": 607,
       "author": "km",
       "created": "2025-12-19 11:16:23",
       "created_at": 1766142983000
     },
     {
-      "id": 46321619,
-      "title": "Noclip.website – A digital museum of video game levels",
-      "link": "https://noclip.website/",
-      "score": 474,
-      "author": "ivmoreau",
-      "created": "2025-12-19 02:20:08",
-      "created_at": 1766110808000
-    },
-    {
-      "id": 46334533,
-      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-      "score": 433,
-      "author": "saubeidl",
-      "created": "2025-12-20 08:36:52",
-      "created_at": 1766219812000
-    },
-    {
-      "id": 46334299,
-      "title": "NTP at NIST Boulder Has Lost Power",
-      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-      "score": 421,
-      "author": "lpage",
-      "created": "2025-12-20 07:39:26",
-      "created_at": 1766216366000
+      "id": 46339600,
+      "title": "Show HN: Jmail – Google Suite for Epstein files",
+      "link": "https://www.jmail.world",
+      "score": 454,
+      "author": "lukeigel",
+      "created": "2025-12-20 21:00:05",
+      "created_at": 1766264405000
     },
     {
       "id": 46336947,
       "title": "Go ahead, self-host Postgres",
       "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 411,
+      "score": 452,
       "author": "pavel_lishin",
       "created": "2025-12-20 15:43:15",
       "created_at": 1766245395000
+    },
+    {
+      "id": 46334299,
+      "title": "NTP at NIST Boulder Has Lost Power",
+      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+      "score": 452,
+      "author": "lpage",
+      "created": "2025-12-20 07:39:26",
+      "created_at": 1766216366000
+    },
+    {
+      "id": 46334533,
+      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+      "score": 448,
+      "author": "saubeidl",
+      "created": "2025-12-20 08:36:52",
+      "created_at": 1766219812000
     }
   ],
   "code": 200,
