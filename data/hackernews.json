@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-22T00:59:44.055Z"
+    "lastUpdate": "2025-12-22T04:32:13.150Z"
   },
   "data": [
     {
       "id": 46338339,
       "title": "Backing up Spotify",
       "link": "https://annas-archive.li/blog/backing-up-spotify.html",
-      "score": 1712,
+      "score": 1734,
       "author": "vitplister",
       "created": "2025-12-20 18:28:41",
       "created_at": 1766255321000
@@ -19,7 +19,7 @@
       "id": 46339600,
       "title": "Show HN: Jmail – Google Suite for Epstein files",
       "link": "https://www.jmail.world",
-      "score": 1381,
+      "score": 1399,
       "author": "lukeigel",
       "created": "2025-12-20 21:00:05",
       "created_at": 1766264405000
@@ -28,7 +28,7 @@
       "id": 46336947,
       "title": "Go ahead, self-host Postgres",
       "link": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-      "score": 650,
+      "score": 652,
       "author": "pavel_lishin",
       "created": "2025-12-20 15:43:15",
       "created_at": 1766245395000
@@ -37,28 +37,37 @@
       "id": 46341305,
       "title": "Flock and Cyble Inc. weaponize “cybercrime” takedowns to silence critics",
       "link": "https://haveibeenflocked.com/news/cyble-downtime",
-      "score": 568,
+      "score": 571,
       "author": "_a9",
       "created": "2025-12-21 01:12:31",
       "created_at": 1766279551000
     },
     {
+      "id": 46346796,
+      "title": "Logging sucks",
+      "link": "https://loggingsucks.com/",
+      "score": 516,
+      "author": "FlorinSays",
+      "created": "2025-12-21 18:09:52",
+      "created_at": 1766340592000
+    },
+    {
       "id": 46334533,
       "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
       "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-      "score": 504,
+      "score": 506,
       "author": "saubeidl",
       "created": "2025-12-20 08:36:52",
       "created_at": 1766219812000
     },
     {
-      "id": 46346796,
-      "title": "Logging sucks",
-      "link": "https://loggingsucks.com/",
-      "score": 503,
-      "author": "FlorinSays",
-      "created": "2025-12-21 18:09:52",
-      "created_at": 1766340592000
+      "id": 46347080,
+      "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+      "link": "https://mastodon.online/@mullvadnet/115742530333573065",
+      "score": 496,
+      "author": "janandonly",
+      "created": "2025-12-21 18:39:46",
+      "created_at": 1766342386000
     },
     {
       "id": 46334299,
@@ -70,19 +79,10 @@
       "created_at": 1766216366000
     },
     {
-      "id": 46347080,
-      "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
-      "link": "https://mastodon.online/@mullvadnet/115742530333573065",
-      "score": 432,
-      "author": "janandonly",
-      "created": "2025-12-21 18:39:46",
-      "created_at": 1766342386000
-    },
-    {
       "id": 46334025,
       "title": "Privacy doesn't mean anything anymore, anonymity does",
       "link": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-      "score": 429,
+      "score": 434,
       "author": "ybceo",
       "created": "2025-12-20 06:21:05",
       "created_at": 1766211665000
@@ -91,7 +91,7 @@
       "id": 46337438,
       "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
       "link": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "score": 411,
+      "score": 414,
       "author": "a1k0n",
       "created": "2025-12-20 16:45:48",
       "created_at": 1766249148000
