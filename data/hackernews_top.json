@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-23T00:57:03.092Z"
+    "lastUpdate": "2025-12-23T04:30:31.450Z"
   },
   "data": [
+    {
+      "id": 46361229,
+      "title": "Snitch – A friendlier ss/netstat",
+      "link": "https://github.com/karol-broda/snitch",
+      "score": 54,
+      "author": "karol-broda",
+      "created": "2025-12-23 01:03:57",
+      "created_at": 1766451837000
+    },
     {
       "id": 46357675,
       "title": "The Illustrated Transformer",
       "link": "https://jalammar.github.io/illustrated-transformer/",
-      "score": 227,
+      "score": 304,
       "author": "auraham",
       "created": "2025-12-22 19:15:56",
       "created_at": 1766430956000
     },
     {
-      "id": 46357945,
-      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
-      "link": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
-      "score": 155,
-      "author": "rbanffy",
-      "created": "2025-12-22 19:37:34",
-      "created_at": 1766432254000
-    },
-    {
       "id": 46359120,
       "title": "It's Always TCP_NODELAY",
       "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "score": 99,
+      "score": 193,
       "author": "eieio",
       "created": "2025-12-22 21:09:59",
       "created_at": 1766437799000
     },
     {
+      "id": 46357945,
+      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+      "link": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+      "score": 203,
+      "author": "rbanffy",
+      "created": "2025-12-22 19:37:34",
+      "created_at": 1766432254000
+    },
+    {
       "id": 46357287,
       "title": "GLM-4.7: Advancing the Coding Capability",
       "link": "https://z.ai/blog/glm-4.7",
-      "score": 219,
+      "score": 271,
       "author": "pretext",
       "created": "2025-12-22 18:46:32",
       "created_at": 1766429192000
     },
     {
-      "id": 46355548,
-      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "score": 319,
-      "author": "chaps",
-      "created": "2025-12-22 16:31:40",
-      "created_at": 1766421100000
-    },
-    {
-      "id": 46357870,
-      "title": "The Garbage Collection Handbook",
-      "link": "https://gchandbook.org/index.html",
-      "score": 128,
-      "author": "andsoitis",
-      "created": "2025-12-22 19:30:18",
-      "created_at": 1766431818000
-    },
-    {
-      "id": 46324269,
-      "title": "FPGAs Need a New Future",
-      "link": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
-      "score": 52,
-      "author": "thawawaycold",
-      "created": "2025-12-19 10:29:33",
-      "created_at": 1766140173000
-    },
-    {
-      "id": 46355949,
-      "title": "NIST was 5 μs off UTC after last week's power cut",
-      "link": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
-      "score": 166,
-      "author": "jtokoph",
-      "created": "2025-12-22 17:01:28",
-      "created_at": 1766422888000
-    },
-    {
       "id": 46355165,
       "title": "Claude Code gets native LSP support",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "score": 284,
+      "score": 343,
       "author": "JamesSwift",
       "created": "2025-12-22 15:59:01",
       "created_at": 1766419141000
     },
     {
-      "id": 46359996,
-      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-      "link": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-      "score": 194,
-      "author": "sohkamyung",
-      "created": "2025-12-22 22:35:45",
-      "created_at": 1766442945000
+      "id": 46293932,
+      "title": "Our New Sam Audio Model Transforms Audio Editing",
+      "link": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
+      "score": 39,
+      "author": "ushakov",
+      "created": "2025-12-16 20:25:04",
+      "created_at": 1765916704000
+    },
+    {
+      "id": 46355949,
+      "title": "NIST was 5 μs off UTC after last week's power cut",
+      "link": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
+      "score": 213,
+      "author": "jtokoph",
+      "created": "2025-12-22 17:01:28",
+      "created_at": 1766422888000
+    },
+    {
+      "id": 46357870,
+      "title": "The Garbage Collection Handbook",
+      "link": "https://gchandbook.org/index.html",
+      "score": 164,
+      "author": "andsoitis",
+      "created": "2025-12-22 19:30:18",
+      "created_at": 1766431818000
+    },
+    {
+      "id": 46362275,
+      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
+      "link": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
+      "score": 4,
+      "author": "Espressosaurus",
+      "created": "2025-12-23 03:57:02",
+      "created_at": 1766462222000
     }
   ],
   "code": 200,
