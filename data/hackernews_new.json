@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-23T12:23:38.236Z"
+    "lastUpdate": "2025-12-23T16:15:36.587Z"
   },
   "data": [
+    {
+      "id": 46364973,
+      "title": "Test, don't (just) verify",
+      "link": "https://alperenkeles.com/posts/test-dont-verify/",
+      "score": 80,
+      "author": "alpaylan",
+      "created": "2025-12-23 12:56:50",
+      "created_at": 1766494610000
+    },
     {
       "id": 46313962,
       "title": "Adobe Photoshop 1.0 Source Code (1990)",
       "link": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
-      "score": 133,
+      "score": 303,
       "author": "tosh",
       "created": "2025-12-18 15:37:18",
       "created_at": 1766072238000
     },
     {
-      "id": 46362655,
-      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
-      "link": "https://github.com/eyeblech/cinecli",
-      "score": 169,
-      "author": "samsep10l",
-      "created": "2025-12-23 05:17:50",
-      "created_at": 1766467070000
-    },
-    {
-      "id": 46363751,
-      "title": "Carnap – A formal logic framework for Haskell",
-      "link": "https://carnap.io/",
-      "score": 33,
-      "author": "ravenical",
-      "created": "2025-12-23 09:17:42",
-      "created_at": 1766481462000
-    },
-    {
-      "id": 46364338,
-      "title": "What Is (AI) Glaze?",
-      "link": "https://glaze.cs.uchicago.edu/what-is-glaze.html",
-      "score": 9,
-      "author": "weinzierl",
-      "created": "2025-12-23 11:07:42",
-      "created_at": 1766488062000
-    },
-    {
       "id": 46363360,
       "title": "Instant database clones with PostgreSQL 18",
       "link": "https://boringsql.com/posts/instant-database-clones/",
-      "score": 64,
+      "score": 228,
       "author": "radimm",
       "created": "2025-12-23 07:58:25",
       "created_at": 1766476705000
     },
     {
+      "id": 46364272,
+      "title": "Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs",
+      "link": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
+      "score": 96,
+      "author": "aquir",
+      "created": "2025-12-23 10:53:07",
+      "created_at": 1766487187000
+    },
+    {
+      "id": 46312621,
+      "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
+      "link": "https://github.com/pytorch/executorch",
+      "score": 49,
+      "author": "klaussilveira",
+      "created": "2025-12-18 13:51:11",
+      "created_at": 1766065871000
+    },
+    {
       "id": 46364131,
       "title": "Font with Built-In Syntax Highlighting (2024)",
       "link": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/",
-      "score": 12,
+      "score": 79,
       "author": "california-og",
       "created": "2025-12-23 10:28:09",
       "created_at": 1766485689000
     },
     {
+      "id": 46363751,
+      "title": "Carnap – A formal logic framework for Haskell",
+      "link": "https://carnap.io/",
+      "score": 72,
+      "author": "ravenical",
+      "created": "2025-12-23 09:17:42",
+      "created_at": 1766481462000
+    },
+    {
+      "id": 46362655,
+      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
+      "link": "https://github.com/eyeblech/cinecli",
+      "score": 224,
+      "author": "samsep10l",
+      "created": "2025-12-23 05:17:50",
+      "created_at": 1766467070000
+    },
+    {
+      "id": 46363319,
+      "title": "10 years bootstrapped: €6.5M revenue with a team of 13",
+      "link": "https://www.datocms.com/blog/a-look-back-at-2025",
+      "score": 175,
+      "author": "steffoz",
+      "created": "2025-12-23 07:50:03",
+      "created_at": 1766476203000
+    },
+    {
       "id": 46361229,
       "title": "Snitch – A friendlier ss/netstat",
       "link": "https://github.com/karol-broda/snitch",
-      "score": 207,
+      "score": 257,
       "author": "karol-broda",
       "created": "2025-12-23 01:03:57",
       "created_at": 1766451837000
-    },
-    {
-      "id": 46363921,
-      "title": "What are the best engineering blogs with real-world depth (no fluff)?",
-      "link": "",
-      "score": 63,
-      "author": "nishilpatel",
-      "created": "2025-12-23 09:50:31",
-      "created_at": 1766483431000
-    },
-    {
-      "id": 46359120,
-      "title": "It's Always TCP_NODELAY",
-      "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "score": 340,
-      "author": "eieio",
-      "created": "2025-12-22 21:09:59",
-      "created_at": 1766437799000
-    },
-    {
-      "id": 46357675,
-      "title": "The Illustrated Transformer",
-      "link": "https://jalammar.github.io/illustrated-transformer/",
-      "score": 401,
-      "author": "auraham",
-      "created": "2025-12-22 19:15:56",
-      "created_at": 1766430956000
     }
   ],
   "code": 200,
