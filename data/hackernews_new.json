@@ -3,41 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-23T04:30:31.484Z"
+    "lastUpdate": "2025-12-23T08:17:52.112Z"
   },
   "data": [
+    {
+      "id": 46362655,
+      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
+      "link": "https://github.com/eyeblech/cinecli",
+      "score": 72,
+      "author": "samsep10l",
+      "created": "2025-12-23 05:17:50",
+      "created_at": 1766467070000
+    },
     {
       "id": 46361229,
       "title": "Snitch – A friendlier ss/netstat",
       "link": "https://github.com/karol-broda/snitch",
-      "score": 54,
+      "score": 154,
       "author": "karol-broda",
       "created": "2025-12-23 01:03:57",
       "created_at": 1766451837000
     },
     {
-      "id": 46357675,
-      "title": "The Illustrated Transformer",
-      "link": "https://jalammar.github.io/illustrated-transformer/",
-      "score": 304,
-      "author": "auraham",
-      "created": "2025-12-22 19:15:56",
-      "created_at": 1766430956000
-    },
-    {
       "id": 46359120,
       "title": "It's Always TCP_NODELAY",
       "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "score": 193,
+      "score": 275,
       "author": "eieio",
       "created": "2025-12-22 21:09:59",
       "created_at": 1766437799000
     },
     {
+      "id": 46357675,
+      "title": "The Illustrated Transformer",
+      "link": "https://jalammar.github.io/illustrated-transformer/",
+      "score": 354,
+      "author": "auraham",
+      "created": "2025-12-22 19:15:56",
+      "created_at": 1766430956000
+    },
+    {
+      "id": 46334297,
+      "title": "The Polyglot NixOS",
+      "link": "https://x86.lol/generic/2025/12/19/polyglot.html",
+      "score": 39,
+      "author": "todsacerdoti",
+      "created": "2025-12-20 07:39:00",
+      "created_at": 1766216340000
+    },
+    {
       "id": 46357945,
       "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
       "link": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
-      "score": 203,
+      "score": 246,
       "author": "rbanffy",
       "created": "2025-12-22 19:37:34",
       "created_at": 1766432254000
@@ -46,7 +64,7 @@
       "id": 46357287,
       "title": "GLM-4.7: Advancing the Coding Capability",
       "link": "https://z.ai/blog/glm-4.7",
-      "score": 271,
+      "score": 321,
       "author": "pretext",
       "created": "2025-12-22 18:46:32",
       "created_at": 1766429192000
@@ -55,46 +73,28 @@
       "id": 46355165,
       "title": "Claude Code gets native LSP support",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "score": 343,
+      "score": 401,
       "author": "JamesSwift",
       "created": "2025-12-22 15:59:01",
       "created_at": 1766419141000
     },
     {
+      "id": 46361510,
+      "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
+      "link": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
+      "score": 28,
+      "author": "susam",
+      "created": "2025-12-23 01:49:56",
+      "created_at": 1766454596000
+    },
+    {
       "id": 46293932,
       "title": "Our New Sam Audio Model Transforms Audio Editing",
       "link": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
-      "score": 39,
+      "score": 87,
       "author": "ushakov",
       "created": "2025-12-16 20:25:04",
       "created_at": 1765916704000
-    },
-    {
-      "id": 46355949,
-      "title": "NIST was 5 μs off UTC after last week's power cut",
-      "link": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
-      "score": 213,
-      "author": "jtokoph",
-      "created": "2025-12-22 17:01:28",
-      "created_at": 1766422888000
-    },
-    {
-      "id": 46357870,
-      "title": "The Garbage Collection Handbook",
-      "link": "https://gchandbook.org/index.html",
-      "score": 164,
-      "author": "andsoitis",
-      "created": "2025-12-22 19:30:18",
-      "created_at": 1766431818000
-    },
-    {
-      "id": 46362275,
-      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
-      "link": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
-      "score": 4,
-      "author": "Espressosaurus",
-      "created": "2025-12-23 03:57:02",
-      "created_at": 1766462222000
     }
   ],
   "code": 200,
