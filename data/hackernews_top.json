@@ -3,23 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-23T16:15:36.509Z"
+    "lastUpdate": "2025-12-23T20:12:58.301Z"
   },
   "data": [
     {
-      "id": 46364973,
-      "title": "Test, don't (just) verify",
-      "link": "https://alperenkeles.com/posts/test-dont-verify/",
-      "score": 80,
-      "author": "alpaylan",
-      "created": "2025-12-23 12:56:50",
-      "created_at": 1766494610000
+      "id": 46367224,
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "score": 399,
+      "author": "Aissen",
+      "created": "2025-12-23 17:33:42",
+      "created_at": 1766511222000
+    },
+    {
+      "id": 46368557,
+      "title": "Terrence Malick's Disciples",
+      "link": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
+      "score": 13,
+      "author": "prismatic",
+      "created": "2025-12-23 19:35:20",
+      "created_at": 1766518520000
+    },
+    {
+      "id": 46367864,
+      "title": "Volvo Centum is Dalton Maag's new typeface for Volvo",
+      "link": "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum",
+      "score": 32,
+      "author": "ohjeez",
+      "created": "2025-12-23 18:33:01",
+      "created_at": 1766514781000
+    },
+    {
+      "id": 46366998,
+      "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
+      "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
+      "score": 301,
+      "author": "yellow_lead",
+      "created": "2025-12-23 17:08:34",
+      "created_at": 1766509714000
+    },
+    {
+      "id": 46367232,
+      "title": "Towards a secure peer-to-peer app platform for Clan",
+      "link": "https://clan.lol/blog/towards-app-platform-vmtech/",
+      "score": 36,
+      "author": "throawayonthe",
+      "created": "2025-12-23 17:34:22",
+      "created_at": 1766511262000
+    },
+    {
+      "id": 46367475,
+      "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+      "link": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+      "score": 145,
+      "author": "quesobob",
+      "created": "2025-12-23 18:00:31",
+      "created_at": 1766512831000
     },
     {
       "id": 46313962,
       "title": "Adobe Photoshop 1.0 Source Code (1990)",
       "link": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
-      "score": 303,
+      "score": 373,
       "author": "tosh",
       "created": "2025-12-18 15:37:18",
       "created_at": 1766072238000
@@ -28,73 +73,28 @@
       "id": 46363360,
       "title": "Instant database clones with PostgreSQL 18",
       "link": "https://boringsql.com/posts/instant-database-clones/",
-      "score": 228,
+      "score": 316,
       "author": "radimm",
       "created": "2025-12-23 07:58:25",
       "created_at": 1766476705000
     },
     {
-      "id": 46364272,
-      "title": "Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs",
-      "link": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
-      "score": 96,
-      "author": "aquir",
-      "created": "2025-12-23 10:53:07",
-      "created_at": 1766487187000
+      "id": 46364973,
+      "title": "Test, don't (just) verify",
+      "link": "https://alperenkeles.com/posts/test-dont-verify/",
+      "score": 155,
+      "author": "alpaylan",
+      "created": "2025-12-23 12:56:50",
+      "created_at": 1766494610000
     },
     {
-      "id": 46312621,
-      "title": "Executorch: On-device AI across mobile, embedded and edge for PyTorch",
-      "link": "https://github.com/pytorch/executorch",
-      "score": 49,
-      "author": "klaussilveira",
-      "created": "2025-12-18 13:51:11",
-      "created_at": 1766065871000
-    },
-    {
-      "id": 46364131,
-      "title": "Font with Built-In Syntax Highlighting (2024)",
-      "link": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/",
-      "score": 79,
-      "author": "california-og",
-      "created": "2025-12-23 10:28:09",
-      "created_at": 1766485689000
-    },
-    {
-      "id": 46363751,
-      "title": "Carnap – A formal logic framework for Haskell",
-      "link": "https://carnap.io/",
-      "score": 72,
-      "author": "ravenical",
-      "created": "2025-12-23 09:17:42",
-      "created_at": 1766481462000
-    },
-    {
-      "id": 46362655,
-      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
-      "link": "https://github.com/eyeblech/cinecli",
-      "score": 224,
-      "author": "samsep10l",
-      "created": "2025-12-23 05:17:50",
-      "created_at": 1766467070000
-    },
-    {
-      "id": 46363319,
-      "title": "10 years bootstrapped: €6.5M revenue with a team of 13",
-      "link": "https://www.datocms.com/blog/a-look-back-at-2025",
-      "score": 175,
-      "author": "steffoz",
-      "created": "2025-12-23 07:50:03",
-      "created_at": 1766476203000
-    },
-    {
-      "id": 46361229,
-      "title": "Snitch – A friendlier ss/netstat",
-      "link": "https://github.com/karol-broda/snitch",
-      "score": 257,
-      "author": "karol-broda",
-      "created": "2025-12-23 01:03:57",
-      "created_at": 1766451837000
+      "id": 46330012,
+      "title": "Astrophotography Target Planner: Discover Hidden Nebulas",
+      "link": "https://astroimagery.com/techniques/imaging/astrophotography-target-planner/",
+      "score": 34,
+      "author": "kianN",
+      "created": "2025-12-19 19:44:41",
+      "created_at": 1766173481000
     }
   ],
   "code": 200,
