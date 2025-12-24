@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-24T04:28:40.096Z"
+    "lastUpdate": "2025-12-24T08:17:31.562Z"
   },
   "data": [
     {
       "id": 46367224,
       "title": "Fabrice Bellard Releases MicroQuickJS",
       "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "score": 861,
+      "score": 997,
       "author": "Aissen",
       "created": "2025-12-23 17:33:42",
       "created_at": 1766511222000
@@ -19,16 +19,25 @@
       "id": 46369923,
       "title": "X-ray: a Python library for finding bad redactions in PDF documents",
       "link": "https://github.com/freelawproject/x-ray",
-      "score": 275,
+      "score": 379,
       "author": "rendx",
       "created": "2025-12-23 21:54:30",
       "created_at": 1766526870000
     },
     {
+      "id": 46368946,
+      "title": "Some Epstein file redactions are being undone with hacks",
+      "link": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
+      "score": 400,
+      "author": "vinni2",
+      "created": "2025-12-23 20:10:30",
+      "created_at": 1766520630000
+    },
+    {
       "id": 46371135,
       "title": "Unifi Travel Router",
       "link": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
-      "score": 127,
+      "score": 222,
       "author": "flurdy",
       "created": "2025-12-24 00:30:18",
       "created_at": 1766536218000
@@ -37,64 +46,55 @@
       "id": 46370012,
       "title": "Texas app store age verification law blocked by federal judge",
       "link": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
-      "score": 170,
+      "score": 215,
       "author": "danso",
       "created": "2025-12-23 22:03:46",
       "created_at": 1766527426000
     },
     {
-      "id": 46368946,
-      "title": "Some Epstein file redactions are being undone with hacks",
-      "link": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
-      "score": 219,
-      "author": "vinni2",
-      "created": "2025-12-23 20:10:30",
-      "created_at": 1766520630000
-    },
-    {
-      "id": 46370592,
-      "title": "Is Northern Virginia still the least reliable AWS region?",
-      "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+      "id": 46371730,
+      "title": "Autonomously navigating the real world: lessons from the PG&E outage",
+      "link": "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world",
       "score": 72,
-      "author": "colinbartlett",
-      "created": "2025-12-23 23:12:03",
-      "created_at": 1766531523000
+      "author": "scoofy",
+      "created": "2025-12-24 02:16:01",
+      "created_at": 1766542561000
     },
     {
-      "id": 46371759,
-      "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
-      "link": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
-      "score": 12,
-      "author": "vismit2000",
-      "created": "2025-12-24 02:21:42",
-      "created_at": 1766542902000
-    },
-    {
-      "id": 46371673,
-      "title": "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
-      "link": "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html",
-      "score": 16,
-      "author": "wglb",
-      "created": "2025-12-24 02:01:49",
-      "created_at": 1766541709000
+      "id": 46371743,
+      "title": "Show HN: Turn raw HTML into production-ready images for free",
+      "link": "https://html2png.dev",
+      "score": 56,
+      "author": "alvinunreal",
+      "created": "2025-12-24 02:18:38",
+      "created_at": 1766542718000
     },
     {
       "id": 46371423,
       "title": "Nabokov's guide to foreigners learning Russian",
       "link": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
-      "score": 30,
+      "score": 70,
       "author": "flaxxen",
       "created": "2025-12-24 01:20:39",
       "created_at": 1766539239000
     },
     {
-      "id": 46354674,
-      "title": "Lua 5.5",
-      "link": "https://lua.org/versions.html#5.5",
-      "score": 232,
-      "author": "km",
-      "created": "2025-12-22 15:06:13",
-      "created_at": 1766415973000
+      "id": 46372771,
+      "title": "Custom Cross Compiler with Nix",
+      "link": "https://www.hobson.space/posts/nixcross/",
+      "score": 12,
+      "author": "todsacerdoti",
+      "created": "2025-12-24 05:31:45",
+      "created_at": 1766554305000
+    },
+    {
+      "id": 46371705,
+      "title": "Could lockfiles just be SBOMs?",
+      "link": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
+      "score": 42,
+      "author": "zdw",
+      "created": "2025-12-24 02:10:34",
+      "created_at": 1766542234000
     }
   ],
   "code": 200,
