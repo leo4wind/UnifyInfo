@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-23T20:12:58.331Z"
+    "lastUpdate": "2025-12-24T00:56:33.346Z"
   },
   "data": [
     {
       "id": 46367224,
       "title": "Fabrice Bellard Releases MicroQuickJS",
       "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "score": 399,
+      "score": 746,
       "author": "Aissen",
       "created": "2025-12-23 17:33:42",
       "created_at": 1766511222000
     },
     {
-      "id": 46368557,
-      "title": "Terrence Malick's Disciples",
-      "link": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
-      "score": 13,
-      "author": "prismatic",
-      "created": "2025-12-23 19:35:20",
-      "created_at": 1766518520000
+      "id": 46369923,
+      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+      "link": "https://github.com/freelawproject/x-ray",
+      "score": 140,
+      "author": "rendx",
+      "created": "2025-12-23 21:54:30",
+      "created_at": 1766526870000
     },
     {
-      "id": 46367864,
-      "title": "Volvo Centum is Dalton Maag's new typeface for Volvo",
-      "link": "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum",
-      "score": 32,
-      "author": "ohjeez",
-      "created": "2025-12-23 18:33:01",
-      "created_at": 1766514781000
+      "id": 46370592,
+      "title": "Is Northern Virginia Still the Least Reliable AWS Region?",
+      "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+      "score": 33,
+      "author": "colinbartlett",
+      "created": "2025-12-23 23:12:03",
+      "created_at": 1766531523000
     },
     {
-      "id": 46366998,
-      "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
-      "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-      "score": 301,
-      "author": "yellow_lead",
-      "created": "2025-12-23 17:08:34",
-      "created_at": 1766509714000
+      "id": 46370012,
+      "title": "Texas app store age verification law blocked by federal judge",
+      "link": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+      "score": 98,
+      "author": "danso",
+      "created": "2025-12-23 22:03:46",
+      "created_at": 1766527426000
     },
     {
-      "id": 46367232,
-      "title": "Towards a secure peer-to-peer app platform for Clan",
-      "link": "https://clan.lol/blog/towards-app-platform-vmtech/",
-      "score": 36,
-      "author": "throawayonthe",
-      "created": "2025-12-23 17:34:22",
-      "created_at": 1766511262000
+      "id": 46304858,
+      "title": "Learn Lisp/Fennel Programming Against Neovim",
+      "link": "https://github.com/humorless/fennel-fp-neovim",
+      "score": 14,
+      "author": "veqq",
+      "created": "2025-12-17 20:09:17",
+      "created_at": 1766002157000
+    },
+    {
+      "id": 46334206,
+      "title": "Perfect Software – Software for an Audience of One",
+      "link": "https://outofdesk.netlify.app/blog/perfect-software",
+      "score": 93,
+      "author": "ggauravr",
+      "created": "2025-12-20 07:14:53",
+      "created_at": 1766214893000
+    },
+    {
+      "id": 46354674,
+      "title": "Lua 5.5",
+      "link": "https://lua.org/versions.html#5.5",
+      "score": 194,
+      "author": "km",
+      "created": "2025-12-22 15:06:13",
+      "created_at": 1766415973000
     },
     {
       "id": 46367475,
       "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
       "link": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
-      "score": 145,
+      "score": 310,
       "author": "quesobob",
       "created": "2025-12-23 18:00:31",
       "created_at": 1766512831000
     },
     {
-      "id": 46313962,
-      "title": "Adobe Photoshop 1.0 Source Code (1990)",
-      "link": "https://computerhistory.org/blog/adobe-photoshop-source-code/",
-      "score": 373,
-      "author": "tosh",
-      "created": "2025-12-18 15:37:18",
-      "created_at": 1766072238000
+      "id": 46368557,
+      "title": "Terrence Malick's Disciples",
+      "link": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
+      "score": 68,
+      "author": "prismatic",
+      "created": "2025-12-23 19:35:20",
+      "created_at": 1766518520000
     },
     {
-      "id": 46363360,
-      "title": "Instant database clones with PostgreSQL 18",
-      "link": "https://boringsql.com/posts/instant-database-clones/",
-      "score": 316,
-      "author": "radimm",
-      "created": "2025-12-23 07:58:25",
-      "created_at": 1766476705000
-    },
-    {
-      "id": 46364973,
-      "title": "Test, don't (just) verify",
-      "link": "https://alperenkeles.com/posts/test-dont-verify/",
-      "score": 155,
-      "author": "alpaylan",
-      "created": "2025-12-23 12:56:50",
-      "created_at": 1766494610000
-    },
-    {
-      "id": 46330012,
-      "title": "Astrophotography Target Planner: Discover Hidden Nebulas",
-      "link": "https://astroimagery.com/techniques/imaging/astrophotography-target-planner/",
-      "score": 34,
-      "author": "kianN",
-      "created": "2025-12-19 19:44:41",
-      "created_at": 1766173481000
+      "id": 46368300,
+      "title": "Help My c64 caught on fire",
+      "link": "https://c0de517e.com/026_c64fire.htm",
+      "score": 64,
+      "author": "ibobev",
+      "created": "2025-12-23 19:09:45",
+      "created_at": 1766516985000
     }
   ],
   "code": 200,
