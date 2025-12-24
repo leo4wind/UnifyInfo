@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-24T16:14:45.264Z"
+    "lastUpdate": "2025-12-24T20:13:08.709Z"
   },
   "data": [
+    {
+      "id": 46378554,
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "link": "https://github.com/antonmedv/textarea",
+      "score": 27,
+      "author": "medv",
+      "created": "2025-12-24 19:42:25",
+      "created_at": 1766605345000
+    },
+    {
+      "id": 46377862,
+      "title": "Fabrice Bellard: Biography [pdf]",
+      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "score": 54,
+      "author": "lioeters",
+      "created": "2025-12-24 18:17:47",
+      "created_at": 1766600267000
+    },
+    {
+      "id": 46377597,
+      "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+      "link": "https://github.com/VibiumDev/vibium",
+      "score": 83,
+      "author": "hugs",
+      "created": "2025-12-24 17:49:02",
+      "created_at": 1766598542000
+    },
     {
       "id": 46375384,
       "title": "When Compilers Surprise You",
       "link": "https://xania.org/202512/24-cunning-clang",
-      "score": 63,
+      "score": 154,
       "author": "brewmarche",
       "created": "2025-12-24 13:27:50",
       "created_at": 1766582870000
     },
     {
-      "id": 46375499,
-      "title": "Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk",
-      "link": "https://games.jmir.org/2025/1/e84219/",
-      "score": 40,
-      "author": "azalemeth",
-      "created": "2025-12-24 13:43:46",
-      "created_at": 1766583826000
+      "id": 46317687,
+      "title": "A faster path to container images in Bazel",
+      "link": "https://www.tweag.io/blog/2025-12-18-rules_img/",
+      "score": 35,
+      "author": "malt3",
+      "created": "2025-12-18 19:50:29",
+      "created_at": 1766087429000
     },
     {
-      "id": 46376201,
-      "title": "We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)",
-      "link": "https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224",
-      "score": 27,
-      "author": "Flere-Imsaho",
-      "created": "2025-12-24 15:06:26",
-      "created_at": 1766588786000
+      "id": 46378469,
+      "title": "European Majority favours more tech regulation",
+      "link": "https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation",
+      "score": 5,
+      "author": "snowpid",
+      "created": "2025-12-24 19:32:51",
+      "created_at": 1766604771000
     },
     {
-      "id": 46351196,
-      "title": "Your Inbox Is a Bandit",
-      "link": "https://parentheticallyspeaking.org/articles/bandit-inbox/",
-      "score": 39,
-      "author": "zdw",
-      "created": "2025-12-22 04:04:04",
-      "created_at": 1766376244000
+      "id": 46376652,
+      "title": "My 2026 Open Social Web Predictions",
+      "link": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html",
+      "score": 44,
+      "author": "todsacerdoti",
+      "created": "2025-12-24 15:59:23",
+      "created_at": 1766591963000
     },
     {
-      "id": 46318080,
-      "title": "The Port I couldn't Ship",
-      "link": "https://ammil.industries/the-port-i-couldnt-ship/",
-      "score": 54,
-      "author": "cjlm",
-      "created": "2025-12-18 20:17:37",
-      "created_at": 1766089057000
-    },
-    {
-      "id": 46367224,
-      "title": "Fabrice Bellard Releases MicroQuickJS",
-      "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "score": 1258,
-      "author": "Aissen",
-      "created": "2025-12-23 17:33:42",
-      "created_at": 1766511222000
+      "id": 46378431,
+      "title": "Looking for Decent Conversation?",
+      "link": "",
+      "score": 33,
+      "author": "kmstout",
+      "created": "2025-12-24 19:28:18",
+      "created_at": 1766604498000
     },
     {
       "id": 46368946,
-      "title": "Some Epstein file redactions are being undone with hacks",
+      "title": "Some Epstein file redactions are being undone",
       "link": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
-      "score": 733,
+      "score": 856,
       "author": "vinni2",
       "created": "2025-12-23 20:10:30",
       "created_at": 1766520630000
     },
     {
-      "id": 46369923,
-      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
-      "link": "https://github.com/freelawproject/x-ray",
-      "score": 561,
-      "author": "rendx",
-      "created": "2025-12-23 21:54:30",
-      "created_at": 1766526870000
-    },
-    {
-      "id": 46375847,
-      "title": "AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700",
-      "score": 36,
-      "author": "ksec",
-      "created": "2025-12-24 14:28:35",
-      "created_at": 1766586515000
-    },
-    {
-      "id": 46325337,
-      "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
-      "link": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-      "score": 17,
-      "author": "laurentlb",
-      "created": "2025-12-19 13:00:47",
-      "created_at": 1766149247000
+      "id": 46377796,
+      "title": "Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery",
+      "link": "https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range",
+      "score": 67,
+      "author": "giuliomagnifico",
+      "created": "2025-12-24 18:09:42",
+      "created_at": 1766599782000
     }
   ],
   "code": 200,
