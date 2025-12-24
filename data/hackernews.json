@@ -3,41 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-24T00:56:33.226Z"
+    "lastUpdate": "2025-12-24T04:28:38.929Z"
   },
   "data": [
     {
       "id": 46361024,
       "title": "Inside CECOT – 60 Minutes [video]",
       "link": "https://archive.org/details/insidececot",
-      "score": 1479,
+      "score": 1514,
       "author": "lawlessone",
       "created": "2025-12-23 00:36:27",
       "created_at": 1766450187000
     },
     {
-      "id": 46355548,
-      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-      "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "score": 774,
-      "author": "chaps",
-      "created": "2025-12-22 16:31:40",
-      "created_at": 1766421100000
-    },
-    {
       "id": 46367224,
       "title": "Fabrice Bellard Releases MicroQuickJS",
       "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "score": 746,
+      "score": 861,
       "author": "Aissen",
       "created": "2025-12-23 17:33:42",
       "created_at": 1766511222000
     },
     {
+      "id": 46355548,
+      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "link": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+      "score": 782,
+      "author": "chaps",
+      "created": "2025-12-22 16:31:40",
+      "created_at": 1766421100000
+    },
+    {
       "id": 46357881,
       "title": "US blocks all offshore wind construction, says reason is classified",
       "link": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
-      "score": 592,
+      "score": 596,
       "author": "rbanffy",
       "created": "2025-12-22 19:31:11",
       "created_at": 1766431871000
@@ -46,7 +46,7 @@
       "id": 46366998,
       "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
       "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-      "score": 529,
+      "score": 590,
       "author": "yellow_lead",
       "created": "2025-12-23 17:08:34",
       "created_at": 1766509714000
@@ -55,7 +55,7 @@
       "id": 46355165,
       "title": "Claude Code gets native LSP support",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "score": 498,
+      "score": 499,
       "author": "JamesSwift",
       "created": "2025-12-22 15:59:01",
       "created_at": 1766419141000
@@ -64,7 +64,7 @@
       "id": 46357675,
       "title": "The Illustrated Transformer",
       "link": "https://jalammar.github.io/illustrated-transformer/",
-      "score": 471,
+      "score": 473,
       "author": "auraham",
       "created": "2025-12-22 19:15:56",
       "created_at": 1766430956000
@@ -73,7 +73,7 @@
       "id": 46359120,
       "title": "It's Always TCP_NODELAY",
       "link": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "score": 454,
+      "score": 456,
       "author": "eieio",
       "created": "2025-12-22 21:09:59",
       "created_at": 1766437799000
@@ -82,7 +82,7 @@
       "id": 46352930,
       "title": "If you don't design your career, someone else will (2014)",
       "link": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
-      "score": 433,
+      "score": 434,
       "author": "TheAlchemist",
       "created": "2025-12-22 10:27:52",
       "created_at": 1766399272000
@@ -91,7 +91,7 @@
       "id": 46357287,
       "title": "GLM-4.7: Advancing the Coding Capability",
       "link": "https://z.ai/blog/glm-4.7",
-      "score": 412,
+      "score": 414,
       "author": "pretext",
       "created": "2025-12-22 18:46:32",
       "created_at": 1766429192000
