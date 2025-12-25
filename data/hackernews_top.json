@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-25T08:17:02.873Z"
+    "lastUpdate": "2025-12-25T12:22:44.743Z"
   },
   "data": [
+    {
+      "id": 46383675,
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "score": 52,
+      "author": "xvilka",
+      "created": "2025-12-25 11:03:59",
+      "created_at": 1766660639000
+    },
+    {
+      "id": 46383552,
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "score": 184,
+      "author": "rajeshrajappan",
+      "created": "2025-12-25 10:35:34",
+      "created_at": 1766658934000
+    },
     {
       "id": 46380075,
       "title": "Phoenix: A modern X server written from scratch in Zig",
       "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 376,
+      "score": 482,
       "author": "snvzz",
       "created": "2025-12-24 22:43:53",
       "created_at": 1766616233000
@@ -19,16 +37,25 @@
       "id": 46380168,
       "title": "Tell HN: Merry Christmas",
       "link": "",
-      "score": 1061,
+      "score": 1369,
       "author": "basilikum",
       "created": "2025-12-24 22:56:00",
       "created_at": 1766616960000
     },
     {
+      "id": 46383139,
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "score": 26,
+      "author": "stv0g",
+      "created": "2025-12-25 08:58:23",
+      "created_at": 1766653103000
+    },
+    {
       "id": 46380758,
       "title": "Who Watches the Waymos? I do [video]",
       "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "score": 132,
+      "score": 185,
       "author": "notgloating",
       "created": "2025-12-25 00:10:12",
       "created_at": 1766621412000
@@ -37,64 +64,37 @@
       "id": 46382011,
       "title": "Ruby 4.0.0",
       "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "score": 176,
+      "score": 358,
       "author": "FBISurveillance",
       "created": "2025-12-25 04:13:00",
       "created_at": 1766635980000
     },
     {
-      "id": 46380399,
-      "title": "Asterisk AI Voice Agent",
-      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "score": 95,
-      "author": "akrulino",
-      "created": "2025-12-24 23:25:37",
-      "created_at": 1766618737000
-    },
-    {
-      "id": 46377862,
-      "title": "Fabrice Bellard: Biography (2009) [pdf]",
-      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
-      "score": 252,
-      "author": "lioeters",
-      "created": "2025-12-24 18:17:47",
-      "created_at": 1766600267000
+      "id": 46383233,
+      "title": "Quantum Error Correction Goes FOOM",
+      "link": "https://algassert.com/post/2503",
+      "score": 12,
+      "author": "EvgeniyZh",
+      "created": "2025-12-25 09:18:15",
+      "created_at": 1766654295000
     },
     {
       "id": 46378554,
       "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "link": "https://github.com/antonmedv/textarea",
-      "score": 303,
+      "score": 356,
       "author": "medv",
       "created": "2025-12-24 19:42:25",
       "created_at": 1766605345000
     },
     {
-      "id": 46351666,
-      "title": "CSRF protection without tokens or hidden form fields",
-      "link": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
-      "score": 166,
-      "author": "adevilinyc",
-      "created": "2025-12-22 05:38:33",
-      "created_at": 1766381913000
-    },
-    {
-      "id": 46314540,
-      "title": "JEDEC developing reduced pin count HBM4 standard to enable higher capacity",
-      "link": "https://blocksandfiles.com/2025/12/17/jedec-sphbm4/",
-      "score": 26,
-      "author": "rbanffy",
-      "created": "2025-12-18 16:11:50",
-      "created_at": 1766074310000
-    },
-    {
-      "id": 46327191,
-      "title": "Show HN: Exploring Mathematics with Python",
-      "link": "https://coe.psu.ac.th/ad/explore/",
-      "score": 108,
-      "author": "Andrew2565",
-      "created": "2025-12-19 15:55:30",
-      "created_at": 1766159730000
+      "id": 46377862,
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "score": 285,
+      "author": "lioeters",
+      "created": "2025-12-24 18:17:47",
+      "created_at": 1766600267000
     }
   ],
   "code": 200,
