@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-24T20:13:08.850Z"
+    "lastUpdate": "2025-12-25T00:56:32.515Z"
   },
   "data": [
+    {
+      "id": 46380075,
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "link": "https://git.dec05eba.com/phoenix/about/",
+      "score": 158,
+      "author": "snvzz",
+      "created": "2025-12-24 22:43:53",
+      "created_at": 1766616233000
+    },
+    {
+      "id": 46380168,
+      "title": "Tell HN: Merry Christmas",
+      "link": "",
+      "score": 329,
+      "author": "basilikum",
+      "created": "2025-12-24 22:56:00",
+      "created_at": 1766616960000
+    },
+    {
+      "id": 46380475,
+      "title": "Microsoft please get your tab to autocomplete shit together",
+      "link": "https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/",
+      "score": 59,
+      "author": "AmbroseBierce",
+      "created": "2025-12-24 23:33:15",
+      "created_at": 1766619195000
+    },
+    {
+      "id": 46380758,
+      "title": "Who Watches the Waymos? I do [video]",
+      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "score": 17,
+      "author": "notgloating",
+      "created": "2025-12-25 00:10:12",
+      "created_at": 1766621412000
+    },
     {
       "id": 46378554,
       "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "link": "https://github.com/antonmedv/textarea",
-      "score": 27,
+      "score": 222,
       "author": "medv",
       "created": "2025-12-24 19:42:25",
       "created_at": 1766605345000
     },
     {
+      "id": 46351666,
+      "title": "CSRF protection without tokens or hidden form fields",
+      "link": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
+      "score": 76,
+      "author": "adevilinyc",
+      "created": "2025-12-22 05:38:33",
+      "created_at": 1766381913000
+    },
+    {
+      "id": 46322815,
+      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
+      "link": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
+      "score": 40,
+      "author": "XzetaU8",
+      "created": "2025-12-19 06:24:52",
+      "created_at": 1766125492000
+    },
+    {
       "id": 46377862,
-      "title": "Fabrice Bellard: Biography [pdf]",
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
       "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
-      "score": 54,
+      "score": 181,
       "author": "lioeters",
       "created": "2025-12-24 18:17:47",
       "created_at": 1766600267000
     },
     {
+      "id": 46380399,
+      "title": "Asterisk AI Voice Agent",
+      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
+      "score": 18,
+      "author": "akrulino",
+      "created": "2025-12-24 23:25:37",
+      "created_at": 1766618737000
+    },
+    {
       "id": 46377597,
       "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
       "link": "https://github.com/VibiumDev/vibium",
-      "score": 83,
+      "score": 208,
       "author": "hugs",
       "created": "2025-12-24 17:49:02",
       "created_at": 1766598542000
-    },
-    {
-      "id": 46375384,
-      "title": "When Compilers Surprise You",
-      "link": "https://xania.org/202512/24-cunning-clang",
-      "score": 154,
-      "author": "brewmarche",
-      "created": "2025-12-24 13:27:50",
-      "created_at": 1766582870000
-    },
-    {
-      "id": 46317687,
-      "title": "A faster path to container images in Bazel",
-      "link": "https://www.tweag.io/blog/2025-12-18-rules_img/",
-      "score": 35,
-      "author": "malt3",
-      "created": "2025-12-18 19:50:29",
-      "created_at": 1766087429000
-    },
-    {
-      "id": 46378469,
-      "title": "European Majority favours more tech regulation",
-      "link": "https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation",
-      "score": 5,
-      "author": "snowpid",
-      "created": "2025-12-24 19:32:51",
-      "created_at": 1766604771000
-    },
-    {
-      "id": 46376652,
-      "title": "My 2026 Open Social Web Predictions",
-      "link": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html",
-      "score": 44,
-      "author": "todsacerdoti",
-      "created": "2025-12-24 15:59:23",
-      "created_at": 1766591963000
-    },
-    {
-      "id": 46378431,
-      "title": "Looking for Decent Conversation?",
-      "link": "",
-      "score": 33,
-      "author": "kmstout",
-      "created": "2025-12-24 19:28:18",
-      "created_at": 1766604498000
-    },
-    {
-      "id": 46368946,
-      "title": "Some Epstein file redactions are being undone",
-      "link": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
-      "score": 856,
-      "author": "vinni2",
-      "created": "2025-12-23 20:10:30",
-      "created_at": 1766520630000
-    },
-    {
-      "id": 46377796,
-      "title": "Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery",
-      "link": "https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range",
-      "score": 67,
-      "author": "giuliomagnifico",
-      "created": "2025-12-24 18:09:42",
-      "created_at": 1766599782000
     }
   ],
   "code": 200,
