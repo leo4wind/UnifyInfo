@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-25T04:30:29.609Z"
+    "lastUpdate": "2025-12-25T08:17:02.910Z"
   },
   "data": [
     {
       "id": 46380075,
       "title": "Phoenix: A modern X server written from scratch in Zig",
       "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 275,
+      "score": 376,
       "author": "snvzz",
       "created": "2025-12-24 22:43:53",
       "created_at": 1766616233000
@@ -19,43 +19,52 @@
       "id": 46380168,
       "title": "Tell HN: Merry Christmas",
       "link": "",
-      "score": 742,
+      "score": 1061,
       "author": "basilikum",
       "created": "2025-12-24 22:56:00",
       "created_at": 1766616960000
     },
     {
-      "id": 46381839,
-      "title": "Python Applied Mathematics Labs",
-      "link": "https://labs.acme.byu.edu/Pages/intro.html",
-      "score": 23,
-      "author": "vvin",
-      "created": "2025-12-25 03:33:52",
-      "created_at": 1766633632000
-    },
-    {
       "id": 46380758,
       "title": "Who Watches the Waymos? I do [video]",
       "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "score": 85,
+      "score": 132,
       "author": "notgloating",
       "created": "2025-12-25 00:10:12",
       "created_at": 1766621412000
     },
     {
+      "id": 46382011,
+      "title": "Ruby 4.0.0",
+      "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
+      "score": 176,
+      "author": "FBISurveillance",
+      "created": "2025-12-25 04:13:00",
+      "created_at": 1766635980000
+    },
+    {
       "id": 46380399,
       "title": "Asterisk AI Voice Agent",
       "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "score": 62,
+      "score": 95,
       "author": "akrulino",
       "created": "2025-12-24 23:25:37",
       "created_at": 1766618737000
     },
     {
+      "id": 46377862,
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "score": 252,
+      "author": "lioeters",
+      "created": "2025-12-24 18:17:47",
+      "created_at": 1766600267000
+    },
+    {
       "id": 46378554,
       "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "link": "https://github.com/antonmedv/textarea",
-      "score": 261,
+      "score": 303,
       "author": "medv",
       "created": "2025-12-24 19:42:25",
       "created_at": 1766605345000
@@ -64,34 +73,25 @@
       "id": 46351666,
       "title": "CSRF protection without tokens or hidden form fields",
       "link": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
-      "score": 131,
+      "score": 166,
       "author": "adevilinyc",
       "created": "2025-12-22 05:38:33",
       "created_at": 1766381913000
     },
     {
-      "id": 46377862,
-      "title": "Fabrice Bellard: Biography (2009) [pdf]",
-      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
-      "score": 221,
-      "author": "lioeters",
-      "created": "2025-12-24 18:17:47",
-      "created_at": 1766600267000
-    },
-    {
-      "id": 46322815,
-      "title": "Research team digitizes more than 100 years of Canadian infectious disease data",
-      "link": "https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/",
-      "score": 81,
-      "author": "XzetaU8",
-      "created": "2025-12-19 06:24:52",
-      "created_at": 1766125492000
+      "id": 46314540,
+      "title": "JEDEC developing reduced pin count HBM4 standard to enable higher capacity",
+      "link": "https://blocksandfiles.com/2025/12/17/jedec-sphbm4/",
+      "score": 26,
+      "author": "rbanffy",
+      "created": "2025-12-18 16:11:50",
+      "created_at": 1766074310000
     },
     {
       "id": 46327191,
       "title": "Show HN: Exploring Mathematics with Python",
       "link": "https://coe.psu.ac.th/ad/explore/",
-      "score": 60,
+      "score": 108,
       "author": "Andrew2565",
       "created": "2025-12-19 15:55:30",
       "created_at": 1766159730000
