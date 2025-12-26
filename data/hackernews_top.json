@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-26T16:13:33.331Z"
+    "lastUpdate": "2025-12-26T20:12:54.584Z"
   },
   "data": [
     {
-      "id": 46392815,
-      "title": "High School Student Discovers 1.5M Potential New Astronomical Objects",
-      "link": "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/",
-      "score": 34,
-      "author": "mhb",
-      "created": "2025-12-26 15:13:21",
-      "created_at": 1766762001000
+      "id": 46395106,
+      "title": "Lewis Carroll Computed Determinants",
+      "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "score": 38,
+      "author": "tzury",
+      "created": "2025-12-26 19:03:32",
+      "created_at": 1766775812000
+    },
+    {
+      "id": 46393936,
+      "title": "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations",
+      "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "score": 123,
+      "author": "astronads",
+      "created": "2025-12-26 17:07:53",
+      "created_at": 1766768873000
     },
     {
       "id": 46391514,
       "title": "Package managers keep using Git as a database, it never works out",
       "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "score": 218,
+      "score": 466,
       "author": "birdculture",
       "created": "2025-12-26 12:46:36",
       "created_at": 1766753196000
     },
     {
+      "id": 46394867,
+      "title": "Rob Pike got spammed with an AI slop \"act of kindness\"",
+      "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/",
+      "score": 148,
+      "author": "nabla9",
+      "created": "2025-12-26 18:42:13",
+      "created_at": 1766774533000
+    },
+    {
+      "id": 46395273,
+      "title": "Gaussian Splatting 3 Ways",
+      "link": "https://github.com/NullandKale/NullSplats",
+      "score": 8,
+      "author": "nullandkale",
+      "created": "2025-12-26 19:23:28",
+      "created_at": 1766777008000
+    },
+    {
       "id": 46391599,
       "title": "LearnixOS",
       "link": "https://www.learnix-os.com",
-      "score": 65,
+      "score": 148,
       "author": "gtirloni",
       "created": "2025-12-26 12:59:56",
       "created_at": 1766753996000
     },
     {
-      "id": 46351836,
-      "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
-      "link": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
-      "score": 41,
-      "author": "tintinnabula",
-      "created": "2025-12-22 06:17:32",
-      "created_at": 1766384252000
+      "id": 46395184,
+      "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+      "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+      "score": 51,
+      "author": "davisr",
+      "created": "2025-12-26 19:13:22",
+      "created_at": 1766776402000
     },
     {
-      "id": 46393271,
-      "title": "Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago",
-      "link": "https://acadlisp.de/noscript.html",
-      "score": 4,
-      "author": "holg",
-      "created": "2025-12-26 15:56:52",
-      "created_at": 1766764612000
+      "id": 46394327,
+      "title": "FFmpeg has issued a DMCA takedown on GitHub",
+      "link": "https://twitter.com/FFmpeg/status/2004599109559496984",
+      "score": 142,
+      "author": "merlindru",
+      "created": "2025-12-26 17:48:25",
+      "created_at": 1766771305000
     },
     {
-      "id": 46357814,
-      "title": "The Algebra of Loans in Rust",
-      "link": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
-      "score": 110,
-      "author": "g0xA52A2A",
-      "created": "2025-12-22 19:25:29",
-      "created_at": 1766431529000
+      "id": 46393924,
+      "title": "C/C++ Embedded Files (2013)",
+      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+      "score": 34,
+      "author": "ibobev",
+      "created": "2025-12-26 17:06:35",
+      "created_at": 1766768795000
     },
     {
-      "id": 46387657,
-      "title": "Maybe the default settings are too high",
-      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "score": 751,
-      "author": "htk",
-      "created": "2025-12-25 23:13:21",
-      "created_at": 1766704401000
-    },
-    {
-      "id": 46391448,
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "link": "https://nullprogram.com/blog/2025/12/23/",
-      "score": 25,
-      "author": "rcarmo",
-      "created": "2025-12-26 12:35:10",
-      "created_at": 1766752510000
-    },
-    {
-      "id": 46392538,
-      "title": "Steve wants us to make the Macintosh boot faster",
-      "link": "https://www.folklore.org/Saving_Lives.html",
-      "score": 10,
-      "author": "maayank",
-      "created": "2025-12-26 14:52:13",
-      "created_at": 1766760733000
-    },
-    {
-      "id": 46344222,
-      "title": "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%",
-      "link": "https://www.nature.com/articles/s41586-025-09827-w",
-      "score": 31,
-      "author": "giuliomagnifico",
-      "created": "2025-12-21 12:07:44",
-      "created_at": 1766318864000
+      "id": 46393992,
+      "title": "How uv got so fast",
+      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "score": 9,
+      "author": "zdw",
+      "created": "2025-12-26 17:13:07",
+      "created_at": 1766769187000
     }
   ],
   "code": 200,
