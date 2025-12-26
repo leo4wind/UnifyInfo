@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-26T04:27:34.319Z"
+    "lastUpdate": "2025-12-26T08:16:35.002Z"
   },
   "data": [
     {
       "id": 46387657,
       "title": "Maybe the default settings are too high",
       "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "score": 327,
+      "score": 498,
       "author": "htk",
       "created": "2025-12-25 23:13:21",
       "created_at": 1766704401000
@@ -19,82 +19,82 @@
       "id": 46388213,
       "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
       "link": "https://www.minimaxi.com/news/minimax-m21",
-      "score": 61,
+      "score": 120,
       "author": "110",
       "created": "2025-12-26 01:02:53",
       "created_at": 1766710973000
     },
     {
-      "id": 46388904,
-      "title": "WiFi DensePose: WiFi-based dense human pose estimation system through walls",
-      "link": "https://github.com/ruvnet/wifi-densepose",
-      "score": 20,
-      "author": "nateb2022",
-      "created": "2025-12-26 03:18:47",
-      "created_at": 1766719127000
+      "id": 46363870,
+      "title": "Show HN: GeneGuessr – a daily biology web puzzle",
+      "link": "https://geneguessr.brinedew.bio/",
+      "score": 22,
+      "author": "brinedew",
+      "created": "2025-12-23 09:40:37",
+      "created_at": 1766482837000
+    },
+    {
+      "id": 46388907,
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "link": "https://github.com/thu-ml/TurboDiffusion",
+      "score": 47,
+      "author": "meander_water",
+      "created": "2025-12-26 03:19:49",
+      "created_at": 1766719189000
     },
     {
       "id": 46344573,
       "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players",
       "link": "https://gamingcouch.com",
-      "score": 34,
+      "score": 147,
       "author": "ChaosOp",
       "created": "2025-12-21 13:08:36",
       "created_at": 1766322516000
     },
     {
-      "id": 46324881,
-      "title": "Tiled Art",
-      "link": "https://tiled.art/en/home/?id=SilverAndGold",
-      "score": 45,
-      "author": "meander_water",
-      "created": "2025-12-19 12:00:30",
-      "created_at": 1766145630000
+      "id": 46388700,
+      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+      "link": "https://github.com/popovicu/ultimate-linux",
+      "score": 50,
+      "author": "radeeyate",
+      "created": "2025-12-26 02:32:29",
+      "created_at": 1766716349000
+    },
+    {
+      "id": 46390055,
+      "title": "Building an AI agent inside a 7-year-old Rails monolith",
+      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+      "score": 7,
+      "author": "cionescu1",
+      "created": "2025-12-26 07:35:15",
+      "created_at": 1766734515000
+    },
+    {
+      "id": 46354187,
+      "title": "Animating Quines for Larva Labs",
+      "link": "https://destroytoday.com/blog/animating-quines-for-larva-labs",
+      "score": 9,
+      "author": "speckx",
+      "created": "2025-12-22 14:04:02",
+      "created_at": 1766412242000
     },
     {
       "id": 46384167,
       "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
       "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-      "score": 342,
+      "score": 361,
       "author": "lumpa",
       "created": "2025-12-25 13:02:46",
       "created_at": 1766667766000
     },
     {
-      "id": 46388059,
-      "title": "When a driver challenges the kernel's assumptions",
-      "link": "http://miod.online.fr/software/openbsd/stories/udl.html",
-      "score": 36,
-      "author": "todsacerdoti",
-      "created": "2025-12-26 00:32:15",
-      "created_at": 1766709135000
-    },
-    {
       "id": 46386211,
       "title": "Fahrplan – 39C3",
       "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
-      "score": 162,
+      "score": 202,
       "author": "rurban",
       "created": "2025-12-25 18:40:14",
       "created_at": 1766688014000
-    },
-    {
-      "id": 46336577,
-      "title": "The entire New Yorker archive is now digitized",
-      "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
-      "score": 366,
-      "author": "thm",
-      "created": "2025-12-20 14:49:39",
-      "created_at": 1766242179000
-    },
-    {
-      "id": 46358211,
-      "title": "Paperbacks and TikTok",
-      "link": "https://calnewport.com/on-paperbacks-and-tiktok/",
-      "score": 91,
-      "author": "zdw",
-      "created": "2025-12-22 19:55:31",
-      "created_at": 1766433331000
     }
   ],
   "code": 200,
