@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-25T20:13:35.545Z"
+    "lastUpdate": "2025-12-26T00:56:53.854Z"
   },
   "data": [
+    {
+      "id": 46387657,
+      "title": "Maybe the default settings are too high",
+      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "score": 136,
+      "author": "htk",
+      "created": "2025-12-25 23:13:21",
+      "created_at": 1766704401000
+    },
+    {
+      "id": 46387164,
+      "title": "Memory Safety",
+      "link": "https://www.memorysafety.org/",
+      "score": 35,
+      "author": "pmaddams",
+      "created": "2025-12-25 21:31:25",
+      "created_at": 1766698285000
+    },
     {
       "id": 46384167,
       "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
       "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-      "score": 236,
+      "score": 313,
       "author": "lumpa",
       "created": "2025-12-25 13:02:46",
       "created_at": 1766667766000
     },
     {
-      "id": 46336577,
-      "title": "The entire New Yorker archive is now digitized",
-      "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
-      "score": 213,
-      "author": "thm",
-      "created": "2025-12-20 14:49:39",
-      "created_at": 1766242179000
+      "id": 46386211,
+      "title": "Fahrplan – 39C3",
+      "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "score": 122,
+      "author": "rurban",
+      "created": "2025-12-25 18:40:14",
+      "created_at": 1766688014000
     },
     {
-      "id": 46385308,
-      "title": "I sell onions on the Internet (2019)",
-      "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-      "score": 255,
-      "author": "sogen",
-      "created": "2025-12-25 16:24:45",
-      "created_at": 1766679885000
+      "id": 46358211,
+      "title": "Paperbacks and TikTok",
+      "link": "https://calnewport.com/on-paperbacks-and-tiktok/",
+      "score": 48,
+      "author": "zdw",
+      "created": "2025-12-22 19:55:31",
+      "created_at": 1766433331000
     },
     {
       "id": 46330732,
       "title": "CUDA Tile Open Sourced",
       "link": "https://github.com/NVIDIA/cuda-tile",
-      "score": 57,
+      "score": 139,
       "author": "JonChesterfield",
       "created": "2025-12-19 20:49:54",
       "created_at": 1766177394000
     },
     {
+      "id": 46336577,
+      "title": "The entire New Yorker archive is now digitized",
+      "link": "https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized",
+      "score": 319,
+      "author": "thm",
+      "created": "2025-12-20 14:49:39",
+      "created_at": 1766242179000
+    },
+    {
+      "id": 46358166,
+      "title": "The Program 2025 annual review: How much money does an audio drama podcast make?",
+      "link": "https://programaudioseries.com/the-program-results-7/",
+      "score": 32,
+      "author": "I-M-S",
+      "created": "2025-12-22 19:52:10",
+      "created_at": 1766433130000
+    },
+    {
+      "id": 46354192,
+      "title": "Dasharo TrustRoot Ephemeral Key Incident",
+      "link": "https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/",
+      "score": 12,
+      "author": "pietrushnic",
+      "created": "2025-12-22 14:04:19",
+      "created_at": 1766412259000
+    },
+    {
       "id": 46357362,
-      "title": "Archiving Git Branches as Tags",
+      "title": "Archiving Git branches as tags",
       "link": "https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/",
-      "score": 17,
+      "score": 72,
       "author": "octavore",
       "created": "2025-12-22 18:52:50",
       "created_at": 1766429570000
-    },
-    {
-      "id": 46384565,
-      "title": "Asahi Linux with Sway on the MacBook Air M2",
-      "link": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
-      "score": 105,
-      "author": "andsoitis",
-      "created": "2025-12-25 14:20:29",
-      "created_at": 1766672429000
-    },
-    {
-      "id": 46384919,
-      "title": "Alzheimer’s disease can be reversed in animal models: Study",
-      "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-      "score": 325,
-      "author": "thunderbong",
-      "created": "2025-12-25 15:22:36",
-      "created_at": 1766676156000
-    },
-    {
-      "id": 46379145,
-      "title": "Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat",
-      "link": "https://evan.widloski.com/posts/spinners/",
-      "score": 17,
-      "author": "Evidlo",
-      "created": "2025-12-24 20:56:53",
-      "created_at": 1766609813000
-    },
-    {
-      "id": 46380075,
-      "title": "Phoenix: A modern X server written from scratch in Zig",
-      "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 584,
-      "author": "snvzz",
-      "created": "2025-12-24 22:43:53",
-      "created_at": 1766616233000
-    },
-    {
-      "id": 46383552,
-      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
-      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-      "score": 727,
-      "author": "rajeshrajappan",
-      "created": "2025-12-25 10:35:34",
-      "created_at": 1766658934000
     }
   ],
   "code": 200,
