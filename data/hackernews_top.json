@@ -3,14 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-26T12:22:38.799Z"
+    "lastUpdate": "2025-12-26T16:13:33.331Z"
   },
   "data": [
+    {
+      "id": 46392815,
+      "title": "High School Student Discovers 1.5M Potential New Astronomical Objects",
+      "link": "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/",
+      "score": 34,
+      "author": "mhb",
+      "created": "2025-12-26 15:13:21",
+      "created_at": 1766762001000
+    },
+    {
+      "id": 46391514,
+      "title": "Package managers keep using Git as a database, it never works out",
+      "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+      "score": 218,
+      "author": "birdculture",
+      "created": "2025-12-26 12:46:36",
+      "created_at": 1766753196000
+    },
+    {
+      "id": 46391599,
+      "title": "LearnixOS",
+      "link": "https://www.learnix-os.com",
+      "score": 65,
+      "author": "gtirloni",
+      "created": "2025-12-26 12:59:56",
+      "created_at": 1766753996000
+    },
+    {
+      "id": 46351836,
+      "title": "Joan Didion and Kurt Vonnegut had something to say. We have it on tape",
+      "link": "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html",
+      "score": 41,
+      "author": "tintinnabula",
+      "created": "2025-12-22 06:17:32",
+      "created_at": 1766384252000
+    },
+    {
+      "id": 46393271,
+      "title": "Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago",
+      "link": "https://acadlisp.de/noscript.html",
+      "score": 4,
+      "author": "holg",
+      "created": "2025-12-26 15:56:52",
+      "created_at": 1766764612000
+    },
     {
       "id": 46357814,
       "title": "The Algebra of Loans in Rust",
       "link": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
-      "score": 57,
+      "score": 110,
       "author": "g0xA52A2A",
       "created": "2025-12-22 19:25:29",
       "created_at": 1766431529000
@@ -19,82 +64,37 @@
       "id": 46387657,
       "title": "Maybe the default settings are too high",
       "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "score": 663,
+      "score": 751,
       "author": "htk",
       "created": "2025-12-25 23:13:21",
       "created_at": 1766704401000
     },
     {
-      "id": 46390667,
-      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-      "score": 24,
-      "author": "HeliumHydride",
-      "created": "2025-12-26 09:43:23",
-      "created_at": 1766742203000
+      "id": 46391448,
+      "title": "Unix \"find\" expressions compiled to bytecode",
+      "link": "https://nullprogram.com/blog/2025/12/23/",
+      "score": 25,
+      "author": "rcarmo",
+      "created": "2025-12-26 12:35:10",
+      "created_at": 1766752510000
     },
     {
-      "id": 46390055,
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "score": 58,
-      "author": "cionescu1",
-      "created": "2025-12-26 07:35:15",
-      "created_at": 1766734515000
+      "id": 46392538,
+      "title": "Steve wants us to make the Macintosh boot faster",
+      "link": "https://www.folklore.org/Saving_Lives.html",
+      "score": 10,
+      "author": "maayank",
+      "created": "2025-12-26 14:52:13",
+      "created_at": 1766760733000
     },
     {
-      "id": 46388213,
-      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
-      "link": "https://www.minimaxi.com/news/minimax-m21",
-      "score": 160,
-      "author": "110",
-      "created": "2025-12-26 01:02:53",
-      "created_at": 1766710973000
-    },
-    {
-      "id": 46388907,
-      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
-      "link": "https://github.com/thu-ml/TurboDiffusion",
-      "score": 113,
-      "author": "meander_water",
-      "created": "2025-12-26 03:19:49",
-      "created_at": 1766719189000
-    },
-    {
-      "id": 46344573,
-      "title": "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players",
-      "link": "https://gamingcouch.com",
-      "score": 244,
-      "author": "ChaosOp",
-      "created": "2025-12-21 13:08:36",
-      "created_at": 1766322516000
-    },
-    {
-      "id": 46324881,
-      "title": "Tiled Art",
-      "link": "https://tiled.art/en/home/?id=SilverAndGold",
-      "score": 169,
-      "author": "meander_water",
-      "created": "2025-12-19 12:00:30",
-      "created_at": 1766145630000
-    },
-    {
-      "id": 46386211,
-      "title": "Fahrplan – 39C3",
-      "link": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
-      "score": 292,
-      "author": "rurban",
-      "created": "2025-12-25 18:40:14",
-      "created_at": 1766688014000
-    },
-    {
-      "id": 46384167,
-      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
-      "link": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-      "score": 374,
-      "author": "lumpa",
-      "created": "2025-12-25 13:02:46",
-      "created_at": 1766667766000
+      "id": 46344222,
+      "title": "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%",
+      "link": "https://www.nature.com/articles/s41586-025-09827-w",
+      "score": 31,
+      "author": "giuliomagnifico",
+      "created": "2025-12-21 12:07:44",
+      "created_at": 1766318864000
     }
   ],
   "code": 200,

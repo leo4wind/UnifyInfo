@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-26T12:22:38.713Z"
+    "lastUpdate": "2025-12-26T16:13:33.093Z"
   },
   "data": [
     {
       "id": 46380168,
       "title": "Tell HN: Merry Christmas",
       "link": "",
-      "score": 1918,
+      "score": 1926,
       "author": "basilikum",
       "created": "2025-12-24 22:56:00",
       "created_at": 1766616960000
@@ -19,16 +19,25 @@
       "id": 46383552,
       "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
       "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-      "score": 1089,
+      "score": 1110,
       "author": "rajeshrajappan",
       "created": "2025-12-25 10:35:34",
       "created_at": 1766658934000
     },
     {
+      "id": 46387657,
+      "title": "Maybe the default settings are too high",
+      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "score": 751,
+      "author": "htk",
+      "created": "2025-12-25 23:13:21",
+      "created_at": 1766704401000
+    },
+    {
       "id": 46382011,
       "title": "Ruby 4.0.0",
       "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "score": 727,
+      "score": 733,
       "author": "FBISurveillance",
       "created": "2025-12-25 04:13:00",
       "created_at": 1766635980000
@@ -37,25 +46,16 @@
       "id": 46379183,
       "title": "Nvidia to buy assets from Groq for $20B cash",
       "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
-      "score": 671,
+      "score": 677,
       "author": "nickrubin",
       "created": "2025-12-24 21:02:15",
       "created_at": 1766610135000
     },
     {
-      "id": 46387657,
-      "title": "Maybe the default settings are too high",
-      "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "score": 663,
-      "author": "htk",
-      "created": "2025-12-25 23:13:21",
-      "created_at": 1766704401000
-    },
-    {
       "id": 46380075,
       "title": "Phoenix: A modern X server written from scratch in Zig",
       "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 646,
+      "score": 651,
       "author": "snvzz",
       "created": "2025-12-24 22:43:53",
       "created_at": 1766616233000
@@ -64,7 +64,7 @@
       "id": 46384919,
       "title": "Alzheimer’s disease can be reversed in animal models? Study",
       "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-      "score": 465,
+      "score": 471,
       "author": "thunderbong",
       "created": "2025-12-25 15:22:36",
       "created_at": 1766676156000
@@ -73,7 +73,7 @@
       "id": 46385308,
       "title": "I sell onions on the Internet (2019)",
       "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-      "score": 462,
+      "score": 468,
       "author": "sogen",
       "created": "2025-12-25 16:24:45",
       "created_at": 1766679885000
@@ -82,7 +82,7 @@
       "id": 46378554,
       "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "link": "https://github.com/antonmedv/textarea",
-      "score": 447,
+      "score": 451,
       "author": "medv",
       "created": "2025-12-24 19:42:25",
       "created_at": 1766605345000
