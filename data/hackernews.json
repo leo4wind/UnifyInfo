@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-26T00:56:53.771Z"
+    "lastUpdate": "2025-12-26T04:27:34.156Z"
   },
   "data": [
     {
       "id": 46380168,
       "title": "Tell HN: Merry Christmas",
       "link": "",
-      "score": 1874,
+      "score": 1897,
       "author": "basilikum",
       "created": "2025-12-24 22:56:00",
       "created_at": 1766616960000
@@ -19,7 +19,7 @@
       "id": 46383552,
       "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
       "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-      "score": 899,
+      "score": 967,
       "author": "rajeshrajappan",
       "created": "2025-12-25 10:35:34",
       "created_at": 1766658934000
@@ -28,7 +28,7 @@
       "id": 46382011,
       "title": "Ruby 4.0.0",
       "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "score": 671,
+      "score": 707,
       "author": "FBISurveillance",
       "created": "2025-12-25 04:13:00",
       "created_at": 1766635980000
@@ -37,7 +37,7 @@
       "id": 46379183,
       "title": "Nvidia to buy assets from Groq for $20B cash",
       "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
-      "score": 651,
+      "score": 660,
       "author": "nickrubin",
       "created": "2025-12-24 21:02:15",
       "created_at": 1766610135000
@@ -46,25 +46,16 @@
       "id": 46380075,
       "title": "Phoenix: A modern X server written from scratch in Zig",
       "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 624,
+      "score": 634,
       "author": "snvzz",
       "created": "2025-12-24 22:43:53",
       "created_at": 1766616233000
     },
     {
-      "id": 46371135,
-      "title": "Unifi Travel Router",
-      "link": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
-      "score": 461,
-      "author": "flurdy",
-      "created": "2025-12-24 00:30:18",
-      "created_at": 1766536218000
-    },
-    {
       "id": 46378554,
       "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
       "link": "https://github.com/antonmedv/textarea",
-      "score": 435,
+      "score": 442,
       "author": "medv",
       "created": "2025-12-24 19:42:25",
       "created_at": 1766605345000
@@ -73,7 +64,7 @@
       "id": 46384919,
       "title": "Alzheimer’s disease can be reversed in animal models? Study",
       "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-      "score": 417,
+      "score": 441,
       "author": "thunderbong",
       "created": "2025-12-25 15:22:36",
       "created_at": 1766676156000
@@ -82,7 +73,7 @@
       "id": 46377597,
       "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
       "link": "https://github.com/VibiumDev/vibium",
-      "score": 410,
+      "score": 419,
       "author": "hugs",
       "created": "2025-12-24 17:49:02",
       "created_at": 1766598542000
@@ -91,10 +82,19 @@
       "id": 46385308,
       "title": "I sell onions on the Internet (2019)",
       "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-      "score": 356,
+      "score": 396,
       "author": "sogen",
       "created": "2025-12-25 16:24:45",
       "created_at": 1766679885000
+    },
+    {
+      "id": 46377862,
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "link": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "score": 347,
+      "author": "lioeters",
+      "created": "2025-12-24 18:17:47",
+      "created_at": 1766600267000
     }
   ],
   "code": 200,
