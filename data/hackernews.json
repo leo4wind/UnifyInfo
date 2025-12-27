@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-26T20:12:54.455Z"
+    "lastUpdate": "2025-12-27T00:55:41.272Z"
   },
   "data": [
     {
-      "id": 46380168,
-      "title": "Tell HN: Merry Christmas",
-      "link": "",
-      "score": 1933,
-      "author": "basilikum",
-      "created": "2025-12-24 22:56:00",
-      "created_at": 1766616960000
-    },
-    {
-      "id": 46383552,
-      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
-      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-      "score": 1134,
-      "author": "rajeshrajappan",
-      "created": "2025-12-25 10:35:34",
-      "created_at": 1766658934000
-    },
-    {
       "id": 46392115,
-      "title": "Rob Pike Goes Nuclear over GenAI",
+      "title": "Rob Pike goes nuclear over GenAI",
       "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-      "score": 865,
+      "score": 1197,
       "author": "christoph-heiss",
       "created": "2025-12-26 14:08:47",
       "created_at": 1766758127000
     },
     {
+      "id": 46383552,
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "score": 1146,
+      "author": "rajeshrajappan",
+      "created": "2025-12-25 10:35:34",
+      "created_at": 1766658934000
+    },
+    {
       "id": 46387657,
       "title": "Maybe the default settings are too high",
       "link": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
-      "score": 848,
+      "score": 874,
       "author": "htk",
       "created": "2025-12-25 23:13:21",
       "created_at": 1766704401000
@@ -46,34 +37,34 @@
       "id": 46382011,
       "title": "Ruby 4.0.0",
       "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "score": 740,
+      "score": 743,
       "author": "FBISurveillance",
       "created": "2025-12-25 04:13:00",
       "created_at": 1766635980000
     },
     {
-      "id": 46379183,
-      "title": "Nvidia to buy assets from Groq for $20B cash",
-      "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
-      "score": 679,
-      "author": "nickrubin",
-      "created": "2025-12-24 21:02:15",
-      "created_at": 1766610135000
+      "id": 46391514,
+      "title": "Package managers keep using Git as a database, it never works out",
+      "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+      "score": 565,
+      "author": "birdculture",
+      "created": "2025-12-26 12:46:36",
+      "created_at": 1766753196000
     },
     {
-      "id": 46380075,
-      "title": "Phoenix: A modern X server written from scratch in Zig",
-      "link": "https://git.dec05eba.com/phoenix/about/",
-      "score": 656,
-      "author": "snvzz",
-      "created": "2025-12-24 22:43:53",
-      "created_at": 1766616233000
+      "id": 46393992,
+      "title": "How uv got so fast",
+      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "score": 493,
+      "author": "zdw",
+      "created": "2025-12-26 17:13:07",
+      "created_at": 1766769187000
     },
     {
       "id": 46385308,
       "title": "I sell onions on the Internet (2019)",
       "link": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-      "score": 474,
+      "score": 478,
       "author": "sogen",
       "created": "2025-12-25 16:24:45",
       "created_at": 1766679885000
@@ -82,19 +73,28 @@
       "id": 46384919,
       "title": "Alzheimer’s disease can be reversed in animal models? Study",
       "link": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-      "score": 474,
+      "score": 478,
       "author": "thunderbong",
       "created": "2025-12-25 15:22:36",
       "created_at": 1766676156000
     },
     {
-      "id": 46391514,
-      "title": "Package managers keep using Git as a database, it never works out",
-      "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "score": 466,
-      "author": "birdculture",
-      "created": "2025-12-26 12:46:36",
-      "created_at": 1766753196000
+      "id": 46389444,
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "link": "https://imgur.com/nUJCI3o",
+      "score": 455,
+      "author": "signa11",
+      "created": "2025-12-26 05:27:05",
+      "created_at": 1766726825000
+    },
+    {
+      "id": 46388040,
+      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
+      "link": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
+      "score": 414,
+      "author": "pabs3",
+      "created": "2025-12-26 00:29:40",
+      "created_at": 1766708980000
     }
   ],
   "code": 200,

@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-26T20:12:54.614Z"
+    "lastUpdate": "2025-12-27T00:55:41.516Z"
   },
   "data": [
     {
-      "id": 46395106,
-      "title": "Lewis Carroll Computed Determinants",
-      "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
-      "score": 38,
-      "author": "tzury",
-      "created": "2025-12-26 19:03:32",
-      "created_at": 1766775812000
+      "id": 46393992,
+      "title": "How uv got so fast",
+      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "score": 493,
+      "author": "zdw",
+      "created": "2025-12-26 17:13:07",
+      "created_at": 1766769187000
+    },
+    {
+      "id": 46397609,
+      "title": "Exe.dev/",
+      "link": "https://exe.dev/",
+      "score": 41,
+      "author": "achairapart",
+      "created": "2025-12-26 23:42:46",
+      "created_at": 1766792566000
+    },
+    {
+      "id": 46365726,
+      "title": "The Best Things and Stuff of 2025",
+      "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "score": 98,
+      "author": "adityaathalye",
+      "created": "2025-12-23 14:51:33",
+      "created_at": 1766501493000
     },
     {
       "id": 46393936,
-      "title": "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations",
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
       "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
-      "score": 123,
+      "score": 282,
       "author": "astronads",
       "created": "2025-12-26 17:07:53",
       "created_at": 1766768873000
     },
     {
+      "id": 46397379,
+      "title": "Always Bet on Text",
+      "link": "https://graydon2.dreamwidth.org/193447.html",
+      "score": 27,
+      "author": "jesseduffield",
+      "created": "2025-12-26 23:09:40",
+      "created_at": 1766790580000
+    },
+    {
+      "id": 46395106,
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "score": 132,
+      "author": "tzury",
+      "created": "2025-12-26 19:03:32",
+      "created_at": 1766775812000
+    },
+    {
+      "id": 46395061,
+      "title": "Drawing with zero-width characters",
+      "link": "https://zw.swerdlow.dev",
+      "score": 57,
+      "author": "benswerd",
+      "created": "2025-12-26 18:59:39",
+      "created_at": 1766775579000
+    },
+    {
+      "id": 46372532,
+      "title": "-tucky (2023)",
+      "link": "https://languagelog.ldc.upenn.edu/nll/?p=58650",
+      "score": 19,
+      "author": "benatkin",
+      "created": "2025-12-24 04:43:17",
+      "created_at": 1766551397000
+    },
+    {
       "id": 46391514,
       "title": "Package managers keep using Git as a database, it never works out",
       "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "score": 466,
+      "score": 565,
       "author": "birdculture",
       "created": "2025-12-26 12:46:36",
       "created_at": 1766753196000
     },
     {
-      "id": 46394867,
-      "title": "Rob Pike got spammed with an AI slop \"act of kindness\"",
-      "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/",
-      "score": 148,
-      "author": "nabla9",
-      "created": "2025-12-26 18:42:13",
-      "created_at": 1766774533000
-    },
-    {
-      "id": 46395273,
-      "title": "Gaussian Splatting 3 Ways",
-      "link": "https://github.com/NullandKale/NullSplats",
-      "score": 8,
-      "author": "nullandkale",
-      "created": "2025-12-26 19:23:28",
-      "created_at": 1766777008000
-    },
-    {
-      "id": 46391599,
-      "title": "LearnixOS",
-      "link": "https://www.learnix-os.com",
-      "score": 148,
-      "author": "gtirloni",
-      "created": "2025-12-26 12:59:56",
-      "created_at": 1766753996000
-    },
-    {
-      "id": 46395184,
-      "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
-      "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
-      "score": 51,
-      "author": "davisr",
-      "created": "2025-12-26 19:13:22",
-      "created_at": 1766776402000
-    },
-    {
-      "id": 46394327,
-      "title": "FFmpeg has issued a DMCA takedown on GitHub",
-      "link": "https://twitter.com/FFmpeg/status/2004599109559496984",
-      "score": 142,
-      "author": "merlindru",
-      "created": "2025-12-26 17:48:25",
-      "created_at": 1766771305000
-    },
-    {
-      "id": 46393924,
-      "title": "C/C++ Embedded Files (2013)",
-      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
-      "score": 34,
-      "author": "ibobev",
-      "created": "2025-12-26 17:06:35",
-      "created_at": 1766768795000
-    },
-    {
-      "id": 46393992,
-      "title": "How uv got so fast",
-      "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-      "score": 9,
-      "author": "zdw",
-      "created": "2025-12-26 17:13:07",
-      "created_at": 1766769187000
+      "id": 46392910,
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "link": "https://github.com/pranshuparmar/witr",
+      "score": 174,
+      "author": "pranshuparmar",
+      "created": "2025-12-26 15:20:36",
+      "created_at": 1766762436000
     }
   ],
   "code": 200,
