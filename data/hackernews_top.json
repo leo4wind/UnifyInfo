@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-27T00:55:41.478Z"
+    "lastUpdate": "2025-12-27T04:24:10.119Z"
   },
   "data": [
     {
       "id": 46393992,
       "title": "How uv got so fast",
       "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-      "score": 493,
+      "score": 661,
       "author": "zdw",
       "created": "2025-12-26 17:13:07",
       "created_at": 1766769187000
     },
     {
-      "id": 46397609,
-      "title": "Exe.dev/",
-      "link": "https://exe.dev/",
-      "score": 41,
-      "author": "achairapart",
-      "created": "2025-12-26 23:42:46",
-      "created_at": 1766792566000
-    },
-    {
-      "id": 46365726,
-      "title": "The Best Things and Stuff of 2025",
-      "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
-      "score": 98,
-      "author": "adityaathalye",
-      "created": "2025-12-23 14:51:33",
-      "created_at": 1766501493000
-    },
-    {
-      "id": 46393936,
-      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
-      "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
-      "score": 282,
-      "author": "astronads",
-      "created": "2025-12-26 17:07:53",
-      "created_at": 1766768873000
+      "id": 46398201,
+      "title": "QNX Self-Hosted Developer Desktop",
+      "link": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
+      "score": 58,
+      "author": "transpute",
+      "created": "2025-12-27 01:16:53",
+      "created_at": 1766798213000
     },
     {
       "id": 46397379,
       "title": "Always Bet on Text",
       "link": "https://graydon2.dreamwidth.org/193447.html",
-      "score": 27,
+      "score": 123,
       "author": "jesseduffield",
       "created": "2025-12-26 23:09:40",
       "created_at": 1766790580000
     },
     {
+      "id": 46395871,
+      "title": "T-Ruby is Ruby with syntax for types",
+      "link": "https://type-ruby.github.io/",
+      "score": 75,
+      "author": "thunderbong",
+      "created": "2025-12-26 20:27:50",
+      "created_at": 1766780870000
+    },
+    {
+      "id": 46393936,
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "score": 331,
+      "author": "astronads",
+      "created": "2025-12-26 17:07:53",
+      "created_at": 1766768873000
+    },
+    {
+      "id": 46365726,
+      "title": "The Best Things and Stuff of 2025",
+      "link": "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html",
+      "score": 158,
+      "author": "adityaathalye",
+      "created": "2025-12-23 14:51:33",
+      "created_at": 1766501493000
+    },
+    {
+      "id": 46354492,
+      "title": "One million (small web) screenshots",
+      "link": "https://nry.me/posts/2025-10-09/small-web-screenshots/",
+      "score": 41,
+      "author": "squidhunter",
+      "created": "2025-12-22 14:44:20",
+      "created_at": 1766414660000
+    },
+    {
       "id": 46395106,
       "title": "How Lewis Carroll computed determinants (2023)",
       "link": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
-      "score": 132,
+      "score": 148,
       "author": "tzury",
       "created": "2025-12-26 19:03:32",
       "created_at": 1766775812000
     },
     {
-      "id": 46395061,
-      "title": "Drawing with zero-width characters",
-      "link": "https://zw.swerdlow.dev",
-      "score": 57,
-      "author": "benswerd",
-      "created": "2025-12-26 18:59:39",
-      "created_at": 1766775579000
-    },
-    {
-      "id": 46372532,
-      "title": "-tucky (2023)",
-      "link": "https://languagelog.ldc.upenn.edu/nll/?p=58650",
-      "score": 19,
-      "author": "benatkin",
-      "created": "2025-12-24 04:43:17",
-      "created_at": 1766551397000
+      "id": 46392910,
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "link": "https://github.com/pranshuparmar/witr",
+      "score": 227,
+      "author": "pranshuparmar",
+      "created": "2025-12-26 15:20:36",
+      "created_at": 1766762436000
     },
     {
       "id": 46391514,
       "title": "Package managers keep using Git as a database, it never works out",
       "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "score": 565,
+      "score": 595,
       "author": "birdculture",
       "created": "2025-12-26 12:46:36",
       "created_at": 1766753196000
-    },
-    {
-      "id": 46392910,
-      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
-      "link": "https://github.com/pranshuparmar/witr",
-      "score": 174,
-      "author": "pranshuparmar",
-      "created": "2025-12-26 15:20:36",
-      "created_at": 1766762436000
     }
   ],
   "code": 200,
