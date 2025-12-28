@@ -3,59 +3,77 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-28T12:21:22.650Z"
+    "lastUpdate": "2025-12-28T16:13:32.433Z"
   },
   "data": [
-    {
-      "id": 46392115,
-      "title": "Rob Pike goes nuclear over GenAI",
-      "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-      "score": 1500,
-      "author": "christoph-heiss",
-      "created": "2025-12-26 14:08:47",
-      "created_at": 1766758127000
-    },
     {
       "id": 46393992,
       "title": "How uv got so fast",
       "link": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-      "score": 1224,
+      "score": 1231,
       "author": "zdw",
       "created": "2025-12-26 17:13:07",
       "created_at": 1766769187000
     },
     {
-      "id": 46391514,
-      "title": "Package managers keep using Git as a database, it never works out",
-      "link": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "score": 761,
-      "author": "birdculture",
-      "created": "2025-12-26 12:46:36",
-      "created_at": 1766753196000
-    },
-    {
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 759,
+      "score": 847,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
     },
     {
+      "id": 46408613,
+      "title": "Calendar",
+      "link": "https://neatnik.net/calendar/?year=2026",
+      "score": 664,
+      "author": "twapi",
+      "created": "2025-12-28 05:02:39",
+      "created_at": 1766898159000
+    },
+    {
+      "id": 46404848,
+      "title": "How we lost communication to entertainment",
+      "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "score": 547,
+      "author": "8organicbits",
+      "created": "2025-12-27 20:15:01",
+      "created_at": 1766866501000
+    },
+    {
       "id": 46394327,
       "title": "FFmpeg has issued a DMCA takedown on GitHub",
       "link": "https://twitter.com/FFmpeg/status/2004599109559496984",
-      "score": 537,
+      "score": 541,
       "author": "merlindru",
       "created": "2025-12-26 17:48:25",
       "created_at": 1766771305000
     },
     {
+      "id": 46407337,
+      "title": "Replacing JavaScript with Just HTML",
+      "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "score": 522,
+      "author": "soheilpro",
+      "created": "2025-12-28 01:07:09",
+      "created_at": 1766884029000
+    },
+    {
+      "id": 46403559,
+      "title": "Nvidia's $20B antitrust loophole",
+      "link": "https://ossa-ma.github.io/blog/groq",
+      "score": 508,
+      "author": "ossa-ma",
+      "created": "2025-12-27 17:42:46",
+      "created_at": 1766857366000
+    },
+    {
       "id": 46395184,
       "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
       "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
-      "score": 481,
+      "score": 486,
       "author": "davisr",
       "created": "2025-12-26 19:13:22",
       "created_at": 1766776402000
@@ -64,37 +82,19 @@
       "id": 46392910,
       "title": "Show HN: Witr – Explain why a process is running on your Linux system",
       "link": "https://github.com/pranshuparmar/witr",
-      "score": 480,
+      "score": 486,
       "author": "pranshuparmar",
       "created": "2025-12-26 15:20:36",
       "created_at": 1766762436000
     },
     {
-      "id": 46408613,
-      "title": "Calendar",
-      "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 477,
-      "author": "twapi",
-      "created": "2025-12-28 05:02:39",
-      "created_at": 1766898159000
-    },
-    {
       "id": 46393936,
       "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
       "link": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
-      "score": 474,
+      "score": 477,
       "author": "astronads",
       "created": "2025-12-26 17:07:53",
       "created_at": 1766768873000
-    },
-    {
-      "id": 46403559,
-      "title": "Nvidia's $20B antitrust loophole",
-      "link": "https://ossa-ma.github.io/blog/groq",
-      "score": 466,
-      "author": "ossa-ma",
-      "created": "2025-12-27 17:42:46",
-      "created_at": 1766857366000
     }
   ],
   "code": 200,

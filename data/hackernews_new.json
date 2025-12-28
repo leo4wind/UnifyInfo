@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-28T12:21:22.750Z"
+    "lastUpdate": "2025-12-28T16:13:32.566Z"
   },
   "data": [
-    {
-      "id": 46408613,
-      "title": "Calendar",
-      "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 477,
-      "author": "twapi",
-      "created": "2025-12-28 05:02:39",
-      "created_at": 1766898159000
-    },
     {
       "id": 46408988,
       "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "link": "https://substack.com/inbox/post/182743659",
-      "score": 94,
+      "score": 323,
       "author": "Vincent_Yan404",
       "created": "2025-12-28 06:43:25",
       "created_at": 1766904205000
     },
     {
+      "id": 46408613,
+      "title": "Calendar",
+      "link": "https://neatnik.net/calendar/?year=2026",
+      "score": 664,
+      "author": "twapi",
+      "created": "2025-12-28 05:02:39",
+      "created_at": 1766898159000
+    },
+    {
       "id": 46407337,
       "title": "Replacing JavaScript with Just HTML",
       "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "score": 428,
+      "score": 522,
       "author": "soheilpro",
       "created": "2025-12-28 01:07:09",
       "created_at": 1766884029000
     },
     {
-      "id": 46404848,
-      "title": "How we lost communication to entertainment",
-      "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 465,
-      "author": "8organicbits",
-      "created": "2025-12-27 20:15:01",
-      "created_at": 1766866501000
+      "id": 46410402,
+      "title": "Building a macOS app to know when my Mac is thermal throttling",
+      "link": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
+      "score": 45,
+      "author": "angristan",
+      "created": "2025-12-28 11:51:42",
+      "created_at": 1766922702000
     },
     {
-      "id": 46408984,
-      "title": "C++ says “We have try at home”",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
-      "score": 44,
-      "author": "ibobev",
-      "created": "2025-12-28 06:42:53",
-      "created_at": 1766904173000
+      "id": 46354282,
+      "title": "One year of keeping a tada list",
+      "link": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
+      "score": 86,
+      "author": "egonschiele",
+      "created": "2025-12-22 14:16:40",
+      "created_at": 1766413000000
     },
     {
-      "id": 46407502,
-      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
-      "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
-      "score": 212,
-      "author": "vismit2000",
-      "created": "2025-12-28 01:33:10",
-      "created_at": 1766885590000
+      "id": 46409928,
+      "title": "Hungry Fat Cells Could Someday Starve Cancer to Death",
+      "link": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
+      "score": 50,
+      "author": "mrtnmrtn",
+      "created": "2025-12-28 10:04:42",
+      "created_at": 1766916282000
+    },
+    {
+      "id": 46409969,
+      "title": "Last Year on My Mac: Look Back in Disbelief",
+      "link": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
+      "score": 88,
+      "author": "vitosartori",
+      "created": "2025-12-28 10:12:08",
+      "created_at": 1766916728000
     },
     {
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 759,
+      "score": 847,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
     },
     {
-      "id": 46379665,
-      "title": "Hacking a Java Minecraft server with memory overflows [video]",
-      "link": "https://www.youtube.com/watch?v=Zy6Ci-K-0K8",
-      "score": 29,
-      "author": "jblazevic",
-      "created": "2025-12-24 21:53:44",
-      "created_at": 1766613224000
+      "id": 46404848,
+      "title": "How we lost communication to entertainment",
+      "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "score": 547,
+      "author": "8organicbits",
+      "created": "2025-12-27 20:15:01",
+      "created_at": 1766866501000
     },
     {
-      "id": 46357654,
-      "title": "I stayed in a $40 capsule hotel (London)",
-      "link": "https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html",
-      "score": 14,
-      "author": "fcpguru",
-      "created": "2025-12-22 19:14:29",
-      "created_at": 1766430869000
+      "id": 46361927,
+      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "link": "https://github.com/rex-rs/rex",
+      "score": 95,
+      "author": "zdw",
+      "created": "2025-12-23 02:58:32",
+      "created_at": 1766458712000
     }
   ],
   "code": 200,
