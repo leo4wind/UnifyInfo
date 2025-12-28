@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-28T08:15:40.460Z"
+    "lastUpdate": "2025-12-28T12:21:22.734Z"
   },
   "data": [
     {
       "id": 46408613,
       "title": "Calendar",
       "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 222,
+      "score": 477,
       "author": "twapi",
       "created": "2025-12-28 05:02:39",
       "created_at": 1766898159000
     },
     {
+      "id": 46408988,
+      "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
+      "link": "https://substack.com/inbox/post/182743659",
+      "score": 94,
+      "author": "Vincent_Yan404",
+      "created": "2025-12-28 06:43:25",
+      "created_at": 1766904205000
+    },
+    {
       "id": 46407337,
       "title": "Replacing JavaScript with Just HTML",
       "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "score": 301,
+      "score": 428,
       "author": "soheilpro",
       "created": "2025-12-28 01:07:09",
       "created_at": 1766884029000
     },
     {
-      "id": 46407502,
-      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
-      "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
-      "score": 157,
-      "author": "vismit2000",
-      "created": "2025-12-28 01:33:10",
-      "created_at": 1766885590000
-    },
-    {
-      "id": 46361927,
-      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
-      "link": "https://github.com/rex-rs/rex",
-      "score": 34,
-      "author": "zdw",
-      "created": "2025-12-23 02:58:32",
-      "created_at": 1766458712000
-    },
-    {
-      "id": 46409125,
-      "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
-      "link": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
-      "score": 39,
-      "author": "aquir",
-      "created": "2025-12-28 07:14:43",
-      "created_at": 1766906083000
-    },
-    {
       "id": 46404848,
       "title": "How we lost communication to entertainment",
       "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 386,
+      "score": 465,
       "author": "8organicbits",
       "created": "2025-12-27 20:15:01",
       "created_at": 1766866501000
     },
     {
-      "id": 46350476,
-      "title": "The Origins of APL (1974) [video]",
-      "link": "https://www.youtube.com/watch?v=8kUQWuK1L4w",
-      "score": 12,
-      "author": "ofalkaed",
-      "created": "2025-12-22 01:43:29",
-      "created_at": 1766367809000
+      "id": 46408984,
+      "title": "C++ says “We have try at home”",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890",
+      "score": 44,
+      "author": "ibobev",
+      "created": "2025-12-28 06:42:53",
+      "created_at": 1766904173000
+    },
+    {
+      "id": 46407502,
+      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
+      "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "score": 212,
+      "author": "vismit2000",
+      "created": "2025-12-28 01:33:10",
+      "created_at": 1766885590000
     },
     {
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 700,
+      "score": 759,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
     },
     {
-      "id": 46403200,
-      "title": "Gpg.fail",
-      "link": "https://gpg.fail",
-      "score": 342,
-      "author": "todsacerdoti",
-      "created": "2025-12-27 17:05:50",
-      "created_at": 1766855150000
+      "id": 46379665,
+      "title": "Hacking a Java Minecraft server with memory overflows [video]",
+      "link": "https://www.youtube.com/watch?v=Zy6Ci-K-0K8",
+      "score": 29,
+      "author": "jblazevic",
+      "created": "2025-12-24 21:53:44",
+      "created_at": 1766613224000
     },
     {
-      "id": 46389418,
-      "title": "Multiscale Aperture Synthesis Imager",
-      "link": "https://www.nature.com/articles/s41467-025-65661-8",
-      "score": 5,
-      "author": "wisty",
-      "created": "2025-12-26 05:20:01",
-      "created_at": 1766726401000
+      "id": 46357654,
+      "title": "I stayed in a $40 capsule hotel (London)",
+      "link": "https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html",
+      "score": 14,
+      "author": "fcpguru",
+      "created": "2025-12-22 19:14:29",
+      "created_at": 1766430869000
     }
   ],
   "code": 200,
