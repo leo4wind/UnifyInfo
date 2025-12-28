@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-28T01:03:28.327Z"
+    "lastUpdate": "2025-12-28T04:37:12.740Z"
   },
   "data": [
+    {
+      "id": 46407337,
+      "title": "Replacing JavaScript with Just HTML",
+      "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "score": 182,
+      "author": "soheilpro",
+      "created": "2025-12-28 01:07:09",
+      "created_at": 1766884029000
+    },
+    {
+      "id": 46407502,
+      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
+      "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "score": 86,
+      "author": "vismit2000",
+      "created": "2025-12-28 01:33:10",
+      "created_at": 1766885590000
+    },
     {
       "id": 46404848,
       "title": "How we lost communication to entertainment",
       "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 249,
+      "score": 338,
       "author": "8organicbits",
       "created": "2025-12-27 20:15:01",
       "created_at": 1766866501000
@@ -19,7 +37,7 @@
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 515,
+      "score": 631,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
@@ -28,7 +46,7 @@
       "id": 46403200,
       "title": "Gpg.fail",
       "link": "https://gpg.fail",
-      "score": 267,
+      "score": 307,
       "author": "todsacerdoti",
       "created": "2025-12-27 17:05:50",
       "created_at": 1766855150000
@@ -37,34 +55,34 @@
       "id": 46354050,
       "title": "Project Vend: Phase Two",
       "link": "https://www.anthropic.com/research/project-vend-2",
-      "score": 41,
+      "score": 85,
       "author": "kubami",
       "created": "2025-12-22 13:44:14",
       "created_at": 1766411054000
     },
     {
       "id": 46349988,
-      "title": "Text rendering hates you",
+      "title": "Text rendering hates you (2019)",
       "link": "https://faultlore.com/blah/text-hates-you/",
-      "score": 60,
+      "score": 109,
       "author": "andsoitis",
       "created": "2025-12-22 00:14:43",
       "created_at": 1766362483000
     },
     {
-      "id": 46406486,
-      "title": "Show HN: Waycore – an open-source, offline-first modular field computer",
-      "link": "",
-      "score": 22,
-      "author": "DGrechko",
-      "created": "2025-12-27 23:16:55",
-      "created_at": 1766877415000
+      "id": 46347893,
+      "title": "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
+      "link": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
+      "score": 19,
+      "author": "samieljabali",
+      "created": "2025-12-21 20:03:03",
+      "created_at": 1766347383000
     },
     {
       "id": 46404597,
       "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
       "link": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-      "score": 74,
+      "score": 126,
       "author": "erhuve",
       "created": "2025-12-27 19:45:28",
       "created_at": 1766864728000
@@ -73,28 +91,10 @@
       "id": 46403915,
       "title": "Windows 2 for the Apricot PC/Xi",
       "link": "https://www.ninakalinina.com/notes/win2apri/",
-      "score": 87,
+      "score": 107,
       "author": "todsacerdoti",
       "created": "2025-12-27 18:22:05",
       "created_at": 1766859725000
-    },
-    {
-      "id": 46368177,
-      "title": "Clock synchronization is a nightmare",
-      "link": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
-      "score": 115,
-      "author": "grep_it",
-      "created": "2025-12-23 18:59:45",
-      "created_at": 1766516385000
-    },
-    {
-      "id": 46403559,
-      "title": "Nvidia's $20B antitrust loophole",
-      "link": "https://ossa-ma.github.io/blog/groq",
-      "score": 318,
-      "author": "ossa-ma",
-      "created": "2025-12-27 17:42:46",
-      "created_at": 1766857366000
     }
   ],
   "code": 200,
