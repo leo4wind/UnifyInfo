@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-28T04:37:12.780Z"
+    "lastUpdate": "2025-12-28T08:15:40.488Z"
   },
   "data": [
+    {
+      "id": 46408613,
+      "title": "Calendar",
+      "link": "https://neatnik.net/calendar/?year=2026",
+      "score": 222,
+      "author": "twapi",
+      "created": "2025-12-28 05:02:39",
+      "created_at": 1766898159000
+    },
     {
       "id": 46407337,
       "title": "Replacing JavaScript with Just HTML",
       "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "score": 182,
+      "score": 301,
       "author": "soheilpro",
       "created": "2025-12-28 01:07:09",
       "created_at": 1766884029000
@@ -19,25 +28,52 @@
       "id": 46407502,
       "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
       "link": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
-      "score": 86,
+      "score": 157,
       "author": "vismit2000",
       "created": "2025-12-28 01:33:10",
       "created_at": 1766885590000
     },
     {
+      "id": 46361927,
+      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "link": "https://github.com/rex-rs/rex",
+      "score": 34,
+      "author": "zdw",
+      "created": "2025-12-23 02:58:32",
+      "created_at": 1766458712000
+    },
+    {
+      "id": 46409125,
+      "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
+      "link": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
+      "score": 39,
+      "author": "aquir",
+      "created": "2025-12-28 07:14:43",
+      "created_at": 1766906083000
+    },
+    {
       "id": 46404848,
       "title": "How we lost communication to entertainment",
       "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 338,
+      "score": 386,
       "author": "8organicbits",
       "created": "2025-12-27 20:15:01",
       "created_at": 1766866501000
     },
     {
+      "id": 46350476,
+      "title": "The Origins of APL (1974) [video]",
+      "link": "https://www.youtube.com/watch?v=8kUQWuK1L4w",
+      "score": 12,
+      "author": "ofalkaed",
+      "created": "2025-12-22 01:43:29",
+      "created_at": 1766367809000
+    },
+    {
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 631,
+      "score": 700,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
@@ -46,55 +82,19 @@
       "id": 46403200,
       "title": "Gpg.fail",
       "link": "https://gpg.fail",
-      "score": 307,
+      "score": 342,
       "author": "todsacerdoti",
       "created": "2025-12-27 17:05:50",
       "created_at": 1766855150000
     },
     {
-      "id": 46354050,
-      "title": "Project Vend: Phase Two",
-      "link": "https://www.anthropic.com/research/project-vend-2",
-      "score": 85,
-      "author": "kubami",
-      "created": "2025-12-22 13:44:14",
-      "created_at": 1766411054000
-    },
-    {
-      "id": 46349988,
-      "title": "Text rendering hates you (2019)",
-      "link": "https://faultlore.com/blah/text-hates-you/",
-      "score": 109,
-      "author": "andsoitis",
-      "created": "2025-12-22 00:14:43",
-      "created_at": 1766362483000
-    },
-    {
-      "id": 46347893,
-      "title": "Go Gray, Not Cray: Why You Should Grayscale Your Phone",
-      "link": "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/",
-      "score": 19,
-      "author": "samieljabali",
-      "created": "2025-12-21 20:03:03",
-      "created_at": 1766347383000
-    },
-    {
-      "id": 46404597,
-      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
-      "link": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-      "score": 126,
-      "author": "erhuve",
-      "created": "2025-12-27 19:45:28",
-      "created_at": 1766864728000
-    },
-    {
-      "id": 46403915,
-      "title": "Windows 2 for the Apricot PC/Xi",
-      "link": "https://www.ninakalinina.com/notes/win2apri/",
-      "score": 107,
-      "author": "todsacerdoti",
-      "created": "2025-12-27 18:22:05",
-      "created_at": 1766859725000
+      "id": 46389418,
+      "title": "Multiscale Aperture Synthesis Imager",
+      "link": "https://www.nature.com/articles/s41467-025-65661-8",
+      "score": 5,
+      "author": "wisty",
+      "created": "2025-12-26 05:20:01",
+      "created_at": 1766726401000
     }
   ],
   "code": 200,
