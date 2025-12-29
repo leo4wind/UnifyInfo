@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-29T01:02:05.167Z"
+    "lastUpdate": "2025-12-29T04:41:06.145Z"
   },
   "data": [
     {
       "id": 46401612,
       "title": "Floor796",
       "link": "https://floor796.com/",
-      "score": 992,
+      "score": 1003,
       "author": "krtkush",
       "created": "2025-12-27 13:13:00",
       "created_at": 1766841180000
@@ -19,34 +19,43 @@
       "id": 46408613,
       "title": "Calendar",
       "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 952,
+      "score": 991,
       "author": "twapi",
       "created": "2025-12-28 05:02:39",
       "created_at": 1766898159000
     },
     {
-      "id": 46407337,
-      "title": "Replacing JavaScript with Just HTML",
-      "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "score": 685,
-      "author": "soheilpro",
-      "created": "2025-12-28 01:07:09",
-      "created_at": 1766884029000
+      "id": 46415225,
+      "title": "What an unprocessed photo looks like",
+      "link": "https://maurycyz.com/misc/raw_photo/",
+      "score": 766,
+      "author": "zdw",
+      "created": "2025-12-28 22:35:02",
+      "created_at": 1766961302000
     },
     {
       "id": 46408988,
       "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "link": "https://substack.com/inbox/post/182743659",
-      "score": 678,
+      "score": 721,
       "author": "Vincent_Yan404",
       "created": "2025-12-28 06:43:25",
       "created_at": 1766904205000
     },
     {
+      "id": 46407337,
+      "title": "Replacing JavaScript with Just HTML",
+      "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "score": 699,
+      "author": "soheilpro",
+      "created": "2025-12-28 01:07:09",
+      "created_at": 1766884029000
+    },
+    {
       "id": 46404848,
       "title": "How we lost communication to entertainment",
       "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 656,
+      "score": 666,
       "author": "8organicbits",
       "created": "2025-12-27 20:15:01",
       "created_at": 1766866501000
@@ -55,7 +64,7 @@
       "id": 46405309,
       "title": "Say No to Palantir in the NHS",
       "link": "https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/",
-      "score": 569,
+      "score": 580,
       "author": "_____k",
       "created": "2025-12-27 21:15:35",
       "created_at": 1766870135000
@@ -70,31 +79,22 @@
       "created_at": 1766857366000
     },
     {
-      "id": 46403200,
-      "title": "Gpg.fail",
-      "link": "https://gpg.fail",
-      "score": 430,
-      "author": "todsacerdoti",
-      "created": "2025-12-27 17:05:50",
-      "created_at": 1766855150000
-    },
-    {
       "id": 46409969,
       "title": "Last Year on My Mac: Look Back in Disbelief",
       "link": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-      "score": 423,
+      "score": 444,
       "author": "vitosartori",
       "created": "2025-12-28 10:12:08",
       "created_at": 1766916728000
     },
     {
-      "id": 46400251,
-      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
-      "link": "http://npmjs.com/package/ezff",
-      "score": 404,
-      "author": "josharsh",
-      "created": "2025-12-27 08:45:46",
-      "created_at": 1766825146000
+      "id": 46403200,
+      "title": "Gpg.fail",
+      "link": "https://gpg.fail",
+      "score": 432,
+      "author": "todsacerdoti",
+      "created": "2025-12-27 17:05:50",
+      "created_at": 1766855150000
     }
   ],
   "code": 200,
