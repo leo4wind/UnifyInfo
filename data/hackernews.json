@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-29T16:14:41.720Z"
+    "lastUpdate": "2025-12-29T20:13:55.225Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 1965,
+      "score": 2216,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
@@ -19,7 +19,7 @@
       "id": 46408613,
       "title": "Calendar",
       "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 1036,
+      "score": 1051,
       "author": "twapi",
       "created": "2025-12-28 05:02:39",
       "created_at": 1766898159000
@@ -28,16 +28,25 @@
       "id": 46408988,
       "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "link": "https://substack.com/inbox/post/182743659",
-      "score": 790,
+      "score": 794,
       "author": "Vincent_Yan404",
       "created": "2025-12-28 06:43:25",
       "created_at": 1766904205000
     },
     {
+      "id": 46419970,
+      "title": "Kidnapped by Deutsche Bahn",
+      "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+      "score": 759,
+      "author": "JeremyTheo",
+      "created": "2025-12-29 12:24:00",
+      "created_at": 1767011040000
+    },
+    {
       "id": 46407337,
       "title": "Replacing JavaScript with Just HTML",
       "link": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "score": 722,
+      "score": 726,
       "author": "soheilpro",
       "created": "2025-12-28 01:07:09",
       "created_at": 1766884029000
@@ -46,7 +55,7 @@
       "id": 46404848,
       "title": "How we lost communication to entertainment",
       "link": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "score": 675,
+      "score": 679,
       "author": "8organicbits",
       "created": "2025-12-27 20:15:01",
       "created_at": 1766866501000
@@ -55,46 +64,37 @@
       "id": 46405309,
       "title": "Say No to Palantir in the NHS",
       "link": "https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/",
-      "score": 589,
+      "score": 593,
       "author": "_____k",
       "created": "2025-12-27 21:15:35",
       "created_at": 1766870135000
     },
     {
-      "id": 46403559,
-      "title": "Nvidia's $20B antitrust loophole",
-      "link": "https://ossa-ma.github.io/blog/groq",
-      "score": 537,
-      "author": "ossa-ma",
-      "created": "2025-12-27 17:42:46",
-      "created_at": 1766857366000
+      "id": 46416945,
+      "title": "You can make up HTML tags",
+      "link": "https://maurycyz.com/misc/make-up-tags/",
+      "score": 503,
+      "author": "todsacerdoti",
+      "created": "2025-12-29 02:47:44",
+      "created_at": 1766976464000
     },
     {
       "id": 46409969,
       "title": "Last Year on My Mac: Look Back in Disbelief",
       "link": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-      "score": 477,
+      "score": 485,
       "author": "vitosartori",
       "created": "2025-12-28 10:12:08",
       "created_at": 1766916728000
     },
     {
-      "id": 46419970,
-      "title": "Kidnapped by Deutsche Bahn",
-      "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 476,
-      "author": "JeremyTheo",
-      "created": "2025-12-29 12:24:00",
-      "created_at": 1767011040000
-    },
-    {
-      "id": 46403200,
-      "title": "Gpg.fail",
-      "link": "https://gpg.fail",
-      "score": 433,
-      "author": "todsacerdoti",
-      "created": "2025-12-27 17:05:50",
-      "created_at": 1766855150000
+      "id": 46417815,
+      "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+      "link": "https://github.com/HarryR/z80ai",
+      "score": 434,
+      "author": "quesomaster9000",
+      "created": "2025-12-29 05:41:24",
+      "created_at": 1766986884000
     }
   ],
   "code": 200,
