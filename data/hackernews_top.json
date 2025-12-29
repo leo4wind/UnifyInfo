@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-29T04:41:06.414Z"
+    "lastUpdate": "2025-12-29T08:19:21.739Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 766,
+      "score": 1179,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
     },
     {
+      "id": 46417844,
+      "title": "Staying ahead of censors in 2025",
+      "link": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
+      "score": 81,
+      "author": "ggeorgovassilis",
+      "created": "2025-12-29 05:47:40",
+      "created_at": 1766987260000
+    },
+    {
+      "id": 46417815,
+      "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+      "link": "https://github.com/HarryR/z80ai",
+      "score": 72,
+      "author": "quesomaster9000",
+      "created": "2025-12-29 05:41:24",
+      "created_at": 1766986884000
+    },
+    {
       "id": 46416945,
       "title": "You can make up HTML tags",
       "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 84,
+      "score": 192,
       "author": "todsacerdoti",
       "created": "2025-12-29 02:47:44",
       "created_at": 1766976464000
     },
     {
+      "id": 46417676,
+      "title": "My First Meshtastic Network",
+      "link": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "score": 34,
+      "author": "rickcarlino",
+      "created": "2025-12-29 05:12:58",
+      "created_at": 1766985178000
+    },
+    {
+      "id": 46417748,
+      "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
+      "link": "https://nilch.org",
+      "score": 40,
+      "author": "UnmappedStack",
+      "created": "2025-12-29 05:25:25",
+      "created_at": 1766985925000
+    },
+    {
+      "id": 46417791,
+      "title": "Binaries",
+      "link": "https://fzakaria.com/2025/12/28/huge-binaries",
+      "score": 22,
+      "author": "todsacerdoti",
+      "created": "2025-12-29 05:35:17",
+      "created_at": 1766986517000
+    },
+    {
       "id": 46414819,
       "title": "Unity's Mono problem: Why your C# code runs slower than it should",
       "link": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
-      "score": 137,
+      "score": 177,
       "author": "iliketrains",
       "created": "2025-12-28 21:41:42",
       "created_at": 1766958102000
     },
     {
-      "id": 46414475,
-      "title": "MongoBleed Explained Simply",
-      "link": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-      "score": 135,
-      "author": "todsacerdoti",
-      "created": "2025-12-28 21:03:03",
-      "created_at": 1766955783000
-    },
-    {
       "id": 46415338,
       "title": "As AI gobbles up chips, prices for devices may rise",
       "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-      "score": 75,
+      "score": 134,
       "author": "geox",
       "created": "2025-12-28 22:52:21",
       "created_at": 1766962341000
     },
     {
-      "id": 46415458,
-      "title": "Spherical Cow",
-      "link": "https://lib.rs/crates/spherical-cow",
-      "score": 72,
-      "author": "Natfan",
-      "created": "2025-12-28 23:11:50",
-      "created_at": 1766963510000
-    },
-    {
       "id": 46414723,
       "title": "Software engineers should be a little bit cynical",
       "link": "https://www.seangoedecke.com/a-little-bit-cynical/",
-      "score": 131,
+      "score": 177,
       "author": "zdw",
       "created": "2025-12-28 21:29:32",
       "created_at": 1766957372000
-    },
-    {
-      "id": 46413975,
-      "title": "PySDR: A Guide to SDR and DSP Using Python",
-      "link": "https://pysdr.org/content/intro.html",
-      "score": 148,
-      "author": "kklisura",
-      "created": "2025-12-28 20:02:50",
-      "created_at": 1766952170000
-    },
-    {
-      "id": 46415129,
-      "title": "Researchers discover molecular difference in autistic brains",
-      "link": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
-      "score": 76,
-      "author": "amichail",
-      "created": "2025-12-28 22:23:33",
-      "created_at": 1766960613000
-    },
-    {
-      "id": 46417252,
-      "title": "Why I Think Valve's Retiring the Steam Deck LCD",
-      "link": "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/",
-      "score": 5,
-      "author": "Ariarule",
-      "created": "2025-12-29 03:44:12",
-      "created_at": 1766979852000
     }
   ],
   "code": 200,
