@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-29T12:25:09.614Z"
+    "lastUpdate": "2025-12-29T16:14:41.912Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 1664,
+      "score": 1965,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
     },
     {
+      "id": 46419970,
+      "title": "Kidnapped by Deutsche Bahn",
+      "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+      "score": 476,
+      "author": "JeremyTheo",
+      "created": "2025-12-29 12:24:00",
+      "created_at": 1767011040000
+    },
+    {
+      "id": 46420672,
+      "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+      "link": "https://github.com/drpaneas/libgodc",
+      "score": 69,
+      "author": "drpaneas",
+      "created": "2025-12-29 13:43:29",
+      "created_at": 1767015809000
+    },
+    {
+      "id": 46420453,
+      "title": "Show HN: Vibe coding a bookshelf with Claude Code",
+      "link": "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/",
+      "score": 154,
+      "author": "balajmarius",
+      "created": "2025-12-29 13:22:59",
+      "created_at": 1767014579000
+    },
+    {
       "id": 46417815,
       "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
       "link": "https://github.com/HarryR/z80ai",
-      "score": 221,
+      "score": 338,
       "author": "quesomaster9000",
       "created": "2025-12-29 05:41:24",
       "created_at": 1766986884000
     },
     {
-      "id": 46419273,
-      "title": "Feynman's Hughes Lectures: 950 pages of notes",
-      "link": "https://thehugheslectures.info/the-lectures/",
-      "score": 15,
-      "author": "gnubison",
-      "created": "2025-12-29 10:43:29",
-      "created_at": 1767005009000
-    },
-    {
       "id": 46416945,
       "title": "You can make up HTML tags",
       "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 304,
+      "score": 411,
       "author": "todsacerdoti",
       "created": "2025-12-29 02:47:44",
       "created_at": 1766976464000
     },
     {
-      "id": 46401569,
-      "title": "I asked AI researchers and economists about SWE career strategies given AI",
-      "link": "https://chrisbarber.co/I+asked+AI+researchers+%26+economists+about+SWE+career+strategy+and+the+future+of+AI",
-      "score": 6,
-      "author": "cjbarber",
-      "created": "2025-12-27 13:03:23",
-      "created_at": 1766840603000
+      "id": 46419273,
+      "title": "Feynman's Hughes Lectures: 950 pages of notes",
+      "link": "https://thehugheslectures.info/the-lectures/",
+      "score": 94,
+      "author": "gnubison",
+      "created": "2025-12-29 10:43:29",
+      "created_at": 1767005009000
     },
     {
-      "id": 46396824,
-      "title": "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
-      "link": "https://rubymamistvalove.com/block-editor",
-      "score": 66,
-      "author": "michaelsbradley",
-      "created": "2025-12-26 22:06:15",
-      "created_at": 1766786775000
+      "id": 46419822,
+      "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
+      "link": "https://shepherd.com/bboy/2025",
+      "score": 45,
+      "author": "bwb",
+      "created": "2025-12-29 11:58:09",
+      "created_at": 1767009489000
     },
     {
-      "id": 46417791,
-      "title": "Binaries",
-      "link": "https://fzakaria.com/2025/12/28/huge-binaries",
-      "score": 69,
-      "author": "todsacerdoti",
-      "created": "2025-12-29 05:35:17",
-      "created_at": 1766986517000
+      "id": 46379579,
+      "title": "Golfing Is Not Rowing",
+      "link": "https://taylor.town/golf-vs-rowing",
+      "score": 32,
+      "author": "surprisetalk",
+      "created": "2025-12-24 21:44:04",
+      "created_at": 1766612644000
     },
     {
-      "id": 46417110,
-      "title": "CIA Star Gate Project: An Overview (1993) [pdf]",
-      "link": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf",
-      "score": 4,
-      "author": "dvrp",
-      "created": "2025-12-29 03:16:32",
-      "created_at": 1766978192000
-    },
-    {
-      "id": 46419659,
-      "title": "Kubernetes egress control with squid proxy",
-      "link": "https://interlaye.red/kubernetes_002degress_002dsquid.html",
-      "score": 3,
-      "author": "fsmunoz",
-      "created": "2025-12-29 11:33:46",
-      "created_at": 1767008026000
-    },
-    {
-      "id": 46417676,
-      "title": "My First Meshtastic Network",
-      "link": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
-      "score": 68,
-      "author": "rickcarlino",
-      "created": "2025-12-29 05:12:58",
-      "created_at": 1766985178000
+      "id": 46420289,
+      "title": "UK accounting body to halt remote exams amid AI cheating",
+      "link": "https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca",
+      "score": 81,
+      "author": "beardyw",
+      "created": "2025-12-29 13:06:49",
+      "created_at": 1767013609000
     }
   ],
   "code": 200,
