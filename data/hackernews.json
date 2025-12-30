@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-30T08:17:43.146Z"
+    "lastUpdate": "2025-12-30T12:23:30.230Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 2345,
+      "score": 2359,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
@@ -19,7 +19,7 @@
       "id": 46419970,
       "title": "Kidnapped by Deutsche Bahn",
       "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 1011,
+      "score": 1079,
       "author": "JeremyTheo",
       "created": "2025-12-29 12:24:00",
       "created_at": 1767011040000
@@ -28,7 +28,7 @@
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 729,
+      "score": 862,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
@@ -37,7 +37,7 @@
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 635,
+      "score": 723,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
@@ -46,25 +46,16 @@
       "id": 46416945,
       "title": "You can make up HTML tags",
       "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 543,
+      "score": 552,
       "author": "todsacerdoti",
       "created": "2025-12-29 02:47:44",
       "created_at": 1766976464000
     },
     {
-      "id": 46409969,
-      "title": "Last Year on My Mac: Look Back in Disbelief",
-      "link": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-      "score": 497,
-      "author": "vitosartori",
-      "created": "2025-12-28 10:12:08",
-      "created_at": 1766916728000
-    },
-    {
       "id": 46417815,
       "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
       "link": "https://github.com/HarryR/z80ai",
-      "score": 480,
+      "score": 483,
       "author": "quesomaster9000",
       "created": "2025-12-29 05:41:24",
       "created_at": 1766986884000
@@ -73,7 +64,7 @@
       "id": 46423290,
       "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
       "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "score": 397,
+      "score": 479,
       "author": "coloneltcb",
       "created": "2025-12-29 17:57:03",
       "created_at": 1767031023000
@@ -82,7 +73,7 @@
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 360,
+      "score": 378,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
@@ -91,10 +82,19 @@
       "id": 46415338,
       "title": "As AI gobbles up chips, prices for devices may rise",
       "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-      "score": 312,
+      "score": 314,
       "author": "geox",
       "created": "2025-12-28 22:52:21",
       "created_at": 1766962341000
+    },
+    {
+      "id": 46414723,
+      "title": "Software engineers should be a little bit cynical",
+      "link": "https://www.seangoedecke.com/a-little-bit-cynical/",
+      "score": 290,
+      "author": "zdw",
+      "created": "2025-12-28 21:29:32",
+      "created_at": 1766957372000
     }
   ],
   "code": 200,
