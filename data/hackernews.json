@@ -3,50 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-30T04:31:13.641Z"
+    "lastUpdate": "2025-12-30T08:17:43.146Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 2328,
+      "score": 2345,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
     },
     {
-      "id": 46408613,
-      "title": "Calendar",
-      "link": "https://neatnik.net/calendar/?year=2026",
-      "score": 1060,
-      "author": "twapi",
-      "created": "2025-12-28 05:02:39",
-      "created_at": 1766898159000
-    },
-    {
       "id": 46419970,
       "title": "Kidnapped by Deutsche Bahn",
       "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 972,
+      "score": 1011,
       "author": "JeremyTheo",
       "created": "2025-12-29 12:24:00",
       "created_at": 1767011040000
     },
     {
-      "id": 46408988,
-      "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
-      "link": "https://substack.com/inbox/post/182743659",
-      "score": 797,
-      "author": "Vincent_Yan404",
-      "created": "2025-12-28 06:43:25",
-      "created_at": 1766904205000
-    },
-    {
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 593,
+      "score": 729,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
@@ -55,7 +37,7 @@
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 544,
+      "score": 635,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
@@ -64,7 +46,7 @@
       "id": 46416945,
       "title": "You can make up HTML tags",
       "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 533,
+      "score": 543,
       "author": "todsacerdoti",
       "created": "2025-12-29 02:47:44",
       "created_at": 1766976464000
@@ -73,7 +55,7 @@
       "id": 46409969,
       "title": "Last Year on My Mac: Look Back in Disbelief",
       "link": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-      "score": 491,
+      "score": 497,
       "author": "vitosartori",
       "created": "2025-12-28 10:12:08",
       "created_at": 1766916728000
@@ -82,19 +64,37 @@
       "id": 46417815,
       "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
       "link": "https://github.com/HarryR/z80ai",
-      "score": 475,
+      "score": 480,
       "author": "quesomaster9000",
       "created": "2025-12-29 05:41:24",
       "created_at": 1766986884000
     },
     {
+      "id": 46423290,
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "score": 397,
+      "author": "coloneltcb",
+      "created": "2025-12-29 17:57:03",
+      "created_at": 1767031023000
+    },
+    {
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 323,
+      "score": 360,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
+    },
+    {
+      "id": 46415338,
+      "title": "As AI gobbles up chips, prices for devices may rise",
+      "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+      "score": 312,
+      "author": "geox",
+      "created": "2025-12-28 22:52:21",
+      "created_at": 1766962341000
     }
   ],
   "code": 200,

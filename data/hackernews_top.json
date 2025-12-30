@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-30T04:31:13.807Z"
+    "lastUpdate": "2025-12-30T08:17:43.286Z"
   },
   "data": [
     {
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 593,
+      "score": 729,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
     },
     {
-      "id": 46428496,
-      "title": "Hacking Washing Machines [video]",
-      "link": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-      "score": 45,
-      "author": "clausecker",
-      "created": "2025-12-30 01:40:49",
-      "created_at": 1767058849000
-    },
-    {
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 544,
+      "score": 635,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
     },
     {
-      "id": 46427920,
-      "title": "MongoDB Server Security Update, December 2025",
-      "link": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
-      "score": 50,
-      "author": "plorkyeran",
-      "created": "2025-12-30 00:23:47",
-      "created_at": 1767054227000
+      "id": 46428496,
+      "title": "Hacking Washing Machines [video]",
+      "link": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "score": 90,
+      "author": "clausecker",
+      "created": "2025-12-30 01:40:49",
+      "created_at": 1767058849000
     },
     {
-      "id": 46426624,
-      "title": "Show HN: Stop Claude Code from forgetting everything",
-      "link": "https://github.com/mutable-state-inc/ensue-skill",
-      "score": 109,
-      "author": "austinbaggio",
-      "created": "2025-12-29 22:30:25",
-      "created_at": 1767047425000
-    },
-    {
-      "id": 46423290,
-      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "score": 274,
-      "author": "coloneltcb",
-      "created": "2025-12-29 17:57:03",
-      "created_at": 1767031023000
+      "id": 46426534,
+      "title": "ManusAI Joins Meta",
+      "link": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+      "score": 207,
+      "author": "gniting",
+      "created": "2025-12-29 22:24:22",
+      "created_at": 1767047062000
     },
     {
       "id": 46427586,
       "title": "Stranger Things creator says turn off \"garbage\" settings",
       "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "score": 59,
+      "score": 139,
       "author": "1970-01-01",
       "created": "2025-12-29 23:50:34",
       "created_at": 1767052234000
     },
     {
-      "id": 46428154,
-      "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
-      "link": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
-      "score": 43,
-      "author": "vector_spaces",
-      "created": "2025-12-30 00:54:34",
-      "created_at": 1767056074000
+      "id": 46423290,
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "score": 397,
+      "author": "coloneltcb",
+      "created": "2025-12-29 17:57:03",
+      "created_at": 1767031023000
     },
     {
-      "id": 46388882,
-      "title": "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
-      "link": "https://github.com/kenryu42/claude-code-safety-net",
-      "score": 20,
-      "author": "kenryu",
-      "created": "2025-12-26 03:14:07",
-      "created_at": 1766718847000
+      "id": 46390154,
+      "title": "The Signature Flicker",
+      "link": "https://steipete.me/posts/2025/signature-flicker",
+      "score": 12,
+      "author": "tosh",
+      "created": "2025-12-26 07:56:58",
+      "created_at": 1766735818000
     },
     {
-      "id": 46427376,
-      "title": "Parsing Advances",
-      "link": "https://matklad.github.io/2025/12/28/parsing-advances.html",
-      "score": 55,
-      "author": "birdculture",
-      "created": "2025-12-29 23:29:35",
-      "created_at": 1767050975000
+      "id": 46364136,
+      "title": "UNIX Fourth Edition",
+      "link": "http://squoze.net/UNIX/v4/README",
+      "score": 16,
+      "author": "dcminter",
+      "created": "2025-12-23 10:28:40",
+      "created_at": 1766485720000
+    },
+    {
+      "id": 46424233,
+      "title": "The future of software development is software developers",
+      "link": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "score": 168,
+      "author": "cdrnsf",
+      "created": "2025-12-29 19:14:17",
+      "created_at": 1767035657000
+    },
+    {
+      "id": 46426624,
+      "title": "Show HN: Stop Claude Code from forgetting everything",
+      "link": "https://github.com/mutable-state-inc/ensue-skill",
+      "score": 135,
+      "author": "austinbaggio",
+      "created": "2025-12-29 22:30:25",
+      "created_at": 1767047425000
     }
   ],
   "code": 200,
