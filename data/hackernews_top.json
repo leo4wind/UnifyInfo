@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-30T00:57:25.573Z"
+    "lastUpdate": "2025-12-30T04:31:13.807Z"
   },
   "data": [
     {
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 439,
+      "score": 593,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
     },
     {
-      "id": 46426624,
-      "title": "Show HN: Stop Claude Code from forgetting everything",
-      "link": "https://github.com/mutable-state-inc/ensue-skill",
-      "score": 58,
-      "author": "austinbaggio",
-      "created": "2025-12-29 22:30:25",
-      "created_at": 1767047425000
+      "id": 46428496,
+      "title": "Hacking Washing Machines [video]",
+      "link": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "score": 45,
+      "author": "clausecker",
+      "created": "2025-12-30 01:40:49",
+      "created_at": 1767058849000
     },
     {
-      "id": 46427586,
-      "title": "Stranger Things Creator Says Turn Off \"Garbage\" Settings",
-      "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "score": 21,
-      "author": "1970-01-01",
-      "created": "2025-12-29 23:50:34",
-      "created_at": 1767052234000
+      "id": 46422412,
+      "title": "GOG is getting acquired by its original co-founder",
+      "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+      "score": 544,
+      "author": "haunter",
+      "created": "2025-12-29 16:43:14",
+      "created_at": 1767026594000
     },
     {
       "id": 46427920,
       "title": "MongoDB Server Security Update, December 2025",
       "link": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
-      "score": 10,
+      "score": 50,
       "author": "plorkyeran",
       "created": "2025-12-30 00:23:47",
       "created_at": 1767054227000
     },
     {
-      "id": 46427181,
-      "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
-      "link": "https://pubs.usgs.gov/fs/farallones/",
-      "score": 22,
-      "author": "greesil",
-      "created": "2025-12-29 23:12:00",
-      "created_at": 1767049920000
+      "id": 46426624,
+      "title": "Show HN: Stop Claude Code from forgetting everything",
+      "link": "https://github.com/mutable-state-inc/ensue-skill",
+      "score": 109,
+      "author": "austinbaggio",
+      "created": "2025-12-29 22:30:25",
+      "created_at": 1767047425000
+    },
+    {
+      "id": 46423290,
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "score": 274,
+      "author": "coloneltcb",
+      "created": "2025-12-29 17:57:03",
+      "created_at": 1767031023000
+    },
+    {
+      "id": 46427586,
+      "title": "Stranger Things creator says turn off \"garbage\" settings",
+      "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+      "score": 59,
+      "author": "1970-01-01",
+      "created": "2025-12-29 23:50:34",
+      "created_at": 1767052234000
+    },
+    {
+      "id": 46428154,
+      "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
+      "link": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
+      "score": 43,
+      "author": "vector_spaces",
+      "created": "2025-12-30 00:54:34",
+      "created_at": 1767056074000
+    },
+    {
+      "id": 46388882,
+      "title": "Show HN: A Claude Code plugin that catch destructive Git and filesystem commands",
+      "link": "https://github.com/kenryu42/claude-code-safety-net",
+      "score": 20,
+      "author": "kenryu",
+      "created": "2025-12-26 03:14:07",
+      "created_at": 1766718847000
     },
     {
       "id": 46427376,
       "title": "Parsing Advances",
       "link": "https://matklad.github.io/2025/12/28/parsing-advances.html",
-      "score": 22,
+      "score": 55,
       "author": "birdculture",
       "created": "2025-12-29 23:29:35",
       "created_at": 1767050975000
-    },
-    {
-      "id": 46422009,
-      "title": "Static Allocation with Zig",
-      "link": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
-      "score": 154,
-      "author": "todsacerdoti",
-      "created": "2025-12-29 16:07:27",
-      "created_at": 1767024447000
-    },
-    {
-      "id": 46424460,
-      "title": "When someone says they hate your product",
-      "link": "https://www.getflack.com/p/responding-to-negative-feedback",
-      "score": 82,
-      "author": "jger15",
-      "created": "2025-12-29 19:30:40",
-      "created_at": 1767036640000
-    },
-    {
-      "id": 46401052,
-      "title": "Flame Graphs vs Tree Maps vs Sunburst (2017)",
-      "link": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
-      "score": 97,
-      "author": "gudzpoz",
-      "created": "2025-12-27 11:30:40",
-      "created_at": 1766835040000
-    },
-    {
-      "id": 46423566,
-      "title": "List of domains censored by German ISPs",
-      "link": "https://cuiiliste.de/domains",
-      "score": 281,
-      "author": "elcapitan",
-      "created": "2025-12-29 18:21:30",
-      "created_at": 1767032490000
     }
   ],
   "code": 200,
