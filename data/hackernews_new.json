@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-30T16:15:35.002Z"
+    "lastUpdate": "2025-12-30T20:13:35.519Z"
   },
   "data": [
     {
-      "id": 46433579,
-      "title": "Public Sans – A strong, neutral typeface",
-      "link": "https://public-sans.digital.gov/",
-      "score": 109,
-      "author": "mhb",
-      "created": "2025-12-30 14:23:11",
-      "created_at": 1767104591000
+      "id": 46436889,
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "score": 47,
+      "author": "birdculture",
+      "created": "2025-12-30 19:21:48",
+      "created_at": 1767122508000
     },
     {
-      "id": 46431560,
-      "title": "Netflix: Open Content",
-      "link": "https://opencontent.netflix.com/",
-      "score": 369,
-      "author": "tosh",
-      "created": "2025-12-30 10:11:57",
-      "created_at": 1767089517000
+      "id": 46435418,
+      "title": "Toro: Deploy Applications as Unikernels",
+      "link": "https://github.com/torokernel/torokernel",
+      "score": 87,
+      "author": "ignoramous",
+      "created": "2025-12-30 17:09:57",
+      "created_at": 1767114597000
     },
     {
-      "id": 46432311,
-      "title": "Non-Zero-Sum Games",
-      "link": "https://nonzerosum.games/",
-      "score": 183,
-      "author": "8organicbits",
-      "created": "2025-12-30 11:42:55",
-      "created_at": 1767094975000
+      "id": 46436127,
+      "title": "Electrolysis can solve one of our biggest contamination problems",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+      "score": 61,
+      "author": "PaulHoule",
+      "created": "2025-12-30 18:08:32",
+      "created_at": 1767118112000
+    },
+    {
+      "id": 46435614,
+      "title": "A Vulnerability in Libsodium",
+      "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "score": 60,
+      "author": "raggi",
+      "created": "2025-12-30 17:24:57",
+      "created_at": 1767115497000
+    },
+    {
+      "id": 46424173,
+      "title": "Loss32: Let's Build a Win32/Linux",
+      "link": "https://loss32.org/",
+      "score": 92,
+      "author": "akka47",
+      "created": "2025-12-29 19:09:08",
+      "created_at": 1767035348000
+    },
+    {
+      "id": 46435308,
+      "title": "Show HN: 22 GB of Hacker News in SQLite",
+      "link": "https://hackerbook.dosaygo.com",
+      "score": 92,
+      "author": "keepamovin",
+      "created": "2025-12-30 17:01:59",
+      "created_at": 1767114119000
+    },
+    {
+      "id": 46366010,
+      "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)",
+      "link": "https://www.gkbrk.com/hotel-music",
+      "score": 111,
+      "author": "bayesnet",
+      "created": "2025-12-23 15:21:55",
+      "created_at": 1766503315000
     },
     {
       "id": 46432999,
-      "title": "The British Empire's Resilient Subsea Telegraph Network",
+      "title": "The British empire's resilient subsea telegraph network",
       "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
-      "score": 53,
+      "score": 119,
       "author": "giuliomagnifico",
       "created": "2025-12-30 13:10:56",
       "created_at": 1767100256000
     },
     {
-      "id": 46379765,
-      "title": "Postgres extension complements pgvector for performance and scale",
-      "link": "https://github.com/timescale/pgvectorscale",
+      "id": 46437381,
+      "title": "Everything as Code: How We Manage Our Company in One Monorepo",
+      "link": "https://www.kasava.dev/blog/everything-as-code-monorepo",
+      "score": 3,
+      "author": "benbeingbin",
+      "created": "2025-12-30 20:05:42",
+      "created_at": 1767125142000
+    },
+    {
+      "id": 46433352,
+      "title": "Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V",
+      "link": "https://mwilczynski.dev/posts/riscv-gpu-zink/",
       "score": 39,
-      "author": "flyaway123",
-      "created": "2025-12-24 22:04:57",
-      "created_at": 1766613897000
-    },
-    {
-      "id": 46433832,
-      "title": "The Legacy of Undersea Cables",
-      "link": "https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/",
-      "score": 12,
-      "author": "teleforce",
-      "created": "2025-12-30 14:49:38",
-      "created_at": 1767106178000
-    },
-    {
-      "id": 46432862,
-      "title": "Times New American: A Tale of Two Fonts",
-      "link": "https://hsu.cy/2025/12/times-new-american/",
-      "score": 96,
-      "author": "firexcy",
-      "created": "2025-12-30 12:56:07",
-      "created_at": 1767099367000
-    },
-    {
-      "id": 46431028,
-      "title": "Go away Python",
-      "link": "https://lorentz.app/blog-item.html?id=go-shebang",
-      "score": 173,
-      "author": "baalimago",
-      "created": "2025-12-30 08:50:44",
-      "created_at": 1767084644000
-    },
-    {
-      "id": 46432916,
-      "title": "Approachable Swift Concurrency",
-      "link": "https://fuckingapproachableswiftconcurrency.com/en/",
-      "score": 58,
-      "author": "wrxd",
-      "created": "2025-12-30 13:01:51",
-      "created_at": 1767099711000
+      "author": "michalwilczynsk",
+      "created": "2025-12-30 13:55:59",
+      "created_at": 1767102959000
     }
   ],
   "code": 200,
