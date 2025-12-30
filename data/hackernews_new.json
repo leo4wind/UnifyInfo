@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-29T20:13:55.317Z"
+    "lastUpdate": "2025-12-30T00:57:25.606Z"
   },
   "data": [
     {
-      "id": 46424733,
-      "title": "Meta's ads tools started switching out top-performing ads with AI-generated ones",
-      "link": "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10",
-      "score": 39,
-      "author": "zdw",
-      "created": "2025-12-29 19:51:47",
-      "created_at": 1767037907000
+      "id": 46425198,
+      "title": "Google is dead. Where do we go now?",
+      "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "score": 439,
+      "author": "tomjuggler",
+      "created": "2025-12-29 20:29:26",
+      "created_at": 1767040166000
+    },
+    {
+      "id": 46426624,
+      "title": "Show HN: Stop Claude Code from forgetting everything",
+      "link": "https://github.com/mutable-state-inc/ensue-skill",
+      "score": 58,
+      "author": "austinbaggio",
+      "created": "2025-12-29 22:30:25",
+      "created_at": 1767047425000
+    },
+    {
+      "id": 46427586,
+      "title": "Stranger Things Creator Says Turn Off \"Garbage\" Settings",
+      "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+      "score": 21,
+      "author": "1970-01-01",
+      "created": "2025-12-29 23:50:34",
+      "created_at": 1767052234000
+    },
+    {
+      "id": 46427920,
+      "title": "MongoDB Server Security Update, December 2025",
+      "link": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
+      "score": 10,
+      "author": "plorkyeran",
+      "created": "2025-12-30 00:23:47",
+      "created_at": 1767054227000
+    },
+    {
+      "id": 46427181,
+      "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
+      "link": "https://pubs.usgs.gov/fs/farallones/",
+      "score": 22,
+      "author": "greesil",
+      "created": "2025-12-29 23:12:00",
+      "created_at": 1767049920000
+    },
+    {
+      "id": 46427376,
+      "title": "Parsing Advances",
+      "link": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+      "score": 22,
+      "author": "birdculture",
+      "created": "2025-12-29 23:29:35",
+      "created_at": 1767050975000
     },
     {
       "id": 46422009,
       "title": "Static Allocation with Zig",
       "link": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
-      "score": 111,
+      "score": 154,
       "author": "todsacerdoti",
       "created": "2025-12-29 16:07:27",
       "created_at": 1767024447000
     },
     {
-      "id": 46401052,
-      "title": "Flame Graphs vs. Tree Maps vs. Sunburst (2017)",
-      "link": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
-      "score": 30,
-      "author": "gudzpoz",
-      "created": "2025-12-27 11:30:40",
-      "created_at": 1766835040000
-    },
-    {
       "id": 46424460,
-      "title": "When someone says they hate your product with a burning passion",
+      "title": "When someone says they hate your product",
       "link": "https://www.getflack.com/p/responding-to-negative-feedback",
-      "score": 16,
+      "score": 82,
       "author": "jger15",
       "created": "2025-12-29 19:30:40",
       "created_at": 1767036640000
     },
     {
+      "id": 46401052,
+      "title": "Flame Graphs vs Tree Maps vs Sunburst (2017)",
+      "link": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
+      "score": 97,
+      "author": "gudzpoz",
+      "created": "2025-12-27 11:30:40",
+      "created_at": 1766835040000
+    },
+    {
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 115,
+      "score": 281,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
-    },
-    {
-      "id": 46423521,
-      "title": "The production bug that made me care about undefined behavior",
-      "link": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
-      "score": 35,
-      "author": "birdculture",
-      "created": "2025-12-29 18:17:29",
-      "created_at": 1767032249000
-    },
-    {
-      "id": 46368739,
-      "title": "Show HN: Superset – Terminal to run 10 parallel coding agents",
-      "link": "https://superset.sh/",
-      "score": 35,
-      "author": "avipeltz",
-      "created": "2025-12-23 19:52:30",
-      "created_at": 1766519550000
-    },
-    {
-      "id": 46422412,
-      "title": "GOG is getting acquired by its original co-founder",
-      "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 363,
-      "author": "haunter",
-      "created": "2025-12-29 16:43:14",
-      "created_at": 1767026594000
-    },
-    {
-      "id": 46424262,
-      "title": "All Delisted Steam Games",
-      "link": "https://delistedgames.com/all-delisted-steam-games/",
-      "score": 8,
-      "author": "Bondi_Blue",
-      "created": "2025-12-29 19:16:32",
-      "created_at": 1767035792000
-    },
-    {
-      "id": 46386878,
-      "title": "Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting",
-      "link": "https://github.com/Sakura-sx/Aroma",
-      "score": 11,
-      "author": "Sakura-sx",
-      "created": "2025-12-25 20:34:59",
-      "created_at": 1766694899000
     }
   ],
   "code": 200,
