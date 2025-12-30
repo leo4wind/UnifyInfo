@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-30T12:23:30.230Z"
+    "lastUpdate": "2025-12-30T16:15:34.795Z"
   },
   "data": [
     {
       "id": 46415225,
       "title": "What an unprocessed photo looks like",
       "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 2359,
+      "score": 2369,
       "author": "zdw",
       "created": "2025-12-28 22:35:02",
       "created_at": 1766961302000
@@ -19,7 +19,7 @@
       "id": 46419970,
       "title": "Kidnapped by Deutsche Bahn",
       "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 1079,
+      "score": 1121,
       "author": "JeremyTheo",
       "created": "2025-12-29 12:24:00",
       "created_at": 1767011040000
@@ -28,7 +28,7 @@
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 862,
+      "score": 974,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
@@ -37,16 +37,25 @@
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 723,
+      "score": 787,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
     },
     {
+      "id": 46423290,
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "score": 564,
+      "author": "coloneltcb",
+      "created": "2025-12-29 17:57:03",
+      "created_at": 1767031023000
+    },
+    {
       "id": 46416945,
       "title": "You can make up HTML tags",
       "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 552,
+      "score": 556,
       "author": "todsacerdoti",
       "created": "2025-12-29 02:47:44",
       "created_at": 1766976464000
@@ -61,22 +70,22 @@
       "created_at": 1766986884000
     },
     {
-      "id": 46423290,
-      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-      "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "score": 479,
-      "author": "coloneltcb",
-      "created": "2025-12-29 17:57:03",
-      "created_at": 1767031023000
-    },
-    {
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 378,
+      "score": 388,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
+    },
+    {
+      "id": 46431560,
+      "title": "Netflix: Open Content",
+      "link": "https://opencontent.netflix.com/",
+      "score": 368,
+      "author": "tosh",
+      "created": "2025-12-30 10:11:57",
+      "created_at": 1767089517000
     },
     {
       "id": 46415338,
@@ -86,15 +95,6 @@
       "author": "geox",
       "created": "2025-12-28 22:52:21",
       "created_at": 1766962341000
-    },
-    {
-      "id": 46414723,
-      "title": "Software engineers should be a little bit cynical",
-      "link": "https://www.seangoedecke.com/a-little-bit-cynical/",
-      "score": 290,
-      "author": "zdw",
-      "created": "2025-12-28 21:29:32",
-      "created_at": 1766957372000
     }
   ],
   "code": 200,

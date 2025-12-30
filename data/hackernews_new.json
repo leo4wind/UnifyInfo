@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-30T12:23:30.424Z"
+    "lastUpdate": "2025-12-30T16:15:35.002Z"
   },
   "data": [
+    {
+      "id": 46433579,
+      "title": "Public Sans – A strong, neutral typeface",
+      "link": "https://public-sans.digital.gov/",
+      "score": 109,
+      "author": "mhb",
+      "created": "2025-12-30 14:23:11",
+      "created_at": 1767104591000
+    },
     {
       "id": 46431560,
       "title": "Netflix: Open Content",
       "link": "https://opencontent.netflix.com/",
-      "score": 113,
+      "score": 369,
       "author": "tosh",
       "created": "2025-12-30 10:11:57",
       "created_at": 1767089517000
@@ -19,73 +28,64 @@
       "id": 46432311,
       "title": "Non-Zero-Sum Games",
       "link": "https://nonzerosum.games/",
-      "score": 20,
+      "score": 183,
       "author": "8organicbits",
       "created": "2025-12-30 11:42:55",
       "created_at": 1767094975000
     },
     {
-      "id": 46425198,
-      "title": "Google is dead. Where do we go now?",
-      "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 862,
-      "author": "tomjuggler",
-      "created": "2025-12-29 20:29:26",
-      "created_at": 1767040166000
+      "id": 46432999,
+      "title": "The British Empire's Resilient Subsea Telegraph Network",
+      "link": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
+      "score": 53,
+      "author": "giuliomagnifico",
+      "created": "2025-12-30 13:10:56",
+      "created_at": 1767100256000
     },
     {
-      "id": 46431453,
-      "title": "HSBC blocks its app due to F-Droid-installed Bitwarden",
-      "link": "https://mastodon.neilzone.co.uk/@neil/115807834298031971",
-      "score": 179,
-      "author": "_____k",
-      "created": "2025-12-30 09:57:27",
-      "created_at": 1767088647000
+      "id": 46379765,
+      "title": "Postgres extension complements pgvector for performance and scale",
+      "link": "https://github.com/timescale/pgvectorscale",
+      "score": 39,
+      "author": "flyaway123",
+      "created": "2025-12-24 22:04:57",
+      "created_at": 1766613897000
+    },
+    {
+      "id": 46433832,
+      "title": "The Legacy of Undersea Cables",
+      "link": "https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/",
+      "score": 12,
+      "author": "teleforce",
+      "created": "2025-12-30 14:49:38",
+      "created_at": 1767106178000
+    },
+    {
+      "id": 46432862,
+      "title": "Times New American: A Tale of Two Fonts",
+      "link": "https://hsu.cy/2025/12/times-new-american/",
+      "score": 96,
+      "author": "firexcy",
+      "created": "2025-12-30 12:56:07",
+      "created_at": 1767099367000
     },
     {
       "id": 46431028,
-      "title": "Go Away Python",
+      "title": "Go away Python",
       "link": "https://lorentz.app/blog-item.html?id=go-shebang",
-      "score": 86,
+      "score": 173,
       "author": "baalimago",
       "created": "2025-12-30 08:50:44",
       "created_at": 1767084644000
     },
     {
-      "id": 46422412,
-      "title": "GOG is getting acquired by its original co-founder",
-      "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 723,
-      "author": "haunter",
-      "created": "2025-12-29 16:43:14",
-      "created_at": 1767026594000
-    },
-    {
-      "id": 46384975,
-      "title": "Show HN: One clean, developer-focused page for every Unicode symbol",
-      "link": "https://fontgenerator.design/symbols",
-      "score": 55,
-      "author": "yarlinghe",
-      "created": "2025-12-25 15:32:45",
-      "created_at": 1766676765000
-    },
-    {
-      "id": 46432057,
-      "title": "Nicolas Guillou, French ICC judge sanctioned by the US and \"debanked\"",
-      "link": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html",
-      "score": 62,
-      "author": "lifeisstillgood",
-      "created": "2025-12-30 11:13:30",
-      "created_at": 1767093210000
-    },
-    {
-      "id": 46427586,
-      "title": "Stranger Things creator says turn off \"garbage\" settings",
-      "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "score": 214,
-      "author": "1970-01-01",
-      "created": "2025-12-29 23:50:34",
-      "created_at": 1767052234000
+      "id": 46432916,
+      "title": "Approachable Swift Concurrency",
+      "link": "https://fuckingapproachableswiftconcurrency.com/en/",
+      "score": 58,
+      "author": "wrxd",
+      "created": "2025-12-30 13:01:51",
+      "created_at": 1767099711000
     }
   ],
   "code": 200,
