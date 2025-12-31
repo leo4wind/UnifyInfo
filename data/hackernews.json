@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-31T12:22:44.812Z"
+    "lastUpdate": "2025-12-31T16:15:08.216Z"
   },
   "data": [
-    {
-      "id": 46419970,
-      "title": "Kidnapped by Deutsche Bahn",
-      "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 1162,
-      "author": "JeremyTheo",
-      "created": "2025-12-29 12:24:00",
-      "created_at": 1767011040000
-    },
     {
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 1020,
+      "score": 1023,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
@@ -28,7 +19,7 @@
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 846,
+      "score": 851,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
@@ -37,7 +28,7 @@
       "id": 46423290,
       "title": "Tesla’s 4680 battery supply chain collapses as partner writes down deal by 99%",
       "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "score": 646,
+      "score": 652,
       "author": "coloneltcb",
       "created": "2025-12-29 17:57:03",
       "created_at": 1767031023000
@@ -46,7 +37,7 @@
       "id": 46431560,
       "title": "Netflix Open Content",
       "link": "https://opencontent.netflix.com/",
-      "score": 633,
+      "score": 639,
       "author": "tosh",
       "created": "2025-12-30 10:11:57",
       "created_at": 1767089517000
@@ -55,7 +46,7 @@
       "id": 46435308,
       "title": "Show HN: 22 GB of Hacker News in SQLite",
       "link": "https://hackerbook.dosaygo.com",
-      "score": 569,
+      "score": 632,
       "author": "keepamovin",
       "created": "2025-12-30 17:01:59",
       "created_at": 1767114119000
@@ -64,16 +55,25 @@
       "id": 46436409,
       "title": "A faster heart for F-Droid",
       "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 426,
+      "score": 478,
       "author": "kasabali",
       "created": "2025-12-30 18:36:37",
       "created_at": 1767119797000
     },
     {
+      "id": 46438390,
+      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+      "score": 448,
+      "author": "1vuio0pswjnm7",
+      "created": "2025-12-30 21:44:07",
+      "created_at": 1767131047000
+    },
+    {
       "id": 46427586,
       "title": "Stranger Things creator says turn off “garbage” settings",
       "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "score": 422,
+      "score": 426,
       "author": "1970-01-01",
       "created": "2025-12-29 23:50:34",
       "created_at": 1767052234000
@@ -82,19 +82,19 @@
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 413,
+      "score": 420,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
     },
     {
-      "id": 46432057,
-      "title": "Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”",
-      "link": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html",
-      "score": 404,
-      "author": "lifeisstillgood",
-      "created": "2025-12-30 11:13:30",
-      "created_at": 1767093210000
+      "id": 46432311,
+      "title": "Non-Zero-Sum Games",
+      "link": "https://nonzerosum.games/",
+      "score": 417,
+      "author": "8organicbits",
+      "created": "2025-12-30 11:42:55",
+      "created_at": 1767094975000
     }
   ],
   "code": 200,

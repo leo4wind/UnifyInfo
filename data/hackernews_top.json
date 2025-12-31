@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-31T12:22:45.030Z"
+    "lastUpdate": "2025-12-31T16:15:08.321Z"
   },
   "data": [
+    {
+      "id": 46445068,
+      "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
+      "link": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
+      "score": 103,
+      "author": "haunter",
+      "created": "2025-12-31 15:39:58",
+      "created_at": 1767195598000
+    },
+    {
+      "id": 46444076,
+      "title": "Efficient method to capture CO2 from the atmosphere / Univ of Helsinki",
+      "link": "https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki",
+      "score": 149,
+      "author": "lrasinen",
+      "created": "2025-12-31 13:59:09",
+      "created_at": 1767189549000
+    },
+    {
+      "id": 46445195,
+      "title": "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
+      "link": "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/",
+      "score": 11,
+      "author": "a1k0n",
+      "created": "2025-12-31 15:52:51",
+      "created_at": 1767196371000
+    },
+    {
+      "id": 46444481,
+      "title": "Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF",
+      "link": "https://sergiocipriano.com/beyla-envoy.html",
+      "score": 31,
+      "author": "sergiocipriano",
+      "created": "2025-12-31 14:43:38",
+      "created_at": 1767192218000
+    },
     {
       "id": 46442903,
       "title": "Akin's Laws of Spacecraft Design [pdf]",
       "link": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
-      "score": 34,
+      "score": 156,
       "author": "tosh",
       "created": "2025-12-31 10:12:51",
       "created_at": 1767175971000
     },
     {
+      "id": 46443579,
+      "title": "Fifteen Most Famous Transcendental Numbers",
+      "link": "https://sprott.physics.wisc.edu/pickover/trans.html",
+      "score": 65,
+      "author": "vismit2000",
+      "created": "2025-12-31 12:32:27",
+      "created_at": 1767184347000
+    },
+    {
+      "id": 46444564,
+      "title": "Drugmakers raise US prices on 350 medicines despite pressure",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/",
+      "score": 38,
+      "author": "JumpCrisscross",
+      "created": "2025-12-31 14:51:28",
+      "created_at": 1767192688000
+    },
+    {
+      "id": 46443988,
+      "title": "When square pixels aren't square",
+      "link": "https://alexwlchan.net/2025/square-pixels/",
+      "score": 25,
+      "author": "PaulHoule",
+      "created": "2025-12-31 13:44:41",
+      "created_at": 1767188681000
+    },
+    {
+      "id": 46381901,
+      "title": "Winnie-the-Pooh brings 100 years of fame to forest",
+      "link": "https://www.bbc.com/news/articles/c4g9dzj1xj3o",
+      "score": 24,
+      "author": "1659447091",
+      "created": "2025-12-25 03:49:33",
+      "created_at": 1766634573000
+    },
+    {
       "id": 46442245,
       "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
       "link": "https://exopriors.com/scry",
-      "score": 94,
+      "score": 178,
       "author": "Xyra",
       "created": "2025-12-31 07:47:44",
       "created_at": 1767167264000
-    },
-    {
-      "id": 46442597,
-      "title": "The rise of industrial software",
-      "link": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
-      "score": 108,
-      "author": "chrisloy",
-      "created": "2025-12-31 09:09:28",
-      "created_at": 1767172168000
-    },
-    {
-      "id": 46394651,
-      "title": "Tixl: Open-source realtime motion graphics",
-      "link": "https://github.com/tixl3d/tixl",
-      "score": 72,
-      "author": "nateb2022",
-      "created": "2025-12-26 18:20:10",
-      "created_at": 1766773210000
-    },
-    {
-      "id": 46390621,
-      "title": "Animated AI",
-      "link": "https://animatedai.github.io/",
-      "score": 206,
-      "author": "frozenseven",
-      "created": "2025-12-26 09:34:57",
-      "created_at": 1766741697000
-    },
-    {
-      "id": 46436409,
-      "title": "A faster heart for F-Droid",
-      "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 426,
-      "author": "kasabali",
-      "created": "2025-12-30 18:36:37",
-      "created_at": 1767119797000
-    },
-    {
-      "id": 46409359,
-      "title": "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
-      "link": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
-      "score": 34,
-      "author": "andros",
-      "created": "2025-12-28 08:10:01",
-      "created_at": 1766909401000
-    },
-    {
-      "id": 46443077,
-      "title": "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
-      "link": "https://www.quickclip.space/",
-      "score": 7,
-      "author": "imgopaal",
-      "created": "2025-12-31 10:48:02",
-      "created_at": 1767178082000
-    },
-    {
-      "id": 46435308,
-      "title": "Show HN: 22 GB of Hacker News in SQLite",
-      "link": "https://hackerbook.dosaygo.com",
-      "score": 569,
-      "author": "keepamovin",
-      "created": "2025-12-30 17:01:59",
-      "created_at": 1767114119000
     }
   ],
   "code": 200,
