@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-31T08:17:35.004Z"
+    "lastUpdate": "2025-12-31T12:22:45.030Z"
   },
   "data": [
+    {
+      "id": 46442903,
+      "title": "Akin's Laws of Spacecraft Design [pdf]",
+      "link": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
+      "score": 34,
+      "author": "tosh",
+      "created": "2025-12-31 10:12:51",
+      "created_at": 1767175971000
+    },
+    {
+      "id": 46442245,
+      "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+      "link": "https://exopriors.com/scry",
+      "score": 94,
+      "author": "Xyra",
+      "created": "2025-12-31 07:47:44",
+      "created_at": 1767167264000
+    },
+    {
+      "id": 46442597,
+      "title": "The rise of industrial software",
+      "link": "https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software",
+      "score": 108,
+      "author": "chrisloy",
+      "created": "2025-12-31 09:09:28",
+      "created_at": 1767172168000
+    },
+    {
+      "id": 46394651,
+      "title": "Tixl: Open-source realtime motion graphics",
+      "link": "https://github.com/tixl3d/tixl",
+      "score": 72,
+      "author": "nateb2022",
+      "created": "2025-12-26 18:20:10",
+      "created_at": 1766773210000
+    },
     {
       "id": 46390621,
       "title": "Animated AI",
       "link": "https://animatedai.github.io/",
-      "score": 138,
+      "score": 206,
       "author": "frozenseven",
       "created": "2025-12-26 09:34:57",
       "created_at": 1766741697000
@@ -19,82 +55,37 @@
       "id": 46436409,
       "title": "A faster heart for F-Droid",
       "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 376,
+      "score": 426,
       "author": "kasabali",
       "created": "2025-12-30 18:36:37",
       "created_at": 1767119797000
     },
     {
-      "id": 46440510,
-      "title": "Readings in Database Systems (5th Edition)",
-      "link": "http://www.redbook.io/",
-      "score": 82,
-      "author": "teleforce",
-      "created": "2025-12-31 02:01:53",
-      "created_at": 1767146513000
+      "id": 46409359,
+      "title": "Doom in Django: testing the limits of LiveView at 600.000 divs/segundo",
+      "link": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
+      "score": 34,
+      "author": "andros",
+      "created": "2025-12-28 08:10:01",
+      "created_at": 1766909401000
     },
     {
-      "id": 46436889,
-      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
-      "score": 282,
-      "author": "birdculture",
-      "created": "2025-12-30 19:21:48",
-      "created_at": 1767122508000
+      "id": 46443077,
+      "title": "Show HN: I built a universal clipboard that syncs realtime on multiple devices",
+      "link": "https://www.quickclip.space/",
+      "score": 7,
+      "author": "imgopaal",
+      "created": "2025-12-31 10:48:02",
+      "created_at": 1767178082000
     },
     {
       "id": 46435308,
       "title": "Show HN: 22 GB of Hacker News in SQLite",
       "link": "https://hackerbook.dosaygo.com",
-      "score": 487,
+      "score": 569,
       "author": "keepamovin",
       "created": "2025-12-30 17:01:59",
       "created_at": 1767114119000
-    },
-    {
-      "id": 46389925,
-      "title": "Odin: Moving Towards a New \"core:OS\"",
-      "link": "https://odin-lang.org/news/moving-towards-a-new-core-os/",
-      "score": 40,
-      "author": "ksec",
-      "created": "2025-12-26 07:10:12",
-      "created_at": 1766733012000
-    },
-    {
-      "id": 46435614,
-      "title": "A Vulnerability in Libsodium",
-      "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-      "score": 265,
-      "author": "raggi",
-      "created": "2025-12-30 17:24:57",
-      "created_at": 1767115497000
-    },
-    {
-      "id": 46438522,
-      "title": "Honey's Dieselgate: Detecting and tricking testers",
-      "link": "https://vptdigital.com/blog/honey-detecting-testers/",
-      "score": 197,
-      "author": "AkshatJ27",
-      "created": "2025-12-30 21:59:35",
-      "created_at": 1767131975000
-    },
-    {
-      "id": 46441068,
-      "title": "Google Opal",
-      "link": "https://opal.google/landing/",
-      "score": 104,
-      "author": "gmays",
-      "created": "2025-12-31 03:49:58",
-      "created_at": 1767152998000
-    },
-    {
-      "id": 46388445,
-      "title": "What If Heavy Files Felt Heavy?",
-      "link": "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy",
-      "score": 45,
-      "author": "shiveeshfotedar",
-      "created": "2025-12-26 01:44:00",
-      "created_at": 1766713440000
     }
   ],
   "code": 200,
