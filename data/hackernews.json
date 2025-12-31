@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2025-12-30T20:13:35.356Z"
+    "lastUpdate": "2025-12-31T00:58:23.170Z"
   },
   "data": [
-    {
-      "id": 46415225,
-      "title": "What an unprocessed photo looks like",
-      "link": "https://maurycyz.com/misc/raw_photo/",
-      "score": 2381,
-      "author": "zdw",
-      "created": "2025-12-28 22:35:02",
-      "created_at": 1766961302000
-    },
     {
       "id": 46419970,
       "title": "Kidnapped by Deutsche Bahn",
       "link": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "score": 1139,
+      "score": 1147,
       "author": "JeremyTheo",
       "created": "2025-12-29 12:24:00",
       "created_at": 1767011040000
@@ -28,7 +19,7 @@
       "id": 46425198,
       "title": "Google is dead. Where do we go now?",
       "link": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
-      "score": 997,
+      "score": 1013,
       "author": "tomjuggler",
       "created": "2025-12-29 20:29:26",
       "created_at": 1767040166000
@@ -37,7 +28,7 @@
       "id": 46422412,
       "title": "GOG is getting acquired by its original co-founder",
       "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "score": 825,
+      "score": 838,
       "author": "haunter",
       "created": "2025-12-29 16:43:14",
       "created_at": 1767026594000
@@ -46,34 +37,34 @@
       "id": 46423290,
       "title": "Tesla’s 4680 battery supply chain collapses as partner writes down deal by 99%",
       "link": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-      "score": 615,
+      "score": 635,
       "author": "coloneltcb",
       "created": "2025-12-29 17:57:03",
       "created_at": 1767031023000
     },
     {
-      "id": 46416945,
-      "title": "You can make up HTML tags",
-      "link": "https://maurycyz.com/misc/make-up-tags/",
-      "score": 560,
-      "author": "todsacerdoti",
-      "created": "2025-12-29 02:47:44",
-      "created_at": 1766976464000
-    },
-    {
       "id": 46431560,
       "title": "Netflix Open Content",
       "link": "https://opencontent.netflix.com/",
-      "score": 509,
+      "score": 576,
       "author": "tosh",
       "created": "2025-12-30 10:11:57",
       "created_at": 1767089517000
     },
     {
+      "id": 46416945,
+      "title": "You can make up HTML tags",
+      "link": "https://maurycyz.com/misc/make-up-tags/",
+      "score": 562,
+      "author": "todsacerdoti",
+      "created": "2025-12-29 02:47:44",
+      "created_at": 1766976464000
+    },
+    {
       "id": 46417815,
       "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
       "link": "https://github.com/HarryR/z80ai",
-      "score": 487,
+      "score": 491,
       "author": "quesomaster9000",
       "created": "2025-12-29 05:41:24",
       "created_at": 1766986884000
@@ -82,7 +73,7 @@
       "id": 46423566,
       "title": "List of domains censored by German ISPs",
       "link": "https://cuiiliste.de/domains",
-      "score": 401,
+      "score": 406,
       "author": "elcapitan",
       "created": "2025-12-29 18:21:30",
       "created_at": 1767032490000
@@ -91,10 +82,19 @@
       "id": 46427586,
       "title": "Stranger Things creator says turn off “garbage” settings",
       "link": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
-      "score": 370,
+      "score": 405,
       "author": "1970-01-01",
       "created": "2025-12-29 23:50:34",
       "created_at": 1767052234000
+    },
+    {
+      "id": 46424233,
+      "title": "The future of software development is software developers",
+      "link": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "score": 386,
+      "author": "cdrnsf",
+      "created": "2025-12-29 19:14:17",
+      "created_at": 1767035657000
     }
   ],
   "code": 200,
