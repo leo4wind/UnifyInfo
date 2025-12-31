@@ -3,23 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2025-12-31T04:30:44.512Z"
+    "lastUpdate": "2025-12-31T08:17:35.035Z"
   },
   "data": [
-    {
-      "id": 46439769,
-      "title": "Quality of drinking water varies significantly by airline",
-      "link": "https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/",
-      "score": 101,
-      "author": "azinman2",
-      "created": "2025-12-31 00:03:50",
-      "created_at": 1767139430000
-    },
     {
       "id": 46390621,
       "title": "Animated AI",
       "link": "https://animatedai.github.io/",
-      "score": 35,
+      "score": 138,
       "author": "frozenseven",
       "created": "2025-12-26 09:34:57",
       "created_at": 1766741697000
@@ -28,73 +19,82 @@
       "id": 46436409,
       "title": "A faster heart for F-Droid",
       "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 312,
+      "score": 376,
       "author": "kasabali",
       "created": "2025-12-30 18:36:37",
       "created_at": 1767119797000
     },
     {
-      "id": 46436889,
-      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
-      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
-      "score": 242,
-      "author": "birdculture",
-      "created": "2025-12-30 19:21:48",
-      "created_at": 1767122508000
-    },
-    {
       "id": 46440510,
       "title": "Readings in Database Systems (5th Edition)",
       "link": "http://www.redbook.io/",
-      "score": 22,
+      "score": 82,
       "author": "teleforce",
       "created": "2025-12-31 02:01:53",
       "created_at": 1767146513000
     },
     {
+      "id": 46436889,
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "score": 282,
+      "author": "birdculture",
+      "created": "2025-12-30 19:21:48",
+      "created_at": 1767122508000
+    },
+    {
       "id": 46435308,
       "title": "Show HN: 22 GB of Hacker News in SQLite",
       "link": "https://hackerbook.dosaygo.com",
-      "score": 387,
+      "score": 487,
       "author": "keepamovin",
       "created": "2025-12-30 17:01:59",
       "created_at": 1767114119000
     },
     {
+      "id": 46389925,
+      "title": "Odin: Moving Towards a New \"core:OS\"",
+      "link": "https://odin-lang.org/news/moving-towards-a-new-core-os/",
+      "score": 40,
+      "author": "ksec",
+      "created": "2025-12-26 07:10:12",
+      "created_at": 1766733012000
+    },
+    {
       "id": 46435614,
       "title": "A Vulnerability in Libsodium",
       "link": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-      "score": 231,
+      "score": 265,
       "author": "raggi",
       "created": "2025-12-30 17:24:57",
       "created_at": 1767115497000
     },
     {
-      "id": 46437288,
-      "title": "Zpdf: PDF text extraction in Zig – 5x faster than MuPDF",
-      "link": "https://github.com/Lulzx/zpdf",
-      "score": 142,
-      "author": "lulzx",
-      "created": "2025-12-30 19:57:10",
-      "created_at": 1767124630000
-    },
-    {
       "id": 46438522,
       "title": "Honey's Dieselgate: Detecting and tricking testers",
       "link": "https://vptdigital.com/blog/honey-detecting-testers/",
-      "score": 146,
+      "score": 197,
       "author": "AkshatJ27",
       "created": "2025-12-30 21:59:35",
       "created_at": 1767131975000
     },
     {
-      "id": 46438390,
-      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-      "score": 246,
-      "author": "1vuio0pswjnm7",
-      "created": "2025-12-30 21:44:07",
-      "created_at": 1767131047000
+      "id": 46441068,
+      "title": "Google Opal",
+      "link": "https://opal.google/landing/",
+      "score": 104,
+      "author": "gmays",
+      "created": "2025-12-31 03:49:58",
+      "created_at": 1767152998000
+    },
+    {
+      "id": 46388445,
+      "title": "What If Heavy Files Felt Heavy?",
+      "link": "https://www.shiveesh.com/thoughts-and-ideas/what-if-heavy-files-actually-felt-heavy",
+      "score": 45,
+      "author": "shiveeshfotedar",
+      "created": "2025-12-26 01:44:00",
+      "created_at": 1766713440000
     }
   ],
   "code": 200,
