@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2025-12-31T20:13:10.350Z"
+    "lastUpdate": "2026-01-01T01:03:56.626Z"
   },
   "data": [
+    {
+      "id": 46449694,
+      "title": "The Delete Act",
+      "link": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "score": 60,
+      "author": "weaksauce",
+      "created": "2026-01-01 00:02:14",
+      "created_at": 1767225734000
+    },
+    {
+      "id": 46448705,
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "score": 311,
+      "author": "ValentineC",
+      "created": "2025-12-31 21:44:42",
+      "created_at": 1767217482000
+    },
+    {
+      "id": 46448894,
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "link": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "score": 38,
+      "author": "PaulHoule",
+      "created": "2025-12-31 22:11:33",
+      "created_at": 1767219093000
+    },
+    {
+      "id": 46448998,
+      "title": "Resistance training load does not determine hypertrophy",
+      "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+      "score": 45,
+      "author": "Luc",
+      "created": "2025-12-31 22:25:58",
+      "created_at": 1767219958000
+    },
     {
       "id": 46446815,
       "title": "I canceled my book deal",
       "link": "https://austinhenley.com/blog/canceledbookdeal.html",
-      "score": 139,
+      "score": 314,
       "author": "azhenley",
       "created": "2025-12-31 18:26:32",
       "created_at": 1767205592000
     },
     {
-      "id": 46446938,
-      "title": "Privacy and control. My tech setup",
-      "link": "https://toidiu.com/blog/2025-12-25-privacy-and-control/",
-      "score": 31,
-      "author": "todsacerdoti",
-      "created": "2025-12-31 18:39:40",
-      "created_at": 1767206380000
+      "id": 46449812,
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "link": "https://bustermq.sh/",
+      "score": 6,
+      "author": "jbaptiste",
+      "created": "2026-01-01 00:18:43",
+      "created_at": 1767226723000
     },
     {
-      "id": 46445131,
-      "title": "The compiler is your best friend",
-      "link": "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it",
-      "score": 97,
-      "author": "based2",
-      "created": "2025-12-31 15:46:34",
-      "created_at": 1767195994000
+      "id": 46449643,
+      "title": "2025: The Year in LLMs",
+      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "score": 15,
+      "author": "simonw",
+      "created": "2025-12-31 23:54:46",
+      "created_at": 1767225286000
     },
     {
-      "id": 46395438,
-      "title": "My role as a founder-CTO: year 8",
-      "link": "https://miguelcarranza.es/cto-year-8",
-      "score": 25,
-      "author": "ridruejo",
-      "created": "2025-12-26 19:43:50",
-      "created_at": 1766778230000
+      "id": 46447827,
+      "title": "All-optical synthesis chip for large-scale intelligent semantic vision",
+      "link": "https://www.science.org/doi/10.1126/science.adv7434",
+      "score": 49,
+      "author": "QueensGambit",
+      "created": "2025-12-31 20:14:31",
+      "created_at": 1767212071000
     },
     {
-      "id": 46445195,
-      "title": "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
-      "link": "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/",
-      "score": 87,
-      "author": "a1k0n",
-      "created": "2025-12-31 15:52:51",
-      "created_at": 1767196371000
-    },
-    {
-      "id": 46390312,
-      "title": "Microtonal Spiral Piano",
-      "link": "https://shih1.github.io/spiral/",
-      "score": 33,
-      "author": "phoenix_ashes",
-      "created": "2025-12-26 08:30:36",
-      "created_at": 1766737836000
-    },
-    {
-      "id": 46417162,
-      "title": "Demystifying DVDs",
-      "link": "https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs",
-      "score": 18,
-      "author": "boltzmann-brain",
-      "created": "2025-12-29 03:25:35",
-      "created_at": 1766978735000
-    },
-    {
-      "id": 46442903,
-      "title": "Akin's Laws of Spacecraft Design [pdf]",
-      "link": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
-      "score": 229,
-      "author": "tosh",
-      "created": "2025-12-31 10:12:51",
-      "created_at": 1767175971000
-    },
-    {
-      "id": 46443579,
-      "title": "The most famous transcendental numbers",
-      "link": "https://sprott.physics.wisc.edu/pickover/trans.html",
-      "score": 107,
-      "author": "vismit2000",
-      "created": "2025-12-31 12:32:27",
-      "created_at": 1767184347000
-    },
-    {
-      "id": 46442245,
-      "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-      "link": "https://exopriors.com/scry",
-      "score": 250,
-      "author": "Xyra",
-      "created": "2025-12-31 07:47:44",
-      "created_at": 1767167264000
+      "id": 46409379,
+      "title": "Observed Agent Sandbox Bypasses",
+      "link": "https://voratiq.com/blog/yolo-in-the-sandbox/",
+      "score": 21,
+      "author": "m-hodges",
+      "created": "2025-12-28 08:16:49",
+      "created_at": 1766909809000
     }
   ],
   "code": 200,
