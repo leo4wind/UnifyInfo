@@ -3,41 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-01T08:17:52.285Z"
+    "lastUpdate": "2026-01-01T12:23:19.769Z"
   },
   "data": [
     {
       "id": 46435308,
       "title": "Show HN: 22 GB of Hacker News in SQLite",
       "link": "https://hackerbook.dosaygo.com",
-      "score": 701,
+      "score": 705,
       "author": "keepamovin",
       "created": "2025-12-30 17:01:59",
       "created_at": 1767114119000
     },
     {
-      "id": 46431560,
-      "title": "Netflix Open Content",
-      "link": "https://opencontent.netflix.com/",
-      "score": 651,
-      "author": "tosh",
-      "created": "2025-12-30 10:11:57",
-      "created_at": 1767089517000
-    },
-    {
       "id": 46448705,
       "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
       "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
-      "score": 548,
+      "score": 611,
       "author": "ValentineC",
       "created": "2025-12-31 21:44:42",
       "created_at": 1767217482000
     },
     {
+      "id": 46449643,
+      "title": "2025: The Year in LLMs",
+      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "score": 590,
+      "author": "simonw",
+      "created": "2025-12-31 23:54:46",
+      "created_at": 1767225286000
+    },
+    {
       "id": 46445068,
       "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
       "link": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
-      "score": 534,
+      "score": 555,
       "author": "haunter",
       "created": "2025-12-31 15:39:58",
       "created_at": 1767195598000
@@ -46,28 +46,28 @@
       "id": 46436409,
       "title": "A faster heart for F-Droid",
       "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 518,
+      "score": 522,
       "author": "kasabali",
       "created": "2025-12-30 18:36:37",
       "created_at": 1767119797000
     },
     {
-      "id": 46438390,
-      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-      "score": 493,
-      "author": "1vuio0pswjnm7",
-      "created": "2025-12-30 21:44:07",
-      "created_at": 1767131047000
-    },
-    {
       "id": 46446815,
       "title": "I canceled my book deal",
       "link": "https://austinhenley.com/blog/canceledbookdeal.html",
-      "score": 444,
+      "score": 497,
       "author": "azhenley",
       "created": "2025-12-31 18:26:32",
       "created_at": 1767205592000
+    },
+    {
+      "id": 46438390,
+      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+      "score": 497,
+      "author": "1vuio0pswjnm7",
+      "created": "2025-12-30 21:44:07",
+      "created_at": 1767131047000
     },
     {
       "id": 46432311,
@@ -79,22 +79,22 @@
       "created_at": 1767094975000
     },
     {
-      "id": 46432057,
-      "title": "Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”",
-      "link": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html",
-      "score": 421,
-      "author": "lifeisstillgood",
-      "created": "2025-12-30 11:13:30",
-      "created_at": 1767093210000
+      "id": 46436889,
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "score": 383,
+      "author": "birdculture",
+      "created": "2025-12-30 19:21:48",
+      "created_at": 1767122508000
     },
     {
-      "id": 46449643,
-      "title": "2025: The Year in LLMs",
-      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "score": 415,
-      "author": "simonw",
-      "created": "2025-12-31 23:54:46",
-      "created_at": 1767225286000
+      "id": 46438522,
+      "title": "Honey's Dieselgate: Detecting and tricking testers",
+      "link": "https://vptdigital.com/blog/honey-detecting-testers/",
+      "score": 378,
+      "author": "AkshatJ27",
+      "created": "2025-12-30 21:59:35",
+      "created_at": 1767131975000
     }
   ],
   "code": 200,
