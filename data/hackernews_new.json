@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-01T04:40:24.840Z"
+    "lastUpdate": "2026-01-01T08:17:52.447Z"
   },
   "data": [
     {
       "id": 46449643,
       "title": "2025: The Year in LLMs",
       "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "score": 250,
+      "score": 415,
       "author": "simonw",
       "created": "2025-12-31 23:54:46",
       "created_at": 1767225286000
@@ -19,82 +19,82 @@
       "id": 46446815,
       "title": "I canceled my book deal",
       "link": "https://austinhenley.com/blog/canceledbookdeal.html",
-      "score": 379,
+      "score": 444,
       "author": "azhenley",
       "created": "2025-12-31 18:26:32",
       "created_at": 1767205592000
     },
     {
-      "id": 46448894,
-      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
-      "link": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
-      "score": 107,
-      "author": "PaulHoule",
-      "created": "2025-12-31 22:11:33",
-      "created_at": 1767219093000
-    },
-    {
-      "id": 46449812,
-      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
-      "link": "https://bustermq.sh/",
-      "score": 53,
-      "author": "jbaptiste",
-      "created": "2026-01-01 00:18:43",
-      "created_at": 1767226723000
-    },
-    {
-      "id": 46448705,
-      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
-      "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
-      "score": 464,
-      "author": "ValentineC",
-      "created": "2025-12-31 21:44:42",
-      "created_at": 1767217482000
-    },
-    {
       "id": 46451124,
-      "title": "Flow5 Released to Open Source",
+      "title": "Flow5 released to open source",
       "link": "https://flow5.tech/docs/releasenotes.html",
-      "score": 5,
+      "score": 62,
       "author": "picture",
       "created": "2026-01-01 03:47:20",
       "created_at": 1767239240000
     },
     {
+      "id": 46449812,
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "link": "https://bustermq.sh/",
+      "score": 75,
+      "author": "jbaptiste",
+      "created": "2026-01-01 00:18:43",
+      "created_at": 1767226723000
+    },
+    {
       "id": 46448998,
       "title": "Resistance training load does not determine hypertrophy",
       "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
-      "score": 77,
+      "score": 121,
       "author": "Luc",
       "created": "2025-12-31 22:25:58",
       "created_at": 1767219958000
     },
     {
-      "id": 46451120,
-      "title": "Judge to Texas: You Can't Age-Gate the Internet Without Evidence",
-      "link": "https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/",
-      "score": 33,
-      "author": "djoldman",
-      "created": "2026-01-01 03:46:32",
-      "created_at": 1767239192000
+      "id": 46448705,
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "score": 548,
+      "author": "ValentineC",
+      "created": "2025-12-31 21:44:42",
+      "created_at": 1767217482000
+    },
+    {
+      "id": 46450731,
+      "title": "Pixar's True Story",
+      "link": "https://computerhistory.org/blog/pixars-true-story/",
+      "score": 41,
+      "author": "kristianp",
+      "created": "2026-01-01 02:35:40",
+      "created_at": 1767234940000
+    },
+    {
+      "id": 46446366,
+      "title": "Web Browsers have stopped blocking pop-ups",
+      "link": "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/",
+      "score": 158,
+      "author": "coldpie",
+      "created": "2025-12-31 17:42:20",
+      "created_at": 1767202940000
+    },
+    {
+      "id": 46401763,
+      "title": "Pokémon Team Optimization",
+      "link": "https://nchagnet.pages.dev/blog/pokemon-team-optimization/",
+      "score": 7,
+      "author": "nchagnet",
+      "created": "2025-12-27 13:38:01",
+      "created_at": 1766842681000
     },
     {
       "id": 46417162,
       "title": "Demystifying DVDs",
       "link": "https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs",
-      "score": 131,
+      "score": 158,
       "author": "boltzmann-brain",
       "created": "2025-12-29 03:25:35",
       "created_at": 1766978735000
-    },
-    {
-      "id": 46447827,
-      "title": "All-optical synthesis chip for large-scale intelligent semantic vision",
-      "link": "https://www.science.org/doi/10.1126/science.adv7434",
-      "score": 65,
-      "author": "QueensGambit",
-      "created": "2025-12-31 20:14:31",
-      "created_at": 1767212071000
     }
   ],
   "code": 200,
