@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-01T16:15:17.217Z"
+    "lastUpdate": "2026-01-01T20:14:03.081Z"
   },
   "data": [
     {
-      "id": 46454763,
-      "title": "ACM Is Now Open Access",
-      "link": "https://www.acm.org/articles/bulletins/2026/january/acm-open-access",
-      "score": 74,
-      "author": "leglock",
-      "created": "2026-01-01 15:19:26",
-      "created_at": 1767280766000
+      "id": 46455872,
+      "title": "Cameras and Lenses (2020)",
+      "link": "https://ciechanow.ski/cameras-and-lenses/",
+      "score": 202,
+      "author": "sebg",
+      "created": "2026-01-01 17:18:01",
+      "created_at": 1767287881000
     },
     {
       "id": 46454693,
-      "title": "OpenWorkers: Self-Hosted Cloudflare Workers in Rust",
+      "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
       "link": "https://openworkers.com/introducing-openworkers",
-      "score": 34,
+      "score": 267,
       "author": "max_lt",
       "created": "2026-01-01 15:09:06",
       "created_at": 1767280146000
     },
     {
+      "id": 46453950,
+      "title": "iOS allows alternative browser engines in Japan",
+      "link": "https://developer.apple.com/support/alternative-browser-engines-jp/",
+      "score": 228,
+      "author": "eklavya",
+      "created": "2026-01-01 13:30:45",
+      "created_at": 1767274245000
+    },
+    {
+      "id": 46454470,
+      "title": "Python numbers every programmer should know",
+      "link": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+      "score": 158,
+      "author": "WoodenChair",
+      "created": "2026-01-01 14:39:23",
+      "created_at": 1767278363000
+    },
+    {
+      "id": 46392095,
+      "title": "C-events, yet another event loop, simpler, smaller, faster, safer",
+      "link": "https://zelang-dev.github.io/c-events/",
+      "score": 32,
+      "author": "thetechstech",
+      "created": "2025-12-26 14:06:47",
+      "created_at": 1766758007000
+    },
+    {
+      "id": 46456215,
+      "title": "Memory Subsystem Optimizations",
+      "link": "https://johnnysswlab.com/memory-subsystem-optimizations/",
+      "score": 24,
+      "author": "mfiguiere",
+      "created": "2026-01-01 17:52:30",
+      "created_at": 1767289950000
+    },
+    {
+      "id": 46457027,
+      "title": "Dell's version of the DGX Spark fixes pain points",
+      "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+      "score": 13,
+      "author": "thomasjb",
+      "created": "2026-01-01 19:11:53",
+      "created_at": 1767294713000
+    },
+    {
       "id": 46453204,
       "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
       "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
-      "score": 232,
+      "score": 366,
       "author": "AndrewDucker",
       "created": "2026-01-01 11:17:18",
       "created_at": 1767266238000
     },
     {
-      "id": 46454413,
-      "title": "2025 Letter",
-      "link": "https://danwang.co/2025-letter/",
-      "score": 11,
-      "author": "Amorymeltzer",
-      "created": "2026-01-01 14:32:12",
-      "created_at": 1767277932000
+      "id": 46454958,
+      "title": "Common Lisp SDK for the Datastar Hypermedia Framework",
+      "link": "https://github.com/fsmunoz/datastar-cl",
+      "score": 53,
+      "author": "fsmunoz",
+      "created": "2026-01-01 15:47:17",
+      "created_at": 1767282437000
     },
     {
-      "id": 46453114,
-      "title": "I rebooted my social life",
-      "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
-      "score": 169,
-      "author": "edent",
-      "created": "2026-01-01 11:01:38",
-      "created_at": 1767265298000
-    },
-    {
-      "id": 46449643,
-      "title": "2025: The Year in LLMs",
-      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "score": 719,
-      "author": "simonw",
-      "created": "2025-12-31 23:54:46",
-      "created_at": 1767225286000
-    },
-    {
-      "id": 46454944,
-      "title": "50% of U.S. vinyl buyers don't own a record player",
-      "link": "https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752",
-      "score": 16,
-      "author": "ResisBey",
-      "created": "2026-01-01 15:45:25",
-      "created_at": 1767282325000
-    },
-    {
-      "id": 46453582,
-      "title": "Meta made scam ads harder to find instead of removing them",
-      "link": "https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/",
-      "score": 119,
-      "author": "wtcactus",
-      "created": "2026-01-01 12:29:01",
-      "created_at": 1767270541000
-    },
-    {
-      "id": 46454854,
-      "title": "Heap Overflow in FFmpeg EXIF",
-      "link": "https://bugs.pwno.io/0014",
-      "score": 4,
-      "author": "retr0reg",
-      "created": "2026-01-01 15:31:24",
-      "created_at": 1767281484000
-    },
-    {
-      "id": 46454587,
-      "title": "Build a Deep Learning Library",
-      "link": "https://zekcrates.quarto.pub/deep-learning-library/",
-      "score": 4,
-      "author": "butanyways",
-      "created": "2026-01-01 14:53:50",
-      "created_at": 1767279230000
+      "id": 46430815,
+      "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
+      "link": "https://github.com/quickemu-project/quickemu",
+      "score": 50,
+      "author": "teekert",
+      "created": "2025-12-30 08:19:08",
+      "created_at": 1767082748000
     }
   ],
   "code": 200,

@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-01T16:15:16.825Z"
+    "lastUpdate": "2026-01-01T20:14:02.941Z"
   },
   "data": [
     {
       "id": 46449643,
       "title": "2025: The Year in LLMs",
       "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-      "score": 719,
+      "score": 809,
       "author": "simonw",
       "created": "2025-12-31 23:54:46",
       "created_at": 1767225286000
     },
     {
-      "id": 46435308,
-      "title": "Show HN: 22 GB of Hacker News in SQLite",
-      "link": "https://hackerbook.dosaygo.com",
-      "score": 708,
-      "author": "keepamovin",
-      "created": "2025-12-30 17:01:59",
-      "created_at": 1767114119000
-    },
-    {
       "id": 46448705,
       "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
       "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
-      "score": 661,
+      "score": 683,
       "author": "ValentineC",
       "created": "2025-12-31 21:44:42",
       "created_at": 1767217482000
     },
     {
-      "id": 46445068,
-      "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
-      "link": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
-      "score": 562,
-      "author": "haunter",
-      "created": "2025-12-31 15:39:58",
-      "created_at": 1767195598000
-    },
-    {
       "id": 46446815,
       "title": "I canceled my book deal",
       "link": "https://austinhenley.com/blog/canceledbookdeal.html",
-      "score": 553,
+      "score": 581,
       "author": "azhenley",
       "created": "2025-12-31 18:26:32",
       "created_at": 1767205592000
     },
     {
-      "id": 46436409,
-      "title": "A faster heart for F-Droid",
-      "link": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
-      "score": 524,
-      "author": "kasabali",
-      "created": "2025-12-30 18:36:37",
-      "created_at": 1767119797000
+      "id": 46445068,
+      "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
+      "link": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
+      "score": 567,
+      "author": "haunter",
+      "created": "2025-12-31 15:39:58",
+      "created_at": 1767195598000
     },
     {
       "id": 46438390,
       "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
       "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-      "score": 497,
+      "score": 503,
       "author": "1vuio0pswjnm7",
       "created": "2025-12-30 21:44:07",
       "created_at": 1767131047000
@@ -73,7 +55,7 @@
       "id": 46443744,
       "title": "Tell HN: Happy New Year",
       "link": "",
-      "score": 396,
+      "score": 420,
       "author": "schappim",
       "created": "2025-12-31 13:02:48",
       "created_at": 1767186168000
@@ -82,7 +64,7 @@
       "id": 46436889,
       "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
       "link": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
-      "score": 385,
+      "score": 386,
       "author": "birdculture",
       "created": "2025-12-30 19:21:48",
       "created_at": 1767122508000
@@ -95,6 +77,24 @@
       "author": "AkshatJ27",
       "created": "2025-12-30 21:59:35",
       "created_at": 1767131975000
+    },
+    {
+      "id": 46453204,
+      "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
+      "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
+      "score": 366,
+      "author": "AndrewDucker",
+      "created": "2026-01-01 11:17:18",
+      "created_at": 1767266238000
+    },
+    {
+      "id": 46442245,
+      "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+      "link": "https://exopriors.com/scry",
+      "score": 363,
+      "author": "Xyra",
+      "created": "2025-12-31 07:47:44",
+      "created_at": 1767167264000
     }
   ],
   "code": 200,
