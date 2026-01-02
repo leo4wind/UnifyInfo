@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-02T08:17:50.596Z"
+    "lastUpdate": "2026-01-02T12:22:26.810Z"
   },
   "data": [
+    {
+      "id": 46463644,
+      "title": "10 years of personal finances in plain text files",
+      "link": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+      "score": 55,
+      "author": "wrxd",
+      "created": "2026-01-02 11:07:51",
+      "created_at": 1767352071000
+    },
+    {
+      "id": 46462702,
+      "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+      "link": "https://standardebooks.org/blog/public-domain-day-2026",
+      "score": 133,
+      "author": "WithinReason",
+      "created": "2026-01-02 08:40:41",
+      "created_at": 1767343241000
+    },
+    {
+      "id": 46463407,
+      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+      "link": "https://lalitm.com/post/one-number-i-trust/",
+      "score": 13,
+      "author": "ayi",
+      "created": "2026-01-02 10:25:11",
+      "created_at": 1767349511000
+    },
     {
       "id": 46460440,
       "title": "Happy Public Domain Day 2026",
       "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-      "score": 226,
+      "score": 312,
       "author": "apetresc",
       "created": "2026-01-02 01:42:16",
       "created_at": 1767318136000
@@ -19,82 +46,55 @@
       "id": 46460319,
       "title": "Why users cannot create Issues directly",
       "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 246,
+      "score": 422,
       "author": "xpe",
       "created": "2026-01-02 01:24:51",
       "created_at": 1767317091000
     },
     {
-      "id": 46461778,
-      "title": "Real Biological Clock Is You're Going to Die (2018)",
-      "link": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
-      "score": 51,
-      "author": "moultano",
-      "created": "2026-01-02 05:39:13",
-      "created_at": 1767332353000
+      "id": 46462719,
+      "title": "Going immutable on macOS, using Nix-Darwin",
+      "link": "https://carette.xyz/posts/going_immutable_macos/",
+      "score": 64,
+      "author": "weird_trousers",
+      "created": "2026-01-02 08:42:34",
+      "created_at": 1767343354000
+    },
+    {
+      "id": 46463315,
+      "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+      "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+      "score": 41,
+      "author": "stared",
+      "created": "2026-01-02 10:10:46",
+      "created_at": 1767348646000
+    },
+    {
+      "id": 46393929,
+      "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
+      "link": "https://en.kaigaiiju.ch/episodes/matz2",
+      "score": 45,
+      "author": "kibitan",
+      "created": "2025-12-26 17:07:09",
+      "created_at": 1766768829000
     },
     {
       "id": 46457784,
       "title": "A website to destroy all websites",
       "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "score": 499,
+      "score": 577,
       "author": "g0xA52A2A",
       "created": "2026-01-01 20:36:46",
       "created_at": 1767299806000
     },
     {
-      "id": 46398235,
-      "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
-      "link": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
-      "score": 131,
-      "author": "NaOH",
-      "created": "2025-12-27 01:23:08",
-      "created_at": 1766798588000
-    },
-    {
       "id": 46462108,
       "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
       "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-      "score": 7,
+      "score": 57,
       "author": "todsacerdoti",
       "created": "2026-01-02 06:48:32",
       "created_at": 1767336512000
-    },
-    {
-      "id": 46460676,
-      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
-      "link": "https://github.com/maxpert/marmot",
-      "score": 89,
-      "author": "zX41ZdbW",
-      "created": "2026-01-02 02:21:57",
-      "created_at": 1767320517000
-    },
-    {
-      "id": 46458302,
-      "title": "Can Bundler be as fast as uv?",
-      "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-      "score": 232,
-      "author": "ibobev",
-      "created": "2026-01-01 21:37:10",
-      "created_at": 1767303430000
-    },
-    {
-      "id": 46455872,
-      "title": "Cameras and Lenses (2020)",
-      "link": "https://ciechanow.ski/cameras-and-lenses/",
-      "score": 411,
-      "author": "sebg",
-      "created": "2026-01-01 17:18:01",
-      "created_at": 1767287881000
-    },
-    {
-      "id": 46461563,
-      "title": "I'm a developer for a major food delivery app",
-      "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
-      "score": 275,
-      "author": "apayan",
-      "created": "2026-01-02 04:57:25",
-      "created_at": 1767329845000
     }
   ],
   "code": 200,
