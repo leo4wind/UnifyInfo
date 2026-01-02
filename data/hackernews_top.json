@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-02T16:14:38.811Z"
+    "lastUpdate": "2026-01-02T20:13:09.452Z"
   },
   "data": [
+    {
+      "id": 46468283,
+      "title": "4th Edition Unix in the Browser",
+      "link": "https://unixv4.dev/",
+      "score": 26,
+      "author": "pjmlp",
+      "created": "2026-01-02 19:18:36",
+      "created_at": 1767381516000
+    },
+    {
+      "id": 46466074,
+      "title": "Ask HN: Who is hiring? (January 2026)",
+      "link": "",
+      "score": 186,
+      "author": "whoishiring",
+      "created": "2026-01-02 16:00:42",
+      "created_at": 1767369642000
+    },
+    {
+      "id": 46468600,
+      "title": "Publish (On Your) Own Site, Syndicate Elsewhere",
+      "link": "https://indieweb.org/POSSE#",
+      "score": 20,
+      "author": "47thpresident",
+      "created": "2026-01-02 19:48:25",
+      "created_at": 1767383305000
+    },
+    {
+      "id": 46467057,
+      "title": "Clicks Communicator",
+      "link": "https://www.clicksphone.com/en/communicator",
+      "score": 143,
+      "author": "microflash",
+      "created": "2026-01-02 17:22:04",
+      "created_at": 1767374524000
+    },
     {
       "id": 46464235,
       "title": "FracturedJson",
       "link": "https://github.com/j-brooke/FracturedJson/wiki",
-      "score": 232,
+      "score": 419,
       "author": "PretzelFisch",
       "created": "2026-01-02 12:46:31",
       "created_at": 1767357991000
     },
     {
+      "id": 46468237,
+      "title": "TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
+      "link": "https://github.com/Alanma23/tinytinyTPU-co",
+      "score": 17,
+      "author": "Xenograph",
+      "created": "2026-01-02 19:13:24",
+      "created_at": 1767381204000
+    },
+    {
+      "id": 46467677,
+      "title": "Fighting Fire with Fire: Scalable Oral Exams",
+      "link": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
+      "score": 51,
+      "author": "sethbannon",
+      "created": "2026-01-02 18:18:47",
+      "created_at": 1767377927000
+    },
+    {
       "id": 46463644,
       "title": "10 years of personal finances in plain text files",
       "link": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
-      "score": 240,
+      "score": 350,
       "author": "wrxd",
       "created": "2026-01-02 11:07:51",
       "created_at": 1767352071000
     },
     {
-      "id": 46464426,
-      "title": "39th Chaos Communication Congress Videos",
-      "link": "https://media.ccc.de/b/congress/2025",
-      "score": 183,
-      "author": "Jommi",
-      "created": "2026-01-02 13:17:06",
-      "created_at": 1767359826000
+      "id": 46465327,
+      "title": "IPv6 just turned 30 and still hasn't taken over the world",
+      "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
+      "score": 96,
+      "author": "Brajeshwar",
+      "created": "2026-01-02 14:55:09",
+      "created_at": 1767365709000
     },
     {
-      "id": 46462702,
-      "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
-      "link": "https://standardebooks.org/blog/public-domain-day-2026",
-      "score": 214,
-      "author": "WithinReason",
-      "created": "2026-01-02 08:40:41",
-      "created_at": 1767343241000
-    },
-    {
-      "id": 46464120,
-      "title": "Assorted less(1) tips",
-      "link": "https://blog.thechases.com/posts/assorted-less-tips/",
-      "score": 50,
-      "author": "todsacerdoti",
-      "created": "2026-01-02 12:29:23",
-      "created_at": 1767356963000
-    },
-    {
-      "id": 46404321,
-      "title": "What You Need to Know Before Touching a Video File",
-      "link": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
-      "score": 85,
-      "author": "qbow883",
-      "created": "2025-12-27 19:17:25",
-      "created_at": 1766863045000
-    },
-    {
-      "id": 46463315,
-      "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-      "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-      "score": 262,
-      "author": "stared",
-      "created": "2026-01-02 10:10:46",
-      "created_at": 1767348646000
-    },
-    {
-      "id": 46464133,
-      "title": "Show HN: Dealta – A game-theoretic decentralized trading protocol",
-      "link": "https://github.com/orgs/Dealta-Foundation/repositories",
-      "score": 29,
-      "author": "kalenvale",
-      "created": "2026-01-02 12:31:03",
-      "created_at": 1767357063000
-    },
-    {
-      "id": 46460319,
-      "title": "Why users cannot create Issues directly",
-      "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 563,
-      "author": "xpe",
-      "created": "2026-01-02 01:24:51",
-      "created_at": 1767317091000
-    },
-    {
-      "id": 46460440,
-      "title": "Happy Public Domain Day 2026",
-      "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-      "score": 366,
-      "author": "apetresc",
-      "created": "2026-01-02 01:42:16",
-      "created_at": 1767318136000
+      "id": 46466364,
+      "title": "Punkt. Unveils MC03 Smartphone",
+      "link": "https://www.punkt.ch/blogs/news/punkt-unveils-mc03",
+      "score": 71,
+      "author": "ChrisArchitect",
+      "created": "2026-01-02 16:23:34",
+      "created_at": 1767371014000
     }
   ],
   "code": 200,
