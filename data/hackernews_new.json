@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-01T20:14:03.081Z"
+    "lastUpdate": "2026-01-02T00:58:34.837Z"
   },
   "data": [
+    {
+      "id": 46457784,
+      "title": "A website to destroy all websites",
+      "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+      "score": 278,
+      "author": "g0xA52A2A",
+      "created": "2026-01-01 20:36:46",
+      "created_at": 1767299806000
+    },
+    {
+      "id": 46458302,
+      "title": "Can Bundler be as fast as uv?",
+      "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "score": 113,
+      "author": "ibobev",
+      "created": "2026-01-01 21:37:10",
+      "created_at": 1767303430000
+    },
+    {
+      "id": 46456797,
+      "title": "Finland detains ship and its crew after critical undersea cable damaged",
+      "link": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+      "score": 233,
+      "author": "wslh",
+      "created": "2026-01-01 18:46:07",
+      "created_at": 1767293167000
+    },
     {
       "id": 46455872,
       "title": "Cameras and Lenses (2020)",
       "link": "https://ciechanow.ski/cameras-and-lenses/",
-      "score": 202,
+      "score": 334,
       "author": "sebg",
       "created": "2026-01-01 17:18:01",
       "created_at": 1767287881000
     },
     {
+      "id": 46457770,
+      "title": "Linux is good now",
+      "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+      "score": 411,
+      "author": "Vinnl",
+      "created": "2026-01-01 20:35:11",
+      "created_at": 1767299711000
+    },
+    {
+      "id": 46458624,
+      "title": "WebAssembly as a Python Extension Platform",
+      "link": "https://nullprogram.com/blog/2026/01/01/",
+      "score": 22,
+      "author": "ArmageddonIt",
+      "created": "2026-01-01 22:09:16",
+      "created_at": 1767305356000
+    },
+    {
       "id": 46454693,
       "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
       "link": "https://openworkers.com/introducing-openworkers",
-      "score": 267,
+      "score": 359,
       "author": "max_lt",
       "created": "2026-01-01 15:09:06",
       "created_at": 1767280146000
     },
     {
-      "id": 46453950,
-      "title": "iOS allows alternative browser engines in Japan",
-      "link": "https://developer.apple.com/support/alternative-browser-engines-jp/",
-      "score": 228,
-      "author": "eklavya",
-      "created": "2026-01-01 13:30:45",
-      "created_at": 1767274245000
-    },
-    {
-      "id": 46454470,
-      "title": "Python numbers every programmer should know",
-      "link": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
-      "score": 158,
-      "author": "WoodenChair",
-      "created": "2026-01-01 14:39:23",
-      "created_at": 1767278363000
-    },
-    {
-      "id": 46392095,
-      "title": "C-events, yet another event loop, simpler, smaller, faster, safer",
-      "link": "https://zelang-dev.github.io/c-events/",
-      "score": 32,
-      "author": "thetechstech",
-      "created": "2025-12-26 14:06:47",
-      "created_at": 1766758007000
-    },
-    {
-      "id": 46456215,
-      "title": "Memory Subsystem Optimizations",
-      "link": "https://johnnysswlab.com/memory-subsystem-optimizations/",
-      "score": 24,
-      "author": "mfiguiere",
-      "created": "2026-01-01 17:52:30",
-      "created_at": 1767289950000
-    },
-    {
       "id": 46457027,
       "title": "Dell's version of the DGX Spark fixes pain points",
       "link": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
-      "score": 13,
+      "score": 84,
       "author": "thomasjb",
       "created": "2026-01-01 19:11:53",
       "created_at": 1767294713000
     },
     {
-      "id": 46453204,
-      "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
-      "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
-      "score": 366,
-      "author": "AndrewDucker",
-      "created": "2026-01-01 11:17:18",
-      "created_at": 1767266238000
+      "id": 46449852,
+      "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
+      "link": "https://enroll.sh",
+      "score": 18,
+      "author": "_mig5",
+      "created": "2026-01-01 00:23:54",
+      "created_at": 1767227034000
     },
     {
-      "id": 46454958,
-      "title": "Common Lisp SDK for the Datastar Hypermedia Framework",
-      "link": "https://github.com/fsmunoz/datastar-cl",
-      "score": 53,
-      "author": "fsmunoz",
-      "created": "2026-01-01 15:47:17",
-      "created_at": 1767282437000
-    },
-    {
-      "id": 46430815,
-      "title": "Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs",
-      "link": "https://github.com/quickemu-project/quickemu",
-      "score": 50,
-      "author": "teekert",
-      "created": "2025-12-30 08:19:08",
-      "created_at": 1767082748000
+      "id": 46454977,
+      "title": "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
+      "link": "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal",
+      "score": 157,
+      "author": "toomuchtodo",
+      "created": "2026-01-01 15:49:42",
+      "created_at": 1767282582000
     }
   ],
   "code": 200,
