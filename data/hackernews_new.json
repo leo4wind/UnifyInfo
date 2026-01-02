@@ -3,41 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-02T04:32:43.115Z"
+    "lastUpdate": "2026-01-02T08:17:50.637Z"
   },
   "data": [
     {
       "id": 46460440,
       "title": "Happy Public Domain Day 2026",
       "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-      "score": 122,
+      "score": 226,
       "author": "apetresc",
       "created": "2026-01-02 01:42:16",
       "created_at": 1767318136000
     },
     {
-      "id": 46457784,
-      "title": "A website to destroy all websites",
-      "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "score": 414,
-      "author": "g0xA52A2A",
-      "created": "2026-01-01 20:36:46",
-      "created_at": 1767299806000
-    },
-    {
       "id": 46460319,
       "title": "Why users cannot create Issues directly",
       "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 76,
+      "score": 246,
       "author": "xpe",
       "created": "2026-01-02 01:24:51",
       "created_at": 1767317091000
     },
     {
+      "id": 46461778,
+      "title": "Real Biological Clock Is You're Going to Die (2018)",
+      "link": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
+      "score": 51,
+      "author": "moultano",
+      "created": "2026-01-02 05:39:13",
+      "created_at": 1767332353000
+    },
+    {
+      "id": 46457784,
+      "title": "A website to destroy all websites",
+      "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+      "score": 499,
+      "author": "g0xA52A2A",
+      "created": "2026-01-01 20:36:46",
+      "created_at": 1767299806000
+    },
+    {
+      "id": 46398235,
+      "title": "James Moylan, engineer behind arrow signaling which side to refuel a car, dies",
+      "link": "https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/",
+      "score": 131,
+      "author": "NaOH",
+      "created": "2025-12-27 01:23:08",
+      "created_at": 1766798588000
+    },
+    {
+      "id": 46462108,
+      "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
+      "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+      "score": 7,
+      "author": "todsacerdoti",
+      "created": "2026-01-02 06:48:32",
+      "created_at": 1767336512000
+    },
+    {
       "id": 46460676,
       "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
       "link": "https://github.com/maxpert/marmot",
-      "score": 35,
+      "score": 89,
       "author": "zX41ZdbW",
       "created": "2026-01-02 02:21:57",
       "created_at": 1767320517000
@@ -46,7 +73,7 @@
       "id": 46458302,
       "title": "Can Bundler be as fast as uv?",
       "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-      "score": 187,
+      "score": 232,
       "author": "ibobev",
       "created": "2026-01-01 21:37:10",
       "created_at": 1767303430000
@@ -55,46 +82,19 @@
       "id": 46455872,
       "title": "Cameras and Lenses (2020)",
       "link": "https://ciechanow.ski/cameras-and-lenses/",
-      "score": 379,
+      "score": 411,
       "author": "sebg",
       "created": "2026-01-01 17:18:01",
       "created_at": 1767287881000
     },
     {
-      "id": 46449852,
-      "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-      "link": "https://enroll.sh",
-      "score": 97,
-      "author": "_mig5",
-      "created": "2026-01-01 00:23:54",
-      "created_at": 1767227034000
-    },
-    {
-      "id": 46457770,
-      "title": "Linux is good now",
-      "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
-      "score": 566,
-      "author": "Vinnl",
-      "created": "2026-01-01 20:35:11",
-      "created_at": 1767299711000
-    },
-    {
-      "id": 46460394,
-      "title": "Extensibility: The \"100% Lisp\" Fallacy",
-      "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
-      "score": 20,
-      "author": "todsacerdoti",
-      "created": "2026-01-02 01:36:25",
-      "created_at": 1767317785000
-    },
-    {
-      "id": 46458624,
-      "title": "WebAssembly as a Python Extension Platform",
-      "link": "https://nullprogram.com/blog/2026/01/01/",
-      "score": 56,
-      "author": "ArmageddonIt",
-      "created": "2026-01-01 22:09:16",
-      "created_at": 1767305356000
+      "id": 46461563,
+      "title": "I'm a developer for a major food delivery app",
+      "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+      "score": 275,
+      "author": "apayan",
+      "created": "2026-01-02 04:57:25",
+      "created_at": 1767329845000
     }
   ],
   "code": 200,
