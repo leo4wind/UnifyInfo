@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-02T12:22:26.810Z"
+    "lastUpdate": "2026-01-02T16:14:38.811Z"
   },
   "data": [
+    {
+      "id": 46464235,
+      "title": "FracturedJson",
+      "link": "https://github.com/j-brooke/FracturedJson/wiki",
+      "score": 232,
+      "author": "PretzelFisch",
+      "created": "2026-01-02 12:46:31",
+      "created_at": 1767357991000
+    },
     {
       "id": 46463644,
       "title": "10 years of personal finances in plain text files",
       "link": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
-      "score": 55,
+      "score": 240,
       "author": "wrxd",
       "created": "2026-01-02 11:07:51",
       "created_at": 1767352071000
     },
     {
+      "id": 46464426,
+      "title": "39th Chaos Communication Congress Videos",
+      "link": "https://media.ccc.de/b/congress/2025",
+      "score": 183,
+      "author": "Jommi",
+      "created": "2026-01-02 13:17:06",
+      "created_at": 1767359826000
+    },
+    {
       "id": 46462702,
       "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
       "link": "https://standardebooks.org/blog/public-domain-day-2026",
-      "score": 133,
+      "score": 214,
       "author": "WithinReason",
       "created": "2026-01-02 08:40:41",
       "created_at": 1767343241000
     },
     {
-      "id": 46463407,
-      "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
-      "link": "https://lalitm.com/post/one-number-i-trust/",
-      "score": 13,
-      "author": "ayi",
-      "created": "2026-01-02 10:25:11",
-      "created_at": 1767349511000
+      "id": 46464120,
+      "title": "Assorted less(1) tips",
+      "link": "https://blog.thechases.com/posts/assorted-less-tips/",
+      "score": 50,
+      "author": "todsacerdoti",
+      "created": "2026-01-02 12:29:23",
+      "created_at": 1767356963000
     },
     {
-      "id": 46460440,
-      "title": "Happy Public Domain Day 2026",
-      "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-      "score": 312,
-      "author": "apetresc",
-      "created": "2026-01-02 01:42:16",
-      "created_at": 1767318136000
-    },
-    {
-      "id": 46460319,
-      "title": "Why users cannot create Issues directly",
-      "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 422,
-      "author": "xpe",
-      "created": "2026-01-02 01:24:51",
-      "created_at": 1767317091000
-    },
-    {
-      "id": 46462719,
-      "title": "Going immutable on macOS, using Nix-Darwin",
-      "link": "https://carette.xyz/posts/going_immutable_macos/",
-      "score": 64,
-      "author": "weird_trousers",
-      "created": "2026-01-02 08:42:34",
-      "created_at": 1767343354000
+      "id": 46404321,
+      "title": "What You Need to Know Before Touching a Video File",
+      "link": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
+      "score": 85,
+      "author": "qbow883",
+      "created": "2025-12-27 19:17:25",
+      "created_at": 1766863045000
     },
     {
       "id": 46463315,
       "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
       "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-      "score": 41,
+      "score": 262,
       "author": "stared",
       "created": "2026-01-02 10:10:46",
       "created_at": 1767348646000
     },
     {
-      "id": 46393929,
-      "title": "Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.",
-      "link": "https://en.kaigaiiju.ch/episodes/matz2",
-      "score": 45,
-      "author": "kibitan",
-      "created": "2025-12-26 17:07:09",
-      "created_at": 1766768829000
+      "id": 46464133,
+      "title": "Show HN: Dealta – A game-theoretic decentralized trading protocol",
+      "link": "https://github.com/orgs/Dealta-Foundation/repositories",
+      "score": 29,
+      "author": "kalenvale",
+      "created": "2026-01-02 12:31:03",
+      "created_at": 1767357063000
     },
     {
-      "id": 46457784,
-      "title": "A website to destroy all websites",
-      "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "score": 577,
-      "author": "g0xA52A2A",
-      "created": "2026-01-01 20:36:46",
-      "created_at": 1767299806000
+      "id": 46460319,
+      "title": "Why users cannot create Issues directly",
+      "link": "https://github.com/ghostty-org/ghostty/issues/3558",
+      "score": 563,
+      "author": "xpe",
+      "created": "2026-01-02 01:24:51",
+      "created_at": 1767317091000
     },
     {
-      "id": 46462108,
-      "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
-      "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-      "score": 57,
-      "author": "todsacerdoti",
-      "created": "2026-01-02 06:48:32",
-      "created_at": 1767336512000
+      "id": 46460440,
+      "title": "Happy Public Domain Day 2026",
+      "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "score": 366,
+      "author": "apetresc",
+      "created": "2026-01-02 01:42:16",
+      "created_at": 1767318136000
     }
   ],
   "code": 200,
