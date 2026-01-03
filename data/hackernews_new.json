@@ -3,95 +3,95 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-03T12:21:16.566Z"
+    "lastUpdate": "2026-01-03T16:13:42.279Z"
   },
   "data": [
-    {
-      "id": 46475376,
-      "title": "Not for Human Consumption",
-      "link": "https://vectorculture.substack.com/p/not-for-human-consumption",
-      "score": 26,
-      "author": "ashergill",
-      "created": "2026-01-03 11:26:59",
-      "created_at": 1767439619000
-    },
-    {
-      "id": 46475218,
-      "title": "Tally – A tool to help agents classify your bank transactions",
-      "link": "https://tallyai.money/",
-      "score": 23,
-      "author": "ahmedatia",
-      "created": "2026-01-03 11:02:33",
-      "created_at": 1767438153000
-    },
     {
       "id": 46468600,
       "title": "Publish on your own site, syndicate elsewhere",
       "link": "https://indieweb.org/POSSE#",
-      "score": 715,
+      "score": 848,
       "author": "47thpresident",
       "created": "2026-01-02 19:48:25",
       "created_at": 1767383305000
     },
     {
+      "id": 46473348,
+      "title": "Trump says Venezuela’s Maduro captured after strikes",
+      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+      "score": 771,
+      "author": "jumpocelot",
+      "created": "2026-01-03 06:35:21",
+      "created_at": 1767422121000
+    },
+    {
       "id": 46469577,
       "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
       "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "score": 526,
+      "score": 617,
       "author": "simonw",
       "created": "2026-01-02 21:27:44",
       "created_at": 1767389264000
     },
     {
+      "id": 46478061,
+      "title": "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
+      "link": "https://www.corviont.com/",
+      "score": 7,
+      "author": "packet_mover",
+      "created": "2026-01-03 15:55:16",
+      "created_at": 1767455716000
+    },
+    {
       "id": 46403062,
       "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
       "link": "https://streaming.media.ccc.de/39c3/relive/2149",
-      "score": 85,
+      "score": 116,
       "author": "aberoham",
       "created": "2025-12-27 16:49:39",
       "created_at": 1766854179000
     },
     {
-      "id": 46472667,
-      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-      "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
-      "score": 96,
-      "author": "shenli3514",
-      "created": "2026-01-03 04:01:03",
-      "created_at": 1767412863000
-    },
-    {
-      "id": 46443730,
-      "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
-      "link": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
-      "score": 46,
-      "author": "jensgk",
-      "created": "2025-12-31 13:00:42",
-      "created_at": 1767186042000
-    },
-    {
-      "id": 46442624,
-      "title": "GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling",
-      "link": "https://github.com/tomasf/Cadova",
-      "score": 21,
-      "author": "bdcravens",
-      "created": "2025-12-31 09:16:58",
-      "created_at": 1767172618000
+      "id": 46475437,
+      "title": "X-Clacks-Overhead",
+      "link": "https://hleb.dev/post/x-clacks-overhead/",
+      "score": 44,
+      "author": "hleb_dev",
+      "created": "2026-01-03 11:37:07",
+      "created_at": 1767440227000
     },
     {
       "id": 46465327,
       "title": "IPv6 just turned 30 and still hasn't taken over the world",
       "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-      "score": 392,
+      "score": 451,
       "author": "Brajeshwar",
       "created": "2026-01-02 14:55:09",
       "created_at": 1767365709000
     },
     {
+      "id": 46443730,
+      "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
+      "link": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
+      "score": 79,
+      "author": "jensgk",
+      "created": "2025-12-31 13:00:42",
+      "created_at": 1767186042000
+    },
+    {
+      "id": 46475296,
+      "title": "Profiling with Ctrl-C (2024)",
+      "link": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
+      "score": 24,
+      "author": "hun3",
+      "created": "2026-01-03 11:13:48",
+      "created_at": 1767438828000
+    },
+    {
       "id": 46471199,
       "title": "2026 will be my year of the Linux desktop",
       "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "score": 580,
+      "score": 652,
       "author": "todsacerdoti",
       "created": "2026-01-03 00:15:47",
       "created_at": 1767399347000
