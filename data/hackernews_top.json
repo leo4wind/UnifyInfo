@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-03T00:55:05.770Z"
+    "lastUpdate": "2026-01-03T04:23:45.079Z"
   },
   "data": [
-    {
-      "id": 46471199,
-      "title": "2026 will be my year of the Linux desktop",
-      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "score": 95,
-      "author": "todsacerdoti",
-      "created": "2026-01-03 00:15:47",
-      "created_at": 1767399347000
-    },
     {
       "id": 46468600,
       "title": "Publish on your own site, syndicate elsewhere",
       "link": "https://indieweb.org/POSSE#",
-      "score": 331,
+      "score": 443,
       "author": "47thpresident",
       "created": "2026-01-02 19:48:25",
       "created_at": 1767383305000
     },
     {
+      "id": 46471712,
+      "title": "A Basic Just-In-Time Compiler (2015)",
+      "link": "https://nullprogram.com/blog/2015/03/19/",
+      "score": 32,
+      "author": "ibobev",
+      "created": "2026-01-03 01:18:07",
+      "created_at": 1767403087000
+    },
+    {
       "id": 46469577,
       "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
       "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "score": 193,
+      "score": 306,
       "author": "simonw",
       "created": "2026-01-02 21:27:44",
       "created_at": 1767389264000
     },
     {
-      "id": 46470571,
-      "title": "NY Fed cash transfers to banks increase dramatically in Q4 2025",
-      "link": "https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/",
-      "score": 45,
-      "author": "scythe",
-      "created": "2026-01-02 23:01:10",
-      "created_at": 1767394870000
+      "id": 46471199,
+      "title": "2026 will be my year of the Linux desktop",
+      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "score": 323,
+      "author": "todsacerdoti",
+      "created": "2026-01-03 00:15:47",
+      "created_at": 1767399347000
     },
     {
-      "id": 46468283,
-      "title": "Unix v4 (1973) – Live Terminal",
-      "link": "https://unixv4.dev/",
-      "score": 117,
-      "author": "pjmlp",
-      "created": "2026-01-02 19:18:36",
-      "created_at": 1767381516000
+      "id": 46471171,
+      "title": "Show HN: Website that plays the lottery every second",
+      "link": "https://lotteryeverysecond.lffl.me/",
+      "score": 82,
+      "author": "Loeffelmann",
+      "created": "2026-01-03 00:12:55",
+      "created_at": 1767399175000
     },
     {
       "id": 46467057,
       "title": "Clicks Communicator",
       "link": "https://www.clicksphone.com/en/communicator",
-      "score": 247,
+      "score": 283,
       "author": "microflash",
       "created": "2026-01-02 17:22:04",
       "created_at": 1767374524000
     },
     {
-      "id": 46466074,
-      "title": "Ask HN: Who is hiring? (January 2026)",
-      "link": "",
-      "score": 248,
-      "author": "whoishiring",
-      "created": "2026-01-02 16:00:42",
-      "created_at": 1767369642000
-    },
-    {
-      "id": 46464235,
-      "title": "FracturedJson",
-      "link": "https://github.com/j-brooke/FracturedJson/wiki",
-      "score": 498,
-      "author": "PretzelFisch",
-      "created": "2026-01-02 12:46:31",
-      "created_at": 1767357991000
+      "id": 46471699,
+      "title": "Proving Liveness with TLA",
+      "link": "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/",
+      "score": 21,
+      "author": "ibobev",
+      "created": "2026-01-03 01:15:54",
+      "created_at": 1767402954000
     },
     {
       "id": 46465327,
       "title": "IPv6 just turned 30 and still hasn't taken over the world",
       "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-      "score": 236,
+      "score": 298,
       "author": "Brajeshwar",
       "created": "2026-01-02 14:55:09",
       "created_at": 1767365709000
     },
     {
-      "id": 46414908,
-      "title": "Chain Flinger",
-      "link": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
-      "score": 19,
-      "author": "roomey",
-      "created": "2025-12-28 21:56:27",
-      "created_at": 1766958987000
+      "id": 46466074,
+      "title": "Ask HN: Who is hiring? (January 2026)",
+      "link": "",
+      "score": 262,
+      "author": "whoishiring",
+      "created": "2026-01-02 16:00:42",
+      "created_at": 1767369642000
+    },
+    {
+      "id": 46468283,
+      "title": "Unix v4 (1973) – Live Terminal",
+      "link": "https://unixv4.dev/",
+      "score": 135,
+      "author": "pjmlp",
+      "created": "2026-01-02 19:18:36",
+      "created_at": 1767381516000
     }
   ],
   "code": 200,
