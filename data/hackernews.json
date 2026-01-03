@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-03T04:23:44.997Z"
+    "lastUpdate": "2026-01-03T08:15:40.801Z"
   },
   "data": [
     {
       "id": 46457770,
       "title": "Linux is good now",
       "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
-      "score": 1135,
+      "score": 1145,
       "author": "Vinnl",
       "created": "2026-01-01 20:35:11",
       "created_at": 1767299711000
@@ -19,7 +19,7 @@
       "id": 46457784,
       "title": "A website to destroy all websites",
       "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "score": 757,
+      "score": 760,
       "author": "g0xA52A2A",
       "created": "2026-01-01 20:36:46",
       "created_at": 1767299806000
@@ -28,7 +28,7 @@
       "id": 46460319,
       "title": "Why users cannot create Issues directly",
       "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 722,
+      "score": 727,
       "author": "xpe",
       "created": "2026-01-02 01:24:51",
       "created_at": 1767317091000
@@ -37,10 +37,19 @@
       "id": 46461563,
       "title": "I'm a developer for a major food delivery app",
       "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
-      "score": 584,
+      "score": 595,
       "author": "apayan",
       "created": "2026-01-02 04:57:25",
       "created_at": 1767329845000
+    },
+    {
+      "id": 46468600,
+      "title": "Publish on your own site, syndicate elsewhere",
+      "link": "https://indieweb.org/POSSE#",
+      "score": 583,
+      "author": "47thpresident",
+      "created": "2026-01-02 19:48:25",
+      "created_at": 1767383305000
     },
     {
       "id": 46453204,
@@ -52,6 +61,24 @@
       "created_at": 1767266238000
     },
     {
+      "id": 46464235,
+      "title": "FracturedJson",
+      "link": "https://github.com/j-brooke/FracturedJson/wiki",
+      "score": 537,
+      "author": "PretzelFisch",
+      "created": "2026-01-02 12:46:31",
+      "created_at": 1767357991000
+    },
+    {
+      "id": 46463315,
+      "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+      "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+      "score": 531,
+      "author": "stared",
+      "created": "2026-01-02 10:10:46",
+      "created_at": 1767348646000
+    },
+    {
       "id": 46455872,
       "title": "Cameras and Lenses (2020)",
       "link": "https://ciechanow.ski/cameras-and-lenses/",
@@ -61,40 +88,13 @@
       "created_at": 1767287881000
     },
     {
-      "id": 46464235,
-      "title": "FracturedJson",
-      "link": "https://github.com/j-brooke/FracturedJson/wiki",
-      "score": 526,
-      "author": "PretzelFisch",
-      "created": "2026-01-02 12:46:31",
-      "created_at": 1767357991000
-    },
-    {
-      "id": 46463315,
-      "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-      "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-      "score": 516,
-      "author": "stared",
-      "created": "2026-01-02 10:10:46",
-      "created_at": 1767348646000
-    },
-    {
       "id": 46453114,
       "title": "I rebooted my social life",
       "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
-      "score": 492,
+      "score": 497,
       "author": "edent",
       "created": "2026-01-01 11:01:38",
       "created_at": 1767265298000
-    },
-    {
-      "id": 46454693,
-      "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
-      "link": "https://openworkers.com/introducing-openworkers",
-      "score": 487,
-      "author": "max_lt",
-      "created": "2026-01-01 15:09:06",
-      "created_at": 1767280146000
     }
   ],
   "code": 200,
