@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-03T16:13:42.012Z"
+    "lastUpdate": "2026-01-03T20:12:51.526Z"
   },
   "data": [
+    {
+      "id": 46473348,
+      "title": "Trump says Venezuela’s Maduro captured after strikes",
+      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+      "score": 1275,
+      "author": "jumpocelot",
+      "created": "2026-01-03 06:35:21",
+      "created_at": 1767422121000
+    },
     {
       "id": 46457770,
       "title": "Linux is good now",
       "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
-      "score": 1153,
+      "score": 1159,
       "author": "Vinnl",
       "created": "2026-01-01 20:35:11",
       "created_at": 1767299711000
@@ -19,7 +28,7 @@
       "id": 46468600,
       "title": "Publish on your own site, syndicate elsewhere",
       "link": "https://indieweb.org/POSSE#",
-      "score": 848,
+      "score": 934,
       "author": "47thpresident",
       "created": "2026-01-02 19:48:25",
       "created_at": 1767383305000
@@ -28,25 +37,16 @@
       "id": 46457784,
       "title": "A website to destroy all websites",
       "link": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "score": 772,
+      "score": 776,
       "author": "g0xA52A2A",
       "created": "2026-01-01 20:36:46",
       "created_at": 1767299806000
     },
     {
-      "id": 46473348,
-      "title": "Trump says Venezuela’s Maduro captured after strikes",
-      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
-      "score": 771,
-      "author": "jumpocelot",
-      "created": "2026-01-03 06:35:21",
-      "created_at": 1767422121000
-    },
-    {
       "id": 46460319,
       "title": "Why users cannot create Issues directly",
       "link": "https://github.com/ghostty-org/ghostty/issues/3558",
-      "score": 741,
+      "score": 744,
       "author": "xpe",
       "created": "2026-01-02 01:24:51",
       "created_at": 1767317091000
@@ -55,7 +55,7 @@
       "id": 46471199,
       "title": "2026 will be my year of the Linux desktop",
       "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "score": 652,
+      "score": 722,
       "author": "todsacerdoti",
       "created": "2026-01-03 00:15:47",
       "created_at": 1767399347000
@@ -64,7 +64,7 @@
       "id": 46469577,
       "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
       "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "score": 617,
+      "score": 695,
       "author": "simonw",
       "created": "2026-01-02 21:27:44",
       "created_at": 1767389264000
@@ -73,7 +73,7 @@
       "id": 46461563,
       "title": "I'm a developer for a major food delivery app",
       "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
-      "score": 599,
+      "score": 602,
       "author": "apayan",
       "created": "2026-01-02 04:57:25",
       "created_at": 1767329845000
@@ -82,7 +82,7 @@
       "id": 46463315,
       "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
       "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-      "score": 556,
+      "score": 563,
       "author": "stared",
       "created": "2026-01-02 10:10:46",
       "created_at": 1767348646000
@@ -91,7 +91,7 @@
       "id": 46464235,
       "title": "FracturedJson",
       "link": "https://github.com/j-brooke/FracturedJson/wiki",
-      "score": 550,
+      "score": 555,
       "author": "PretzelFisch",
       "created": "2026-01-02 12:46:31",
       "created_at": 1767357991000

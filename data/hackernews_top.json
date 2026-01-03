@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-03T16:13:42.250Z"
+    "lastUpdate": "2026-01-03T20:12:51.658Z"
   },
   "data": [
+    {
+      "id": 46478377,
+      "title": "The Most Popular Blogs of Hacker News in 2025",
+      "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+      "score": 210,
+      "author": "mtlynch",
+      "created": "2026-01-03 16:20:10",
+      "created_at": 1767457210000
+    },
+    {
+      "id": 46478647,
+      "title": "The C3 Programming Language",
+      "link": "https://c3-lang.org",
+      "score": 171,
+      "author": "y1n0",
+      "created": "2026-01-03 16:41:06",
+      "created_at": 1767458466000
+    },
+    {
+      "id": 46480156,
+      "title": "Microsoft kills official way to activate Windows 11/10 without internet",
+      "link": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
+      "score": 100,
+      "author": "taubek",
+      "created": "2026-01-03 18:53:10",
+      "created_at": 1767466390000
+    },
     {
       "id": 46468600,
       "title": "Publish on your own site, syndicate elsewhere",
       "link": "https://indieweb.org/POSSE#",
-      "score": 848,
+      "score": 934,
       "author": "47thpresident",
       "created": "2026-01-02 19:48:25",
       "created_at": 1767383305000
@@ -19,7 +46,7 @@
       "id": 46473348,
       "title": "Trump says Venezuela’s Maduro captured after strikes",
       "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
-      "score": 771,
+      "score": 1275,
       "author": "jumpocelot",
       "created": "2026-01-03 06:35:21",
       "created_at": 1767422121000
@@ -28,73 +55,46 @@
       "id": 46469577,
       "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
       "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "score": 617,
+      "score": 695,
       "author": "simonw",
       "created": "2026-01-02 21:27:44",
       "created_at": 1767389264000
     },
     {
-      "id": 46478061,
-      "title": "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
-      "link": "https://www.corviont.com/",
-      "score": 7,
-      "author": "packet_mover",
-      "created": "2026-01-03 15:55:16",
-      "created_at": 1767455716000
+      "id": 46475395,
+      "title": "Recursive Language Models",
+      "link": "https://arxiv.org/abs/2512.24601",
+      "score": 73,
+      "author": "schmuhblaster",
+      "created": "2026-01-03 11:29:33",
+      "created_at": 1767439773000
     },
     {
-      "id": 46403062,
-      "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
-      "link": "https://streaming.media.ccc.de/39c3/relive/2149",
-      "score": 116,
-      "author": "aberoham",
-      "created": "2025-12-27 16:49:39",
-      "created_at": 1766854179000
+      "id": 46441781,
+      "title": "Sirius DB",
+      "link": "https://www.sirius-db.com/",
+      "score": 41,
+      "author": "manoji",
+      "created": "2025-12-31 05:54:06",
+      "created_at": 1767160446000
     },
     {
-      "id": 46475437,
-      "title": "X-Clacks-Overhead",
-      "link": "https://hleb.dev/post/x-clacks-overhead/",
-      "score": 44,
-      "author": "hleb_dev",
-      "created": "2026-01-03 11:37:07",
-      "created_at": 1767440227000
-    },
-    {
-      "id": 46465327,
-      "title": "IPv6 just turned 30 and still hasn't taken over the world",
-      "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-      "score": 451,
-      "author": "Brajeshwar",
-      "created": "2026-01-02 14:55:09",
-      "created_at": 1767365709000
-    },
-    {
-      "id": 46443730,
-      "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
-      "link": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
-      "score": 79,
-      "author": "jensgk",
-      "created": "2025-12-31 13:00:42",
-      "created_at": 1767186042000
+      "id": 46412809,
+      "title": "World's largest functioning musical instrument: Wanamaker Organ in Philadelphia",
+      "link": "https://en.wikipedia.org/wiki/Wanamaker_Organ",
+      "score": 42,
+      "author": "bookofjoe",
+      "created": "2025-12-28 17:41:26",
+      "created_at": 1766943686000
     },
     {
       "id": 46475296,
       "title": "Profiling with Ctrl-C (2024)",
       "link": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
-      "score": 24,
+      "score": 61,
       "author": "hun3",
       "created": "2026-01-03 11:13:48",
       "created_at": 1767438828000
-    },
-    {
-      "id": 46471199,
-      "title": "2026 will be my year of the Linux desktop",
-      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "score": 652,
-      "author": "todsacerdoti",
-      "created": "2026-01-03 00:15:47",
-      "created_at": 1767399347000
     }
   ],
   "code": 200,
