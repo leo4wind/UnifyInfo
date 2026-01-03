@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-03T08:15:41.041Z"
+    "lastUpdate": "2026-01-03T12:21:16.501Z"
   },
   "data": [
+    {
+      "id": 46475376,
+      "title": "Not for Human Consumption",
+      "link": "https://vectorculture.substack.com/p/not-for-human-consumption",
+      "score": 26,
+      "author": "ashergill",
+      "created": "2026-01-03 11:26:59",
+      "created_at": 1767439619000
+    },
+    {
+      "id": 46475218,
+      "title": "Tally – A tool to help agents classify your bank transactions",
+      "link": "https://tallyai.money/",
+      "score": 23,
+      "author": "ahmedatia",
+      "created": "2026-01-03 11:02:33",
+      "created_at": 1767438153000
+    },
     {
       "id": 46468600,
       "title": "Publish on your own site, syndicate elsewhere",
       "link": "https://indieweb.org/POSSE#",
-      "score": 583,
+      "score": 715,
       "author": "47thpresident",
       "created": "2026-01-02 19:48:25",
       "created_at": 1767383305000
@@ -19,82 +37,64 @@
       "id": 46469577,
       "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
       "link": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-      "score": 424,
+      "score": 526,
       "author": "simonw",
       "created": "2026-01-02 21:27:44",
       "created_at": 1767389264000
     },
     {
-      "id": 46473623,
-      "title": "Explosions reported in Venezuelan capital Caracas",
-      "link": "https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas",
-      "score": 77,
-      "author": "beardyw",
-      "created": "2026-01-03 07:35:26",
-      "created_at": 1767425726000
-    },
-    {
-      "id": 46472667,
-      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-      "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
-      "score": 49,
-      "author": "shenli3514",
-      "created": "2026-01-03 04:01:03",
-      "created_at": 1767412863000
-    },
-    {
       "id": 46403062,
       "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
       "link": "https://streaming.media.ccc.de/39c3/relive/2149",
-      "score": 44,
+      "score": 85,
       "author": "aberoham",
       "created": "2025-12-27 16:49:39",
       "created_at": 1766854179000
     },
     {
-      "id": 46471171,
-      "title": "Show HN: Website that plays the lottery every second",
-      "link": "https://lotteryeverysecond.lffl.me/",
-      "score": 150,
-      "author": "Loeffelmann",
-      "created": "2026-01-03 00:12:55",
-      "created_at": 1767399175000
+      "id": 46472667,
+      "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+      "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+      "score": 96,
+      "author": "shenli3514",
+      "created": "2026-01-03 04:01:03",
+      "created_at": 1767412863000
     },
     {
-      "id": 46471199,
-      "title": "2026 will be my year of the Linux desktop",
-      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
-      "score": 457,
-      "author": "todsacerdoti",
-      "created": "2026-01-03 00:15:47",
-      "created_at": 1767399347000
+      "id": 46443730,
+      "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
+      "link": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
+      "score": 46,
+      "author": "jensgk",
+      "created": "2025-12-31 13:00:42",
+      "created_at": 1767186042000
     },
     {
-      "id": 46471712,
-      "title": "A Basic Just-In-Time Compiler (2015)",
-      "link": "https://nullprogram.com/blog/2015/03/19/",
-      "score": 53,
-      "author": "ibobev",
-      "created": "2026-01-03 01:18:07",
-      "created_at": 1767403087000
+      "id": 46442624,
+      "title": "GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling",
+      "link": "https://github.com/tomasf/Cadova",
+      "score": 21,
+      "author": "bdcravens",
+      "created": "2025-12-31 09:16:58",
+      "created_at": 1767172618000
     },
     {
       "id": 46465327,
       "title": "IPv6 just turned 30 and still hasn't taken over the world",
       "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-      "score": 337,
+      "score": 392,
       "author": "Brajeshwar",
       "created": "2026-01-02 14:55:09",
       "created_at": 1767365709000
     },
     {
-      "id": 46467057,
-      "title": "Clicks Communicator",
-      "link": "https://www.clicksphone.com/en/communicator",
-      "score": 315,
-      "author": "microflash",
-      "created": "2026-01-02 17:22:04",
-      "created_at": 1767374524000
+      "id": 46471199,
+      "title": "2026 will be my year of the Linux desktop",
+      "link": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "score": 580,
+      "author": "todsacerdoti",
+      "created": "2026-01-03 00:15:47",
+      "created_at": 1767399347000
     }
   ],
   "code": 200,
