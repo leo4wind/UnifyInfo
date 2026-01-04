@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-04T04:41:12.182Z"
+    "lastUpdate": "2026-01-04T08:15:53.772Z"
   },
   "data": [
+    {
+      "id": 46485090,
+      "title": "Neural Networks: Zero to Hero",
+      "link": "https://karpathy.ai/zero-to-hero.html",
+      "score": 159,
+      "author": "suioir",
+      "created": "2026-01-04 05:02:16",
+      "created_at": 1767502936000
+    },
     {
       "id": 46482345,
       "title": "Total monthly number of StackOverflow questions over time",
       "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 773,
+      "score": 994,
       "author": "maartin0",
       "created": "2026-01-03 22:23:34",
       "created_at": 1767479014000
@@ -19,82 +28,73 @@
       "id": 46482877,
       "title": "The suck is why we're here",
       "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 169,
+      "score": 256,
       "author": "herbertl",
       "created": "2026-01-03 23:24:41",
       "created_at": 1767482681000
     },
     {
-      "id": 46483776,
-      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
-      "link": "https://github.com/obround/mytorch",
-      "score": 41,
-      "author": "iguana2000",
-      "created": "2026-01-04 01:21:56",
-      "created_at": 1767489716000
-    },
-    {
-      "id": 46478377,
-      "title": "The Most Popular Blogs of Hacker News in 2025",
-      "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 474,
-      "author": "mtlynch",
-      "created": "2026-01-03 16:20:10",
-      "created_at": 1767457210000
+      "id": 46424186,
+      "title": "GDI Effects from the PC cracking scene",
+      "link": "https://gdimayhem.temari.fr/index.php?p=all",
+      "score": 21,
+      "author": "todsacerdoti",
+      "created": "2025-12-29 19:10:32",
+      "created_at": 1767035432000
     },
     {
       "id": 46483023,
       "title": "Swift on Android: Full Native App Development Now Possible",
       "link": "https://docs.swifdroid.com/app/",
-      "score": 132,
+      "score": 188,
       "author": "mihael",
       "created": "2026-01-03 23:39:12",
       "created_at": 1767483552000
     },
     {
-      "id": 46483531,
-      "title": "Corroded: Illegal Rust",
-      "link": "https://github.com/buyukakyuz/corroded",
-      "score": 33,
-      "author": "csmantle",
-      "created": "2026-01-04 00:45:54",
-      "created_at": 1767487554000
+      "id": 46478377,
+      "title": "The Most Popular Blogs of Hacker News in 2025",
+      "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+      "score": 545,
+      "author": "mtlynch",
+      "created": "2026-01-03 16:20:10",
+      "created_at": 1767457210000
     },
     {
-      "id": 46484104,
-      "title": "How Thomas Mann Wrote the Magic Mountain",
-      "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
-      "score": 17,
-      "author": "Caiero",
-      "created": "2026-01-04 02:13:23",
-      "created_at": 1767492803000
+      "id": 46439993,
+      "title": "Odoo: Open-Source ERP",
+      "link": "https://github.com/odoo/odoo",
+      "score": 46,
+      "author": "stein1946",
+      "created": "2025-12-31 00:35:29",
+      "created_at": 1767141329000
     },
     {
-      "id": 46412070,
-      "title": "Ed25519-CLI – command-line interface for the Ed25519 signature system",
-      "link": "https://lib25519.cr.yp.to/ed25519-cli.html",
-      "score": 64,
-      "author": "INGELRII",
-      "created": "2025-12-28 16:12:11",
-      "created_at": 1766938331000
+      "id": 46483776,
+      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
+      "link": "https://github.com/obround/mytorch",
+      "score": 67,
+      "author": "iguana2000",
+      "created": "2026-01-04 01:21:56",
+      "created_at": 1767489716000
     },
     {
       "id": 46483432,
       "title": "KDE onboarding is good now",
       "link": "https://rabbitictranslator.com/kde-onboarding/",
-      "score": 37,
+      "score": 83,
       "author": "todsacerdoti",
       "created": "2026-01-04 00:31:42",
       "created_at": 1767486702000
     },
     {
-      "id": 46483729,
-      "title": "The Great Gatsby is the most misunderstood novel (2021)",
-      "link": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
-      "score": 40,
-      "author": "1659447091",
-      "created": "2026-01-04 01:15:15",
-      "created_at": 1767489315000
+      "id": 46484104,
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "score": 50,
+      "author": "Caiero",
+      "created": "2026-01-04 02:13:23",
+      "created_at": 1767492803000
     }
   ],
   "code": 200,
