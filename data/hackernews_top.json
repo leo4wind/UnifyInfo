@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-04T08:15:53.772Z"
+    "lastUpdate": "2026-01-04T12:21:36.632Z"
   },
   "data": [
+    {
+      "id": 46486780,
+      "title": "Maybe Comments _Should_ Explain 'What'",
+      "link": "https://www.hillelwayne.com/post/what-comments/",
+      "score": 41,
+      "author": "zahrevsky",
+      "created": "2026-01-04 10:43:38",
+      "created_at": 1767523418000
+    },
     {
       "id": 46485090,
       "title": "Neural Networks: Zero to Hero",
       "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 159,
+      "score": 377,
       "author": "suioir",
       "created": "2026-01-04 05:02:16",
       "created_at": 1767502936000
     },
     {
+      "id": 46486135,
+      "title": "The Gentle Seduction",
+      "link": "http://www.skyhunter.com/marcs/GentleSeduction.html",
+      "score": 94,
+      "author": "JumpCrisscross",
+      "created": "2026-01-04 08:35:42",
+      "created_at": 1767515742000
+    },
+    {
       "id": 46482345,
       "title": "Total monthly number of StackOverflow questions over time",
       "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 994,
+      "score": 1201,
       "author": "maartin0",
       "created": "2026-01-03 22:23:34",
       "created_at": 1767479014000
     },
     {
-      "id": 46482877,
-      "title": "The suck is why we're here",
-      "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 256,
-      "author": "herbertl",
-      "created": "2026-01-03 23:24:41",
-      "created_at": 1767482681000
-    },
-    {
       "id": 46424186,
       "title": "GDI Effects from the PC cracking scene",
       "link": "https://gdimayhem.temari.fr/index.php?p=all",
-      "score": 21,
+      "score": 97,
       "author": "todsacerdoti",
       "created": "2025-12-29 19:10:32",
       "created_at": 1767035432000
     },
     {
-      "id": 46483023,
-      "title": "Swift on Android: Full Native App Development Now Possible",
-      "link": "https://docs.swifdroid.com/app/",
-      "score": 188,
-      "author": "mihael",
-      "created": "2026-01-03 23:39:12",
-      "created_at": 1767483552000
+      "id": 46482877,
+      "title": "The suck is why we're here",
+      "link": "https://nik.art/the-suck-is-why-were-here/",
+      "score": 322,
+      "author": "herbertl",
+      "created": "2026-01-03 23:24:41",
+      "created_at": 1767482681000
+    },
+    {
+      "id": 46485989,
+      "title": "Can I start using Wayland in 2026?",
+      "link": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
+      "score": 123,
+      "author": "secure",
+      "created": "2026-01-04 08:11:22",
+      "created_at": 1767514282000
+    },
+    {
+      "id": 46438258,
+      "title": "From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]",
+      "link": "https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps",
+      "score": 49,
+      "author": "anigbrowl",
+      "created": "2025-12-30 21:31:31",
+      "created_at": 1767130291000
     },
     {
       "id": 46478377,
       "title": "The Most Popular Blogs of Hacker News in 2025",
       "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 545,
+      "score": 602,
       "author": "mtlynch",
       "created": "2026-01-03 16:20:10",
       "created_at": 1767457210000
     },
     {
-      "id": 46439993,
-      "title": "Odoo: Open-Source ERP",
-      "link": "https://github.com/odoo/odoo",
-      "score": 46,
-      "author": "stein1946",
-      "created": "2025-12-31 00:35:29",
-      "created_at": 1767141329000
-    },
-    {
-      "id": 46483776,
-      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
-      "link": "https://github.com/obround/mytorch",
-      "score": 67,
-      "author": "iguana2000",
-      "created": "2026-01-04 01:21:56",
-      "created_at": 1767489716000
-    },
-    {
-      "id": 46483432,
-      "title": "KDE onboarding is good now",
-      "link": "https://rabbitictranslator.com/kde-onboarding/",
-      "score": 83,
-      "author": "todsacerdoti",
-      "created": "2026-01-04 00:31:42",
-      "created_at": 1767486702000
-    },
-    {
-      "id": 46484104,
-      "title": "How Thomas Mann Wrote the Magic Mountain",
-      "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
-      "score": 50,
-      "author": "Caiero",
-      "created": "2026-01-04 02:13:23",
-      "created_at": 1767492803000
+      "id": 46486681,
+      "title": "Anatomy of BoltzGen",
+      "link": "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen",
+      "score": 10,
+      "author": "danielfalbo",
+      "created": "2026-01-04 10:28:49",
+      "created_at": 1767522529000
     }
   ],
   "code": 200,
