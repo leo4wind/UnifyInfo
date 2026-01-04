@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-04T01:04:17.545Z"
+    "lastUpdate": "2026-01-04T04:41:12.205Z"
   },
   "data": [
     {
       "id": 46482345,
       "title": "Total monthly number of StackOverflow questions over time",
       "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 376,
+      "score": 773,
       "author": "maartin0",
       "created": "2026-01-03 22:23:34",
       "created_at": 1767479014000
     },
     {
-      "id": 46483023,
-      "title": "Swift on Android: Full Native App Development Now Possible",
-      "link": "https://docs.swifdroid.com/app/",
-      "score": 65,
-      "author": "mihael",
-      "created": "2026-01-03 23:39:12",
-      "created_at": 1767483552000
-    },
-    {
       "id": 46482877,
-      "title": "The Suck Is Why We're Here",
+      "title": "The suck is why we're here",
       "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 38,
+      "score": 169,
       "author": "herbertl",
       "created": "2026-01-03 23:24:41",
       "created_at": 1767482681000
     },
     {
+      "id": 46483776,
+      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
+      "link": "https://github.com/obround/mytorch",
+      "score": 41,
+      "author": "iguana2000",
+      "created": "2026-01-04 01:21:56",
+      "created_at": 1767489716000
+    },
+    {
       "id": 46478377,
       "title": "The Most Popular Blogs of Hacker News in 2025",
       "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 395,
+      "score": 474,
       "author": "mtlynch",
       "created": "2026-01-03 16:20:10",
       "created_at": 1767457210000
     },
     {
+      "id": 46483023,
+      "title": "Swift on Android: Full Native App Development Now Possible",
+      "link": "https://docs.swifdroid.com/app/",
+      "score": 132,
+      "author": "mihael",
+      "created": "2026-01-03 23:39:12",
+      "created_at": 1767483552000
+    },
+    {
+      "id": 46483531,
+      "title": "Corroded: Illegal Rust",
+      "link": "https://github.com/buyukakyuz/corroded",
+      "score": 33,
+      "author": "csmantle",
+      "created": "2026-01-04 00:45:54",
+      "created_at": 1767487554000
+    },
+    {
+      "id": 46484104,
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "link": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "score": 17,
+      "author": "Caiero",
+      "created": "2026-01-04 02:13:23",
+      "created_at": 1767492803000
+    },
+    {
       "id": 46412070,
       "title": "Ed25519-CLI – command-line interface for the Ed25519 signature system",
       "link": "https://lib25519.cr.yp.to/ed25519-cli.html",
-      "score": 52,
+      "score": 64,
       "author": "INGELRII",
       "created": "2025-12-28 16:12:11",
       "created_at": 1766938331000
     },
     {
-      "id": 46482642,
-      "title": "The Riven Diffs – Seeing Riven (1997) Differently",
-      "link": "https://glthr.com/the-riven-diffs-1",
-      "score": 31,
-      "author": "glth",
-      "created": "2026-01-03 23:01:57",
-      "created_at": 1767481317000
+      "id": 46483432,
+      "title": "KDE onboarding is good now",
+      "link": "https://rabbitictranslator.com/kde-onboarding/",
+      "score": 37,
+      "author": "todsacerdoti",
+      "created": "2026-01-04 00:31:42",
+      "created_at": 1767486702000
     },
     {
-      "id": 46482107,
-      "title": "Take One Small Step",
-      "link": "https://thinkhuman.com/take-one-small-step/",
-      "score": 30,
-      "author": "jamesgill",
-      "created": "2026-01-03 21:58:30",
-      "created_at": 1767477510000
-    },
-    {
-      "id": 46478647,
-      "title": "The C3 Programming Language",
-      "link": "https://c3-lang.org",
-      "score": 281,
-      "author": "y1n0",
-      "created": "2026-01-03 16:41:06",
-      "created_at": 1767458466000
-    },
-    {
-      "id": 46414683,
-      "title": "Determining Current Arm Cortex-M Security State with GDB",
-      "link": "https://danielmangum.com/posts/arm-cortex-m-security-state-gdb/",
-      "score": 13,
-      "author": "hasheddan",
-      "created": "2025-12-28 21:25:44",
-      "created_at": 1766957144000
-    },
-    {
-      "id": 46442502,
-      "title": "Torch.ts – building PyTorch in TypeScript from scratch to learn",
-      "link": "https://github.com/13point5/torch.ts",
-      "score": 9,
-      "author": "13point5",
-      "created": "2025-12-31 08:49:29",
-      "created_at": 1767170969000
+      "id": 46483729,
+      "title": "The Great Gatsby is the most misunderstood novel (2021)",
+      "link": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
+      "score": 40,
+      "author": "1659447091",
+      "created": "2026-01-04 01:15:15",
+      "created_at": 1767489315000
     }
   ],
   "code": 200,
