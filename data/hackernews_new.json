@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-04T16:13:19.593Z"
+    "lastUpdate": "2026-01-04T20:13:13.122Z"
   },
   "data": [
+    {
+      "id": 46488819,
+      "title": "Lessons from 14 Years at Google",
+      "link": "https://addyosmani.com/blog/21-lessons/",
+      "score": 489,
+      "author": "cdrnsf",
+      "created": "2026-01-04 15:23:54",
+      "created_at": 1767540234000
+    },
     {
       "id": 46488278,
       "title": "Street Fighter II, the World Warrier (2021)",
       "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 89,
+      "score": 220,
       "author": "birdculture",
       "created": "2026-01-04 14:30:29",
       "created_at": 1767537029000
@@ -19,82 +28,73 @@
       "id": 46488355,
       "title": "The Unbearable Joy of Sitting Alone in a Café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 36,
+      "score": 253,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
     },
     {
+      "id": 46442282,
+      "title": "Linear Address Spaces: Unsafe at any speed",
+      "link": "https://queue.acm.org/detail.cfm?id=3534854",
+      "score": 33,
+      "author": "nithssh",
+      "created": "2025-12-31 07:57:53",
+      "created_at": 1767167873000
+    },
+    {
+      "id": 46488576,
+      "title": "Web development is fun again",
+      "link": "https://ma.ttias.be/web-development-is-fun-again/",
+      "score": 156,
+      "author": "Mojah",
+      "created": "2026-01-04 15:00:18",
+      "created_at": 1767538818000
+    },
+    {
       "id": 46488654,
       "title": "Show HN: An interactive guide to how browsers work",
       "link": "https://howbrowserswork.com/",
-      "score": 21,
+      "score": 116,
       "author": "krasun",
       "created": "2026-01-04 15:08:02",
       "created_at": 1767539282000
     },
     {
-      "id": 46487921,
-      "title": "Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",
-      "link": "https://lists.busybox.net/pipermail/busybox/2010-December/074114.html",
-      "score": 41,
-      "author": "csmantle",
-      "created": "2026-01-04 13:49:04",
-      "created_at": 1767534544000
+      "id": 46488101,
+      "title": "Using Hinge as a Command and Control Server",
+      "link": "https://mattwie.se/hinge-command-control-c2",
+      "score": 62,
+      "author": "mattwiese",
+      "created": "2026-01-04 14:08:08",
+      "created_at": 1767535688000
     },
     {
-      "id": 46486780,
-      "title": "Maybe comments should explain 'what' (2017)",
-      "link": "https://www.hillelwayne.com/post/what-comments/",
-      "score": 123,
-      "author": "zahrevsky",
-      "created": "2026-01-04 10:43:38",
-      "created_at": 1767523418000
-    },
-    {
-      "id": 46488261,
-      "title": "Cold-Blooded Software (2023)",
-      "link": "https://dubroy.com/blog/cold-blooded-software/",
-      "score": 29,
-      "author": "dgroshev",
-      "created": "2026-01-04 14:28:56",
-      "created_at": 1767536936000
+      "id": 46436279,
+      "title": "Bison return to Illinois' Kane County after 200 years",
+      "link": "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html",
+      "score": 76,
+      "author": "bikenaga",
+      "created": "2025-12-30 18:22:56",
+      "created_at": 1767118976000
     },
     {
       "id": 46485090,
       "title": "Neural Networks: Zero to Hero",
       "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 543,
+      "score": 647,
       "author": "suioir",
       "created": "2026-01-04 05:02:16",
       "created_at": 1767502936000
     },
     {
-      "id": 46487120,
-      "title": "FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers",
-      "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/",
-      "score": 66,
-      "author": "todsacerdoti",
-      "created": "2026-01-04 11:55:34",
-      "created_at": 1767527734000
-    },
-    {
-      "id": 46445393,
-      "title": "One Formula That Demystifies 3D Graphics",
-      "link": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
-      "score": 19,
-      "author": "msephton",
-      "created": "2025-12-31 16:10:52",
-      "created_at": 1767197452000
-    },
-    {
-      "id": 46486978,
-      "title": "JavaScript engines zoo – Compare every JavaScript engine",
-      "link": "https://zoo.js.org/",
-      "score": 86,
-      "author": "gurgunday",
-      "created": "2026-01-04 11:23:23",
-      "created_at": 1767525803000
+      "id": 46490895,
+      "title": "Show HN: Hover – IDE style hover documentation on any webpage",
+      "link": "https://github.com/Sampsoon/hover",
+      "score": 8,
+      "author": "sampsonj",
+      "created": "2026-01-04 18:43:45",
+      "created_at": 1767552225000
     }
   ],
   "code": 200,
