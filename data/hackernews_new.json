@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-04T12:21:36.662Z"
+    "lastUpdate": "2026-01-04T16:13:19.593Z"
   },
   "data": [
     {
-      "id": 46486780,
-      "title": "Maybe Comments _Should_ Explain 'What'",
-      "link": "https://www.hillelwayne.com/post/what-comments/",
+      "id": 46488278,
+      "title": "Street Fighter II, the World Warrier (2021)",
+      "link": "https://fabiensanglard.net/sf2_warrier/",
+      "score": 89,
+      "author": "birdculture",
+      "created": "2026-01-04 14:30:29",
+      "created_at": 1767537029000
+    },
+    {
+      "id": 46488355,
+      "title": "The Unbearable Joy of Sitting Alone in a Café",
+      "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
+      "score": 36,
+      "author": "mooreds",
+      "created": "2026-01-04 14:37:58",
+      "created_at": 1767537478000
+    },
+    {
+      "id": 46488654,
+      "title": "Show HN: An interactive guide to how browsers work",
+      "link": "https://howbrowserswork.com/",
+      "score": 21,
+      "author": "krasun",
+      "created": "2026-01-04 15:08:02",
+      "created_at": 1767539282000
+    },
+    {
+      "id": 46487921,
+      "title": "Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",
+      "link": "https://lists.busybox.net/pipermail/busybox/2010-December/074114.html",
       "score": 41,
+      "author": "csmantle",
+      "created": "2026-01-04 13:49:04",
+      "created_at": 1767534544000
+    },
+    {
+      "id": 46486780,
+      "title": "Maybe comments should explain 'what' (2017)",
+      "link": "https://www.hillelwayne.com/post/what-comments/",
+      "score": 123,
       "author": "zahrevsky",
       "created": "2026-01-04 10:43:38",
       "created_at": 1767523418000
     },
     {
+      "id": 46488261,
+      "title": "Cold-Blooded Software (2023)",
+      "link": "https://dubroy.com/blog/cold-blooded-software/",
+      "score": 29,
+      "author": "dgroshev",
+      "created": "2026-01-04 14:28:56",
+      "created_at": 1767536936000
+    },
+    {
       "id": 46485090,
       "title": "Neural Networks: Zero to Hero",
       "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 377,
+      "score": 543,
       "author": "suioir",
       "created": "2026-01-04 05:02:16",
       "created_at": 1767502936000
     },
     {
-      "id": 46486135,
-      "title": "The Gentle Seduction",
-      "link": "http://www.skyhunter.com/marcs/GentleSeduction.html",
-      "score": 94,
-      "author": "JumpCrisscross",
-      "created": "2026-01-04 08:35:42",
-      "created_at": 1767515742000
-    },
-    {
-      "id": 46482345,
-      "title": "Total monthly number of StackOverflow questions over time",
-      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 1201,
-      "author": "maartin0",
-      "created": "2026-01-03 22:23:34",
-      "created_at": 1767479014000
-    },
-    {
-      "id": 46424186,
-      "title": "GDI Effects from the PC cracking scene",
-      "link": "https://gdimayhem.temari.fr/index.php?p=all",
-      "score": 97,
+      "id": 46487120,
+      "title": "FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers",
+      "link": "https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/",
+      "score": 66,
       "author": "todsacerdoti",
-      "created": "2025-12-29 19:10:32",
-      "created_at": 1767035432000
+      "created": "2026-01-04 11:55:34",
+      "created_at": 1767527734000
     },
     {
-      "id": 46482877,
-      "title": "The suck is why we're here",
-      "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 322,
-      "author": "herbertl",
-      "created": "2026-01-03 23:24:41",
-      "created_at": 1767482681000
+      "id": 46445393,
+      "title": "One Formula That Demystifies 3D Graphics",
+      "link": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
+      "score": 19,
+      "author": "msephton",
+      "created": "2025-12-31 16:10:52",
+      "created_at": 1767197452000
     },
     {
-      "id": 46485989,
-      "title": "Can I start using Wayland in 2026?",
-      "link": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
-      "score": 123,
-      "author": "secure",
-      "created": "2026-01-04 08:11:22",
-      "created_at": 1767514282000
-    },
-    {
-      "id": 46438258,
-      "title": "From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]",
-      "link": "https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps",
-      "score": 49,
-      "author": "anigbrowl",
-      "created": "2025-12-30 21:31:31",
-      "created_at": 1767130291000
-    },
-    {
-      "id": 46478377,
-      "title": "The Most Popular Blogs of Hacker News in 2025",
-      "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 602,
-      "author": "mtlynch",
-      "created": "2026-01-03 16:20:10",
-      "created_at": 1767457210000
-    },
-    {
-      "id": 46486681,
-      "title": "Anatomy of BoltzGen",
-      "link": "https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen",
-      "score": 10,
-      "author": "danielfalbo",
-      "created": "2026-01-04 10:28:49",
-      "created_at": 1767522529000
+      "id": 46486978,
+      "title": "JavaScript engines zoo – Compare every JavaScript engine",
+      "link": "https://zoo.js.org/",
+      "score": 86,
+      "author": "gurgunday",
+      "created": "2026-01-04 11:23:23",
+      "created_at": 1767525803000
     }
   ],
   "code": 200,
