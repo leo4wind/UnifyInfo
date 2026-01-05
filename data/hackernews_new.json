@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-05T08:20:20.497Z"
+    "lastUpdate": "2026-01-05T12:25:19.177Z"
   },
   "data": [
     {
-      "id": 46495539,
-      "title": "Building a Rust-style static analyzer for C++ with AI",
-      "link": "http://mpaxos.com/blog/rusty-cpp.html",
-      "score": 40,
-      "author": "shuaimu",
-      "created": "2026-01-05 05:11:59",
-      "created_at": 1767589919000
-    },
-    {
-      "id": 46488819,
-      "title": "Lessons from 14 years at Google",
-      "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 1150,
-      "author": "cdrnsf",
-      "created": "2026-01-04 15:23:54",
-      "created_at": 1767540234000
-    },
-    {
-      "id": 46454085,
-      "title": "Logos Language Guide: Compile English to Rust",
-      "link": "https://logicaffeine.com/guide",
-      "score": 33,
-      "author": "tristenharr",
-      "created": "2026-01-01 13:48:27",
-      "created_at": 1767275307000
-    },
-    {
-      "id": 46491749,
-      "title": "Show HN: Terminal UI for AWS",
-      "link": "https://github.com/huseyinbabal/taws",
-      "score": 286,
-      "author": "huseyinbabal",
-      "created": "2026-01-04 20:17:22",
-      "created_at": 1767557842000
+      "id": 46497712,
+      "title": "It's hard to justify Tahoe icons",
+      "link": "https://tonsky.me/blog/tahoe-icons/",
+      "score": 66,
+      "author": "lylejantzi3rd",
+      "created": "2026-01-05 11:51:42",
+      "created_at": 1767613902000
     },
     {
       "id": 46496103,
       "title": "Databases in 2025: A Year in Review",
       "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-      "score": 7,
+      "score": 164,
       "author": "viveknathani_",
       "created": "2026-01-05 07:14:30",
       "created_at": 1767597270000
     },
     {
-      "id": 46494734,
-      "title": "During Helene, I just wanted a plain text website",
-      "link": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
-      "score": 166,
-      "author": "CqtGLRGcukpy",
-      "created": "2026-01-05 02:36:20",
-      "created_at": 1767580580000
+      "id": 46496494,
+      "title": "Decorative Cryptography",
+      "link": "https://www.dlp.rip/decorative-cryptography",
+      "score": 101,
+      "author": "todsacerdoti",
+      "created": "2026-01-05 08:29:38",
+      "created_at": 1767601778000
     },
     {
       "id": 46496054,
-      "title": "A spider web unlike any seen before (2025)",
+      "title": "A spider web unlike any seen before",
       "link": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
-      "score": 11,
+      "score": 109,
       "author": "juanplusjuan",
       "created": "2026-01-05 07:06:22",
       "created_at": 1767596782000
     },
     {
+      "id": 46497164,
+      "title": "Anna's Archive Loses .Org Domain After Surprise Suspension",
+      "link": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
+      "score": 131,
+      "author": "CTOSian",
+      "created": "2026-01-05 10:23:32",
+      "created_at": 1767608612000
+    },
+    {
+      "id": 46472930,
+      "title": "Revisiting the original Roomba and its simple architecture",
+      "link": "https://robotsinplainenglish.com/e/2025-12-27-roomba.html",
+      "score": 43,
+      "author": "ripe",
+      "created": "2026-01-03 04:53:20",
+      "created_at": 1767416000000
+    },
+    {
+      "id": 46445412,
+      "title": "Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind",
+      "link": "https://github.com/lets-all-be-stupid-forever/circuit-artist",
+      "score": 34,
+      "author": "rafinha",
+      "created": "2025-12-31 16:12:20",
+      "created_at": 1767197540000
+    },
+    {
+      "id": 46465866,
+      "title": "Ask HN: Help with LLVM",
+      "link": "",
+      "score": 22,
+      "author": "kvthweatt",
+      "created": "2026-01-02 15:44:24",
+      "created_at": 1767368664000
+    },
+    {
+      "id": 46488819,
+      "title": "Lessons from 14 years at Google",
+      "link": "https://addyosmani.com/blog/21-lessons/",
+      "score": 1320,
+      "author": "cdrnsf",
+      "created": "2026-01-04 15:23:54",
+      "created_at": 1767540234000
+    },
+    {
       "id": 46488355,
       "title": "The unbearable joy of sitting alone in a café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 581,
+      "score": 662,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
-    },
-    {
-      "id": 46491821,
-      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
-      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
-      "score": 224,
-      "author": "azeemba",
-      "created": "2026-01-04 20:25:30",
-      "created_at": 1767558330000
-    },
-    {
-      "id": 46488278,
-      "title": "Street Fighter II, the World Warrier (2021)",
-      "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 362,
-      "author": "birdculture",
-      "created": "2026-01-04 14:30:29",
-      "created_at": 1767537029000
     }
   ],
   "code": 200,
