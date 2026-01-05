@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-05T04:49:11.545Z"
+    "lastUpdate": "2026-01-05T08:20:20.322Z"
   },
   "data": [
-    {
-      "id": 46473348,
-      "title": "Trump says Venezuela’s Maduro captured after strikes",
-      "link": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
-      "score": 1743,
-      "author": "jumpocelot",
-      "created": "2026-01-03 06:35:21",
-      "created_at": 1767422121000
-    },
     {
       "id": 46482345,
       "title": "Total monthly number of StackOverflow questions over time",
       "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 1455,
+      "score": 1466,
       "author": "maartin0",
       "created": "2026-01-03 22:23:34",
       "created_at": 1767479014000
@@ -28,7 +19,7 @@
       "id": 46488819,
       "title": "Lessons from 14 years at Google",
       "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 956,
+      "score": 1150,
       "author": "cdrnsf",
       "created": "2026-01-04 15:23:54",
       "created_at": 1767540234000
@@ -37,7 +28,7 @@
       "id": 46485090,
       "title": "Neural Networks: Zero to Hero",
       "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 715,
+      "score": 734,
       "author": "suioir",
       "created": "2026-01-04 05:02:16",
       "created_at": 1767502936000
@@ -46,7 +37,7 @@
       "id": 46478377,
       "title": "The Most Popular Blogs of Hacker News in 2025",
       "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 649,
+      "score": 656,
       "author": "mtlynch",
       "created": "2026-01-03 16:20:10",
       "created_at": 1767457210000
@@ -55,7 +46,7 @@
       "id": 46488355,
       "title": "The unbearable joy of sitting alone in a café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 495,
+      "score": 581,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
@@ -64,7 +55,7 @@
       "id": 46482877,
       "title": "The suck is why we're here",
       "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 432,
+      "score": 436,
       "author": "herbertl",
       "created": "2026-01-03 23:24:41",
       "created_at": 1767482681000
@@ -73,16 +64,25 @@
       "id": 46480156,
       "title": "Report: Microsoft kills official way to activate Windows 11/10 without internet",
       "link": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
-      "score": 401,
+      "score": 403,
       "author": "taubek",
       "created": "2026-01-03 18:53:10",
       "created_at": 1767466390000
     },
     {
+      "id": 46488576,
+      "title": "Web development is fun again",
+      "link": "https://ma.ttias.be/web-development-is-fun-again/",
+      "score": 368,
+      "author": "Mojah",
+      "created": "2026-01-04 15:00:18",
+      "created_at": 1767538818000
+    },
+    {
       "id": 46478647,
       "title": "The C3 Programming Language",
       "link": "https://c3-lang.org",
-      "score": 363,
+      "score": 365,
       "author": "y1n0",
       "created": "2026-01-03 16:41:06",
       "created_at": 1767458466000
@@ -91,7 +91,7 @@
       "id": 46488278,
       "title": "Street Fighter II, the World Warrier (2021)",
       "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 333,
+      "score": 362,
       "author": "birdculture",
       "created": "2026-01-04 14:30:29",
       "created_at": 1767537029000

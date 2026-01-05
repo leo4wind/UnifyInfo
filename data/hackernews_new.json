@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-05T04:49:11.664Z"
+    "lastUpdate": "2026-01-05T08:20:20.497Z"
   },
   "data": [
     {
-      "id": 46491749,
-      "title": "Show HN: Terminal UI for AWS",
-      "link": "https://github.com/huseyinbabal/taws",
-      "score": 229,
-      "author": "huseyinbabal",
-      "created": "2026-01-04 20:17:22",
-      "created_at": 1767557842000
-    },
-    {
-      "id": 46495220,
-      "title": "California residents can now request all data brokers delete personal info",
-      "link": "https://consumer.drop.privacy.ca.gov/",
-      "score": 56,
-      "author": "memalign",
-      "created": "2026-01-05 04:00:38",
-      "created_at": 1767585638000
+      "id": 46495539,
+      "title": "Building a Rust-style static analyzer for C++ with AI",
+      "link": "http://mpaxos.com/blog/rusty-cpp.html",
+      "score": 40,
+      "author": "shuaimu",
+      "created": "2026-01-05 05:11:59",
+      "created_at": 1767589919000
     },
     {
       "id": 46488819,
       "title": "Lessons from 14 years at Google",
       "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 956,
+      "score": 1150,
       "author": "cdrnsf",
       "created": "2026-01-04 15:23:54",
       "created_at": 1767540234000
     },
     {
-      "id": 46491821,
-      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
-      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
-      "score": 183,
-      "author": "azeemba",
-      "created": "2026-01-04 20:25:30",
-      "created_at": 1767558330000
+      "id": 46454085,
+      "title": "Logos Language Guide: Compile English to Rust",
+      "link": "https://logicaffeine.com/guide",
+      "score": 33,
+      "author": "tristenharr",
+      "created": "2026-01-01 13:48:27",
+      "created_at": 1767275307000
+    },
+    {
+      "id": 46491749,
+      "title": "Show HN: Terminal UI for AWS",
+      "link": "https://github.com/huseyinbabal/taws",
+      "score": 286,
+      "author": "huseyinbabal",
+      "created": "2026-01-04 20:17:22",
+      "created_at": 1767557842000
+    },
+    {
+      "id": 46496103,
+      "title": "Databases in 2025: A Year in Review",
+      "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+      "score": 7,
+      "author": "viveknathani_",
+      "created": "2026-01-05 07:14:30",
+      "created_at": 1767597270000
     },
     {
       "id": 46494734,
       "title": "During Helene, I just wanted a plain text website",
       "link": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
-      "score": 66,
+      "score": 166,
       "author": "CqtGLRGcukpy",
       "created": "2026-01-05 02:36:20",
       "created_at": 1767580580000
     },
     {
-      "id": 46448356,
-      "title": "The baffling purple honey found only in North Carolina",
-      "link": "https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina",
-      "score": 28,
-      "author": "rmason",
-      "created": "2025-12-31 21:06:16",
-      "created_at": 1767215176000
+      "id": 46496054,
+      "title": "A spider web unlike any seen before (2025)",
+      "link": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
+      "score": 11,
+      "author": "juanplusjuan",
+      "created": "2026-01-05 07:06:22",
+      "created_at": 1767596782000
     },
     {
       "id": 46488355,
       "title": "The unbearable joy of sitting alone in a café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 495,
+      "score": 581,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
     },
     {
+      "id": 46491821,
+      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+      "score": 224,
+      "author": "azeemba",
+      "created": "2026-01-04 20:25:30",
+      "created_at": 1767558330000
+    },
+    {
       "id": 46488278,
       "title": "Street Fighter II, the World Warrier (2021)",
       "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 333,
+      "score": 362,
       "author": "birdculture",
       "created": "2026-01-04 14:30:29",
       "created_at": 1767537029000
-    },
-    {
-      "id": 46422574,
-      "title": "The year of the 3D printed miniature and other lies we tell ourselves",
-      "link": "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/",
-      "score": 131,
-      "author": "sagacity",
-      "created": "2025-12-29 16:57:11",
-      "created_at": 1767027431000
-    },
-    {
-      "id": 46442282,
-      "title": "Linear Address Spaces: Unsafe at any speed (2022)",
-      "link": "https://queue.acm.org/detail.cfm?id=3534854",
-      "score": 129,
-      "author": "nithssh",
-      "created": "2025-12-31 07:57:53",
-      "created_at": 1767167873000
     }
   ],
   "code": 200,
