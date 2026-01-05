@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-05T12:25:19.151Z"
+    "lastUpdate": "2026-01-05T16:17:01.899Z"
   },
   "data": [
+    {
+      "id": 46499646,
+      "title": "Show HN: DoNotNotify – log and intelligently block notifications on Android",
+      "link": "https://donotnotify.com/",
+      "score": 79,
+      "author": "awaaz",
+      "created": "2026-01-05 15:10:47",
+      "created_at": 1767625847000
+    },
+    {
+      "id": 46500022,
+      "title": "CSS sucks because we don't bother learning it (2022)",
+      "link": "https://idiallo.com/blog/learn-css",
+      "score": 24,
+      "author": "Brajeshwar",
+      "created": "2026-01-05 15:37:38",
+      "created_at": 1767627458000
+    },
     {
       "id": 46497712,
       "title": "It's hard to justify Tahoe icons",
       "link": "https://tonsky.me/blog/tahoe-icons/",
-      "score": 66,
+      "score": 1125,
       "author": "lylejantzi3rd",
       "created": "2026-01-05 11:51:42",
       "created_at": 1767613902000
     },
     {
+      "id": 46499694,
+      "title": "Show HN: A simulator for engineers transitioning from IC to management",
+      "link": "https://apmcommunication.com/scenario/backchannel-vp",
+      "score": 33,
+      "author": "pingananth",
+      "created": "2026-01-05 15:13:59",
+      "created_at": 1767626039000
+    },
+    {
+      "id": 46498662,
+      "title": "Imagine 130M Washing Machines",
+      "link": "https://scottsumner.substack.com/p/imagine-130000000-washing-machines",
+      "score": 25,
+      "author": "RickJWagner",
+      "created": "2026-01-05 13:46:12",
+      "created_at": 1767620772000
+    },
+    {
       "id": 46496103,
       "title": "Databases in 2025: A Year in Review",
       "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-      "score": 164,
+      "score": 327,
       "author": "viveknathani_",
       "created": "2026-01-05 07:14:30",
       "created_at": 1767597270000
     },
     {
-      "id": 46496494,
-      "title": "Decorative Cryptography",
-      "link": "https://www.dlp.rip/decorative-cryptography",
-      "score": 101,
-      "author": "todsacerdoti",
-      "created": "2026-01-05 08:29:38",
-      "created_at": 1767601778000
-    },
-    {
-      "id": 46496054,
-      "title": "A spider web unlike any seen before",
-      "link": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
-      "score": 109,
-      "author": "juanplusjuan",
-      "created": "2026-01-05 07:06:22",
-      "created_at": 1767596782000
+      "id": 46497589,
+      "title": "Cigarette smoke effect using shaders",
+      "link": "https://garden.bradwoods.io/notes/javascript/three-js/shaders/shaders-103-smoke",
+      "score": 74,
+      "author": "bradwoodsio",
+      "created": "2026-01-05 11:32:58",
+      "created_at": 1767612778000
     },
     {
       "id": 46497164,
-      "title": "Anna's Archive Loses .Org Domain After Surprise Suspension",
+      "title": "Anna's Archive loses .org domain after surprise suspension",
       "link": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
-      "score": 131,
+      "score": 403,
       "author": "CTOSian",
       "created": "2026-01-05 10:23:32",
       "created_at": 1767608612000
     },
     {
-      "id": 46472930,
-      "title": "Revisiting the original Roomba and its simple architecture",
-      "link": "https://robotsinplainenglish.com/e/2025-12-27-roomba.html",
-      "score": 43,
-      "author": "ripe",
-      "created": "2026-01-03 04:53:20",
-      "created_at": 1767416000000
+      "id": 46496054,
+      "title": "A spider web unlike any seen before",
+      "link": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
+      "score": 180,
+      "author": "juanplusjuan",
+      "created": "2026-01-05 07:06:22",
+      "created_at": 1767596782000
     },
     {
-      "id": 46445412,
-      "title": "Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind",
-      "link": "https://github.com/lets-all-be-stupid-forever/circuit-artist",
-      "score": 34,
-      "author": "rafinha",
-      "created": "2025-12-31 16:12:20",
-      "created_at": 1767197540000
-    },
-    {
-      "id": 46465866,
-      "title": "Ask HN: Help with LLVM",
-      "link": "",
-      "score": 22,
-      "author": "kvthweatt",
-      "created": "2026-01-02 15:44:24",
-      "created_at": 1767368664000
-    },
-    {
-      "id": 46488819,
-      "title": "Lessons from 14 years at Google",
-      "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 1320,
-      "author": "cdrnsf",
-      "created": "2026-01-04 15:23:54",
-      "created_at": 1767540234000
-    },
-    {
-      "id": 46488355,
-      "title": "The unbearable joy of sitting alone in a café",
-      "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 662,
-      "author": "mooreds",
-      "created": "2026-01-04 14:37:58",
-      "created_at": 1767537478000
+      "id": 46496494,
+      "title": "Decorative Cryptography",
+      "link": "https://www.dlp.rip/decorative-cryptography",
+      "score": 135,
+      "author": "todsacerdoti",
+      "created": "2026-01-05 08:29:38",
+      "created_at": 1767601778000
     }
   ],
   "code": 200,

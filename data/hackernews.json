@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-05T12:25:18.987Z"
+    "lastUpdate": "2026-01-05T16:17:01.756Z"
   },
   "data": [
     {
       "id": 46482345,
       "title": "Total monthly number of StackOverflow questions over time",
       "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
-      "score": 1478,
+      "score": 1492,
       "author": "maartin0",
       "created": "2026-01-03 22:23:34",
       "created_at": 1767479014000
@@ -19,16 +19,25 @@
       "id": 46488819,
       "title": "Lessons from 14 years at Google",
       "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 1320,
+      "score": 1446,
       "author": "cdrnsf",
       "created": "2026-01-04 15:23:54",
       "created_at": 1767540234000
     },
     {
+      "id": 46497712,
+      "title": "It's hard to justify Tahoe icons",
+      "link": "https://tonsky.me/blog/tahoe-icons/",
+      "score": 1125,
+      "author": "lylejantzi3rd",
+      "created": "2026-01-05 11:51:42",
+      "created_at": 1767613902000
+    },
+    {
       "id": 46485090,
       "title": "Neural Networks: Zero to Hero",
       "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 749,
+      "score": 755,
       "author": "suioir",
       "created": "2026-01-04 05:02:16",
       "created_at": 1767502936000
@@ -37,7 +46,7 @@
       "id": 46488355,
       "title": "The unbearable joy of sitting alone in a café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 662,
+      "score": 717,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
@@ -46,7 +55,7 @@
       "id": 46478377,
       "title": "The Most Popular Blogs of Hacker News in 2025",
       "link": "https://refactoringenglish.com/blog/2025-hn-top-5/",
-      "score": 662,
+      "score": 666,
       "author": "mtlynch",
       "created": "2026-01-03 16:20:10",
       "created_at": 1767457210000
@@ -55,7 +64,7 @@
       "id": 46482877,
       "title": "The suck is why we're here",
       "link": "https://nik.art/the-suck-is-why-were-here/",
-      "score": 442,
+      "score": 450,
       "author": "herbertl",
       "created": "2026-01-03 23:24:41",
       "created_at": 1767482681000
@@ -64,37 +73,28 @@
       "id": 46488576,
       "title": "Web development is fun again",
       "link": "https://ma.ttias.be/web-development-is-fun-again/",
-      "score": 410,
+      "score": 448,
       "author": "Mojah",
       "created": "2026-01-04 15:00:18",
       "created_at": 1767538818000
     },
     {
-      "id": 46480156,
-      "title": "Report: Microsoft kills official way to activate Windows 11/10 without internet",
-      "link": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
-      "score": 409,
-      "author": "taubek",
-      "created": "2026-01-03 18:53:10",
-      "created_at": 1767466390000
+      "id": 46491486,
+      "title": "Claude Code On-the-Go",
+      "link": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
+      "score": 415,
+      "author": "todsacerdoti",
+      "created": "2026-01-04 19:48:20",
+      "created_at": 1767556100000
     },
     {
       "id": 46488278,
       "title": "Street Fighter II, the World Warrier (2021)",
       "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 394,
+      "score": 411,
       "author": "birdculture",
       "created": "2026-01-04 14:30:29",
       "created_at": 1767537029000
-    },
-    {
-      "id": 46478647,
-      "title": "The C3 Programming Language",
-      "link": "https://c3-lang.org",
-      "score": 365,
-      "author": "y1n0",
-      "created": "2026-01-03 16:41:06",
-      "created_at": 1767458466000
     }
   ],
   "code": 200,
