@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-04T20:13:13.122Z"
+    "lastUpdate": "2026-01-05T01:03:27.229Z"
   },
   "data": [
+    {
+      "id": 46491749,
+      "title": "Show HN: Terminal UI for AWS",
+      "link": "https://github.com/huseyinbabal/taws",
+      "score": 169,
+      "author": "huseyinbabal",
+      "created": "2026-01-04 20:17:22",
+      "created_at": 1767557842000
+    },
+    {
+      "id": 46491821,
+      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+      "link": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+      "score": 115,
+      "author": "azeemba",
+      "created": "2026-01-04 20:25:30",
+      "created_at": 1767558330000
+    },
     {
       "id": 46488819,
       "title": "Lessons from 14 Years at Google",
       "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 489,
+      "score": 774,
       "author": "cdrnsf",
       "created": "2026-01-04 15:23:54",
       "created_at": 1767540234000
     },
     {
-      "id": 46488278,
-      "title": "Street Fighter II, the World Warrier (2021)",
-      "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 220,
-      "author": "birdculture",
-      "created": "2026-01-04 14:30:29",
-      "created_at": 1767537029000
-    },
-    {
-      "id": 46488355,
-      "title": "The Unbearable Joy of Sitting Alone in a Café",
-      "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 253,
-      "author": "mooreds",
-      "created": "2026-01-04 14:37:58",
-      "created_at": 1767537478000
+      "id": 46492063,
+      "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
+      "link": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
+      "score": 83,
+      "author": "speckx",
+      "created": "2026-01-04 20:52:52",
+      "created_at": 1767559972000
     },
     {
       "id": 46442282,
-      "title": "Linear Address Spaces: Unsafe at any speed",
+      "title": "Linear Address Spaces: Unsafe at any speed (2022)",
       "link": "https://queue.acm.org/detail.cfm?id=3534854",
-      "score": 33,
+      "score": 109,
       "author": "nithssh",
       "created": "2025-12-31 07:57:53",
       "created_at": 1767167873000
     },
     {
-      "id": 46488576,
-      "title": "Web development is fun again",
-      "link": "https://ma.ttias.be/web-development-is-fun-again/",
-      "score": 156,
-      "author": "Mojah",
-      "created": "2026-01-04 15:00:18",
-      "created_at": 1767538818000
+      "id": 46488355,
+      "title": "The Unbearable Joy of Sitting Alone in a Café",
+      "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
+      "score": 410,
+      "author": "mooreds",
+      "created": "2026-01-04 14:37:58",
+      "created_at": 1767537478000
     },
     {
-      "id": 46488654,
-      "title": "Show HN: An interactive guide to how browsers work",
-      "link": "https://howbrowserswork.com/",
-      "score": 116,
-      "author": "krasun",
-      "created": "2026-01-04 15:08:02",
-      "created_at": 1767539282000
+      "id": 46488278,
+      "title": "Street Fighter II, the World Warrier (2021)",
+      "link": "https://fabiensanglard.net/sf2_warrier/",
+      "score": 299,
+      "author": "birdculture",
+      "created": "2026-01-04 14:30:29",
+      "created_at": 1767537029000
     },
     {
-      "id": 46488101,
-      "title": "Using Hinge as a Command and Control Server",
-      "link": "https://mattwie.se/hinge-command-control-c2",
-      "score": 62,
-      "author": "mattwiese",
-      "created": "2026-01-04 14:08:08",
-      "created_at": 1767535688000
+      "id": 46490323,
+      "title": "Ripple, a puzzle game about 2nd and 3rd order effects",
+      "link": "https://ripplegame.app/",
+      "score": 71,
+      "author": "mooreds",
+      "created": "2026-01-04 17:50:04",
+      "created_at": 1767549004000
     },
     {
-      "id": 46436279,
-      "title": "Bison return to Illinois' Kane County after 200 years",
-      "link": "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html",
-      "score": 76,
-      "author": "bikenaga",
-      "created": "2025-12-30 18:22:56",
-      "created_at": 1767118976000
-    },
-    {
-      "id": 46485090,
-      "title": "Neural Networks: Zero to Hero",
-      "link": "https://karpathy.ai/zero-to-hero.html",
-      "score": 647,
-      "author": "suioir",
-      "created": "2026-01-04 05:02:16",
-      "created_at": 1767502936000
-    },
-    {
-      "id": 46490895,
-      "title": "Show HN: Hover – IDE style hover documentation on any webpage",
-      "link": "https://github.com/Sampsoon/hover",
+      "id": 46493623,
+      "title": "Millennium Challenge: A corrupted military exercise and its legacy (2015)",
+      "link": "https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/",
       "score": 8,
-      "author": "sampsonj",
-      "created": "2026-01-04 18:43:45",
-      "created_at": 1767552225000
+      "author": "lifeisstillgood",
+      "created": "2026-01-04 23:43:48",
+      "created_at": 1767570228000
+    },
+    {
+      "id": 46422574,
+      "title": "The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)",
+      "link": "https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/",
+      "score": 82,
+      "author": "sagacity",
+      "created": "2025-12-29 16:57:11",
+      "created_at": 1767027431000
     }
   ],
   "code": 200,
