@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-06T12:25:29.645Z"
+    "lastUpdate": "2026-01-06T16:16:06.195Z"
   },
   "data": [
+    {
+      "id": 46512881,
+      "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
+      "link": "https://philippdubach.com/standalone/hn-sentiment/",
+      "score": 214,
+      "author": "7777777phil",
+      "created": "2026-01-06 14:45:47",
+      "created_at": 1767710747000
+    },
+    {
+      "id": 46511469,
+      "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
+      "link": "https://blgardner.github.io/prism.tools/",
+      "score": 167,
+      "author": "BLGardner",
+      "created": "2026-01-06 12:33:49",
+      "created_at": 1767702829000
+    },
     {
       "id": 46509211,
       "title": "enclose.horse",
       "link": "https://enclose.horse/",
-      "score": 456,
+      "score": 749,
       "author": "DavidSJ",
       "created": "2026-01-06 06:01:57",
       "created_at": 1767679317000
     },
     {
-      "id": 46510625,
-      "title": "SCiZE's Classic Warez Collection",
-      "link": "https://scenelist.org/",
-      "score": 48,
-      "author": "achairapart",
-      "created": "2026-01-06 10:13:43",
-      "created_at": 1767694423000
-    },
-    {
       "id": 46511153,
       "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
       "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-      "score": 63,
+      "score": 411,
       "author": "Brajeshwar",
       "created": "2026-01-06 11:42:35",
       "created_at": 1767699755000
     },
     {
-      "id": 46504963,
-      "title": "There were BGP anomalies during the Venezuela blackout",
-      "link": "https://loworbitsecurity.com/radar/radar16/",
-      "score": 785,
-      "author": "illithid0",
-      "created": "2026-01-05 21:05:50",
-      "created_at": 1767647150000
-    },
-    {
-      "id": 46509019,
-      "title": "The Post-American Internet",
-      "link": "https://pluralistic.net/2026/01/01/39c3/",
-      "score": 339,
-      "author": "EvanAnderson",
-      "created": "2026-01-06 05:20:40",
-      "created_at": 1767676840000
-    },
-    {
-      "id": 46507963,
-      "title": "GBC Boot Animation 88×31 Web Button",
-      "link": "https://zakhary.dev/blog/gbc-web-button",
-      "score": 138,
-      "author": "zakhary",
-      "created": "2026-01-06 02:20:00",
-      "created_at": 1767666000000
-    },
-    {
-      "id": 46466027,
-      "title": "Try to take my position: The best promotion advice I ever got",
-      "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
-      "score": 458,
-      "author": "yuppiepuppie",
-      "created": "2026-01-02 15:56:14",
-      "created_at": 1767369374000
-    },
-    {
       "id": 46464462,
       "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
       "link": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
-      "score": 32,
+      "score": 138,
       "author": "aziaziazi",
       "created": "2026-01-02 13:21:42",
       "created_at": 1767360102000
     },
     {
-      "id": 46506994,
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "link": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-      "score": 195,
-      "author": "benhoyt",
-      "created": "2026-01-06 00:02:18",
-      "created_at": 1767657738000
+      "id": 46504963,
+      "title": "There were BGP anomalies during the Venezuela blackout",
+      "link": "https://loworbitsecurity.com/radar/radar16/",
+      "score": 854,
+      "author": "illithid0",
+      "created": "2026-01-05 21:05:50",
+      "created_at": 1767647150000
     },
     {
-      "id": 46460930,
-      "title": "Interpreter – Offline screen translator for Japanese retro games",
-      "link": "https://github.com/bquenin/interpreter",
-      "score": 39,
-      "author": "bane",
-      "created": "2026-01-02 03:01:50",
-      "created_at": 1767322910000
+      "id": 46510625,
+      "title": "SCiZE's Classic Warez Collection",
+      "link": "https://scenelist.org/",
+      "score": 86,
+      "author": "achairapart",
+      "created": "2026-01-06 10:13:43",
+      "created_at": 1767694423000
+    },
+    {
+      "id": 46462997,
+      "title": "Swapping two blocks of memory inside a larger block, in constant memory",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955",
+      "score": 10,
+      "author": "paulmooreparks",
+      "created": "2026-01-02 09:19:54",
+      "created_at": 1767345594000
+    },
+    {
+      "id": 46469473,
+      "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
+      "link": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
+      "score": 51,
+      "author": "Kirkman14",
+      "created": "2026-01-02 21:18:10",
+      "created_at": 1767388690000
+    },
+    {
+      "id": 46512707,
+      "title": "Gemini Protocol Deployment Statistics",
+      "link": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
+      "score": 13,
+      "author": "rickcarlino",
+      "created": "2026-01-06 14:30:53",
+      "created_at": 1767709853000
     }
   ],
   "code": 200,
