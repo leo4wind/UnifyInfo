@@ -3,14 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-05T20:14:41.482Z"
+    "lastUpdate": "2026-01-06T00:58:30.958Z"
   },
   "data": [
+    {
+      "id": 46504963,
+      "title": "There were BGP anomalies during the Venezuela blackout",
+      "link": "https://loworbitsecurity.com/radar/radar16/",
+      "score": 419,
+      "author": "illithid0",
+      "created": "2026-01-05 21:05:50",
+      "created_at": 1767647150000
+    },
+    {
+      "id": 46505975,
+      "title": "Worlds's first all-solid-state battery ready to power up production vehicles now",
+      "link": "https://www.donutlab.com/ces-battery-announcement/",
+      "score": 84,
+      "author": "aeonfox",
+      "created": "2026-01-05 22:28:46",
+      "created_at": 1767652126000
+    },
+    {
+      "id": 46491129,
+      "title": "Six-decade math puzzle solved by Korean mathematician",
+      "link": "https://www.koreaherald.com/article/10648326",
+      "score": 48,
+      "author": "mikhael",
+      "created": "2026-01-04 19:10:31",
+      "created_at": 1767553831000
+    },
+    {
+      "id": 46466027,
+      "title": "Try to take my position: The best promotion advice I ever got",
+      "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
+      "score": 237,
+      "author": "yuppiepuppie",
+      "created": "2026-01-02 15:56:14",
+      "created_at": 1767369374000
+    },
+    {
+      "id": 46506596,
+      "title": "Strange.website",
+      "link": "https://strange.website/",
+      "score": 23,
+      "author": "abelanger",
+      "created": "2026-01-05 23:19:52",
+      "created_at": 1767655192000
+    },
+    {
+      "id": 46488883,
+      "title": "Adding insular script like it's 1626",
+      "link": "https://www.djmurphy.net/blog/clo-gaelach/",
+      "score": 31,
+      "author": "sollewitt",
+      "created": "2026-01-04 15:31:07",
+      "created_at": 1767540667000
+    },
+    {
+      "id": 46505518,
+      "title": "Google broke my heart",
+      "link": "https://perishablepress.com/google-broke-my-heart/",
+      "score": 230,
+      "author": "ingve",
+      "created": "2026-01-05 21:52:22",
+      "created_at": 1767649942000
+    },
+    {
+      "id": 46470513,
+      "title": "The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params",
+      "link": "https://arxiv.org/abs/1803.03635",
+      "score": 40,
+      "author": "felineflock",
+      "created": "2026-01-02 22:53:53",
+      "created_at": 1767394433000
+    },
     {
       "id": 46501137,
       "title": "Show HN: Tailsnitch – A security auditor for Tailscale",
       "link": "https://github.com/Adversis/tailsnitch",
-      "score": 130,
+      "score": 202,
       "author": "thesubtlety",
       "created": "2026-01-05 16:47:23",
       "created_at": 1767631643000
@@ -19,82 +91,10 @@
       "id": 46497712,
       "title": "It's hard to justify Tahoe icons",
       "link": "https://tonsky.me/blog/tahoe-icons/",
-      "score": 1770,
+      "score": 2153,
       "author": "lylejantzi3rd",
       "created": "2026-01-05 11:51:42",
       "created_at": 1767613902000
-    },
-    {
-      "id": 46466027,
-      "title": "Try to take my position: The best promotion advice I ever got",
-      "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
-      "score": 22,
-      "author": "yuppiepuppie",
-      "created": "2026-01-02 15:56:14",
-      "created_at": 1767369374000
-    },
-    {
-      "id": 46503439,
-      "title": "Refactoring – Not on the backlog (2014)",
-      "link": "https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/",
-      "score": 19,
-      "author": "dhorthy",
-      "created": "2026-01-05 19:23:56",
-      "created_at": 1767641036000
-    },
-    {
-      "id": 46501665,
-      "title": "So, you want to chunk really fast?",
-      "link": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
-      "score": 53,
-      "author": "snyy",
-      "created": "2026-01-05 17:19:33",
-      "created_at": 1767633573000
-    },
-    {
-      "id": 46502239,
-      "title": "Sega co-founder David Rosen has died",
-      "link": "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies",
-      "score": 38,
-      "author": "n1b0m",
-      "created": "2026-01-05 18:00:32",
-      "created_at": 1767636032000
-    },
-    {
-      "id": 46502736,
-      "title": "Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly",
-      "link": "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw",
-      "score": 28,
-      "author": "toomuchtodo",
-      "created": "2026-01-05 18:35:17",
-      "created_at": 1767638117000
-    },
-    {
-      "id": 46502051,
-      "title": "Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)",
-      "link": "https://github.com/Cerelog-ESP-EEG/ESP-EEG",
-      "score": 32,
-      "author": "simontheHWguy",
-      "created": "2026-01-05 17:46:51",
-      "created_at": 1767635211000
-    },
-    {
-      "id": 46503006,
-      "title": "Pipe Dreams – The life and times of Yahoo Pipes (2023)",
-      "link": "https://retool.com/pipes",
-      "score": 17,
-      "author": "twalichiewicz",
-      "created": "2026-01-05 18:55:37",
-      "created_at": 1767639337000
-    },
-    {
-      "id": 46502652,
-      "title": "Utopian Scholastic",
-      "link": "https://wol.fm/blog/utopian-scholastic.html",
-      "score": 13,
-      "author": "birdculture",
-      "created": "2026-01-05 18:29:28",
-      "created_at": 1767637768000
     }
   ],
   "code": 200,
