@@ -3,23 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-06T16:16:06.222Z"
+    "lastUpdate": "2026-01-06T20:13:50.785Z"
   },
   "data": [
     {
-      "id": 46512881,
-      "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
-      "link": "https://philippdubach.com/standalone/hn-sentiment/",
-      "score": 214,
-      "author": "7777777phil",
-      "created": "2026-01-06 14:45:47",
-      "created_at": 1767710747000
+      "id": 46517458,
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "link": "https://github.com/rberg27/doom-coding",
+      "score": 40,
+      "author": "rbergamini27",
+      "created": "2026-01-06 19:38:32",
+      "created_at": 1767728312000
+    },
+    {
+      "id": 46514677,
+      "title": "Vienam bans unskippable ads",
+      "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "score": 715,
+      "author": "hoherd",
+      "created": "2026-01-06 16:45:42",
+      "created_at": 1767717942000
+    },
+    {
+      "id": 46451768,
+      "title": "Spherical Snake",
+      "link": "https://kevinalbs.com/spherical_snake/",
+      "score": 29,
+      "author": "subset",
+      "created": "2026-01-01 06:15:43",
+      "created_at": 1767248143000
+    },
+    {
+      "id": 46515936,
+      "title": "Dude, where's my supersonic jet?",
+      "link": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
+      "score": 40,
+      "author": "noleary",
+      "created": "2026-01-06 17:59:41",
+      "created_at": 1767722381000
+    },
+    {
+      "id": 46516137,
+      "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
+      "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
+      "score": 47,
+      "author": "wilsonfiifi",
+      "created": "2026-01-06 18:11:51",
+      "created_at": 1767723111000
+    },
+    {
+      "id": 46516267,
+      "title": "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
+      "link": "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web",
+      "score": 51,
+      "author": "ekzhang",
+      "created": "2026-01-06 18:19:31",
+      "created_at": 1767723571000
     },
     {
       "id": 46511469,
       "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
       "link": "https://blgardner.github.io/prism.tools/",
-      "score": 167,
+      "score": 273,
       "author": "BLGardner",
       "created": "2026-01-06 12:33:49",
       "created_at": 1767702829000
@@ -28,73 +73,28 @@
       "id": 46509211,
       "title": "enclose.horse",
       "link": "https://enclose.horse/",
-      "score": 749,
+      "score": 961,
       "author": "DavidSJ",
       "created": "2026-01-06 06:01:57",
       "created_at": 1767679317000
     },
     {
-      "id": 46511153,
-      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-      "score": 411,
-      "author": "Brajeshwar",
-      "created": "2026-01-06 11:42:35",
-      "created_at": 1767699755000
+      "id": 46515777,
+      "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
+      "link": "",
+      "score": 28,
+      "author": "denizkavi",
+      "created": "2026-01-06 17:49:56",
+      "created_at": 1767721796000
     },
     {
-      "id": 46464462,
-      "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
-      "link": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
-      "score": 138,
-      "author": "aziaziazi",
-      "created": "2026-01-02 13:21:42",
-      "created_at": 1767360102000
-    },
-    {
-      "id": 46504963,
-      "title": "There were BGP anomalies during the Venezuela blackout",
-      "link": "https://loworbitsecurity.com/radar/radar16/",
-      "score": 854,
-      "author": "illithid0",
-      "created": "2026-01-05 21:05:50",
-      "created_at": 1767647150000
-    },
-    {
-      "id": 46510625,
-      "title": "SCiZE's Classic Warez Collection",
-      "link": "https://scenelist.org/",
-      "score": 86,
-      "author": "achairapart",
-      "created": "2026-01-06 10:13:43",
-      "created_at": 1767694423000
-    },
-    {
-      "id": 46462997,
-      "title": "Swapping two blocks of memory inside a larger block, in constant memory",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955",
-      "score": 10,
-      "author": "paulmooreparks",
-      "created": "2026-01-02 09:19:54",
-      "created_at": 1767345594000
-    },
-    {
-      "id": 46469473,
-      "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
-      "link": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
-      "score": 51,
-      "author": "Kirkman14",
-      "created": "2026-01-02 21:18:10",
-      "created_at": 1767388690000
-    },
-    {
-      "id": 46512707,
-      "title": "Gemini Protocol Deployment Statistics",
-      "link": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
-      "score": 13,
-      "author": "rickcarlino",
-      "created": "2026-01-06 14:30:53",
-      "created_at": 1767709853000
+      "id": 46514807,
+      "title": "Loongarch Improvements with Box64",
+      "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
+      "score": 41,
+      "author": "aaronday",
+      "created": "2026-01-06 16:52:56",
+      "created_at": 1767718376000
     }
   ],
   "code": 200,
