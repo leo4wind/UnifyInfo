@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-06T08:18:29.274Z"
+    "lastUpdate": "2026-01-06T12:25:29.506Z"
   },
   "data": [
     {
       "id": 46497712,
       "title": "It's hard to justify Tahoe icons",
       "link": "https://tonsky.me/blog/tahoe-icons/",
-      "score": 2292,
+      "score": 2330,
       "author": "lylejantzi3rd",
       "created": "2026-01-05 11:51:42",
       "created_at": 1767613902000
@@ -19,7 +19,7 @@
       "id": 46488819,
       "title": "Lessons from 14 years at Google",
       "link": "https://addyosmani.com/blog/21-lessons/",
-      "score": 1618,
+      "score": 1622,
       "author": "cdrnsf",
       "created": "2026-01-04 15:23:54",
       "created_at": 1767540234000
@@ -28,7 +28,7 @@
       "id": 46488355,
       "title": "The unbearable joy of sitting alone in a café",
       "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-      "score": 780,
+      "score": 786,
       "author": "mooreds",
       "created": "2026-01-04 14:37:58",
       "created_at": 1767537478000
@@ -37,7 +37,7 @@
       "id": 46504963,
       "title": "There were BGP anomalies during the Venezuela blackout",
       "link": "https://loworbitsecurity.com/radar/radar16/",
-      "score": 706,
+      "score": 785,
       "author": "illithid0",
       "created": "2026-01-05 21:05:50",
       "created_at": 1767647150000
@@ -46,7 +46,7 @@
       "id": 46497164,
       "title": "Anna's Archive loses .org domain after surprise suspension",
       "link": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
-      "score": 629,
+      "score": 640,
       "author": "CTOSian",
       "created": "2026-01-05 10:23:32",
       "created_at": 1767608612000
@@ -55,7 +55,7 @@
       "id": 46496103,
       "title": "Databases in 2025: A Year in Review",
       "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-      "score": 587,
+      "score": 610,
       "author": "viveknathani_",
       "created": "2026-01-05 07:14:30",
       "created_at": 1767597270000
@@ -64,37 +64,37 @@
       "id": 46491486,
       "title": "Claude Code On-the-Go",
       "link": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
-      "score": 515,
+      "score": 522,
       "author": "todsacerdoti",
       "created": "2026-01-04 19:48:20",
       "created_at": 1767556100000
     },
     {
-      "id": 46488576,
-      "title": "Web development is fun again",
-      "link": "https://ma.ttias.be/web-development-is-fun-again/",
-      "score": 470,
-      "author": "Mojah",
-      "created": "2026-01-04 15:00:18",
-      "created_at": 1767538818000
-    },
-    {
       "id": 46499983,
       "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
       "link": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
-      "score": 462,
+      "score": 472,
       "author": "randycupertino",
       "created": "2026-01-05 15:34:40",
       "created_at": 1767627280000
     },
     {
-      "id": 46488278,
-      "title": "Street Fighter II, the World Warrier (2021)",
-      "link": "https://fabiensanglard.net/sf2_warrier/",
-      "score": 427,
-      "author": "birdculture",
-      "created": "2026-01-04 14:30:29",
-      "created_at": 1767537029000
+      "id": 46488576,
+      "title": "Web development is fun again",
+      "link": "https://ma.ttias.be/web-development-is-fun-again/",
+      "score": 471,
+      "author": "Mojah",
+      "created": "2026-01-04 15:00:18",
+      "created_at": 1767538818000
+    },
+    {
+      "id": 46505518,
+      "title": "Google broke my heart",
+      "link": "https://perishablepress.com/google-broke-my-heart/",
+      "score": 465,
+      "author": "ingve",
+      "created": "2026-01-05 21:52:22",
+      "created_at": 1767649942000
     }
   ],
   "code": 200,
