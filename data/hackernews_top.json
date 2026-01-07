@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-07T12:25:23.555Z"
+    "lastUpdate": "2026-01-07T16:17:57.432Z"
   },
   "data": [
     {
-      "id": 46524873,
-      "title": "Firefox extension to redirect x.com to xcancel.com",
-      "link": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
-      "score": 124,
-      "author": "maelito",
-      "created": "2026-01-07 10:53:41",
-      "created_at": 1767783221000
+      "id": 46526740,
+      "title": "Sugar industry influenced researchers and blamed fat for CVD",
+      "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+      "score": 115,
+      "author": "aldarion",
+      "created": "2026-01-07 14:29:25",
+      "created_at": 1767796165000
     },
     {
-      "id": 46525542,
-      "title": "The Eric and Wendy Schmidt Observatory System",
-      "link": "https://www.schmidtsciences.org/schmidt-observatory-system/",
-      "score": 3,
-      "author": "pppone",
-      "created": "2026-01-07 12:19:01",
-      "created_at": 1767788341000
+      "id": 46526933,
+      "title": "LaTeX Coffee Stains [pdf] (2021)",
+      "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+      "score": 89,
+      "author": "zahrevsky",
+      "created": "2026-01-07 14:46:31",
+      "created_at": 1767797191000
     },
     {
-      "id": 46452641,
-      "title": "Sergey Brin's Unretirement",
-      "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
-      "score": 223,
-      "author": "iancmceachern",
-      "created": "2026-01-01 09:30:28",
-      "created_at": 1767259828000
+      "id": 46527161,
+      "title": "Shipmap.org",
+      "link": "https://www.shipmap.org/",
+      "score": 40,
+      "author": "surprisetalk",
+      "created": "2026-01-07 15:03:41",
+      "created_at": 1767798221000
     },
     {
-      "id": 46473400,
-      "title": "Formal Methods Only Solve Half My Problems",
-      "link": "https://brooker.co.za/blog/2022/06/02/formal.html",
-      "score": 20,
-      "author": "signa11",
-      "created": "2026-01-03 06:49:52",
-      "created_at": 1767422992000
+      "id": 46525888,
+      "title": "A4 Paper Stories",
+      "link": "https://susam.net/a4-paper-stories.html",
+      "score": 131,
+      "author": "blenderob",
+      "created": "2026-01-07 12:54:43",
+      "created_at": 1767790483000
     },
     {
-      "id": 46473247,
-      "title": "Vector graphics on GPU",
-      "link": "https://gasiulis.name/vector-graphics-on-gpu/",
-      "score": 70,
-      "author": "gsf_emergency_6",
-      "created": "2026-01-03 06:08:18",
-      "created_at": 1767420498000
+      "id": 46527581,
+      "title": "LLM Problems Observed in Humans",
+      "link": "https://embd.cc/llm-problems-observed-in-humans",
+      "score": 31,
+      "author": "js216",
+      "created": "2026-01-07 15:36:25",
+      "created_at": 1767800185000
     },
     {
-      "id": 46517458,
-      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-      "link": "https://github.com/rberg27/doom-coding",
-      "score": 457,
-      "author": "rbergamini27",
-      "created": "2026-01-06 19:38:32",
-      "created_at": 1767728312000
+      "id": 46525640,
+      "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
+      "link": "https://lbstanza.org/purpose_of_programming_languages.html",
+      "score": 159,
+      "author": "teleforce",
+      "created": "2026-01-07 12:29:11",
+      "created_at": 1767788951000
     },
     {
-      "id": 46515696,
-      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-      "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-      "score": 608,
-      "author": "tbassetto",
-      "created": "2026-01-06 17:45:37",
-      "created_at": 1767721537000
+      "id": 46527533,
+      "title": "US Job Openings Decline to Lowest Level in More Than a Year",
+      "link": "https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year",
+      "score": 87,
+      "author": "toomuchtodo",
+      "created": "2026-01-07 15:32:44",
+      "created_at": 1767799964000
     },
     {
-      "id": 46520935,
-      "title": "Electronic nose for indoor mold detection and identification",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
-      "score": 139,
-      "author": "PaulHoule",
-      "created": "2026-01-07 00:31:01",
-      "created_at": 1767745861000
+      "id": 46527775,
+      "title": "Many Hells of WebDAV: Writing a Client/Server in Go",
+      "link": "https://candid.dev/blog/many-hells-of-webdav",
+      "score": 12,
+      "author": "candiddevmike",
+      "created": "2026-01-07 15:50:50",
+      "created_at": 1767801050000
     },
     {
-      "id": 46470017,
-      "title": "The creator of Claude Code's Claude setup",
-      "link": "https://twitter.com/bcherny/status/2007179832300581177",
-      "score": 421,
-      "author": "KothuRoti",
-      "created": "2026-01-02 22:07:50",
-      "created_at": 1767391670000
+      "id": 46527157,
+      "title": "Meditation as Wakeful Relaxation: Unclenching Smooth Muscle",
+      "link": "https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation",
+      "score": 33,
+      "author": "surprisetalk",
+      "created": "2026-01-07 15:03:34",
+      "created_at": 1767798214000
+    },
+    {
+      "id": 46526088,
+      "title": "Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery",
+      "link": "https://keelcode.dev/keeltest",
+      "score": 18,
+      "author": "bulba4aur",
+      "created": "2026-01-07 13:22:35",
+      "created_at": 1767792155000
     }
   ],
   "code": 200,
