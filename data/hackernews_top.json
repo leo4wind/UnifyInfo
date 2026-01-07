@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-07T16:17:57.432Z"
+    "lastUpdate": "2026-01-07T20:14:11.308Z"
   },
   "data": [
     {
       "id": 46526740,
-      "title": "Sugar industry influenced researchers and blamed fat for CVD",
+      "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
       "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-      "score": 115,
+      "score": 439,
       "author": "aldarion",
       "created": "2026-01-07 14:29:25",
       "created_at": 1767796165000
     },
     {
-      "id": 46526933,
-      "title": "LaTeX Coffee Stains [pdf] (2021)",
-      "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
-      "score": 89,
-      "author": "zahrevsky",
-      "created": "2026-01-07 14:46:31",
-      "created_at": 1767797191000
+      "id": 46530448,
+      "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
+      "link": "https://socket.dev/blog/npm-to-implement-staged-publishing",
+      "score": 54,
+      "author": "feross",
+      "created": "2026-01-07 18:31:19",
+      "created_at": 1767810679000
     },
     {
       "id": 46527161,
       "title": "Shipmap.org",
       "link": "https://www.shipmap.org/",
-      "score": 40,
+      "score": 283,
       "author": "surprisetalk",
       "created": "2026-01-07 15:03:41",
       "created_at": 1767798221000
     },
     {
+      "id": 46526933,
+      "title": "LaTeX Coffee Stains [pdf] (2021)",
+      "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+      "score": 225,
+      "author": "zahrevsky",
+      "created": "2026-01-07 14:46:31",
+      "created_at": 1767797191000
+    },
+    {
+      "id": 46528353,
+      "title": "Health care data breach affects over 600k patients, Illinois agency says",
+      "link": "https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says",
+      "score": 86,
+      "author": "toomuchtodo",
+      "created": "2026-01-07 16:28:14",
+      "created_at": 1767803294000
+    },
+    {
+      "id": 46527950,
+      "title": "Creators of Tailwind laid off 75% of their engineering team",
+      "link": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+      "score": 584,
+      "author": "kevlened",
+      "created": "2026-01-07 16:02:19",
+      "created_at": 1767801739000
+    },
+    {
       "id": 46525888,
       "title": "A4 Paper Stories",
       "link": "https://susam.net/a4-paper-stories.html",
-      "score": 131,
+      "score": 240,
       "author": "blenderob",
       "created": "2026-01-07 12:54:43",
       "created_at": 1767790483000
     },
     {
-      "id": 46527581,
-      "title": "LLM Problems Observed in Humans",
-      "link": "https://embd.cc/llm-problems-observed-in-humans",
-      "score": 31,
-      "author": "js216",
-      "created": "2026-01-07 15:36:25",
-      "created_at": 1767800185000
+      "id": 46529237,
+      "title": "Eat Real Food",
+      "link": "https://realfood.gov",
+      "score": 101,
+      "author": "atestu",
+      "created": "2026-01-07 17:22:09",
+      "created_at": 1767806529000
     },
     {
-      "id": 46525640,
-      "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
-      "link": "https://lbstanza.org/purpose_of_programming_languages.html",
-      "score": 159,
-      "author": "teleforce",
-      "created": "2026-01-07 12:29:11",
-      "created_at": 1767788951000
+      "id": 46529797,
+      "title": "A tab hoarder's journey to sanity",
+      "link": "https://twitter.com/borisandcrispin/status/2008709479068794989",
+      "score": 51,
+      "author": "borisandcrispin",
+      "created": "2026-01-07 17:54:25",
+      "created_at": 1767808465000
     },
     {
-      "id": 46527533,
-      "title": "US Job Openings Decline to Lowest Level in More Than a Year",
-      "link": "https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year",
-      "score": 87,
-      "author": "toomuchtodo",
-      "created": "2026-01-07 15:32:44",
-      "created_at": 1767799964000
-    },
-    {
-      "id": 46527775,
-      "title": "Many Hells of WebDAV: Writing a Client/Server in Go",
-      "link": "https://candid.dev/blog/many-hells-of-webdav",
-      "score": 12,
-      "author": "candiddevmike",
-      "created": "2026-01-07 15:50:50",
-      "created_at": 1767801050000
-    },
-    {
-      "id": 46527157,
-      "title": "Meditation as Wakeful Relaxation: Unclenching Smooth Muscle",
-      "link": "https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation",
-      "score": 33,
-      "author": "surprisetalk",
-      "created": "2026-01-07 15:03:34",
-      "created_at": 1767798214000
-    },
-    {
-      "id": 46526088,
-      "title": "Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery",
-      "link": "https://keelcode.dev/keeltest",
-      "score": 18,
-      "author": "bulba4aur",
-      "created": "2026-01-07 13:22:35",
-      "created_at": 1767792155000
+      "id": 46531068,
+      "title": "US will ban Wall Street investors from buying single-family homes",
+      "link": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
+      "score": 135,
+      "author": "kpw94",
+      "created": "2026-01-07 19:13:19",
+      "created_at": 1767813199000
     }
   ],
   "code": 200,
