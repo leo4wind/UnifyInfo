@@ -3,50 +3,77 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-07T00:58:50.125Z"
+    "lastUpdate": "2026-01-07T04:32:18.946Z"
   },
   "data": [
     {
-      "id": 46451768,
-      "title": "Spherical Snake",
-      "link": "https://kevinalbs.com/spherical_snake/",
-      "score": 456,
-      "author": "subset",
-      "created": "2026-01-01 06:15:43",
-      "created_at": 1767248143000
+      "id": 46522308,
+      "title": "On the slow death of scaling",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "score": 20,
+      "author": "sethbannon",
+      "created": "2026-01-07 03:48:05",
+      "created_at": 1767757685000
+    },
+    {
+      "id": 46521860,
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "score": 80,
+      "author": "jasoneckert",
+      "created": "2026-01-07 02:37:09",
+      "created_at": 1767753429000
     },
     {
       "id": 46517458,
       "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
       "link": "https://github.com/rberg27/doom-coding",
-      "score": 233,
+      "score": 338,
       "author": "rbergamini27",
       "created": "2026-01-06 19:38:32",
       "created_at": 1767728312000
     },
     {
-      "id": 46518804,
-      "title": "Oral microbiome sequencing after taking probiotics",
-      "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
-      "score": 84,
-      "author": "sethbannon",
-      "created": "2026-01-06 21:10:47",
-      "created_at": 1767733847000
+      "id": 46452641,
+      "title": "Sergey Brin's Unretirement",
+      "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
+      "score": 11,
+      "author": "iancmceachern",
+      "created": "2026-01-01 09:30:28",
+      "created_at": 1767259828000
     },
     {
-      "id": 46518129,
-      "title": "Calling All Hackers: How money works (2024)",
-      "link": "https://phrack.org/issues/71/17",
-      "score": 132,
-      "author": "krrishd",
-      "created": "2026-01-06 20:24:45",
-      "created_at": 1767731085000
+      "id": 46520926,
+      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "link": "https://github.com/x011/smtp-tunnel-proxy",
+      "score": 9,
+      "author": "lobito25",
+      "created": "2026-01-07 00:30:09",
+      "created_at": 1767745809000
+    },
+    {
+      "id": 46520935,
+      "title": "Electronic nose for indoor mold detection and identification",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "score": 47,
+      "author": "PaulHoule",
+      "created": "2026-01-07 00:31:01",
+      "created_at": 1767745861000
+    },
+    {
+      "id": 46470017,
+      "title": "The creator of Claude Code's Claude setup",
+      "link": "https://twitter.com/bcherny/status/2007179832300581177",
+      "score": 19,
+      "author": "KothuRoti",
+      "created": "2026-01-02 22:07:50",
+      "created_at": 1767391670000
     },
     {
       "id": 46518573,
       "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
       "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
-      "score": 74,
+      "score": 159,
       "author": "dataminer",
       "created": "2026-01-06 20:55:01",
       "created_at": 1767732901000
@@ -55,46 +82,19 @@
       "id": 46515696,
       "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
       "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-      "score": 290,
+      "score": 406,
       "author": "tbassetto",
       "created": "2026-01-06 17:45:37",
       "created_at": 1767721537000
     },
     {
-      "id": 46518996,
-      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
-      "link": "https://arxiv.org/abs/2512.09882",
-      "score": 59,
-      "author": "littlexsparkee",
-      "created": "2026-01-06 21:23:07",
-      "created_at": 1767734587000
-    },
-    {
-      "id": 46514677,
-      "title": "Vietnam bans unskippable ads",
-      "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-      "score": 1039,
-      "author": "hoherd",
-      "created": "2026-01-06 16:45:42",
-      "created_at": 1767717942000
-    },
-    {
-      "id": 46519326,
-      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
-      "link": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
-      "score": 47,
-      "author": "rbanffy",
-      "created": "2026-01-06 21:46:04",
-      "created_at": 1767735964000
-    },
-    {
-      "id": 46520508,
-      "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
-      "link": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
-      "score": 10,
-      "author": "surprisetalk",
-      "created": "2026-01-06 23:40:03",
-      "created_at": 1767742803000
+      "id": 46518804,
+      "title": "Oral microbiome sequencing after taking probiotics",
+      "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+      "score": 106,
+      "author": "sethbannon",
+      "created": "2026-01-06 21:10:47",
+      "created_at": 1767733847000
     }
   ],
   "code": 200,
