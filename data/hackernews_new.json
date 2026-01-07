@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-06T20:13:50.785Z"
+    "lastUpdate": "2026-01-07T00:58:50.125Z"
   },
   "data": [
-    {
-      "id": 46517458,
-      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-      "link": "https://github.com/rberg27/doom-coding",
-      "score": 40,
-      "author": "rbergamini27",
-      "created": "2026-01-06 19:38:32",
-      "created_at": 1767728312000
-    },
-    {
-      "id": 46514677,
-      "title": "Vienam bans unskippable ads",
-      "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-      "score": 715,
-      "author": "hoherd",
-      "created": "2026-01-06 16:45:42",
-      "created_at": 1767717942000
-    },
     {
       "id": 46451768,
       "title": "Spherical Snake",
       "link": "https://kevinalbs.com/spherical_snake/",
-      "score": 29,
+      "score": 456,
       "author": "subset",
       "created": "2026-01-01 06:15:43",
       "created_at": 1767248143000
     },
     {
-      "id": 46515936,
-      "title": "Dude, where's my supersonic jet?",
-      "link": "https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet",
-      "score": 40,
-      "author": "noleary",
-      "created": "2026-01-06 17:59:41",
-      "created_at": 1767722381000
+      "id": 46517458,
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "link": "https://github.com/rberg27/doom-coding",
+      "score": 233,
+      "author": "rbergamini27",
+      "created": "2026-01-06 19:38:32",
+      "created_at": 1767728312000
     },
     {
-      "id": 46516137,
-      "title": "Passing of Joe Mancuso author of Masonite (Python web framework)",
-      "link": "https://github.com/MasoniteFramework/masonite/discussions/853",
+      "id": 46518804,
+      "title": "Oral microbiome sequencing after taking probiotics",
+      "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+      "score": 84,
+      "author": "sethbannon",
+      "created": "2026-01-06 21:10:47",
+      "created_at": 1767733847000
+    },
+    {
+      "id": 46518129,
+      "title": "Calling All Hackers: How money works (2024)",
+      "link": "https://phrack.org/issues/71/17",
+      "score": 132,
+      "author": "krrishd",
+      "created": "2026-01-06 20:24:45",
+      "created_at": 1767731085000
+    },
+    {
+      "id": 46518573,
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "score": 74,
+      "author": "dataminer",
+      "created": "2026-01-06 20:55:01",
+      "created_at": 1767732901000
+    },
+    {
+      "id": 46515696,
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "score": 290,
+      "author": "tbassetto",
+      "created": "2026-01-06 17:45:37",
+      "created_at": 1767721537000
+    },
+    {
+      "id": 46518996,
+      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
+      "link": "https://arxiv.org/abs/2512.09882",
+      "score": 59,
+      "author": "littlexsparkee",
+      "created": "2026-01-06 21:23:07",
+      "created_at": 1767734587000
+    },
+    {
+      "id": 46514677,
+      "title": "Vietnam bans unskippable ads",
+      "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "score": 1039,
+      "author": "hoherd",
+      "created": "2026-01-06 16:45:42",
+      "created_at": 1767717942000
+    },
+    {
+      "id": 46519326,
+      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+      "link": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
       "score": 47,
-      "author": "wilsonfiifi",
-      "created": "2026-01-06 18:11:51",
-      "created_at": 1767723111000
+      "author": "rbanffy",
+      "created": "2026-01-06 21:46:04",
+      "created_at": 1767735964000
     },
     {
-      "id": 46516267,
-      "title": "Show HN: Jax-JS, array library in JavaScript targeting WebGPU",
-      "link": "https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web",
-      "score": 51,
-      "author": "ekzhang",
-      "created": "2026-01-06 18:19:31",
-      "created_at": 1767723571000
-    },
-    {
-      "id": 46511469,
-      "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
-      "link": "https://blgardner.github.io/prism.tools/",
-      "score": 273,
-      "author": "BLGardner",
-      "created": "2026-01-06 12:33:49",
-      "created_at": 1767702829000
-    },
-    {
-      "id": 46509211,
-      "title": "enclose.horse",
-      "link": "https://enclose.horse/",
-      "score": 961,
-      "author": "DavidSJ",
-      "created": "2026-01-06 06:01:57",
-      "created_at": 1767679317000
-    },
-    {
-      "id": 46515777,
-      "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
-      "link": "",
-      "score": 28,
-      "author": "denizkavi",
-      "created": "2026-01-06 17:49:56",
-      "created_at": 1767721796000
-    },
-    {
-      "id": 46514807,
-      "title": "Loongarch Improvements with Box64",
-      "link": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
-      "score": 41,
-      "author": "aaronday",
-      "created": "2026-01-06 16:52:56",
-      "created_at": 1767718376000
+      "id": 46520508,
+      "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
+      "link": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
+      "score": 10,
+      "author": "surprisetalk",
+      "created": "2026-01-06 23:40:03",
+      "created_at": 1767742803000
     }
   ],
   "code": 200,
