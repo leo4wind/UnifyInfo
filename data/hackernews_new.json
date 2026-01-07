@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-07T04:32:18.946Z"
+    "lastUpdate": "2026-01-07T08:18:20.769Z"
   },
   "data": [
-    {
-      "id": 46522308,
-      "title": "On the slow death of scaling",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
-      "score": 20,
-      "author": "sethbannon",
-      "created": "2026-01-07 03:48:05",
-      "created_at": 1767757685000
-    },
-    {
-      "id": 46521860,
-      "title": "Microsoft probably killed my Snapdragon Dev Kit",
-      "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
-      "score": 80,
-      "author": "jasoneckert",
-      "created": "2026-01-07 02:37:09",
-      "created_at": 1767753429000
-    },
-    {
-      "id": 46517458,
-      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-      "link": "https://github.com/rberg27/doom-coding",
-      "score": 338,
-      "author": "rbergamini27",
-      "created": "2026-01-06 19:38:32",
-      "created_at": 1767728312000
-    },
-    {
-      "id": 46452641,
-      "title": "Sergey Brin's Unretirement",
-      "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
-      "score": 11,
-      "author": "iancmceachern",
-      "created": "2026-01-01 09:30:28",
-      "created_at": 1767259828000
-    },
-    {
-      "id": 46520926,
-      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
-      "link": "https://github.com/x011/smtp-tunnel-proxy",
-      "score": 9,
-      "author": "lobito25",
-      "created": "2026-01-07 00:30:09",
-      "created_at": 1767745809000
-    },
-    {
-      "id": 46520935,
-      "title": "Electronic nose for indoor mold detection and identification",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
-      "score": 47,
-      "author": "PaulHoule",
-      "created": "2026-01-07 00:31:01",
-      "created_at": 1767745861000
-    },
     {
       "id": 46470017,
       "title": "The creator of Claude Code's Claude setup",
       "link": "https://twitter.com/bcherny/status/2007179832300581177",
-      "score": 19,
+      "score": 281,
       "author": "KothuRoti",
       "created": "2026-01-02 22:07:50",
       "created_at": 1767391670000
     },
     {
-      "id": 46518573,
-      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
-      "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
-      "score": 159,
-      "author": "dataminer",
-      "created": "2026-01-06 20:55:01",
-      "created_at": 1767732901000
+      "id": 46452641,
+      "title": "Sergey Brin's Unretirement",
+      "link": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
+      "score": 133,
+      "author": "iancmceachern",
+      "created": "2026-01-01 09:30:28",
+      "created_at": 1767259828000
+    },
+    {
+      "id": 46517458,
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "link": "https://github.com/rberg27/doom-coding",
+      "score": 404,
+      "author": "rbergamini27",
+      "created": "2026-01-06 19:38:32",
+      "created_at": 1767728312000
+    },
+    {
+      "id": 46521860,
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "score": 148,
+      "author": "jasoneckert",
+      "created": "2026-01-07 02:37:09",
+      "created_at": 1767753429000
+    },
+    {
+      "id": 46520935,
+      "title": "Electronic nose for indoor mold detection and identification",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "score": 97,
+      "author": "PaulHoule",
+      "created": "2026-01-07 00:31:01",
+      "created_at": 1767745861000
     },
     {
       "id": 46515696,
       "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
       "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-      "score": 406,
+      "score": 511,
       "author": "tbassetto",
       "created": "2026-01-06 17:45:37",
       "created_at": 1767721537000
     },
     {
-      "id": 46518804,
-      "title": "Oral microbiome sequencing after taking probiotics",
-      "link": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
-      "score": 106,
+      "id": 46520926,
+      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "link": "https://github.com/x011/smtp-tunnel-proxy",
+      "score": 38,
+      "author": "lobito25",
+      "created": "2026-01-07 00:30:09",
+      "created_at": 1767745809000
+    },
+    {
+      "id": 46518573,
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "link": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "score": 216,
+      "author": "dataminer",
+      "created": "2026-01-06 20:55:01",
+      "created_at": 1767732901000
+    },
+    {
+      "id": 46522308,
+      "title": "On the slow death of scaling",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "score": 56,
       "author": "sethbannon",
-      "created": "2026-01-06 21:10:47",
-      "created_at": 1767733847000
+      "created": "2026-01-07 03:48:05",
+      "created_at": 1767757685000
+    },
+    {
+      "id": 46476915,
+      "title": "Rust Is Beyond Object-Oriented, Part 3: Inheritance (2023)",
+      "link": "https://www.thecodedmessage.com/posts/oop-3-inheritance/",
+      "score": 15,
+      "author": "zahrevsky",
+      "created": "2026-01-03 14:15:11",
+      "created_at": 1767449711000
     }
   ],
   "code": 200,
