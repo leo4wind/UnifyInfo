@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-08T04:31:15.100Z"
+    "lastUpdate": "2026-01-08T08:18:09.615Z"
   },
   "data": [
+    {
+      "id": 46537489,
+      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+      "link": "https://patchouli.readthedocs.io/en/latest/",
+      "score": 115,
+      "author": "ffin",
+      "created": "2026-01-08 05:20:05",
+      "created_at": 1767849605000
+    },
+    {
+      "id": 46538001,
+      "title": "A closer look at a BGP anomaly in Venezuela",
+      "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+      "score": 63,
+      "author": "ChrisArchitect",
+      "created": "2026-01-08 06:46:26",
+      "created_at": 1767854786000
+    },
     {
       "id": 46536340,
       "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
       "link": "https://pebblebed.com/blog/kernel-bugs",
-      "score": 72,
+      "score": 138,
       "author": "kmavm",
       "created": "2026-01-08 02:18:09",
       "created_at": 1767838689000
     },
     {
-      "id": 46526740,
-      "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
-      "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-      "score": 705,
-      "author": "aldarion",
-      "created": "2026-01-07 14:29:25",
-      "created_at": 1767796165000
+      "id": 46493785,
+      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "link": "https://effectiviology.com/napoleon/",
+      "score": 20,
+      "author": "Khaine",
+      "created": "2026-01-05 00:07:44",
+      "created_at": 1767571664000
     },
     {
-      "id": 46531925,
-      "title": "Tailscale state file encryption no longer enabled by default",
-      "link": "https://tailscale.com/changelog",
-      "score": 245,
-      "author": "traceroute66",
-      "created": "2026-01-07 20:16:50",
-      "created_at": 1767817010000
+      "id": 46536866,
+      "title": "Open Infrastructure Map",
+      "link": "https://openinframap.org",
+      "score": 116,
+      "author": "efskap",
+      "created": "2026-01-08 03:31:12",
+      "created_at": 1767843072000
     },
     {
       "id": 46529237,
       "title": "Eat Real Food",
       "link": "https://realfood.gov",
-      "score": 648,
+      "score": 773,
       "author": "atestu",
       "created": "2026-01-07 17:22:09",
       "created_at": 1767806529000
     },
     {
-      "id": 46534777,
-      "title": "Play Aardwolf MUD",
-      "link": "https://www.aardwolf.com/",
-      "score": 89,
-      "author": "caminanteblanco",
-      "created": "2026-01-07 23:31:05",
-      "created_at": 1767828665000
+      "id": 46531925,
+      "title": "Tailscale state file encryption no longer enabled by default",
+      "link": "https://tailscale.com/changelog",
+      "score": 282,
+      "author": "traceroute66",
+      "created": "2026-01-07 20:16:50",
+      "created_at": 1767817010000
+    },
+    {
+      "id": 46537095,
+      "title": "Go.sum is not a lockfile",
+      "link": "https://words.filippo.io/gosum/",
+      "score": 49,
+      "author": "pabs3",
+      "created": "2026-01-08 04:10:34",
+      "created_at": 1767845434000
     },
     {
       "id": 46527161,
       "title": "Shipmap.org",
       "link": "https://www.shipmap.org/",
-      "score": 509,
+      "score": 577,
       "author": "surprisetalk",
       "created": "2026-01-07 15:03:41",
       "created_at": 1767798221000
     },
     {
-      "id": 46535514,
-      "title": "Fighting back against biometric surveillance at Wegmans",
-      "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
-      "score": 164,
-      "author": "ptorrone",
-      "created": "2026-01-08 00:48:11",
-      "created_at": 1767833291000
-    },
-    {
-      "id": 46470927,
-      "title": "How dependabot works",
-      "link": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html",
-      "score": 38,
-      "author": "zdw",
-      "created": "2026-01-02 23:44:04",
-      "created_at": 1767397444000
-    },
-    {
-      "id": 46535540,
-      "title": "Musashi: Motorola 680x0 emulator written in C",
-      "link": "https://github.com/kstenerud/Musashi",
-      "score": 34,
-      "author": "doener",
-      "created": "2026-01-08 00:51:20",
-      "created_at": 1767833480000
-    },
-    {
-      "id": 46523887,
-      "title": "The Q, K, V Matrices",
-      "link": "https://arpitbhayani.me/blogs/qkv-matrices/",
-      "score": 67,
-      "author": "yashsngh",
-      "created": "2026-01-07 08:18:09",
-      "created_at": 1767773889000
+      "id": 46537295,
+      "title": "Why we're taking legal action against SerpApi's unlawful scraping",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/",
+      "score": 30,
+      "author": "doppp",
+      "created": "2026-01-08 04:46:56",
+      "created_at": 1767847616000
     }
   ],
   "code": 200,

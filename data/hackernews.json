@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-08T04:31:14.960Z"
+    "lastUpdate": "2026-01-08T08:18:09.530Z"
   },
   "data": [
     {
       "id": 46514677,
       "title": "Vietnam bans unskippable ads",
       "link": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-      "score": 1542,
+      "score": 1547,
       "author": "hoherd",
       "created": "2026-01-06 16:45:42",
       "created_at": 1767717942000
     },
     {
-      "id": 46509211,
-      "title": "enclose.horse",
-      "link": "https://enclose.horse/",
-      "score": 1163,
-      "author": "DavidSJ",
-      "created": "2026-01-06 06:01:57",
-      "created_at": 1767679317000
-    },
-    {
       "id": 46527950,
       "title": "Creators of Tailwind laid off 75% of their engineering team",
       "link": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-      "score": 1056,
+      "score": 1164,
       "author": "kevlened",
       "created": "2026-01-07 16:02:19",
       "created_at": 1767801739000
@@ -37,64 +28,73 @@
       "id": 46515696,
       "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
       "link": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-      "score": 814,
+      "score": 817,
       "author": "tbassetto",
       "created": "2026-01-06 17:45:37",
       "created_at": 1767721537000
     },
     {
-      "id": 46511153,
-      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-      "score": 734,
-      "author": "Brajeshwar",
-      "created": "2026-01-06 11:42:35",
-      "created_at": 1767699755000
-    },
-    {
       "id": 46531068,
       "title": "US will ban Wall Street investors from buying single-family homes",
       "link": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
-      "score": 705,
+      "score": 800,
       "author": "kpw94",
       "created": "2026-01-07 19:13:19",
       "created_at": 1767813199000
     },
     {
-      "id": 46526740,
-      "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
-      "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-      "score": 705,
-      "author": "aldarion",
-      "created": "2026-01-07 14:29:25",
-      "created_at": 1767796165000
-    },
-    {
       "id": 46529237,
       "title": "Eat Real Food",
       "link": "https://realfood.gov",
-      "score": 648,
+      "score": 773,
       "author": "atestu",
       "created": "2026-01-07 17:22:09",
       "created_at": 1767806529000
     },
     {
-      "id": 46509019,
-      "title": "The Post-American Internet",
-      "link": "https://pluralistic.net/2026/01/01/39c3/",
-      "score": 563,
-      "author": "EvanAnderson",
-      "created": "2026-01-06 05:20:40",
-      "created_at": 1767676840000
+      "id": 46526740,
+      "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+      "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+      "score": 741,
+      "author": "aldarion",
+      "created": "2026-01-07 14:29:25",
+      "created_at": 1767796165000
+    },
+    {
+      "id": 46511153,
+      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+      "score": 736,
+      "author": "Brajeshwar",
+      "created": "2026-01-06 11:42:35",
+      "created_at": 1767699755000
+    },
+    {
+      "id": 46527161,
+      "title": "Shipmap.org",
+      "link": "https://www.shipmap.org/",
+      "score": 577,
+      "author": "surprisetalk",
+      "created": "2026-01-07 15:03:41",
+      "created_at": 1767798221000
     },
     {
       "id": 46517458,
       "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
       "link": "https://github.com/rberg27/doom-coding",
-      "score": 558,
+      "score": 563,
       "author": "rbergamini27",
       "created": "2026-01-06 19:38:32",
       "created_at": 1767728312000
+    },
+    {
+      "id": 46512881,
+      "title": "65% of Hacker News posts have negative sentiment, and they outperform",
+      "link": "https://philippdubach.com/standalone/hn-sentiment/",
+      "score": 487,
+      "author": "7777777phil",
+      "created": "2026-01-06 14:45:47",
+      "created_at": 1767710747000
     }
   ],
   "code": 200,
