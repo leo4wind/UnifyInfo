@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-08T00:58:37.571Z"
+    "lastUpdate": "2026-01-08T04:31:15.100Z"
   },
   "data": [
     {
-      "id": 46531925,
-      "title": "Tailscale state file encryption no longer enabled by default",
-      "link": "https://tailscale.com/changelog",
-      "score": 189,
-      "author": "traceroute66",
-      "created": "2026-01-07 20:16:50",
-      "created_at": 1767817010000
+      "id": 46536340,
+      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+      "link": "https://pebblebed.com/blog/kernel-bugs",
+      "score": 72,
+      "author": "kmavm",
+      "created": "2026-01-08 02:18:09",
+      "created_at": 1767838689000
     },
     {
       "id": 46526740,
       "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
       "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-      "score": 628,
+      "score": 705,
       "author": "aldarion",
       "created": "2026-01-07 14:29:25",
       "created_at": 1767796165000
     },
     {
+      "id": 46531925,
+      "title": "Tailscale state file encryption no longer enabled by default",
+      "link": "https://tailscale.com/changelog",
+      "score": 245,
+      "author": "traceroute66",
+      "created": "2026-01-07 20:16:50",
+      "created_at": 1767817010000
+    },
+    {
       "id": 46529237,
       "title": "Eat Real Food",
       "link": "https://realfood.gov",
-      "score": 473,
+      "score": 648,
       "author": "atestu",
       "created": "2026-01-07 17:22:09",
       "created_at": 1767806529000
     },
     {
+      "id": 46534777,
+      "title": "Play Aardwolf MUD",
+      "link": "https://www.aardwolf.com/",
+      "score": 89,
+      "author": "caminanteblanco",
+      "created": "2026-01-07 23:31:05",
+      "created_at": 1767828665000
+    },
+    {
       "id": 46527161,
       "title": "Shipmap.org",
       "link": "https://www.shipmap.org/",
-      "score": 439,
+      "score": 509,
       "author": "surprisetalk",
       "created": "2026-01-07 15:03:41",
       "created_at": 1767798221000
     },
     {
-      "id": 46531565,
-      "title": "Notion AI: Unpatched data exfiltration",
-      "link": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-      "score": 92,
-      "author": "takira",
-      "created": "2026-01-07 19:49:54",
-      "created_at": 1767815394000
+      "id": 46535514,
+      "title": "Fighting back against biometric surveillance at Wegmans",
+      "link": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+      "score": 164,
+      "author": "ptorrone",
+      "created": "2026-01-08 00:48:11",
+      "created_at": 1767833291000
     },
     {
-      "id": 46530448,
-      "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
-      "link": "https://socket.dev/blog/npm-to-implement-staged-publishing",
-      "score": 122,
-      "author": "feross",
-      "created": "2026-01-07 18:31:19",
-      "created_at": 1767810679000
+      "id": 46470927,
+      "title": "How dependabot works",
+      "link": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html",
+      "score": 38,
+      "author": "zdw",
+      "created": "2026-01-02 23:44:04",
+      "created_at": 1767397444000
+    },
+    {
+      "id": 46535540,
+      "title": "Musashi: Motorola 680x0 emulator written in C",
+      "link": "https://github.com/kstenerud/Musashi",
+      "score": 34,
+      "author": "doener",
+      "created": "2026-01-08 00:51:20",
+      "created_at": 1767833480000
     },
     {
       "id": 46523887,
       "title": "The Q, K, V Matrices",
       "link": "https://arpitbhayani.me/blogs/qkv-matrices/",
-      "score": 13,
+      "score": 67,
       "author": "yashsngh",
       "created": "2026-01-07 08:18:09",
       "created_at": 1767773889000
-    },
-    {
-      "id": 46531068,
-      "title": "US will ban Wall Street investors from buying single-family homes",
-      "link": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
-      "score": 547,
-      "author": "kpw94",
-      "created": "2026-01-07 19:13:19",
-      "created_at": 1767813199000
-    },
-    {
-      "id": 46526933,
-      "title": "LaTeX Coffee Stains (2021) [pdf]",
-      "link": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
-      "score": 275,
-      "author": "zahrevsky",
-      "created": "2026-01-07 14:46:31",
-      "created_at": 1767797191000
-    },
-    {
-      "id": 46528353,
-      "title": "Health care data breach affects over 600k patients, Illinois agency says",
-      "link": "https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says",
-      "score": 151,
-      "author": "toomuchtodo",
-      "created": "2026-01-07 16:28:14",
-      "created_at": 1767803294000
     }
   ],
   "code": 200,
