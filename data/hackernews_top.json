@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-08T12:25:42.400Z"
+    "lastUpdate": "2026-01-08T16:17:33.705Z"
   },
   "data": [
+    {
+      "id": 46541892,
+      "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
+      "link": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+      "score": 453,
+      "author": "rayrey",
+      "created": "2026-01-08 15:07:57",
+      "created_at": 1767884877000
+    },
+    {
+      "id": 46540498,
+      "title": "The Jeff Dean Facts",
+      "link": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+      "score": 138,
+      "author": "ravenical",
+      "created": "2026-01-08 13:02:05",
+      "created_at": 1767877325000
+    },
+    {
+      "id": 46542253,
+      "title": "An Honest Review of Go",
+      "link": "https://benraz.dev/blog/golang_review.html",
+      "score": 12,
+      "author": "benrazdev",
+      "created": "2026-01-08 15:37:06",
+      "created_at": 1767886626000
+    },
+    {
+      "id": 46468338,
+      "title": "Lights and Shadows (2020)",
+      "link": "https://ciechanow.ski/lights-and-shadows/",
+      "score": 168,
+      "author": "kg",
+      "created": "2026-01-02 19:24:10",
+      "created_at": 1767381850000
+    },
     {
       "id": 46537489,
       "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
       "link": "https://patchouli.readthedocs.io/en/latest/",
-      "score": 258,
+      "score": 341,
       "author": "ffin",
       "created": "2026-01-08 05:20:05",
       "created_at": 1767849605000
     },
     {
+      "id": 46540660,
+      "title": "Show HN: DeepDream for Video with Temporal Consistency",
+      "link": "https://github.com/jeremicna/deepdream-video-pytorch",
+      "score": 27,
+      "author": "fruitbarrel",
+      "created": "2026-01-08 13:21:59",
+      "created_at": 1767878519000
+    },
+    {
+      "id": 46541885,
+      "title": "Show HN: A Daily Bible Game",
+      "link": "https://bibdle.com",
+      "score": 32,
+      "author": "egglemonsoup",
+      "created": "2026-01-08 15:07:37",
+      "created_at": 1767884857000
+    },
+    {
       "id": 46538001,
       "title": "A closer look at a BGP anomaly in Venezuela",
       "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-      "score": 172,
+      "score": 277,
       "author": "ChrisArchitect",
       "created": "2026-01-08 06:46:26",
       "created_at": 1767854786000
     },
     {
-      "id": 46493785,
-      "title": "The Napoleon Technique: Postponing things to increase productivity",
-      "link": "https://effectiviology.com/napoleon/",
-      "score": 111,
-      "author": "Khaine",
-      "created": "2026-01-05 00:07:44",
-      "created_at": 1767571664000
+      "id": 46542036,
+      "title": "AI Coding Assistants Are Getting Worse",
+      "link": "https://spectrum.ieee.org/ai-coding-degrades",
+      "score": 85,
+      "author": "voxadam",
+      "created": "2026-01-08 15:20:15",
+      "created_at": 1767885615000
     },
     {
-      "id": 46536340,
-      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-      "link": "https://pebblebed.com/blog/kernel-bugs",
-      "score": 191,
-      "author": "kmavm",
-      "created": "2026-01-08 02:18:09",
-      "created_at": 1767838689000
-    },
-    {
-      "id": 46536866,
-      "title": "Open Infrastructure Map",
-      "link": "https://openinframap.org",
-      "score": 208,
-      "author": "efskap",
-      "created": "2026-01-08 03:31:12",
-      "created_at": 1767843072000
-    },
-    {
-      "id": 46492401,
-      "title": "Anyone have experiences with Audio Induction Loops?",
-      "link": "https://en.wikipedia.org/wiki/Audio_induction_loop",
-      "score": 27,
-      "author": "evolve2k",
-      "created": "2026-01-04 21:23:27",
-      "created_at": 1767561807000
-    },
-    {
-      "id": 46529237,
-      "title": "Eat Real Food",
-      "link": "https://realfood.gov",
-      "score": 890,
-      "author": "atestu",
-      "created": "2026-01-07 17:22:09",
-      "created_at": 1767806529000
-    },
-    {
-      "id": 46527161,
-      "title": "Shipmap.org",
-      "link": "https://www.shipmap.org/",
-      "score": 646,
-      "author": "surprisetalk",
-      "created": "2026-01-07 15:03:41",
-      "created_at": 1767798221000
-    },
-    {
-      "id": 46537095,
-      "title": "Go.sum is not a lockfile",
-      "link": "https://words.filippo.io/gosum/",
-      "score": 95,
-      "author": "pabs3",
-      "created": "2026-01-08 04:10:34",
-      "created_at": 1767845434000
+      "id": 46542015,
+      "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
+      "link": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
+      "score": 25,
+      "author": "speckx",
+      "created": "2026-01-08 15:18:39",
+      "created_at": 1767885519000
     }
   ],
   "code": 200,
