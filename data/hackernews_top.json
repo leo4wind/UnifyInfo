@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-08T16:17:33.705Z"
+    "lastUpdate": "2026-01-08T20:13:54.678Z"
   },
   "data": [
+    {
+      "id": 46544454,
+      "title": "IBM AI ('Bob') Downloads and Executes Malware",
+      "link": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+      "score": 142,
+      "author": "takira",
+      "created": "2026-01-08 18:19:09",
+      "created_at": 1767896349000
+    },
     {
       "id": 46541892,
       "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
       "link": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
-      "score": 453,
+      "score": 1602,
       "author": "rayrey",
       "created": "2026-01-08 15:07:57",
       "created_at": 1767884877000
     },
     {
+      "id": 46544610,
+      "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+      "link": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+      "score": 32,
+      "author": "vzaliva",
+      "created": "2026-01-08 18:29:47",
+      "created_at": 1767896987000
+    },
+    {
+      "id": 46545620,
+      "title": "How to Code Claude Code in 200 Lines of Code",
+      "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "score": 6,
+      "author": "nutellalover",
+      "created": "2026-01-08 19:54:26",
+      "created_at": 1767902066000
+    },
+    {
+      "id": 46545077,
+      "title": "Google AI Studio is now sponsoring Tailwind CSS",
+      "link": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+      "score": 119,
+      "author": "qwertyforce",
+      "created": "2026-01-08 19:09:23",
+      "created_at": 1767899363000
+    },
+    {
       "id": 46540498,
       "title": "The Jeff Dean Facts",
       "link": "https://github.com/LRitzdorf/TheJeffDeanFacts",
-      "score": 138,
+      "score": 301,
       "author": "ravenical",
       "created": "2026-01-08 13:02:05",
       "created_at": 1767877325000
     },
     {
-      "id": 46542253,
-      "title": "An Honest Review of Go",
-      "link": "https://benraz.dev/blog/golang_review.html",
-      "score": 12,
-      "author": "benrazdev",
-      "created": "2026-01-08 15:37:06",
-      "created_at": 1767886626000
-    },
-    {
-      "id": 46468338,
-      "title": "Lights and Shadows (2020)",
-      "link": "https://ciechanow.ski/lights-and-shadows/",
-      "score": 168,
-      "author": "kg",
-      "created": "2026-01-02 19:24:10",
-      "created_at": 1767381850000
-    },
-    {
-      "id": 46537489,
-      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "link": "https://patchouli.readthedocs.io/en/latest/",
-      "score": 341,
-      "author": "ffin",
-      "created": "2026-01-08 05:20:05",
-      "created_at": 1767849605000
-    },
-    {
-      "id": 46540660,
-      "title": "Show HN: DeepDream for Video with Temporal Consistency",
-      "link": "https://github.com/jeremicna/deepdream-video-pytorch",
-      "score": 27,
-      "author": "fruitbarrel",
-      "created": "2026-01-08 13:21:59",
-      "created_at": 1767878519000
-    },
-    {
-      "id": 46541885,
-      "title": "Show HN: A Daily Bible Game",
-      "link": "https://bibdle.com",
-      "score": 32,
-      "author": "egglemonsoup",
-      "created": "2026-01-08 15:07:37",
-      "created_at": 1767884857000
-    },
-    {
-      "id": 46538001,
-      "title": "A closer look at a BGP anomaly in Venezuela",
-      "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-      "score": 277,
-      "author": "ChrisArchitect",
-      "created": "2026-01-08 06:46:26",
-      "created_at": 1767854786000
-    },
-    {
-      "id": 46542036,
-      "title": "AI Coding Assistants Are Getting Worse",
-      "link": "https://spectrum.ieee.org/ai-coding-degrades",
-      "score": 85,
+      "id": 46544981,
+      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "link": "https://joshuawise.com/resources/ofdm/",
+      "score": 16,
       "author": "voxadam",
-      "created": "2026-01-08 15:20:15",
-      "created_at": 1767885615000
+      "created": "2026-01-08 19:00:28",
+      "created_at": 1767898828000
     },
     {
-      "id": 46542015,
-      "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
-      "link": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
-      "score": 25,
-      "author": "speckx",
-      "created": "2026-01-08 15:18:39",
-      "created_at": 1767885519000
+      "id": 46542683,
+      "title": "Iran Goes Into IPv6 Blackout",
+      "link": "https://radar.cloudflare.com/routing/ir",
+      "score": 245,
+      "author": "honeycrispy",
+      "created": "2026-01-08 16:11:48",
+      "created_at": 1767888708000
+    },
+    {
+      "id": 46537253,
+      "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+      "link": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
+      "score": 18,
+      "author": "rustoo",
+      "created": "2026-01-08 04:39:55",
+      "created_at": 1767847195000
+    },
+    {
+      "id": 46542761,
+      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "link": "https://sakana.ai/drq/",
+      "score": 47,
+      "author": "hardmaru",
+      "created": "2026-01-08 16:16:43",
+      "created_at": 1767889003000
     }
   ],
   "code": 200,
