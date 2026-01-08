@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-08T08:18:09.615Z"
+    "lastUpdate": "2026-01-08T12:25:42.400Z"
   },
   "data": [
     {
       "id": 46537489,
       "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
       "link": "https://patchouli.readthedocs.io/en/latest/",
-      "score": 115,
+      "score": 258,
       "author": "ffin",
       "created": "2026-01-08 05:20:05",
       "created_at": 1767849605000
@@ -19,82 +19,73 @@
       "id": 46538001,
       "title": "A closer look at a BGP anomaly in Venezuela",
       "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-      "score": 63,
+      "score": 172,
       "author": "ChrisArchitect",
       "created": "2026-01-08 06:46:26",
       "created_at": 1767854786000
     },
     {
-      "id": 46536340,
-      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-      "link": "https://pebblebed.com/blog/kernel-bugs",
-      "score": 138,
-      "author": "kmavm",
-      "created": "2026-01-08 02:18:09",
-      "created_at": 1767838689000
-    },
-    {
       "id": 46493785,
-      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "title": "The Napoleon Technique: Postponing things to increase productivity",
       "link": "https://effectiviology.com/napoleon/",
-      "score": 20,
+      "score": 111,
       "author": "Khaine",
       "created": "2026-01-05 00:07:44",
       "created_at": 1767571664000
     },
     {
+      "id": 46536340,
+      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+      "link": "https://pebblebed.com/blog/kernel-bugs",
+      "score": 191,
+      "author": "kmavm",
+      "created": "2026-01-08 02:18:09",
+      "created_at": 1767838689000
+    },
+    {
       "id": 46536866,
       "title": "Open Infrastructure Map",
       "link": "https://openinframap.org",
-      "score": 116,
+      "score": 208,
       "author": "efskap",
       "created": "2026-01-08 03:31:12",
       "created_at": 1767843072000
     },
     {
+      "id": 46492401,
+      "title": "Anyone have experiences with Audio Induction Loops?",
+      "link": "https://en.wikipedia.org/wiki/Audio_induction_loop",
+      "score": 27,
+      "author": "evolve2k",
+      "created": "2026-01-04 21:23:27",
+      "created_at": 1767561807000
+    },
+    {
       "id": 46529237,
       "title": "Eat Real Food",
       "link": "https://realfood.gov",
-      "score": 773,
+      "score": 890,
       "author": "atestu",
       "created": "2026-01-07 17:22:09",
       "created_at": 1767806529000
     },
     {
-      "id": 46531925,
-      "title": "Tailscale state file encryption no longer enabled by default",
-      "link": "https://tailscale.com/changelog",
-      "score": 282,
-      "author": "traceroute66",
-      "created": "2026-01-07 20:16:50",
-      "created_at": 1767817010000
-    },
-    {
-      "id": 46537095,
-      "title": "Go.sum is not a lockfile",
-      "link": "https://words.filippo.io/gosum/",
-      "score": 49,
-      "author": "pabs3",
-      "created": "2026-01-08 04:10:34",
-      "created_at": 1767845434000
-    },
-    {
       "id": 46527161,
       "title": "Shipmap.org",
       "link": "https://www.shipmap.org/",
-      "score": 577,
+      "score": 646,
       "author": "surprisetalk",
       "created": "2026-01-07 15:03:41",
       "created_at": 1767798221000
     },
     {
-      "id": 46537295,
-      "title": "Why we're taking legal action against SerpApi's unlawful scraping",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/",
-      "score": 30,
-      "author": "doppp",
-      "created": "2026-01-08 04:46:56",
-      "created_at": 1767847616000
+      "id": 46537095,
+      "title": "Go.sum is not a lockfile",
+      "link": "https://words.filippo.io/gosum/",
+      "score": 95,
+      "author": "pabs3",
+      "created": "2026-01-08 04:10:34",
+      "created_at": 1767845434000
     }
   ],
   "code": 200,
