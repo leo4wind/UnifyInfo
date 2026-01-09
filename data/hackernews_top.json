@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-09T04:31:54.832Z"
+    "lastUpdate": "2026-01-09T08:18:05.802Z"
   },
   "data": [
     {
-      "id": 46549823,
-      "title": "Anthropic bans use of API in OpenCode CLI tool",
-      "link": "https://github.com/anomalyco/opencode/issues/7410",
-      "score": 72,
-      "author": "sergiotapia",
-      "created": "2026-01-09 03:44:35",
-      "created_at": 1767930275000
+      "id": 46550777,
+      "title": "Do not mistake a resilient global economy for populist success",
+      "link": "https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success",
+      "score": 97,
+      "author": "andsoitis",
+      "created": "2026-01-09 06:43:27",
+      "created_at": 1767941007000
+    },
+    {
+      "id": 46551044,
+      "title": "What Happened to WebAssembly",
+      "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
+      "score": 24,
+      "author": "enz",
+      "created": "2026-01-09 07:38:30",
+      "created_at": 1767944310000
+    },
+    {
+      "id": 46550895,
+      "title": "Mathematics for Computer Science (2018) [pdf]",
+      "link": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+      "score": 35,
+      "author": "vismit2000",
+      "created": "2026-01-09 07:06:41",
+      "created_at": 1767942401000
     },
     {
       "id": 46548940,
-      "title": "Why I Left iNaturalist",
+      "title": "Why I left iNaturalist",
       "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
-      "score": 114,
+      "score": 171,
       "author": "erutuon",
       "created": "2026-01-09 01:17:51",
       "created_at": 1767921471000
@@ -28,7 +46,7 @@
       "id": 46545620,
       "title": "How to Code Claude Code in 200 Lines of Code",
       "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-      "score": 390,
+      "score": 476,
       "author": "nutellalover",
       "created": "2026-01-08 19:54:26",
       "created_at": 1767902066000
@@ -37,7 +55,7 @@
       "id": 46547740,
       "title": "Embassy: Modern embedded framework, using Rust and async",
       "link": "https://github.com/embassy-rs/embassy",
-      "score": 136,
+      "score": 187,
       "author": "birdculture",
       "created": "2026-01-08 23:00:45",
       "created_at": 1767913245000
@@ -46,55 +64,37 @@
       "id": 46546113,
       "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
       "link": "https://github.com/samuel-vitorino/sopro",
-      "score": 172,
+      "score": 220,
       "author": "sammyyyyyyy",
       "created": "2026-01-08 20:37:07",
       "created_at": 1767904627000
     },
     {
-      "id": 46480664,
-      "title": "Anti-cheat evolution in Windows 11",
-      "link": "https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/",
-      "score": 20,
-      "author": "davikr",
-      "created": "2026-01-03 19:38:38",
-      "created_at": 1767469118000
+      "id": 46489232,
+      "title": "Hacking a Casio F-91W digital watch (2023)",
+      "link": "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15",
+      "score": 63,
+      "author": "jollyjerry",
+      "created": "2026-01-04 16:05:08",
+      "created_at": 1767542708000
+    },
+    {
+      "id": 46497989,
+      "title": "On Getting Hacked",
+      "link": "https://ahmeto.com/post/on-getting-hacked",
+      "score": 40,
+      "author": "ahmetomer",
+      "created": "2026-01-05 12:26:39",
+      "created_at": 1767615999000
     },
     {
       "id": 46541892,
       "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
       "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-      "score": 2182,
+      "score": 2269,
       "author": "rayrey",
       "created": "2026-01-08 15:07:57",
       "created_at": 1767884877000
-    },
-    {
-      "id": 46549444,
-      "title": "Show HN: Executable Markdown files with Unix pipes",
-      "link": "",
-      "score": 30,
-      "author": "jedwhite",
-      "created": "2026-01-09 02:29:12",
-      "created_at": 1767925752000
-    },
-    {
-      "id": 46546614,
-      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
-      "link": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
-      "score": 116,
-      "author": "lelandfe",
-      "created": "2026-01-08 21:17:26",
-      "created_at": 1767907046000
-    },
-    {
-      "id": 46544981,
-      "title": "The Unreasonable Effectiveness of the Fourier Transform",
-      "link": "https://joshuawise.com/resources/ofdm/",
-      "score": 168,
-      "author": "voxadam",
-      "created": "2026-01-08 19:00:28",
-      "created_at": 1767898828000
     }
   ],
   "code": 200,

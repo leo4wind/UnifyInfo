@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-09T04:31:57.481Z"
+    "lastUpdate": "2026-01-09T08:18:08.787Z"
   },
   "data": [
     {
@@ -22,12 +22,35 @@
       "zqjkrq": "2026-01-20",
       "ssrq": null,
       "syl": null,
-      "hysyl": 38.91,
+      "hysyl": 39.1,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "等离子体射频电源系统、等离子体激发装置、等离子体直流电源、各种配件的研发、生产、销售及技术服务"
+    },
+    {
+      "zqdm": "920050",
+      "zqjc": "爱舍伦",
+      "sgdm": "920050",
+      "fxsl": 16919834,
+      "swfxsl": 15227851,
+      "sgsx": 761300,
+      "dgsz": 7613000,
+      "fxjg": 15.98,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-12",
+      "zqgbrq": "2026-01-15",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 29.79,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "长期专注于医疗健康事业,主要从事应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售,通过ODM/OEM等方式为国际知名医疗器械品牌厂商提供相关产品"
     },
     {
       "zqdm": "920086",
@@ -46,7 +69,7 @@
       "ssrq": null,
       "syl": 14.2,
       "hysyl": 28.68,
-      "wszql": null,
+      "wszql": 0.02565359,
       "yzbsl": null,
       "zf": null,
       "yqhl": null,
@@ -76,5 +99,5 @@
       "zyyw": "汽车冲焊件以及相关模具的开发、加工、生产和销售"
     }
   ],
-  "total": 3
+  "total": 4
 }
