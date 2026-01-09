@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-09T12:24:30.074Z"
+    "lastUpdate": "2026-01-09T16:15:43.433Z"
   },
   "data": [
+    {
+      "id": 46554462,
+      "title": "London–Calcutta Bus Service",
+      "link": "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service",
+      "score": 124,
+      "author": "thunderbong",
+      "created": "2026-01-09 14:50:48",
+      "created_at": 1767970248000
+    },
+    {
+      "id": 46489514,
+      "title": "How Will the Miracle Happen Today?",
+      "link": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
+      "score": 34,
+      "author": "zdw",
+      "created": "2026-01-04 16:32:13",
+      "created_at": 1767544333000
+    },
+    {
+      "id": 46553818,
+      "title": "\"They Saw a Protest\": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf]",
+      "link": "https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf",
+      "score": 32,
+      "author": "pcaharrier",
+      "created": "2026-01-09 13:52:13",
+      "created_at": 1767966733000
+    },
     {
       "id": 46550895,
       "title": "Mathematics for Computer Science (2018) [pdf]",
       "link": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
-      "score": 140,
+      "score": 262,
       "author": "vismit2000",
       "created": "2026-01-09 07:06:41",
       "created_at": 1767942401000
     },
     {
+      "id": 46493199,
+      "title": "When Kitty Litter Caused a Nuclear Catastrophe",
+      "link": "https://practical.engineering/blog/2025/4/15/when-kitty-litter-caused-a-nuclear-catastrophe",
+      "score": 49,
+      "author": "tape_measure",
+      "created": "2026-01-04 22:47:53",
+      "created_at": 1767566873000
+    },
+    {
       "id": 46478558,
       "title": "Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)",
       "link": "https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c",
-      "score": 25,
+      "score": 83,
       "author": "walterbell",
       "created": "2026-01-03 16:34:38",
       "created_at": 1767458078000
     },
     {
+      "id": 46553343,
+      "title": "Kagi releases alpha version of Orion for Linux",
+      "link": "https://help.kagi.com/orion/misc/linux-status.html",
+      "score": 181,
+      "author": "HelloUsername",
+      "created": "2026-01-09 12:54:48",
+      "created_at": 1767963288000
+    },
+    {
+      "id": 46506143,
+      "title": "Sorted string tables (SST) from first principles",
+      "link": "https://www.bitsxpages.com/p/sorted-string-tables-sst-from-first",
+      "score": 28,
+      "author": "apurvamehta",
+      "created": "2026-01-05 22:41:33",
+      "created_at": 1767652893000
+    },
+    {
       "id": 46545620,
       "title": "How to Code Claude Code in 200 Lines of Code",
       "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-      "score": 559,
+      "score": 634,
       "author": "nutellalover",
       "created": "2026-01-08 19:54:26",
       "created_at": 1767902066000
     },
     {
-      "id": 46550912,
-      "title": "European Commission issues call for evidence on open source",
-      "link": "https://lwn.net/Articles/1053107/",
-      "score": 196,
-      "author": "pabs3",
-      "created": "2026-01-09 07:09:39",
-      "created_at": 1767942579000
-    },
-    {
-      "id": 46551044,
-      "title": "What happened to WebAssembly",
-      "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
-      "score": 165,
-      "author": "enz",
-      "created": "2026-01-09 07:38:30",
-      "created_at": 1767944310000
-    },
-    {
-      "id": 46548940,
-      "title": "Why I left iNaturalist",
-      "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
-      "score": 209,
-      "author": "erutuon",
-      "created": "2026-01-09 01:17:51",
-      "created_at": 1767921471000
-    },
-    {
       "id": 46489232,
       "title": "Hacking a Casio F-91W digital watch (2023)",
       "link": "https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15",
-      "score": 117,
+      "score": 156,
       "author": "jollyjerry",
       "created": "2026-01-04 16:05:08",
       "created_at": 1767542708000
-    },
-    {
-      "id": 46547740,
-      "title": "Embassy: Modern embedded framework, using Rust and async",
-      "link": "https://github.com/embassy-rs/embassy",
-      "score": 228,
-      "author": "birdculture",
-      "created": "2026-01-08 23:00:45",
-      "created_at": 1767913245000
-    },
-    {
-      "id": 46546113,
-      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
-      "link": "https://github.com/samuel-vitorino/sopro",
-      "score": 258,
-      "author": "sammyyyyyyy",
-      "created": "2026-01-08 20:37:07",
-      "created_at": 1767904627000
-    },
-    {
-      "id": 46486545,
-      "title": "Samba Was Written (2003)",
-      "link": "https://download.samba.org/pub/tridge/misc/french_cafe.txt",
-      "score": 49,
-      "author": "tosh",
-      "created": "2026-01-04 09:58:36",
-      "created_at": 1767520716000
     }
   ],
   "code": 200,
