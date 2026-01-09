@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-09T00:58:48.455Z"
+    "lastUpdate": "2026-01-09T04:31:54.832Z"
   },
   "data": [
+    {
+      "id": 46549823,
+      "title": "Anthropic bans use of API in OpenCode CLI tool",
+      "link": "https://github.com/anomalyco/opencode/issues/7410",
+      "score": 72,
+      "author": "sergiotapia",
+      "created": "2026-01-09 03:44:35",
+      "created_at": 1767930275000
+    },
+    {
+      "id": 46548940,
+      "title": "Why I Left iNaturalist",
+      "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
+      "score": 114,
+      "author": "erutuon",
+      "created": "2026-01-09 01:17:51",
+      "created_at": 1767921471000
+    },
     {
       "id": 46545620,
       "title": "How to Code Claude Code in 200 Lines of Code",
       "link": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-      "score": 289,
+      "score": 390,
       "author": "nutellalover",
       "created": "2026-01-08 19:54:26",
       "created_at": 1767902066000
@@ -19,7 +37,7 @@
       "id": 46547740,
       "title": "Embassy: Modern embedded framework, using Rust and async",
       "link": "https://github.com/embassy-rs/embassy",
-      "score": 61,
+      "score": 136,
       "author": "birdculture",
       "created": "2026-01-08 23:00:45",
       "created_at": 1767913245000
@@ -28,73 +46,55 @@
       "id": 46546113,
       "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
       "link": "https://github.com/samuel-vitorino/sopro",
-      "score": 119,
+      "score": 172,
       "author": "sammyyyyyyy",
       "created": "2026-01-08 20:37:07",
       "created_at": 1767904627000
     },
     {
+      "id": 46480664,
+      "title": "Anti-cheat evolution in Windows 11",
+      "link": "https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/",
+      "score": 20,
+      "author": "davikr",
+      "created": "2026-01-03 19:38:38",
+      "created_at": 1767469118000
+    },
+    {
       "id": 46541892,
       "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
       "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-      "score": 2062,
+      "score": 2182,
       "author": "rayrey",
       "created": "2026-01-08 15:07:57",
       "created_at": 1767884877000
     },
     {
-      "id": 46544981,
-      "title": "The Unreasonable Effectiveness of the Fourier Transform",
-      "link": "https://joshuawise.com/resources/ofdm/",
-      "score": 125,
-      "author": "voxadam",
-      "created": "2026-01-08 19:00:28",
-      "created_at": 1767898828000
-    },
-    {
-      "id": 46540498,
-      "title": "The Jeff Dean Facts",
-      "link": "https://github.com/LRitzdorf/TheJeffDeanFacts",
-      "score": 386,
-      "author": "ravenical",
-      "created": "2026-01-08 13:02:05",
-      "created_at": 1767877325000
+      "id": 46549444,
+      "title": "Show HN: Executable Markdown files with Unix pipes",
+      "link": "",
+      "score": 30,
+      "author": "jedwhite",
+      "created": "2026-01-09 02:29:12",
+      "created_at": 1767925752000
     },
     {
       "id": 46546614,
-      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi",
+      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
       "link": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
-      "score": 50,
+      "score": 116,
       "author": "lelandfe",
       "created": "2026-01-08 21:17:26",
       "created_at": 1767907046000
     },
     {
-      "id": 46545077,
-      "title": "Google AI Studio is now sponsoring Tailwind CSS",
-      "link": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
-      "score": 423,
-      "author": "qwertyforce",
-      "created": "2026-01-08 19:09:23",
-      "created_at": 1767899363000
-    },
-    {
-      "id": 46542036,
-      "title": "AI coding assistants are getting worse?",
-      "link": "https://spectrum.ieee.org/ai-coding-degrades",
-      "score": 209,
+      "id": 46544981,
+      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "link": "https://joshuawise.com/resources/ofdm/",
+      "score": 168,
       "author": "voxadam",
-      "created": "2026-01-08 15:20:15",
-      "created_at": 1767885615000
-    },
-    {
-      "id": 46544610,
-      "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
-      "link": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
-      "score": 77,
-      "author": "vzaliva",
-      "created": "2026-01-08 18:29:47",
-      "created_at": 1767896987000
+      "created": "2026-01-08 19:00:28",
+      "created_at": 1767898828000
     }
   ],
   "code": 200,
