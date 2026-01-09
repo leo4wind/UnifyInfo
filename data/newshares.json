@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-08T20:13:57.498Z"
+    "lastUpdate": "2026-01-09T00:58:51.255Z"
   },
   "data": [
+    {
+      "zqdm": "688785",
+      "zqjc": "恒运昌",
+      "sgdm": "787785",
+      "fxsl": 16930559,
+      "swfxsl": 4063000,
+      "sgsx": 4000,
+      "dgsz": 40000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-16",
+      "zqgbrq": "2026-01-20",
+      "zqjkrq": "2026-01-20",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 38.91,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "等离子体射频电源系统、等离子体激发装置、等离子体直流电源、各种配件的研发、生产、销售及技术服务"
+    },
     {
       "zqdm": "920086",
       "zqjc": "科马材料",
@@ -53,5 +76,5 @@
       "zyyw": "汽车冲焊件以及相关模具的开发、加工、生产和销售"
     }
   ],
-  "total": 2
+  "total": 3
 }
