@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-10T16:13:25.052Z"
+    "lastUpdate": "2026-01-10T20:12:21.319Z"
   },
   "data": [
     {
-      "id": 46564696,
-      "title": "Allow me to introduce, the Citroen C15",
-      "link": "https://eupolicy.social/@jmaris/115860595238097654",
-      "score": 334,
-      "author": "colinprince",
-      "created": "2026-01-10 11:12:15",
-      "created_at": 1768043535000
+      "id": 46566812,
+      "title": "Open Chaos: A self-evolving open-source project",
+      "link": "https://www.openchaos.dev/",
+      "score": 165,
+      "author": "stefanvdw1",
+      "created": "2026-01-10 16:03:55",
+      "created_at": 1768061035000
+    },
+    {
+      "id": 46567218,
+      "title": "Drones that recharge directly on transmission lines",
+      "link": "https://www.ycombinator.com/companies/voltair",
+      "score": 74,
+      "author": "alphabetatango",
+      "created": "2026-01-10 16:43:19",
+      "created_at": 1768063399000
     },
     {
       "id": 46565132,
       "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
       "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 143,
+      "score": 288,
       "author": "skadamat",
       "created": "2026-01-10 12:23:20",
       "created_at": 1768047800000
     },
     {
+      "id": 46538628,
+      "title": "ASCII-Driven Development",
+      "link": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+      "score": 27,
+      "author": "_hfqa",
+      "created": "2026-01-08 08:18:17",
+      "created_at": 1767860297000
+    },
+    {
+      "id": 46537741,
+      "title": "How your high school affects your chances of UC Admission",
+      "link": "https://sfeducation.substack.com/p/how-your-high-school-affects-your",
+      "score": 30,
+      "author": "mutator",
+      "created": "2026-01-08 06:04:19",
+      "created_at": 1767852259000
+    },
+    {
       "id": 46564762,
       "title": "New information extracted from Snowden PDFs through metadata version analysis",
       "link": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
-      "score": 105,
+      "score": 219,
       "author": "libroot",
       "created": "2026-01-10 11:23:59",
       "created_at": 1768044239000
     },
     {
+      "id": 46569075,
+      "title": "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
+      "link": "https://github.com/rustmailer/bichon",
+      "score": 14,
+      "author": "rendx",
+      "created": "2026-01-10 19:29:05",
+      "created_at": 1768073345000
+    },
+    {
+      "id": 46568662,
+      "title": "Rats caught on camera hunting flying bats",
+      "link": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
+      "score": 10,
+      "author": "akg130522",
+      "created": "2026-01-10 18:44:46",
+      "created_at": 1768070686000
+    },
+    {
+      "id": 46547024,
+      "title": "Side-by-side comparison of how AI models answer moral dilemmas",
+      "link": "https://civai.org/p/ai-values",
+      "score": 17,
+      "author": "jesenator",
+      "created": "2026-01-08 21:53:06",
+      "created_at": 1767909186000
+    },
+    {
       "id": 46565731,
       "title": "UK government exempting itself from cyber law inspires little confidence",
       "link": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
-      "score": 113,
+      "score": 238,
       "author": "DyslexicAtheist",
       "created": "2026-01-10 13:51:27",
       "created_at": 1768053087000
-    },
-    {
-      "id": 46564116,
-      "title": "Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text",
-      "link": "https://karl-voit.at/2017/09/23/orgmode-as-markup-only/",
-      "score": 89,
-      "author": "adityaathalye",
-      "created": "2026-01-10 09:15:30",
-      "created_at": 1768036530000
-    },
-    {
-      "id": 46565041,
-      "title": "Why Is Greenland Part of the Kingdom of Denmark? A Short History",
-      "link": "https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history",
-      "score": 27,
-      "author": "Anon84",
-      "created": "2026-01-10 12:07:28",
-      "created_at": 1768046848000
-    },
-    {
-      "id": 46560445,
-      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-      "link": "https://mathstodon.xyz/@tao/115855840223258103",
-      "score": 551,
-      "author": "cod1r",
-      "created": "2026-01-09 22:39:15",
-      "created_at": 1767998355000
-    },
-    {
-      "id": 46474065,
-      "title": "Reverse Engineering the Epson FilmScan 200 for Classic Mac",
-      "link": "https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/",
-      "score": 38,
-      "author": "j_leboulanger",
-      "created": "2026-01-03 08:26:52",
-      "created_at": 1767428812000
-    },
-    {
-      "id": 46524554,
-      "title": "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
-      "link": "https://github.com/avsm/httpz",
-      "score": 20,
-      "author": "noelwelsh",
-      "created": "2026-01-07 10:02:12",
-      "created_at": 1767780132000
-    },
-    {
-      "id": 46566465,
-      "title": "I replaced Windows with Linux and everything's going great",
-      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 20,
-      "author": "rorylawless",
-      "created": "2026-01-10 15:26:26",
-      "created_at": 1768058786000
     }
   ],
   "code": 200,
