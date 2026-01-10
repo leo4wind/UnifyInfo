@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-10T00:56:49.556Z"
+    "lastUpdate": "2026-01-10T04:26:10.310Z"
   },
   "data": [
     {
       "id": 46560445,
-      "title": "\"Erdos problem #728 was solved more or less autonomously by AI\"",
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
       "link": "https://mathstodon.xyz/@tao/115855840223258103",
-      "score": 165,
+      "score": 308,
       "author": "cod1r",
       "created": "2026-01-09 22:39:15",
       "created_at": 1767998355000
     },
     {
+      "id": 46555807,
+      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
+      "link": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+      "score": 335,
+      "author": "fuck_flock",
+      "created": "2026-01-09 16:49:59",
+      "created_at": 1767977399000
+    },
+    {
+      "id": 46562301,
+      "title": "Maine's black market for baby eels",
+      "link": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
+      "score": 11,
+      "author": "noleary",
+      "created": "2026-01-10 02:56:50",
+      "created_at": 1768013810000
+    },
+    {
       "id": 46557489,
       "title": "JavaScript Demos in 140 Characters",
       "link": "https://beta.dwitter.net",
-      "score": 163,
+      "score": 205,
       "author": "themanmaran",
       "created": "2026-01-09 18:48:30",
       "created_at": 1767984510000
     },
     {
       "id": 46558148,
-      "title": "RTX 5090 and Raspberry Pi: Can It Game?",
+      "title": "RTX 5090 and Raspberry Pi: Can it game?",
       "link": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
-      "score": 122,
+      "score": 177,
       "author": "scottjg",
       "created": "2026-01-09 19:33:47",
       "created_at": 1767987227000
     },
     {
-      "id": 46561302,
-      "title": "Caltrain shows why every region should be moving toward regional rail",
-      "link": "https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/",
-      "score": 19,
-      "author": "gok",
-      "created": "2026-01-10 00:25:29",
-      "created_at": 1768004729000
-    },
-    {
-      "id": 46555807,
-      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
-      "link": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
-      "score": 158,
-      "author": "fuck_flock",
-      "created": "2026-01-09 16:49:59",
-      "created_at": 1767977399000
-    },
-    {
-      "id": 46547962,
-      "title": "Scientists discover oldest poison, on 60k-year-old arrows",
-      "link": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html",
-      "score": 85,
-      "author": "noleary",
-      "created": "2026-01-08 23:24:30",
-      "created_at": 1767914670000
-    },
-    {
-      "id": 46489514,
-      "title": "How will the miracle happen today?",
-      "link": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
-      "score": 327,
-      "author": "zdw",
-      "created": "2026-01-04 16:32:13",
-      "created_at": 1767544333000
-    },
-    {
-      "id": 46561286,
-      "title": "See it with your lying ears",
-      "link": "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears",
-      "score": 10,
-      "author": "fratellobigio",
-      "created": "2026-01-10 00:23:05",
-      "created_at": 1768004585000
-    },
-    {
-      "id": 46492019,
-      "title": "The (likely?) cheapest home-made Michelson interferometer",
-      "link": "https://guille.site/posts/3d-printed-michelson/",
-      "score": 76,
-      "author": "LolWolf",
-      "created": "2026-01-04 20:49:19",
-      "created_at": 1767559759000
+      "id": 46511555,
+      "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
+      "link": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
+      "score": 26,
+      "author": "pseudolus",
+      "created": "2026-01-06 12:44:52",
+      "created_at": 1767703492000
     },
     {
       "id": 46556695,
       "title": "How Markdown took over the world",
       "link": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
-      "score": 120,
+      "score": 180,
       "author": "zdw",
       "created": "2026-01-09 17:52:20",
       "created_at": 1767981140000
+    },
+    {
+      "id": 46557879,
+      "title": "Show HN: Rocket Launch and Orbit Simulator",
+      "link": "https://www.donutthejedi.com/",
+      "score": 108,
+      "author": "donutthejedi",
+      "created": "2026-01-09 19:15:21",
+      "created_at": 1767986121000
+    },
+    {
+      "id": 46545636,
+      "title": "Robotopia: A 3D, first-person, talking simulator",
+      "link": "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first",
+      "score": 30,
+      "author": "psawaya",
+      "created": "2026-01-08 19:55:27",
+      "created_at": 1767902127000
+    },
+    {
+      "id": 46489514,
+      "title": "How will the miracle happen today?",
+      "link": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
+      "score": 387,
+      "author": "zdw",
+      "created": "2026-01-04 16:32:13",
+      "created_at": 1767544333000
     }
   ],
   "code": 200,
