@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-11T12:22:02.523Z"
+    "lastUpdate": "2026-01-11T16:13:24.416Z"
   },
   "data": [
+    {
+      "id": 46574769,
+      "title": "Gentoo Linux 2025 Review",
+      "link": "https://www.gentoo.org/news/2026/01/05/new-year.html",
+      "score": 142,
+      "author": "akhuettel",
+      "created": "2026-01-11 11:38:52",
+      "created_at": 1768131532000
+    },
+    {
+      "id": 46575804,
+      "title": "Happy 50th Birthday KIM-1",
+      "link": "https://github.com/netzherpes/KIM1-Demo",
+      "score": 23,
+      "author": "JKCalhoun",
+      "created": "2026-01-11 13:55:40",
+      "created_at": 1768139740000
+    },
+    {
+      "id": 46516807,
+      "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
+      "link": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
+      "score": 121,
+      "author": "SethMLarson",
+      "created": "2026-01-06 18:57:03",
+      "created_at": 1767725823000
+    },
+    {
+      "id": 46576337,
+      "title": "Instagram data breach reportedly exposed the personal info of 17.5M users",
+      "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+      "score": 53,
+      "author": "IvanAchlaqullah",
+      "created": "2026-01-11 15:07:12",
+      "created_at": 1768144032000
+    },
     {
       "id": 46551602,
       "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
       "link": "https://0xghost.dev/blog/std-move-deep-dive/",
-      "score": 98,
+      "score": 156,
       "author": "signa11",
       "created": "2026-01-09 09:01:33",
       "created_at": 1767949293000
@@ -19,82 +55,46 @@
       "id": 46574707,
       "title": "I dumped Windows 11 for Linux, and you should too",
       "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 48,
+      "score": 264,
       "author": "smurda",
       "created": "2026-01-11 11:31:22",
       "created_at": 1768131082000
     },
     {
+      "id": 46574475,
+      "title": "Think of Pavlov",
+      "link": "https://boz.com/articles/think-pavlov",
+      "score": 61,
+      "author": "kiyanwang",
+      "created": "2026-01-11 11:03:06",
+      "created_at": 1768129386000
+    },
+    {
+      "id": 46574961,
+      "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
+      "link": "https://github.com/amcchord/M5Tab-Macintosh",
+      "score": 37,
+      "author": "rcarmo",
+      "created": "2026-01-11 12:02:52",
+      "created_at": 1768132972000
+    },
+    {
       "id": 46573001,
       "title": "The Concise TypeScript Book",
       "link": "https://github.com/gibbok/typescript-book",
-      "score": 108,
+      "score": 159,
       "author": "javatuts",
       "created": "2026-01-11 05:42:03",
       "created_at": 1768110123000
     },
     {
-      "id": 46573688,
-      "title": "More than one hundred years of Film Sizes",
-      "link": "https://wichm.home.xs4all.nl/filmsize.html",
-      "score": 38,
-      "author": "exvi",
-      "created": "2026-01-11 08:22:44",
-      "created_at": 1768119764000
-    },
-    {
-      "id": 46525271,
-      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-      "link": "https://github.com/vojtapolasek/vojtux",
-      "score": 56,
-      "author": "TheWiggles",
-      "created": "2026-01-07 11:43:26",
-      "created_at": 1767786206000
-    },
-    {
-      "id": 46571980,
-      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-      "link": "https://github.com/OlaProeis/Ferrite",
-      "score": 179,
-      "author": "OlaProis",
-      "created": "2026-01-11 01:50:01",
-      "created_at": 1768096201000
-    },
-    {
-      "id": 46568794,
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 477,
-      "author": "thorel",
-      "created": "2026-01-10 18:58:37",
-      "created_at": 1768071517000
-    },
-    {
-      "id": 46567400,
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "link": "https://trails.pieterma.es/",
-      "score": 379,
-      "author": "pmaze",
-      "created": "2026-01-10 16:56:55",
-      "created_at": 1768064215000
-    },
-    {
-      "id": 46507891,
-      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
-      "score": 46,
-      "author": "rafaepta",
-      "created": "2026-01-06 02:07:18",
-      "created_at": 1767665238000
-    },
-    {
-      "id": 46574475,
-      "title": "Think of Pavlov",
-      "link": "https://boz.com/articles/think-pavlov",
-      "score": 4,
-      "author": "kiyanwang",
-      "created": "2026-01-11 11:03:06",
-      "created_at": 1768129386000
+      "id": 46572679,
+      "title": "My Home Fibre Network Disintegrated",
+      "link": "https://alienchow.dev/post/fibre_disintegration/",
+      "score": 192,
+      "author": "alienchow",
+      "created": "2026-01-11 04:19:04",
+      "created_at": 1768105144000
     }
   ],
   "code": 200,
