@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-10T20:12:21.281Z"
+    "lastUpdate": "2026-01-11T01:04:09.097Z"
   },
   "data": [
+    {
+      "id": 46571095,
+      "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
+      "link": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
+      "score": 104,
+      "author": "hhs",
+      "created": "2026-01-10 23:36:16",
+      "created_at": 1768088176000
+    },
+    {
+      "id": 46571149,
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "link": "",
+      "score": 22,
+      "author": "jamesponddotco",
+      "created": "2026-01-10 23:45:25",
+      "created_at": 1768088725000
+    },
+    {
+      "id": 46567400,
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "link": "https://trails.pieterma.es/",
+      "score": 194,
+      "author": "pmaze",
+      "created": "2026-01-10 16:56:55",
+      "created_at": 1768064215000
+    },
+    {
+      "id": 46568794,
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "score": 203,
+      "author": "thorel",
+      "created": "2026-01-10 18:58:37",
+      "created_at": 1768071517000
+    },
     {
       "id": 46566812,
       "title": "Open Chaos: A self-evolving open-source project",
       "link": "https://www.openchaos.dev/",
-      "score": 165,
+      "score": 299,
       "author": "stefanvdw1",
       "created": "2026-01-10 16:03:55",
       "created_at": 1768061035000
     },
     {
-      "id": 46567218,
-      "title": "Drones that recharge directly on transmission lines",
-      "link": "https://www.ycombinator.com/companies/voltair",
-      "score": 74,
-      "author": "alphabetatango",
-      "created": "2026-01-10 16:43:19",
-      "created_at": 1768063399000
+      "id": 46569312,
+      "title": "Overdose deaths are falling in America because of a 'supply shock': study",
+      "link": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+      "score": 59,
+      "author": "marojejian",
+      "created": "2026-01-10 19:54:49",
+      "created_at": 1768074889000
+    },
+    {
+      "id": 46569061,
+      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "link": "https://llmholdem.com/",
+      "score": 51,
+      "author": "projectyang",
+      "created": "2026-01-10 19:27:39",
+      "created_at": 1768073259000
     },
     {
       "id": 46565132,
-      "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+      "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
       "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 288,
+      "score": 363,
       "author": "skadamat",
       "created": "2026-01-10 12:23:20",
       "created_at": 1768047800000
     },
     {
-      "id": 46538628,
-      "title": "ASCII-Driven Development",
-      "link": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
-      "score": 27,
-      "author": "_hfqa",
-      "created": "2026-01-08 08:18:17",
-      "created_at": 1767860297000
+      "id": 46567392,
+      "title": "AI is a business model stress test",
+      "link": "https://dri.es/ai-is-a-business-model-stress-test",
+      "score": 147,
+      "author": "amarsahinovic",
+      "created": "2026-01-10 16:56:34",
+      "created_at": 1768064194000
     },
     {
-      "id": 46537741,
-      "title": "How your high school affects your chances of UC Admission",
-      "link": "https://sfeducation.substack.com/p/how-your-high-school-affects-your",
-      "score": 30,
-      "author": "mutator",
-      "created": "2026-01-08 06:04:19",
-      "created_at": 1767852259000
-    },
-    {
-      "id": 46564762,
-      "title": "New information extracted from Snowden PDFs through metadata version analysis",
-      "link": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
-      "score": 219,
-      "author": "libroot",
-      "created": "2026-01-10 11:23:59",
-      "created_at": 1768044239000
-    },
-    {
-      "id": 46569075,
-      "title": "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
-      "link": "https://github.com/rustmailer/bichon",
-      "score": 14,
-      "author": "rendx",
-      "created": "2026-01-10 19:29:05",
-      "created_at": 1768073345000
-    },
-    {
-      "id": 46568662,
-      "title": "Rats caught on camera hunting flying bats",
-      "link": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
-      "score": 10,
-      "author": "akg130522",
-      "created": "2026-01-10 18:44:46",
-      "created_at": 1768070686000
-    },
-    {
-      "id": 46547024,
-      "title": "Side-by-side comparison of how AI models answer moral dilemmas",
-      "link": "https://civai.org/p/ai-values",
-      "score": 17,
-      "author": "jesenator",
-      "created": "2026-01-08 21:53:06",
-      "created_at": 1767909186000
-    },
-    {
-      "id": 46565731,
-      "title": "UK government exempting itself from cyber law inspires little confidence",
-      "link": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
-      "score": 238,
-      "author": "DyslexicAtheist",
-      "created": "2026-01-10 13:51:27",
-      "created_at": 1768053087000
+      "id": 46557825,
+      "title": "Code and Let Live",
+      "link": "https://fly.io/blog/code-and-let-live/",
+      "score": 201,
+      "author": "usrme",
+      "created": "2026-01-09 19:11:59",
+      "created_at": 1767985919000
     }
   ],
   "code": 200,
