@@ -3,44 +3,53 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-11T08:15:34.627Z"
+    "lastUpdate": "2026-01-11T12:22:02.418Z"
   },
   "data": [
     {
       "id": 46564696,
       "title": "Allow me to introduce, the Citroen C15",
       "link": "https://eupolicy.social/@jmaris/115860595238097654",
-      "score": 718,
+      "score": 740,
       "author": "colinprince",
       "created": "2026-01-10 11:12:15",
       "created_at": 1768043535000
     },
     {
-      "id": 46555760,
-      "title": "Cloudflare CEO on the Italy fines",
-      "link": "https://twitter.com/eastdakota/status/2009654937303896492",
-      "score": 639,
-      "author": "sidcool",
-      "created": "2026-01-09 16:46:48",
-      "created_at": 1767977208000
-    },
-    {
       "id": 46566465,
       "title": "I replaced Windows with Linux and everything's going great",
       "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 632,
+      "score": 666,
       "author": "rorylawless",
       "created": "2026-01-10 15:26:26",
       "created_at": 1768058786000
     },
     {
+      "id": 46555760,
+      "title": "Cloudflare CEO on the Italy fines",
+      "link": "https://twitter.com/eastdakota/status/2009654937303896492",
+      "score": 640,
+      "author": "sidcool",
+      "created": "2026-01-09 16:46:48",
+      "created_at": 1767977208000
+    },
+    {
       "id": 46560445,
       "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
       "link": "https://mathstodon.xyz/@tao/115855840223258103",
-      "score": 599,
+      "score": 605,
       "author": "cod1r",
       "created": "2026-01-09 22:39:15",
       "created_at": 1767998355000
+    },
+    {
+      "id": 46556210,
+      "title": "Show HN: I made a memory game to teach you to play piano by ear",
+      "link": "https://lend-me-your-ears.specr.net",
+      "score": 535,
+      "author": "vunderba",
+      "created": "2026-01-09 17:17:28",
+      "created_at": 1767979048000
     },
     {
       "id": 46555963,
@@ -52,22 +61,22 @@
       "created_at": 1767978011000
     },
     {
-      "id": 46556210,
-      "title": "Show HN: I made a memory game to teach you to play piano by ear",
-      "link": "https://lend-me-your-ears.specr.net",
-      "score": 530,
-      "author": "vunderba",
-      "created": "2026-01-09 17:17:28",
-      "created_at": 1767979048000
-    },
-    {
       "id": 46555807,
       "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
       "link": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
-      "score": 499,
+      "score": 503,
       "author": "fuck_flock",
       "created": "2026-01-09 16:49:59",
       "created_at": 1767977399000
+    },
+    {
+      "id": 46568794,
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "score": 477,
+      "author": "thorel",
+      "created": "2026-01-10 18:58:37",
+      "created_at": 1768071517000
     },
     {
       "id": 46553343,
@@ -82,19 +91,10 @@
       "id": 46565132,
       "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
       "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 420,
+      "score": 426,
       "author": "skadamat",
       "created": "2026-01-10 12:23:20",
       "created_at": 1768047800000
-    },
-    {
-      "id": 46556695,
-      "title": "How Markdown took over the world",
-      "link": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
-      "score": 410,
-      "author": "zdw",
-      "created": "2026-01-09 17:52:20",
-      "created_at": 1767981140000
     }
   ],
   "code": 200,
