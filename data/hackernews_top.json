@@ -3,68 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-11T01:04:09.097Z"
+    "lastUpdate": "2026-01-11T04:40:08.118Z"
   },
   "data": [
     {
-      "id": 46571095,
-      "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
-      "link": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
-      "score": 104,
-      "author": "hhs",
-      "created": "2026-01-10 23:36:16",
-      "created_at": 1768088176000
-    },
-    {
-      "id": 46571149,
-      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-      "link": "",
-      "score": 22,
-      "author": "jamesponddotco",
-      "created": "2026-01-10 23:45:25",
-      "created_at": 1768088725000
-    },
-    {
-      "id": 46567400,
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "link": "https://trails.pieterma.es/",
-      "score": 194,
-      "author": "pmaze",
-      "created": "2026-01-10 16:56:55",
-      "created_at": 1768064215000
+      "id": 46571980,
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "link": "https://github.com/OlaProeis/Ferrite",
+      "score": 71,
+      "author": "OlaProis",
+      "created": "2026-01-11 01:50:01",
+      "created_at": 1768096201000
     },
     {
       "id": 46568794,
       "title": "Finding and fixing Ghostty's largest memory leak",
       "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 203,
+      "score": 320,
       "author": "thorel",
       "created": "2026-01-10 18:58:37",
       "created_at": 1768071517000
     },
     {
+      "id": 46567400,
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "link": "https://trails.pieterma.es/",
+      "score": 258,
+      "author": "pmaze",
+      "created": "2026-01-10 16:56:55",
+      "created_at": 1768064215000
+    },
+    {
+      "id": 46572304,
+      "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+      "link": "https://github.com/unhaya/vam-seek",
+      "score": 9,
+      "author": "haasiy",
+      "created": "2026-01-11 02:57:34",
+      "created_at": 1768100254000
+    },
+    {
+      "id": 46571149,
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "link": "",
+      "score": 79,
+      "author": "jamesponddotco",
+      "created": "2026-01-10 23:45:25",
+      "created_at": 1768088725000
+    },
+    {
       "id": 46566812,
       "title": "Open Chaos: A self-evolving open-source project",
       "link": "https://www.openchaos.dev/",
-      "score": 299,
+      "score": 339,
       "author": "stefanvdw1",
       "created": "2026-01-10 16:03:55",
       "created_at": 1768061035000
     },
     {
-      "id": 46569312,
-      "title": "Overdose deaths are falling in America because of a 'supply shock': study",
-      "link": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
-      "score": 59,
-      "author": "marojejian",
-      "created": "2026-01-10 19:54:49",
-      "created_at": 1768074889000
+      "id": 46525236,
+      "title": "CPU Counters on Apple Silicon: article + tool",
+      "link": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "score": 18,
+      "author": "verte_zerg",
+      "created": "2026-01-07 11:39:33",
+      "created_at": 1767785973000
+    },
+    {
+      "id": 46572060,
+      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "link": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+      "score": 15,
+      "author": "susam",
+      "created": "2026-01-11 02:08:14",
+      "created_at": 1768097294000
     },
     {
       "id": 46569061,
       "title": "Show HN: Play poker with LLMs, or watch them play against each other",
       "link": "https://llmholdem.com/",
-      "score": 51,
+      "score": 87,
       "author": "projectyang",
       "created": "2026-01-10 19:27:39",
       "created_at": 1768073259000
@@ -73,28 +91,10 @@
       "id": 46565132,
       "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
       "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 363,
+      "score": 395,
       "author": "skadamat",
       "created": "2026-01-10 12:23:20",
       "created_at": 1768047800000
-    },
-    {
-      "id": 46567392,
-      "title": "AI is a business model stress test",
-      "link": "https://dri.es/ai-is-a-business-model-stress-test",
-      "score": 147,
-      "author": "amarsahinovic",
-      "created": "2026-01-10 16:56:34",
-      "created_at": 1768064194000
-    },
-    {
-      "id": 46557825,
-      "title": "Code and Let Live",
-      "link": "https://fly.io/blog/code-and-let-live/",
-      "score": 201,
-      "author": "usrme",
-      "created": "2026-01-09 19:11:59",
-      "created_at": 1767985919000
     }
   ],
   "code": 200,
