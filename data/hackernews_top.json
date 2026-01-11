@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-11T16:13:24.416Z"
+    "lastUpdate": "2026-01-11T20:13:10.463Z"
   },
   "data": [
+    {
+      "id": 46578921,
+      "title": "iCloud Photos Downloader",
+      "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "score": 47,
+      "author": "reconnecting",
+      "created": "2026-01-11 19:23:58",
+      "created_at": 1768159438000
+    },
+    {
+      "id": 46578497,
+      "title": "Meta announces nuclear energy projects",
+      "link": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "score": 137,
+      "author": "ChrisArchitect",
+      "created": "2026-01-11 18:49:32",
+      "created_at": 1768157372000
+    },
     {
       "id": 46574769,
       "title": "Gentoo Linux 2025 Review",
       "link": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-      "score": 142,
+      "score": 246,
       "author": "akhuettel",
       "created": "2026-01-11 11:38:52",
       "created_at": 1768131532000
     },
     {
-      "id": 46575804,
-      "title": "Happy 50th Birthday KIM-1",
-      "link": "https://github.com/netzherpes/KIM1-Demo",
-      "score": 23,
-      "author": "JKCalhoun",
-      "created": "2026-01-11 13:55:40",
-      "created_at": 1768139740000
+      "id": 46578957,
+      "title": "\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument",
+      "link": "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/",
+      "score": 12,
+      "author": "Kaibeezy",
+      "created": "2026-01-11 19:26:13",
+      "created_at": 1768159573000
     },
     {
-      "id": 46516807,
-      "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
-      "link": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
-      "score": 121,
-      "author": "SethMLarson",
-      "created": "2026-01-06 18:57:03",
-      "created_at": 1767725823000
+      "id": 46577242,
+      "title": "Ask HN: What are you working on? (January 2026)",
+      "link": "",
+      "score": 72,
+      "author": "david927",
+      "created": "2026-01-11 16:43:06",
+      "created_at": 1768149786000
     },
     {
-      "id": 46576337,
-      "title": "Instagram data breach reportedly exposed the personal info of 17.5M users",
-      "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
-      "score": 53,
-      "author": "IvanAchlaqullah",
-      "created": "2026-01-11 15:07:12",
-      "created_at": 1768144032000
+      "id": 46531622,
+      "title": "A set of Idiomatic prod-grade katas for experienced devs transitioning to Go",
+      "link": "https://github.com/MedUnes/go-kata",
+      "score": 41,
+      "author": "medunes",
+      "created": "2026-01-07 19:53:40",
+      "created_at": 1767815620000
     },
     {
-      "id": 46551602,
-      "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
-      "link": "https://0xghost.dev/blog/std-move-deep-dive/",
-      "score": 156,
-      "author": "signa11",
-      "created": "2026-01-09 09:01:33",
-      "created_at": 1767949293000
+      "id": 46539478,
+      "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+      "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+      "score": 25,
+      "author": "imagiro",
+      "created": "2026-01-08 10:34:05",
+      "created_at": 1767868445000
     },
     {
-      "id": 46574707,
-      "title": "I dumped Windows 11 for Linux, and you should too",
-      "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 264,
-      "author": "smurda",
-      "created": "2026-01-11 11:31:22",
-      "created_at": 1768131082000
+      "id": 46577464,
+      "title": "Poison Fountain",
+      "link": "https://rnsaffn.com/poison3/",
+      "score": 131,
+      "author": "atomic128",
+      "created": "2026-01-11 17:05:52",
+      "created_at": 1768151152000
     },
     {
-      "id": 46574475,
-      "title": "Think of Pavlov",
-      "link": "https://boz.com/articles/think-pavlov",
-      "score": 61,
-      "author": "kiyanwang",
-      "created": "2026-01-11 11:03:06",
-      "created_at": 1768129386000
+      "id": 46578701,
+      "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
+      "link": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
+      "score": 56,
+      "author": "behnamoh",
+      "created": "2026-01-11 19:07:08",
+      "created_at": 1768158428000
     },
     {
-      "id": 46574961,
-      "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
-      "link": "https://github.com/amcchord/M5Tab-Macintosh",
-      "score": 37,
-      "author": "rcarmo",
-      "created": "2026-01-11 12:02:52",
-      "created_at": 1768132972000
-    },
-    {
-      "id": 46573001,
-      "title": "The Concise TypeScript Book",
-      "link": "https://github.com/gibbok/typescript-book",
-      "score": 159,
-      "author": "javatuts",
-      "created": "2026-01-11 05:42:03",
-      "created_at": 1768110123000
-    },
-    {
-      "id": 46572679,
-      "title": "My Home Fibre Network Disintegrated",
-      "link": "https://alienchow.dev/post/fibre_disintegration/",
-      "score": 192,
-      "author": "alienchow",
-      "created": "2026-01-11 04:19:04",
-      "created_at": 1768105144000
+      "id": 46579374,
+      "title": "Sampling at negative temperature",
+      "link": "https://cavendishlabs.org/blog/negative-temperature/",
+      "score": 4,
+      "author": "ag8",
+      "created": "2026-01-11 20:01:14",
+      "created_at": 1768161674000
     }
   ],
   "code": 200,
