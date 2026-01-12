@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-12T04:41:49.541Z"
+    "lastUpdate": "2026-01-12T08:19:46.696Z"
   },
   "data": [
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 1100,
+      "score": 1508,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
@@ -19,16 +19,43 @@
       "id": 46580326,
       "title": "CLI agents make self-hosting on a home server easier and fun",
       "link": "https://fulghum.io/self-hosting",
-      "score": 369,
+      "score": 476,
       "author": "websku",
       "created": "2026-01-11 21:29:57",
       "created_at": 1768166997000
     },
     {
+      "id": 46526896,
+      "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
+      "link": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
+      "score": 43,
+      "author": "bookofjoe",
+      "created": "2026-01-07 14:43:16",
+      "created_at": 1767796996000
+    },
+    {
+      "id": 46583464,
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "link": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "score": 85,
+      "author": "koolhead17",
+      "created": "2026-01-12 02:58:01",
+      "created_at": 1768186681000
+    },
+    {
+      "id": 46553137,
+      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "link": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+      "score": 55,
+      "author": "fried-gluttony",
+      "created": "2026-01-09 12:23:52",
+      "created_at": 1767961432000
+    },
+    {
       "id": 46580864,
       "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
       "link": "https://iczelia.net/posts/snake-polyglot/",
-      "score": 121,
+      "score": 169,
       "author": "snoofydude",
       "created": "2026-01-11 22:14:35",
       "created_at": 1768169675000
@@ -37,7 +64,7 @@
       "id": 46578921,
       "title": "iCloud Photos Downloader",
       "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 359,
+      "score": 416,
       "author": "reconnecting",
       "created": "2026-01-11 19:23:58",
       "created_at": 1768159438000
@@ -46,55 +73,28 @@
       "id": 46574276,
       "title": "Don't fall into the anti-AI hype",
       "link": "https://antirez.com/news/158",
-      "score": 721,
+      "score": 913,
       "author": "todsacerdoti",
       "created": "2026-01-11 10:26:18",
       "created_at": 1768127178000
     },
     {
-      "id": 46583410,
-      "title": "Code is cheap now, but software isn't",
-      "link": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
-      "score": 67,
-      "author": "fs_software",
-      "created": "2026-01-12 02:51:04",
-      "created_at": 1768186264000
-    },
-    {
-      "id": 46583581,
-      "title": "Show HN: An LLM-optimized programming language",
-      "link": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
-      "score": 8,
-      "author": "ImJasonH",
-      "created": "2026-01-12 03:11:49",
-      "created_at": 1768187509000
+      "id": 46584173,
+      "title": "Xfce is great",
+      "link": "https://rubenerd.com/xfce-is-great/",
+      "score": 154,
+      "author": "mikece",
+      "created": "2026-01-12 04:39:26",
+      "created_at": 1768192766000
     },
     {
       "id": 46539478,
       "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
       "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-      "score": 227,
+      "score": 283,
       "author": "imagiro",
       "created": "2026-01-08 10:34:05",
       "created_at": 1767868445000
-    },
-    {
-      "id": 46582033,
-      "title": "Gadget Exposed a Spy Camera [video]",
-      "link": "https://www.youtube.com/watch?v=1reman2waLs",
-      "score": 16,
-      "author": "rib3ye",
-      "created": "2026-01-12 00:15:36",
-      "created_at": 1768176936000
-    },
-    {
-      "id": 46579374,
-      "title": "Sampling at negative temperature",
-      "link": "https://cavendishlabs.org/blog/negative-temperature/",
-      "score": 127,
-      "author": "ag8",
-      "created": "2026-01-11 20:01:14",
-      "created_at": 1768161674000
     }
   ],
   "code": 200,

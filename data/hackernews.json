@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-12T04:41:49.464Z"
+    "lastUpdate": "2026-01-12T08:19:46.551Z"
   },
   "data": [
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 1100,
+      "score": 1508,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
     },
     {
-      "id": 46564696,
-      "title": "Allow me to introduce, the Citroen C15",
-      "link": "https://eupolicy.social/@jmaris/115860595238097654",
-      "score": 770,
-      "author": "colinprince",
-      "created": "2026-01-10 11:12:15",
-      "created_at": 1768043535000
-    },
-    {
-      "id": 46574707,
-      "title": "I dumped Windows 11 for Linux, and you should too",
-      "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 757,
-      "author": "smurda",
-      "created": "2026-01-11 11:31:22",
-      "created_at": 1768131082000
-    },
-    {
-      "id": 46566465,
-      "title": "I replaced Windows with Linux and everything's going great",
-      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 734,
-      "author": "rorylawless",
-      "created": "2026-01-10 15:26:26",
-      "created_at": 1768058786000
-    },
-    {
       "id": 46574276,
       "title": "Don't fall into the anti-AI hype",
       "link": "https://antirez.com/news/158",
-      "score": 721,
+      "score": 913,
       "author": "todsacerdoti",
       "created": "2026-01-11 10:26:18",
       "created_at": 1768127178000
     },
     {
+      "id": 46574707,
+      "title": "I dumped Windows 11 for Linux, and you should too",
+      "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+      "score": 791,
+      "author": "smurda",
+      "created": "2026-01-11 11:31:22",
+      "created_at": 1768131082000
+    },
+    {
+      "id": 46564696,
+      "title": "Allow me to introduce, the Citroen C15",
+      "link": "https://eupolicy.social/@jmaris/115860595238097654",
+      "score": 774,
+      "author": "colinprince",
+      "created": "2026-01-10 11:12:15",
+      "created_at": 1768043535000
+    },
+    {
+      "id": 46566465,
+      "title": "I replaced Windows with Linux and everything's going great",
+      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+      "score": 736,
+      "author": "rorylawless",
+      "created": "2026-01-10 15:26:26",
+      "created_at": 1768058786000
+    },
+    {
       "id": 46568794,
       "title": "Finding and fixing Ghostty's largest memory leak",
       "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 605,
+      "score": 609,
       "author": "thorel",
       "created": "2026-01-10 18:58:37",
       "created_at": 1768071517000
     },
     {
-      "id": 46567400,
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "link": "https://trails.pieterma.es/",
-      "score": 471,
-      "author": "pmaze",
-      "created": "2026-01-10 16:56:55",
-      "created_at": 1768064215000
-    },
-    {
-      "id": 46565132,
-      "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
-      "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 451,
-      "author": "skadamat",
-      "created": "2026-01-10 12:23:20",
-      "created_at": 1768047800000
-    },
-    {
       "id": 46582420,
       "title": "Statement from Jerome Powell",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
-      "score": 435,
+      "score": 571,
       "author": "0xedb",
       "created": "2026-01-12 01:02:48",
       "created_at": 1768179768000
     },
     {
-      "id": 46566812,
-      "title": "Open Chaos: A self-evolving open-source project",
-      "link": "https://www.openchaos.dev/",
-      "score": 410,
-      "author": "stefanvdw1",
-      "created": "2026-01-10 16:03:55",
-      "created_at": 1768061035000
+      "id": 46567400,
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "link": "https://trails.pieterma.es/",
+      "score": 477,
+      "author": "pmaze",
+      "created": "2026-01-10 16:56:55",
+      "created_at": 1768064215000
+    },
+    {
+      "id": 46580326,
+      "title": "CLI agents make self-hosting on a home server easier and fun",
+      "link": "https://fulghum.io/self-hosting",
+      "score": 476,
+      "author": "websku",
+      "created": "2026-01-11 21:29:57",
+      "created_at": 1768166997000
+    },
+    {
+      "id": 46565132,
+      "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
+      "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+      "score": 453,
+      "author": "skadamat",
+      "created": "2026-01-10 12:23:20",
+      "created_at": 1768047800000
     }
   ],
   "code": 200,
