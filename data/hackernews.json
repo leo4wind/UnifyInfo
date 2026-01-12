@@ -3,59 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-11T20:13:10.376Z"
+    "lastUpdate": "2026-01-12T01:01:36.600Z"
   },
   "data": [
     {
       "id": 46564696,
       "title": "Allow me to introduce, the Citroen C15",
       "link": "https://eupolicy.social/@jmaris/115860595238097654",
-      "score": 760,
+      "score": 768,
       "author": "colinprince",
       "created": "2026-01-10 11:12:15",
       "created_at": 1768043535000
     },
     {
+      "id": 46579864,
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "score": 728,
+      "author": "happosai",
+      "created": "2026-01-11 20:47:55",
+      "created_at": 1768164475000
+    },
+    {
       "id": 46566465,
       "title": "I replaced Windows with Linux and everything's going great",
       "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 719,
+      "score": 728,
       "author": "rorylawless",
       "created": "2026-01-10 15:26:26",
       "created_at": 1768058786000
     },
     {
-      "id": 46560445,
-      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-      "link": "https://mathstodon.xyz/@tao/115855840223258103",
-      "score": 608,
-      "author": "cod1r",
-      "created": "2026-01-09 22:39:15",
-      "created_at": 1767998355000
-    },
-    {
-      "id": 46568794,
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 587,
-      "author": "thorel",
-      "created": "2026-01-10 18:58:37",
-      "created_at": 1768071517000
-    },
-    {
       "id": 46574707,
       "title": "I dumped Windows 11 for Linux, and you should too",
       "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 574,
+      "score": 722,
       "author": "smurda",
       "created": "2026-01-11 11:31:22",
       "created_at": 1768131082000
     },
     {
+      "id": 46568794,
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "score": 600,
+      "author": "thorel",
+      "created": "2026-01-10 18:58:37",
+      "created_at": 1768071517000
+    },
+    {
+      "id": 46574276,
+      "title": "Don't fall into the anti-AI hype",
+      "link": "https://antirez.com/news/158",
+      "score": 551,
+      "author": "todsacerdoti",
+      "created": "2026-01-11 10:26:18",
+      "created_at": 1768127178000
+    },
+    {
       "id": 46567400,
       "title": "Show HN: I used Claude Code to discover connections between 100 books",
       "link": "https://trails.pieterma.es/",
-      "score": 461,
+      "score": 471,
       "author": "pmaze",
       "created": "2026-01-10 16:56:55",
       "created_at": 1768064215000
@@ -64,7 +73,7 @@
       "id": 46565132,
       "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
       "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 438,
+      "score": 447,
       "author": "skadamat",
       "created": "2026-01-10 12:23:20",
       "created_at": 1768047800000
@@ -73,25 +82,16 @@
       "id": 46566812,
       "title": "Open Chaos: A self-evolving open-source project",
       "link": "https://www.openchaos.dev/",
-      "score": 405,
+      "score": 410,
       "author": "stefanvdw1",
       "created": "2026-01-10 16:03:55",
       "created_at": 1768061035000
     },
     {
-      "id": 46574276,
-      "title": "Don't fall into the anti-AI hype",
-      "link": "https://antirez.com/news/158",
-      "score": 372,
-      "author": "todsacerdoti",
-      "created": "2026-01-11 10:26:18",
-      "created_at": 1768127178000
-    },
-    {
       "id": 46567138,
       "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
       "link": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
-      "score": 323,
+      "score": 329,
       "author": "nabla9",
       "created": "2026-01-10 16:36:56",
       "created_at": 1768063016000

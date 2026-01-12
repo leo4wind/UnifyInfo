@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-11T20:13:10.463Z"
+    "lastUpdate": "2026-01-12T01:01:36.707Z"
   },
   "data": [
+    {
+      "id": 46579864,
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "score": 728,
+      "author": "happosai",
+      "created": "2026-01-11 20:47:55",
+      "created_at": 1768164475000
+    },
+    {
+      "id": 46580326,
+      "title": "CLI agents like Claude Code make self-hosting on a home server easier and fun",
+      "link": "https://fulghum.io/self-hosting",
+      "score": 229,
+      "author": "websku",
+      "created": "2026-01-11 21:29:57",
+      "created_at": 1768166997000
+    },
+    {
+      "id": 46580864,
+      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+      "link": "https://iczelia.net/posts/snake-polyglot/",
+      "score": 68,
+      "author": "snoofydude",
+      "created": "2026-01-11 22:14:35",
+      "created_at": 1768169675000
+    },
     {
       "id": 46578921,
       "title": "iCloud Photos Downloader",
       "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 47,
+      "score": 289,
       "author": "reconnecting",
       "created": "2026-01-11 19:23:58",
       "created_at": 1768159438000
     },
     {
-      "id": 46578497,
-      "title": "Meta announces nuclear energy projects",
-      "link": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
-      "score": 137,
-      "author": "ChrisArchitect",
-      "created": "2026-01-11 18:49:32",
-      "created_at": 1768157372000
+      "id": 46524390,
+      "title": "I Cannot SSH into My Server Anymore (and That's Fine)",
+      "link": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
+      "score": 64,
+      "author": "TheWiggles",
+      "created": "2026-01-07 09:37:12",
+      "created_at": 1767778632000
     },
     {
-      "id": 46574769,
-      "title": "Gentoo Linux 2025 Review",
-      "link": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-      "score": 246,
-      "author": "akhuettel",
-      "created": "2026-01-11 11:38:52",
-      "created_at": 1768131532000
-    },
-    {
-      "id": 46578957,
-      "title": "\"Scholars Will Call It Nonsense\" the Structure of Erich von Däniken's Argument",
-      "link": "https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/",
-      "score": 12,
-      "author": "Kaibeezy",
-      "created": "2026-01-11 19:26:13",
-      "created_at": 1768159573000
-    },
-    {
-      "id": 46577242,
-      "title": "Ask HN: What are you working on? (January 2026)",
-      "link": "",
-      "score": 72,
-      "author": "david927",
-      "created": "2026-01-11 16:43:06",
-      "created_at": 1768149786000
-    },
-    {
-      "id": 46531622,
-      "title": "A set of Idiomatic prod-grade katas for experienced devs transitioning to Go",
-      "link": "https://github.com/MedUnes/go-kata",
-      "score": 41,
-      "author": "medunes",
-      "created": "2026-01-07 19:53:40",
-      "created_at": 1767815620000
-    },
-    {
-      "id": 46539478,
-      "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
-      "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-      "score": 25,
-      "author": "imagiro",
-      "created": "2026-01-08 10:34:05",
-      "created_at": 1767868445000
-    },
-    {
-      "id": 46577464,
-      "title": "Poison Fountain",
-      "link": "https://rnsaffn.com/poison3/",
-      "score": 131,
-      "author": "atomic128",
-      "created": "2026-01-11 17:05:52",
-      "created_at": 1768151152000
-    },
-    {
-      "id": 46578701,
-      "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
-      "link": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
-      "score": 56,
-      "author": "behnamoh",
-      "created": "2026-01-11 19:07:08",
-      "created_at": 1768158428000
+      "id": 46580136,
+      "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
+      "link": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
+      "score": 58,
+      "author": "jakobem",
+      "created": "2026-01-11 21:12:45",
+      "created_at": 1768165965000
     },
     {
       "id": 46579374,
       "title": "Sampling at negative temperature",
       "link": "https://cavendishlabs.org/blog/negative-temperature/",
-      "score": 4,
+      "score": 107,
       "author": "ag8",
       "created": "2026-01-11 20:01:14",
       "created_at": 1768161674000
+    },
+    {
+      "id": 46539478,
+      "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+      "link": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+      "score": 161,
+      "author": "imagiro",
+      "created": "2026-01-08 10:34:05",
+      "created_at": 1767868445000
+    },
+    {
+      "id": 46580946,
+      "title": "I'd tell you a UDP joke…",
+      "link": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
+      "score": 75,
+      "author": "redmattred",
+      "created": "2026-01-11 22:20:17",
+      "created_at": 1768170017000
+    },
+    {
+      "id": 46574276,
+      "title": "Don't fall into the anti-AI hype",
+      "link": "https://antirez.com/news/158",
+      "score": 551,
+      "author": "todsacerdoti",
+      "created": "2026-01-11 10:26:18",
+      "created_at": 1768127178000
     }
   ],
   "code": 200,

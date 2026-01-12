@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-11T20:13:13.407Z"
+    "lastUpdate": "2026-01-12T01:01:39.463Z"
   },
   "data": [
+    {
+      "zqdm": "601112",
+      "zqjc": "振石股份",
+      "sgdm": "780112",
+      "fxsl": 261055000,
+      "swfxsl": 54821500,
+      "sgsx": 54500,
+      "dgsz": 545000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-19",
+      "zqgbrq": "2026-01-21",
+      "zqjkrq": "2026-01-21",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 33.44,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "清洁能源领域纤维增强材料研发、生产及销售"
+    },
     {
       "zqdm": "688785",
       "zqjc": "恒运昌",
@@ -99,5 +122,5 @@
       "zyyw": "汽车冲焊件以及相关模具的开发、加工、生产和销售"
     }
   ],
-  "total": 4
+  "total": 5
 }
