@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-12T16:17:33.204Z"
+    "lastUpdate": "2026-01-12T20:14:25.567Z"
   },
   "data": [
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 2270,
+      "score": 2466,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
@@ -19,7 +19,7 @@
       "id": 46574276,
       "title": "Don't fall into the anti-AI hype",
       "link": "https://antirez.com/news/158",
-      "score": 1124,
+      "score": 1166,
       "author": "todsacerdoti",
       "created": "2026-01-11 10:26:18",
       "created_at": 1768127178000
@@ -28,25 +28,16 @@
       "id": 46574707,
       "title": "I dumped Windows 11 for Linux, and you should too",
       "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 820,
+      "score": 827,
       "author": "smurda",
       "created": "2026-01-11 11:31:22",
       "created_at": 1768131082000
     },
     {
-      "id": 46566465,
-      "title": "I replaced Windows with Linux and everything's going great",
-      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 750,
-      "author": "rorylawless",
-      "created": "2026-01-10 15:26:26",
-      "created_at": 1768058786000
-    },
-    {
       "id": 46582420,
       "title": "Statement from Jerome Powell",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
-      "score": 691,
+      "score": 819,
       "author": "0xedb",
       "created": "2026-01-12 01:02:48",
       "created_at": 1768179768000
@@ -55,46 +46,55 @@
       "id": 46580326,
       "title": "CLI agents make self-hosting on a home server easier and fun",
       "link": "https://fulghum.io/self-hosting",
-      "score": 671,
+      "score": 717,
       "author": "websku",
       "created": "2026-01-11 21:29:57",
       "created_at": 1768166997000
     },
     {
-      "id": 46568794,
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 616,
-      "author": "thorel",
-      "created": "2026-01-10 18:58:37",
-      "created_at": 1768071517000
-    },
-    {
       "id": 46578921,
       "title": "iCloud Photos Downloader",
       "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 566,
+      "score": 614,
       "author": "reconnecting",
       "created": "2026-01-11 19:23:58",
       "created_at": 1768159438000
     },
     {
-      "id": 46567400,
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "link": "https://trails.pieterma.es/",
-      "score": 486,
-      "author": "pmaze",
-      "created": "2026-01-10 16:56:55",
-      "created_at": 1768064215000
+      "id": 46589675,
+      "title": "Apple picks Google's Gemini to power Siri",
+      "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+      "score": 403,
+      "author": "stygiansonic",
+      "created": "2026-01-12 15:22:21",
+      "created_at": 1768231341000
     },
     {
-      "id": 46566812,
-      "title": "Open Chaos: A self-evolving open-source project",
-      "link": "https://www.openchaos.dev/",
-      "score": 413,
-      "author": "stefanvdw1",
-      "created": "2026-01-10 16:03:55",
-      "created_at": 1768061035000
+      "id": 46587934,
+      "title": "Floppy disks turn out to be the greatest TV remote for kids",
+      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+      "score": 392,
+      "author": "mchro",
+      "created": "2026-01-12 13:07:49",
+      "created_at": 1768223269000
+    },
+    {
+      "id": 46582441,
+      "title": "Statement by Federal Reserve Chair Jerome F. Powell [video]",
+      "link": "https://www.youtube.com/watch?v=KckGHaBLSn4",
+      "score": 357,
+      "author": "sprawl_",
+      "created": "2026-01-12 01:05:20",
+      "created_at": 1768179920000
+    },
+    {
+      "id": 46590280,
+      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+      "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "score": 332,
+      "author": "admp",
+      "created": "2026-01-12 16:04:27",
+      "created_at": 1768233867000
     }
   ],
   "code": 200,

@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-12T16:17:33.443Z"
+    "lastUpdate": "2026-01-12T20:14:25.692Z"
   },
   "data": [
     {
-      "id": 46588837,
-      "title": "LLVM: The Bad Parts",
-      "link": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-      "score": 90,
-      "author": "vitaut",
-      "created": "2026-01-12 14:18:13",
-      "created_at": 1768227493000
-    },
-    {
-      "id": 46587934,
-      "title": "Floppy disks turn out to be the greatest TV remote for kids",
-      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "score": 193,
-      "author": "mchro",
-      "created": "2026-01-12 13:07:49",
-      "created_at": 1768223269000
-    },
-    {
-      "id": 46589658,
-      "title": "Date is out, Temporal is in",
-      "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-      "score": 22,
-      "author": "alexanderameye",
-      "created": "2026-01-12 15:20:36",
-      "created_at": 1768231236000
+      "id": 46593022,
+      "title": "Cowork: Claude Code for the rest of your work",
+      "link": "https://claude.com/blog/cowork-research-preview",
+      "score": 87,
+      "author": "adocomplete",
+      "created": "2026-01-12 19:27:19",
+      "created_at": 1768246039000
     },
     {
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 6,
+      "score": 332,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
     },
     {
-      "id": 46579864,
-      "title": "The struggle of resizing windows on macOS Tahoe",
-      "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 2270,
-      "author": "happosai",
-      "created": "2026-01-11 20:47:55",
-      "created_at": 1768164475000
+      "id": 46591708,
+      "title": "Postal Arbitrage",
+      "link": "https://walzr.com/postal-arbitrage",
+      "score": 121,
+      "author": "The28thDuck",
+      "created": "2026-01-12 17:41:50",
+      "created_at": 1768239710000
     },
     {
-      "id": 46588572,
-      "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
-      "link": "https://taylorkolasinski.com/notes/mhc-reproduction/",
-      "score": 45,
-      "author": "taykolasinski",
-      "created": "2026-01-12 13:57:32",
-      "created_at": 1768226252000
+      "id": 46581095,
+      "title": "Unauthenticated remote code execution in OpenCode",
+      "link": "https://cy.md/opencode-rce/",
+      "score": 85,
+      "author": "CyberShadow",
+      "created": "2026-01-11 22:33:32",
+      "created_at": 1768170812000
     },
     {
-      "id": 46589009,
-      "title": "2025 marked a record-breaking year for Apple services",
-      "link": "https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/",
-      "score": 25,
-      "author": "soheilpro",
-      "created": "2026-01-12 14:30:51",
-      "created_at": 1768228251000
+      "id": 46589658,
+      "title": "Date is out, Temporal is in",
+      "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+      "score": 206,
+      "author": "alexanderameye",
+      "created": "2026-01-12 15:20:36",
+      "created_at": 1768231236000
     },
     {
-      "id": 46587498,
-      "title": "Launch a Debugging Terminal into GitHub Actions",
-      "link": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
-      "score": 73,
-      "author": "martinpeck",
-      "created": "2026-01-12 12:25:27",
-      "created_at": 1768220727000
+      "id": 46588837,
+      "title": "LLVM: The bad parts",
+      "link": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+      "score": 212,
+      "author": "vitaut",
+      "created": "2026-01-12 14:18:13",
+      "created_at": 1768227493000
     },
     {
-      "id": 46586179,
-      "title": "Lightpanda migrate DOM implementation to Zig",
-      "link": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
-      "score": 138,
-      "author": "gearnode",
-      "created": "2026-01-12 09:42:49",
-      "created_at": 1768210969000
+      "id": 46591100,
+      "title": "Show HN: AI in SolidWorks",
+      "link": "https://www.trylad.com",
+      "score": 66,
+      "author": "WillNickols",
+      "created": "2026-01-12 16:56:17",
+      "created_at": 1768236977000
     },
     {
-      "id": 46588132,
-      "title": "Windows 8 Desktop Environment for Linux",
-      "link": "https://github.com/er-bharat/Win8DE",
-      "score": 122,
-      "author": "edent",
-      "created": "2026-01-12 13:22:44",
-      "created_at": 1768224164000
+      "id": 46587934,
+      "title": "Floppy disks turn out to be the greatest TV remote for kids",
+      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+      "score": 392,
+      "author": "mchro",
+      "created": "2026-01-12 13:07:49",
+      "created_at": 1768223269000
+    },
+    {
+      "id": 46591402,
+      "title": "Message Queues: A Simple Guide with Analogies",
+      "link": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+      "score": 50,
+      "author": "byt3h3ad",
+      "created": "2026-01-12 17:17:09",
+      "created_at": 1768238229000
     }
   ],
   "code": 200,
