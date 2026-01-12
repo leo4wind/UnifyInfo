@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-12T12:26:42.649Z"
+    "lastUpdate": "2026-01-12T16:17:33.473Z"
   },
   "data": [
     {
-      "id": 46586179,
-      "title": "Lightpanda migrate DOM implementation to Zig",
-      "link": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
-      "score": 70,
-      "author": "gearnode",
-      "created": "2026-01-12 09:42:49",
-      "created_at": 1768210969000
+      "id": 46588837,
+      "title": "LLVM: The Bad Parts",
+      "link": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+      "score": 90,
+      "author": "vitaut",
+      "created": "2026-01-12 14:18:13",
+      "created_at": 1768227493000
+    },
+    {
+      "id": 46587934,
+      "title": "Floppy disks turn out to be the greatest TV remote for kids",
+      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+      "score": 193,
+      "author": "mchro",
+      "created": "2026-01-12 13:07:49",
+      "created_at": 1768223269000
+    },
+    {
+      "id": 46589658,
+      "title": "Date is out, Temporal is in",
+      "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+      "score": 22,
+      "author": "alexanderameye",
+      "created": "2026-01-12 15:20:36",
+      "created_at": 1768231236000
+    },
+    {
+      "id": 46590280,
+      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+      "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "score": 6,
+      "author": "admp",
+      "created": "2026-01-12 16:04:27",
+      "created_at": 1768233867000
     },
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 1908,
+      "score": 2270,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
     },
     {
-      "id": 46586385,
-      "title": "Fossil versus Git",
-      "link": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
-      "score": 37,
-      "author": "vednig",
-      "created": "2026-01-12 10:10:05",
-      "created_at": 1768212605000
+      "id": 46588572,
+      "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
+      "link": "https://taylorkolasinski.com/notes/mhc-reproduction/",
+      "score": 45,
+      "author": "taykolasinski",
+      "created": "2026-01-12 13:57:32",
+      "created_at": 1768226252000
     },
     {
-      "id": 46526896,
-      "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
-      "link": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-      "score": 143,
-      "author": "bookofjoe",
-      "created": "2026-01-07 14:43:16",
-      "created_at": 1767796996000
+      "id": 46589009,
+      "title": "2025 marked a record-breaking year for Apple services",
+      "link": "https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/",
+      "score": 25,
+      "author": "soheilpro",
+      "created": "2026-01-12 14:30:51",
+      "created_at": 1768228251000
     },
     {
-      "id": 46580326,
-      "title": "CLI agents make self-hosting on a home server easier and fun",
-      "link": "https://fulghum.io/self-hosting",
-      "score": 593,
-      "author": "websku",
-      "created": "2026-01-11 21:29:57",
-      "created_at": 1768166997000
+      "id": 46587498,
+      "title": "Launch a Debugging Terminal into GitHub Actions",
+      "link": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
+      "score": 73,
+      "author": "martinpeck",
+      "created": "2026-01-12 12:25:27",
+      "created_at": 1768220727000
     },
     {
-      "id": 46553137,
-      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
-      "link": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
-      "score": 145,
-      "author": "fried-gluttony",
-      "created": "2026-01-09 12:23:52",
-      "created_at": 1767961432000
+      "id": 46586179,
+      "title": "Lightpanda migrate DOM implementation to Zig",
+      "link": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
+      "score": 138,
+      "author": "gearnode",
+      "created": "2026-01-12 09:42:49",
+      "created_at": 1768210969000
     },
     {
-      "id": 46585947,
-      "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
-      "link": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
-      "score": 34,
-      "author": "reconnecting",
-      "created": "2026-01-12 09:10:45",
-      "created_at": 1768209045000
-    },
-    {
-      "id": 46517654,
-      "title": "Show HN: DevicePrint – device fingerprinting without cookies",
-      "link": "",
-      "score": 10,
-      "author": "silverrump",
-      "created": "2026-01-06 19:51:29",
-      "created_at": 1767729089000
-    },
-    {
-      "id": 46580864,
-      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
-      "link": "https://iczelia.net/posts/snake-polyglot/",
-      "score": 231,
-      "author": "snoofydude",
-      "created": "2026-01-11 22:14:35",
-      "created_at": 1768169675000
-    },
-    {
-      "id": 46578921,
-      "title": "iCloud Photos Downloader",
-      "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 495,
-      "author": "reconnecting",
-      "created": "2026-01-11 19:23:58",
-      "created_at": 1768159438000
+      "id": 46588132,
+      "title": "Windows 8 Desktop Environment for Linux",
+      "link": "https://github.com/er-bharat/Win8DE",
+      "score": 122,
+      "author": "edent",
+      "created": "2026-01-12 13:22:44",
+      "created_at": 1768224164000
     }
   ],
   "code": 200,

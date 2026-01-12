@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-12T12:26:42.526Z"
+    "lastUpdate": "2026-01-12T16:17:33.204Z"
   },
   "data": [
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 1908,
+      "score": 2270,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
@@ -19,7 +19,7 @@
       "id": 46574276,
       "title": "Don't fall into the anti-AI hype",
       "link": "https://antirez.com/news/158",
-      "score": 1054,
+      "score": 1124,
       "author": "todsacerdoti",
       "created": "2026-01-11 10:26:18",
       "created_at": 1768127178000
@@ -28,7 +28,7 @@
       "id": 46574707,
       "title": "I dumped Windows 11 for Linux, and you should too",
       "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 801,
+      "score": 820,
       "author": "smurda",
       "created": "2026-01-11 11:31:22",
       "created_at": 1768131082000
@@ -37,7 +37,7 @@
       "id": 46566465,
       "title": "I replaced Windows with Linux and everything's going great",
       "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "score": 738,
+      "score": 750,
       "author": "rorylawless",
       "created": "2026-01-10 15:26:26",
       "created_at": 1768058786000
@@ -46,34 +46,34 @@
       "id": 46582420,
       "title": "Statement from Jerome Powell",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
-      "score": 634,
+      "score": 691,
       "author": "0xedb",
       "created": "2026-01-12 01:02:48",
       "created_at": 1768179768000
     },
     {
-      "id": 46568794,
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "score": 611,
-      "author": "thorel",
-      "created": "2026-01-10 18:58:37",
-      "created_at": 1768071517000
-    },
-    {
       "id": 46580326,
       "title": "CLI agents make self-hosting on a home server easier and fun",
       "link": "https://fulghum.io/self-hosting",
-      "score": 593,
+      "score": 671,
       "author": "websku",
       "created": "2026-01-11 21:29:57",
       "created_at": 1768166997000
     },
     {
+      "id": 46568794,
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "score": 616,
+      "author": "thorel",
+      "created": "2026-01-10 18:58:37",
+      "created_at": 1768071517000
+    },
+    {
       "id": 46578921,
       "title": "iCloud Photos Downloader",
       "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 495,
+      "score": 566,
       "author": "reconnecting",
       "created": "2026-01-11 19:23:58",
       "created_at": 1768159438000
@@ -82,19 +82,19 @@
       "id": 46567400,
       "title": "Show HN: I used Claude Code to discover connections between 100 books",
       "link": "https://trails.pieterma.es/",
-      "score": 480,
+      "score": 486,
       "author": "pmaze",
       "created": "2026-01-10 16:56:55",
       "created_at": 1768064215000
     },
     {
-      "id": 46565132,
-      "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
-      "link": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-      "score": 454,
-      "author": "skadamat",
-      "created": "2026-01-10 12:23:20",
-      "created_at": 1768047800000
+      "id": 46566812,
+      "title": "Open Chaos: A self-evolving open-source project",
+      "link": "https://www.openchaos.dev/",
+      "score": 413,
+      "author": "stefanvdw1",
+      "created": "2026-01-10 16:03:55",
+      "created_at": 1768061035000
     }
   ],
   "code": 200,
