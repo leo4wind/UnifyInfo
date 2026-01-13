@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-12T20:14:25.567Z"
+    "lastUpdate": "2026-01-13T00:54:46.805Z"
   },
   "data": [
     {
       "id": 46579864,
       "title": "The struggle of resizing windows on macOS Tahoe",
       "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "score": 2466,
+      "score": 2545,
       "author": "happosai",
       "created": "2026-01-11 20:47:55",
       "created_at": 1768164475000
@@ -19,79 +19,79 @@
       "id": 46574276,
       "title": "Don't fall into the anti-AI hype",
       "link": "https://antirez.com/news/158",
-      "score": 1166,
+      "score": 1192,
       "author": "todsacerdoti",
       "created": "2026-01-11 10:26:18",
       "created_at": 1768127178000
     },
     {
-      "id": 46574707,
-      "title": "I dumped Windows 11 for Linux, and you should too",
-      "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "score": 827,
-      "author": "smurda",
-      "created": "2026-01-11 11:31:22",
-      "created_at": 1768131082000
-    },
-    {
       "id": 46582420,
       "title": "Statement from Jerome Powell",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
-      "score": 819,
+      "score": 851,
       "author": "0xedb",
       "created": "2026-01-12 01:02:48",
       "created_at": 1768179768000
     },
     {
+      "id": 46574707,
+      "title": "I dumped Windows 11 for Linux, and you should too",
+      "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+      "score": 831,
+      "author": "smurda",
+      "created": "2026-01-11 11:31:22",
+      "created_at": 1768131082000
+    },
+    {
       "id": 46580326,
       "title": "CLI agents make self-hosting on a home server easier and fun",
       "link": "https://fulghum.io/self-hosting",
-      "score": 717,
+      "score": 734,
       "author": "websku",
       "created": "2026-01-11 21:29:57",
       "created_at": 1768166997000
     },
     {
-      "id": 46578921,
-      "title": "iCloud Photos Downloader",
-      "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "score": 614,
-      "author": "reconnecting",
-      "created": "2026-01-11 19:23:58",
-      "created_at": 1768159438000
-    },
-    {
       "id": 46589675,
       "title": "Apple picks Google's Gemini to power Siri",
       "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-      "score": 403,
+      "score": 625,
       "author": "stygiansonic",
       "created": "2026-01-12 15:22:21",
       "created_at": 1768231341000
     },
     {
+      "id": 46578921,
+      "title": "iCloud Photos Downloader",
+      "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "score": 621,
+      "author": "reconnecting",
+      "created": "2026-01-11 19:23:58",
+      "created_at": 1768159438000
+    },
+    {
+      "id": 46593022,
+      "title": "Cowork: Claude Code for the rest of your work",
+      "link": "https://claude.com/blog/cowork-research-preview",
+      "score": 560,
+      "author": "adocomplete",
+      "created": "2026-01-12 19:27:19",
+      "created_at": 1768246039000
+    },
+    {
       "id": 46587934,
       "title": "Floppy disks turn out to be the greatest TV remote for kids",
       "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "score": 392,
+      "score": 481,
       "author": "mchro",
       "created": "2026-01-12 13:07:49",
       "created_at": 1768223269000
     },
     {
-      "id": 46582441,
-      "title": "Statement by Federal Reserve Chair Jerome F. Powell [video]",
-      "link": "https://www.youtube.com/watch?v=KckGHaBLSn4",
-      "score": 357,
-      "author": "sprawl_",
-      "created": "2026-01-12 01:05:20",
-      "created_at": 1768179920000
-    },
-    {
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 332,
+      "score": 464,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
