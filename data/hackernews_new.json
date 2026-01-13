@@ -3,23 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-13T08:18:22.371Z"
+    "lastUpdate": "2026-01-13T12:25:48.009Z"
   },
   "data": [
+    {
+      "id": 46599574,
+      "title": "Network of Scottish X accounts go dark amid Iran blackout",
+      "link": "https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/",
+      "score": 81,
+      "author": "TiredOfLife",
+      "created": "2026-01-13 11:19:01",
+      "created_at": 1768303141000
+    },
+    {
+      "id": 46598991,
+      "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
+      "link": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
+      "score": 41,
+      "author": "maelito",
+      "created": "2026-01-13 09:47:59",
+      "created_at": 1768297679000
+    },
     {
       "id": 46593022,
       "title": "Cowork: Claude Code for the rest of your work",
       "link": "https://claude.com/blog/cowork-research-preview",
-      "score": 899,
+      "score": 1030,
       "author": "adocomplete",
       "created": "2026-01-12 19:27:19",
       "created_at": 1768246039000
     },
     {
+      "id": 46599341,
+      "title": "Show HN: An iOS budget app I've been maintaining since 2011",
+      "link": "https://primoco.me/en/",
+      "score": 28,
+      "author": "Priotecs",
+      "created": "2026-01-13 10:44:39",
+      "created_at": 1768301079000
+    },
+    {
       "id": 46597518,
       "title": "Text-Based Web Browsers",
       "link": "https://cssence.com/2026/text-based-web-browsers/",
-      "score": 37,
+      "score": 123,
       "author": "pabs3",
       "created": "2026-01-13 05:16:10",
       "created_at": 1768281370000
@@ -28,73 +55,46 @@
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 581,
+      "score": 631,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
     },
     {
+      "id": 46599079,
+      "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
+      "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
+      "score": 93,
+      "author": "fleahunter",
+      "created": "2026-01-13 10:03:20",
+      "created_at": 1768298600000
+    },
+    {
+      "id": 46554775,
+      "title": "Designing an IPv6-native P2P transport – lessons from building I6P",
+      "link": "https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73",
+      "score": 22,
+      "author": "TheusHen",
+      "created": "2026-01-09 15:17:45",
+      "created_at": 1767971865000
+    },
+    {
       "id": 46591708,
       "title": "Postal Arbitrage",
       "link": "https://walzr.com/postal-arbitrage",
-      "score": 375,
+      "score": 426,
       "author": "The28thDuck",
       "created": "2026-01-12 17:41:50",
       "created_at": 1768239710000
     },
     {
-      "id": 46557733,
-      "title": "The Cray-1 Computer System (1977) [pdf]",
-      "link": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
-      "score": 89,
-      "author": "LordGrey",
-      "created": "2026-01-09 19:05:04",
-      "created_at": 1767985504000
-    },
-    {
-      "id": 46549714,
-      "title": "Implementing a web server in a single printf() call (2014)",
-      "link": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
-      "score": 38,
-      "author": "nateb2022",
-      "created": "2026-01-09 03:24:12",
-      "created_at": 1767929052000
-    },
-    {
-      "id": 46587934,
-      "title": "Floppy disks turn out to be the greatest TV remote for kids",
-      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "score": 578,
-      "author": "mchro",
-      "created": "2026-01-12 13:07:49",
-      "created_at": 1768223269000
-    },
-    {
-      "id": 46593395,
-      "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
-      "link": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
-      "score": 217,
-      "author": "cjaackie",
-      "created": "2026-01-12 19:57:37",
-      "created_at": 1768247857000
-    },
-    {
-      "id": 46540126,
-      "title": "Some ecologists fear their field is losing touch with nature",
-      "link": "https://www.nature.com/articles/d41586-025-04150-w",
-      "score": 100,
-      "author": "Growtika",
-      "created": "2026-01-08 12:07:31",
-      "created_at": 1767874051000
-    },
-    {
-      "id": 46581095,
-      "title": "Unauthenticated remote code execution in OpenCode",
-      "link": "https://cy.md/opencode-rce/",
-      "score": 303,
-      "author": "CyberShadow",
-      "created": "2026-01-11 22:33:32",
-      "created_at": 1768170812000
+      "id": 46557146,
+      "title": "Deconstructing the LuaJIT Pseudo Memory Leak",
+      "link": "https://blog.openresty.com/en/luajit-plus/",
+      "score": 9,
+      "author": "dgares",
+      "created": "2026-01-09 18:23:38",
+      "created_at": 1767983018000
     }
   ],
   "code": 200,
