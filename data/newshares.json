@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-13T04:31:52.221Z"
+    "lastUpdate": "2026-01-13T08:18:24.813Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-01-21",
       "ssrq": null,
       "syl": null,
-      "hysyl": 33.44,
+      "hysyl": 33.66,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,12 +45,35 @@
       "zqjkrq": "2026-01-20",
       "ssrq": null,
       "syl": null,
-      "hysyl": 39.32,
+      "hysyl": 39.71,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "等离子体射频电源系统、等离子体激发装置、等离子体直流电源、各种配件的研发、生产、销售及技术服务"
+    },
+    {
+      "zqdm": "920076",
+      "zqjc": "国亮新材",
+      "sgdm": "920076",
+      "fxsl": 18044853,
+      "swfxsl": 16240368,
+      "sgsx": 812000,
+      "dgsz": 8120000,
+      "fxjg": 10.76,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-14",
+      "zqgbrq": "2026-01-19",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.97,
+      "hysyl": 33.44,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司是一家专业从事高温工业用耐火材料整体解决方案的高新技术企业,为客户提供耐火材料整体承包服务及耐火材料产品"
     },
     {
       "zqdm": "920050",
@@ -76,5 +99,5 @@
       "zyyw": "长期专注于医疗健康事业,主要从事应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售,通过ODM/OEM等方式为国际知名医疗器械品牌厂商提供相关产品"
     }
   ],
-  "total": 3
+  "total": 4
 }
