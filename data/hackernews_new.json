@@ -3,50 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-13T12:25:48.009Z"
+    "lastUpdate": "2026-01-13T16:19:25.145Z"
   },
   "data": [
     {
-      "id": 46599574,
-      "title": "Network of Scottish X accounts go dark amid Iran blackout",
-      "link": "https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/",
-      "score": 81,
-      "author": "TiredOfLife",
-      "created": "2026-01-13 11:19:01",
-      "created_at": 1768303141000
+      "id": 46600850,
+      "title": "Local Journalism Is How Democracy Shows Up Close to Home",
+      "link": "https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/",
+      "score": 208,
+      "author": "mooreds",
+      "created": "2026-01-13 13:46:34",
+      "created_at": 1768311994000
     },
     {
-      "id": 46598991,
-      "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
-      "link": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
-      "score": 41,
-      "author": "maelito",
-      "created": "2026-01-13 09:47:59",
-      "created_at": 1768297679000
+      "id": 46602532,
+      "title": "What a year of solar and batteries saved us in 2025",
+      "link": "https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/",
+      "score": 39,
+      "author": "MattSayar",
+      "created": "2026-01-13 15:49:27",
+      "created_at": 1768319367000
+    },
+    {
+      "id": 46601902,
+      "title": "Anthropic has made a large contribution to the Python Software Foundation",
+      "link": "https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694",
+      "score": 123,
+      "author": "ayhanfuat",
+      "created": "2026-01-13 15:03:58",
+      "created_at": 1768316638000
+    },
+    {
+      "id": 46601157,
+      "title": "Apple Creator Studio",
+      "link": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
+      "score": 222,
+      "author": "lemonlime227",
+      "created": "2026-01-13 14:14:18",
+      "created_at": 1768313658000
     },
     {
       "id": 46593022,
       "title": "Cowork: Claude Code for the rest of your work",
       "link": "https://claude.com/blog/cowork-research-preview",
-      "score": 1030,
+      "score": 1134,
       "author": "adocomplete",
       "created": "2026-01-12 19:27:19",
       "created_at": 1768246039000
     },
     {
-      "id": 46599341,
-      "title": "Show HN: An iOS budget app I've been maintaining since 2011",
-      "link": "https://primoco.me/en/",
-      "score": 28,
-      "author": "Priotecs",
-      "created": "2026-01-13 10:44:39",
-      "created_at": 1768301079000
-    },
-    {
       "id": 46597518,
-      "title": "Text-Based Web Browsers",
+      "title": "Text-based web browsers",
       "link": "https://cssence.com/2026/text-based-web-browsers/",
-      "score": 123,
+      "score": 197,
       "author": "pabs3",
       "created": "2026-01-13 05:16:10",
       "created_at": 1768281370000
@@ -55,46 +64,37 @@
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 631,
+      "score": 682,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
     },
     {
-      "id": 46599079,
-      "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
-      "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
-      "score": 93,
-      "author": "fleahunter",
-      "created": "2026-01-13 10:03:20",
-      "created_at": 1768298600000
+      "id": 46600092,
+      "title": "Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams",
+      "link": "https://snackbase.dev",
+      "score": 34,
+      "author": "lalitgehani",
+      "created": "2026-01-13 12:27:53",
+      "created_at": 1768307273000
     },
     {
-      "id": 46554775,
-      "title": "Designing an IPv6-native P2P transport – lessons from building I6P",
-      "link": "https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73",
-      "score": 22,
-      "author": "TheusHen",
-      "created": "2026-01-09 15:17:45",
-      "created_at": 1767971865000
+      "id": 46530920,
+      "title": "Git Rebase for the Terrified",
+      "link": "https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/",
+      "score": 99,
+      "author": "aaronbrethorst",
+      "created": "2026-01-07 19:03:24",
+      "created_at": 1767812604000
     },
     {
-      "id": 46591708,
-      "title": "Postal Arbitrage",
-      "link": "https://walzr.com/postal-arbitrage",
-      "score": 426,
-      "author": "The28thDuck",
-      "created": "2026-01-12 17:41:50",
-      "created_at": 1768239710000
-    },
-    {
-      "id": 46557146,
-      "title": "Deconstructing the LuaJIT Pseudo Memory Leak",
-      "link": "https://blog.openresty.com/en/luajit-plus/",
+      "id": 46602898,
+      "title": "Scott Adams Has Died",
+      "link": "https://www.washingtonpost.com/obituaries/2026/01/13/scott-adams-dead-dilbert/",
       "score": 9,
-      "author": "dgares",
-      "created": "2026-01-09 18:23:38",
-      "created_at": 1767983018000
+      "author": "jvanderbot",
+      "created": "2026-01-13 16:09:13",
+      "created_at": 1768320553000
     }
   ],
   "code": 200,
