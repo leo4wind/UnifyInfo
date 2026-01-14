@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-14T04:39:37.965Z"
+    "lastUpdate": "2026-01-14T08:17:48.794Z"
   },
   "data": [
     {
       "id": 46593022,
       "title": "Cowork: Claude Code for the rest of your work",
       "link": "https://claude.com/blog/cowork-research-preview",
-      "score": 1251,
+      "score": 1261,
       "author": "adocomplete",
       "created": "2026-01-12 19:27:19",
       "created_at": 1768246039000
@@ -19,7 +19,7 @@
       "id": 46589675,
       "title": "Apple picks Gemini to power Siri",
       "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-      "score": 1006,
+      "score": 1007,
       "author": "stygiansonic",
       "created": "2026-01-12 15:22:21",
       "created_at": 1768231341000
@@ -28,16 +28,25 @@
       "id": 46602102,
       "title": "Scott Adams has died",
       "link": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
-      "score": 825,
+      "score": 906,
       "author": "ekianjo",
       "created": "2026-01-13 15:18:43",
       "created_at": 1768317523000
     },
     {
+      "id": 46605490,
+      "title": "AI generated music barred from Bandcamp",
+      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "score": 736,
+      "author": "cdrnsf",
+      "created": "2026-01-13 18:31:50",
+      "created_at": 1768329110000
+    },
+    {
       "id": 46587934,
       "title": "Floppy disks turn out to be the greatest TV remote for kids",
       "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "score": 727,
+      "score": 734,
       "author": "mchro",
       "created": "2026-01-12 13:07:49",
       "created_at": 1768223269000
@@ -46,25 +55,16 @@
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 719,
+      "score": 724,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
     },
     {
-      "id": 46605490,
-      "title": "AI generated music barred from Bandcamp",
-      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-      "score": 657,
-      "author": "cdrnsf",
-      "created": "2026-01-13 18:31:50",
-      "created_at": 1768329110000
-    },
-    {
       "id": 46591708,
       "title": "Postal Arbitrage",
       "link": "https://walzr.com/postal-arbitrage",
-      "score": 541,
+      "score": 547,
       "author": "The28thDuck",
       "created": "2026-01-12 17:41:50",
       "created_at": 1768239710000
@@ -73,7 +73,7 @@
       "id": 46601157,
       "title": "Apple Creator Studio",
       "link": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
-      "score": 482,
+      "score": 487,
       "author": "lemonlime227",
       "created": "2026-01-13 14:14:18",
       "created_at": 1768313658000
@@ -82,7 +82,7 @@
       "id": 46587536,
       "title": "Ozempic is changing the foods Americans buy",
       "link": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
-      "score": 453,
+      "score": 455,
       "author": "giuliomagnifico",
       "created": "2026-01-12 12:29:00",
       "created_at": 1768220940000
@@ -91,7 +91,7 @@
       "id": 46589658,
       "title": "Date is out, Temporal is in",
       "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-      "score": 449,
+      "score": 453,
       "author": "alexanderameye",
       "created": "2026-01-12 15:20:36",
       "created_at": 1768231236000

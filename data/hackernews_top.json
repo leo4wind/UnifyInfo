@@ -3,23 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-14T04:39:38.163Z"
+    "lastUpdate": "2026-01-14T08:17:48.875Z"
   },
   "data": [
     {
       "id": 46591810,
       "title": "There's a ridiculous amount of tech in a disposable vape",
       "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-      "score": 82,
+      "score": 268,
       "author": "abnercoimbre",
       "created": "2026-01-12 17:50:01",
       "created_at": 1768240201000
     },
     {
+      "id": 46611823,
+      "title": "1000 Blank White Cards",
+      "link": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
+      "score": 124,
+      "author": "eieio",
+      "created": "2026-01-14 03:08:37",
+      "created_at": 1768360117000
+    },
+    {
       "id": 46611507,
       "title": "ASCII Clouds",
       "link": "https://caidan.dev/portfolio/ascii_clouds/",
-      "score": 51,
+      "score": 150,
       "author": "majkinetor",
       "created": "2026-01-14 02:20:42",
       "created_at": 1768357242000
@@ -28,7 +37,7 @@
       "id": 46609630,
       "title": "A 40-line fix eliminated a 400x performance gap",
       "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "score": 188,
+      "score": 243,
       "author": "bluestreak",
       "created": "2026-01-13 23:00:36",
       "created_at": 1768345236000
@@ -37,64 +46,55 @@
       "id": 46602591,
       "title": "Every GitHub object has two IDs",
       "link": "https://www.greptile.com/blog/github-ids",
-      "score": 141,
+      "score": 206,
       "author": "dakshgupta",
       "created": "2026-01-13 15:52:33",
       "created_at": 1768319553000
     },
     {
-      "id": 46602737,
-      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
-      "link": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-      "score": 61,
-      "author": "robertnishihara",
-      "created": "2026-01-13 15:59:59",
-      "created_at": 1768319999000
+      "id": 46611667,
+      "title": "The Gleam Programming Language",
+      "link": "https://gleam.run/",
+      "score": 89,
+      "author": "Alupis",
+      "created": "2026-01-14 02:49:25",
+      "created_at": 1768358965000
     },
     {
       "id": 46611348,
       "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
       "link": "https://epstein.trynia.ai/",
-      "score": 24,
+      "score": 68,
       "author": "jellyotsiro",
       "created": "2026-01-14 01:56:52",
       "created_at": 1768355812000
     },
     {
+      "id": 46579612,
+      "title": "Show HN: 1D-Pong Game at 39C3",
+      "link": "https://github.com/ogermer/1d-pong",
+      "score": 20,
+      "author": "oger",
+      "created": "2026-01-11 20:23:14",
+      "created_at": 1768162994000
+    },
+    {
       "id": 46610557,
       "title": "The $LANG Programming Language",
       "link": "",
-      "score": 114,
+      "score": 172,
       "author": "dang",
       "created": "2026-01-14 00:17:19",
       "created_at": 1768349839000
     },
     {
-      "id": 46611548,
-      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
-      "link": "https://github.com/OxidizeLabs/cachekit",
-      "score": 12,
-      "author": "failsafe",
-      "created": "2026-01-14 02:28:52",
-      "created_at": 1768357732000
-    },
-    {
       "id": 46605332,
       "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
       "link": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-      "score": 114,
+      "score": 204,
       "author": "abhishaike",
       "created": "2026-01-13 18:22:00",
       "created_at": 1768328520000
-    },
-    {
-      "id": 46584864,
-      "title": "The Emacs Widget Library: A Critique and Case Study",
-      "link": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
-      "score": 26,
-      "author": "whacked_new",
-      "created": "2026-01-12 06:37:26",
-      "created_at": 1768199846000
     }
   ],
   "code": 200,
