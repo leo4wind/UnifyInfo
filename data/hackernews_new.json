@@ -3,23 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-14T01:00:33.645Z"
+    "lastUpdate": "2026-01-14T04:39:38.257Z"
   },
   "data": [
     {
-      "id": 46609492,
-      "title": "EOL hardware should mean open-source software",
-      "link": "https://www.marcia.no/words/eol",
-      "score": 102,
-      "author": "Marciplan",
-      "created": "2026-01-13 22:49:51",
-      "created_at": 1768344591000
+      "id": 46591810,
+      "title": "There's a ridiculous amount of tech in a disposable vape",
+      "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+      "score": 82,
+      "author": "abnercoimbre",
+      "created": "2026-01-12 17:50:01",
+      "created_at": 1768240201000
+    },
+    {
+      "id": 46611507,
+      "title": "ASCII Clouds",
+      "link": "https://caidan.dev/portfolio/ascii_clouds/",
+      "score": 51,
+      "author": "majkinetor",
+      "created": "2026-01-14 02:20:42",
+      "created_at": 1768357242000
     },
     {
       "id": 46609630,
       "title": "A 40-line fix eliminated a 400x performance gap",
       "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "score": 76,
+      "score": 188,
       "author": "bluestreak",
       "created": "2026-01-13 23:00:36",
       "created_at": 1768345236000
@@ -28,73 +37,64 @@
       "id": 46602591,
       "title": "Every GitHub object has two IDs",
       "link": "https://www.greptile.com/blog/github-ids",
-      "score": 57,
+      "score": 141,
       "author": "dakshgupta",
       "created": "2026-01-13 15:52:33",
       "created_at": 1768319553000
     },
     {
+      "id": 46602737,
+      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+      "link": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+      "score": 61,
+      "author": "robertnishihara",
+      "created": "2026-01-13 15:59:59",
+      "created_at": 1768319999000
+    },
+    {
+      "id": 46611348,
+      "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+      "link": "https://epstein.trynia.ai/",
+      "score": 24,
+      "author": "jellyotsiro",
+      "created": "2026-01-14 01:56:52",
+      "created_at": 1768355812000
+    },
+    {
       "id": 46610557,
       "title": "The $LANG Programming Language",
       "link": "",
-      "score": 28,
+      "score": 114,
       "author": "dang",
       "created": "2026-01-14 00:17:19",
       "created_at": 1768349839000
     },
     {
-      "id": 46603111,
-      "title": "Are two heads better than one?",
-      "link": "https://eieio.games/blog/two-heads-arent-better-than-one/",
-      "score": 99,
-      "author": "evakhoury",
-      "created": "2026-01-13 16:22:59",
-      "created_at": 1768321379000
+      "id": 46611548,
+      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
+      "link": "https://github.com/OxidizeLabs/cachekit",
+      "score": 12,
+      "author": "failsafe",
+      "created": "2026-01-14 02:28:52",
+      "created_at": 1768357732000
     },
     {
-      "id": 46603995,
-      "title": "The Tulip Creative Computer",
-      "link": "https://github.com/shorepine/tulipcc",
-      "score": 181,
-      "author": "apitman",
-      "created": "2026-01-13 17:10:42",
-      "created_at": 1768324242000
+      "id": 46605332,
+      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+      "link": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+      "score": 114,
+      "author": "abhishaike",
+      "created": "2026-01-13 18:22:00",
+      "created_at": 1768328520000
     },
     {
-      "id": 46608840,
-      "title": "We can't have nice things because of AI scrapers",
-      "link": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
-      "score": 231,
-      "author": "LorenDB",
-      "created": "2026-01-13 21:57:32",
-      "created_at": 1768341452000
-    },
-    {
-      "id": 46534632,
-      "title": "Japan's Skyscraper Factories (2021)",
-      "link": "https://www.construction-physics.com/p/japans-skyscraper-factories",
-      "score": 27,
-      "author": "Pikamander2",
-      "created": "2026-01-07 23:16:18",
-      "created_at": 1767827778000
-    },
-    {
-      "id": 46605675,
-      "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
-      "link": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
-      "score": 58,
-      "author": "davelradindra",
-      "created": "2026-01-13 18:43:28",
-      "created_at": 1768329808000
-    },
-    {
-      "id": 46604250,
-      "title": "How to make a damn website (2024)",
-      "link": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
-      "score": 129,
-      "author": "birdculture",
-      "created": "2026-01-13 17:23:46",
-      "created_at": 1768325026000
+      "id": 46584864,
+      "title": "The Emacs Widget Library: A Critique and Case Study",
+      "link": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
+      "score": 26,
+      "author": "whacked_new",
+      "created": "2026-01-12 06:37:26",
+      "created_at": 1768199846000
     }
   ],
   "code": 200,
