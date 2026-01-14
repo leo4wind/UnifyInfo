@@ -3,62 +3,62 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-14T12:25:00.511Z"
+    "lastUpdate": "2026-01-14T16:18:08.282Z"
   },
   "data": [
     {
       "id": 46593022,
       "title": "Cowork: Claude Code for the rest of your work",
       "link": "https://claude.com/blog/cowork-research-preview",
-      "score": 1270,
+      "score": 1279,
       "author": "adocomplete",
       "created": "2026-01-12 19:27:19",
       "created_at": 1768246039000
     },
     {
-      "id": 46589675,
-      "title": "Apple picks Gemini to power Siri",
-      "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-      "score": 1012,
-      "author": "stygiansonic",
-      "created": "2026-01-12 15:22:21",
-      "created_at": 1768231341000
-    },
-    {
       "id": 46602102,
       "title": "Scott Adams has died",
       "link": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
-      "score": 984,
+      "score": 1022,
       "author": "ekianjo",
       "created": "2026-01-13 15:18:43",
       "created_at": 1768317523000
     },
     {
+      "id": 46589675,
+      "title": "Apple picks Gemini to power Siri",
+      "link": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+      "score": 1014,
+      "author": "stygiansonic",
+      "created": "2026-01-12 15:22:21",
+      "created_at": 1768231341000
+    },
+    {
       "id": 46605490,
       "title": "AI generated music barred from Bandcamp",
       "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-      "score": 817,
+      "score": 887,
       "author": "cdrnsf",
       "created": "2026-01-13 18:31:50",
       "created_at": 1768329110000
     },
     {
-      "id": 46587934,
-      "title": "Floppy disks turn out to be the greatest TV remote for kids",
-      "link": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-      "score": 736,
-      "author": "mchro",
-      "created": "2026-01-12 13:07:49",
-      "created_at": 1768223269000
-    },
-    {
       "id": 46590280,
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
       "link": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-      "score": 727,
+      "score": 730,
       "author": "admp",
       "created": "2026-01-12 16:04:27",
       "created_at": 1768233867000
+    },
+    {
+      "id": 46591810,
+      "title": "There's a ridiculous amount of tech in a disposable vape",
+      "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+      "score": 605,
+      "author": "abnercoimbre",
+      "created": "2026-01-12 17:50:01",
+      "created_at": 1768240201000
     },
     {
       "id": 46591708,
@@ -73,28 +73,28 @@
       "id": 46601157,
       "title": "Apple Creator Studio",
       "link": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
-      "score": 494,
+      "score": 504,
       "author": "lemonlime227",
       "created": "2026-01-13 14:14:18",
       "created_at": 1768313658000
     },
     {
-      "id": 46591810,
-      "title": "There's a ridiculous amount of tech in a disposable vape",
-      "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-      "score": 462,
-      "author": "abnercoimbre",
-      "created": "2026-01-12 17:50:01",
-      "created_at": 1768240201000
-    },
-    {
       "id": 46589658,
       "title": "Date is out, Temporal is in",
       "link": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-      "score": 455,
+      "score": 457,
       "author": "alexanderameye",
       "created": "2026-01-12 15:20:36",
       "created_at": 1768231236000
+    },
+    {
+      "id": 46597927,
+      "title": "Chromium Has Merged JpegXL",
+      "link": "https://chromium-review.googlesource.com/c/chromium/src/+/7184969",
+      "score": 435,
+      "author": "thunderbong",
+      "created": "2026-01-13 06:42:49",
+      "created_at": 1768286569000
     }
   ],
   "code": 200,
