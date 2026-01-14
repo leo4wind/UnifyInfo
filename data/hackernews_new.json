@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-14T08:17:48.893Z"
+    "lastUpdate": "2026-01-14T12:25:00.677Z"
   },
   "data": [
     {
       "id": 46591810,
       "title": "There's a ridiculous amount of tech in a disposable vape",
       "link": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-      "score": 268,
+      "score": 462,
       "author": "abnercoimbre",
       "created": "2026-01-12 17:50:01",
       "created_at": 1768240201000
     },
     {
+      "id": 46614037,
+      "title": "I Love You, Redis, but I'm Leaving You for SolidQueue",
+      "link": "https://www.simplethread.com/redis-solidqueue/",
+      "score": 94,
+      "author": "amalinovic",
+      "created": "2026-01-14 09:25:58",
+      "created_at": 1768382758000
+    },
+    {
+      "id": 46614688,
+      "title": "Show HN: Tiny FOSS Compass and Navigation App (<2MB)",
+      "link": "https://github.com/CompassMB/MBCompass",
+      "score": 22,
+      "author": "nativeforks",
+      "created": "2026-01-14 11:09:35",
+      "created_at": 1768388975000
+    },
+    {
       "id": 46611823,
       "title": "1000 Blank White Cards",
       "link": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
-      "score": 124,
+      "score": 203,
       "author": "eieio",
       "created": "2026-01-14 03:08:37",
       "created_at": 1768360117000
@@ -28,73 +46,46 @@
       "id": 46611507,
       "title": "ASCII Clouds",
       "link": "https://caidan.dev/portfolio/ascii_clouds/",
-      "score": 150,
+      "score": 222,
       "author": "majkinetor",
       "created": "2026-01-14 02:20:42",
       "created_at": 1768357242000
     },
     {
-      "id": 46609630,
-      "title": "A 40-line fix eliminated a 400x performance gap",
-      "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "score": 243,
-      "author": "bluestreak",
-      "created": "2026-01-13 23:00:36",
-      "created_at": 1768345236000
+      "id": 46579387,
+      "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
+      "link": "https://theorem.dev/blog/anthropic-bug-test/",
+      "score": 17,
+      "author": "jasongross",
+      "created": "2026-01-11 20:02:21",
+      "created_at": 1768161741000
     },
     {
       "id": 46602591,
       "title": "Every GitHub object has two IDs",
       "link": "https://www.greptile.com/blog/github-ids",
-      "score": 206,
+      "score": 256,
       "author": "dakshgupta",
       "created": "2026-01-13 15:52:33",
       "created_at": 1768319553000
     },
     {
-      "id": 46611667,
-      "title": "The Gleam Programming Language",
-      "link": "https://gleam.run/",
-      "score": 89,
-      "author": "Alupis",
-      "created": "2026-01-14 02:49:25",
-      "created_at": 1768358965000
+      "id": 46609630,
+      "title": "A 40-line fix eliminated a 400x performance gap",
+      "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "score": 285,
+      "author": "bluestreak",
+      "created": "2026-01-13 23:00:36",
+      "created_at": 1768345236000
     },
     {
-      "id": 46611348,
-      "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
-      "link": "https://epstein.trynia.ai/",
-      "score": 68,
-      "author": "jellyotsiro",
-      "created": "2026-01-14 01:56:52",
-      "created_at": 1768355812000
-    },
-    {
-      "id": 46579612,
-      "title": "Show HN: 1D-Pong Game at 39C3",
-      "link": "https://github.com/ogermer/1d-pong",
-      "score": 20,
-      "author": "oger",
-      "created": "2026-01-11 20:23:14",
-      "created_at": 1768162994000
-    },
-    {
-      "id": 46610557,
-      "title": "The $LANG Programming Language",
-      "link": "",
-      "score": 172,
-      "author": "dang",
-      "created": "2026-01-14 00:17:19",
-      "created_at": 1768349839000
-    },
-    {
-      "id": 46605332,
-      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-      "link": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-      "score": 204,
-      "author": "abhishaike",
-      "created": "2026-01-13 18:22:00",
-      "created_at": 1768328520000
+      "id": 46554982,
+      "title": "Putting the \"You\" in CPU (2023)",
+      "link": "https://cpu.land/",
+      "score": 53,
+      "author": "vinhnx",
+      "created": "2026-01-09 15:38:17",
+      "created_at": 1767973097000
     }
   ],
   "code": 200,
