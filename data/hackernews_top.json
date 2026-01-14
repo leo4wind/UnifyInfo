@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-13T20:14:21.641Z"
+    "lastUpdate": "2026-01-14T01:00:33.601Z"
   },
   "data": [
     {
-      "id": 46605553,
-      "title": "Signal leaders warn agentic AI is an insecure, unreliable surveillance risk",
-      "link": "https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/",
-      "score": 215,
-      "author": "speckx",
-      "created": "2026-01-13 18:35:52",
-      "created_at": 1768329352000
+      "id": 46609492,
+      "title": "EOL hardware should mean open-source software",
+      "link": "https://www.marcia.no/words/eol",
+      "score": 102,
+      "author": "Marciplan",
+      "created": "2026-01-13 22:49:51",
+      "created_at": 1768344591000
+    },
+    {
+      "id": 46609630,
+      "title": "A 40-line fix eliminated a 400x performance gap",
+      "link": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "score": 76,
+      "author": "bluestreak",
+      "created": "2026-01-13 23:00:36",
+      "created_at": 1768345236000
+    },
+    {
+      "id": 46602591,
+      "title": "Every GitHub object has two IDs",
+      "link": "https://www.greptile.com/blog/github-ids",
+      "score": 57,
+      "author": "dakshgupta",
+      "created": "2026-01-13 15:52:33",
+      "created_at": 1768319553000
+    },
+    {
+      "id": 46610557,
+      "title": "The $LANG Programming Language",
+      "link": "",
+      "score": 28,
+      "author": "dang",
+      "created": "2026-01-14 00:17:19",
+      "created_at": 1768349839000
+    },
+    {
+      "id": 46603111,
+      "title": "Are two heads better than one?",
+      "link": "https://eieio.games/blog/two-heads-arent-better-than-one/",
+      "score": 99,
+      "author": "evakhoury",
+      "created": "2026-01-13 16:22:59",
+      "created_at": 1768321379000
     },
     {
       "id": 46603995,
       "title": "The Tulip Creative Computer",
       "link": "https://github.com/shorepine/tulipcc",
-      "score": 103,
+      "score": 181,
       "author": "apitman",
       "created": "2026-01-13 17:10:42",
       "created_at": 1768324242000
     },
     {
-      "id": 46605490,
-      "title": "AI Generated Music Barred from Bandcamp",
-      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-      "score": 224,
-      "author": "cdrnsf",
-      "created": "2026-01-13 18:31:50",
-      "created_at": 1768329110000
+      "id": 46608840,
+      "title": "We can't have nice things because of AI scrapers",
+      "link": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
+      "score": 231,
+      "author": "LorenDB",
+      "created": "2026-01-13 21:57:32",
+      "created_at": 1768341452000
     },
     {
-      "id": 46600839,
-      "title": "Confer – End to end encrypted AI chat",
-      "link": "https://confer.to/",
-      "score": 37,
-      "author": "vednig",
-      "created": "2026-01-13 13:45:45",
-      "created_at": 1768311945000
+      "id": 46534632,
+      "title": "Japan's Skyscraper Factories (2021)",
+      "link": "https://www.construction-physics.com/p/japans-skyscraper-factories",
+      "score": 27,
+      "author": "Pikamander2",
+      "created": "2026-01-07 23:16:18",
+      "created_at": 1767827778000
     },
     {
-      "id": 46606633,
-      "title": "Instagram AI Influencers Are Defaming Celebrities with Sex Scandals",
-      "link": "https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/",
-      "score": 32,
-      "author": "cdrnsf",
-      "created": "2026-01-13 19:39:04",
-      "created_at": 1768333144000
+      "id": 46605675,
+      "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
+      "link": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
+      "score": 58,
+      "author": "davelradindra",
+      "created": "2026-01-13 18:43:28",
+      "created_at": 1768329808000
     },
     {
-      "id": 46603535,
-      "title": "Influencers and OnlyFans models are dominating U.S. O-1 visa requests",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
-      "score": 227,
-      "author": "bookofjoe",
-      "created": "2026-01-13 16:47:39",
-      "created_at": 1768322859000
-    },
-    {
-      "id": 46604862,
-      "title": "Show HN: Ayder – HTTP-native durable event log written in C (curl as client)",
-      "link": "https://github.com/A1darbek/ayder",
-      "score": 25,
-      "author": "Aydarbek",
-      "created": "2026-01-13 17:55:37",
-      "created_at": 1768326937000
-    },
-    {
-      "id": 46602102,
-      "title": "Scott Adams has died",
-      "link": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
-      "score": 393,
-      "author": "ekianjo",
-      "created": "2026-01-13 15:18:43",
-      "created_at": 1768317523000
-    },
-    {
-      "id": 46601157,
-      "title": "Apple Creator Studio",
-      "link": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
-      "score": 403,
-      "author": "lemonlime227",
-      "created": "2026-01-13 14:14:18",
-      "created_at": 1768313658000
-    },
-    {
-      "id": 46602532,
-      "title": "What a year of solar and batteries saved us in 2025",
-      "link": "https://scotthelme.co.uk/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/",
-      "score": 204,
-      "author": "MattSayar",
-      "created": "2026-01-13 15:49:27",
-      "created_at": 1768319367000
+      "id": 46604250,
+      "title": "How to make a damn website (2024)",
+      "link": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
+      "score": 129,
+      "author": "birdculture",
+      "created": "2026-01-13 17:23:46",
+      "created_at": 1768325026000
     }
   ],
   "code": 200,
