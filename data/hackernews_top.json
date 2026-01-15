@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-15T00:57:16.774Z"
+    "lastUpdate": "2026-01-15T04:32:45.822Z"
   },
   "data": [
     {
       "id": 46622328,
       "title": "Claude Cowork Exfiltrates Files",
       "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "score": 386,
+      "score": 536,
       "author": "takira",
       "created": "2026-01-14 20:12:25",
       "created_at": 1768421545000
     },
     {
-      "id": 46625918,
-      "title": "Anthropic Explicitly Blocking OpenCode",
-      "link": "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e",
-      "score": 48,
-      "author": "ryanvogel",
-      "created": "2026-01-15 00:04:24",
-      "created_at": 1768435464000
+      "id": 46627652,
+      "title": "The URL shortener that makes your links look as suspicious as possible",
+      "link": "https://creepylink.com/",
+      "score": 43,
+      "author": "dreadsword",
+      "created": "2026-01-15 03:28:20",
+      "created_at": 1768447700000
     },
     {
-      "id": 46624541,
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://cursor.com/blog/scaling-agents",
-      "score": 87,
-      "author": "samwillis",
-      "created": "2026-01-14 22:18:04",
-      "created_at": 1768429084000
-    },
-    {
-      "id": 46624352,
-      "title": "The State of OpenSSL for pyca/cryptography",
-      "link": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-      "score": 59,
-      "author": "SGran",
-      "created": "2026-01-14 22:04:10",
-      "created_at": 1768428250000
+      "id": 46626410,
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "score": 104,
+      "author": "written-beyond",
+      "created": "2026-01-15 00:53:21",
+      "created_at": 1768438401000
     },
     {
       "id": 46618714,
       "title": "Ask HN: Share your personal website",
       "link": "",
-      "score": 379,
+      "score": 468,
       "author": "susam",
       "created": "2026-01-14 17:07:42",
       "created_at": 1768410462000
     },
     {
+      "id": 46624541,
+      "title": "Scaling long-running autonomous coding",
+      "link": "https://cursor.com/blog/scaling-agents",
+      "score": 147,
+      "author": "samwillis",
+      "created": "2026-01-14 22:18:04",
+      "created_at": 1768429084000
+    },
+    {
+      "id": 46602411,
+      "title": "You Need a Kitchen Slide Rule",
+      "link": "https://entropicthoughts.com/kitchen-slide-rule",
+      "score": 22,
+      "author": "aebtebeten",
+      "created": "2026-01-13 15:40:55",
+      "created_at": 1768318855000
+    },
+    {
+      "id": 46626639,
+      "title": "Ask HN: What is the best way to provide continuous context to models?",
+      "link": "",
+      "score": 8,
+      "author": "nemath",
+      "created": "2026-01-15 01:20:22",
+      "created_at": 1768440022000
+    },
+    {
+      "id": 46624352,
+      "title": "The State of OpenSSL for pyca/cryptography",
+      "link": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+      "score": 95,
+      "author": "SGran",
+      "created": "2026-01-14 22:04:10",
+      "created_at": 1768428250000
+    },
+    {
+      "id": 46626836,
+      "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+      "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+      "score": 37,
+      "author": "0o_MrPatrick_o0",
+      "created": "2026-01-15 01:45:22",
+      "created_at": 1768441522000
+    },
+    {
       "id": 46561341,
       "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
       "link": "https://webtiles.kicya.net/",
-      "score": 103,
+      "score": 139,
       "author": "dimden",
       "created": "2026-01-10 00:32:10",
       "created_at": 1768005130000
-    },
-    {
-      "id": 46623761,
-      "title": "Sun Position Calculator",
-      "link": "https://drajmarsh.bitbucket.io/earthsun.html",
-      "score": 52,
-      "author": "sanbor",
-      "created": "2026-01-14 21:26:51",
-      "created_at": 1768426011000
-    },
-    {
-      "id": 46566974,
-      "title": "Generate QR Codes with Pure SQL in PostgreSQL",
-      "link": "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/",
-      "score": 31,
-      "author": "tanelpoder",
-      "created": "2026-01-10 16:19:42",
-      "created_at": 1768061982000
-    },
-    {
-      "id": 46572307,
-      "title": "Why some clothes shrink in the wash and how to unshrink them",
-      "link": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
-      "score": 423,
-      "author": "OptionOfT",
-      "created": "2026-01-11 02:58:36",
-      "created_at": 1768100316000
-    },
-    {
-      "id": 46624731,
-      "title": "ChromaDB Explorer",
-      "link": "https://www.chroma-explorer.com/",
-      "score": 20,
-      "author": "arsentjev",
-      "created": "2026-01-14 22:30:16",
-      "created_at": 1768429816000
     }
   ],
   "code": 200,
