@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-15T08:18:38.621Z"
+    "lastUpdate": "2026-01-15T12:24:30.024Z"
   },
   "data": [
     {
       "id": 46627652,
       "title": "The URL shortener that makes your links look as suspicious as possible",
       "link": "https://creepylink.com/",
-      "score": 281,
+      "score": 445,
       "author": "dreadsword",
       "created": "2026-01-15 03:28:20",
       "created_at": 1768447700000
     },
     {
+      "id": 46629474,
+      "title": "A letter to those who fired tech writers because of AI",
+      "link": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+      "score": 90,
+      "author": "theletterf",
+      "created": "2026-01-15 07:58:23",
+      "created_at": 1768463903000
+    },
+    {
+      "id": 46629682,
+      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+      "score": 114,
+      "author": "ingve",
+      "created": "2026-01-15 08:23:02",
+      "created_at": 1768465382000
+    },
+    {
       "id": 46622328,
       "title": "Claude Cowork exfiltrates files",
       "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "score": 628,
+      "score": 704,
       "author": "takira",
       "created": "2026-01-14 20:12:25",
       "created_at": 1768421545000
     },
     {
-      "id": 46628397,
-      "title": "Handy – free open source speech-to-text app",
-      "link": "https://github.com/cjpais/Handy",
-      "score": 44,
-      "author": "tin7in",
-      "created": "2026-01-15 05:23:18",
-      "created_at": 1768454598000
+      "id": 46584523,
+      "title": "Z80 Mem­ber­ship Card",
+      "link": "https://sunrise-ev.com/z80.htm",
+      "score": 31,
+      "author": "exvi",
+      "created": "2026-01-12 05:42:09",
+      "created_at": 1768196529000
     },
     {
-      "id": 46626210,
-      "title": "New Safari developer tools provide insight into CSS Grid Lanes",
-      "link": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
-      "score": 50,
-      "author": "feross",
-      "created": "2026-01-15 00:34:59",
-      "created_at": 1768437299000
+      "id": 46630369,
+      "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
+      "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+      "score": 112,
+      "author": "mrtksn",
+      "created": "2026-01-15 09:54:10",
+      "created_at": 1768470850000
     },
     {
-      "id": 46626410,
-      "title": "Furiosa: 3.5x efficiency over H100s",
-      "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
-      "score": 154,
-      "author": "written-beyond",
-      "created": "2026-01-15 00:53:21",
-      "created_at": 1768438401000
-    },
-    {
-      "id": 46619614,
-      "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
-      "link": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-      "score": 62,
-      "author": "code_brian",
-      "created": "2026-01-14 18:01:23",
-      "created_at": 1768413683000
+      "id": 46629191,
+      "title": "Show HN: MailPilot – Freedom to go anywhere while your agents work",
+      "link": "",
+      "score": 5,
+      "author": "keepamovin",
+      "created": "2026-01-15 07:20:02",
+      "created_at": 1768461602000
     },
     {
       "id": 46616529,
       "title": "Ask HN: How are you doing RAG locally?",
       "link": "",
-      "score": 114,
+      "score": 195,
       "author": "tmaly",
       "created": "2026-01-14 14:38:29",
       "created_at": 1768401509000
     },
     {
-      "id": 46618714,
-      "title": "Ask HN: Share your personal website",
-      "link": "",
-      "score": 574,
-      "author": "susam",
-      "created": "2026-01-14 17:07:42",
-      "created_at": 1768410462000
-    },
-    {
-      "id": 46624541,
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://cursor.com/blog/scaling-agents",
-      "score": 190,
-      "author": "samwillis",
-      "created": "2026-01-14 22:18:04",
-      "created_at": 1768429084000
-    },
-    {
-      "id": 46618503,
-      "title": "Project SkyWatch (a.k.a. Wescam at Home)",
-      "link": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
-      "score": 33,
-      "author": "jjwiseman",
-      "created": "2026-01-14 16:54:40",
-      "created_at": 1768409680000
+      "id": 46558224,
+      "title": "San Remo Pasta Measurer",
+      "link": "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/",
+      "score": 16,
+      "author": "surprisetalk",
+      "created": "2026-01-09 19:39:53",
+      "created_at": 1767987593000
     }
   ],
   "code": 200,
