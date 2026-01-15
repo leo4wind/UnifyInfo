@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-15T12:24:30.024Z"
+    "lastUpdate": "2026-01-15T16:22:32.274Z"
   },
   "data": [
+    {
+      "id": 46633488,
+      "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
+      "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+      "score": 139,
+      "author": "speckx",
+      "created": "2026-01-15 15:02:42",
+      "created_at": 1768489362000
+    },
+    {
+      "id": 46632023,
+      "title": "25 Years of Wikipedia",
+      "link": "https://wikipedia25.org",
+      "score": 106,
+      "author": "easton",
+      "created": "2026-01-15 13:17:07",
+      "created_at": 1768483027000
+    },
+    {
+      "id": 46632768,
+      "title": "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
+      "link": "https://github.com/chrisdiana/TinyCity",
+      "score": 48,
+      "author": "inflam52",
+      "created": "2026-01-15 14:11:30",
+      "created_at": 1768486290000
+    },
     {
       "id": 46627652,
       "title": "The URL shortener that makes your links look as suspicious as possible",
       "link": "https://creepylink.com/",
-      "score": 445,
+      "score": 611,
       "author": "dreadsword",
       "created": "2026-01-15 03:28:20",
       "created_at": 1768447700000
     },
     {
-      "id": 46629474,
-      "title": "A letter to those who fired tech writers because of AI",
-      "link": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
-      "score": 90,
-      "author": "theletterf",
-      "created": "2026-01-15 07:58:23",
-      "created_at": 1768463903000
-    },
-    {
-      "id": 46629682,
-      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-      "score": 114,
-      "author": "ingve",
-      "created": "2026-01-15 08:23:02",
-      "created_at": 1768465382000
+      "id": 46633378,
+      "title": "The Palantir app helping ICE raids in Minneapolis",
+      "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+      "score": 294,
+      "author": "fajmccain",
+      "created": "2026-01-15 14:54:51",
+      "created_at": 1768488891000
     },
     {
       "id": 46622328,
       "title": "Claude Cowork exfiltrates files",
       "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "score": 704,
+      "score": 780,
       "author": "takira",
       "created": "2026-01-14 20:12:25",
       "created_at": 1768421545000
     },
     {
-      "id": 46584523,
-      "title": "Z80 Mem­ber­ship Card",
-      "link": "https://sunrise-ev.com/z80.htm",
-      "score": 31,
-      "author": "exvi",
-      "created": "2026-01-12 05:42:09",
-      "created_at": 1768196529000
+      "id": 46633429,
+      "title": "OBS Studio 32.1.0 Beta 1 available",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1",
+      "score": 39,
+      "author": "Sean-Der",
+      "created": "2026-01-15 14:57:53",
+      "created_at": 1768489073000
     },
     {
-      "id": 46630369,
-      "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
-      "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-      "score": 112,
-      "author": "mrtksn",
-      "created": "2026-01-15 09:54:10",
-      "created_at": 1768470850000
+      "id": 46630798,
+      "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
+      "link": "https://nothings.org/gamedev/thief_rendering.html",
+      "score": 61,
+      "author": "suioir",
+      "created": "2026-01-15 10:59:08",
+      "created_at": 1768474748000
     },
     {
-      "id": 46629191,
-      "title": "Show HN: MailPilot – Freedom to go anywhere while your agents work",
-      "link": "",
-      "score": 5,
-      "author": "keepamovin",
-      "created": "2026-01-15 07:20:02",
-      "created_at": 1768461602000
+      "id": 46587284,
+      "title": "Impeccable Style",
+      "link": "https://impeccable.style",
+      "score": 60,
+      "author": "noemit",
+      "created": "2026-01-12 12:03:00",
+      "created_at": 1768219380000
     },
     {
-      "id": 46616529,
-      "title": "Ask HN: How are you doing RAG locally?",
-      "link": "",
-      "score": 195,
-      "author": "tmaly",
-      "created": "2026-01-14 14:38:29",
-      "created_at": 1768401509000
-    },
-    {
-      "id": 46558224,
-      "title": "San Remo Pasta Measurer",
-      "link": "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/",
-      "score": 16,
-      "author": "surprisetalk",
-      "created": "2026-01-09 19:39:53",
-      "created_at": 1767987593000
+      "id": 46632039,
+      "title": "Programming, Evolved: Lessons and Observations",
+      "link": "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md",
+      "score": 19,
+      "author": "dnw",
+      "created": "2026-01-15 13:18:10",
+      "created_at": 1768483090000
     }
   ],
   "code": 200,
