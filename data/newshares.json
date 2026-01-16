@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-16T04:31:56.433Z"
+    "lastUpdate": "2026-01-16T08:17:56.668Z"
   },
   "data": [
     {
@@ -30,6 +30,29 @@
       "zyyw": "为跨国制造企业提供定制化、一体化、嵌入式的供应链物流解决方案"
     },
     {
+      "zqdm": "920159",
+      "zqjc": "农大科技",
+      "sgdm": "920159",
+      "fxsl": 16000000,
+      "swfxsl": 14400000,
+      "sgsx": 720000,
+      "dgsz": 7200000,
+      "fxjg": 25,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-19",
+      "zqgbrq": "2026-01-22",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 13.4,
+      "hysyl": 30.39,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "新型肥料及新型肥料中间体的研发、生产、销售和技术服务"
+    },
+    {
       "zqdm": "601112",
       "zqjc": "振石股份",
       "sgdm": "780112",
@@ -37,14 +60,14 @@
       "swfxsl": 54821500,
       "sgsx": 54500,
       "dgsz": 545000,
-      "fxjg": null,
+      "fxjg": 11.18,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-01-19",
       "zqgbrq": "2026-01-21",
       "zqjkrq": "2026-01-21",
       "ssrq": null,
-      "syl": null,
+      "syl": 32.59,
       "hysyl": 33.72,
       "wszql": null,
       "yzbsl": 0,
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 14.97,
       "hysyl": 33.44,
-      "wszql": null,
+      "wszql": 0.02110267,
       "yzbsl": null,
       "zf": null,
       "yqhl": null,
@@ -122,5 +145,5 @@
       "zyyw": "长期专注于医疗健康事业,主要从事应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售,通过ODM/OEM等方式为国际知名医疗器械品牌厂商提供相关产品"
     }
   ],
-  "total": 5
+  "total": 6
 }
