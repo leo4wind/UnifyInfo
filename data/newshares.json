@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-15T20:14:49.720Z"
+    "lastUpdate": "2026-01-16T00:59:32.987Z"
   },
   "data": [
+    {
+      "zqdm": "001220",
+      "zqjc": "世盟股份",
+      "sgdm": "001220",
+      "fxsl": 23072500,
+      "swfxsl": 9229000,
+      "sgsx": 9000,
+      "dgsz": 90000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-23",
+      "zqgbrq": "2026-01-27",
+      "zqjkrq": "2026-01-27",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 14.62,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "为跨国制造企业提供定制化、一体化、嵌入式的供应链物流解决方案"
+    },
     {
       "zqdm": "601112",
       "zqjc": "振石股份",
@@ -99,5 +122,5 @@
       "zyyw": "长期专注于医疗健康事业,主要从事应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售,通过ODM/OEM等方式为国际知名医疗器械品牌厂商提供相关产品"
     }
   ],
-  "total": 4
+  "total": 5
 }
