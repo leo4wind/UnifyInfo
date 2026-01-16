@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-16T00:59:30.168Z"
+    "lastUpdate": "2026-01-16T04:31:53.355Z"
   },
   "data": [
     {
       "id": 46616745,
       "title": "FBI raids Washington Post reporter's home",
       "link": "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson",
-      "score": 927,
+      "score": 931,
       "author": "echelon_musk",
       "created": "2026-01-14 14:57:30",
       "created_at": 1768402650000
@@ -19,7 +19,7 @@
       "id": 46622328,
       "title": "Claude Cowork exfiltrates files",
       "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "score": 842,
+      "score": 847,
       "author": "takira",
       "created": "2026-01-14 20:12:25",
       "created_at": 1768421545000
@@ -28,7 +28,7 @@
       "id": 46618714,
       "title": "Ask HN: Share your personal website",
       "link": "",
-      "score": 835,
+      "score": 845,
       "author": "susam",
       "created": "2026-01-14 17:07:42",
       "created_at": 1768410462000
@@ -37,7 +37,7 @@
       "id": 46627652,
       "title": "The URL shortener that makes your links look as suspicious as possible",
       "link": "https://creepylink.com/",
-      "score": 754,
+      "score": 768,
       "author": "dreadsword",
       "created": "2026-01-15 03:28:20",
       "created_at": 1768447700000
@@ -46,28 +46,37 @@
       "id": 46618901,
       "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
       "link": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
-      "score": 654,
+      "score": 659,
       "author": "MBCook",
       "created": "2026-01-14 17:20:09",
       "created_at": 1768411209000
     },
     {
+      "id": 46633488,
+      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+      "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+      "score": 610,
+      "author": "speckx",
+      "created": "2026-01-15 15:02:42",
+      "created_at": 1768489362000
+    },
+    {
       "id": 46633378,
       "title": "The Palantir app helping ICE raids in Minneapolis",
       "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-      "score": 577,
+      "score": 589,
       "author": "fajmccain",
       "created": "2026-01-15 14:54:51",
       "created_at": 1768488891000
     },
     {
-      "id": 46633488,
-      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
-      "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-      "score": 539,
-      "author": "speckx",
-      "created": "2026-01-15 15:02:42",
-      "created_at": 1768489362000
+      "id": 46630369,
+      "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
+      "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+      "score": 566,
+      "author": "mrtksn",
+      "created": "2026-01-15 09:54:10",
+      "created_at": 1768470850000
     },
     {
       "id": 46616488,
@@ -86,15 +95,6 @@
       "author": "xlii",
       "created": "2026-01-14 10:53:13",
       "created_at": 1768387993000
-    },
-    {
-      "id": 46630369,
-      "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
-      "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-      "score": 473,
-      "author": "mrtksn",
-      "created": "2026-01-15 09:54:10",
-      "created_at": 1768470850000
     }
   ],
   "code": 200,
