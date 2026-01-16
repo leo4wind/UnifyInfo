@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-16T12:23:55.068Z"
+    "lastUpdate": "2026-01-16T16:16:53.775Z"
   },
   "data": [
+    {
+      "id": 46646645,
+      "title": "Astro Joining Cloudflare",
+      "link": "https://astro.build/blog/joining-cloudflare/",
+      "score": 233,
+      "author": "todotask2",
+      "created": "2026-01-16 14:25:54",
+      "created_at": 1768573554000
+    },
+    {
+      "id": 46646263,
+      "title": "Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old",
+      "link": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+      "score": 101,
+      "author": "bookofjoe",
+      "created": "2026-01-16 13:44:25",
+      "created_at": 1768571065000
+    },
+    {
+      "id": 46645615,
+      "title": "Just the Browser",
+      "link": "https://justthebrowser.com/",
+      "score": 279,
+      "author": "cl3misch",
+      "created": "2026-01-16 12:03:52",
+      "created_at": 1768565032000
+    },
+    {
+      "id": 46647491,
+      "title": "6-Day and IP Address Certificates Are Generally Available",
+      "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+      "score": 23,
+      "author": "jaas",
+      "created": "2026-01-16 15:37:19",
+      "created_at": 1768577839000
+    },
+    {
+      "id": 46588379,
+      "title": "Lock-Picking Robot",
+      "link": "https://github.com/etinaude/Lock-Picking-Robot",
+      "score": 63,
+      "author": "p44v9n",
+      "created": "2026-01-12 13:42:42",
+      "created_at": 1768225362000
+    },
+    {
+      "id": 46646226,
+      "title": "Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory",
+      "link": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+      "score": 38,
+      "author": "rbanffy",
+      "created": "2026-01-16 13:39:31",
+      "created_at": 1768570771000
+    },
+    {
+      "id": 46647059,
+      "title": "Read_once(), Write_once(), but Not for Rust",
+      "link": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+      "score": 21,
+      "author": "todsacerdoti",
+      "created": "2026-01-16 15:04:22",
+      "created_at": 1768575862000
+    },
+    {
+      "id": 46646091,
+      "title": "psc: The ps utility, with an eBPF twist and container context",
+      "link": "https://github.com/loresuso/psc",
+      "score": 30,
+      "author": "tanelpoder",
+      "created": "2026-01-16 13:20:20",
+      "created_at": 1768569620000
+    },
+    {
+      "id": 46624563,
+      "title": "Training my smartwatch to track intelligence",
+      "link": "https://dmvaldman.github.io/rooklift/",
+      "score": 73,
+      "author": "dmvaldman",
+      "created": "2026-01-14 22:19:36",
+      "created_at": 1768429176000
+    },
     {
       "id": 46642560,
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
       "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-      "score": 291,
+      "score": 341,
       "author": "gpi",
       "created": "2026-01-16 03:10:36",
       "created_at": 1768533036000
-    },
-    {
-      "id": 46641284,
-      "title": "List of individual trees",
-      "link": "https://en.wikipedia.org/wiki/List_of_individual_trees",
-      "score": 160,
-      "author": "wilson090",
-      "created": "2026-01-16 00:05:01",
-      "created_at": 1768521901000
-    },
-    {
-      "id": 46644661,
-      "title": "The spectrum of isolation: From bare metal to WebAssembly",
-      "link": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
-      "score": 32,
-      "author": "ThierryBuilds",
-      "created": "2026-01-16 09:27:03",
-      "created_at": 1768555623000
-    },
-    {
-      "id": 46588607,
-      "title": "Cue Does It All, but Can It Literate?",
-      "link": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/",
-      "score": 24,
-      "author": "xlii",
-      "created": "2026-01-12 13:59:54",
-      "created_at": 1768226394000
-    },
-    {
-      "id": 46633488,
-      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
-      "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-      "score": 701,
-      "author": "speckx",
-      "created": "2026-01-15 15:02:42",
-      "created_at": 1768489362000
-    },
-    {
-      "id": 46644181,
-      "title": "Interactive eBPF",
-      "link": "https://ebpf.party/",
-      "score": 46,
-      "author": "samuel246",
-      "created": "2026-01-16 08:01:02",
-      "created_at": 1768550462000
-    },
-    {
-      "id": 46628329,
-      "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
-      "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-      "score": 473,
-      "author": "pain_perdu",
-      "created": "2026-01-15 05:14:08",
-      "created_at": 1768454048000
-    },
-    {
-      "id": 46638013,
-      "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-      "link": "https://briarproject.org/manual/fa/",
-      "score": 392,
-      "author": "us321",
-      "created": "2026-01-15 19:38:02",
-      "created_at": 1768505882000
-    },
-    {
-      "id": 46644541,
-      "title": "pf: Make af-to less magical",
-      "link": "https://undeadly.org/cgi?action=article;sid=20260116085115",
-      "score": 17,
-      "author": "defrost",
-      "created": "2026-01-16 09:06:45",
-      "created_at": 1768554405000
-    },
-    {
-      "id": 46613324,
-      "title": "Inside The Internet Archive's Infrastructure",
-      "link": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
-      "score": 362,
-      "author": "dvrp",
-      "created": "2026-01-14 07:26:52",
-      "created_at": 1768375612000
     }
   ],
   "code": 200,
