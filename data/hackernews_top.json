@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-16T08:17:54.216Z"
+    "lastUpdate": "2026-01-16T12:23:55.068Z"
   },
   "data": [
     {
       "id": 46642560,
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
       "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-      "score": 198,
+      "score": 291,
       "author": "gpi",
       "created": "2026-01-16 03:10:36",
       "created_at": 1768533036000
@@ -19,25 +19,52 @@
       "id": 46641284,
       "title": "List of individual trees",
       "link": "https://en.wikipedia.org/wiki/List_of_individual_trees",
-      "score": 68,
+      "score": 160,
       "author": "wilson090",
       "created": "2026-01-16 00:05:01",
       "created_at": 1768521901000
     },
     {
+      "id": 46644661,
+      "title": "The spectrum of isolation: From bare metal to WebAssembly",
+      "link": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
+      "score": 32,
+      "author": "ThierryBuilds",
+      "created": "2026-01-16 09:27:03",
+      "created_at": 1768555623000
+    },
+    {
+      "id": 46588607,
+      "title": "Cue Does It All, but Can It Literate?",
+      "link": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/",
+      "score": 24,
+      "author": "xlii",
+      "created": "2026-01-12 13:59:54",
+      "created_at": 1768226394000
+    },
+    {
       "id": 46633488,
       "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-      "score": 657,
+      "score": 701,
       "author": "speckx",
       "created": "2026-01-15 15:02:42",
       "created_at": 1768489362000
     },
     {
+      "id": 46644181,
+      "title": "Interactive eBPF",
+      "link": "https://ebpf.party/",
+      "score": 46,
+      "author": "samuel246",
+      "created": "2026-01-16 08:01:02",
+      "created_at": 1768550462000
+    },
+    {
       "id": 46628329,
       "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
       "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-      "score": 374,
+      "score": 473,
       "author": "pain_perdu",
       "created": "2026-01-15 05:14:08",
       "created_at": 1768454048000
@@ -46,55 +73,28 @@
       "id": 46638013,
       "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
       "link": "https://briarproject.org/manual/fa/",
-      "score": 290,
+      "score": 392,
       "author": "us321",
       "created": "2026-01-15 19:38:02",
       "created_at": 1768505882000
     },
     {
-      "id": 46643737,
-      "title": "Building a better Bugbot",
-      "link": "https://cursor.com/blog/building-bugbot",
+      "id": 46644541,
+      "title": "pf: Make af-to less magical",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260116085115",
       "score": 17,
-      "author": "onurkanbkrc",
-      "created": "2026-01-16 06:52:03",
-      "created_at": 1768546323000
+      "author": "defrost",
+      "created": "2026-01-16 09:06:45",
+      "created_at": 1768554405000
     },
     {
       "id": 46613324,
       "title": "Inside The Internet Archive's Infrastructure",
       "link": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
-      "score": 319,
+      "score": 362,
       "author": "dvrp",
       "created": "2026-01-14 07:26:52",
       "created_at": 1768375612000
-    },
-    {
-      "id": 46638629,
-      "title": "Linux boxes via SSH: suspended when disconected",
-      "link": "https://shellbox.dev/",
-      "score": 178,
-      "author": "messh",
-      "created": "2026-01-15 20:20:13",
-      "created_at": 1768508413000
-    },
-    {
-      "id": 46635345,
-      "title": "Ask HN: How can we solve the loneliness epidemic?",
-      "link": "",
-      "score": 551,
-      "author": "publicdebates",
-      "created": "2026-01-15 16:49:13",
-      "created_at": 1768495753000
-    },
-    {
-      "id": 46577105,
-      "title": "Primecoin and Cunningham Prime Chains",
-      "link": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
-      "score": 5,
-      "author": "ibobev",
-      "created": "2026-01-11 16:30:32",
-      "created_at": 1768149032000
     }
   ],
   "code": 200,
