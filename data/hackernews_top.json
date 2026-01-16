@@ -3,23 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-16T16:16:53.775Z"
+    "lastUpdate": "2026-01-16T20:13:31.136Z"
   },
   "data": [
     {
       "id": 46646645,
-      "title": "Astro Joining Cloudflare",
+      "title": "Cloudflare acquires Astro",
       "link": "https://astro.build/blog/joining-cloudflare/",
-      "score": 233,
+      "score": 526,
       "author": "todotask2",
       "created": "2026-01-16 14:25:54",
       "created_at": 1768573554000
     },
     {
+      "id": 46647491,
+      "title": "6-Day and IP Address Certificates Are Generally Available",
+      "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+      "score": 223,
+      "author": "jaas",
+      "created": "2026-01-16 15:37:19",
+      "created_at": 1768577839000
+    },
+    {
       "id": 46646263,
-      "title": "Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old",
+      "title": "Michelangelo's first painting, created when he was 12 or 13",
       "link": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-      "score": 101,
+      "score": 217,
       "author": "bookofjoe",
       "created": "2026-01-16 13:44:25",
       "created_at": 1768571065000
@@ -28,73 +37,64 @@
       "id": 46645615,
       "title": "Just the Browser",
       "link": "https://justthebrowser.com/",
-      "score": 279,
+      "score": 393,
       "author": "cl3misch",
       "created": "2026-01-16 12:03:52",
       "created_at": 1768565032000
     },
     {
-      "id": 46647491,
-      "title": "6-Day and IP Address Certificates Are Generally Available",
-      "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "score": 23,
-      "author": "jaas",
-      "created": "2026-01-16 15:37:19",
-      "created_at": 1768577839000
+      "id": 46646777,
+      "title": "Cursor's latest \"browser experiment\" implied success without evidence",
+      "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+      "score": 168,
+      "author": "embedding-shape",
+      "created": "2026-01-16 14:37:49",
+      "created_at": 1768574269000
+    },
+    {
+      "id": 46649142,
+      "title": "STFU",
+      "link": "https://github.com/Pankajtanwarbanna/stfu",
+      "score": 374,
+      "author": "tanelpoder",
+      "created": "2026-01-16 17:32:40",
+      "created_at": 1768584760000
     },
     {
       "id": 46588379,
       "title": "Lock-Picking Robot",
       "link": "https://github.com/etinaude/Lock-Picking-Robot",
-      "score": 63,
+      "score": 180,
       "author": "p44v9n",
       "created": "2026-01-12 13:42:42",
       "created_at": 1768225362000
     },
     {
-      "id": 46646226,
-      "title": "Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory",
-      "link": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-      "score": 38,
-      "author": "rbanffy",
-      "created": "2026-01-16 13:39:31",
-      "created_at": 1768570771000
+      "id": 46579954,
+      "title": "Elasticsearch Was Never a Database",
+      "link": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
+      "score": 39,
+      "author": "jamesgresql",
+      "created": "2026-01-11 20:54:47",
+      "created_at": 1768164887000
     },
     {
-      "id": 46647059,
-      "title": "Read_once(), Write_once(), but Not for Rust",
-      "link": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-      "score": 21,
-      "author": "todsacerdoti",
-      "created": "2026-01-16 15:04:22",
-      "created_at": 1768575862000
+      "id": 46648144,
+      "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
+      "link": "https://www.shimmer.care/indy-redirect",
+      "score": 44,
+      "author": "christalwang",
+      "created": "2026-01-16 16:20:21",
+      "created_at": 1768580421000
     },
     {
-      "id": 46646091,
-      "title": "psc: The ps utility, with an eBPF twist and container context",
-      "link": "https://github.com/loresuso/psc",
-      "score": 30,
-      "author": "tanelpoder",
-      "created": "2026-01-16 13:20:20",
-      "created_at": 1768569620000
-    },
-    {
-      "id": 46624563,
-      "title": "Training my smartwatch to track intelligence",
-      "link": "https://dmvaldman.github.io/rooklift/",
-      "score": 73,
-      "author": "dmvaldman",
-      "created": "2026-01-14 22:19:36",
-      "created_at": 1768429176000
-    },
-    {
-      "id": 46642560,
-      "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-      "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-      "score": 341,
-      "author": "gpi",
-      "created": "2026-01-16 03:10:36",
-      "created_at": 1768533036000
+      "id": 46649813,
+      "title": "Earth from Space: The Fate of a Giant",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant",
+      "score": 13,
+      "author": "geox",
+      "created": "2026-01-16 18:18:20",
+      "created_at": 1768587500000
     }
   ],
   "code": 200,
