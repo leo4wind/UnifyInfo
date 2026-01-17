@@ -3,17 +3,26 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-17T04:24:25.430Z"
+    "lastUpdate": "2026-01-17T08:15:07.948Z"
   },
   "data": [
     {
-      "id": 46627652,
-      "title": "The URL shortener that makes your links look as suspicious as possible",
-      "link": "https://creepylink.com/",
-      "score": 799,
-      "author": "dreadsword",
-      "created": "2026-01-15 03:28:20",
-      "created_at": 1768447700000
+      "id": 46649142,
+      "title": "STFU",
+      "link": "https://github.com/Pankajtanwarbanna/stfu",
+      "score": 796,
+      "author": "tanelpoder",
+      "created": "2026-01-16 17:32:40",
+      "created_at": 1768584760000
+    },
+    {
+      "id": 46646645,
+      "title": "Cloudflare acquires Astro",
+      "link": "https://astro.build/blog/joining-cloudflare/",
+      "score": 796,
+      "author": "todotask2",
+      "created": "2026-01-16 14:25:54",
+      "created_at": 1768573554000
     },
     {
       "id": 46633488,
@@ -25,19 +34,10 @@
       "created_at": 1768489362000
     },
     {
-      "id": 46646645,
-      "title": "Cloudflare acquires Astro",
-      "link": "https://astro.build/blog/joining-cloudflare/",
-      "score": 755,
-      "author": "todotask2",
-      "created": "2026-01-16 14:25:54",
-      "created_at": 1768573554000
-    },
-    {
       "id": 46635345,
       "title": "Ask HN: How can we solve the loneliness epidemic?",
       "link": "",
-      "score": 750,
+      "score": 755,
       "author": "publicdebates",
       "created": "2026-01-15 16:49:13",
       "created_at": 1768495753000
@@ -46,43 +46,25 @@
       "id": 46630369,
       "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
       "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-      "score": 737,
+      "score": 741,
       "author": "mrtksn",
       "created": "2026-01-15 09:54:10",
       "created_at": 1768470850000
     },
     {
-      "id": 46649142,
-      "title": "STFU",
-      "link": "https://github.com/Pankajtanwarbanna/stfu",
-      "score": 713,
-      "author": "tanelpoder",
-      "created": "2026-01-16 17:32:40",
-      "created_at": 1768584760000
-    },
-    {
       "id": 46633378,
       "title": "The Palantir app helping ICE raids in Minneapolis",
       "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-      "score": 629,
+      "score": 631,
       "author": "fajmccain",
       "created": "2026-01-15 14:54:51",
       "created_at": 1768488891000
     },
     {
-      "id": 46628329,
-      "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
-      "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-      "score": 611,
-      "author": "pain_perdu",
-      "created": "2026-01-15 05:14:08",
-      "created_at": 1768454048000
-    },
-    {
       "id": 46638013,
       "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
       "link": "https://briarproject.org/manual/fa/",
-      "score": 565,
+      "score": 572,
       "author": "us321",
       "created": "2026-01-15 19:38:02",
       "created_at": 1768505882000
@@ -91,10 +73,28 @@
       "id": 46632023,
       "title": "25 Years of Wikipedia",
       "link": "https://wikipedia25.org",
-      "score": 554,
+      "score": 556,
       "author": "easton",
       "created": "2026-01-15 13:17:07",
       "created_at": 1768483027000
+    },
+    {
+      "id": 46645615,
+      "title": "Just the Browser",
+      "link": "https://justthebrowser.com/",
+      "score": 528,
+      "author": "cl3misch",
+      "created": "2026-01-16 12:03:52",
+      "created_at": 1768565032000
+    },
+    {
+      "id": 46646777,
+      "title": "Cursor's latest “browser experiment” implied success without evidence",
+      "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+      "score": 516,
+      "author": "embedding-shape",
+      "created": "2026-01-16 14:37:49",
+      "created_at": 1768574269000
     }
   ],
   "code": 200,
