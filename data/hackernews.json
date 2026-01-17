@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-16T20:13:31.024Z"
+    "lastUpdate": "2026-01-17T00:56:25.894Z"
   },
   "data": [
-    {
-      "id": 46622328,
-      "title": "Claude Cowork exfiltrates files",
-      "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "score": 858,
-      "author": "takira",
-      "created": "2026-01-14 20:12:25",
-      "created_at": 1768421545000
-    },
     {
       "id": 46627652,
       "title": "The URL shortener that makes your links look as suspicious as possible",
       "link": "https://creepylink.com/",
-      "score": 794,
+      "score": 797,
       "author": "dreadsword",
       "created": "2026-01-15 03:28:20",
       "created_at": 1768447700000
@@ -28,7 +19,7 @@
       "id": 46633488,
       "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
       "link": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-      "score": 751,
+      "score": 759,
       "author": "speckx",
       "created": "2026-01-15 15:02:42",
       "created_at": 1768489362000
@@ -37,7 +28,7 @@
       "id": 46635345,
       "title": "Ask HN: How can we solve the loneliness epidemic?",
       "link": "",
-      "score": 735,
+      "score": 746,
       "author": "publicdebates",
       "created": "2026-01-15 16:49:13",
       "created_at": 1768495753000
@@ -46,25 +37,43 @@
       "id": 46630369,
       "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
       "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-      "score": 722,
+      "score": 733,
       "author": "mrtksn",
       "created": "2026-01-15 09:54:10",
       "created_at": 1768470850000
     },
     {
+      "id": 46646645,
+      "title": "Cloudflare acquires Astro",
+      "link": "https://astro.build/blog/joining-cloudflare/",
+      "score": 685,
+      "author": "todotask2",
+      "created": "2026-01-16 14:25:54",
+      "created_at": 1768573554000
+    },
+    {
       "id": 46633378,
       "title": "The Palantir app helping ICE raids in Minneapolis",
       "link": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-      "score": 625,
+      "score": 628,
       "author": "fajmccain",
       "created": "2026-01-15 14:54:51",
       "created_at": 1768488891000
     },
     {
+      "id": 46649142,
+      "title": "STFU",
+      "link": "https://github.com/Pankajtanwarbanna/stfu",
+      "score": 614,
+      "author": "tanelpoder",
+      "created": "2026-01-16 17:32:40",
+      "created_at": 1768584760000
+    },
+    {
       "id": 46628329,
       "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
       "link": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-      "score": 596,
+      "score": 610,
       "author": "pain_perdu",
       "created": "2026-01-15 05:14:08",
       "created_at": 1768454048000
@@ -73,7 +82,7 @@
       "id": 46638013,
       "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
       "link": "https://briarproject.org/manual/fa/",
-      "score": 550,
+      "score": 561,
       "author": "us321",
       "created": "2026-01-15 19:38:02",
       "created_at": 1768505882000
@@ -82,19 +91,10 @@
       "id": 46632023,
       "title": "25 Years of Wikipedia",
       "link": "https://wikipedia25.org",
-      "score": 544,
+      "score": 551,
       "author": "easton",
       "created": "2026-01-15 13:17:07",
       "created_at": 1768483027000
-    },
-    {
-      "id": 46646645,
-      "title": "Cloudflare acquires Astro",
-      "link": "https://astro.build/blog/joining-cloudflare/",
-      "score": 526,
-      "author": "todotask2",
-      "created": "2026-01-16 14:25:54",
-      "created_at": 1768573554000
     }
   ],
   "code": 200,
