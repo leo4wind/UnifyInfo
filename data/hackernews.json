@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-17T16:12:39.221Z"
+    "lastUpdate": "2026-01-17T20:12:52.400Z"
   },
   "data": [
     {
       "id": 46649142,
       "title": "STFU",
       "link": "https://github.com/Pankajtanwarbanna/stfu",
-      "score": 926,
+      "score": 953,
       "author": "tanelpoder",
       "created": "2026-01-16 17:32:40",
       "created_at": 1768584760000
@@ -19,25 +19,16 @@
       "id": 46646645,
       "title": "Cloudflare acquires Astro",
       "link": "https://astro.build/blog/joining-cloudflare/",
-      "score": 879,
+      "score": 914,
       "author": "todotask2",
       "created": "2026-01-16 14:25:54",
       "created_at": 1768573554000
     },
     {
-      "id": 46635345,
-      "title": "Ask HN: How can we solve the loneliness epidemic?",
-      "link": "",
-      "score": 764,
-      "author": "publicdebates",
-      "created": "2026-01-15 16:49:13",
-      "created_at": 1768495753000
-    },
-    {
       "id": 46646777,
       "title": "Cursor's latest “browser experiment” implied success without evidence",
       "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-      "score": 635,
+      "score": 669,
       "author": "embedding-shape",
       "created": "2026-01-16 14:37:49",
       "created_at": 1768574269000
@@ -46,7 +37,7 @@
       "id": 46648916,
       "title": "East Germany balloon escape",
       "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-      "score": 595,
+      "score": 640,
       "author": "robertvc",
       "created": "2026-01-16 17:16:33",
       "created_at": 1768583793000
@@ -55,16 +46,25 @@
       "id": 46638013,
       "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
       "link": "https://briarproject.org/manual/fa/",
-      "score": 583,
+      "score": 588,
       "author": "us321",
       "created": "2026-01-15 19:38:02",
       "created_at": 1768505882000
     },
     {
+      "id": 46657122,
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "link": "https://alexharri.com/blog/ascii-rendering",
+      "score": 584,
+      "author": "alexharri",
+      "created": "2026-01-17 11:15:26",
+      "created_at": 1768648526000
+    },
+    {
       "id": 46645615,
       "title": "Just the Browser",
       "link": "https://justthebrowser.com/",
-      "score": 541,
+      "score": 543,
       "author": "cl3misch",
       "created": "2026-01-16 12:03:52",
       "created_at": 1768565032000
@@ -73,28 +73,28 @@
       "id": 46647491,
       "title": "6-Day and IP Address Certificates Are Generally Available",
       "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "score": 442,
+      "score": 468,
       "author": "jaas",
       "created": "2026-01-16 15:37:19",
       "created_at": 1768577839000
     },
     {
-      "id": 46637127,
-      "title": "‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid",
-      "link": "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-      "score": 430,
-      "author": "sdoering",
-      "created": "2026-01-15 18:42:46",
-      "created_at": 1768502566000
-    },
-    {
       "id": 46648778,
       "title": "Canada slashes 100% tariffs on Chinese EVs to 6%",
       "link": "https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/",
-      "score": 424,
+      "score": 429,
       "author": "1970-01-01",
       "created": "2026-01-16 17:05:28",
       "created_at": 1768583128000
+    },
+    {
+      "id": 46642560,
+      "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+      "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+      "score": 400,
+      "author": "gpi",
+      "created": "2026-01-16 03:10:36",
+      "created_at": 1768533036000
     }
   ],
   "code": 200,
