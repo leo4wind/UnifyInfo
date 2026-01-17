@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-17T08:15:08.121Z"
+    "lastUpdate": "2026-01-17T12:21:04.041Z"
   },
   "data": [
+    {
+      "id": 46656911,
+      "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
+      "link": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+      "score": 71,
+      "author": "giuliomagnifico",
+      "created": "2026-01-17 10:29:35",
+      "created_at": 1768645775000
+    },
+    {
+      "id": 46657122,
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "link": "https://alexharri.com/blog/ascii-rendering",
+      "score": 56,
+      "author": "alexharri",
+      "created": "2026-01-17 11:15:26",
+      "created_at": 1768648526000
+    },
+    {
+      "id": 46656552,
+      "title": "ClickHouse Acquires Langfuse",
+      "link": "https://langfuse.com/blog/joining-clickhouse",
+      "score": 76,
+      "author": "tin7in",
+      "created": "2026-01-17 09:15:45",
+      "created_at": 1768641345000
+    },
+    {
+      "id": 46657296,
+      "title": "The 600-year-old origins of the word 'hello'",
+      "link": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
+      "score": 7,
+      "author": "1659447091",
+      "created": "2026-01-17 11:51:44",
+      "created_at": 1768650704000
+    },
+    {
+      "id": 46656834,
+      "title": "Map To Poster – Create Art of your favourite city",
+      "link": "https://github.com/originalankur/maptoposter",
+      "score": 33,
+      "author": "originalankur",
+      "created": "2026-01-17 10:13:57",
+      "created_at": 1768644837000
+    },
+    {
+      "id": 46656358,
+      "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+      "link": "https://github.com/PABannier/WSIStreamer",
+      "score": 45,
+      "author": "el_pa_b",
+      "created": "2026-01-17 08:46:08",
+      "created_at": 1768639568000
+    },
+    {
+      "id": 46646475,
+      "title": "The Dilbert Afterlife",
+      "link": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
+      "score": 8,
+      "author": "rendall",
+      "created": "2026-01-16 14:09:32",
+      "created_at": 1768572572000
+    },
     {
       "id": 46648916,
       "title": "East Germany balloon escape",
       "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-      "score": 464,
+      "score": 546,
       "author": "robertvc",
       "created": "2026-01-16 17:16:33",
       "created_at": 1768583793000
     },
     {
+      "id": 46656903,
+      "title": "US electricity demand surged in 2025 – solar handled 61% of it",
+      "link": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+      "score": 58,
+      "author": "doener",
+      "created": "2026-01-17 10:28:06",
+      "created_at": 1768645686000
+    },
+    {
       "id": 46646645,
       "title": "Cloudflare acquires Astro",
       "link": "https://astro.build/blog/joining-cloudflare/",
-      "score": 796,
+      "score": 845,
       "author": "todotask2",
       "created": "2026-01-16 14:25:54",
       "created_at": 1768573554000
-    },
-    {
-      "id": 46630816,
-      "title": "High-Level Is the Goal",
-      "link": "https://bvisness.me/high-level/",
-      "score": 101,
-      "author": "tobr",
-      "created": "2026-01-15 11:01:34",
-      "created_at": 1768474894000
-    },
-    {
-      "id": 46612661,
-      "title": "Beebo, a wave simulator written in C",
-      "link": "https://git.sr.ht/~willowf/beebo/",
-      "score": 39,
-      "author": "anon25783",
-      "created": "2026-01-14 05:26:20",
-      "created_at": 1768368380000
-    },
-    {
-      "id": 46653721,
-      "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
-      "link": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
-      "score": 106,
-      "author": "GaggiX",
-      "created": "2026-01-16 23:46:17",
-      "created_at": 1768607177000
-    },
-    {
-      "id": 46646777,
-      "title": "Cursor's latest “browser experiment” implied success without evidence",
-      "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-      "score": 516,
-      "author": "embedding-shape",
-      "created": "2026-01-16 14:37:49",
-      "created_at": 1768574269000
-    },
-    {
-      "id": 46647491,
-      "title": "6-Day and IP Address Certificates Are Generally Available",
-      "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "score": 390,
-      "author": "jaas",
-      "created": "2026-01-16 15:37:19",
-      "created_at": 1768577839000
-    },
-    {
-      "id": 46654749,
-      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-      "link": "https://neodyme.io/en/blog/drone_hacking_part_1/",
-      "score": 39,
-      "author": "tripdout",
-      "created": "2026-01-17 02:35:28",
-      "created_at": 1768617328000
-    },
-    {
-      "id": 46635309,
-      "title": "LLM Structured Outputs Handbook",
-      "link": "https://nanonets.com/cookbooks/structured-llm-outputs",
-      "score": 221,
-      "author": "vitaelabitur",
-      "created": "2026-01-15 16:46:50",
-      "created_at": 1768495610000
-    },
-    {
-      "id": 46652617,
-      "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
-      "score": 111,
-      "author": "linolevan",
-      "created": "2026-01-16 21:42:24",
-      "created_at": 1768599744000
     }
   ],
   "code": 200,
