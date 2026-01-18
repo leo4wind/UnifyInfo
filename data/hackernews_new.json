@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-18T04:34:35.402Z"
+    "lastUpdate": "2026-01-18T08:15:34.815Z"
   },
   "data": [
     {
       "id": 46664638,
       "title": "Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab",
       "link": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
-      "score": 15,
+      "score": 90,
       "author": "firloop",
       "created": "2026-01-18 03:49:29",
       "created_at": 1768708169000
     },
     {
+      "id": 46665310,
+      "title": "Spirit of ThinkPad",
+      "link": "https://thinknextdesign.com/home.html",
+      "score": 27,
+      "author": "__patchbit__",
+      "created": "2026-01-18 06:27:24",
+      "created_at": 1768717644000
+    },
+    {
+      "id": 46665411,
+      "title": "Iconify: Library of Open Source Icons",
+      "link": "https://icon-sets.iconify.design/",
+      "score": 13,
+      "author": "sea-gold",
+      "created": "2026-01-18 06:53:36",
+      "created_at": 1768719216000
+    },
+    {
+      "id": 46664631,
+      "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+      "link": "https://twitter.com/neelsomani/status/2012695714187325745",
+      "score": 172,
+      "author": "nl",
+      "created": "2026-01-18 03:48:03",
+      "created_at": 1768708083000
+    },
+    {
+      "id": 46664755,
+      "title": "jQuery 4.0.0 Released",
+      "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+      "score": 174,
+      "author": "OuterVale",
+      "created": "2026-01-18 04:23:28",
+      "created_at": 1768710208000
+    },
+    {
+      "id": 46664195,
+      "title": "Profession by Isaac Asimov",
+      "link": "https://www.abelard.org/asimov.php",
+      "score": 46,
+      "author": "bkudria",
+      "created": "2026-01-18 02:17:25",
+      "created_at": 1768702645000
+    },
+    {
       "id": 46657122,
       "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
       "link": "https://alexharri.com/blog/ascii-rendering",
-      "score": 905,
+      "score": 961,
       "author": "alexharri",
       "created": "2026-01-17 11:15:26",
       "created_at": 1768648526000
     },
     {
+      "id": 46663268,
+      "title": "No knives, only cook knives",
+      "link": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
+      "score": 46,
+      "author": "firloop",
+      "created": "2026-01-17 23:38:21",
+      "created_at": 1768693101000
+    },
+    {
+      "id": 46665393,
+      "title": "Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval",
+      "link": "https://github.com/gibram-io/gibram",
+      "score": 5,
+      "author": "ktyptorio",
+      "created": "2026-01-18 06:47:17",
+      "created_at": 1768718837000
+    },
+    {
       "id": 46661897,
       "title": "Kip: A programming language based on grammatical cases of Turkish",
       "link": "https://github.com/kip-dili/kip",
-      "score": 143,
+      "score": 170,
       "author": "nhatcher",
       "created": "2026-01-17 20:44:52",
       "created_at": 1768682692000
-    },
-    {
-      "id": 46663507,
-      "title": "Computer Systems Security 6.566 / Spring 2024",
-      "link": "https://css.csail.mit.edu/6.858/2024/",
-      "score": 51,
-      "author": "barishnamazov",
-      "created": "2026-01-18 00:09:43",
-      "created_at": 1768694983000
-    },
-    {
-      "id": 46658345,
-      "title": "The recurring dream of replacing developers",
-      "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "score": 342,
-      "author": "glimshe",
-      "created": "2026-01-17 14:31:33",
-      "created_at": 1768660293000
-    },
-    {
-      "id": 46619059,
-      "title": "Xous Operating System",
-      "link": "https://xous.dev/",
-      "score": 101,
-      "author": "eustoria",
-      "created": "2026-01-14 17:29:09",
-      "created_at": 1768411749000
-    },
-    {
-      "id": 46588972,
-      "title": "We put Claude Code in Rollercoaster Tycoon",
-      "link": "https://labs.ramp.com/rct",
-      "score": 392,
-      "author": "iamwil",
-      "created": "2026-01-12 14:28:17",
-      "created_at": 1768228097000
-    },
-    {
-      "id": 46663338,
-      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
-      "link": "https://mastodon.social/@heliographe_studio/115890819509545391",
-      "score": 306,
-      "author": "lateforwork",
-      "created": "2026-01-17 23:47:16",
-      "created_at": 1768693636000
-    },
-    {
-      "id": 46574989,
-      "title": "Why Object of Arrays beat interleaved arrays: a JavaScript performance issue",
-      "link": "https://www.royalbhati.com/posts/js-array-vs-typedarray",
-      "score": 9,
-      "author": "howToTestFE",
-      "created": "2026-01-11 12:05:17",
-      "created_at": 1768133117000
-    },
-    {
-      "id": 46660543,
-      "title": "Raising money fucked me up",
-      "link": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
-      "score": 179,
-      "author": "yakkomajuri",
-      "created": "2026-01-17 18:29:00",
-      "created_at": 1768674540000
     }
   ],
   "code": 200,
