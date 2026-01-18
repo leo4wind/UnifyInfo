@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-17T20:12:52.546Z"
+    "lastUpdate": "2026-01-18T01:03:04.876Z"
   },
   "data": [
+    {
+      "id": 46661897,
+      "title": "A programming language based on grammatical cases of Turkish",
+      "link": "https://github.com/kip-dili/kip",
+      "score": 108,
+      "author": "nhatcher",
+      "created": "2026-01-17 20:44:52",
+      "created_at": 1768682692000
+    },
+    {
+      "id": 46663338,
+      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+      "link": "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1",
+      "score": 25,
+      "author": "lateforwork",
+      "created": "2026-01-17 23:47:16",
+      "created_at": 1768693636000
+    },
     {
       "id": 46657122,
       "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
       "link": "https://alexharri.com/blog/ascii-rendering",
-      "score": 584,
+      "score": 802,
       "author": "alexharri",
       "created": "2026-01-17 11:15:26",
       "created_at": 1768648526000
     },
     {
+      "id": 46619059,
+      "title": "Xous Operating System",
+      "link": "https://xous.dev/",
+      "score": 59,
+      "author": "eustoria",
+      "created": "2026-01-14 17:29:09",
+      "created_at": 1768411749000
+    },
+    {
+      "id": 46662662,
+      "title": "Light Mode InFFFFFFlation",
+      "link": "https://willhbr.net/2025/10/20/light-mode-infffffflation/",
+      "score": 131,
+      "author": "Fudgel",
+      "created": "2026-01-17 22:19:25",
+      "created_at": 1768688365000
+    },
+    {
       "id": 46588972,
       "title": "We put Claude Code in Rollercoaster Tycoon",
       "link": "https://labs.ramp.com/rct",
-      "score": 226,
+      "score": 353,
       "author": "iamwil",
       "created": "2026-01-12 14:28:17",
       "created_at": 1768228097000
     },
     {
-      "id": 46659550,
-      "title": "An Elizabethan mansion's secrets for staying warm",
-      "link": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "score": 49,
-      "author": "Tachyooon",
-      "created": "2026-01-17 16:53:24",
-      "created_at": 1768668804000
-    },
-    {
-      "id": 46658345,
-      "title": "The recurring dream of replacing developers",
-      "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "score": 125,
-      "author": "glimshe",
-      "created": "2026-01-17 14:31:33",
-      "created_at": 1768660293000
-    },
-    {
-      "id": 46659219,
-      "title": "There's no single best way to store information",
-      "link": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
-      "score": 47,
-      "author": "7777777phil",
-      "created": "2026-01-17 16:17:58",
-      "created_at": 1768666678000
-    },
-    {
-      "id": 46661217,
-      "title": "Canada's deal with China signals it is serious about shift from US",
-      "link": "https://www.bbc.com/news/articles/cm24k6kk1rko",
-      "score": 46,
-      "author": "breve",
-      "created": "2026-01-17 19:29:04",
-      "created_at": 1768678144000
+      "id": 46662078,
+      "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
+      "link": "https://github.com/chunkhound/chunkhound",
+      "score": 38,
+      "author": "NadavBenItzhak",
+      "created": "2026-01-17 21:03:52",
+      "created_at": 1768683832000
     },
     {
       "id": 46576581,
-      "title": "The Olivetti Company – By Bradford Morgan White",
+      "title": "The Olivetti Company",
       "link": "https://www.abortretry.fail/p/the-olivetti-company",
-      "score": 26,
+      "score": 131,
       "author": "rbanffy",
       "created": "2026-01-11 15:33:04",
       "created_at": 1768145584000
     },
     {
-      "id": 46584880,
-      "title": "Common misunderstandings about large software companies",
-      "link": "https://philipotoole.com/common-misunderstandings-about-large-software-companies/",
-      "score": 11,
-      "author": "otoolep",
-      "created": "2026-01-12 06:38:51",
-      "created_at": 1768199931000
+      "id": 46658345,
+      "title": "The recurring dream of replacing developers",
+      "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "score": 260,
+      "author": "glimshe",
+      "created": "2026-01-17 14:31:33",
+      "created_at": 1768660293000
     },
     {
-      "id": 46655524,
-      "title": "Counterfactual evaluation for recommendation systems",
-      "link": "https://eugeneyan.com/writing/counterfactual-evaluation/",
-      "score": 36,
-      "author": "kurinikku",
-      "created": "2026-01-17 05:20:20",
-      "created_at": 1768627220000
-    },
-    {
-      "id": 46578601,
-      "title": "M8SBC-486 (Homebrew 486 computer)",
-      "link": "https://maniek86.xyz/projects/m8sbc_486.php",
-      "score": 30,
-      "author": "rasz",
-      "created": "2026-01-11 18:58:19",
-      "created_at": 1768157899000
+      "id": 46659550,
+      "title": "An Elizabethan mansion's secrets for staying warm",
+      "link": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+      "score": 106,
+      "author": "Tachyooon",
+      "created": "2026-01-17 16:53:24",
+      "created_at": 1768668804000
     }
   ],
   "code": 200,
