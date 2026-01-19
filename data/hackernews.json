@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-19T01:02:42.886Z"
+    "lastUpdate": "2026-01-19T04:43:32.834Z"
   },
   "data": [
     {
       "id": 46657122,
       "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
       "link": "https://alexharri.com/blog/ascii-rendering",
-      "score": 1174,
+      "score": 1208,
       "author": "alexharri",
       "created": "2026-01-17 11:15:26",
       "created_at": 1768648526000
@@ -19,7 +19,7 @@
       "id": 46663338,
       "title": "If you put Apple icons in reverse it looks like someone getting good at design",
       "link": "https://mastodon.social/@heliographe_studio/115890819509545391",
-      "score": 762,
+      "score": 782,
       "author": "lateforwork",
       "created": "2026-01-17 23:47:16",
       "created_at": 1768693636000
@@ -28,7 +28,7 @@
       "id": 46664755,
       "title": "jQuery 4",
       "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "score": 714,
+      "score": 743,
       "author": "OuterVale",
       "created": "2026-01-18 04:23:28",
       "created_at": 1768710208000
@@ -37,16 +37,25 @@
       "id": 46658345,
       "title": "The recurring dream of replacing developers",
       "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "score": 587,
+      "score": 593,
       "author": "glimshe",
       "created": "2026-01-17 14:31:33",
       "created_at": 1768660293000
     },
     {
+      "id": 46670024,
+      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+      "score": 515,
+      "author": "ChrisArchitect",
+      "created": "2026-01-18 17:40:55",
+      "created_at": 1768758055000
+    },
+    {
       "id": 46665411,
       "title": "Iconify: Library of Open Source Icons",
       "link": "https://icon-sets.iconify.design/",
-      "score": 499,
+      "score": 514,
       "author": "sea-gold",
       "created": "2026-01-18 06:53:36",
       "created_at": 1768719216000
@@ -55,7 +64,7 @@
       "id": 46668021,
       "title": "Predicting OpenAI's ad strategy",
       "link": "https://ossa-ma.github.io/blog/openads",
-      "score": 472,
+      "score": 509,
       "author": "calcifer",
       "created": "2026-01-18 14:25:49",
       "created_at": 1768746349000
@@ -64,25 +73,16 @@
       "id": 46669025,
       "title": "Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK",
       "link": "https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/",
-      "score": 430,
+      "score": 450,
       "author": "calcifer",
       "created": "2026-01-18 16:17:39",
       "created_at": 1768753059000
     },
     {
-      "id": 46670024,
-      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
-      "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "score": 417,
-      "author": "ChrisArchitect",
-      "created": "2026-01-18 17:40:55",
-      "created_at": 1768758055000
-    },
-    {
       "id": 46660543,
       "title": "Raising money fucked me up",
       "link": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
-      "score": 360,
+      "score": 364,
       "author": "yakkomajuri",
       "created": "2026-01-17 18:29:00",
       "created_at": 1768674540000
@@ -91,7 +91,7 @@
       "id": 46656903,
       "title": "US electricity demand surged in 2025 – solar handled 61% of it",
       "link": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
-      "score": 355,
+      "score": 356,
       "author": "doener",
       "created": "2026-01-17 10:28:06",
       "created_at": 1768645686000
