@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-18T20:13:14.061Z"
+    "lastUpdate": "2026-01-19T01:02:46.215Z"
   },
   "data": [
+    {
+      "zqdm": "688712",
+      "zqjc": "北芯生命",
+      "sgdm": "787712",
+      "fxsl": 57000000,
+      "swfxsl": 9120000,
+      "sgsx": 9000,
+      "dgsz": 90000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-26",
+      "zqgbrq": "2026-01-28",
+      "zqjkrq": "2026-01-28",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 40.53,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "心血管疾病精准诊疗创新医疗器械研发、生产和销售的国家高新技术企业,致力于开发为心血管疾病诊疗带来变革的精准解决方案"
+    },
     {
       "zqdm": "001220",
       "zqjc": "世盟股份",
@@ -120,29 +143,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "公司是一家专业从事高温工业用耐火材料整体解决方案的高新技术企业,为客户提供耐火材料整体承包服务及耐火材料产品"
-    },
-    {
-      "zqdm": "920050",
-      "zqjc": "爱舍伦",
-      "sgdm": "920050",
-      "fxsl": 16919834,
-      "swfxsl": 15227851,
-      "sgsx": 761300,
-      "dgsz": 7613000,
-      "fxjg": 15.98,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-01-12",
-      "zqgbrq": "2026-01-15",
-      "zqjkrq": null,
-      "ssrq": "2026-01-21",
-      "syl": 14.99,
-      "hysyl": 29.79,
-      "wszql": 0.02768633,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "长期专注于医疗健康事业,主要从事应用在专业的康复护理与医疗防护领域的一次性医用耗材的研发、生产和销售,通过ODM/OEM等方式为国际知名医疗器械品牌厂商提供相关产品"
     }
   ],
   "total": 6
