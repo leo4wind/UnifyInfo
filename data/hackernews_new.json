@@ -3,41 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-19T08:20:39.908Z"
+    "lastUpdate": "2026-01-19T12:26:52.343Z"
   },
   "data": [
+    {
+      "id": 46676276,
+      "title": "Radboud University selects Fairphone as standard smartphone for employees",
+      "link": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+      "score": 196,
+      "author": "ardentsword",
+      "created": "2026-01-19 08:23:04",
+      "created_at": 1768810984000
+    },
     {
       "id": 46675853,
       "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
       "link": "https://bitchat.free/",
-      "score": 32,
+      "score": 249,
       "author": "no_creativity_",
       "created": "2026-01-19 07:14:19",
       "created_at": 1768806859000
     },
     {
-      "id": 46675231,
-      "title": "Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)",
-      "link": "https://pdfwithlove.netlify.app",
-      "score": 114,
-      "author": "pratik227",
-      "created": "2026-01-19 05:04:07",
-      "created_at": 1768799047000
+      "id": 46627410,
+      "title": "Nepal's Mountainside Teahouses Elevate the Experience for Trekkers",
+      "link": "https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/",
+      "score": 30,
+      "author": "bookofjoe",
+      "created": "2026-01-15 02:47:16",
+      "created_at": 1768445236000
     },
     {
       "id": 46670024,
       "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
       "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "score": 597,
+      "score": 662,
       "author": "ChrisArchitect",
       "created": "2026-01-18 17:40:55",
       "created_at": 1768758055000
     },
     {
+      "id": 46677106,
+      "title": "Wikipedia: WikiProject AI Cleanup",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
+      "score": 90,
+      "author": "thinkingemote",
+      "created": "2026-01-19 10:09:38",
+      "created_at": 1768817378000
+    },
+    {
+      "id": 46671731,
+      "title": "Dead Internet Theory",
+      "link": "https://kudmitry.com/articles/dead-internet-theory/",
+      "score": 381,
+      "author": "skwee357",
+      "created": "2026-01-18 20:19:07",
+      "created_at": 1768767547000
+    },
+    {
       "id": 46656897,
       "title": "Provide agents with automated feedback",
       "link": "https://banay.me/dont-waste-your-backpressure/",
-      "score": 119,
+      "score": 143,
       "author": "ghuntley",
       "created": "2026-01-17 10:26:18",
       "created_at": 1768645578000
@@ -46,55 +73,28 @@
       "id": 46670279,
       "title": "Flux 2 Klein pure C inference",
       "link": "https://github.com/antirez/flux2.c",
-      "score": 318,
+      "score": 359,
       "author": "antirez",
       "created": "2026-01-18 18:01:58",
       "created_at": 1768759318000
     },
     {
-      "id": 46671731,
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "score": 263,
-      "author": "skwee357",
-      "created": "2026-01-18 20:19:07",
-      "created_at": 1768767547000
-    },
-    {
       "id": 46673809,
       "title": "Show HN: I quit coding years ago. AI brought me back",
       "link": "https://calquio.com/finance/compound-interest",
-      "score": 85,
+      "score": 165,
       "author": "ivcatcher",
       "created": "2026-01-19 00:50:20",
       "created_at": 1768783820000
     },
     {
-      "id": 46665839,
-      "title": "A Social Filesystem",
-      "link": "https://overreacted.io/a-social-filesystem/",
-      "score": 378,
-      "author": "icy",
-      "created": "2026-01-18 08:18:36",
-      "created_at": 1768724316000
-    },
-    {
-      "id": 46646080,
-      "title": "Fil-Qt: A Qt Base build with Fil-C experience",
-      "link": "https://git.qt.io/cradam/fil-qt",
-      "score": 81,
-      "author": "pjmlp",
-      "created": "2026-01-16 13:19:03",
-      "created_at": 1768569543000
-    },
-    {
-      "id": 46675092,
-      "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
-      "link": "https://github.com/elC0mpa/aws-doctor",
-      "score": 18,
-      "author": "elC0mpa",
-      "created": "2026-01-19 04:35:05",
-      "created_at": 1768797305000
+      "id": 46607969,
+      "title": "Two Concepts of Intelligence",
+      "link": "https://cacm.acm.org/blogcacm/two-concepts-of-intelligence/",
+      "score": 7,
+      "author": "1970-01-01",
+      "created": "2026-01-13 21:04:05",
+      "created_at": 1768338245000
     }
   ],
   "code": 200,
