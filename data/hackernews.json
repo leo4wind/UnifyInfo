@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-19T12:26:52.209Z"
+    "lastUpdate": "2026-01-19T16:17:17.594Z"
   },
   "data": [
     {
       "id": 46663338,
       "title": "If you put Apple icons in reverse it looks like someone getting good at design",
       "link": "https://mastodon.social/@heliographe_studio/115890819509545391",
-      "score": 808,
+      "score": 817,
       "author": "lateforwork",
       "created": "2026-01-17 23:47:16",
       "created_at": 1768693636000
@@ -19,7 +19,7 @@
       "id": 46664755,
       "title": "jQuery 4",
       "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "score": 761,
+      "score": 775,
       "author": "OuterVale",
       "created": "2026-01-18 04:23:28",
       "created_at": 1768710208000
@@ -28,25 +28,16 @@
       "id": 46670024,
       "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
       "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "score": 662,
+      "score": 713,
       "author": "ChrisArchitect",
       "created": "2026-01-18 17:40:55",
       "created_at": 1768758055000
     },
     {
-      "id": 46658345,
-      "title": "The recurring dream of replacing developers",
-      "link": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "score": 606,
-      "author": "glimshe",
-      "created": "2026-01-17 14:31:33",
-      "created_at": 1768660293000
-    },
-    {
       "id": 46668021,
       "title": "Predicting OpenAI's ad strategy",
       "link": "https://ossa-ma.github.io/blog/openads",
-      "score": 551,
+      "score": 559,
       "author": "calcifer",
       "created": "2026-01-18 14:25:49",
       "created_at": 1768746349000
@@ -55,16 +46,25 @@
       "id": 46665411,
       "title": "Iconify: Library of Open Source Icons",
       "link": "https://icon-sets.iconify.design/",
-      "score": 545,
+      "score": 555,
       "author": "sea-gold",
       "created": "2026-01-18 06:53:36",
       "created_at": 1768719216000
     },
     {
+      "id": 46671731,
+      "title": "Dead Internet Theory",
+      "link": "https://kudmitry.com/articles/dead-internet-theory/",
+      "score": 515,
+      "author": "skwee357",
+      "created": "2026-01-18 20:19:07",
+      "created_at": 1768767547000
+    },
+    {
       "id": 46669025,
       "title": "Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK",
       "link": "https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/",
-      "score": 497,
+      "score": 510,
       "author": "calcifer",
       "created": "2026-01-18 16:17:39",
       "created_at": 1768753059000
@@ -73,28 +73,28 @@
       "id": 46665839,
       "title": "A Social Filesystem",
       "link": "https://overreacted.io/a-social-filesystem/",
-      "score": 432,
+      "score": 468,
       "author": "icy",
       "created": "2026-01-18 08:18:36",
       "created_at": 1768724316000
     },
     {
-      "id": 46671731,
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "score": 381,
-      "author": "skwee357",
-      "created": "2026-01-18 20:19:07",
-      "created_at": 1768767547000
+      "id": 46675853,
+      "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+      "link": "https://bitchat.free/",
+      "score": 406,
+      "author": "no_creativity_",
+      "created": "2026-01-19 07:14:19",
+      "created_at": 1768806859000
     },
     {
-      "id": 46666085,
-      "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
-      "link": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-      "score": 381,
-      "author": "tosh",
-      "created": "2026-01-18 08:58:40",
-      "created_at": 1768726720000
+      "id": 46676276,
+      "title": "Radboud University selects Fairphone as standard smartphone for employees",
+      "link": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+      "score": 388,
+      "author": "ardentsword",
+      "created": "2026-01-19 08:23:04",
+      "created_at": 1768810984000
     }
   ],
   "code": 200,
