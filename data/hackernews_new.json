@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-20T08:19:08.737Z"
+    "lastUpdate": "2026-01-20T12:27:24.555Z"
   },
   "data": [
     {
-      "id": 46688971,
-      "title": "The Overcomplexity of the Shadcn Radio Button",
-      "link": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-      "score": 56,
-      "author": "dbushell",
-      "created": "2026-01-20 07:35:09",
-      "created_at": 1768894509000
-    },
-    {
-      "id": 46688954,
-      "title": "Giving University Exams in the Age of Chatbots",
-      "link": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "score": 16,
-      "author": "ploum",
-      "created": "2026-01-20 07:32:58",
-      "created_at": 1768894378000
+      "id": 46689065,
+      "title": "Linux kernel framework for PCIe device emulation, in userspace",
+      "link": "https://github.com/cakehonolulu/pciem",
+      "score": 77,
+      "author": "71bw",
+      "created": "2026-01-20 07:51:12",
+      "created_at": 1768895472000
     },
     {
       "id": 46684056,
       "title": "Level S4 solar radiation event",
       "link": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
-      "score": 400,
+      "score": 481,
       "author": "WorldPeas",
       "created": "2026-01-19 20:26:19",
       "created_at": 1768854379000
     },
     {
+      "id": 46641145,
+      "title": "King – man + woman is queen; but why? (2017)",
+      "link": "https://p.migdal.pl/blog/2017/01/king-man-woman-queen-why/",
+      "score": 38,
+      "author": "CGMthrowaway",
+      "created": "2026-01-15 23:47:32",
+      "created_at": 1768520852000
+    },
+    {
+      "id": 46629399,
+      "title": "Increasing the performance of WebAssembly Text Format parser by 350%",
+      "link": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
+      "score": 41,
+      "author": "gplane",
+      "created": "2026-01-15 07:49:09",
+      "created_at": 1768463349000
+    },
+    {
+      "id": 46688971,
+      "title": "The Overcomplexity of the Shadcn Radio Button",
+      "link": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+      "score": 331,
+      "author": "dbushell",
+      "created": "2026-01-20 07:35:09",
+      "created_at": 1768894509000
+    },
+    {
+      "id": 46690402,
+      "title": "I'm Addicted to Being Useful",
+      "link": "https://www.seangoedecke.com/addicted-to-being-useful/",
+      "score": 7,
+      "author": "swah",
+      "created": "2026-01-20 10:47:25",
+      "created_at": 1768906045000
+    },
+    {
       "id": 46686273,
       "title": "Reticulum, a secure and anonymous mesh networking stack",
       "link": "https://github.com/markqvist/Reticulum",
-      "score": 172,
+      "score": 235,
       "author": "brogu",
       "created": "2026-01-19 23:59:54",
       "created_at": 1768867194000
     },
     {
-      "id": 46687705,
-      "title": "x86 prefixes and escape opcodes flowchart",
-      "link": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-      "score": 34,
-      "author": "gaul",
-      "created": "2026-01-20 03:47:21",
-      "created_at": 1768880841000
+      "id": 46690295,
+      "title": "String theory can now describe a universe that has dark energy?",
+      "link": "https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/",
+      "score": 36,
+      "author": "nsoonhui",
+      "created": "2026-01-20 10:30:46",
+      "created_at": 1768905046000
     },
     {
       "id": 46680974,
       "title": "Apple testing new App Store design that blurs the line between ads and results",
       "link": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
-      "score": 347,
+      "score": 420,
       "author": "ksec",
       "created": "2026-01-19 16:36:11",
       "created_at": 1768840571000
-    },
-    {
-      "id": 46681611,
-      "title": "What came first: the CNAME or the A record?",
-      "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
-      "score": 345,
-      "author": "linolevan",
-      "created": "2026-01-19 17:13:59",
-      "created_at": 1768842839000
-    },
-    {
-      "id": 46684958,
-      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-      "link": "https://github.com/jordanhubbard/nanolang",
-      "score": 141,
-      "author": "Scramblejams",
-      "created": "2026-01-19 21:48:07",
-      "created_at": 1768859287000
-    },
-    {
-      "id": 46687504,
-      "title": "Show HN: Artificial Ivy in the Browser",
-      "link": "https://da.nmcardle.com/grow",
-      "score": 56,
-      "author": "dnmc",
-      "created": "2026-01-20 03:14:47",
-      "created_at": 1768878887000
-    },
-    {
-      "id": 46676081,
-      "title": "The coming industrialisation of exploit generation with LLMs",
-      "link": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-      "score": 133,
-      "author": "long",
-      "created": "2026-01-19 07:57:04",
-      "created_at": 1768809424000
     }
   ],
   "code": 200,
