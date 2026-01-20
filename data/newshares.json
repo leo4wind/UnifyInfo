@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-20T04:36:53.008Z"
+    "lastUpdate": "2026-01-20T08:19:33.636Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-01-28",
       "ssrq": null,
       "syl": null,
-      "hysyl": 40.53,
+      "hysyl": 41.13,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,12 +45,35 @@
       "zqjkrq": "2026-01-27",
       "ssrq": null,
       "syl": null,
-      "hysyl": 14.62,
+      "hysyl": 14.63,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "为跨国制造企业提供定制化、一体化、嵌入式的供应链物流解决方案"
+    },
+    {
+      "zqdm": "920119",
+      "zqjc": "美德乐",
+      "sgdm": "920119",
+      "fxsl": 16000000,
+      "swfxsl": 14400000,
+      "sgsx": 720000,
+      "dgsz": 7200000,
+      "fxjg": 41.88,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-21",
+      "zqgbrq": "2026-01-26",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 47.63,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "智能制造装备的研发、设计、制造和销售"
     },
     {
       "zqdm": "920159",
@@ -80,7 +103,7 @@
       "zqjc": "振石股份",
       "sgdm": "780112",
       "fxsl": 261055000,
-      "swfxsl": 54821500,
+      "swfxsl": 127917000,
       "sgsx": 54500,
       "dgsz": 545000,
       "fxjg": 11.18,
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 32.59,
       "hysyl": 33.72,
-      "wszql": null,
+      "wszql": 0.04876427,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -135,7 +158,7 @@
       "sgrq": "2026-01-14",
       "zqgbrq": "2026-01-19",
       "zqjkrq": null,
-      "ssrq": null,
+      "ssrq": "2026-01-22",
       "syl": 14.97,
       "hysyl": 33.44,
       "wszql": 0.02110267,
@@ -145,5 +168,5 @@
       "zyyw": "公司是一家专业从事高温工业用耐火材料整体解决方案的高新技术企业,为客户提供耐火材料整体承包服务及耐火材料产品"
     }
   ],
-  "total": 6
+  "total": 7
 }

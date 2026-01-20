@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-20T04:36:49.563Z"
+    "lastUpdate": "2026-01-20T08:19:08.404Z"
   },
   "data": [
-    {
-      "id": 46664755,
-      "title": "jQuery 4",
-      "link": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "score": 790,
-      "author": "OuterVale",
-      "created": "2026-01-18 04:23:28",
-      "created_at": 1768710208000
-    },
     {
       "id": 46670024,
       "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
       "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "score": 740,
+      "score": 745,
       "author": "ChrisArchitect",
       "created": "2026-01-18 17:40:55",
       "created_at": 1768758055000
@@ -28,7 +19,7 @@
       "id": 46680212,
       "title": "American importers and consumers bear the cost of 2025 tariffs: analysis",
       "link": "https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/",
-      "score": 696,
+      "score": 714,
       "author": "47282847",
       "created": "2026-01-19 15:43:01",
       "created_at": 1768837381000
@@ -37,7 +28,7 @@
       "id": 46671731,
       "title": "Dead Internet Theory",
       "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "score": 648,
+      "score": 656,
       "author": "skwee357",
       "created": "2026-01-18 20:19:07",
       "created_at": 1768767547000
@@ -46,7 +37,7 @@
       "id": 46675853,
       "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
       "link": "https://bitchat.free/",
-      "score": 583,
+      "score": 593,
       "author": "no_creativity_",
       "created": "2026-01-19 07:14:19",
       "created_at": 1768806859000
@@ -55,25 +46,16 @@
       "id": 46668021,
       "title": "Predicting OpenAI's ad strategy",
       "link": "https://ossa-ma.github.io/blog/openads",
-      "score": 571,
+      "score": 577,
       "author": "calcifer",
       "created": "2026-01-18 14:25:49",
       "created_at": 1768746349000
     },
     {
-      "id": 46665411,
-      "title": "Iconify: Library of Open Source Icons",
-      "link": "https://icon-sets.iconify.design/",
-      "score": 565,
-      "author": "sea-gold",
-      "created": "2026-01-18 06:53:36",
-      "created_at": 1768719216000
-    },
-    {
       "id": 46669025,
       "title": "Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK",
       "link": "https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/",
-      "score": 529,
+      "score": 531,
       "author": "calcifer",
       "created": "2026-01-18 16:17:39",
       "created_at": 1768753059000
@@ -82,7 +64,7 @@
       "id": 46676276,
       "title": "Radboud University selects Fairphone as standard smartphone for employees",
       "link": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
-      "score": 498,
+      "score": 509,
       "author": "ardentsword",
       "created": "2026-01-19 08:23:04",
       "created_at": 1768810984000
@@ -91,10 +73,28 @@
       "id": 46665839,
       "title": "A Social Filesystem",
       "link": "https://overreacted.io/a-social-filesystem/",
-      "score": 489,
+      "score": 491,
       "author": "icy",
       "created": "2026-01-18 08:18:36",
       "created_at": 1768724316000
+    },
+    {
+      "id": 46678205,
+      "title": "Amazon is ending all inventory commingling as of March 31, 2026",
+      "link": "https://twitter.com/ghhughes/status/2012824754319753456",
+      "score": 485,
+      "author": "MrBuddyCasino",
+      "created": "2026-01-19 12:24:14",
+      "created_at": 1768825454000
+    },
+    {
+      "id": 46683205,
+      "title": "Letter from a Birmingham Jail (1963)",
+      "link": "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html",
+      "score": 461,
+      "author": "hn_acker",
+      "created": "2026-01-19 19:17:52",
+      "created_at": 1768850272000
     }
   ],
   "code": 200,
