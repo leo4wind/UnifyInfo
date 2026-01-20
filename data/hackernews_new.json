@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-20T00:58:02.837Z"
+    "lastUpdate": "2026-01-20T04:36:49.835Z"
   },
   "data": [
+    {
+      "id": 46687588,
+      "title": "F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE",
+      "link": "https://webchrono.pl/F16FalconStrike/index.html",
+      "score": 40,
+      "author": "starkparker",
+      "created": "2026-01-20 03:26:25",
+      "created_at": 1768879585000
+    },
     {
       "id": 46684056,
       "title": "Level S4 solar radiation event",
       "link": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
-      "score": 184,
+      "score": 301,
       "author": "WorldPeas",
       "created": "2026-01-19 20:26:19",
       "created_at": 1768854379000
     },
     {
-      "id": 46684958,
-      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-      "link": "https://github.com/jordanhubbard/nanolang",
-      "score": 55,
-      "author": "Scramblejams",
-      "created": "2026-01-19 21:48:07",
-      "created_at": 1768859287000
+      "id": 46686655,
+      "title": "Nova Launcher Added Facebook and Google Ads Tracking",
+      "link": "https://lemdro.id/post/lemdro.id/35049920",
+      "score": 106,
+      "author": "celsoazevedo",
+      "created": "2026-01-20 01:03:52",
+      "created_at": 1768871032000
     },
     {
       "id": 46682534,
       "title": "Nearly a third of social media research has undisclosed ties to industry",
       "link": "https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims",
-      "score": 177,
+      "score": 260,
       "author": "bikenaga",
       "created": "2026-01-19 18:17:07",
       "created_at": 1768846627000
     },
     {
+      "id": 46686640,
+      "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+      "link": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
+      "score": 183,
+      "author": "m463",
+      "created": "2026-01-20 01:01:36",
+      "created_at": 1768870896000
+    },
+    {
       "id": 46686273,
       "title": "Reticulum, a secure and anonymous mesh networking stack",
       "link": "https://github.com/markqvist/Reticulum",
-      "score": 18,
+      "score": 83,
       "author": "brogu",
       "created": "2026-01-19 23:59:54",
       "created_at": 1768867194000
     },
     {
+      "id": 46622090,
+      "title": "Understanding ZFS Scrubs and Data Integrity",
+      "link": "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/",
+      "score": 11,
+      "author": "zdw",
+      "created": "2026-01-14 20:00:23",
+      "created_at": 1768420823000
+    },
+    {
+      "id": 46684958,
+      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "link": "https://github.com/jordanhubbard/nanolang",
+      "score": 101,
+      "author": "Scramblejams",
+      "created": "2026-01-19 21:48:07",
+      "created_at": 1768859287000
+    },
+    {
       "id": 46681611,
       "title": "What came first: the CNAME or the A record?",
       "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
-      "score": 266,
+      "score": 319,
       "author": "linolevan",
       "created": "2026-01-19 17:13:59",
       "created_at": 1768842839000
     },
     {
-      "id": 46684708,
-      "title": "The assistant axis: situating and stabilizing the character of LLMs",
-      "link": "https://www.anthropic.com/research/assistant-axis",
-      "score": 46,
-      "author": "mfiguiere",
-      "created": "2026-01-19 21:25:16",
-      "created_at": 1768857916000
-    },
-    {
-      "id": 46642458,
-      "title": "British redcoat's lost memoir reveals harsh realities of life as a disabled vet",
-      "link": "https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html",
-      "score": 28,
-      "author": "wglb",
-      "created": "2026-01-16 02:53:21",
-      "created_at": 1768532001000
-    },
-    {
-      "id": 46644173,
-      "title": "How we made Python's packaging library 3x faster",
-      "link": "https://iscinumpy.dev/post/packaging-faster/",
-      "score": 26,
-      "author": "rbanffy",
-      "created": "2026-01-16 08:00:07",
-      "created_at": 1768550407000
-    },
-    {
-      "id": 46641036,
-      "title": "From Nevada to Kansas by Glider",
-      "link": "https://www.weglide.org/flight/978820",
-      "score": 92,
-      "author": "sammelaugust",
-      "created": "2026-01-15 23:36:40",
-      "created_at": 1768520200000
-    },
-    {
-      "id": 46676081,
-      "title": "The coming industrialisation of exploit generation with LLMs",
-      "link": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-      "score": 60,
-      "author": "long",
-      "created": "2026-01-19 07:57:04",
-      "created_at": 1768809424000
+      "id": 46686418,
+      "title": "Scaling long-running autonomous coding",
+      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+      "score": 45,
+      "author": "srameshc",
+      "created": "2026-01-20 00:23:01",
+      "created_at": 1768868581000
     }
   ],
   "code": 200,
