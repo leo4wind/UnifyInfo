@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-21T12:27:36.177Z"
+    "lastUpdate": "2026-01-21T16:25:52.594Z"
   },
   "data": [
     {
-      "id": 46703763,
-      "title": "EU–INC – One Europe. One Standard. – Pan-European Legal Entity",
-      "link": "https://www.eu-inc.org/",
-      "score": 106,
-      "author": "tilt",
-      "created": "2026-01-21 10:49:20",
-      "created_at": 1768992560000
+      "id": 46706528,
+      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+      "link": "https://github.com/ChartGPU/ChartGPU",
+      "score": 122,
+      "author": "huntergemmer",
+      "created": "2026-01-21 14:54:56",
+      "created_at": 1769007296000
     },
     {
-      "id": 46704223,
-      "title": "The super-slow conversion of the U.S. to metric (2025)",
-      "link": "https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric",
-      "score": 15,
-      "author": "itvision",
-      "created": "2026-01-21 11:36:09",
-      "created_at": 1768995369000
+      "id": 46706947,
+      "title": "SmartOS",
+      "link": "https://docs.smartos.org/",
+      "score": 21,
+      "author": "ofrzeta",
+      "created": "2026-01-21 15:23:18",
+      "created_at": 1769008998000
+    },
+    {
+      "id": 46705201,
+      "title": "Nested Code Fences in Markdown",
+      "link": "https://susam.net/nested-code-fences.html",
+      "score": 90,
+      "author": "todsacerdoti",
+      "created": "2026-01-21 13:08:35",
+      "created_at": 1769000915000
+    },
+    {
+      "id": 46649853,
+      "title": "RTS for Agents",
+      "link": "https://www.getagentcraft.com/",
+      "score": 53,
+      "author": "summoned",
+      "created": "2026-01-16 18:20:15",
+      "created_at": 1768587615000
     },
     {
       "id": 46700594,
       "title": "Anthropic's original take home assignment open sourced",
       "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 386,
+      "score": 521,
       "author": "myahio",
       "created": "2026-01-21 02:54:32",
       "created_at": 1768964072000
     },
     {
-      "id": 46663931,
-      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-      "link": "https://elliotarledge.com/blog/batmobile",
-      "score": 17,
-      "author": "ipnon",
-      "created": "2026-01-18 01:29:42",
-      "created_at": 1768699782000
+      "id": 46703763,
+      "title": "EU–INC – A new pan-European legal entity",
+      "link": "https://www.eu-inc.org/",
+      "score": 509,
+      "author": "tilt",
+      "created": "2026-01-21 10:49:20",
+      "created_at": 1768992560000
     },
     {
-      "id": 46703301,
-      "title": "SETI Home Is in Hiberation",
-      "link": "https://setiathome.berkeley.edu/",
-      "score": 20,
-      "author": "keepamovin",
-      "created": "2026-01-21 09:49:34",
-      "created_at": 1768988974000
+      "id": 46706796,
+      "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
+      "link": "https://github.com/borenstein/yolo-cage",
+      "score": 16,
+      "author": "borenstein",
+      "created": "2026-01-21 15:13:29",
+      "created_at": 1769008409000
     },
     {
       "id": 46662515,
       "title": "EmuDevz: A game about developing emulators",
       "link": "https://afska.github.io/emudevz/",
-      "score": 50,
+      "score": 127,
       "author": "ingve",
       "created": "2026-01-17 21:57:21",
       "created_at": 1768687041000
     },
     {
-      "id": 46695628,
-      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
-      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "score": 496,
-      "author": "mkmk",
-      "created": "2026-01-20 18:16:09",
-      "created_at": 1768932969000
+      "id": 46663931,
+      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
+      "link": "https://elliotarledge.com/blog/batmobile",
+      "score": 59,
+      "author": "ipnon",
+      "created": "2026-01-18 01:29:42",
+      "created_at": 1768699782000
     },
     {
-      "id": 46700503,
-      "title": "RSS.Social – the latest and best from small sites across the web",
-      "link": "https://rss.social/",
-      "score": 109,
-      "author": "Curiositry",
-      "created": "2026-01-21 02:36:44",
-      "created_at": 1768963004000
-    },
-    {
-      "id": 46701733,
-      "title": "cURL removes bug bounties",
-      "link": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
-      "score": 269,
-      "author": "jnord",
-      "created": "2026-01-21 06:07:03",
-      "created_at": 1768975623000
+      "id": 46705715,
+      "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
+      "link": "https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
+      "score": 86,
+      "author": "jjgreen",
+      "created": "2026-01-21 13:52:27",
+      "created_at": 1769003547000
     }
   ],
   "code": 200,
