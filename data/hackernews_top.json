@@ -3,89 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-21T08:19:18.165Z"
+    "lastUpdate": "2026-01-21T12:27:36.177Z"
   },
   "data": [
+    {
+      "id": 46703763,
+      "title": "EU–INC – One Europe. One Standard. – Pan-European Legal Entity",
+      "link": "https://www.eu-inc.org/",
+      "score": 106,
+      "author": "tilt",
+      "created": "2026-01-21 10:49:20",
+      "created_at": 1768992560000
+    },
+    {
+      "id": 46704223,
+      "title": "The super-slow conversion of the U.S. to metric (2025)",
+      "link": "https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric",
+      "score": 15,
+      "author": "itvision",
+      "created": "2026-01-21 11:36:09",
+      "created_at": 1768995369000
+    },
     {
       "id": 46700594,
       "title": "Anthropic's original take home assignment open sourced",
       "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 242,
+      "score": 386,
       "author": "myahio",
       "created": "2026-01-21 02:54:32",
       "created_at": 1768964072000
     },
     {
-      "id": 46701969,
-      "title": "The Agentic AI Handbook: Production-Ready Patterns",
-      "link": "https://www.nibzard.com/agentic-handbook",
-      "score": 33,
-      "author": "SouravInsights",
-      "created": "2026-01-21 06:48:56",
-      "created_at": 1768978136000
+      "id": 46663931,
+      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
+      "link": "https://elliotarledge.com/blog/batmobile",
+      "score": 17,
+      "author": "ipnon",
+      "created": "2026-01-18 01:29:42",
+      "created_at": 1768699782000
     },
     {
-      "id": 46701733,
-      "title": "cURL removes bug bounties",
-      "link": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
-      "score": 146,
-      "author": "jnord",
-      "created": "2026-01-21 06:07:03",
-      "created_at": 1768975623000
+      "id": 46703301,
+      "title": "SETI Home Is in Hiberation",
+      "link": "https://setiathome.berkeley.edu/",
+      "score": 20,
+      "author": "keepamovin",
+      "created": "2026-01-21 09:49:34",
+      "created_at": 1768988974000
     },
     {
-      "id": 46665987,
-      "title": "200 MB RAM FreeBSD Desktop",
-      "link": "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/",
-      "score": 26,
-      "author": "vermaden",
-      "created": "2026-01-18 08:41:16",
-      "created_at": 1768725676000
+      "id": 46662515,
+      "title": "EmuDevz: A game about developing emulators",
+      "link": "https://afska.github.io/emudevz/",
+      "score": 50,
+      "author": "ingve",
+      "created": "2026-01-17 21:57:21",
+      "created_at": 1768687041000
     },
     {
       "id": 46695628,
       "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "score": 455,
+      "score": 496,
       "author": "mkmk",
       "created": "2026-01-20 18:16:09",
       "created_at": 1768932969000
     },
     {
-      "id": 46701114,
-      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
-      "link": "https://github.com/ef1500/libbbf",
-      "score": 45,
-      "author": "zdw",
-      "created": "2026-01-21 04:27:08",
-      "created_at": 1768969628000
+      "id": 46700503,
+      "title": "RSS.Social – the latest and best from small sites across the web",
+      "link": "https://rss.social/",
+      "score": 109,
+      "author": "Curiositry",
+      "created": "2026-01-21 02:36:44",
+      "created_at": 1768963004000
     },
     {
-      "id": 46702280,
-      "title": "EU Parliament freezes US trade deal ratification",
-      "link": "https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html",
-      "score": 26,
-      "author": "pjmlp",
-      "created": "2026-01-21 07:32:23",
-      "created_at": 1768980743000
-    },
-    {
-      "id": 46696357,
-      "title": "Instabridge has acquired Nova Launcher",
-      "link": "https://novalauncher.com/nova-is-here-to-stay",
-      "score": 190,
-      "author": "KORraN",
-      "created": "2026-01-20 19:06:56",
-      "created_at": 1768936016000
-    },
-    {
-      "id": 46647358,
-      "title": "The GDB JIT Interface",
-      "link": "https://bernsteinbear.com/blog/gdb-jit/",
-      "score": 33,
-      "author": "surprisetalk",
-      "created": "2026-01-16 15:27:46",
-      "created_at": 1768577266000
+      "id": 46701733,
+      "title": "cURL removes bug bounties",
+      "link": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
+      "score": 269,
+      "author": "jnord",
+      "created": "2026-01-21 06:07:03",
+      "created_at": 1768975623000
     }
   ],
   "code": 200,
