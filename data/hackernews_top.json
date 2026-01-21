@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-21T16:25:52.594Z"
+    "lastUpdate": "2026-01-21T20:20:46.724Z"
   },
   "data": [
+    {
+      "id": 46709727,
+      "title": "Linux from Scratch",
+      "link": "https://www.linuxfromscratch.org/lfs/view/stable/",
+      "score": 171,
+      "author": "Alupis",
+      "created": "2026-01-21 18:44:40",
+      "created_at": 1769021080000
+    },
     {
       "id": 46706528,
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 122,
+      "score": 352,
       "author": "huntergemmer",
       "created": "2026-01-21 14:54:56",
       "created_at": 1769007296000
     },
     {
-      "id": 46706947,
-      "title": "SmartOS",
-      "link": "https://docs.smartos.org/",
-      "score": 21,
-      "author": "ofrzeta",
-      "created": "2026-01-21 15:23:18",
-      "created_at": 1769008998000
+      "id": 46709548,
+      "title": "TeraWave Satellite Communications Network",
+      "link": "https://www.blueorigin.com/terawave",
+      "score": 46,
+      "author": "T-A",
+      "created": "2026-01-21 18:31:58",
+      "created_at": 1769020318000
     },
     {
-      "id": 46705201,
-      "title": "Nested Code Fences in Markdown",
-      "link": "https://susam.net/nested-code-fences.html",
-      "score": 90,
-      "author": "todsacerdoti",
-      "created": "2026-01-21 13:08:35",
-      "created_at": 1769000915000
+      "id": 46709543,
+      "title": "Show HN: Rails UI",
+      "link": "https://railsui.com/",
+      "score": 49,
+      "author": "justalever",
+      "created": "2026-01-21 18:31:19",
+      "created_at": 1769020279000
     },
     {
-      "id": 46649853,
-      "title": "RTS for Agents",
-      "link": "https://www.getagentcraft.com/",
-      "score": 53,
-      "author": "summoned",
-      "created": "2026-01-16 18:20:15",
-      "created_at": 1768587615000
+      "id": 46708096,
+      "title": "PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts",
+      "link": "https://www.yyzkevin.com/picopcmcia/",
+      "score": 81,
+      "author": "rbanffy",
+      "created": "2026-01-21 16:43:57",
+      "created_at": 1769013837000
     },
     {
-      "id": 46700594,
-      "title": "Anthropic's original take home assignment open sourced",
-      "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 521,
-      "author": "myahio",
-      "created": "2026-01-21 02:54:32",
-      "created_at": 1768964072000
+      "id": 46707572,
+      "title": "Claude's New Constitution",
+      "link": "https://www.anthropic.com/news/claude-new-constitution",
+      "score": 119,
+      "author": "meetpateltech",
+      "created": "2026-01-21 16:04:49",
+      "created_at": 1769011489000
     },
     {
-      "id": 46703763,
-      "title": "EU–INC – A new pan-European legal entity",
-      "link": "https://www.eu-inc.org/",
-      "score": 509,
-      "author": "tilt",
-      "created": "2026-01-21 10:49:20",
-      "created_at": 1768992560000
+      "id": 46706906,
+      "title": "Skip Is Now Free and Open Source",
+      "link": "https://skip.dev/blog/skip-is-free/",
+      "score": 142,
+      "author": "dayanruben",
+      "created": "2026-01-21 15:20:53",
+      "created_at": 1769008853000
     },
     {
-      "id": 46706796,
-      "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
-      "link": "https://github.com/borenstein/yolo-cage",
-      "score": 16,
-      "author": "borenstein",
-      "created": "2026-01-21 15:13:29",
-      "created_at": 1769008409000
+      "id": 46708678,
+      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+      "link": "https://blog.kagi.com/waiting-dawn-search",
+      "score": 124,
+      "author": "josephwegner",
+      "created": "2026-01-21 17:28:03",
+      "created_at": 1769016483000
     },
     {
-      "id": 46662515,
-      "title": "EmuDevz: A game about developing emulators",
-      "link": "https://afska.github.io/emudevz/",
-      "score": 127,
-      "author": "ingve",
-      "created": "2026-01-17 21:57:21",
-      "created_at": 1768687041000
+      "id": 46662247,
+      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+      "link": "https://github.com/soegaard/webracket",
+      "score": 22,
+      "author": "mfru",
+      "created": "2026-01-17 21:23:58",
+      "created_at": 1768685038000
     },
     {
-      "id": 46663931,
-      "title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
-      "link": "https://elliotarledge.com/blog/batmobile",
-      "score": 59,
-      "author": "ipnon",
-      "created": "2026-01-18 01:29:42",
-      "created_at": 1768699782000
-    },
-    {
-      "id": 46705715,
-      "title": "Ireland wants to give its cops spyware, ability to crack encrypted messages",
-      "link": "https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/",
-      "score": 86,
-      "author": "jjgreen",
-      "created": "2026-01-21 13:52:27",
-      "created_at": 1769003547000
+      "id": 46709179,
+      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "link": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+      "score": 124,
+      "author": "saikatsg",
+      "created": "2026-01-21 18:05:36",
+      "created_at": 1769018736000
     }
   ],
   "code": 200,
