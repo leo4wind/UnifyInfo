@@ -3,59 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-20T20:38:07.946Z"
+    "lastUpdate": "2026-01-21T01:00:22.180Z"
   },
   "data": [
     {
       "id": 46680212,
       "title": "American importers and consumers bear the cost of 2025 tariffs: analysis",
       "link": "https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/",
-      "score": 753,
+      "score": 762,
       "author": "47282847",
       "created": "2026-01-19 15:43:01",
       "created_at": 1768837381000
     },
     {
-      "id": 46671731,
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "score": 679,
-      "author": "skwee357",
-      "created": "2026-01-18 20:19:07",
-      "created_at": 1768767547000
-    },
-    {
       "id": 46675853,
       "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
       "link": "https://bitchat.free/",
-      "score": 607,
+      "score": 616,
       "author": "no_creativity_",
       "created": "2026-01-19 07:14:19",
       "created_at": 1768806859000
     },
     {
-      "id": 46680974,
-      "title": "Apple testing new App Store design that blurs the line between ads and results",
-      "link": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
-      "score": 584,
-      "author": "ksec",
-      "created": "2026-01-19 16:36:11",
-      "created_at": 1768840571000
+      "id": 46692594,
+      "title": "Danish pension fund divesting US Treasuries",
+      "link": "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/",
+      "score": 598,
+      "author": "mythical_39",
+      "created": "2026-01-20 15:11:45",
+      "created_at": 1768921905000
     },
     {
       "id": 46684056,
       "title": "Level S4 solar radiation event",
       "link": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
-      "score": 577,
+      "score": 598,
       "author": "WorldPeas",
       "created": "2026-01-19 20:26:19",
       "created_at": 1768854379000
     },
     {
+      "id": 46680974,
+      "title": "Apple testing new App Store design that blurs the line between ads and results",
+      "link": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
+      "score": 593,
+      "author": "ksec",
+      "created": "2026-01-19 16:36:11",
+      "created_at": 1768840571000
+    },
+    {
+      "id": 46693346,
+      "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
+      "link": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
+      "score": 561,
+      "author": "andsoitis",
+      "created": "2026-01-20 16:03:21",
+      "created_at": 1768925001000
+    },
+    {
       "id": 46676276,
       "title": "Radboud University selects Fairphone as standard smartphone for employees",
       "link": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
-      "score": 524,
+      "score": 528,
       "author": "ardentsword",
       "created": "2026-01-19 08:23:04",
       "created_at": 1768810984000
@@ -64,37 +73,28 @@
       "id": 46678205,
       "title": "Amazon is ending all inventory commingling as of March 31, 2026",
       "link": "https://twitter.com/ghhughes/status/2012824754319753456",
-      "score": 505,
+      "score": 508,
       "author": "MrBuddyCasino",
       "created": "2026-01-19 12:24:14",
       "created_at": 1768825454000
     },
     {
-      "id": 46692594,
-      "title": "Danish pension fund divesting US Treasuries",
-      "link": "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/",
-      "score": 496,
-      "author": "mythical_39",
-      "created": "2026-01-20 15:11:45",
-      "created_at": 1768921905000
+      "id": 46690402,
+      "title": "I'm addicted to being useful",
+      "link": "https://www.seangoedecke.com/addicted-to-being-useful/",
+      "score": 480,
+      "author": "swah",
+      "created": "2026-01-20 10:47:25",
+      "created_at": 1768906045000
     },
     {
-      "id": 46693346,
-      "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
-      "link": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
-      "score": 478,
-      "author": "andsoitis",
-      "created": "2026-01-20 16:03:21",
-      "created_at": 1768925001000
-    },
-    {
-      "id": 46683205,
-      "title": "Letter from a Birmingham Jail (1963)",
-      "link": "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html",
-      "score": 467,
-      "author": "hn_acker",
-      "created": "2026-01-19 19:17:52",
-      "created_at": 1768850272000
+      "id": 46688971,
+      "title": "The Overcomplexity of the Shadcn Radio Button",
+      "link": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+      "score": 480,
+      "author": "dbushell",
+      "created": "2026-01-20 07:35:09",
+      "created_at": 1768894509000
     }
   ],
   "code": 200,

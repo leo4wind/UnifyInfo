@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-20T20:38:08.120Z"
+    "lastUpdate": "2026-01-21T01:00:22.493Z"
   },
   "data": [
     {
       "id": 46695628,
-      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "score": 162,
+      "score": 320,
       "author": "mkmk",
       "created": "2026-01-20 18:16:09",
       "created_at": 1768932969000
     },
     {
+      "id": 46698660,
+      "title": "California is free of drought for the first time in 25 years",
+      "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+      "score": 202,
+      "author": "thnaks",
+      "created": "2026-01-20 22:39:26",
+      "created_at": 1768948766000
+    },
+    {
       "id": 46696357,
       "title": "Instabridge has acquired Nova Launcher",
       "link": "https://novalauncher.com/nova-is-here-to-stay",
-      "score": 51,
+      "score": 121,
       "author": "KORraN",
       "created": "2026-01-20 19:06:56",
       "created_at": 1768936016000
     },
     {
-      "id": 46694124,
-      "title": "The Unix Pipe Card Game",
-      "link": "https://punkx.org/unix-pipe-game/",
-      "score": 109,
-      "author": "kykeonaut",
-      "created": "2026-01-20 16:48:59",
-      "created_at": 1768927739000
-    },
-    {
       "id": 46693959,
       "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
       "link": "https://github.com/mastra-ai/mastra",
-      "score": 24,
+      "score": 74,
       "author": "calcsam",
       "created": "2026-01-20 16:38:56",
       "created_at": 1768927136000
     },
     {
-      "id": 46692116,
-      "title": "Unconventional PostgreSQL Optimizations",
-      "link": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "score": 160,
-      "author": "haki",
-      "created": "2026-01-20 14:23:44",
-      "created_at": 1768919024000
+      "id": 46695415,
+      "title": "Electricity use of AI coding agents",
+      "link": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+      "score": 49,
+      "author": "linolevan",
+      "created": "2026-01-20 18:02:02",
+      "created_at": 1768932122000
     },
     {
-      "id": 46690402,
-      "title": "I'm addicted to being useful",
-      "link": "https://www.seangoedecke.com/addicted-to-being-useful/",
-      "score": 374,
-      "author": "swah",
-      "created": "2026-01-20 10:47:25",
-      "created_at": 1768906045000
+      "id": 46698061,
+      "title": "The challenges of soft delete",
+      "link": "https://atlas9.dev/blog/soft-delete.html",
+      "score": 73,
+      "author": "buchanae",
+      "created": "2026-01-20 21:36:34",
+      "created_at": 1768944994000
     },
     {
-      "id": 46618472,
-      "title": "Show HN: wxpath – Declarative web crawling in XPath",
-      "link": "https://github.com/rodricios/wxpath",
-      "score": 36,
-      "author": "rodricios",
-      "created": "2026-01-14 16:52:34",
-      "created_at": 1768409554000
+      "id": 46698469,
+      "title": "Provably unmasking malicious behavior through execution traces",
+      "link": "https://arxiv.org/abs/2512.13821",
+      "score": 16,
+      "author": "PaulHoule",
+      "created": "2026-01-20 22:18:53",
+      "created_at": 1768947533000
     },
     {
-      "id": 46693205,
-      "title": "Nvidia Stock Crash Prediction",
-      "link": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
-      "score": 238,
-      "author": "todsacerdoti",
-      "created": "2026-01-20 15:56:07",
-      "created_at": 1768924567000
+      "id": 46694124,
+      "title": "The Unix Pipe Card Game",
+      "link": "https://punkx.org/unix-pipe-game/",
+      "score": 174,
+      "author": "kykeonaut",
+      "created": "2026-01-20 16:48:59",
+      "created_at": 1768927739000
     },
     {
-      "id": 46689065,
-      "title": "Linux kernel framework for PCIe device emulation, in userspace",
-      "link": "https://github.com/cakehonolulu/pciem",
-      "score": 184,
-      "author": "71bw",
-      "created": "2026-01-20 07:51:12",
-      "created_at": 1768895472000
+      "id": 46698370,
+      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+      "link": "https://so-long-sucker.vercel.app/",
+      "score": 33,
+      "author": "lout332",
+      "created": "2026-01-20 22:09:49",
+      "created_at": 1768946989000
     },
     {
-      "id": 46691660,
-      "title": "The Zen of Reticulum",
-      "link": "https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md",
-      "score": 77,
-      "author": "mikece",
-      "created": "2026-01-20 13:34:16",
-      "created_at": 1768916056000
+      "id": 46693728,
+      "title": "Cloudflare zero-day: Accessing any host globally",
+      "link": "https://fearsoff.org/research/cloudflare-acme",
+      "score": 41,
+      "author": "2bluesc",
+      "created": "2026-01-20 16:25:33",
+      "created_at": 1768926333000
     }
   ],
   "code": 200,
