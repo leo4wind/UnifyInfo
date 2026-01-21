@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-21T01:00:22.378Z"
+    "lastUpdate": "2026-01-21T04:36:21.683Z"
   },
   "data": [
+    {
+      "id": 46700809,
+      "title": "Disaster planning for regular folks (2015)",
+      "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+      "score": 33,
+      "author": "AlphaWeaver",
+      "created": "2026-01-21 03:38:57",
+      "created_at": 1768966737000
+    },
     {
       "id": 46695628,
       "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "score": 320,
+      "score": 399,
       "author": "mkmk",
       "created": "2026-01-20 18:16:09",
       "created_at": 1768932969000
     },
     {
+      "id": 46675630,
+      "title": "Are arrays functions?",
+      "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "score": 76,
+      "author": "todsacerdoti",
+      "created": "2026-01-19 06:30:49",
+      "created_at": 1768804249000
+    },
+    {
       "id": 46698660,
       "title": "California is free of drought for the first time in 25 years",
       "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
-      "score": 202,
+      "score": 302,
       "author": "thnaks",
       "created": "2026-01-20 22:39:26",
       "created_at": 1768948766000
@@ -28,7 +46,7 @@
       "id": 46696357,
       "title": "Instabridge has acquired Nova Launcher",
       "link": "https://novalauncher.com/nova-is-here-to-stay",
-      "score": 121,
+      "score": 154,
       "author": "KORraN",
       "created": "2026-01-20 19:06:56",
       "created_at": 1768936016000
@@ -37,64 +55,46 @@
       "id": 46693959,
       "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
       "link": "https://github.com/mastra-ai/mastra",
-      "score": 74,
+      "score": 111,
       "author": "calcsam",
       "created": "2026-01-20 16:38:56",
       "created_at": 1768927136000
     },
     {
-      "id": 46695415,
-      "title": "Electricity use of AI coding agents",
-      "link": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
-      "score": 49,
-      "author": "linolevan",
-      "created": "2026-01-20 18:02:02",
-      "created_at": 1768932122000
-    },
-    {
-      "id": 46698061,
-      "title": "The challenges of soft delete",
-      "link": "https://atlas9.dev/blog/soft-delete.html",
-      "score": 73,
-      "author": "buchanae",
-      "created": "2026-01-20 21:36:34",
-      "created_at": 1768944994000
-    },
-    {
-      "id": 46698469,
-      "title": "Provably unmasking malicious behavior through execution traces",
-      "link": "https://arxiv.org/abs/2512.13821",
-      "score": 16,
-      "author": "PaulHoule",
-      "created": "2026-01-20 22:18:53",
-      "created_at": 1768947533000
+      "id": 46700594,
+      "title": "Anthropic's original take home assignment open sourced",
+      "link": "https://github.com/anthropics/original_performance_takehome",
+      "score": 24,
+      "author": "myahio",
+      "created": "2026-01-21 02:54:32",
+      "created_at": 1768964072000
     },
     {
       "id": 46694124,
       "title": "The Unix Pipe Card Game",
       "link": "https://punkx.org/unix-pipe-game/",
-      "score": 174,
+      "score": 193,
       "author": "kykeonaut",
       "created": "2026-01-20 16:48:59",
       "created_at": 1768927739000
     },
     {
-      "id": 46698370,
-      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-      "link": "https://so-long-sucker.vercel.app/",
-      "score": 33,
-      "author": "lout332",
-      "created": "2026-01-20 22:09:49",
-      "created_at": 1768946989000
+      "id": 46698469,
+      "title": "Provably unmasking malicious behavior through execution traces",
+      "link": "https://arxiv.org/abs/2512.13821",
+      "score": 30,
+      "author": "PaulHoule",
+      "created": "2026-01-20 22:18:53",
+      "created_at": 1768947533000
     },
     {
-      "id": 46693728,
-      "title": "Cloudflare zero-day: Accessing any host globally",
-      "link": "https://fearsoff.org/research/cloudflare-acme",
-      "score": 41,
-      "author": "2bluesc",
-      "created": "2026-01-20 16:25:33",
-      "created_at": 1768926333000
+      "id": 46698061,
+      "title": "The challenges of soft delete",
+      "link": "https://atlas9.dev/blog/soft-delete.html",
+      "score": 105,
+      "author": "buchanae",
+      "created": "2026-01-20 21:36:34",
+      "created_at": 1768944994000
     }
   ],
   "code": 200,
