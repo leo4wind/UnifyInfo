@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-22T04:39:57.053Z"
+    "lastUpdate": "2026-01-22T08:18:47.468Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-01-28",
       "ssrq": null,
       "syl": null,
-      "hysyl": 41.24,
+      "hysyl": 41.36,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -37,14 +37,14 @@
       "swfxsl": 9229000,
       "sgsx": 9000,
       "dgsz": 90000,
-      "fxjg": null,
+      "fxjg": 28,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-01-23",
       "zqgbrq": "2026-01-27",
       "zqjkrq": "2026-01-27",
       "ssrq": null,
-      "syl": null,
+      "syl": 15.29,
       "hysyl": 14.64,
       "wszql": null,
       "yzbsl": 0,
@@ -92,7 +92,7 @@
       "ssrq": null,
       "syl": 13.4,
       "hysyl": 30.39,
-      "wszql": null,
+      "wszql": 0.03871636,
       "yzbsl": null,
       "zf": null,
       "yqhl": null,

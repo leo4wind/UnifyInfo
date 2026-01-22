@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-22T04:39:53.678Z"
+    "lastUpdate": "2026-01-22T08:18:38.373Z"
   },
   "data": [
     {
       "id": 46692594,
       "title": "Danish pension fund divesting US Treasuries",
       "link": "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/",
-      "score": 752,
+      "score": 756,
       "author": "mythical_39",
       "created": "2026-01-20 15:11:45",
       "created_at": 1768921905000
@@ -19,7 +19,7 @@
       "id": 46703763,
       "title": "EU–INC – A new pan-European legal entity",
       "link": "https://www.eu-inc.org/",
-      "score": 710,
+      "score": 720,
       "author": "tilt",
       "created": "2026-01-21 10:49:20",
       "created_at": 1768992560000
@@ -28,7 +28,7 @@
       "id": 46693346,
       "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
       "link": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
-      "score": 621,
+      "score": 622,
       "author": "andsoitis",
       "created": "2026-01-20 16:03:21",
       "created_at": 1768925001000
@@ -37,7 +37,7 @@
       "id": 46700594,
       "title": "Anthropic's original take home assignment open sourced",
       "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 611,
+      "score": 614,
       "author": "myahio",
       "created": "2026-01-21 02:54:32",
       "created_at": 1768964072000
@@ -46,10 +46,19 @@
       "id": 46690402,
       "title": "I'm addicted to being useful",
       "link": "https://www.seangoedecke.com/addicted-to-being-useful/",
-      "score": 587,
+      "score": 588,
       "author": "swah",
       "created": "2026-01-20 10:47:25",
       "created_at": 1768906045000
+    },
+    {
+      "id": 46706528,
+      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+      "link": "https://github.com/ChartGPU/ChartGPU",
+      "score": 577,
+      "author": "huntergemmer",
+      "created": "2026-01-21 14:54:56",
+      "created_at": 1769007296000
     },
     {
       "id": 46695628,
@@ -61,19 +70,10 @@
       "created_at": 1768932969000
     },
     {
-      "id": 46706528,
-      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 533,
-      "author": "huntergemmer",
-      "created": "2026-01-21 14:54:56",
-      "created_at": 1769007296000
-    },
-    {
       "id": 46688971,
       "title": "The Overcomplexity of the Shadcn Radio Button",
       "link": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-      "score": 514,
+      "score": 515,
       "author": "dbushell",
       "created": "2026-01-20 07:35:09",
       "created_at": 1768894509000
@@ -91,7 +91,7 @@
       "id": 46693205,
       "title": "Nvidia Stock Crash Prediction",
       "link": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
-      "score": 442,
+      "score": 444,
       "author": "todsacerdoti",
       "created": "2026-01-20 15:56:07",
       "created_at": 1768924567000
