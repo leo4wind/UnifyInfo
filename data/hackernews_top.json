@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-22T12:27:26.750Z"
+    "lastUpdate": "2026-01-22T16:21:36.137Z"
   },
   "data": [
     {
-      "id": 46713106,
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "score": 355,
-      "author": "williamzeng0",
-      "created": "2026-01-21 23:22:40",
-      "created_at": 1769037760000
+      "id": 46720395,
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "link": "https://gptzero.me/news/neurips/",
+      "score": 155,
+      "author": "segmenta",
+      "created": "2026-01-22 15:20:48",
+      "created_at": 1769095248000
+    },
+    {
+      "id": 46719491,
+      "title": "In Europe, Wind and Solar Overtake Fossil Fuels",
+      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
+      "score": 126,
+      "author": "speckx",
+      "created": "2026-01-22 14:14:15",
+      "created_at": 1769091255000
+    },
+    {
+      "id": 46719229,
+      "title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
+      "link": "https://qwen.ai/blog?id=qwen3tts-0115",
+      "score": 78,
+      "author": "Palmik",
+      "created": "2026-01-22 13:51:25",
+      "created_at": 1769089885000
+    },
+    {
+      "id": 46718061,
+      "title": "Design Thinking Books You Must Read",
+      "link": "https://www.designorate.com/design-thinking-books/",
+      "score": 167,
+      "author": "rrm1977",
+      "created": "2026-01-22 11:51:10",
+      "created_at": 1769082670000
+    },
+    {
+      "id": 46719899,
+      "title": "Tree-sitter vs. Language Servers",
+      "link": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
+      "score": 57,
+      "author": "ashton314",
+      "created": "2026-01-22 14:47:58",
+      "created_at": 1769093278000
+    },
+    {
+      "id": 46717507,
+      "title": "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
+      "link": "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/",
+      "score": 66,
+      "author": "whizzx",
+      "created": "2026-01-22 10:41:23",
+      "created_at": 1769078483000
+    },
+    {
+      "id": 46719222,
+      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
+      "link": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
+      "score": 215,
+      "author": "speckx",
+      "created": "2026-01-22 13:50:48",
+      "created_at": 1769089848000
     },
     {
       "id": 46717556,
       "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
       "link": "https://curl.se/.well-known/security.txt",
-      "score": 255,
+      "score": 673,
       "author": "latexr",
       "created": "2026-01-22 10:48:27",
       "created_at": 1769078907000
     },
     {
-      "id": 46716696,
-      "title": "In Praise of APL (1977)",
-      "link": "https://www.jsoftware.com/papers/perlis77.htm",
-      "score": 40,
-      "author": "tosh",
-      "created": "2026-01-22 08:44:56",
-      "created_at": 1769071496000
+      "id": 46713106,
+      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+      "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+      "score": 449,
+      "author": "williamzeng0",
+      "created": "2026-01-21 23:22:40",
+      "created_at": 1769037760000
     },
     {
-      "id": 46715600,
-      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
-      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
-      "score": 133,
-      "author": "kaycebasques",
-      "created": "2026-01-22 05:15:46",
-      "created_at": 1769058946000
-    },
-    {
-      "id": 46713526,
-      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
-      "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
-      "score": 190,
-      "author": "vinnyglennon",
-      "created": "2026-01-22 00:12:00",
-      "created_at": 1769040720000
-    },
-    {
-      "id": 46649786,
-      "title": "Hands-On Introduction to Unikernels",
-      "link": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
-      "score": 68,
-      "author": "valyala",
-      "created": "2026-01-16 18:16:10",
-      "created_at": 1768587370000
-    },
-    {
-      "id": 46712678,
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "score": 270,
-      "author": "misswaterfairy",
-      "created": "2026-01-21 22:41:45",
-      "created_at": 1769035305000
-    },
-    {
-      "id": 46659016,
-      "title": "Gathering Linux Syscall Numbers in a C Table",
-      "link": "https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers",
-      "score": 55,
-      "author": "phi-system",
-      "created": "2026-01-17 15:57:42",
-      "created_at": 1768665462000
-    },
-    {
-      "id": 46707572,
-      "title": "Claude's new constitution",
-      "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 473,
-      "author": "meetpateltech",
-      "created": "2026-01-21 16:04:49",
-      "created_at": 1769011489000
+      "id": 46716469,
+      "title": "30 Years of ReactOS",
+      "link": "https://reactos.org/blogs/30yrs-of-ros/",
+      "score": 115,
+      "author": "Mark_Jansen",
+      "created": "2026-01-22 08:03:57",
+      "created_at": 1769069037000
     }
   ],
   "code": 200,
