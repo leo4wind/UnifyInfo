@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-22T16:21:36.137Z"
+    "lastUpdate": "2026-01-22T20:15:12.937Z"
   },
   "data": [
     {
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 155,
+      "score": 486,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
     },
     {
-      "id": 46719491,
-      "title": "In Europe, Wind and Solar Overtake Fossil Fuels",
-      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-      "score": 126,
-      "author": "speckx",
-      "created": "2026-01-22 14:14:15",
-      "created_at": 1769091255000
+      "id": 46723990,
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "link": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "score": 57,
+      "author": "eieio",
+      "created": "2026-01-22 19:27:32",
+      "created_at": 1769110052000
+    },
+    {
+      "id": 46721802,
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "score": 252,
+      "author": "cannoneyed",
+      "created": "2026-01-22 16:52:35",
+      "created_at": 1769100755000
+    },
+    {
+      "id": 46721179,
+      "title": "It looks like the status/need-triage label was removed",
+      "link": "https://github.com/google-gemini/gemini-cli/issues/16728",
+      "score": 197,
+      "author": "nickswalker",
+      "created": "2026-01-22 16:10:20",
+      "created_at": 1769098220000
     },
     {
       "id": 46719229,
       "title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
       "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "score": 78,
+      "score": 297,
       "author": "Palmik",
       "created": "2026-01-22 13:51:25",
       "created_at": 1769089885000
     },
     {
-      "id": 46718061,
-      "title": "Design Thinking Books You Must Read",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "score": 167,
-      "author": "rrm1977",
-      "created": "2026-01-22 11:51:10",
-      "created_at": 1769082670000
+      "id": 46722570,
+      "title": "CSS Optical Illusions",
+      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
+      "score": 68,
+      "author": "ulrischa",
+      "created": "2026-01-22 17:41:22",
+      "created_at": 1769103682000
+    },
+    {
+      "id": 46723384,
+      "title": "I was banned from Claude for scaffolding a Claude.md file?",
+      "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
+      "score": 139,
+      "author": "hugodan",
+      "created": "2026-01-22 18:38:27",
+      "created_at": 1769107107000
     },
     {
       "id": 46719899,
       "title": "Tree-sitter vs. Language Servers",
       "link": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
-      "score": 57,
+      "score": 161,
       "author": "ashton314",
       "created": "2026-01-22 14:47:58",
       "created_at": 1769093278000
     },
     {
-      "id": 46717507,
-      "title": "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
-      "link": "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/",
-      "score": 66,
-      "author": "whizzx",
-      "created": "2026-01-22 10:41:23",
-      "created_at": 1769078483000
+      "id": 46722853,
+      "title": "Recent discoveries on the acquisition of the highest levels of human performance",
+      "link": "https://www.science.org/doi/abs/10.1126/science.adt7790",
+      "score": 33,
+      "author": "colincooke",
+      "created": "2026-01-22 18:01:02",
+      "created_at": 1769104862000
     },
     {
-      "id": 46719222,
-      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
-      "link": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
-      "score": 215,
-      "author": "speckx",
-      "created": "2026-01-22 13:50:48",
-      "created_at": 1769089848000
-    },
-    {
-      "id": 46717556,
-      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "link": "https://curl.se/.well-known/security.txt",
-      "score": 673,
-      "author": "latexr",
-      "created": "2026-01-22 10:48:27",
-      "created_at": 1769078907000
-    },
-    {
-      "id": 46713106,
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "score": 449,
-      "author": "williamzeng0",
-      "created": "2026-01-21 23:22:40",
-      "created_at": 1769037760000
-    },
-    {
-      "id": 46716469,
-      "title": "30 Years of ReactOS",
-      "link": "https://reactos.org/blogs/30yrs-of-ros/",
-      "score": 115,
-      "author": "Mark_Jansen",
-      "created": "2026-01-22 08:03:57",
-      "created_at": 1769069037000
+      "id": 46712547,
+      "title": "Mote: An Interactive Ecosystem Simulation [video]",
+      "link": "https://www.youtube.com/watch?v=Hju0H3NHxVI",
+      "score": 37,
+      "author": "evakhoury",
+      "created": "2026-01-21 22:30:18",
+      "created_at": 1769034618000
     }
   ],
   "code": 200,
