@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-22T00:59:41.748Z"
+    "lastUpdate": "2026-01-22T04:39:54.076Z"
   },
   "data": [
     {
-      "id": 46712815,
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "score": 55,
-      "author": "dp-hackernews",
-      "created": "2026-01-21 22:54:04",
-      "created_at": 1769036044000
+      "id": 46713526,
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "score": 65,
+      "author": "vinnyglennon",
+      "created": "2026-01-22 00:12:00",
+      "created_at": 1769040720000
+    },
+    {
+      "id": 46713106,
+      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+      "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+      "score": 13,
+      "author": "williamzeng0",
+      "created": "2026-01-21 23:22:40",
+      "created_at": 1769037760000
+    },
+    {
+      "id": 46658128,
+      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+      "link": "https://arxiv.org/abs/2201.01174",
+      "score": 62,
+      "author": "redbell",
+      "created": "2026-01-17 14:02:17",
+      "created_at": 1768658537000
     },
     {
       "id": 46706528,
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 488,
+      "score": 533,
       "author": "huntergemmer",
       "created": "2026-01-21 14:54:56",
       "created_at": 1769007296000
@@ -28,73 +46,55 @@
       "id": 46707572,
       "title": "Claude's new constitution",
       "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 281,
+      "score": 362,
       "author": "meetpateltech",
       "created": "2026-01-21 16:04:49",
       "created_at": 1769011489000
     },
     {
-      "id": 46658133,
-      "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
-      "link": "https://www.ratatui-ruby.dev/",
-      "score": 52,
-      "author": "Kerrick",
-      "created": "2026-01-17 14:03:00",
-      "created_at": 1768658580000
-    },
-    {
-      "id": 46651027,
-      "title": "Golfing APL/K in 90 Lines of Python",
-      "link": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
-      "score": 47,
-      "author": "aburjg",
-      "created": "2026-01-16 19:34:00",
-      "created_at": 1768592040000
+      "id": 46711649,
+      "title": "Show HN: TerabyteDeals – Compare storage prices by $/TB",
+      "link": "https://terabytedeals.com",
+      "score": 107,
+      "author": "vektor888",
+      "created": "2026-01-21 21:13:59",
+      "created_at": 1769030039000
     },
     {
       "id": 46706906,
       "title": "Skip is now free and open source",
       "link": "https://skip.dev/blog/skip-is-free/",
-      "score": 266,
+      "score": 324,
       "author": "dayanruben",
       "created": "2026-01-21 15:20:53",
       "created_at": 1769008853000
     },
     {
+      "id": 46709543,
+      "title": "Show HN: Rails UI",
+      "link": "https://railsui.com/",
+      "score": 131,
+      "author": "justalever",
+      "created": "2026-01-21 18:31:19",
+      "created_at": 1769020279000
+    },
+    {
       "id": 46652173,
       "title": "Letting Claude play text adventures",
       "link": "https://borretti.me/article/letting-claude-play-text-adventures",
-      "score": 68,
+      "score": 91,
       "author": "varjag",
       "created": "2026-01-16 21:02:25",
       "created_at": 1768597345000
     },
     {
-      "id": 46662247,
-      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
-      "link": "https://github.com/soegaard/webracket",
-      "score": 88,
-      "author": "mfru",
-      "created": "2026-01-17 21:23:58",
-      "created_at": 1768685038000
-    },
-    {
-      "id": 46708351,
-      "title": "Challenges in join optimization",
-      "link": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
-      "score": 40,
-      "author": "HermitX",
-      "created": "2026-01-21 17:03:31",
-      "created_at": 1769015011000
-    },
-    {
-      "id": 46709543,
-      "title": "Show HN: Rails UI",
-      "link": "https://railsui.com/",
-      "score": 100,
-      "author": "justalever",
-      "created": "2026-01-21 18:31:19",
-      "created_at": 1769020279000
+      "id": 46705676,
+      "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+      "link": "",
+      "score": 72,
+      "author": "oliverjanssen",
+      "created": "2026-01-21 13:49:07",
+      "created_at": 1769003347000
     }
   ],
   "code": 200,
