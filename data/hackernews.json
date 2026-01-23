@@ -3,50 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-23T08:18:08.172Z"
+    "lastUpdate": "2026-01-23T12:26:08.862Z"
   },
   "data": [
-    {
-      "id": 46717556,
-      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "link": "https://curl.se/.well-known/security.txt",
-      "score": 900,
-      "author": "latexr",
-      "created": "2026-01-22 10:48:27",
-      "created_at": 1769078907000
-    },
     {
       "id": 46721802,
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
       "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 871,
+      "score": 999,
       "author": "cannoneyed",
       "created": "2026-01-22 16:52:35",
       "created_at": 1769100755000
     },
     {
+      "id": 46717556,
+      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
+      "link": "https://curl.se/.well-known/security.txt",
+      "score": 906,
+      "author": "latexr",
+      "created": "2026-01-22 10:48:27",
+      "created_at": 1769078907000
+    },
+    {
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 815,
+      "score": 861,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
     },
     {
-      "id": 46703763,
-      "title": "EU–INC – A new pan-European legal entity",
-      "link": "https://www.eu-inc.org/",
-      "score": 756,
-      "author": "tilt",
-      "created": "2026-01-21 10:49:20",
-      "created_at": 1768992560000
+      "id": 46727587,
+      "title": "Bugs Apple Loves",
+      "link": "https://www.bugsappleloves.com",
+      "score": 710,
+      "author": "nhod",
+      "created": "2026-01-23 02:24:12",
+      "created_at": 1769135052000
     },
     {
       "id": 46712678,
       "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "score": 664,
+      "score": 671,
       "author": "misswaterfairy",
       "created": "2026-01-21 22:41:45",
       "created_at": 1769035305000
@@ -55,7 +55,7 @@
       "id": 46706528,
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 658,
+      "score": 660,
       "author": "huntergemmer",
       "created": "2026-01-21 14:54:56",
       "created_at": 1769007296000
@@ -64,37 +64,37 @@
       "id": 46719491,
       "title": "In Europe, wind and solar overtake fossil fuels",
       "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-      "score": 583,
+      "score": 651,
       "author": "speckx",
       "created": "2026-01-22 14:14:15",
       "created_at": 1769091255000
     },
     {
-      "id": 46707572,
-      "title": "Claude's new constitution",
-      "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 573,
-      "author": "meetpateltech",
-      "created": "2026-01-21 16:04:49",
-      "created_at": 1769011489000
-    },
-    {
       "id": 46719229,
       "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
       "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "score": 564,
+      "score": 630,
       "author": "Palmik",
       "created": "2026-01-22 13:51:25",
       "created_at": 1769089885000
     },
     {
-      "id": 46713106,
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "score": 517,
-      "author": "williamzeng0",
-      "created": "2026-01-21 23:22:40",
-      "created_at": 1769037760000
+      "id": 46707572,
+      "title": "Claude's new constitution",
+      "link": "https://www.anthropic.com/news/claude-new-constitution",
+      "score": 574,
+      "author": "meetpateltech",
+      "created": "2026-01-21 16:04:49",
+      "created_at": 1769011489000
+    },
+    {
+      "id": 46723384,
+      "title": "I was banned from Claude for scaffolding a Claude.md file?",
+      "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
+      "score": 573,
+      "author": "hugodan",
+      "created": "2026-01-22 18:38:27",
+      "created_at": 1769107107000
     }
   ],
   "code": 200,
