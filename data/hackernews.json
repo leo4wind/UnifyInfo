@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-23T01:00:01.776Z"
+    "lastUpdate": "2026-01-23T04:34:22.395Z"
   },
   "data": [
     {
       "id": 46717556,
       "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
       "link": "https://curl.se/.well-known/security.txt",
-      "score": 878,
+      "score": 888,
       "author": "latexr",
       "created": "2026-01-22 10:48:27",
       "created_at": 1769078907000
@@ -28,16 +28,25 @@
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 678,
+      "score": 754,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
     },
     {
+      "id": 46721802,
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "score": 738,
+      "author": "cannoneyed",
+      "created": "2026-01-22 16:52:35",
+      "created_at": 1769100755000
+    },
+    {
       "id": 46706528,
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 654,
+      "score": 657,
       "author": "huntergemmer",
       "created": "2026-01-21 14:54:56",
       "created_at": 1769007296000
@@ -46,55 +55,46 @@
       "id": 46712678,
       "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "score": 629,
+      "score": 648,
       "author": "misswaterfairy",
       "created": "2026-01-21 22:41:45",
       "created_at": 1769035305000
     },
     {
-      "id": 46700594,
-      "title": "Anthropic's original take home assignment open sourced",
-      "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 624,
-      "author": "myahio",
-      "created": "2026-01-21 02:54:32",
-      "created_at": 1768964072000
-    },
-    {
-      "id": 46721802,
-      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 608,
-      "author": "cannoneyed",
-      "created": "2026-01-22 16:52:35",
-      "created_at": 1769100755000
-    },
-    {
       "id": 46707572,
       "title": "Claude's new constitution",
       "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 567,
+      "score": 571,
       "author": "meetpateltech",
       "created": "2026-01-21 16:04:49",
       "created_at": 1769011489000
     },
     {
+      "id": 46719491,
+      "title": "In Europe, wind and solar overtake fossil fuels",
+      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
+      "score": 519,
+      "author": "speckx",
+      "created": "2026-01-22 14:14:15",
+      "created_at": 1769091255000
+    },
+    {
       "id": 46713106,
       "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "score": 507,
+      "score": 515,
       "author": "williamzeng0",
       "created": "2026-01-21 23:22:40",
       "created_at": 1769037760000
     },
     {
-      "id": 46706906,
-      "title": "Skip is now free and open source",
-      "link": "https://skip.dev/blog/skip-is-free/",
-      "score": 501,
-      "author": "dayanruben",
-      "created": "2026-01-21 15:20:53",
-      "created_at": 1769008853000
+      "id": 46719229,
+      "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
+      "link": "https://qwen.ai/blog?id=qwen3tts-0115",
+      "score": 504,
+      "author": "Palmik",
+      "created": "2026-01-22 13:51:25",
+      "created_at": 1769089885000
     }
   ],
   "code": 200,

@@ -3,32 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-23T01:00:01.910Z"
+    "lastUpdate": "2026-01-23T04:34:22.641Z"
   },
   "data": [
+    {
+      "id": 46728157,
+      "title": "The Lost Art of XML",
+      "link": "https://marcosmagueta.com/blog/the-lost-art-of-xml/",
+      "score": 23,
+      "author": "Curiositry",
+      "created": "2026-01-23 03:45:15",
+      "created_at": 1769139915000
+    },
+    {
+      "id": 46725288,
+      "title": "Capital One to acquire Brex for $5.15B",
+      "link": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+      "score": 214,
+      "author": "personjerry",
+      "created": "2026-01-22 21:23:12",
+      "created_at": 1769116992000
+    },
     {
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 678,
+      "score": 754,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
     },
     {
-      "id": 46726857,
-      "title": "Why medieval city-builder video games are historically inaccurate (2020)",
-      "link": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
-      "score": 25,
-      "author": "benbreen",
-      "created": "2026-01-23 00:22:58",
-      "created_at": 1769127778000
-    },
-    {
       "id": 46721802,
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
       "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 608,
+      "score": 738,
       "author": "cannoneyed",
       "created": "2026-01-22 16:52:35",
       "created_at": 1769100755000
@@ -37,64 +46,55 @@
       "id": 46723990,
       "title": "Why does SSH send 100 packets per keystroke?",
       "link": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
-      "score": 262,
+      "score": 352,
       "author": "eieio",
       "created": "2026-01-22 19:27:32",
       "created_at": 1769110052000
     },
     {
-      "id": 46725288,
-      "title": "Capital One to acquire Brex for $5.15B",
-      "link": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-      "score": 87,
-      "author": "personjerry",
-      "created": "2026-01-22 21:23:12",
-      "created_at": 1769116992000
-    },
-    {
       "id": 46723384,
       "title": "I was banned from Claude for scaffolding a Claude.md file?",
       "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "score": 316,
+      "score": 419,
       "author": "hugodan",
       "created": "2026-01-22 18:38:27",
       "created_at": 1769107107000
     },
     {
-      "id": 46725522,
-      "title": "Viking Ship Museum in Denmark announces the discovery of the largest cog",
-      "link": "https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/",
-      "score": 42,
-      "author": "PaulHoule",
-      "created": "2026-01-22 21:43:14",
-      "created_at": 1769118194000
+      "id": 46677583,
+      "title": "Turso is an in-process SQL database, compatible with SQLite",
+      "link": "https://github.com/tursodatabase/turso",
+      "score": 69,
+      "author": "marklit",
+      "created": "2026-01-19 11:04:47",
+      "created_at": 1768820687000
+    },
+    {
+      "id": 46727587,
+      "title": "Bugs Apple Loves",
+      "link": "https://www.bugsappleloves.com",
+      "score": 300,
+      "author": "nhod",
+      "created": "2026-01-23 02:24:12",
+      "created_at": 1769135052000
     },
     {
       "id": 46719229,
       "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
       "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "score": 455,
+      "score": 504,
       "author": "Palmik",
       "created": "2026-01-22 13:51:25",
       "created_at": 1769089885000
     },
     {
-      "id": 46726526,
-      "title": "Improving the usability of C libraries in Swift",
-      "link": "https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/",
-      "score": 24,
-      "author": "timsneath",
-      "created": "2026-01-22 23:34:44",
-      "created_at": 1769124884000
-    },
-    {
-      "id": 46725632,
-      "title": "Anthropic Economic Index economic primitives",
-      "link": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-      "score": 43,
-      "author": "malshe",
-      "created": "2026-01-22 21:54:02",
-      "created_at": 1769118842000
+      "id": 46650627,
+      "title": "What Is Control Flow Analysis for Lambda Calculus? – Iowa Type Theory Commute",
+      "link": "https://rss.buzzsprout.com/728558.rss",
+      "score": 12,
+      "author": "matt_d",
+      "created": "2026-01-16 19:05:40",
+      "created_at": 1768590340000
     }
   ],
   "code": 200,
