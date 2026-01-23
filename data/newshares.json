@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-22T20:15:16.118Z"
+    "lastUpdate": "2026-01-23T01:00:07.165Z"
   },
   "data": [
+    {
+      "zqdm": "688818",
+      "zqjc": "电科蓝天",
+      "sgdm": "787818",
+      "fxsl": 173700000,
+      "swfxsl": 27792000,
+      "sgsx": 27500,
+      "dgsz": 275000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-30",
+      "zqgbrq": "2026-02-03",
+      "zqjkrq": "2026-02-03",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 43.6,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "电能源产品及系统的研发、生产、销售及服务,拥有发电、储能、控制和系统集成全套解决方案"
+    },
+    {
+      "zqdm": "603284",
+      "zqjc": "林平发展",
+      "sgdm": "732284",
+      "fxsl": 18853700,
+      "swfxsl": 7541000,
+      "sgsx": 7500,
+      "dgsz": 75000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-01-30",
+      "zqgbrq": "2026-02-03",
+      "zqjkrq": "2026-02-03",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 26.24,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "包装用瓦楞纸、箱板纸产品的研发、生产和销售"
+    },
     {
       "zqdm": "688712",
       "zqjc": "北芯生命",
@@ -120,30 +166,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "清洁能源领域纤维增强材料研发、生产及销售"
-    },
-    {
-      "zqdm": "688785",
-      "zqjc": "恒运昌",
-      "sgdm": "787785",
-      "fxsl": 16930559,
-      "swfxsl": 5417500,
-      "sgsx": 4000,
-      "dgsz": 40000,
-      "fxjg": 92.18,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-01-16",
-      "zqgbrq": "2026-01-20",
-      "zqjkrq": "2026-01-20",
-      "ssrq": null,
-      "syl": 48.39,
-      "hysyl": 39.84,
-      "wszql": 0.02184853,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "等离子体射频电源系统、等离子体激发装置、等离子体直流电源、各种配件的研发、生产、销售及技术服务"
     }
   ],
-  "total": 6
+  "total": 7
 }

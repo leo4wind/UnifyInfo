@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-22T20:15:12.857Z"
+    "lastUpdate": "2026-01-23T01:00:01.776Z"
   },
   "data": [
     {
       "id": 46717556,
       "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
       "link": "https://curl.se/.well-known/security.txt",
-      "score": 850,
+      "score": 878,
       "author": "latexr",
       "created": "2026-01-22 10:48:27",
       "created_at": 1769078907000
@@ -19,43 +19,61 @@
       "id": 46703763,
       "title": "EU–INC – A new pan-European legal entity",
       "link": "https://www.eu-inc.org/",
-      "score": 746,
+      "score": 756,
       "author": "tilt",
       "created": "2026-01-21 10:49:20",
       "created_at": 1768992560000
     },
     {
+      "id": 46720395,
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "link": "https://gptzero.me/news/neurips/",
+      "score": 678,
+      "author": "segmenta",
+      "created": "2026-01-22 15:20:48",
+      "created_at": 1769095248000
+    },
+    {
       "id": 46706528,
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 651,
+      "score": 654,
       "author": "huntergemmer",
       "created": "2026-01-21 14:54:56",
       "created_at": 1769007296000
     },
     {
-      "id": 46700594,
-      "title": "Anthropic's original take home assignment open sourced",
-      "link": "https://github.com/anthropics/original_performance_takehome",
-      "score": 621,
-      "author": "myahio",
-      "created": "2026-01-21 02:54:32",
-      "created_at": 1768964072000
-    },
-    {
       "id": 46712678,
       "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "score": 581,
+      "score": 629,
       "author": "misswaterfairy",
       "created": "2026-01-21 22:41:45",
       "created_at": 1769035305000
     },
     {
+      "id": 46700594,
+      "title": "Anthropic's original take home assignment open sourced",
+      "link": "https://github.com/anthropics/original_performance_takehome",
+      "score": 624,
+      "author": "myahio",
+      "created": "2026-01-21 02:54:32",
+      "created_at": 1768964072000
+    },
+    {
+      "id": 46721802,
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "score": 608,
+      "author": "cannoneyed",
+      "created": "2026-01-22 16:52:35",
+      "created_at": 1769100755000
+    },
+    {
       "id": 46707572,
       "title": "Claude's new constitution",
       "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 559,
+      "score": 567,
       "author": "meetpateltech",
       "created": "2026-01-21 16:04:49",
       "created_at": 1769011489000
@@ -64,7 +82,7 @@
       "id": 46713106,
       "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "score": 497,
+      "score": 507,
       "author": "williamzeng0",
       "created": "2026-01-21 23:22:40",
       "created_at": 1769037760000
@@ -73,28 +91,10 @@
       "id": 46706906,
       "title": "Skip is now free and open source",
       "link": "https://skip.dev/blog/skip-is-free/",
-      "score": 496,
+      "score": 501,
       "author": "dayanruben",
       "created": "2026-01-21 15:20:53",
       "created_at": 1769008853000
-    },
-    {
-      "id": 46720395,
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "link": "https://gptzero.me/news/neurips/",
-      "score": 486,
-      "author": "segmenta",
-      "created": "2026-01-22 15:20:48",
-      "created_at": 1769095248000
-    },
-    {
-      "id": 46698660,
-      "title": "California is free of drought for the first time in 25 years",
-      "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
-      "score": 453,
-      "author": "thnaks",
-      "created": "2026-01-20 22:39:26",
-      "created_at": 1768948766000
     }
   ],
   "code": 200,
