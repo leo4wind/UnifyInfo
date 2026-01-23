@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-23T12:26:08.862Z"
+    "lastUpdate": "2026-01-23T16:17:42.936Z"
   },
   "data": [
     {
       "id": 46721802,
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
       "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 999,
+      "score": 1124,
       "author": "cannoneyed",
       "created": "2026-01-22 16:52:35",
       "created_at": 1769100755000
@@ -19,7 +19,7 @@
       "id": 46717556,
       "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
       "link": "https://curl.se/.well-known/security.txt",
-      "score": 906,
+      "score": 914,
       "author": "latexr",
       "created": "2026-01-22 10:48:27",
       "created_at": 1769078907000
@@ -28,7 +28,7 @@
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 861,
+      "score": 896,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
@@ -37,7 +37,7 @@
       "id": 46727587,
       "title": "Bugs Apple Loves",
       "link": "https://www.bugsappleloves.com",
-      "score": 710,
+      "score": 840,
       "author": "nhod",
       "created": "2026-01-23 02:24:12",
       "created_at": 1769135052000
@@ -46,25 +46,16 @@
       "id": 46712678,
       "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "link": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "score": 671,
+      "score": 677,
       "author": "misswaterfairy",
       "created": "2026-01-21 22:41:45",
       "created_at": 1769035305000
     },
     {
-      "id": 46706528,
-      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "link": "https://github.com/ChartGPU/ChartGPU",
-      "score": 660,
-      "author": "huntergemmer",
-      "created": "2026-01-21 14:54:56",
-      "created_at": 1769007296000
-    },
-    {
       "id": 46719491,
       "title": "In Europe, wind and solar overtake fossil fuels",
       "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-      "score": 651,
+      "score": 674,
       "author": "speckx",
       "created": "2026-01-22 14:14:15",
       "created_at": 1769091255000
@@ -73,28 +64,37 @@
       "id": 46719229,
       "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
       "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "score": 630,
+      "score": 665,
       "author": "Palmik",
       "created": "2026-01-22 13:51:25",
       "created_at": 1769089885000
     },
     {
-      "id": 46707572,
-      "title": "Claude's new constitution",
-      "link": "https://www.anthropic.com/news/claude-new-constitution",
-      "score": 574,
-      "author": "meetpateltech",
-      "created": "2026-01-21 16:04:49",
-      "created_at": 1769011489000
-    },
-    {
       "id": 46723384,
       "title": "I was banned from Claude for scaffolding a Claude.md file?",
       "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "score": 573,
+      "score": 638,
       "author": "hugodan",
       "created": "2026-01-22 18:38:27",
       "created_at": 1769107107000
+    },
+    {
+      "id": 46723990,
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "link": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "score": 583,
+      "author": "eieio",
+      "created": "2026-01-22 19:27:32",
+      "created_at": 1769110052000
+    },
+    {
+      "id": 46707572,
+      "title": "Claude's new constitution",
+      "link": "https://www.anthropic.com/news/claude-new-constitution",
+      "score": 575,
+      "author": "meetpateltech",
+      "created": "2026-01-21 16:04:49",
+      "created_at": 1769011489000
     }
   ],
   "code": 200,
