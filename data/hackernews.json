@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-24T16:13:24.707Z"
+    "lastUpdate": "2026-01-24T20:12:41.609Z"
   },
   "data": [
-    {
-      "id": 46721802,
-      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 1288,
-      "author": "cannoneyed",
-      "created": "2026-01-22 16:52:35",
-      "created_at": 1769100755000
-    },
     {
       "id": 46727587,
       "title": "Bugs Apple loves",
       "link": "https://www.bugsappleloves.com",
-      "score": 1015,
+      "score": 1039,
       "author": "nhod",
       "created": "2026-01-23 02:24:12",
       "created_at": 1769135052000
@@ -28,43 +19,25 @@
       "id": 46735545,
       "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
       "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "score": 947,
+      "score": 992,
       "author": "bookofjoe",
       "created": "2026-01-23 17:58:56",
       "created_at": 1769191136000
     },
     {
-      "id": 46720395,
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "link": "https://gptzero.me/news/neurips/",
-      "score": 928,
-      "author": "segmenta",
-      "created": "2026-01-22 15:20:48",
-      "created_at": 1769095248000
-    },
-    {
       "id": 46731976,
       "title": "European Alternatives",
       "link": "https://european-alternatives.eu",
-      "score": 730,
+      "score": 749,
       "author": "s_dev",
       "created": "2026-01-23 13:01:51",
       "created_at": 1769173311000
     },
     {
-      "id": 46723384,
-      "title": "I was banned from Claude for scaffolding a Claude.md file?",
-      "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "score": 730,
-      "author": "hugodan",
-      "created": "2026-01-22 18:38:27",
-      "created_at": 1769107107000
-    },
-    {
       "id": 46723990,
       "title": "Why does SSH send 100 packets per keystroke?",
       "link": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
-      "score": 649,
+      "score": 650,
       "author": "eieio",
       "created": "2026-01-22 19:27:32",
       "created_at": 1769110052000
@@ -73,7 +46,7 @@
       "id": 46729368,
       "title": "Proton spam and the AI consent problem",
       "link": "https://dbushell.com/2026/01/22/proton-spam/",
-      "score": 530,
+      "score": 537,
       "author": "dbushell",
       "created": "2026-01-23 07:01:29",
       "created_at": 1769151689000
@@ -82,7 +55,7 @@
       "id": 46730504,
       "title": "AI Usage Policy",
       "link": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "score": 494,
+      "score": 496,
       "author": "mefengl",
       "created": "2026-01-23 09:50:26",
       "created_at": 1769161826000
@@ -91,10 +64,37 @@
       "id": 46728808,
       "title": "I built a light that reacts to radio waves [video]",
       "link": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "score": 463,
+      "score": 468,
       "author": "codetheweb",
       "created": "2026-01-23 05:34:35",
       "created_at": 1769146475000
+    },
+    {
+      "id": 46735511,
+      "title": "Proof of Corn",
+      "link": "https://proofofcorn.com/",
+      "score": 455,
+      "author": "rocauc",
+      "created": "2026-01-23 17:56:31",
+      "created_at": 1769190991000
+    },
+    {
+      "id": 46737630,
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "score": 423,
+      "author": "tosh",
+      "created": "2026-01-23 20:42:36",
+      "created_at": 1769200956000
+    },
+    {
+      "id": 46734302,
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "link": "https://maggieappleton.com/gastown",
+      "score": 382,
+      "author": "pavel_lishin",
+      "created": "2026-01-23 16:19:18",
+      "created_at": 1769185158000
     }
   ],
   "code": 200,
