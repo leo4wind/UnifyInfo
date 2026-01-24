@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-24T04:27:57.743Z"
+    "lastUpdate": "2026-01-24T08:15:38.586Z"
   },
   "data": [
-    {
-      "id": 46740029,
-      "title": "Open-source self-driving for 325 car models from 27 brands",
-      "link": "https://comma.ai",
-      "score": 188,
-      "author": "JumpCrisscross",
-      "created": "2026-01-24 01:00:50",
-      "created_at": 1769216450000
-    },
-    {
-      "id": 46737630,
-      "title": "Unrolling the Codex agent loop",
-      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "score": 249,
-      "author": "tosh",
-      "created": "2026-01-23 20:42:36",
-      "created_at": 1769200956000
-    },
-    {
-      "id": 46676125,
-      "title": "Some C habits I employ for the modern day",
-      "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "score": 98,
-      "author": "signa11",
-      "created": "2026-01-19 08:03:46",
-      "created_at": 1768809826000
-    },
-    {
-      "id": 46735644,
-      "title": "New YC homepage",
-      "link": "https://www.ycombinator.com/",
-      "score": 197,
-      "author": "sarreph",
-      "created": "2026-01-23 18:08:11",
-      "created_at": 1769191691000
-    },
-    {
-      "id": 46679802,
-      "title": "Losing 1½ Million Lines of Go",
-      "link": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-      "score": 46,
-      "author": "moks",
-      "created": "2026-01-19 15:06:51",
-      "created_at": 1768835211000
-    },
     {
       "id": 46694618,
       "title": "Internet Archive's Storage",
       "link": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "score": 11,
+      "score": 102,
       "author": "zdw",
       "created": "2026-01-20 17:16:49",
       "created_at": 1768929409000
     },
     {
-      "id": 46734302,
-      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-      "link": "https://maggieappleton.com/gastown",
-      "score": 275,
-      "author": "pavel_lishin",
-      "created": "2026-01-23 16:19:18",
-      "created_at": 1769185158000
-    },
-    {
-      "id": 46740644,
-      "title": "Caroline Ellison Former Alameda CEO Released from Prison After 440 Days",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
-      "score": 49,
-      "author": "sizzle",
-      "created": "2026-01-24 02:59:42",
-      "created_at": 1769223582000
-    },
-    {
-      "id": 46735545,
-      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
-      "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "score": 712,
-      "author": "bookofjoe",
-      "created": "2026-01-23 17:58:56",
-      "created_at": 1769191136000
+      "id": 46737630,
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "score": 309,
+      "author": "tosh",
+      "created": "2026-01-23 20:42:36",
+      "created_at": 1769200956000
     },
     {
       "id": 46735511,
       "title": "Proof of Corn",
       "link": "https://proofofcorn.com/",
-      "score": 329,
+      "score": 368,
       "author": "rocauc",
       "created": "2026-01-23 17:56:31",
       "created_at": 1769190991000
+    },
+    {
+      "id": 46676125,
+      "title": "Some C habits I employ for the modern day",
+      "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "score": 145,
+      "author": "signa11",
+      "created": "2026-01-19 08:03:46",
+      "created_at": 1768809826000
+    },
+    {
+      "id": 46676061,
+      "title": "Traintrackr – Live LED Maps",
+      "link": "https://www.traintrackr.co.uk/",
+      "score": 13,
+      "author": "recursion",
+      "created": "2026-01-19 07:53:17",
+      "created_at": 1768809197000
+    },
+    {
+      "id": 46741482,
+      "title": "80386 Multiplication and Division",
+      "link": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
+      "score": 6,
+      "author": "nand2mario",
+      "created": "2026-01-24 06:11:42",
+      "created_at": 1769235102000
+    },
+    {
+      "id": 46735644,
+      "title": "New YC homepage",
+      "link": "https://www.ycombinator.com/",
+      "score": 243,
+      "author": "sarreph",
+      "created": "2026-01-23 18:08:11",
+      "created_at": 1769191691000
+    },
+    {
+      "id": 46740029,
+      "title": "Comma openpilot – Open source driver-assistance",
+      "link": "https://comma.ai",
+      "score": 255,
+      "author": "JumpCrisscross",
+      "created": "2026-01-24 01:00:50",
+      "created_at": 1769216450000
+    },
+    {
+      "id": 46734302,
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "link": "https://maggieappleton.com/gastown",
+      "score": 316,
+      "author": "pavel_lishin",
+      "created": "2026-01-23 16:19:18",
+      "created_at": 1769185158000
     }
   ],
   "code": 200,
