@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-24T12:21:43.135Z"
+    "lastUpdate": "2026-01-24T16:13:24.801Z"
   },
   "data": [
     {
       "id": 46742362,
       "title": "Doing gigabit Ethernet over my British phone wires",
       "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "score": 112,
+      "score": 255,
       "author": "user5994461",
       "created": "2026-01-24 10:14:31",
       "created_at": 1769249671000
     },
     {
-      "id": 46742285,
-      "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
-      "link": "https://cosmic-odometer.vercel.app/",
-      "score": 29,
-      "author": "captainnemo729",
-      "created": "2026-01-24 09:55:44",
-      "created_at": 1769248544000
+      "id": 46742389,
+      "title": "How I Estimate Work as a Staff Software Engineer",
+      "link": "https://www.seangoedecke.com/how-i-estimate-work/",
+      "score": 140,
+      "author": "mattjhall",
+      "created": "2026-01-24 10:22:32",
+      "created_at": 1769250152000
+    },
+    {
+      "id": 46742432,
+      "title": "I Like GitLab",
+      "link": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
+      "score": 99,
+      "author": "lukas346",
+      "created": "2026-01-24 10:32:26",
+      "created_at": 1769250746000
+    },
+    {
+      "id": 46742635,
+      "title": "Many Small Queries Are Efficient in SQLite",
+      "link": "https://www.sqlite.org/np1queryprob.html",
+      "score": 81,
+      "author": "tosh",
+      "created": "2026-01-24 11:15:15",
+      "created_at": 1769253315000
     },
     {
       "id": 46694618,
       "title": "Internet Archive's Storage",
       "link": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "score": 179,
+      "score": 226,
       "author": "zdw",
       "created": "2026-01-20 17:16:49",
       "created_at": 1768929409000
     },
     {
-      "id": 46696283,
-      "title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
-      "link": "",
-      "score": 64,
-      "author": "io_eric",
-      "created": "2026-01-20 19:01:53",
-      "created_at": 1768935713000
+      "id": 46691108,
+      "title": "When employees feel slighted, they work less",
+      "link": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
+      "score": 125,
+      "author": "consumer451",
+      "created": "2026-01-20 12:28:13",
+      "created_at": 1768912093000
+    },
+    {
+      "id": 46744572,
+      "title": "After two years of vibecoding, I'm back to writing by hand [video]",
+      "link": "https://www.youtube.com/watch?v=SKTsNV41DYg",
+      "score": 10,
+      "author": "written-beyond",
+      "created": "2026-01-24 15:50:23",
+      "created_at": 1769269823000
     },
     {
       "id": 46737630,
       "title": "Unrolling the Codex agent loop",
       "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "score": 355,
+      "score": 397,
       "author": "tosh",
       "created": "2026-01-23 20:42:36",
       "created_at": 1769200956000
     },
     {
-      "id": 46741482,
-      "title": "80386 Multiplication and Division",
-      "link": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
-      "score": 54,
-      "author": "nand2mario",
-      "created": "2026-01-24 06:11:42",
-      "created_at": 1769235102000
+      "id": 46743154,
+      "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
+      "score": 130,
+      "author": "blacktulip",
+      "created": "2026-01-24 12:55:22",
+      "created_at": 1769259322000
     },
     {
-      "id": 46735511,
-      "title": "Proof of Corn",
-      "link": "https://proofofcorn.com/",
-      "score": 400,
-      "author": "rocauc",
-      "created": "2026-01-23 17:56:31",
-      "created_at": 1769190991000
-    },
-    {
-      "id": 46676061,
-      "title": "Traintrackr – Live LED Maps",
-      "link": "https://www.traintrackr.co.uk/",
-      "score": 58,
-      "author": "recursion",
-      "created": "2026-01-19 07:53:17",
-      "created_at": 1768809197000
-    },
-    {
-      "id": 46741929,
-      "title": "Modetc: Move your dotfiles from kernel space",
-      "link": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
-      "score": 19,
-      "author": "todsacerdoti",
-      "created": "2026-01-24 08:16:25",
-      "created_at": 1769242585000
-    },
-    {
-      "id": 46689631,
-      "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-      "link": "https://bloomberg.github.io/crane/",
-      "score": 63,
-      "author": "clarus",
-      "created": "2026-01-20 09:08:22",
-      "created_at": 1768900102000
+      "id": 46689342,
+      "title": "6 Years Building Video Players. 9B Requests. Starting Over",
+      "link": "https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over",
+      "score": 10,
+      "author": "bolp",
+      "created": "2026-01-20 08:34:44",
+      "created_at": 1768898084000
     }
   ],
   "code": 200,
