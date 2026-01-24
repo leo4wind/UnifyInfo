@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-24T08:15:38.586Z"
+    "lastUpdate": "2026-01-24T12:21:43.162Z"
   },
   "data": [
+    {
+      "id": 46742362,
+      "title": "Doing gigabit Ethernet over my British phone wires",
+      "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+      "score": 112,
+      "author": "user5994461",
+      "created": "2026-01-24 10:14:31",
+      "created_at": 1769249671000
+    },
+    {
+      "id": 46742285,
+      "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
+      "link": "https://cosmic-odometer.vercel.app/",
+      "score": 29,
+      "author": "captainnemo729",
+      "created": "2026-01-24 09:55:44",
+      "created_at": 1769248544000
+    },
     {
       "id": 46694618,
       "title": "Internet Archive's Storage",
       "link": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "score": 102,
+      "score": 179,
       "author": "zdw",
       "created": "2026-01-20 17:16:49",
       "created_at": 1768929409000
     },
     {
+      "id": 46696283,
+      "title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
+      "link": "",
+      "score": 64,
+      "author": "io_eric",
+      "created": "2026-01-20 19:01:53",
+      "created_at": 1768935713000
+    },
+    {
       "id": 46737630,
       "title": "Unrolling the Codex agent loop",
       "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "score": 309,
+      "score": 355,
       "author": "tosh",
       "created": "2026-01-23 20:42:36",
       "created_at": 1769200956000
     },
     {
-      "id": 46735511,
-      "title": "Proof of Corn",
-      "link": "https://proofofcorn.com/",
-      "score": 368,
-      "author": "rocauc",
-      "created": "2026-01-23 17:56:31",
-      "created_at": 1769190991000
-    },
-    {
-      "id": 46676125,
-      "title": "Some C habits I employ for the modern day",
-      "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "score": 145,
-      "author": "signa11",
-      "created": "2026-01-19 08:03:46",
-      "created_at": 1768809826000
-    },
-    {
-      "id": 46676061,
-      "title": "Traintrackr – Live LED Maps",
-      "link": "https://www.traintrackr.co.uk/",
-      "score": 13,
-      "author": "recursion",
-      "created": "2026-01-19 07:53:17",
-      "created_at": 1768809197000
-    },
-    {
       "id": 46741482,
       "title": "80386 Multiplication and Division",
       "link": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
-      "score": 6,
+      "score": 54,
       "author": "nand2mario",
       "created": "2026-01-24 06:11:42",
       "created_at": 1769235102000
     },
     {
-      "id": 46735644,
-      "title": "New YC homepage",
-      "link": "https://www.ycombinator.com/",
-      "score": 243,
-      "author": "sarreph",
-      "created": "2026-01-23 18:08:11",
-      "created_at": 1769191691000
+      "id": 46735511,
+      "title": "Proof of Corn",
+      "link": "https://proofofcorn.com/",
+      "score": 400,
+      "author": "rocauc",
+      "created": "2026-01-23 17:56:31",
+      "created_at": 1769190991000
     },
     {
-      "id": 46740029,
-      "title": "Comma openpilot – Open source driver-assistance",
-      "link": "https://comma.ai",
-      "score": 255,
-      "author": "JumpCrisscross",
-      "created": "2026-01-24 01:00:50",
-      "created_at": 1769216450000
+      "id": 46676061,
+      "title": "Traintrackr – Live LED Maps",
+      "link": "https://www.traintrackr.co.uk/",
+      "score": 58,
+      "author": "recursion",
+      "created": "2026-01-19 07:53:17",
+      "created_at": 1768809197000
     },
     {
-      "id": 46734302,
-      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-      "link": "https://maggieappleton.com/gastown",
-      "score": 316,
-      "author": "pavel_lishin",
-      "created": "2026-01-23 16:19:18",
-      "created_at": 1769185158000
+      "id": 46741929,
+      "title": "Modetc: Move your dotfiles from kernel space",
+      "link": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
+      "score": 19,
+      "author": "todsacerdoti",
+      "created": "2026-01-24 08:16:25",
+      "created_at": 1769242585000
+    },
+    {
+      "id": 46689631,
+      "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
+      "link": "https://bloomberg.github.io/crane/",
+      "score": 63,
+      "author": "clarus",
+      "created": "2026-01-20 09:08:22",
+      "created_at": 1768900102000
     }
   ],
   "code": 200,

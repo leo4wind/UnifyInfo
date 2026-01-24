@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-24T08:15:38.361Z"
+    "lastUpdate": "2026-01-24T12:21:43.002Z"
   },
   "data": [
     {
       "id": 46721802,
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
       "link": "https://cannoneyed.com/isometric-nyc/",
-      "score": 1278,
+      "score": 1281,
       "author": "cannoneyed",
       "created": "2026-01-22 16:52:35",
       "created_at": 1769100755000
@@ -19,25 +19,16 @@
       "id": 46727587,
       "title": "Bugs Apple loves",
       "link": "https://www.bugsappleloves.com",
-      "score": 974,
+      "score": 998,
       "author": "nhod",
       "created": "2026-01-23 02:24:12",
       "created_at": 1769135052000
     },
     {
-      "id": 46717556,
-      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "link": "https://curl.se/.well-known/security.txt",
-      "score": 931,
-      "author": "latexr",
-      "created": "2026-01-22 10:48:27",
-      "created_at": 1769078907000
-    },
-    {
       "id": 46720395,
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "link": "https://gptzero.me/news/neurips/",
-      "score": 926,
+      "score": 928,
       "author": "segmenta",
       "created": "2026-01-22 15:20:48",
       "created_at": 1769095248000
@@ -46,7 +37,7 @@
       "id": 46735545,
       "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
       "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "score": 806,
+      "score": 884,
       "author": "bookofjoe",
       "created": "2026-01-23 17:58:56",
       "created_at": 1769191136000
@@ -55,7 +46,7 @@
       "id": 46723384,
       "title": "I was banned from Claude for scaffolding a Claude.md file?",
       "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "score": 717,
+      "score": 723,
       "author": "hugodan",
       "created": "2026-01-22 18:38:27",
       "created_at": 1769107107000
@@ -64,28 +55,28 @@
       "id": 46719229,
       "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
       "link": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "score": 716,
+      "score": 719,
       "author": "Palmik",
       "created": "2026-01-22 13:51:25",
       "created_at": 1769089885000
     },
     {
-      "id": 46719491,
-      "title": "In Europe, wind and solar overtake fossil fuels",
-      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-      "score": 699,
-      "author": "speckx",
-      "created": "2026-01-22 14:14:15",
-      "created_at": 1769091255000
-    },
-    {
       "id": 46731976,
       "title": "European Alternatives",
       "link": "https://european-alternatives.eu",
-      "score": 668,
+      "score": 705,
       "author": "s_dev",
       "created": "2026-01-23 13:01:51",
       "created_at": 1769173311000
+    },
+    {
+      "id": 46719491,
+      "title": "In Europe, wind and solar overtake fossil fuels",
+      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
+      "score": 702,
+      "author": "speckx",
+      "created": "2026-01-22 14:14:15",
+      "created_at": 1769091255000
     },
     {
       "id": 46723990,
@@ -95,6 +86,15 @@
       "author": "eieio",
       "created": "2026-01-22 19:27:32",
       "created_at": 1769110052000
+    },
+    {
+      "id": 46719222,
+      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
+      "link": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
+      "score": 544,
+      "author": "speckx",
+      "created": "2026-01-22 13:50:48",
+      "created_at": 1769089848000
     }
   ],
   "code": 200,
