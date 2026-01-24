@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-23T20:14:50.164Z"
+    "lastUpdate": "2026-01-24T00:57:11.939Z"
   },
   "data": [
+    {
+      "id": 46737630,
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "score": 182,
+      "author": "tosh",
+      "created": "2026-01-23 20:42:36",
+      "created_at": 1769200956000
+    },
+    {
+      "id": 46735644,
+      "title": "New YC homepage",
+      "link": "https://www.ycombinator.com/",
+      "score": 144,
+      "author": "sarreph",
+      "created": "2026-01-23 18:08:11",
+      "created_at": 1769191691000
+    },
+    {
+      "id": 46737447,
+      "title": "Banned C++ Features in Chromium",
+      "link": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
+      "score": 92,
+      "author": "szmarczak",
+      "created": "2026-01-23 20:27:58",
+      "created_at": 1769200078000
+    },
+    {
+      "id": 46734302,
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "link": "https://maggieappleton.com/gastown",
+      "score": 238,
+      "author": "pavel_lishin",
+      "created": "2026-01-23 16:19:18",
+      "created_at": 1769185158000
+    },
     {
       "id": 46735511,
       "title": "Proof of Corn",
       "link": "https://proofofcorn.com/",
-      "score": 175,
+      "score": 307,
       "author": "rocauc",
       "created": "2026-01-23 17:56:31",
       "created_at": 1769190991000
     },
     {
-      "id": 46736091,
-      "title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
-      "link": "https://github.com/anthropics/claude-code/issues/18866",
-      "score": 107,
-      "author": "nurimamedov",
-      "created": "2026-01-23 18:42:38",
-      "created_at": 1769193758000
-    },
-    {
-      "id": 46735545,
-      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
-      "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "score": 296,
-      "author": "bookofjoe",
-      "created": "2026-01-23 17:58:56",
-      "created_at": 1769191136000
-    },
-    {
-      "id": 46736683,
-      "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
-      "link": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
-      "score": 114,
-      "author": "CharlesW",
-      "created": "2026-01-23 19:28:10",
-      "created_at": 1769196490000
-    },
-    {
-      "id": 46732213,
-      "title": "Radicle: The Sovereign Forge",
-      "link": "https://radicle.xyz",
-      "score": 223,
-      "author": "ibobev",
-      "created": "2026-01-23 13:25:42",
-      "created_at": 1769174742000
+      "id": 46676125,
+      "title": "Some C habits I employ for the modern day",
+      "link": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "score": 35,
+      "author": "signa11",
+      "created": "2026-01-19 08:03:46",
+      "created_at": 1768809826000
     },
     {
       "id": 46735489,
       "title": "Route leak incident on January 22, 2026",
       "link": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
-      "score": 45,
+      "score": 110,
       "author": "nomaxx117",
       "created": "2026-01-23 17:54:45",
       "created_at": 1769190885000
     },
     {
-      "id": 46735179,
-      "title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
-      "link": "https://markgascoyne.co.uk/posts/ebpf-bng/",
-      "score": 32,
-      "author": "chaz6",
-      "created": "2026-01-23 17:29:53",
-      "created_at": 1769189393000
+      "id": 46735545,
+      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+      "score": 595,
+      "author": "bookofjoe",
+      "created": "2026-01-23 17:58:56",
+      "created_at": 1769191136000
     },
     {
-      "id": 46686402,
-      "title": "AI is a horse (2024)",
-      "link": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "score": 403,
-      "author": "zdw",
-      "created": "2026-01-20 00:20:54",
-      "created_at": 1768868454000
+      "id": 46737957,
+      "title": "Mental Models (2018)",
+      "link": "https://fs.blog/mental-models/",
+      "score": 35,
+      "author": "hahahacorn",
+      "created": "2026-01-23 21:08:55",
+      "created_at": 1769202535000
     },
     {
-      "id": 46732967,
-      "title": "KORG phase8 – Acoustic Synthesizer",
-      "link": "https://www.korg.com/us/products/dj/phase8/",
-      "score": 117,
-      "author": "bpierre",
-      "created": "2026-01-23 14:34:46",
-      "created_at": 1769178886000
-    },
-    {
-      "id": 46735133,
-      "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
-      "link": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
-      "score": 29,
-      "author": "elpocko",
-      "created": "2026-01-23 17:26:27",
-      "created_at": 1769189187000
+      "id": 46739078,
+      "title": "TikTok Is Now Collecting More Data About Its Users",
+      "link": "https://www.wired.com/story/tiktok-new-privacy-policy/",
+      "score": 65,
+      "author": "coloneltcb",
+      "created": "2026-01-23 22:51:41",
+      "created_at": 1769208701000
     }
   ],
   "code": 200,
