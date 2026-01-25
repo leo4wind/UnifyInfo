@@ -3,23 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-25T04:44:22.670Z"
+    "lastUpdate": "2026-01-25T08:16:05.992Z"
   },
   "data": [
-    {
-      "id": 46750425,
-      "title": "nvidia-smi hangs indefinitely after ~66 days",
-      "link": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
-      "score": 61,
-      "author": "tosh",
-      "created": "2026-01-25 03:33:20",
-      "created_at": 1769312000000
-    },
     {
       "id": 46749198,
       "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
       "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 204,
+      "score": 313,
       "author": "hhs",
       "created": "2026-01-25 00:14:40",
       "created_at": 1769300080000
@@ -28,70 +19,79 @@
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 443,
+      "score": 528,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
     },
     {
-      "id": 46750485,
-      "title": "The Responsibility of Intellectuals",
-      "link": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
-      "score": 17,
-      "author": "andsoitis",
-      "created": "2026-01-25 03:44:28",
-      "created_at": 1769312668000
+      "id": 46688804,
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
+      "score": 82,
+      "author": "_____k",
+      "created": "2026-01-20 07:04:53",
+      "created_at": 1768892693000
     },
     {
-      "id": 46749671,
-      "title": "Two Weeks Until Tapeout",
-      "link": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
-      "score": 53,
-      "author": "client4",
-      "created": "2026-01-25 01:25:37",
-      "created_at": 1769304337000
-    },
-    {
-      "id": 46749053,
-      "title": "We X-Rayed a Suspicious FTDI USB Cable",
-      "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
-      "score": 101,
-      "author": "aa_is_op",
-      "created": "2026-01-24 23:55:10",
-      "created_at": 1769298910000
-    },
-    {
-      "id": 46750437,
-      "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
-      "link": "https://github.com/mroboff/vm-curator",
-      "score": 6,
-      "author": "theYipster",
-      "created": "2026-01-25 03:36:38",
-      "created_at": 1769312198000
-    },
-    {
-      "id": 46747119,
-      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-      "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "score": 149,
-      "author": "topherhaddad",
-      "created": "2026-01-24 20:03:39",
-      "created_at": 1769285019000
+      "id": 46699697,
+      "title": "A Lament for Aperture",
+      "link": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
+      "score": 51,
+      "author": "firloop",
+      "created": "2026-01-21 00:35:01",
+      "created_at": 1768955701000
     },
     {
       "id": 46750214,
       "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
       "link": "https://arxiv.org/abs/2601.05047",
-      "score": 8,
+      "score": 41,
       "author": "transpute",
       "created": "2026-01-25 02:48:36",
       "created_at": 1769309316000
     },
     {
+      "id": 46749671,
+      "title": "Two Weeks Until Tapeout",
+      "link": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "score": 91,
+      "author": "client4",
+      "created": "2026-01-25 01:25:37",
+      "created_at": 1769304337000
+    },
+    {
+      "id": 46747119,
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "score": 164,
+      "author": "topherhaddad",
+      "created": "2026-01-24 20:03:39",
+      "created_at": 1769285019000
+    },
+    {
+      "id": 46749053,
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "score": 129,
+      "author": "aa_is_op",
+      "created": "2026-01-24 23:55:10",
+      "created_at": 1769298910000
+    },
+    {
+      "id": 46743908,
+      "title": "Claude Code's new hidden feature: Swarms",
+      "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "score": 384,
+      "author": "AffableSpatula",
+      "created": "2026-01-24 14:35:47",
+      "created_at": 1769265347000
+    },
+    {
       "id": 46750358,
       "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
       "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
-      "score": 40,
+      "score": 116,
       "author": "speckx",
       "created": "2026-01-25 03:17:43",
       "created_at": 1769311063000
