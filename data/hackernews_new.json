@@ -3,32 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-24T20:12:41.713Z"
+    "lastUpdate": "2026-01-25T01:05:09.821Z"
   },
   "data": [
     {
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 105,
+      "score": 381,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
     },
     {
+      "id": 46749053,
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "score": 11,
+      "author": "aa_is_op",
+      "created": "2026-01-24 23:55:10",
+      "created_at": 1769298910000
+    },
+    {
+      "id": 46747119,
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "score": 116,
+      "author": "topherhaddad",
+      "created": "2026-01-24 20:03:39",
+      "created_at": 1769285019000
+    },
+    {
       "id": 46745922,
       "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
       "link": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "score": 50,
+      "score": 118,
       "author": "verginer",
       "created": "2026-01-24 18:06:00",
       "created_at": 1769277960000
     },
     {
+      "id": 46700384,
+      "title": "High-bandwidth flash progress and future",
+      "link": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
+      "score": 8,
+      "author": "tanelpoder",
+      "created": "2026-01-21 02:17:36",
+      "created_at": 1768961856000
+    },
+    {
+      "id": 46744647,
+      "title": "Memory layout in Zig with formulas",
+      "link": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+      "score": 74,
+      "author": "raymondtana",
+      "created": "2026-01-24 15:57:45",
+      "created_at": 1769270265000
+    },
+    {
       "id": 46742362,
       "title": "Doing gigabit Ethernet over my British phone wires",
       "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "score": 350,
+      "score": 415,
       "author": "user5994461",
       "created": "2026-01-24 10:14:31",
       "created_at": 1769249671000
@@ -37,64 +73,28 @@
       "id": 46743908,
       "title": "Claude Code's new hidden feature: Swarms",
       "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "score": 154,
+      "score": 282,
       "author": "AffableSpatula",
       "created": "2026-01-24 14:35:47",
       "created_at": 1769265347000
     },
     {
-      "id": 46742389,
-      "title": "How I estimate work",
-      "link": "https://www.seangoedecke.com/how-i-estimate-work/",
-      "score": 308,
-      "author": "mattjhall",
-      "created": "2026-01-24 10:22:32",
-      "created_at": 1769250152000
+      "id": 46747827,
+      "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+      "link": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+      "score": 113,
+      "author": "Bender",
+      "created": "2026-01-24 21:24:13",
+      "created_at": 1769289853000
     },
     {
-      "id": 46737202,
-      "title": "Maze Algorithms (2017)",
-      "link": "http://www.jamisbuck.org/mazes/",
-      "score": 60,
-      "author": "surprisetalk",
-      "created": "2026-01-23 20:07:49",
-      "created_at": 1769198869000
-    },
-    {
-      "id": 46746681,
-      "title": "Agent orchestration for the timid",
-      "link": "https://substack.com/inbox/post/185649875",
-      "score": 6,
-      "author": "markferree",
-      "created": "2026-01-24 19:25:53",
-      "created_at": 1769282753000
-    },
-    {
-      "id": 46741923,
-      "title": "Shared Claude: A website controlled by the public",
-      "link": "https://sharedclaude.com/",
-      "score": 8,
-      "author": "reasonableklout",
-      "created": "2026-01-24 08:15:02",
-      "created_at": 1769242502000
-    },
-    {
-      "id": 46744569,
-      "title": "The Kept and the Killed (2022)",
-      "link": "https://publicdomainreview.org/essay/the-kept-and-the-killed/",
-      "score": 5,
-      "author": "nomagicbullet",
-      "created": "2026-01-24 15:50:09",
-      "created_at": 1769269809000
-    },
-    {
-      "id": 46744647,
-      "title": "Memory layout in Zig with formulas",
-      "link": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "score": 7,
-      "author": "raymondtana",
-      "created": "2026-01-24 15:57:45",
-      "created_at": 1769270265000
+      "id": 46748771,
+      "title": "Europe wants to end its dangerous reliance on US internet technology",
+      "link": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
+      "score": 111,
+      "author": "DyslexicAtheist",
+      "created": "2026-01-24 23:21:37",
+      "created_at": 1769296897000
     }
   ],
   "code": 200,
