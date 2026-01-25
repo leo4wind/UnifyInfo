@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-25T16:14:17.137Z"
+    "lastUpdate": "2026-01-25T20:13:38.017Z"
   },
   "data": [
     {
       "id": 46754944,
       "title": "A macOS app that blurs your screen when you slouch",
       "link": "https://github.com/tldev/posturr",
-      "score": 52,
+      "score": 326,
       "author": "dnw",
       "created": "2026-01-25 15:34:51",
       "created_at": 1769355291000
     },
     {
-      "id": 46752151,
-      "title": "A flawed paper in Management Science has been cited more than 6,000 times",
-      "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 405,
-      "author": "timr",
-      "created": "2026-01-25 09:04:30",
-      "created_at": 1769331870000
+      "id": 46757067,
+      "title": "First, Make Me Care",
+      "link": "https://gwern.net/blog/2026/make-me-care",
+      "score": 14,
+      "author": "andsoitis",
+      "created": "2026-01-25 19:03:40",
+      "created_at": 1769367820000
+    },
+    {
+      "id": 46757162,
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
+      "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+      "score": 19,
+      "author": "Rygian",
+      "created": "2026-01-25 19:12:50",
+      "created_at": 1769368370000
+    },
+    {
+      "id": 46755115,
+      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "link": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+      "score": 112,
+      "author": "tanelpoder",
+      "created": "2026-01-25 15:51:03",
+      "created_at": 1769356263000
     },
     {
       "id": 46753484,
       "title": "Doom has been ported to an earbud",
       "link": "https://doombuds.com",
-      "score": 76,
+      "score": 247,
       "author": "arin-s",
       "created": "2026-01-25 12:22:12",
       "created_at": 1769343732000
     },
     {
-      "id": 46753301,
-      "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
-      "link": "https://bonsplit.alasdairmonk.com",
-      "score": 91,
-      "author": "sgottit",
-      "created": "2026-01-25 11:56:42",
-      "created_at": 1769342202000
+      "id": 46752151,
+      "title": "A flawed paper in Management Science has been cited more than 6,000 times",
+      "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+      "score": 548,
+      "author": "timr",
+      "created": "2026-01-25 09:04:30",
+      "created_at": 1769331870000
     },
     {
-      "id": 46710747,
-      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "link": "https://turbopuffer.com/blog/ann-v3",
-      "score": 48,
-      "author": "_peregrine_",
-      "created": "2026-01-21 19:58:59",
-      "created_at": 1769025539000
-    },
-    {
-      "id": 46688804,
-      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-      "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "score": 383,
-      "author": "_____k",
-      "created": "2026-01-20 07:04:53",
-      "created_at": 1768892693000
+      "id": 46751231,
+      "title": "World’s most powerful literary critic is on TikTok",
+      "link": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
+      "score": 38,
+      "author": "insistey",
+      "created": "2026-01-25 06:06:33",
+      "created_at": 1769321193000
     },
     {
       "id": 46753708,
       "title": "Web-based image editor modeled after Deluxe Paint",
       "link": "https://github.com/steffest/DPaint-js",
-      "score": 34,
+      "score": 117,
       "author": "bananaboy",
       "created": "2026-01-25 12:54:53",
       "created_at": 1769345693000
     },
     {
-      "id": 46751826,
-      "title": "Introduction to PostgreSQL Indexes",
-      "link": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-      "score": 158,
-      "author": "dlt",
-      "created": "2026-01-25 08:07:03",
-      "created_at": 1769328423000
+      "id": 46688804,
+      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
+      "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
+      "score": 540,
+      "author": "_____k",
+      "created": "2026-01-20 07:04:53",
+      "created_at": 1768892693000
     },
     {
-      "id": 46753078,
-      "title": "Show HN: TUI for managing XDG default applications",
-      "link": "https://github.com/mitjafelicijan/xdgctl",
-      "score": 52,
-      "author": "mitjafelicijan",
-      "created": "2026-01-25 11:19:04",
-      "created_at": 1769339944000
-    },
-    {
-      "id": 46746476,
-      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
-      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 680,
-      "author": "joooscha",
-      "created": "2026-01-24 19:04:08",
-      "created_at": 1769281448000
+      "id": 46691152,
+      "title": "Publishing on the ATmosphere",
+      "link": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
+      "score": 18,
+      "author": "danabramov",
+      "created": "2026-01-20 12:33:32",
+      "created_at": 1768912412000
     }
   ],
   "code": 200,
