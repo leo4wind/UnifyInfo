@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-25T08:16:05.992Z"
+    "lastUpdate": "2026-01-25T12:22:58.117Z"
   },
   "data": [
     {
-      "id": 46749198,
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 313,
-      "author": "hhs",
-      "created": "2026-01-25 00:14:40",
-      "created_at": 1769300080000
+      "id": 46751899,
+      "title": "Deutsche Telekom is violating Net Neutrality",
+      "link": "https://netzbremse.de/en/",
+      "score": 270,
+      "author": "tietjens",
+      "created": "2026-01-25 08:22:17",
+      "created_at": 1769329337000
+    },
+    {
+      "id": 46752151,
+      "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+      "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+      "score": 141,
+      "author": "timr",
+      "created": "2026-01-25 09:04:30",
+      "created_at": 1769331870000
+    },
+    {
+      "id": 46751826,
+      "title": "Introduction to PostgreSQL Indexes",
+      "link": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
+      "score": 47,
+      "author": "dlt",
+      "created": "2026-01-25 08:07:03",
+      "created_at": 1769328423000
+    },
+    {
+      "id": 46752261,
+      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
+      "link": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
+      "score": 35,
+      "author": "exvi",
+      "created": "2026-01-25 09:22:17",
+      "created_at": 1769332937000
     },
     {
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 528,
+      "score": 632,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
     },
     {
+      "id": 46753078,
+      "title": "Show HN: TUI for managing XDG default applications",
+      "link": "https://github.com/mitjafelicijan/xdgctl",
+      "score": 5,
+      "author": "mitjafelicijan",
+      "created": "2026-01-25 11:19:04",
+      "created_at": 1769339944000
+    },
+    {
+      "id": 46749198,
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "score": 420,
+      "author": "hhs",
+      "created": "2026-01-25 00:14:40",
+      "created_at": 1769300080000
+    },
+    {
       "id": 46688804,
       "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
       "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "score": 82,
+      "score": 269,
       "author": "_____k",
       "created": "2026-01-20 07:04:53",
       "created_at": 1768892693000
     },
     {
-      "id": 46699697,
-      "title": "A Lament for Aperture",
-      "link": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
-      "score": 51,
-      "author": "firloop",
-      "created": "2026-01-21 00:35:01",
-      "created_at": 1768955701000
-    },
-    {
-      "id": 46750214,
-      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
-      "link": "https://arxiv.org/abs/2601.05047",
-      "score": 41,
-      "author": "transpute",
-      "created": "2026-01-25 02:48:36",
-      "created_at": 1769309316000
-    },
-    {
-      "id": 46749671,
-      "title": "Two Weeks Until Tapeout",
-      "link": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
-      "score": 91,
-      "author": "client4",
-      "created": "2026-01-25 01:25:37",
-      "created_at": 1769304337000
-    },
-    {
-      "id": 46747119,
-      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-      "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "score": 164,
-      "author": "topherhaddad",
-      "created": "2026-01-24 20:03:39",
-      "created_at": 1769285019000
-    },
-    {
-      "id": 46749053,
-      "title": "We X-Rayed a Suspicious FTDI USB Cable",
-      "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
-      "score": 129,
-      "author": "aa_is_op",
-      "created": "2026-01-24 23:55:10",
-      "created_at": 1769298910000
-    },
-    {
-      "id": 46743908,
-      "title": "Claude Code's new hidden feature: Swarms",
-      "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "score": 384,
-      "author": "AffableSpatula",
-      "created": "2026-01-24 14:35:47",
-      "created_at": 1769265347000
-    },
-    {
-      "id": 46750358,
-      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
-      "score": 116,
-      "author": "speckx",
-      "created": "2026-01-25 03:17:43",
-      "created_at": 1769311063000
+      "id": 46729198,
+      "title": "BU-808: How to Prolong Lithium-based Batteries (2023)",
+      "link": "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/",
+      "score": 14,
+      "author": "eswat",
+      "created": "2026-01-23 06:34:31",
+      "created_at": 1769150071000
     }
   ],
   "code": 200,
