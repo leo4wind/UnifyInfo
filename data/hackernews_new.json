@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-25T01:05:09.821Z"
+    "lastUpdate": "2026-01-25T04:44:22.670Z"
   },
   "data": [
+    {
+      "id": 46750425,
+      "title": "nvidia-smi hangs indefinitely after ~66 days",
+      "link": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "score": 61,
+      "author": "tosh",
+      "created": "2026-01-25 03:33:20",
+      "created_at": 1769312000000
+    },
+    {
+      "id": 46749198,
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "score": 204,
+      "author": "hhs",
+      "created": "2026-01-25 00:14:40",
+      "created_at": 1769300080000
+    },
     {
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 381,
+      "score": 443,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
     },
     {
+      "id": 46750485,
+      "title": "The Responsibility of Intellectuals",
+      "link": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+      "score": 17,
+      "author": "andsoitis",
+      "created": "2026-01-25 03:44:28",
+      "created_at": 1769312668000
+    },
+    {
+      "id": 46749671,
+      "title": "Two Weeks Until Tapeout",
+      "link": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "score": 53,
+      "author": "client4",
+      "created": "2026-01-25 01:25:37",
+      "created_at": 1769304337000
+    },
+    {
       "id": 46749053,
       "title": "We X-Rayed a Suspicious FTDI USB Cable",
       "link": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
-      "score": 11,
+      "score": 101,
       "author": "aa_is_op",
       "created": "2026-01-24 23:55:10",
       "created_at": 1769298910000
     },
     {
+      "id": 46750437,
+      "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+      "link": "https://github.com/mroboff/vm-curator",
+      "score": 6,
+      "author": "theYipster",
+      "created": "2026-01-25 03:36:38",
+      "created_at": 1769312198000
+    },
+    {
       "id": 46747119,
       "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "link": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "score": 116,
+      "score": 149,
       "author": "topherhaddad",
       "created": "2026-01-24 20:03:39",
       "created_at": 1769285019000
     },
     {
-      "id": 46745922,
-      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
-      "link": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "score": 118,
-      "author": "verginer",
-      "created": "2026-01-24 18:06:00",
-      "created_at": 1769277960000
-    },
-    {
-      "id": 46700384,
-      "title": "High-bandwidth flash progress and future",
-      "link": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
+      "id": 46750214,
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "link": "https://arxiv.org/abs/2601.05047",
       "score": 8,
-      "author": "tanelpoder",
-      "created": "2026-01-21 02:17:36",
-      "created_at": 1768961856000
+      "author": "transpute",
+      "created": "2026-01-25 02:48:36",
+      "created_at": 1769309316000
     },
     {
-      "id": 46744647,
-      "title": "Memory layout in Zig with formulas",
-      "link": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "score": 74,
-      "author": "raymondtana",
-      "created": "2026-01-24 15:57:45",
-      "created_at": 1769270265000
-    },
-    {
-      "id": 46742362,
-      "title": "Doing gigabit Ethernet over my British phone wires",
-      "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "score": 415,
-      "author": "user5994461",
-      "created": "2026-01-24 10:14:31",
-      "created_at": 1769249671000
-    },
-    {
-      "id": 46743908,
-      "title": "Claude Code's new hidden feature: Swarms",
-      "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "score": 282,
-      "author": "AffableSpatula",
-      "created": "2026-01-24 14:35:47",
-      "created_at": 1769265347000
-    },
-    {
-      "id": 46747827,
-      "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-      "link": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
-      "score": 113,
-      "author": "Bender",
-      "created": "2026-01-24 21:24:13",
-      "created_at": 1769289853000
-    },
-    {
-      "id": 46748771,
-      "title": "Europe wants to end its dangerous reliance on US internet technology",
-      "link": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
-      "score": 111,
-      "author": "DyslexicAtheist",
-      "created": "2026-01-24 23:21:37",
-      "created_at": 1769296897000
+      "id": 46750358,
+      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+      "score": 40,
+      "author": "speckx",
+      "created": "2026-01-25 03:17:43",
+      "created_at": 1769311063000
     }
   ],
   "code": 200,

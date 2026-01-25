@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-25T01:05:09.690Z"
+    "lastUpdate": "2026-01-25T04:44:22.496Z"
   },
   "data": [
-    {
-      "id": 46727587,
-      "title": "Bugs Apple loves",
-      "link": "https://www.bugsappleloves.com",
-      "score": 1053,
-      "author": "nhod",
-      "created": "2026-01-23 02:24:12",
-      "created_at": 1769135052000
-    },
     {
       "id": 46735545,
       "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
       "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "score": 997,
+      "score": 1005,
       "author": "bookofjoe",
       "created": "2026-01-23 17:58:56",
       "created_at": 1769191136000
@@ -28,7 +19,7 @@
       "id": 46731976,
       "title": "European Alternatives",
       "link": "https://european-alternatives.eu",
-      "score": 759,
+      "score": 760,
       "author": "s_dev",
       "created": "2026-01-23 13:01:51",
       "created_at": 1769173311000
@@ -37,25 +28,43 @@
       "id": 46729368,
       "title": "Proton spam and the AI consent problem",
       "link": "https://dbushell.com/2026/01/22/proton-spam/",
-      "score": 539,
+      "score": 544,
       "author": "dbushell",
       "created": "2026-01-23 07:01:29",
       "created_at": 1769151689000
     },
     {
+      "id": 46745047,
+      "title": "Man shot and killed by federal agents in south Minneapolis this morning",
+      "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
+      "score": 509,
+      "author": "oceansky",
+      "created": "2026-01-24 16:43:38",
+      "created_at": 1769273018000
+    },
+    {
       "id": 46730504,
       "title": "AI Usage Policy",
       "link": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "score": 497,
+      "score": 498,
       "author": "mefengl",
       "created": "2026-01-23 09:50:26",
       "created_at": 1769161826000
     },
     {
+      "id": 46743154,
+      "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
+      "score": 485,
+      "author": "blacktulip",
+      "created": "2026-01-24 12:55:22",
+      "created_at": 1769259322000
+    },
+    {
       "id": 46728808,
       "title": "I built a light that reacts to radio waves [video]",
       "link": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "score": 470,
+      "score": 472,
       "author": "codetheweb",
       "created": "2026-01-23 05:34:35",
       "created_at": 1769146475000
@@ -64,37 +73,28 @@
       "id": 46735511,
       "title": "Proof of Corn",
       "link": "https://proofofcorn.com/",
-      "score": 462,
+      "score": 464,
       "author": "rocauc",
       "created": "2026-01-23 17:56:31",
       "created_at": 1769190991000
     },
     {
-      "id": 46745047,
-      "title": "Man shot and killed by federal agents in south Minneapolis this morning",
-      "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-      "score": 438,
-      "author": "oceansky",
-      "created": "2026-01-24 16:43:38",
-      "created_at": 1769273018000
+      "id": 46746476,
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "score": 443,
+      "author": "joooscha",
+      "created": "2026-01-24 19:04:08",
+      "created_at": 1769281448000
     },
     {
-      "id": 46743154,
-      "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-      "score": 434,
-      "author": "blacktulip",
-      "created": "2026-01-24 12:55:22",
-      "created_at": 1769259322000
-    },
-    {
-      "id": 46737630,
-      "title": "Unrolling the Codex agent loop",
-      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "score": 429,
-      "author": "tosh",
-      "created": "2026-01-23 20:42:36",
-      "created_at": 1769200956000
+      "id": 46742389,
+      "title": "How I estimate work",
+      "link": "https://www.seangoedecke.com/how-i-estimate-work/",
+      "score": 443,
+      "author": "mattjhall",
+      "created": "2026-01-24 10:22:32",
+      "created_at": 1769250152000
     }
   ],
   "code": 200,
