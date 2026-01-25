@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-25T12:22:58.117Z"
+    "lastUpdate": "2026-01-25T16:14:17.137Z"
   },
   "data": [
     {
-      "id": 46751899,
-      "title": "Deutsche Telekom is violating Net Neutrality",
-      "link": "https://netzbremse.de/en/",
-      "score": 270,
-      "author": "tietjens",
-      "created": "2026-01-25 08:22:17",
-      "created_at": 1769329337000
+      "id": 46754944,
+      "title": "A macOS app that blurs your screen when you slouch",
+      "link": "https://github.com/tldev/posturr",
+      "score": 52,
+      "author": "dnw",
+      "created": "2026-01-25 15:34:51",
+      "created_at": 1769355291000
     },
     {
       "id": 46752151,
-      "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+      "title": "A flawed paper in Management Science has been cited more than 6,000 times",
       "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 141,
+      "score": 405,
       "author": "timr",
       "created": "2026-01-25 09:04:30",
       "created_at": 1769331870000
     },
     {
-      "id": 46751826,
-      "title": "Introduction to PostgreSQL Indexes",
-      "link": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-      "score": 47,
-      "author": "dlt",
-      "created": "2026-01-25 08:07:03",
-      "created_at": 1769328423000
+      "id": 46753484,
+      "title": "Doom has been ported to an earbud",
+      "link": "https://doombuds.com",
+      "score": 76,
+      "author": "arin-s",
+      "created": "2026-01-25 12:22:12",
+      "created_at": 1769343732000
     },
     {
-      "id": 46752261,
-      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "link": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
-      "score": 35,
-      "author": "exvi",
-      "created": "2026-01-25 09:22:17",
-      "created_at": 1769332937000
+      "id": 46753301,
+      "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
+      "link": "https://bonsplit.alasdairmonk.com",
+      "score": 91,
+      "author": "sgottit",
+      "created": "2026-01-25 11:56:42",
+      "created_at": 1769342202000
     },
     {
-      "id": 46746476,
-      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
-      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 632,
-      "author": "joooscha",
-      "created": "2026-01-24 19:04:08",
-      "created_at": 1769281448000
-    },
-    {
-      "id": 46753078,
-      "title": "Show HN: TUI for managing XDG default applications",
-      "link": "https://github.com/mitjafelicijan/xdgctl",
-      "score": 5,
-      "author": "mitjafelicijan",
-      "created": "2026-01-25 11:19:04",
-      "created_at": 1769339944000
-    },
-    {
-      "id": 46749198,
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 420,
-      "author": "hhs",
-      "created": "2026-01-25 00:14:40",
-      "created_at": 1769300080000
+      "id": 46710747,
+      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
+      "link": "https://turbopuffer.com/blog/ann-v3",
+      "score": 48,
+      "author": "_peregrine_",
+      "created": "2026-01-21 19:58:59",
+      "created_at": 1769025539000
     },
     {
       "id": 46688804,
       "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
       "link": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "score": 269,
+      "score": 383,
       "author": "_____k",
       "created": "2026-01-20 07:04:53",
       "created_at": 1768892693000
     },
     {
-      "id": 46729198,
-      "title": "BU-808: How to Prolong Lithium-based Batteries (2023)",
-      "link": "https://www.batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries/",
-      "score": 14,
-      "author": "eswat",
-      "created": "2026-01-23 06:34:31",
-      "created_at": 1769150071000
+      "id": 46753708,
+      "title": "Web-based image editor modeled after Deluxe Paint",
+      "link": "https://github.com/steffest/DPaint-js",
+      "score": 34,
+      "author": "bananaboy",
+      "created": "2026-01-25 12:54:53",
+      "created_at": 1769345693000
+    },
+    {
+      "id": 46751826,
+      "title": "Introduction to PostgreSQL Indexes",
+      "link": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
+      "score": 158,
+      "author": "dlt",
+      "created": "2026-01-25 08:07:03",
+      "created_at": 1769328423000
+    },
+    {
+      "id": 46753078,
+      "title": "Show HN: TUI for managing XDG default applications",
+      "link": "https://github.com/mitjafelicijan/xdgctl",
+      "score": 52,
+      "author": "mitjafelicijan",
+      "created": "2026-01-25 11:19:04",
+      "created_at": 1769339944000
+    },
+    {
+      "id": 46746476,
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "score": 680,
+      "author": "joooscha",
+      "created": "2026-01-24 19:04:08",
+      "created_at": 1769281448000
     }
   ],
   "code": 200,
