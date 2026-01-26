@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-26T12:26:53.578Z"
+    "lastUpdate": "2026-01-26T16:21:09.595Z"
   },
   "data": [
+    {
+      "id": 46766741,
+      "title": "Qwen3-Max-Thinking",
+      "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
+      "score": 93,
+      "author": "vinhnx",
+      "created": "2026-01-26 15:23:00",
+      "created_at": 1769440980000
+    },
     {
       "id": 46763864,
       "title": "MapLibre Tile: a modern and efficient vector tile format",
       "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "score": 86,
+      "score": 261,
       "author": "todsacerdoti",
       "created": "2026-01-26 10:19:51",
       "created_at": 1769422791000
     },
     {
-      "id": 46764284,
-      "title": "Show HN posts p/month more than doubled in the last year",
-      "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
-      "score": 25,
-      "author": "theraven",
-      "created": "2026-01-26 11:16:17",
-      "created_at": 1769426177000
+      "id": 46766432,
+      "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
+      "link": "https://llmspy.org/docs/v3",
+      "score": 24,
+      "author": "mythz",
+      "created": "2026-01-26 15:01:03",
+      "created_at": 1769439663000
+    },
+    {
+      "id": 46765460,
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "score": 306,
+      "author": "mobitar",
+      "created": "2026-01-26 13:36:22",
+      "created_at": 1769434582000
+    },
+    {
+      "id": 46766507,
+      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+      "link": "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM",
+      "score": 17,
+      "author": "djwide",
+      "created": "2026-01-26 15:06:09",
+      "created_at": 1769439969000
+    },
+    {
+      "id": 46766229,
+      "title": "Exactitude in Science – Borges (1946) [pdf]",
+      "link": "https://kwarc.info/teaching/TDM/Borges.pdf",
+      "score": 32,
+      "author": "jxmorris12",
+      "created": "2026-01-26 14:44:51",
+      "created_at": 1769438691000
+    },
+    {
+      "id": 46767323,
+      "title": "What \"The Best\" Looks Like",
+      "link": "https://www.kuril.in/blog/what-the-best-looks-like/",
+      "score": 4,
+      "author": "akurilin",
+      "created": "2026-01-26 16:04:07",
+      "created_at": 1769443447000
+    },
+    {
+      "id": 46766031,
+      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "link": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "score": 101,
+      "author": "bookofjoe",
+      "created": "2026-01-26 14:27:00",
+      "created_at": 1769437620000
     },
     {
       "id": 46762882,
       "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
       "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
-      "score": 83,
+      "score": 150,
       "author": "Splizard",
       "created": "2026-01-26 07:41:52",
       "created_at": 1769413312000
     },
     {
-      "id": 46709270,
-      "title": "Things I've learned in my 10 years as an engineering manager",
-      "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
-      "score": 201,
-      "author": "jampa",
-      "created": "2026-01-21 18:11:13",
-      "created_at": 1769019073000
-    },
-    {
-      "id": 46762150,
-      "title": "The browser is the sandbox",
-      "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
-      "score": 184,
-      "author": "enos_feedler",
-      "created": "2026-01-26 05:23:01",
-      "created_at": 1769404981000
-    },
-    {
-      "id": 46757067,
-      "title": "First, make me care",
-      "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 632,
-      "author": "andsoitis",
-      "created": "2026-01-25 19:03:40",
-      "created_at": 1769367820000
-    },
-    {
-      "id": 46763721,
-      "title": "San Francisco Graffiti",
-      "link": "https://walzr.com/sf-graffiti",
-      "score": 21,
-      "author": "walz",
-      "created": "2026-01-26 10:02:12",
-      "created_at": 1769421732000
-    },
-    {
-      "id": 46760099,
-      "title": "Scientists identify brain waves that define the limits of 'you'",
-      "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
-      "score": 213,
-      "author": "mikhael",
-      "created": "2026-01-26 00:10:42",
-      "created_at": 1769386242000
-    },
-    {
-      "id": 46754944,
-      "title": "A macOS app that blurs your screen when you slouch",
-      "link": "https://github.com/tldev/posturr",
-      "score": 616,
-      "author": "dnw",
-      "created": "2026-01-25 15:34:51",
-      "created_at": 1769355291000
-    },
-    {
-      "id": 46698264,
-      "title": "Text Is King",
-      "link": "https://www.experimental-history.com/p/text-is-king",
-      "score": 17,
-      "author": "zdw",
-      "created": "2026-01-20 21:57:08",
-      "created_at": 1768946228000
+      "id": 46765694,
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "link": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "score": 78,
+      "author": "ibobev",
+      "created": "2026-01-26 13:58:27",
+      "created_at": 1769435907000
     }
   ],
   "code": 200,
