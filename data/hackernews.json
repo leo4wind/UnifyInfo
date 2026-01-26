@@ -3,50 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-26T16:21:09.454Z"
+    "lastUpdate": "2026-01-26T20:15:20.795Z"
   },
   "data": [
     {
       "id": 46756117,
       "title": "ICE using Palantir tool that feeds on Medicaid data",
       "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "score": 1319,
+      "score": 1359,
       "author": "JKCalhoun",
       "created": "2026-01-25 17:36:19",
       "created_at": 1769362579000
     },
     {
-      "id": 46746476,
-      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
-      "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 712,
-      "author": "joooscha",
-      "created": "2026-01-24 19:04:08",
-      "created_at": 1769281448000
-    },
-    {
       "id": 46757067,
       "title": "First, make me care",
       "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 702,
+      "score": 753,
       "author": "andsoitis",
       "created": "2026-01-25 19:03:40",
       "created_at": 1769367820000
     },
     {
-      "id": 46745047,
-      "title": "Man shot and killed by federal agents in south Minneapolis this morning",
-      "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-      "score": 698,
-      "author": "oceansky",
-      "created": "2026-01-24 16:43:38",
-      "created_at": 1769273018000
-    },
-    {
       "id": 46752151,
       "title": "A flawed paper in management science has been cited more than 6k times",
       "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 690,
+      "score": 694,
       "author": "timr",
       "created": "2026-01-25 09:04:30",
       "created_at": 1769331870000
@@ -55,7 +37,7 @@
       "id": 46754944,
       "title": "A macOS app that blurs your screen when you slouch",
       "link": "https://github.com/tldev/posturr",
-      "score": 647,
+      "score": 655,
       "author": "dnw",
       "created": "2026-01-25 15:34:51",
       "created_at": 1769355291000
@@ -64,7 +46,7 @@
       "id": 46751899,
       "title": "Deutsche Telekom is throttling the internet",
       "link": "https://netzbremse.de/en/",
-      "score": 610,
+      "score": 620,
       "author": "tietjens",
       "created": "2026-01-25 08:22:17",
       "created_at": 1769329337000
@@ -73,7 +55,7 @@
       "id": 46749198,
       "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
       "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 584,
+      "score": 588,
       "author": "hhs",
       "created": "2026-01-25 00:14:40",
       "created_at": 1769300080000
@@ -82,19 +64,37 @@
       "id": 46757822,
       "title": "Yes, It's Fascism",
       "link": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-      "score": 524,
+      "score": 571,
       "author": "mickle00",
       "created": "2026-01-25 20:28:33",
       "created_at": 1769372913000
     },
     {
+      "id": 46765460,
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "score": 532,
+      "author": "mobitar",
+      "created": "2026-01-26 13:36:22",
+      "created_at": 1769434582000
+    },
+    {
       "id": 46757944,
       "title": "Oneplus phone update introduces hardware anti-rollback",
       "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
-      "score": 438,
+      "score": 447,
       "author": "validatori",
       "created": "2026-01-25 20:39:25",
       "created_at": 1769373565000
+    },
+    {
+      "id": 46753484,
+      "title": "Doom has been ported to an earbud",
+      "link": "https://doombuds.com",
+      "score": 424,
+      "author": "arin-s",
+      "created": "2026-01-25 12:22:12",
+      "created_at": 1769343732000
     }
   ],
   "code": 200,

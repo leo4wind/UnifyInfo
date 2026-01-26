@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-26T16:21:09.629Z"
+    "lastUpdate": "2026-01-26T20:15:20.971Z"
   },
   "data": [
+    {
+      "id": 46766188,
+      "title": "Television is 100 years old today",
+      "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+      "score": 243,
+      "author": "qassiov",
+      "created": "2026-01-26 14:41:04",
+      "created_at": 1769438464000
+    },
     {
       "id": 46766741,
       "title": "Qwen3-Max-Thinking",
       "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
-      "score": 93,
+      "score": 334,
       "author": "vinhnx",
       "created": "2026-01-26 15:23:00",
       "created_at": 1769440980000
     },
     {
+      "id": 46770675,
+      "title": "AI Lazyslop and Personal Responsibility",
+      "link": "https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/",
+      "score": 12,
+      "author": "dshacker",
+      "created": "2026-01-26 19:56:18",
+      "created_at": 1769457378000
+    },
+    {
+      "id": 46769051,
+      "title": "Fedora Asahi Remix is now working on Apple M3",
+      "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+      "score": 242,
+      "author": "todsacerdoti",
+      "created": "2026-01-26 17:54:20",
+      "created_at": 1769450060000
+    },
+    {
+      "id": 46770274,
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "link": "https://visualrambling.space/dithering-part-2/",
+      "score": 13,
+      "author": "ChrisArchitect",
+      "created": "2026-01-26 19:23:54",
+      "created_at": 1769455434000
+    },
+    {
+      "id": 46769752,
+      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "link": "https://tetrisbench.com/tetrisbench/",
+      "score": 20,
+      "author": "ykhli",
+      "created": "2026-01-26 18:42:40",
+      "created_at": 1769452960000
+    },
+    {
       "id": 46763864,
       "title": "MapLibre Tile: a modern and efficient vector tile format",
       "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "score": 261,
+      "score": 344,
       "author": "todsacerdoti",
       "created": "2026-01-26 10:19:51",
       "created_at": 1769422791000
     },
     {
-      "id": 46766432,
-      "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-      "link": "https://llmspy.org/docs/v3",
-      "score": 24,
-      "author": "mythz",
-      "created": "2026-01-26 15:01:03",
-      "created_at": 1769439663000
+      "id": 46709461,
+      "title": "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
+      "link": "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html",
+      "score": 46,
+      "author": "nethalo",
+      "created": "2026-01-21 18:24:55",
+      "created_at": 1769019895000
     },
     {
-      "id": 46765460,
-      "title": "After two years of vibecoding, I'm back to writing by hand",
-      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-      "score": 306,
-      "author": "mobitar",
-      "created": "2026-01-26 13:36:22",
-      "created_at": 1769434582000
+      "id": 46767875,
+      "title": "The mountain that weighed the Earth",
+      "link": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
+      "score": 53,
+      "author": "surprisetalk",
+      "created": "2026-01-26 16:43:30",
+      "created_at": 1769445810000
     },
     {
-      "id": 46766507,
-      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
-      "link": "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM",
-      "score": 17,
-      "author": "djwide",
-      "created": "2026-01-26 15:06:09",
-      "created_at": 1769439969000
-    },
-    {
-      "id": 46766229,
-      "title": "Exactitude in Science – Borges (1946) [pdf]",
-      "link": "https://kwarc.info/teaching/TDM/Borges.pdf",
-      "score": 32,
-      "author": "jxmorris12",
-      "created": "2026-01-26 14:44:51",
-      "created_at": 1769438691000
-    },
-    {
-      "id": 46767323,
-      "title": "What \"The Best\" Looks Like",
-      "link": "https://www.kuril.in/blog/what-the-best-looks-like/",
-      "score": 4,
-      "author": "akurilin",
-      "created": "2026-01-26 16:04:07",
-      "created_at": 1769443447000
-    },
-    {
-      "id": 46766031,
-      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-      "link": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
-      "score": 101,
-      "author": "bookofjoe",
-      "created": "2026-01-26 14:27:00",
-      "created_at": 1769437620000
-    },
-    {
-      "id": 46762882,
-      "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
-      "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
-      "score": 150,
-      "author": "Splizard",
-      "created": "2026-01-26 07:41:52",
-      "created_at": 1769413312000
-    },
-    {
-      "id": 46765694,
-      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-      "link": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
-      "score": 78,
-      "author": "ibobev",
-      "created": "2026-01-26 13:58:27",
-      "created_at": 1769435907000
+      "id": 46766961,
+      "title": "There is an AI code review bubble",
+      "link": "https://www.greptile.com/blog/ai-code-review-bubble",
+      "score": 70,
+      "author": "dakshgupta",
+      "created": "2026-01-26 15:38:50",
+      "created_at": 1769441930000
     }
   ],
   "code": 200,
