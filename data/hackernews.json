@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-25T20:13:37.834Z"
+    "lastUpdate": "2026-01-26T01:03:50.849Z"
   },
   "data": [
+    {
+      "id": 46756117,
+      "title": "ICE using Palantir tool that feeds on Medicaid data",
+      "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "score": 848,
+      "author": "JKCalhoun",
+      "created": "2026-01-25 17:36:19",
+      "created_at": 1769362579000
+    },
     {
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 694,
+      "score": 703,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
@@ -19,52 +28,52 @@
       "id": 46745047,
       "title": "Man shot and killed by federal agents in south Minneapolis this morning",
       "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-      "score": 645,
+      "score": 669,
       "author": "oceansky",
       "created": "2026-01-24 16:43:38",
       "created_at": 1769273018000
     },
     {
-      "id": 46749198,
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 549,
-      "author": "hhs",
-      "created": "2026-01-25 00:14:40",
-      "created_at": 1769300080000
-    },
-    {
       "id": 46752151,
-      "title": "A flawed paper in Management Science has been cited more than 6,000 times",
+      "title": "A flawed paper in management science has been cited more than 6k times",
       "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 548,
+      "score": 618,
       "author": "timr",
       "created": "2026-01-25 09:04:30",
       "created_at": 1769331870000
     },
     {
-      "id": 46743154,
-      "title": "Microsoft will give the FBI a Windows PC data encryption key if ordered",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-      "score": 522,
-      "author": "blacktulip",
-      "created": "2026-01-24 12:55:22",
-      "created_at": 1769259322000
-    },
-    {
       "id": 46751899,
       "title": "Deutsche Telekom is throttling the internet",
       "link": "https://netzbremse.de/en/",
-      "score": 515,
+      "score": 572,
       "author": "tietjens",
       "created": "2026-01-25 08:22:17",
       "created_at": 1769329337000
     },
     {
+      "id": 46749198,
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "score": 570,
+      "author": "hhs",
+      "created": "2026-01-25 00:14:40",
+      "created_at": 1769300080000
+    },
+    {
+      "id": 46743154,
+      "title": "Microsoft will give the FBI a Windows PC data encryption key if ordered",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
+      "score": 525,
+      "author": "blacktulip",
+      "created": "2026-01-24 12:55:22",
+      "created_at": 1769259322000
+    },
+    {
       "id": 46742389,
       "title": "How I estimate work",
       "link": "https://www.seangoedecke.com/how-i-estimate-work/",
-      "score": 503,
+      "score": 514,
       "author": "mattjhall",
       "created": "2026-01-24 10:22:32",
       "created_at": 1769250152000
@@ -73,7 +82,7 @@
       "id": 46743908,
       "title": "Claude Code's new hidden feature: Swarms",
       "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "score": 487,
+      "score": 493,
       "author": "AffableSpatula",
       "created": "2026-01-24 14:35:47",
       "created_at": 1769265347000
@@ -82,19 +91,10 @@
       "id": 46742362,
       "title": "Doing gigabit Ethernet over my British phone wires",
       "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "score": 463,
+      "score": 468,
       "author": "user5994461",
       "created": "2026-01-24 10:14:31",
       "created_at": 1769249671000
-    },
-    {
-      "id": 46737630,
-      "title": "Unrolling the Codex agent loop",
-      "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "score": 441,
-      "author": "tosh",
-      "created": "2026-01-23 20:42:36",
-      "created_at": 1769200956000
     }
   ],
   "code": 200,
