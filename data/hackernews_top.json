@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-26T08:19:41.259Z"
+    "lastUpdate": "2026-01-26T12:26:53.578Z"
   },
   "data": [
+    {
+      "id": 46763864,
+      "title": "MapLibre Tile: a modern and efficient vector tile format",
+      "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
+      "score": 86,
+      "author": "todsacerdoti",
+      "created": "2026-01-26 10:19:51",
+      "created_at": 1769422791000
+    },
+    {
+      "id": 46764284,
+      "title": "Show HN posts p/month more than doubled in the last year",
+      "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
+      "score": 25,
+      "author": "theraven",
+      "created": "2026-01-26 11:16:17",
+      "created_at": 1769426177000
+    },
+    {
+      "id": 46762882,
+      "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
+      "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
+      "score": 83,
+      "author": "Splizard",
+      "created": "2026-01-26 07:41:52",
+      "created_at": 1769413312000
+    },
+    {
+      "id": 46709270,
+      "title": "Things I've learned in my 10 years as an engineering manager",
+      "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
+      "score": 201,
+      "author": "jampa",
+      "created": "2026-01-21 18:11:13",
+      "created_at": 1769019073000
+    },
     {
       "id": 46762150,
       "title": "The browser is the sandbox",
       "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
-      "score": 86,
+      "score": 184,
       "author": "enos_feedler",
       "created": "2026-01-26 05:23:01",
       "created_at": 1769404981000
@@ -19,82 +55,46 @@
       "id": 46757067,
       "title": "First, make me care",
       "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 554,
+      "score": 632,
       "author": "andsoitis",
       "created": "2026-01-25 19:03:40",
       "created_at": 1769367820000
     },
     {
-      "id": 46709270,
-      "title": "Things I've learned in my 10 years as an engineering manager",
-      "link": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
-      "score": 29,
-      "author": "jampa",
-      "created": "2026-01-21 18:11:13",
-      "created_at": 1769019073000
+      "id": 46763721,
+      "title": "San Francisco Graffiti",
+      "link": "https://walzr.com/sf-graffiti",
+      "score": 21,
+      "author": "walz",
+      "created": "2026-01-26 10:02:12",
+      "created_at": 1769421732000
     },
     {
       "id": 46760099,
       "title": "Scientists identify brain waves that define the limits of 'you'",
       "link": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
-      "score": 168,
+      "score": 213,
       "author": "mikhael",
       "created": "2026-01-26 00:10:42",
       "created_at": 1769386242000
     },
     {
-      "id": 46761822,
-      "title": "Iran's internet blackout may become permanent, with access for elites only",
-      "link": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
-      "score": 201,
-      "author": "siev",
-      "created": "2026-01-26 04:18:19",
-      "created_at": 1769401099000
-    },
-    {
       "id": 46754944,
       "title": "A macOS app that blurs your screen when you slouch",
       "link": "https://github.com/tldev/posturr",
-      "score": 573,
+      "score": 616,
       "author": "dnw",
       "created": "2026-01-25 15:34:51",
       "created_at": 1769355291000
     },
     {
-      "id": 46759387,
-      "title": "Ask HN: DDD was a great debugger – what would a modern equivalent look like?",
-      "link": "",
-      "score": 20,
-      "author": "manux81",
-      "created": "2026-01-25 22:47:55",
-      "created_at": 1769381275000
-    },
-    {
-      "id": 46760998,
-      "title": "Video Games as Art",
-      "link": "https://gwern.net/video-game-art",
-      "score": 44,
-      "author": "andsoitis",
-      "created": "2026-01-26 02:07:34",
-      "created_at": 1769393254000
-    },
-    {
-      "id": 46690463,
-      "title": "A static site generator written in POSIX shell",
-      "link": "https://aashvik.com/posts/shell-ssg/",
-      "score": 20,
-      "author": "todsacerdoti",
-      "created": "2026-01-20 10:56:02",
-      "created_at": 1768906562000
-    },
-    {
-      "id": 46761239,
-      "title": "You can just port things to Cloudflare Workers",
-      "link": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
-      "score": 20,
-      "author": "STRiDEX",
-      "created": "2026-01-26 02:41:32",
-      "created_at": 1769395292000
+      "id": 46698264,
+      "title": "Text Is King",
+      "link": "https://www.experimental-history.com/p/text-is-king",
+      "score": 17,
+      "author": "zdw",
+      "created": "2026-01-20 21:57:08",
+      "created_at": 1768946228000
     }
   ],
   "code": 200,

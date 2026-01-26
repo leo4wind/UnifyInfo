@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-26T08:19:41.164Z"
+    "lastUpdate": "2026-01-26T12:26:53.487Z"
   },
   "data": [
     {
       "id": 46756117,
       "title": "ICE using Palantir tool that feeds on Medicaid data",
       "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "score": 1157,
+      "score": 1247,
       "author": "JKCalhoun",
       "created": "2026-01-25 17:36:19",
       "created_at": 1769362579000
@@ -19,7 +19,7 @@
       "id": 46746476,
       "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
       "link": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-      "score": 708,
+      "score": 712,
       "author": "joooscha",
       "created": "2026-01-24 19:04:08",
       "created_at": 1769281448000
@@ -28,7 +28,7 @@
       "id": 46745047,
       "title": "Man shot and killed by federal agents in south Minneapolis this morning",
       "link": "https://www.startribune.com/ice-raids-minnesota/601546426",
-      "score": 686,
+      "score": 696,
       "author": "oceansky",
       "created": "2026-01-24 16:43:38",
       "created_at": 1769273018000
@@ -37,16 +37,34 @@
       "id": 46752151,
       "title": "A flawed paper in management science has been cited more than 6k times",
       "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 668,
+      "score": 677,
       "author": "timr",
       "created": "2026-01-25 09:04:30",
       "created_at": 1769331870000
     },
     {
+      "id": 46757067,
+      "title": "First, make me care",
+      "link": "https://gwern.net/blog/2026/make-me-care",
+      "score": 632,
+      "author": "andsoitis",
+      "created": "2026-01-25 19:03:40",
+      "created_at": 1769367820000
+    },
+    {
+      "id": 46754944,
+      "title": "A macOS app that blurs your screen when you slouch",
+      "link": "https://github.com/tldev/posturr",
+      "score": 616,
+      "author": "dnw",
+      "created": "2026-01-25 15:34:51",
+      "created_at": 1769355291000
+    },
+    {
       "id": 46751899,
       "title": "Deutsche Telekom is throttling the internet",
       "link": "https://netzbremse.de/en/",
-      "score": 594,
+      "score": 605,
       "author": "tietjens",
       "created": "2026-01-25 08:22:17",
       "created_at": 1769329337000
@@ -55,46 +73,28 @@
       "id": 46749198,
       "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
       "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 579,
+      "score": 581,
       "author": "hhs",
       "created": "2026-01-25 00:14:40",
       "created_at": 1769300080000
     },
     {
-      "id": 46754944,
-      "title": "A macOS app that blurs your screen when you slouch",
-      "link": "https://github.com/tldev/posturr",
-      "score": 573,
-      "author": "dnw",
-      "created": "2026-01-25 15:34:51",
-      "created_at": 1769355291000
-    },
-    {
-      "id": 46757067,
-      "title": "First, make me care",
-      "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 554,
-      "author": "andsoitis",
-      "created": "2026-01-25 19:03:40",
-      "created_at": 1769367820000
-    },
-    {
       "id": 46743154,
       "title": "Microsoft will give the FBI a Windows PC data encryption key if ordered",
       "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-      "score": 529,
+      "score": 530,
       "author": "blacktulip",
       "created": "2026-01-24 12:55:22",
       "created_at": 1769259322000
     },
     {
-      "id": 46742389,
-      "title": "How I estimate work",
-      "link": "https://www.seangoedecke.com/how-i-estimate-work/",
-      "score": 523,
-      "author": "mattjhall",
-      "created": "2026-01-24 10:22:32",
-      "created_at": 1769250152000
+      "id": 46743908,
+      "title": "Claude Code's new hidden feature: Swarms",
+      "link": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "score": 508,
+      "author": "AffableSpatula",
+      "created": "2026-01-24 14:35:47",
+      "created_at": 1769265347000
     }
   ],
   "code": 200,
