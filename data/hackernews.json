@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-27T16:18:38.676Z"
+    "lastUpdate": "2026-01-27T20:14:01.026Z"
   },
   "data": [
     {
-      "id": 46756117,
-      "title": "ICE using Palantir tool that feeds on Medicaid data",
-      "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "score": 1408,
-      "author": "JKCalhoun",
-      "created": "2026-01-25 17:36:19",
-      "created_at": 1769362579000
+      "id": 46779809,
+      "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
+      "link": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
+      "score": 1003,
+      "author": "kotaKat",
+      "created": "2026-01-27 13:44:24",
+      "created_at": 1769521464000
     },
     {
       "id": 46767668,
       "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
       "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
-      "score": 819,
+      "score": 847,
       "author": "bwb",
       "created": "2026-01-26 16:27:46",
       "created_at": 1769444866000
     },
     {
-      "id": 46765460,
-      "title": "After two years of vibecoding, I'm back to writing by hand",
-      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-      "score": 808,
-      "author": "mobitar",
-      "created": "2026-01-26 13:36:22",
-      "created_at": 1769434582000
-    },
-    {
-      "id": 46757067,
-      "title": "First, make me care",
-      "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 790,
-      "author": "andsoitis",
-      "created": "2026-01-25 19:03:40",
-      "created_at": 1769367820000
-    },
-    {
       "id": 46760329,
       "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
       "link": "https://www.iranintl.com/en/202601255198",
-      "score": 703,
+      "score": 830,
       "author": "mhb",
       "created": "2026-01-26 00:40:01",
       "created_at": 1769388001000
     },
     {
-      "id": 46754944,
-      "title": "A macOS app that blurs your screen when you slouch",
-      "link": "https://github.com/tldev/posturr",
-      "score": 676,
-      "author": "dnw",
-      "created": "2026-01-25 15:34:51",
-      "created_at": 1769355291000
+      "id": 46765460,
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "score": 823,
+      "author": "mobitar",
+      "created": "2026-01-26 13:36:22",
+      "created_at": 1769434582000
     },
     {
       "id": 46757822,
       "title": "Yes, It's Fascism",
       "link": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-      "score": 634,
+      "score": 647,
       "author": "mickle00",
       "created": "2026-01-25 20:28:33",
       "created_at": 1769372913000
@@ -73,28 +55,46 @@
       "id": 46766188,
       "title": "Television is 100 years old today",
       "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-      "score": 626,
+      "score": 637,
       "author": "qassiov",
       "created": "2026-01-26 14:41:04",
       "created_at": 1769438464000
     },
     {
+      "id": 46765819,
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "score": 582,
+      "author": "meetpateltech",
+      "created": "2026-01-26 14:10:25",
+      "created_at": 1769436625000
+    },
+    {
       "id": 46769051,
       "title": "Fedora Asahi Remix is now working on Apple M3",
       "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-      "score": 558,
+      "score": 570,
       "author": "todsacerdoti",
       "created": "2026-01-26 17:54:20",
       "created_at": 1769450060000
     },
     {
-      "id": 46765819,
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "score": 545,
-      "author": "meetpateltech",
-      "created": "2026-01-26 14:10:25",
-      "created_at": 1769436625000
+      "id": 46766741,
+      "title": "Qwen3-Max-Thinking",
+      "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
+      "score": 488,
+      "author": "vinhnx",
+      "created": "2026-01-26 15:23:00",
+      "created_at": 1769440980000
+    },
+    {
+      "id": 46757944,
+      "title": "Oneplus phone update introduces hardware anti-rollback",
+      "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "score": 459,
+      "author": "validatori",
+      "created": "2026-01-25 20:39:25",
+      "created_at": 1769373565000
     }
   ],
   "code": 200,
