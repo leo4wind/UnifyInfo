@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-26T20:15:20.971Z"
+    "lastUpdate": "2026-01-27T01:02:38.282Z"
   },
   "data": [
     {
       "id": 46766188,
       "title": "Television is 100 years old today",
       "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-      "score": 243,
+      "score": 473,
       "author": "qassiov",
       "created": "2026-01-26 14:41:04",
       "created_at": 1769438464000
     },
     {
-      "id": 46766741,
-      "title": "Qwen3-Max-Thinking",
-      "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
-      "score": 334,
-      "author": "vinhnx",
-      "created": "2026-01-26 15:23:00",
-      "created_at": 1769440980000
+      "id": 46770221,
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "score": 145,
+      "author": "simonw",
+      "created": "2026-01-26 19:19:40",
+      "created_at": 1769455180000
     },
     {
-      "id": 46770675,
-      "title": "AI Lazyslop and Personal Responsibility",
-      "link": "https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/",
-      "score": 12,
-      "author": "dshacker",
-      "created": "2026-01-26 19:56:18",
-      "created_at": 1769457378000
-    },
-    {
-      "id": 46769051,
-      "title": "Fedora Asahi Remix is now working on Apple M3",
-      "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-      "score": 242,
-      "author": "todsacerdoti",
-      "created": "2026-01-26 17:54:20",
-      "created_at": 1769450060000
-    },
-    {
-      "id": 46770274,
-      "title": "Dithering – Part 2: The Ordered Dithering",
-      "link": "https://visualrambling.space/dithering-part-2/",
-      "score": 13,
-      "author": "ChrisArchitect",
-      "created": "2026-01-26 19:23:54",
-      "created_at": 1769455434000
-    },
-    {
-      "id": 46769752,
-      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-      "link": "https://tetrisbench.com/tetrisbench/",
-      "score": 20,
-      "author": "ykhli",
-      "created": "2026-01-26 18:42:40",
-      "created_at": 1769452960000
-    },
-    {
-      "id": 46763864,
-      "title": "MapLibre Tile: a modern and efficient vector tile format",
-      "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "score": 344,
-      "author": "todsacerdoti",
-      "created": "2026-01-26 10:19:51",
-      "created_at": 1769422791000
-    },
-    {
-      "id": 46709461,
-      "title": "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
-      "link": "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html",
-      "score": 46,
-      "author": "nethalo",
-      "created": "2026-01-21 18:24:55",
-      "created_at": 1769019895000
-    },
-    {
-      "id": 46767875,
-      "title": "The mountain that weighed the Earth",
-      "link": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
+      "id": 46769188,
+      "title": "AI code and software craft",
+      "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
       "score": 53,
-      "author": "surprisetalk",
-      "created": "2026-01-26 16:43:30",
-      "created_at": 1769445810000
+      "author": "alexwennerberg",
+      "created": "2026-01-26 18:04:15",
+      "created_at": 1769450655000
+    },
+    {
+      "id": 46694193,
+      "title": "The Hidden Engineering of Runways",
+      "link": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+      "score": 154,
+      "author": "crescit_eundo",
+      "created": "2026-01-20 16:52:52",
+      "created_at": 1768927972000
+    },
+    {
+      "id": 46771599,
+      "title": "People who know the formula for WD-40",
+      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "score": 70,
+      "author": "fortran77",
+      "created": "2026-01-26 21:11:53",
+      "created_at": 1769461913000
     },
     {
       "id": 46766961,
       "title": "There is an AI code review bubble",
       "link": "https://www.greptile.com/blog/ai-code-review-bubble",
-      "score": 70,
+      "score": 152,
       "author": "dakshgupta",
       "created": "2026-01-26 15:38:50",
       "created_at": 1769441930000
+    },
+    {
+      "id": 46768909,
+      "title": "JuiceSSH – Give me my pro features back",
+      "link": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "score": 200,
+      "author": "jandeboevrie",
+      "created": "2026-01-26 17:46:38",
+      "created_at": 1769449598000
+    },
+    {
+      "id": 46767440,
+      "title": "RIP Low-Code 2014-2025",
+      "link": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+      "score": 120,
+      "author": "zackliscio",
+      "created": "2026-01-26 16:11:28",
+      "created_at": 1769443888000
+    },
+    {
+      "id": 46770274,
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "link": "https://visualrambling.space/dithering-part-2/",
+      "score": 105,
+      "author": "ChrisArchitect",
+      "created": "2026-01-26 19:23:54",
+      "created_at": 1769455434000
+    },
+    {
+      "id": 46765819,
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "score": 242,
+      "author": "meetpateltech",
+      "created": "2026-01-26 14:10:25",
+      "created_at": 1769436625000
     }
   ],
   "code": 200,
