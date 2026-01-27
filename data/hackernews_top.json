@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-27T01:02:38.189Z"
+    "lastUpdate": "2026-01-27T04:39:06.998Z"
   },
   "data": [
     {
-      "id": 46766188,
-      "title": "Television is 100 years old today",
-      "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-      "score": 473,
-      "author": "qassiov",
-      "created": "2026-01-26 14:41:04",
-      "created_at": 1769438464000
-    },
-    {
-      "id": 46770221,
-      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-      "score": 145,
-      "author": "simonw",
-      "created": "2026-01-26 19:19:40",
-      "created_at": 1769455180000
-    },
-    {
-      "id": 46769188,
-      "title": "AI code and software craft",
-      "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-      "score": 53,
-      "author": "alexwennerberg",
-      "created": "2026-01-26 18:04:15",
-      "created_at": 1769450655000
+      "id": 46774777,
+      "title": "Heathrow Drops the Liquids Rule",
+      "link": "https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/",
+      "score": 65,
+      "author": "lxm",
+      "created": "2026-01-27 02:30:05",
+      "created_at": 1769481005000
     },
     {
       "id": 46694193,
       "title": "The Hidden Engineering of Runways",
       "link": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
-      "score": 154,
+      "score": 216,
       "author": "crescit_eundo",
       "created": "2026-01-20 16:52:52",
       "created_at": 1768927972000
     },
     {
-      "id": 46771599,
-      "title": "People who know the formula for WD-40",
-      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
-      "score": 70,
-      "author": "fortran77",
-      "created": "2026-01-26 21:11:53",
-      "created_at": 1769461913000
-    },
-    {
-      "id": 46766961,
-      "title": "There is an AI code review bubble",
-      "link": "https://www.greptile.com/blog/ai-code-review-bubble",
-      "score": 152,
-      "author": "dakshgupta",
-      "created": "2026-01-26 15:38:50",
-      "created_at": 1769441930000
-    },
-    {
-      "id": 46768909,
-      "title": "JuiceSSH – Give me my pro features back",
-      "link": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
-      "score": 200,
-      "author": "jandeboevrie",
-      "created": "2026-01-26 17:46:38",
-      "created_at": 1769449598000
-    },
-    {
-      "id": 46767440,
-      "title": "RIP Low-Code 2014-2025",
-      "link": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
-      "score": 120,
-      "author": "zackliscio",
-      "created": "2026-01-26 16:11:28",
-      "created_at": 1769443888000
-    },
-    {
-      "id": 46770274,
-      "title": "Dithering – Part 2: The Ordered Dithering",
-      "link": "https://visualrambling.space/dithering-part-2/",
-      "score": 105,
-      "author": "ChrisArchitect",
-      "created": "2026-01-26 19:23:54",
-      "created_at": 1769455434000
+      "id": 46770221,
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "score": 229,
+      "author": "simonw",
+      "created": "2026-01-26 19:19:40",
+      "created_at": 1769455180000
     },
     {
       "id": 46765819,
       "title": "Apple introduces new AirTag with longer range and improved findability",
       "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-      "score": 242,
+      "score": 330,
       "author": "meetpateltech",
       "created": "2026-01-26 14:10:25",
       "created_at": 1769436625000
+    },
+    {
+      "id": 46766961,
+      "title": "There is an AI code review bubble",
+      "link": "https://www.greptile.com/blog/ai-code-review-bubble",
+      "score": 206,
+      "author": "dakshgupta",
+      "created": "2026-01-26 15:38:50",
+      "created_at": 1769441930000
+    },
+    {
+      "id": 46771599,
+      "title": "People who know the formula for WD-40",
+      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "score": 100,
+      "author": "fortran77",
+      "created": "2026-01-26 21:11:53",
+      "created_at": 1769461913000
+    },
+    {
+      "id": 46768909,
+      "title": "JuiceSSH – Give me my pro features back",
+      "link": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "score": 242,
+      "author": "jandeboevrie",
+      "created": "2026-01-26 17:46:38",
+      "created_at": 1769449598000
+    },
+    {
+      "id": 46770274,
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "link": "https://visualrambling.space/dithering-part-2/",
+      "score": 141,
+      "author": "ChrisArchitect",
+      "created": "2026-01-26 19:23:54",
+      "created_at": 1769455434000
+    },
+    {
+      "id": 46767440,
+      "title": "RIP Low-Code 2014-2025",
+      "link": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+      "score": 169,
+      "author": "zackliscio",
+      "created": "2026-01-26 16:11:28",
+      "created_at": 1769443888000
+    },
+    {
+      "id": 46766526,
+      "title": "Windows 11's Patch Tuesday nightmare gets worse",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
+      "score": 196,
+      "author": "01-_-",
+      "created": "2026-01-26 15:07:37",
+      "created_at": 1769440057000
     }
   ],
   "code": 200,

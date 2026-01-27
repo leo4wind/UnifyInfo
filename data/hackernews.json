@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-27T01:02:37.801Z"
+    "lastUpdate": "2026-01-27T04:39:06.851Z"
   },
   "data": [
     {
       "id": 46756117,
       "title": "ICE using Palantir tool that feeds on Medicaid data",
       "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "score": 1382,
+      "score": 1390,
       "author": "JKCalhoun",
       "created": "2026-01-25 17:36:19",
       "created_at": 1769362579000
@@ -19,7 +19,7 @@
       "id": 46757067,
       "title": "First, make me care",
       "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 762,
+      "score": 768,
       "author": "andsoitis",
       "created": "2026-01-25 19:03:40",
       "created_at": 1769367820000
@@ -28,16 +28,25 @@
       "id": 46752151,
       "title": "A flawed paper in management science has been cited more than 6k times",
       "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 698,
+      "score": 700,
       "author": "timr",
       "created": "2026-01-25 09:04:30",
       "created_at": 1769331870000
     },
     {
+      "id": 46765460,
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "score": 687,
+      "author": "mobitar",
+      "created": "2026-01-26 13:36:22",
+      "created_at": 1769434582000
+    },
+    {
       "id": 46754944,
       "title": "A macOS app that blurs your screen when you slouch",
       "link": "https://github.com/tldev/posturr",
-      "score": 662,
+      "score": 666,
       "author": "dnw",
       "created": "2026-01-25 15:34:51",
       "created_at": 1769355291000
@@ -52,37 +61,19 @@
       "created_at": 1769329337000
     },
     {
-      "id": 46765460,
-      "title": "After two years of vibecoding, I'm back to writing by hand",
-      "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-      "score": 621,
-      "author": "mobitar",
-      "created": "2026-01-26 13:36:22",
-      "created_at": 1769434582000
-    },
-    {
       "id": 46757822,
       "title": "Yes, It's Fascism",
       "link": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-      "score": 604,
+      "score": 616,
       "author": "mickle00",
       "created": "2026-01-25 20:28:33",
       "created_at": 1769372913000
     },
     {
-      "id": 46749198,
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "score": 592,
-      "author": "hhs",
-      "created": "2026-01-25 00:14:40",
-      "created_at": 1769300080000
-    },
-    {
       "id": 46767668,
       "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
       "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
-      "score": 501,
+      "score": 580,
       "author": "bwb",
       "created": "2026-01-26 16:27:46",
       "created_at": 1769444866000
@@ -91,10 +82,19 @@
       "id": 46766188,
       "title": "Television is 100 years old today",
       "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-      "score": 473,
+      "score": 551,
       "author": "qassiov",
       "created": "2026-01-26 14:41:04",
       "created_at": 1769438464000
+    },
+    {
+      "id": 46757944,
+      "title": "Oneplus phone update introduces hardware anti-rollback",
+      "link": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "score": 455,
+      "author": "validatori",
+      "created": "2026-01-25 20:39:25",
+      "created_at": 1769373565000
     }
   ],
   "code": 200,
