@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-27T08:19:40.147Z"
+    "lastUpdate": "2026-01-27T12:26:48.961Z"
   },
   "data": [
     {
       "id": 46756117,
       "title": "ICE using Palantir tool that feeds on Medicaid data",
       "link": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "score": 1396,
+      "score": 1403,
       "author": "JKCalhoun",
       "created": "2026-01-25 17:36:19",
       "created_at": 1769362579000
     },
     {
-      "id": 46757067,
-      "title": "First, make me care",
-      "link": "https://gwern.net/blog/2026/make-me-care",
-      "score": 774,
-      "author": "andsoitis",
-      "created": "2026-01-25 19:03:40",
-      "created_at": 1769367820000
-    },
-    {
       "id": 46765460,
       "title": "After two years of vibecoding, I'm back to writing by hand",
       "link": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-      "score": 754,
+      "score": 785,
       "author": "mobitar",
       "created": "2026-01-26 13:36:22",
       "created_at": 1769434582000
     },
     {
-      "id": 46752151,
-      "title": "A flawed paper in management science has been cited more than 6k times",
-      "link": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "score": 702,
-      "author": "timr",
-      "created": "2026-01-25 09:04:30",
-      "created_at": 1769331870000
+      "id": 46757067,
+      "title": "First, make me care",
+      "link": "https://gwern.net/blog/2026/make-me-care",
+      "score": 778,
+      "author": "andsoitis",
+      "created": "2026-01-25 19:03:40",
+      "created_at": 1769367820000
     },
     {
       "id": 46767668,
       "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
       "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
-      "score": 693,
+      "score": 762,
       "author": "bwb",
       "created": "2026-01-26 16:27:46",
       "created_at": 1769444866000
@@ -55,7 +46,7 @@
       "id": 46754944,
       "title": "A macOS app that blurs your screen when you slouch",
       "link": "https://github.com/tldev/posturr",
-      "score": 669,
+      "score": 673,
       "author": "dnw",
       "created": "2026-01-25 15:34:51",
       "created_at": 1769355291000
@@ -64,25 +55,16 @@
       "id": 46757822,
       "title": "Yes, It's Fascism",
       "link": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-      "score": 624,
+      "score": 629,
       "author": "mickle00",
       "created": "2026-01-25 20:28:33",
       "created_at": 1769372913000
     },
     {
-      "id": 46751899,
-      "title": "Deutsche Telekom is throttling the internet",
-      "link": "https://netzbremse.de/en/",
-      "score": 623,
-      "author": "tietjens",
-      "created": "2026-01-25 08:22:17",
-      "created_at": 1769329337000
-    },
-    {
       "id": 46766188,
       "title": "Television is 100 years old today",
       "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-      "score": 585,
+      "score": 611,
       "author": "qassiov",
       "created": "2026-01-26 14:41:04",
       "created_at": 1769438464000
@@ -91,10 +73,28 @@
       "id": 46769051,
       "title": "Fedora Asahi Remix is now working on Apple M3",
       "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-      "score": 508,
+      "score": 545,
       "author": "todsacerdoti",
       "created": "2026-01-26 17:54:20",
       "created_at": 1769450060000
+    },
+    {
+      "id": 46760329,
+      "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
+      "link": "https://www.iranintl.com/en/202601255198",
+      "score": 532,
+      "author": "mhb",
+      "created": "2026-01-26 00:40:01",
+      "created_at": 1769388001000
+    },
+    {
+      "id": 46765819,
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "score": 476,
+      "author": "meetpateltech",
+      "created": "2026-01-26 14:10:25",
+      "created_at": 1769436625000
     }
   ],
   "code": 200,
