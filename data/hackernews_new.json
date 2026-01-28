@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-28T16:24:08.824Z"
+    "lastUpdate": "2026-01-28T20:18:20.084Z"
   },
   "data": [
     {
       "id": 46795864,
       "title": "Microsoft forced me to switch to Linux",
       "link": "https://www.himthe.dev/blog/microsoft-to-linux",
-      "score": 376,
+      "score": 1201,
       "author": "bobsterlobster",
       "created": "2026-01-28 14:28:21",
       "created_at": 1769610501000
@@ -19,82 +19,82 @@
       "id": 46795908,
       "title": "Airfoil (2024)",
       "link": "https://ciechanow.ski/airfoil/",
-      "score": 136,
+      "score": 247,
       "author": "brk",
       "created": "2026-01-28 14:32:30",
       "created_at": 1769610750000
     },
     {
-      "id": 46796745,
-      "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-      "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-      "score": 81,
-      "author": "DGAP",
-      "created": "2026-01-28 15:39:11",
-      "created_at": 1769614751000
+      "id": 46797594,
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "link": "https://www.dimamik.com/posts/oban_py/",
+      "score": 97,
+      "author": "dimamik",
+      "created": "2026-01-28 16:32:00",
+      "created_at": 1769617920000
+    },
+    {
+      "id": 46798402,
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "link": "https://github.com/ratatui/mousefood",
+      "score": 62,
+      "author": "orhunp_",
+      "created": "2026-01-28 17:20:31",
+      "created_at": 1769620831000
+    },
+    {
+      "id": 46798994,
+      "title": "Computer History Museum Launches Digital Portal to Its Collection",
+      "link": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+      "score": 32,
+      "author": "ChrisArchitect",
+      "created": "2026-01-28 17:54:54",
+      "created_at": 1769622894000
     },
     {
       "id": 46793693,
       "title": "Show HN: The HN Arcade",
       "link": "https://andrewgy8.github.io/hnarcade/",
-      "score": 179,
+      "score": 258,
       "author": "yuppiepuppie",
       "created": "2026-01-28 10:50:32",
       "created_at": 1769597432000
     },
     {
-      "id": 46741045,
-      "title": "Package Management Is a Wicked Problem",
-      "link": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
-      "score": 48,
-      "author": "zdw",
-      "created": "2026-01-24 04:24:22",
-      "created_at": 1769228662000
+      "id": 46765772,
+      "title": "I have written gemma3 inference in pure C",
+      "link": "https://github.com/robitec97/gemma3.c",
+      "score": 19,
+      "author": "robitec97",
+      "created": "2026-01-26 14:05:46",
+      "created_at": 1769436346000
     },
     {
-      "id": 46790127,
-      "title": "A verification layer for browser agents: Amazon case study",
-      "link": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
-      "score": 13,
-      "author": "tonyww",
-      "created": "2026-01-28 02:08:14",
-      "created_at": 1769566094000
+      "id": 46728070,
+      "title": "I Overengineered a Spinning Top",
+      "link": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
+      "score": 79,
+      "author": "bane",
+      "created": "2026-01-23 03:32:26",
+      "created_at": 1769139146000
     },
     {
-      "id": 46739704,
-      "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
-      "link": "https://github.com/saysjonathan/dwm.tmux",
-      "score": 46,
-      "author": "saysjonathan",
-      "created": "2026-01-24 00:15:20",
-      "created_at": 1769213720000
+      "id": 46797868,
+      "title": "Spinning around: Please don't – Common problems with spin locks",
+      "link": "https://www.siliceum.com/en/blog/post/spinning-around/",
+      "score": 30,
+      "author": "bdash",
+      "created": "2026-01-28 16:48:59",
+      "created_at": 1769618939000
     },
     {
-      "id": 46768906,
-      "title": "Show HN: Cua-Bench – a benchmark for AI agents in GUI environments",
-      "link": "https://github.com/trycua/cua",
-      "score": 11,
-      "author": "someguy101010",
-      "created": "2026-01-26 17:46:22",
-      "created_at": 1769449582000
-    },
-    {
-      "id": 46791742,
-      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
-      "link": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
-      "score": 169,
-      "author": "ubj",
-      "created": "2026-01-28 06:21:07",
-      "created_at": 1769581267000
-    },
-    {
-      "id": 46735407,
-      "title": "There's only one Woz, but we can all learn from him",
-      "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-      "score": 224,
-      "author": "coloneltcb",
-      "created": "2026-01-23 17:48:25",
-      "created_at": 1769190505000
+      "id": 46799477,
+      "title": "LM Studio 0.4.0",
+      "link": "https://lmstudio.ai/blog/0.4.0",
+      "score": 57,
+      "author": "jiqiren",
+      "created": "2026-01-28 18:23:14",
+      "created_at": 1769624594000
     }
   ],
   "code": 200,
