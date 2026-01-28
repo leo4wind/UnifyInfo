@@ -3,59 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-28T04:36:45.658Z"
+    "lastUpdate": "2026-01-28T08:19:17.366Z"
   },
   "data": [
     {
-      "id": 46789961,
-      "title": "Super Monkey Ball ported to a website",
-      "link": "https://monkeyball-online.pages.dev/",
-      "score": 187,
-      "author": "rebasedoctopus",
-      "created": "2026-01-28 01:44:25",
-      "created_at": 1769564665000
-    },
-    {
-      "id": 46789913,
-      "title": "AI found 12 vulnerabilities in OpenSSL",
-      "link": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-      "score": 94,
-      "author": "mmsc",
-      "created": "2026-01-28 01:38:15",
-      "created_at": 1769564295000
+      "id": 46735407,
+      "title": "There's only one Woz, but we can all learn from him",
+      "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+      "score": 62,
+      "author": "coloneltcb",
+      "created": "2026-01-23 17:48:25",
+      "created_at": 1769190505000
     },
     {
       "id": 46783752,
       "title": "Prism",
       "link": "https://openai.com/index/introducing-prism",
-      "score": 514,
+      "score": 619,
       "author": "meetpateltech",
       "created": "2026-01-27 18:03:10",
       "created_at": 1769536990000
     },
     {
-      "id": 46735152,
-      "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-      "link": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
-      "score": 17,
-      "author": "peter_d_sherman",
-      "created": "2026-01-23 17:27:48",
-      "created_at": 1769189268000
+      "id": 46726269,
+      "title": "SVG Path Editor",
+      "link": "https://yqnn.github.io/svg-path-editor/",
+      "score": 31,
+      "author": "gurjeet",
+      "created": "2026-01-22 23:06:05",
+      "created_at": 1769123165000
+    },
+    {
+      "id": 46792194,
+      "title": "Make.ts",
+      "link": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "score": 7,
+      "author": "ingve",
+      "created": "2026-01-28 07:35:51",
+      "created_at": 1769585751000
     },
     {
       "id": 46771564,
       "title": "A few random notes from Claude coding quite a bit last few weeks",
       "link": "https://twitter.com/karpathy/status/2015883857489522876",
-      "score": 396,
+      "score": 569,
       "author": "bigwheels",
       "created": "2026-01-26 21:09:19",
       "created_at": 1769461759000
     },
     {
+      "id": 46735152,
+      "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
+      "link": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
+      "score": 66,
+      "author": "peter_d_sherman",
+      "created": "2026-01-23 17:27:48",
+      "created_at": 1769189268000
+    },
+    {
       "id": 46781530,
       "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
       "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-      "score": 374,
+      "score": 408,
       "author": "bookofjoe",
       "created": "2026-01-27 15:46:29",
       "created_at": 1769528789000
@@ -64,34 +73,25 @@
       "id": 46741150,
       "title": "Rust’s Standard Library on the GPU",
       "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-      "score": 99,
+      "score": 158,
       "author": "justaboutanyone",
       "created": "2026-01-24 04:49:02",
       "created_at": 1769230142000
     },
     {
-      "id": 46786183,
-      "title": "Time Station Emulator",
-      "link": "https://github.com/kangtastic/timestation",
-      "score": 119,
-      "author": "FriedPickles",
-      "created": "2026-01-27 20:35:34",
-      "created_at": 1769546134000
-    },
-    {
-      "id": 46776155,
-      "title": "Doing the thing is doing the thing",
-      "link": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-      "score": 281,
-      "author": "prakhar897",
-      "created": "2026-01-27 06:17:46",
-      "created_at": 1769494666000
+      "id": 46786196,
+      "title": "Parametric CAD in Rust",
+      "link": "https://campedersen.com/vcad",
+      "score": 150,
+      "author": "ecto",
+      "created": "2026-01-27 20:36:14",
+      "created_at": 1769546174000
     },
     {
       "id": 46784572,
       "title": "Lennart Poettering, Christian Brauner founded a new company",
       "link": "https://amutable.com/about",
-      "score": 250,
+      "score": 289,
       "author": "hornedhob",
       "created": "2026-01-27 18:57:15",
       "created_at": 1769540235000
