@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-28T08:19:17.366Z"
+    "lastUpdate": "2026-01-28T12:28:00.575Z"
   },
   "data": [
+    {
+      "id": 46793693,
+      "title": "Show HN: The HN Arcade",
+      "link": "https://andrewgy8.github.io/hnarcade/",
+      "score": 59,
+      "author": "yuppiepuppie",
+      "created": "2026-01-28 10:50:32",
+      "created_at": 1769597432000
+    },
     {
       "id": 46735407,
       "title": "There's only one Woz, but we can all learn from him",
       "link": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-      "score": 62,
+      "score": 140,
       "author": "coloneltcb",
       "created": "2026-01-23 17:48:25",
       "created_at": 1769190505000
     },
     {
+      "id": 46792783,
+      "title": "Devuan – Debian Without Systemd",
+      "link": "https://www.devuan.org/",
+      "score": 51,
+      "author": "smartmic",
+      "created": "2026-01-28 08:58:28",
+      "created_at": 1769590708000
+    },
+    {
       "id": 46783752,
       "title": "Prism",
       "link": "https://openai.com/index/introducing-prism",
-      "score": 619,
+      "score": 665,
       "author": "meetpateltech",
       "created": "2026-01-27 18:03:10",
       "created_at": 1769536990000
     },
     {
+      "id": 46791742,
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "link": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "score": 69,
+      "author": "ubj",
+      "created": "2026-01-28 06:21:07",
+      "created_at": 1769581267000
+    },
+    {
       "id": 46726269,
       "title": "SVG Path Editor",
       "link": "https://yqnn.github.io/svg-path-editor/",
-      "score": 31,
+      "score": 116,
       "author": "gurjeet",
       "created": "2026-01-22 23:06:05",
       "created_at": 1769123165000
     },
     {
-      "id": 46792194,
-      "title": "Make.ts",
-      "link": "https://matklad.github.io/2026/01/27/make-ts.html",
-      "score": 7,
-      "author": "ingve",
-      "created": "2026-01-28 07:35:51",
-      "created_at": 1769585751000
-    },
-    {
       "id": 46771564,
       "title": "A few random notes from Claude coding quite a bit last few weeks",
       "link": "https://twitter.com/karpathy/status/2015883857489522876",
-      "score": 569,
+      "score": 679,
       "author": "bigwheels",
       "created": "2026-01-26 21:09:19",
       "created_at": 1769461759000
     },
     {
-      "id": 46735152,
-      "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-      "link": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
-      "score": 66,
-      "author": "peter_d_sherman",
-      "created": "2026-01-23 17:27:48",
-      "created_at": 1769189268000
+      "id": 46734641,
+      "title": "Pandas 3.0",
+      "link": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
+      "score": 84,
+      "author": "jonbaer",
+      "created": "2026-01-23 16:45:47",
+      "created_at": 1769186747000
     },
     {
       "id": 46781530,
       "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
       "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-      "score": 408,
+      "score": 431,
       "author": "bookofjoe",
       "created": "2026-01-27 15:46:29",
       "created_at": 1769528789000
-    },
-    {
-      "id": 46741150,
-      "title": "Rust’s Standard Library on the GPU",
-      "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-      "score": 158,
-      "author": "justaboutanyone",
-      "created": "2026-01-24 04:49:02",
-      "created_at": 1769230142000
-    },
-    {
-      "id": 46786196,
-      "title": "Parametric CAD in Rust",
-      "link": "https://campedersen.com/vcad",
-      "score": 150,
-      "author": "ecto",
-      "created": "2026-01-27 20:36:14",
-      "created_at": 1769546174000
-    },
-    {
-      "id": 46784572,
-      "title": "Lennart Poettering, Christian Brauner founded a new company",
-      "link": "https://amutable.com/about",
-      "score": 289,
-      "author": "hornedhob",
-      "created": "2026-01-27 18:57:15",
-      "created_at": 1769540235000
     }
   ],
   "code": 200,
