@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-27T20:14:01.161Z"
+    "lastUpdate": "2026-01-28T00:59:18.467Z"
   },
   "data": [
-    {
-      "id": 46781530,
-      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-      "score": 221,
-      "author": "bookofjoe",
-      "created": "2026-01-27 15:46:29",
-      "created_at": 1769528789000
-    },
     {
       "id": 46783752,
       "title": "Prism",
       "link": "https://openai.com/index/introducing-prism",
-      "score": 88,
+      "score": 393,
       "author": "meetpateltech",
       "created": "2026-01-27 18:03:10",
       "created_at": 1769536990000
     },
     {
-      "id": 46782930,
-      "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
-      "link": "https://haveibeenpwned.com/Breach/SoundCloud",
-      "score": 88,
-      "author": "gnabgib",
-      "created": "2026-01-27 17:11:39",
-      "created_at": 1769533899000
+      "id": 46741150,
+      "title": "Rust's Standard Library on the GPU",
+      "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+      "score": 51,
+      "author": "justaboutanyone",
+      "created": "2026-01-24 04:49:02",
+      "created_at": 1769230142000
     },
     {
-      "id": 46783863,
-      "title": "Clawdbot Renames to Moltbot",
-      "link": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
-      "score": 39,
-      "author": "philip1209",
-      "created": "2026-01-27 18:08:36",
-      "created_at": 1769537316000
+      "id": 46781530,
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "link": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "score": 336,
+      "author": "bookofjoe",
+      "created": "2026-01-27 15:46:29",
+      "created_at": 1769528789000
+    },
+    {
+      "id": 46771564,
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "link": "https://twitter.com/karpathy/status/2015883857489522876",
+      "score": 289,
+      "author": "bigwheels",
+      "created": "2026-01-26 21:09:19",
+      "created_at": 1769461759000
+    },
+    {
+      "id": 46786183,
+      "title": "Time Station Emulator",
+      "link": "https://github.com/kangtastic/timestation",
+      "score": 81,
+      "author": "FriedPickles",
+      "created": "2026-01-27 20:35:34",
+      "created_at": 1769546134000
     },
     {
       "id": 46784572,
       "title": "Lennart Poettering, Christian Brauner founded a new company",
       "link": "https://amutable.com/about",
-      "score": 84,
+      "score": 215,
       "author": "hornedhob",
       "created": "2026-01-27 18:57:15",
       "created_at": 1769540235000
     },
     {
-      "id": 46782662,
-      "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
-      "link": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
-      "score": 57,
-      "author": "MagerValp",
-      "created": "2026-01-27 16:56:23",
-      "created_at": 1769532983000
+      "id": 46784977,
+      "title": "Try text scaling support in Chrome Canary",
+      "link": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+      "score": 61,
+      "author": "linolevan",
+      "created": "2026-01-27 19:20:24",
+      "created_at": 1769541624000
     },
     {
-      "id": 46785572,
-      "title": "Chuck Klosterman on why we've never actually seen a real football game",
-      "link": "https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football",
-      "score": 6,
-      "author": "proposal",
-      "created": "2026-01-27 19:57:24",
-      "created_at": 1769543844000
+      "id": 46776155,
+      "title": "Doing the thing is doing the thing",
+      "link": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+      "score": 196,
+      "author": "prakhar897",
+      "created": "2026-01-27 06:17:46",
+      "created_at": 1769494666000
     },
     {
-      "id": 46783254,
-      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
-      "link": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
-      "score": 99,
-      "author": "duxup",
-      "created": "2026-01-27 17:32:05",
-      "created_at": 1769535125000
+      "id": 46782930,
+      "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+      "link": "https://haveibeenpwned.com/Breach/SoundCloud",
+      "score": 143,
+      "author": "gnabgib",
+      "created": "2026-01-27 17:11:39",
+      "created_at": 1769533899000
     },
     {
-      "id": 46778341,
-      "title": "I made my own Git",
-      "link": "https://tonystr.net/blog/git_immitation",
-      "score": 288,
-      "author": "TonyStr",
-      "created": "2026-01-27 10:55:37",
-      "created_at": 1769511337000
-    },
-    {
-      "id": 46711159,
-      "title": "Flexible use of a multi-purpose tool by a cow",
-      "link": "https://doi.org/10.1016/j.cub.2025.11.059",
-      "score": 48,
-      "author": "PlaceboGazebo",
-      "created": "2026-01-21 20:33:50",
-      "created_at": 1769027630000
+      "id": 46786618,
+      "title": "Show HN: I wrapped the Zorks with an LLM",
+      "link": "https://infocom.tambo.co/",
+      "score": 65,
+      "author": "alecf",
+      "created": "2026-01-27 20:59:49",
+      "created_at": 1769547589000
     }
   ],
   "code": 200,
