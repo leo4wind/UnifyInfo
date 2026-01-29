@@ -3,32 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-29T08:27:14.118Z"
+    "lastUpdate": "2026-01-29T12:32:35.668Z"
   },
   "data": [
     {
       "id": 46806773,
-      "title": "Europe's next-generation weather satellite sends back first images",
+      "title": "Europe’s next-generation weather satellite sends back first images",
       "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "score": 41,
+      "score": 305,
       "author": "saubeidl",
       "created": "2026-01-29 07:07:17",
       "created_at": 1769670437000
     },
     {
+      "id": 46808251,
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "link": "https://blog.ncase.me/on-depression/",
+      "score": 238,
+      "author": "mijailt",
+      "created": "2026-01-29 10:35:00",
+      "created_at": 1769682900000
+    },
+    {
+      "id": 46738178,
+      "title": "Winapp, the Windows App Development CLI",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/",
+      "score": 45,
+      "author": "MaysonL",
+      "created": "2026-01-23 21:28:43",
+      "created_at": 1769203723000
+    },
+    {
+      "id": 46801419,
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "score": 523,
+      "author": "pier25",
+      "created": "2026-01-28 20:59:30",
+      "created_at": 1769633970000
+    },
+    {
       "id": 46804828,
       "title": "Render Mermaid diagrams as SVGs or ASCII art",
       "link": "https://github.com/lukilabs/beautiful-mermaid",
-      "score": 195,
+      "score": 282,
       "author": "mellosouls",
       "created": "2026-01-29 02:08:40",
       "created_at": 1769652520000
     },
     {
+      "id": 46809069,
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "link": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "score": 26,
+      "author": "Bayramovanar",
+      "created": "2026-01-29 12:03:13",
+      "created_at": 1769688193000
+    },
+    {
       "id": 46805665,
-      "title": "We can't send mail farther than 500 miles (2002)",
+      "title": "We can’t send mail farther than 500 miles (2002)",
       "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "score": 299,
+      "score": 428,
       "author": "giancarlostoro",
       "created": "2026-01-29 03:58:33",
       "created_at": 1769659113000
@@ -37,64 +73,28 @@
       "id": 46804854,
       "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
       "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "score": 124,
+      "score": 159,
       "author": "NaOH",
       "created": "2026-01-29 02:11:42",
       "created_at": 1769652702000
     },
     {
-      "id": 46801419,
-      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "score": 259,
-      "author": "pier25",
-      "created": "2026-01-28 20:59:30",
-      "created_at": 1769633970000
+      "id": 46736804,
+      "title": "Tea Chemistry (1997)",
+      "link": "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf",
+      "score": 37,
+      "author": "aabiji",
+      "created": "2026-01-23 19:37:17",
+      "created_at": 1769197037000
     },
     {
       "id": 46758652,
       "title": "Mecha Comet – Open Modular Linux Handheld Computer",
       "link": "https://mecha.so/comet",
-      "score": 114,
+      "score": 168,
       "author": "Realman78",
       "created": "2026-01-25 21:44:50",
       "created_at": 1769377490000
-    },
-    {
-      "id": 46753037,
-      "title": "Xmake: A cross-platform build utility based on Lua",
-      "link": "https://xmake.io/",
-      "score": 35,
-      "author": "phmx",
-      "created": "2026-01-25 11:12:47",
-      "created_at": 1769339567000
-    },
-    {
-      "id": 46768845,
-      "title": "Decompiling Xbox games using PDB debug info",
-      "link": "https://i686.me/blog/csplit/",
-      "score": 12,
-      "author": "orange_redditor",
-      "created": "2026-01-26 17:42:18",
-      "created_at": 1769449338000
-    },
-    {
-      "id": 46805557,
-      "title": "Putting Gemini to Work in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
-      "score": 36,
-      "author": "diwank",
-      "created": "2026-01-29 03:43:52",
-      "created_at": 1769658232000
-    },
-    {
-      "id": 46795908,
-      "title": "Airfoil (2024)",
-      "link": "https://ciechanow.ski/airfoil/",
-      "score": 439,
-      "author": "brk",
-      "created": "2026-01-28 14:32:30",
-      "created_at": 1769610750000
     }
   ],
   "code": 200,
