@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-29T16:30:52.558Z"
+    "lastUpdate": "2026-01-29T20:18:58.693Z"
   },
   "data": [
+    {
+      "id": 46812933,
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "score": 208,
+      "author": "meetpateltech",
+      "created": "2026-01-29 17:02:39",
+      "created_at": 1769706159000
+    },
+    {
+      "id": 46814569,
+      "title": "My Mom and Dr. DeepSeek (2025)",
+      "link": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+      "score": 63,
+      "author": "kieto",
+      "created": "2026-01-29 18:45:27",
+      "created_at": 1769712327000
+    },
     {
       "id": 46810282,
       "title": "Claude Code Daily Benchmarks for Degradation Tracking",
       "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 195,
+      "score": 391,
       "author": "qwesr123",
       "created": "2026-01-29 13:59:07",
       "created_at": 1769695147000
     },
     {
-      "id": 46806773,
-      "title": "Europe’s next-generation weather satellite sends back first images",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "score": 490,
-      "author": "saubeidl",
-      "created": "2026-01-29 07:07:17",
-      "created_at": 1769670437000
+      "id": 46812159,
+      "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+      "link": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+      "score": 104,
+      "author": "axiomdata316",
+      "created": "2026-01-29 16:11:04",
+      "created_at": 1769703064000
     },
     {
-      "id": 46810904,
-      "title": "How to Choose Colors for Your CLI Applications (2023)",
-      "link": "https://blog.xoria.org/terminal-colors/",
-      "score": 51,
-      "author": "kruuuder",
-      "created": "2026-01-29 14:49:08",
-      "created_at": 1769698148000
+      "id": 46812608,
+      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+      "link": "",
+      "score": 71,
+      "author": "Haakam21",
+      "created": "2026-01-29 16:42:33",
+      "created_at": 1769704953000
     },
     {
       "id": 46811588,
       "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
       "link": "https://quesma.com/blog/introducing-otel-bench/",
-      "score": 16,
+      "score": 115,
       "author": "stared",
       "created": "2026-01-29 15:37:21",
       "created_at": 1769701041000
     },
     {
-      "id": 46810536,
-      "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
-      "link": "https://www.breakmeifyoucan.com/",
-      "score": 21,
-      "author": "noproto",
-      "created": "2026-01-29 14:20:21",
-      "created_at": 1769696421000
+      "id": 46741602,
+      "title": "C++ Modules Are Here to Stay",
+      "link": "https://faresbakhit.github.io/e/cpp-modules/",
+      "score": 43,
+      "author": "faresahmed",
+      "created": "2026-01-24 06:49:05",
+      "created_at": 1769237345000
     },
     {
-      "id": 46801419,
-      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "score": 780,
-      "author": "pier25",
-      "created": "2026-01-28 20:59:30",
-      "created_at": 1769633970000
+      "id": 46806773,
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "score": 597,
+      "author": "saubeidl",
+      "created": "2026-01-29 07:07:17",
+      "created_at": 1769670437000
     },
     {
-      "id": 46810027,
-      "title": "A lot of population numbers are fake",
-      "link": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
-      "score": 138,
-      "author": "bookofjoe",
-      "created": "2026-01-29 13:36:54",
-      "created_at": 1769693814000
+      "id": 46814115,
+      "title": "OpenAI's In-House Data Agent",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "score": 28,
+      "author": "meetpateltech",
+      "created": "2026-01-29 18:17:54",
+      "created_at": 1769710674000
     },
     {
-      "id": 46772132,
-      "title": "Making niche solutions is the point",
-      "link": "https://ntietz.com/blog/making-niche-solutions-is-the-point/",
-      "score": 18,
-      "author": "evakhoury",
-      "created": "2026-01-26 21:56:05",
-      "created_at": 1769464565000
-    },
-    {
-      "id": 46810337,
-      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-      "link": "https://ipsj.ixsq.nii.ac.jp/records/229345",
-      "score": 11,
-      "author": "mci",
-      "created": "2026-01-29 14:03:12",
-      "created_at": 1769695392000
-    },
-    {
-      "id": 46779922,
-      "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
-      "link": "https://playground.shaped.ai",
-      "score": 49,
-      "author": "tullie",
-      "created": "2026-01-27 13:54:09",
-      "created_at": 1769522049000
+      "id": 46729139,
+      "title": "EmulatorJS",
+      "link": "https://github.com/EmulatorJS/EmulatorJS",
+      "score": 57,
+      "author": "avaer",
+      "created": "2026-01-23 06:26:40",
+      "created_at": 1769149600000
     }
   ],
   "code": 200,
