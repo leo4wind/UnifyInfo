@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-29T05:00:48.331Z"
+    "lastUpdate": "2026-01-29T08:27:14.118Z"
   },
   "data": [
     {
-      "id": 46805665,
-      "title": "We can't send mail farther than 500 miles (2002)",
-      "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "score": 55,
-      "author": "giancarlostoro",
-      "created": "2026-01-29 03:58:33",
-      "created_at": 1769659113000
+      "id": 46806773,
+      "title": "Europe's next-generation weather satellite sends back first images",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "score": 41,
+      "author": "saubeidl",
+      "created": "2026-01-29 07:07:17",
+      "created_at": 1769670437000
     },
     {
       "id": 46804828,
       "title": "Render Mermaid diagrams as SVGs or ASCII art",
       "link": "https://github.com/lukilabs/beautiful-mermaid",
-      "score": 111,
+      "score": 195,
       "author": "mellosouls",
       "created": "2026-01-29 02:08:40",
       "created_at": 1769652520000
     },
     {
+      "id": 46805665,
+      "title": "We can't send mail farther than 500 miles (2002)",
+      "link": "https://web.mit.edu/jemorris/humor/500-miles",
+      "score": 299,
+      "author": "giancarlostoro",
+      "created": "2026-01-29 03:58:33",
+      "created_at": 1769659113000
+    },
+    {
       "id": 46804854,
       "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
       "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "score": 73,
+      "score": 124,
       "author": "NaOH",
       "created": "2026-01-29 02:11:42",
       "created_at": 1769652702000
     },
     {
+      "id": 46801419,
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "score": 259,
+      "author": "pier25",
+      "created": "2026-01-28 20:59:30",
+      "created_at": 1769633970000
+    },
+    {
       "id": 46758652,
       "title": "Mecha Comet – Open Modular Linux Handheld Computer",
       "link": "https://mecha.so/comet",
-      "score": 54,
+      "score": 114,
       "author": "Realman78",
       "created": "2026-01-25 21:44:50",
       "created_at": 1769377490000
     },
     {
-      "id": 46760542,
-      "title": "Satellites encased in wood are in the works",
-      "link": "https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works",
+      "id": 46753037,
+      "title": "Xmake: A cross-platform build utility based on Lua",
+      "link": "https://xmake.io/",
+      "score": 35,
+      "author": "phmx",
+      "created": "2026-01-25 11:12:47",
+      "created_at": 1769339567000
+    },
+    {
+      "id": 46768845,
+      "title": "Decompiling Xbox games using PDB debug info",
+      "link": "https://i686.me/blog/csplit/",
+      "score": 12,
+      "author": "orange_redditor",
+      "created": "2026-01-26 17:42:18",
+      "created_at": 1769449338000
+    },
+    {
+      "id": 46805557,
+      "title": "Putting Gemini to Work in Chrome",
+      "link": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
       "score": 36,
-      "author": "andsoitis",
-      "created": "2026-01-26 01:08:13",
-      "created_at": 1769389693000
-    },
-    {
-      "id": 46805841,
-      "title": "Microsoft's Azure Linux",
-      "link": "https://github.com/microsoft/azurelinux",
-      "score": 4,
-      "author": "AbuAssar",
-      "created": "2026-01-29 04:33:10",
-      "created_at": 1769661190000
-    },
-    {
-      "id": 46789561,
-      "title": "Trinity large: An open 400B sparse MoE model",
-      "link": "https://www.arcee.ai/blog/trinity-large",
-      "score": 147,
-      "author": "linolevan",
-      "created": "2026-01-28 00:57:52",
-      "created_at": 1769561872000
+      "author": "diwank",
+      "created": "2026-01-29 03:43:52",
+      "created_at": 1769658232000
     },
     {
       "id": 46795908,
       "title": "Airfoil (2024)",
       "link": "https://ciechanow.ski/airfoil/",
-      "score": 396,
+      "score": 439,
       "author": "brk",
       "created": "2026-01-28 14:32:30",
       "created_at": 1769610750000
-    },
-    {
-      "id": 46789205,
-      "title": "Did a celebrated researcher obscure a baby's poisoning?",
-      "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
-      "score": 119,
-      "author": "littlexsparkee",
-      "created": "2026-01-28 00:18:58",
-      "created_at": 1769559538000
     }
   ],
   "code": 200,
