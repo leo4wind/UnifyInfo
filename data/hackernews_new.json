@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-28T20:18:20.084Z"
+    "lastUpdate": "2026-01-29T01:07:59.423Z"
   },
   "data": [
     {
-      "id": 46795864,
-      "title": "Microsoft forced me to switch to Linux",
-      "link": "https://www.himthe.dev/blog/microsoft-to-linux",
-      "score": 1201,
-      "author": "bobsterlobster",
-      "created": "2026-01-28 14:28:21",
-      "created_at": 1769610501000
+      "id": 46802067,
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "link": "https://alecmuffett.com/article/143548",
+      "score": 311,
+      "author": "wubin",
+      "created": "2026-01-28 21:50:47",
+      "created_at": 1769637047000
+    },
+    {
+      "id": 46803119,
+      "title": "The UK paid £4.1M for a bookmarks site",
+      "link": "https://mahadk.com/posts/ai-skills-hub",
+      "score": 144,
+      "author": "JustSkyfall",
+      "created": "2026-01-28 23:16:12",
+      "created_at": 1769642172000
+    },
+    {
+      "id": 46803549,
+      "title": "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
+      "link": "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/",
+      "score": 39,
+      "author": "bookofjoe",
+      "created": "2026-01-28 23:55:42",
+      "created_at": 1769644542000
+    },
+    {
+      "id": 46803356,
+      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+      "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "score": 218,
+      "author": "randycupertino",
+      "created": "2026-01-28 23:36:23",
+      "created_at": 1769643383000
+    },
+    {
+      "id": 46789561,
+      "title": "Trinity large: An open 400B sparse MoE model",
+      "link": "https://www.arcee.ai/blog/trinity-large",
+      "score": 94,
+      "author": "linolevan",
+      "created": "2026-01-28 00:57:52",
+      "created_at": 1769561872000
     },
     {
       "id": 46795908,
       "title": "Airfoil (2024)",
       "link": "https://ciechanow.ski/airfoil/",
-      "score": 247,
+      "score": 354,
       "author": "brk",
       "created": "2026-01-28 14:32:30",
       "created_at": 1769610750000
     },
     {
-      "id": 46797594,
-      "title": "Oban, the job processing framework from Elixir, has come to Python",
-      "link": "https://www.dimamik.com/posts/oban_py/",
-      "score": 97,
-      "author": "dimamik",
-      "created": "2026-01-28 16:32:00",
-      "created_at": 1769617920000
+      "id": 46789205,
+      "title": "Did a celebrated researcher obscure a baby's poisoning?",
+      "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
+      "score": 81,
+      "author": "littlexsparkee",
+      "created": "2026-01-28 00:18:58",
+      "created_at": 1769559538000
+    },
+    {
+      "id": 46799898,
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "link": "https://github.com/jmuncor/sherlock",
+      "score": 75,
+      "author": "jmuncor",
+      "created": "2026-01-28 18:52:24",
+      "created_at": 1769626344000
     },
     {
       "id": 46798402,
       "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
       "link": "https://github.com/ratatui/mousefood",
-      "score": 62,
+      "score": 152,
       "author": "orhunp_",
       "created": "2026-01-28 17:20:31",
       "created_at": 1769620831000
     },
     {
-      "id": 46798994,
-      "title": "Computer History Museum Launches Digital Portal to Its Collection",
-      "link": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
-      "score": 32,
-      "author": "ChrisArchitect",
-      "created": "2026-01-28 17:54:54",
-      "created_at": 1769622894000
-    },
-    {
-      "id": 46793693,
-      "title": "Show HN: The HN Arcade",
-      "link": "https://andrewgy8.github.io/hnarcade/",
-      "score": 258,
-      "author": "yuppiepuppie",
-      "created": "2026-01-28 10:50:32",
-      "created_at": 1769597432000
-    },
-    {
-      "id": 46765772,
-      "title": "I have written gemma3 inference in pure C",
-      "link": "https://github.com/robitec97/gemma3.c",
-      "score": 19,
-      "author": "robitec97",
-      "created": "2026-01-26 14:05:46",
-      "created_at": 1769436346000
-    },
-    {
-      "id": 46728070,
-      "title": "I Overengineered a Spinning Top",
-      "link": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
-      "score": 79,
-      "author": "bane",
-      "created": "2026-01-23 03:32:26",
-      "created_at": 1769139146000
-    },
-    {
-      "id": 46797868,
-      "title": "Spinning around: Please don't – Common problems with spin locks",
-      "link": "https://www.siliceum.com/en/blog/post/spinning-around/",
-      "score": 30,
-      "author": "bdash",
-      "created": "2026-01-28 16:48:59",
-      "created_at": 1769618939000
-    },
-    {
-      "id": 46799477,
-      "title": "LM Studio 0.4.0",
-      "link": "https://lmstudio.ai/blog/0.4.0",
-      "score": 57,
-      "author": "jiqiren",
-      "created": "2026-01-28 18:23:14",
-      "created_at": 1769624594000
+      "id": 46802210,
+      "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+      "link": "https://github.com/microsoft/bf-tree",
+      "score": 29,
+      "author": "SchwKatze",
+      "created": "2026-01-28 22:05:05",
+      "created_at": 1769637905000
     }
   ],
   "code": 200,
