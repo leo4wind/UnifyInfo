@@ -3,50 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-29T01:07:59.423Z"
+    "lastUpdate": "2026-01-29T05:00:48.371Z"
   },
   "data": [
     {
-      "id": 46802067,
-      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
-      "link": "https://alecmuffett.com/article/143548",
-      "score": 311,
-      "author": "wubin",
-      "created": "2026-01-28 21:50:47",
-      "created_at": 1769637047000
+      "id": 46805665,
+      "title": "We can't send mail farther than 500 miles (2002)",
+      "link": "https://web.mit.edu/jemorris/humor/500-miles",
+      "score": 55,
+      "author": "giancarlostoro",
+      "created": "2026-01-29 03:58:33",
+      "created_at": 1769659113000
     },
     {
-      "id": 46803119,
-      "title": "The UK paid £4.1M for a bookmarks site",
-      "link": "https://mahadk.com/posts/ai-skills-hub",
-      "score": 144,
-      "author": "JustSkyfall",
-      "created": "2026-01-28 23:16:12",
-      "created_at": 1769642172000
+      "id": 46804828,
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "link": "https://github.com/lukilabs/beautiful-mermaid",
+      "score": 111,
+      "author": "mellosouls",
+      "created": "2026-01-29 02:08:40",
+      "created_at": 1769652520000
     },
     {
-      "id": 46803549,
-      "title": "Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k",
-      "link": "https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/",
-      "score": 39,
-      "author": "bookofjoe",
-      "created": "2026-01-28 23:55:42",
-      "created_at": 1769644542000
+      "id": 46804854,
+      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+      "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+      "score": 73,
+      "author": "NaOH",
+      "created": "2026-01-29 02:11:42",
+      "created_at": 1769652702000
     },
     {
-      "id": 46803356,
-      "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
-      "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
-      "score": 218,
-      "author": "randycupertino",
-      "created": "2026-01-28 23:36:23",
-      "created_at": 1769643383000
+      "id": 46758652,
+      "title": "Mecha Comet – Open Modular Linux Handheld Computer",
+      "link": "https://mecha.so/comet",
+      "score": 54,
+      "author": "Realman78",
+      "created": "2026-01-25 21:44:50",
+      "created_at": 1769377490000
+    },
+    {
+      "id": 46760542,
+      "title": "Satellites encased in wood are in the works",
+      "link": "https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works",
+      "score": 36,
+      "author": "andsoitis",
+      "created": "2026-01-26 01:08:13",
+      "created_at": 1769389693000
+    },
+    {
+      "id": 46805841,
+      "title": "Microsoft's Azure Linux",
+      "link": "https://github.com/microsoft/azurelinux",
+      "score": 4,
+      "author": "AbuAssar",
+      "created": "2026-01-29 04:33:10",
+      "created_at": 1769661190000
     },
     {
       "id": 46789561,
       "title": "Trinity large: An open 400B sparse MoE model",
       "link": "https://www.arcee.ai/blog/trinity-large",
-      "score": 94,
+      "score": 147,
       "author": "linolevan",
       "created": "2026-01-28 00:57:52",
       "created_at": 1769561872000
@@ -55,7 +73,7 @@
       "id": 46795908,
       "title": "Airfoil (2024)",
       "link": "https://ciechanow.ski/airfoil/",
-      "score": 354,
+      "score": 396,
       "author": "brk",
       "created": "2026-01-28 14:32:30",
       "created_at": 1769610750000
@@ -64,37 +82,10 @@
       "id": 46789205,
       "title": "Did a celebrated researcher obscure a baby's poisoning?",
       "link": "https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning",
-      "score": 81,
+      "score": 119,
       "author": "littlexsparkee",
       "created": "2026-01-28 00:18:58",
       "created_at": 1769559538000
-    },
-    {
-      "id": 46799898,
-      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-      "link": "https://github.com/jmuncor/sherlock",
-      "score": 75,
-      "author": "jmuncor",
-      "created": "2026-01-28 18:52:24",
-      "created_at": 1769626344000
-    },
-    {
-      "id": 46798402,
-      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
-      "link": "https://github.com/ratatui/mousefood",
-      "score": 152,
-      "author": "orhunp_",
-      "created": "2026-01-28 17:20:31",
-      "created_at": 1769620831000
-    },
-    {
-      "id": 46802210,
-      "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
-      "link": "https://github.com/microsoft/bf-tree",
-      "score": 29,
-      "author": "SchwKatze",
-      "created": "2026-01-28 22:05:05",
-      "created_at": 1769637905000
     }
   ],
   "code": 200,
