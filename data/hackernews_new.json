@@ -3,14 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-30T05:03:36.019Z"
+    "lastUpdate": "2026-01-30T08:26:46.160Z"
   },
   "data": [
     {
+      "id": 46820360,
+      "title": "Moltbook",
+      "link": "https://www.moltbook.com/",
+      "score": 284,
+      "author": "teej",
+      "created": "2026-01-30 03:55:34",
+      "created_at": 1769745334000
+    },
+    {
+      "id": 46820783,
+      "title": "OpenClaw – Moltbot Renamed Again",
+      "link": "https://openclaw.ai/blog/introducing-openclaw",
+      "score": 93,
+      "author": "ed",
+      "created": "2026-01-30 05:14:48",
+      "created_at": 1769750088000
+    },
+    {
+      "id": 46821360,
+      "title": "How AI Impacts Skill Formation",
+      "link": "https://arxiv.org/abs/2601.20245",
+      "score": 33,
+      "author": "northfield27",
+      "created": "2026-01-30 07:06:47",
+      "created_at": 1769756807000
+    },
+    {
       "id": 46817813,
-      "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
       "link": "https://grid.space/stem/",
-      "score": 213,
+      "score": 273,
       "author": "cyrusradfar",
       "created": "2026-01-29 22:38:57",
       "created_at": 1769726337000
@@ -19,25 +46,16 @@
       "id": 46814743,
       "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
       "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-      "score": 350,
+      "score": 403,
       "author": "croes",
       "created": "2026-01-29 18:55:38",
       "created_at": 1769712938000
     },
     {
-      "id": 46820468,
-      "title": "The Dank Case for Scrolling Window Managers",
-      "link": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
-      "score": 13,
-      "author": "todsacerdoti",
-      "created": "2026-01-30 04:17:38",
-      "created_at": 1769746658000
-    },
-    {
       "id": 46812933,
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "score": 506,
+      "score": 562,
       "author": "meetpateltech",
       "created": "2026-01-29 17:02:39",
       "created_at": 1769706159000
@@ -46,55 +64,28 @@
       "id": 46810282,
       "title": "Claude Code daily benchmarks for degradation tracking",
       "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 599,
+      "score": 654,
       "author": "qwesr123",
       "created": "2026-01-29 13:59:07",
       "created_at": 1769695147000
     },
     {
-      "id": 46820360,
-      "title": "Moltbook",
-      "link": "https://www.moltbook.com/",
-      "score": 16,
-      "author": "teej",
-      "created": "2026-01-30 03:55:34",
-      "created_at": 1769745334000
+      "id": 46780891,
+      "title": "Doin' It with a 555: One Chip to Rule Them All",
+      "link": "https://aashvik.com/posts/555-revolution/",
+      "score": 22,
+      "author": "MonkeyClub",
+      "created": "2026-01-27 15:02:01",
+      "created_at": 1769526121000
     },
     {
-      "id": 46820631,
-      "title": "I built VanCamera: FOSS, secure, zero-config Android webcam for Windows",
-      "link": "https://github.com/danielbolivar/vancamera",
-      "score": 5,
-      "author": "danielb74",
-      "created": "2026-01-30 04:49:30",
-      "created_at": 1769748570000
-    },
-    {
-      "id": 46809708,
-      "title": "AGENTS.md outperforms skills in our agent evals",
-      "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-      "score": 239,
-      "author": "maximedupre",
-      "created": "2026-01-29 13:08:11",
-      "created_at": 1769692091000
-    },
-    {
-      "id": 46817452,
-      "title": "Backseat Software",
-      "link": "https://blog.mikeswanson.com/backseat-software/",
-      "score": 41,
-      "author": "zdw",
-      "created": "2026-01-29 22:10:07",
-      "created_at": 1769724607000
-    },
-    {
-      "id": 46816357,
-      "title": "The WiFi only works when it's raining (2024)",
-      "link": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-      "score": 130,
-      "author": "epicalex",
-      "created": "2026-01-29 20:47:36",
-      "created_at": 1769719656000
+      "id": 46816539,
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "link": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "score": 178,
+      "author": "rd",
+      "created": "2026-01-29 21:02:31",
+      "created_at": 1769720551000
     }
   ],
   "code": 200,

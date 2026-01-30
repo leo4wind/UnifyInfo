@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-01-30T05:03:42.480Z"
+    "lastUpdate": "2026-01-30T08:26:48.857Z"
   },
   "data": [
+    {
+      "zqdm": "920180",
+      "zqjc": "爱得科技",
+      "sgdm": "920180",
+      "fxsl": 29530762,
+      "swfxsl": 26577686,
+      "sgsx": 1328800,
+      "dgsz": 13288000,
+      "fxjg": 7.67,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-02-02",
+      "zqgbrq": "2026-02-05",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.98,
+      "hysyl": 42.57,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "以骨科耗材为主的医疗器械的研发、生产与销售"
+    },
     {
       "zqdm": "688816",
       "zqjc": "易思维",
@@ -14,14 +37,14 @@
       "swfxsl": 6000000,
       "sgsx": 6000,
       "dgsz": 60000,
-      "fxjg": null,
+      "fxjg": 55.95,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-02-02",
       "zqgbrq": "2026-02-04",
       "zqjkrq": "2026-02-04",
       "ssrq": null,
-      "syl": null,
+      "syl": 90.39,
       "hysyl": 44.28,
       "wszql": null,
       "yzbsl": 0,
@@ -99,5 +122,5 @@
       "zyyw": "心血管疾病精准诊疗创新医疗器械研发、生产和销售的国家高新技术企业,致力于开发为心血管疾病诊疗带来变革的精准解决方案"
     }
   ],
-  "total": 4
+  "total": 5
 }
