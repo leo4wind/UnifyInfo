@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-30T12:31:36.814Z"
+    "lastUpdate": "2026-01-30T16:26:56.723Z"
   },
   "data": [
+    {
+      "id": 46825415,
+      "title": "Buttered Crumpet, a custom typeface for Wallace and Gromit",
+      "link": "https://jamieclarketype.com/case-study/wallace-and-gromit-font/",
+      "score": 77,
+      "author": "tobr",
+      "created": "2026-01-30 15:19:28",
+      "created_at": 1769786368000
+    },
+    {
+      "id": 46824877,
+      "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+      "link": "https://github.com/amlalabs/amla-sandbox",
+      "score": 22,
+      "author": "souvik1997",
+      "created": "2026-01-30 14:34:32",
+      "created_at": 1769783672000
+    },
     {
       "id": 46820360,
       "title": "Moltbook",
       "link": "https://www.moltbook.com/",
-      "score": 558,
+      "score": 777,
       "author": "teej",
       "created": "2026-01-30 03:55:34",
       "created_at": 1769745334000
     },
     {
-      "id": 46776848,
-      "title": "Software Pump and Dump",
-      "link": "http://tautvilas.lt/software-pump-and-dump/",
-      "score": 125,
-      "author": "brisky",
-      "created": "2026-01-27 08:03:11",
-      "created_at": 1769500991000
+      "id": 46759358,
+      "title": "Implementing a tiny CPU rasterizer (2024)",
+      "link": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html",
+      "score": 32,
+      "author": "PaulHoule",
+      "created": "2026-01-25 22:45:34",
+      "created_at": 1769381134000
     },
     {
-      "id": 46821134,
-      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-      "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-      "score": 112,
-      "author": "vidyesh",
-      "created": "2026-01-30 06:19:36",
-      "created_at": 1769753976000
+      "id": 46824098,
+      "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+      "link": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+      "score": 190,
+      "author": "sseagull",
+      "created": "2026-01-30 13:23:53",
+      "created_at": 1769779433000
     },
     {
       "id": 46820783,
       "title": "OpenClaw – Moltbot Renamed Again",
       "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 269,
+      "score": 393,
       "author": "ed",
       "created": "2026-01-30 05:14:48",
       "created_at": 1769750088000
     },
     {
-      "id": 46821774,
-      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-      "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "score": 227,
-      "author": "franczesko",
-      "created": "2026-01-30 08:09:41",
-      "created_at": 1769760581000
+      "id": 46824867,
+      "title": "Richard Feynman Side Hustles",
+      "link": "https://twitter.com/carl_feynman/status/2016979540099420428",
+      "score": 72,
+      "author": "tzury",
+      "created": "2026-01-30 14:33:29",
+      "created_at": 1769783609000
     },
     {
       "id": 46773655,
       "title": "The Engineer who invented the Mars Rover Suspension in his garage [video]",
       "link": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
-      "score": 20,
+      "score": 86,
       "author": "UltraSane",
       "created": "2026-01-27 00:08:33",
       "created_at": 1769472513000
     },
     {
-      "id": 46822632,
-      "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
-      "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "score": 98,
-      "author": "breve",
-      "created": "2026-01-30 10:14:31",
-      "created_at": 1769768071000
+      "id": 46773793,
+      "title": "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
+      "link": "https://github.com/kristianaryanto/Quack-Cluster",
+      "score": 11,
+      "author": "tanelpoder",
+      "created": "2026-01-27 00:24:56",
+      "created_at": 1769473496000
     },
     {
-      "id": 46823498,
-      "title": "Show HN: Cicada – a scripting language that integrates with C",
-      "link": "https://github.com/heltilda/cicada",
-      "score": 3,
-      "author": "briancr",
-      "created": "2026-01-30 12:07:26",
-      "created_at": 1769774846000
-    },
-    {
-      "id": 46820924,
-      "title": "How AI assistance impacts the formation of coding skills",
-      "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
-      "score": 126,
-      "author": "vismit2000",
-      "created": "2026-01-30 05:41:23",
-      "created_at": 1769751683000
+      "id": 46823358,
+      "title": "Track Your Routine – Open-source app for task management",
+      "link": "https://github.com/MSF01/TYR",
+      "score": 34,
+      "author": "perrii",
+      "created": "2026-01-30 11:52:46",
+      "created_at": 1769773966000
     }
   ],
   "code": 200,
