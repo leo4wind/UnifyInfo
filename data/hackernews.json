@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-30T08:26:45.999Z"
+    "lastUpdate": "2026-01-30T12:31:36.688Z"
   },
   "data": [
     {
       "id": 46795864,
       "title": "Microsoft forced me to switch to Linux",
       "link": "https://www.himthe.dev/blog/microsoft-to-linux",
-      "score": 1830,
+      "score": 1832,
       "author": "bobsterlobster",
       "created": "2026-01-28 14:28:21",
       "created_at": 1769610501000
@@ -19,7 +19,7 @@
       "id": 46801419,
       "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
       "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "score": 1041,
+      "score": 1053,
       "author": "pier25",
       "created": "2026-01-28 20:59:30",
       "created_at": 1769633970000
@@ -28,16 +28,25 @@
       "id": 46808251,
       "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
       "link": "https://blog.ncase.me/on-depression/",
-      "score": 872,
+      "score": 883,
       "author": "mijailt",
       "created": "2026-01-29 10:35:00",
       "created_at": 1769682900000
     },
     {
+      "id": 46810282,
+      "title": "Claude Code daily benchmarks for degradation tracking",
+      "link": "https://marginlab.ai/trackers/claude-code/",
+      "score": 705,
+      "author": "qwesr123",
+      "created": "2026-01-29 13:59:07",
+      "created_at": 1769695147000
+    },
+    {
       "id": 46796745,
       "title": "Amazon cuts 16k jobs",
       "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-      "score": 689,
+      "score": 691,
       "author": "DGAP",
       "created": "2026-01-28 15:39:11",
       "created_at": 1769614751000
@@ -46,25 +55,16 @@
       "id": 46806773,
       "title": "Europe’s next-generation weather satellite sends back first images",
       "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "score": 671,
+      "score": 680,
       "author": "saubeidl",
       "created": "2026-01-29 07:07:17",
       "created_at": 1769670437000
     },
     {
-      "id": 46810282,
-      "title": "Claude Code daily benchmarks for degradation tracking",
-      "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 654,
-      "author": "qwesr123",
-      "created": "2026-01-29 13:59:07",
-      "created_at": 1769695147000
-    },
-    {
       "id": 46803356,
       "title": "Please don't say mean things about the AI I just invested a billion dollars in",
       "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
-      "score": 651,
+      "score": 655,
       "author": "randycupertino",
       "created": "2026-01-28 23:36:23",
       "created_at": 1769643383000
@@ -73,7 +73,7 @@
       "id": 46805665,
       "title": "We can’t send mail farther than 500 miles (2002)",
       "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "score": 648,
+      "score": 651,
       "author": "giancarlostoro",
       "created": "2026-01-29 03:58:33",
       "created_at": 1769659113000
@@ -82,19 +82,19 @@
       "id": 46812933,
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "score": 562,
+      "score": 598,
       "author": "meetpateltech",
       "created": "2026-01-29 17:02:39",
       "created_at": 1769706159000
     },
     {
-      "id": 46802867,
-      "title": "Tesla ending Models S and X production",
-      "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "score": 544,
-      "author": "keyboardJones",
-      "created": "2026-01-28 22:53:54",
-      "created_at": 1769640834000
+      "id": 46820360,
+      "title": "Moltbook",
+      "link": "https://www.moltbook.com/",
+      "score": 558,
+      "author": "teej",
+      "created": "2026-01-30 03:55:34",
+      "created_at": 1769745334000
     }
   ],
   "code": 200,
