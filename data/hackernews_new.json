@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-31T04:56:33.485Z"
+    "lastUpdate": "2026-01-31T08:17:20.931Z"
   },
   "data": [
     {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 901,
+      "score": 1091,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
@@ -19,61 +19,61 @@
       "id": 46832074,
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "score": 132,
+      "score": 196,
       "author": "simedw",
       "created": "2026-01-31 00:51:27",
       "created_at": 1769820687000
     },
     {
+      "id": 46833754,
+      "title": "Show HN: Phage Explorer",
+      "link": "https://phage-explorer.org/",
+      "score": 41,
+      "author": "eigenvalue",
+      "created": "2026-01-31 05:22:03",
+      "created_at": 1769836923000
+    },
+    {
+      "id": 46791434,
+      "title": "A novelist who took on the Italian mafia and lived",
+      "link": "https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w",
+      "score": 24,
+      "author": "Thevet",
+      "created": "2026-01-28 05:28:36",
+      "created_at": 1769578116000
+    },
+    {
+      "id": 46821488,
+      "title": "Ashcan Comic",
+      "link": "https://en.wikipedia.org/wiki/Ashcan_comic",
+      "score": 22,
+      "author": "benbreen",
+      "created": "2026-01-30 07:26:20",
+      "created_at": 1769757980000
+    },
+    {
       "id": 46829582,
       "title": "Peerweb: Decentralized website hosting via WebTorrent",
       "link": "https://peerweb.lol/",
-      "score": 203,
+      "score": 241,
       "author": "dtj1123",
       "created": "2026-01-30 20:40:00",
       "created_at": 1769805600000
     },
     {
-      "id": 46831592,
-      "title": "Stonebraker on CAP theorem and Databases (2010)",
-      "link": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
-      "score": 50,
-      "author": "onurkanbkrc",
-      "created": "2026-01-30 23:47:28",
-      "created_at": 1769816848000
-    },
-    {
-      "id": 46831702,
-      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
-      "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
-      "score": 210,
-      "author": "pixelesque",
-      "created": "2026-01-31 00:02:30",
-      "created_at": 1769817750000
-    },
-    {
-      "id": 46826597,
-      "title": "Kimi K2.5 Technical Report [pdf]",
-      "link": "https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf",
-      "score": 253,
-      "author": "vinhnx",
-      "created": "2026-01-30 16:43:50",
-      "created_at": 1769791430000
-    },
-    {
-      "id": 46802748,
-      "title": "Disrupting the largest residential proxy network",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
-      "score": 126,
-      "author": "cdrnsf",
-      "created": "2026-01-28 22:46:38",
-      "created_at": 1769640398000
+      "id": 46768260,
+      "title": "An anecdote about backward compatibility",
+      "link": "https://blog.plover.com/2026/01/26/#wrterm",
+      "score": 16,
+      "author": "speckx",
+      "created": "2026-01-26 17:07:37",
+      "created_at": 1769447257000
     },
     {
       "id": 46820360,
       "title": "Moltbook",
       "link": "https://www.moltbook.com/",
-      "score": 1364,
+      "score": 1430,
       "author": "teej",
       "created": "2026-01-30 03:55:34",
       "created_at": 1769745334000
@@ -82,19 +82,19 @@
       "id": 46824422,
       "title": "HTTP Cats",
       "link": "https://http.cat/",
-      "score": 275,
+      "score": 329,
       "author": "surprisetalk",
       "created": "2026-01-30 13:56:51",
       "created_at": 1769781411000
     },
     {
-      "id": 46830027,
-      "title": "P vs. NP and the Difficulty of Computation: A ruliological approach",
-      "link": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
-      "score": 52,
-      "author": "tzury",
-      "created": "2026-01-30 21:17:21",
-      "created_at": 1769807841000
+      "id": 46802748,
+      "title": "Disrupting the largest residential proxy network",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
+      "score": 154,
+      "author": "cdrnsf",
+      "created": "2026-01-28 22:46:38",
+      "created_at": 1769640398000
     }
   ],
   "code": 200,

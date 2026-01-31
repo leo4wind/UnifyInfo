@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-31T04:56:33.341Z"
+    "lastUpdate": "2026-01-31T08:17:20.816Z"
   },
   "data": [
     {
       "id": 46820360,
       "title": "Moltbook",
       "link": "https://www.moltbook.com/",
-      "score": 1364,
+      "score": 1430,
       "author": "teej",
       "created": "2026-01-30 03:55:34",
       "created_at": 1769745334000
     },
     {
-      "id": 46808251,
-      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-      "link": "https://blog.ncase.me/on-depression/",
-      "score": 917,
-      "author": "mijailt",
-      "created": "2026-01-29 10:35:00",
-      "created_at": 1769682900000
-    },
-    {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 901,
+      "score": 1091,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
     },
     {
+      "id": 46808251,
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "link": "https://blog.ncase.me/on-depression/",
+      "score": 918,
+      "author": "mijailt",
+      "created": "2026-01-29 10:35:00",
+      "created_at": 1769682900000
+    },
+    {
       "id": 46810282,
       "title": "Claude Code daily benchmarks for degradation tracking",
       "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 741,
+      "score": 744,
       "author": "qwesr123",
       "created": "2026-01-29 13:59:07",
       "created_at": 1769695147000
     },
     {
-      "id": 46806773,
-      "title": "Europe’s next-generation weather satellite sends back first images",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "score": 694,
-      "author": "saubeidl",
-      "created": "2026-01-29 07:07:17",
-      "created_at": 1769670437000
-    },
-    {
-      "id": 46805665,
-      "title": "We can’t send mail farther than 500 miles (2002)",
-      "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "score": 669,
-      "author": "giancarlostoro",
-      "created": "2026-01-29 03:58:33",
-      "created_at": 1769659113000
-    },
-    {
       "id": 46821774,
       "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
       "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "score": 664,
+      "score": 682,
       "author": "franczesko",
       "created": "2026-01-30 08:09:41",
       "created_at": 1769760581000
@@ -73,7 +55,7 @@
       "id": 46812933,
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "score": 646,
+      "score": 650,
       "author": "meetpateltech",
       "created": "2026-01-29 17:02:39",
       "created_at": 1769706159000
@@ -82,7 +64,7 @@
       "id": 46820783,
       "title": "OpenClaw – Moltbot Renamed Again",
       "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 613,
+      "score": 623,
       "author": "ed",
       "created": "2026-01-30 05:14:48",
       "created_at": 1769750088000
@@ -91,10 +73,28 @@
       "id": 46814743,
       "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
       "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-      "score": 543,
+      "score": 546,
       "author": "croes",
       "created": "2026-01-29 18:55:38",
       "created_at": 1769712938000
+    },
+    {
+      "id": 46809708,
+      "title": "AGENTS.md outperforms skills in our agent evals",
+      "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+      "score": 495,
+      "author": "maximedupre",
+      "created": "2026-01-29 13:08:11",
+      "created_at": 1769692091000
+    },
+    {
+      "id": 46821134,
+      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+      "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+      "score": 493,
+      "author": "vidyesh",
+      "created": "2026-01-30 06:19:36",
+      "created_at": 1769753976000
     }
   ],
   "code": 200,
