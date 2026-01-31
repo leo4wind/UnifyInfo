@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-31T08:17:20.931Z"
+    "lastUpdate": "2026-01-31T12:25:05.440Z"
   },
   "data": [
     {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 1091,
+      "score": 1341,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
     },
     {
+      "id": 46835336,
+      "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
+      "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
+      "score": 116,
+      "author": "jamesblonde",
+      "created": "2026-01-31 10:34:07",
+      "created_at": 1769855647000
+    },
+    {
+      "id": 46834313,
+      "title": "Sumerian Star Map Recorded the Impact of an Asteroid (2024)",
+      "link": "https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/",
+      "score": 62,
+      "author": "griffzhowl",
+      "created": "2026-01-31 07:32:51",
+      "created_at": 1769844771000
+    },
+    {
+      "id": 46835208,
+      "title": "Automatic Programming",
+      "link": "https://antirez.com/news/159",
+      "score": 110,
+      "author": "dvrp",
+      "created": "2026-01-31 10:11:25",
+      "created_at": 1769854285000
+    },
+    {
       "id": 46832074,
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "score": 196,
+      "score": 266,
       "author": "simedw",
       "created": "2026-01-31 00:51:27",
       "created_at": 1769820687000
     },
     {
-      "id": 46833754,
-      "title": "Show HN: Phage Explorer",
-      "link": "https://phage-explorer.org/",
-      "score": 41,
-      "author": "eigenvalue",
-      "created": "2026-01-31 05:22:03",
-      "created_at": 1769836923000
+      "id": 46834953,
+      "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
+      "link": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
+      "score": 19,
+      "author": "jimaek",
+      "created": "2026-01-31 09:30:05",
+      "created_at": 1769851805000
     },
     {
-      "id": 46791434,
-      "title": "A novelist who took on the Italian mafia and lived",
-      "link": "https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w",
-      "score": 24,
-      "author": "Thevet",
-      "created": "2026-01-28 05:28:36",
-      "created_at": 1769578116000
+      "id": 46831736,
+      "title": "Direct Current Data Centers",
+      "link": "https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/",
+      "score": 36,
+      "author": "jk_tech",
+      "created": "2026-01-31 00:06:06",
+      "created_at": 1769817966000
     },
     {
-      "id": 46821488,
-      "title": "Ashcan Comic",
-      "link": "https://en.wikipedia.org/wiki/Ashcan_comic",
-      "score": 22,
-      "author": "benbreen",
-      "created": "2026-01-30 07:26:20",
-      "created_at": 1769757980000
+      "id": 46809846,
+      "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+      "link": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+      "score": 34,
+      "author": "Ozzie_osman",
+      "created": "2026-01-29 13:20:07",
+      "created_at": 1769692807000
     },
     {
-      "id": 46829582,
-      "title": "Peerweb: Decentralized website hosting via WebTorrent",
-      "link": "https://peerweb.lol/",
-      "score": 241,
-      "author": "dtj1123",
-      "created": "2026-01-30 20:40:00",
-      "created_at": 1769805600000
-    },
-    {
-      "id": 46768260,
-      "title": "An anecdote about backward compatibility",
-      "link": "https://blog.plover.com/2026/01/26/#wrterm",
-      "score": 16,
-      "author": "speckx",
-      "created": "2026-01-26 17:07:37",
-      "created_at": 1769447257000
-    },
-    {
-      "id": 46820360,
-      "title": "Moltbook",
-      "link": "https://www.moltbook.com/",
-      "score": 1430,
-      "author": "teej",
-      "created": "2026-01-30 03:55:34",
-      "created_at": 1769745334000
-    },
-    {
-      "id": 46824422,
-      "title": "HTTP Cats",
-      "link": "https://http.cat/",
-      "score": 329,
-      "author": "surprisetalk",
-      "created": "2026-01-30 13:56:51",
-      "created_at": 1769781411000
-    },
-    {
-      "id": 46802748,
-      "title": "Disrupting the largest residential proxy network",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
-      "score": 154,
-      "author": "cdrnsf",
-      "created": "2026-01-28 22:46:38",
-      "created_at": 1769640398000
+      "id": 46794971,
+      "title": "My Ridiculously Robust Photo Management System (Immich Edition)",
+      "link": "https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/",
+      "score": 52,
+      "author": "jmathai",
+      "created": "2026-01-28 13:17:56",
+      "created_at": 1769606276000
     }
   ],
   "code": 200,
