@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-30T20:18:22.386Z"
+    "lastUpdate": "2026-01-31T01:04:48.425Z"
   },
   "data": [
-    {
-      "id": 46801419,
-      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "score": 1082,
-      "author": "pier25",
-      "created": "2026-01-28 20:59:30",
-      "created_at": 1769633970000
-    },
     {
       "id": 46820360,
       "title": "Moltbook",
       "link": "https://www.moltbook.com/",
-      "score": 1052,
+      "score": 1264,
       "author": "teej",
       "created": "2026-01-30 03:55:34",
       "created_at": 1769745334000
@@ -28,7 +19,7 @@
       "id": 46808251,
       "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
       "link": "https://blog.ncase.me/on-depression/",
-      "score": 903,
+      "score": 911,
       "author": "mijailt",
       "created": "2026-01-29 10:35:00",
       "created_at": 1769682900000
@@ -37,16 +28,25 @@
       "id": 46810282,
       "title": "Claude Code daily benchmarks for degradation tracking",
       "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 732,
+      "score": 737,
       "author": "qwesr123",
       "created": "2026-01-29 13:59:07",
       "created_at": 1769695147000
     },
     {
+      "id": 46829147,
+      "title": "Antirender: remove the glossy shine on architectural renderings",
+      "link": "https://antirender.com/",
+      "score": 708,
+      "author": "iambateman",
+      "created": "2026-01-30 20:05:24",
+      "created_at": 1769803524000
+    },
+    {
       "id": 46806773,
       "title": "Europe’s next-generation weather satellite sends back first images",
       "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-      "score": 687,
+      "score": 692,
       "author": "saubeidl",
       "created": "2026-01-29 07:07:17",
       "created_at": 1769670437000
@@ -55,46 +55,46 @@
       "id": 46805665,
       "title": "We can’t send mail farther than 500 miles (2002)",
       "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "score": 662,
+      "score": 668,
       "author": "giancarlostoro",
       "created": "2026-01-29 03:58:33",
       "created_at": 1769659113000
     },
     {
-      "id": 46803356,
-      "title": "Please don't say mean things about the AI I just invested a billion dollars in",
-      "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
-      "score": 662,
-      "author": "randycupertino",
-      "created": "2026-01-28 23:36:23",
-      "created_at": 1769643383000
-    },
-    {
-      "id": 46812933,
-      "title": "Project Genie: Experimenting with infinite, interactive worlds",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "score": 639,
-      "author": "meetpateltech",
-      "created": "2026-01-29 17:02:39",
-      "created_at": 1769706159000
-    },
-    {
       "id": 46821774,
       "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
       "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "score": 567,
+      "score": 647,
       "author": "franczesko",
       "created": "2026-01-30 08:09:41",
       "created_at": 1769760581000
     },
     {
-      "id": 46802867,
-      "title": "Tesla ending Models S and X production",
-      "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-      "score": 556,
-      "author": "keyboardJones",
-      "created": "2026-01-28 22:53:54",
-      "created_at": 1769640834000
+      "id": 46812933,
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "score": 645,
+      "author": "meetpateltech",
+      "created": "2026-01-29 17:02:39",
+      "created_at": 1769706159000
+    },
+    {
+      "id": 46820783,
+      "title": "OpenClaw – Moltbot Renamed Again",
+      "link": "https://openclaw.ai/blog/introducing-openclaw",
+      "score": 595,
+      "author": "ed",
+      "created": "2026-01-30 05:14:48",
+      "created_at": 1769750088000
+    },
+    {
+      "id": 46814743,
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "score": 536,
+      "author": "croes",
+      "created": "2026-01-29 18:55:38",
+      "created_at": 1769712938000
     }
   ],
   "code": 200,

@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-01-30T20:18:22.675Z"
+    "lastUpdate": "2026-01-31T01:04:48.628Z"
   },
   "data": [
     {
       "id": 46829147,
-      "title": "Antirender- remove the glossy shine on architectural renderings",
+      "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 23,
+      "score": 708,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
     },
     {
+      "id": 46829582,
+      "title": "Peerweb: Decentralized website hosting via WebTorrent",
+      "link": "https://peerweb.lol/",
+      "score": 151,
+      "author": "dtj1123",
+      "created": "2026-01-30 20:40:00",
+      "created_at": 1769805600000
+    },
+    {
+      "id": 46830698,
+      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+      "link": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+      "score": 39,
+      "author": "omarisbuilding",
+      "created": "2026-01-30 22:16:19",
+      "created_at": 1769811379000
+    },
+    {
+      "id": 46831702,
+      "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
+      "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+      "score": 65,
+      "author": "pixelesque",
+      "created": "2026-01-31 00:02:30",
+      "created_at": 1769817750000
+    },
+    {
       "id": 46826597,
       "title": "Kimi K2.5 Technical Report [pdf]",
       "link": "https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf",
-      "score": 65,
+      "score": 201,
       "author": "vinhnx",
       "created": "2026-01-30 16:43:50",
       "created_at": 1769791430000
     },
     {
-      "id": 46782412,
-      "title": "The National Herbarium of Ireland digital collection of Irish plants",
-      "link": "https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/",
-      "score": 57,
-      "author": "gnabgib",
-      "created": "2026-01-27 16:42:18",
-      "created_at": 1769532138000
+      "id": 46802748,
+      "title": "Disrupting the largest residential proxy network",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
+      "score": 84,
+      "author": "cdrnsf",
+      "created": "2026-01-28 22:46:38",
+      "created_at": 1769640398000
+    },
+    {
+      "id": 46831592,
+      "title": "Stonebraker on CAP theorem and Databases",
+      "link": "https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/",
+      "score": 7,
+      "author": "onurkanbkrc",
+      "created": "2026-01-30 23:47:28",
+      "created_at": 1769816848000
+    },
+    {
+      "id": 46801488,
+      "title": "Ask HN: Why don't form-fitting Faraday iPhone cases exist?",
+      "link": "",
+      "score": 13,
+      "author": "par_12",
+      "created": "2026-01-28 21:05:12",
+      "created_at": 1769634312000
+    },
+    {
+      "id": 46824422,
+      "title": "HTTP Cats",
+      "link": "https://http.cat/",
+      "score": 200,
+      "author": "surprisetalk",
+      "created": "2026-01-30 13:56:51",
+      "created_at": 1769781411000
     },
     {
       "id": 46820360,
       "title": "Moltbook",
       "link": "https://www.moltbook.com/",
-      "score": 1052,
+      "score": 1264,
       "author": "teej",
       "created": "2026-01-30 03:55:34",
       "created_at": 1769745334000
-    },
-    {
-      "id": 46820783,
-      "title": "OpenClaw – Moltbot Renamed Again",
-      "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 537,
-      "author": "ed",
-      "created": "2026-01-30 05:14:48",
-      "created_at": 1769750088000
-    },
-    {
-      "id": 46773655,
-      "title": "The engineer who invented the Mars rover suspension in his garage [video]",
-      "link": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
-      "score": 199,
-      "author": "UltraSane",
-      "created": "2026-01-27 00:08:33",
-      "created_at": 1769472513000
-    },
-    {
-      "id": 46764228,
-      "title": "Joel Spolsky: Painless Software Schedules (2000)",
-      "link": "https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/",
-      "score": 29,
-      "author": "MonkeyClub",
-      "created": "2026-01-26 11:08:16",
-      "created_at": 1769425696000
-    },
-    {
-      "id": 46773793,
-      "title": "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
-      "link": "https://github.com/kristianaryanto/Quack-Cluster",
-      "score": 50,
-      "author": "tanelpoder",
-      "created": "2026-01-27 00:24:56",
-      "created_at": 1769473496000
-    },
-    {
-      "id": 46825828,
-      "title": "Self Driving Car Insurance",
-      "link": "https://www.lemonade.com/car/explained/self-driving-car-insurance/",
-      "score": 28,
-      "author": "KellyCriterion",
-      "created": "2026-01-30 15:50:15",
-      "created_at": 1769788215000
-    },
-    {
-      "id": 46825415,
-      "title": "Buttered Crumpet, a custom typeface for Wallace and Gromit",
-      "link": "https://jamieclarketype.com/case-study/wallace-and-gromit-font/",
-      "score": 188,
-      "author": "tobr",
-      "created": "2026-01-30 15:19:28",
-      "created_at": 1769786368000
     }
   ],
   "code": 200,
