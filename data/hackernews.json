@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-01-31T12:25:05.155Z"
+    "lastUpdate": "2026-01-31T16:15:32.252Z"
   },
   "data": [
-    {
-      "id": 46820360,
-      "title": "Moltbook",
-      "link": "https://www.moltbook.com/",
-      "score": 1495,
-      "author": "teej",
-      "created": "2026-01-30 03:55:34",
-      "created_at": 1769745334000
-    },
     {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 1341,
+      "score": 1603,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
     },
     {
-      "id": 46810282,
-      "title": "Claude Code daily benchmarks for degradation tracking",
-      "link": "https://marginlab.ai/trackers/claude-code/",
-      "score": 745,
-      "author": "qwesr123",
-      "created": "2026-01-29 13:59:07",
-      "created_at": 1769695147000
+      "id": 46820360,
+      "title": "Moltbook",
+      "link": "https://www.moltbook.com/",
+      "score": 1584,
+      "author": "teej",
+      "created": "2026-01-30 03:55:34",
+      "created_at": 1769745334000
     },
     {
       "id": 46821774,
       "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
       "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "score": 693,
+      "score": 700,
       "author": "franczesko",
       "created": "2026-01-30 08:09:41",
       "created_at": 1769760581000
@@ -46,7 +37,7 @@
       "id": 46812933,
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-      "score": 653,
+      "score": 657,
       "author": "meetpateltech",
       "created": "2026-01-29 17:02:39",
       "created_at": 1769706159000
@@ -55,7 +46,7 @@
       "id": 46820783,
       "title": "OpenClaw – Moltbot Renamed Again",
       "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 634,
+      "score": 640,
       "author": "ed",
       "created": "2026-01-30 05:14:48",
       "created_at": 1769750088000
@@ -64,7 +55,7 @@
       "id": 46814743,
       "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
       "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-      "score": 547,
+      "score": 548,
       "author": "croes",
       "created": "2026-01-29 18:55:38",
       "created_at": 1769712938000
@@ -73,28 +64,37 @@
       "id": 46821134,
       "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
       "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-      "score": 506,
+      "score": 516,
       "author": "vidyesh",
       "created": "2026-01-30 06:19:36",
       "created_at": 1769753976000
     },
     {
-      "id": 46809708,
-      "title": "AGENTS.md outperforms skills in our agent evals",
-      "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-      "score": 503,
-      "author": "maximedupre",
-      "created": "2026-01-29 13:08:11",
-      "created_at": 1769692091000
+      "id": 46835336,
+      "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
+      "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
+      "score": 481,
+      "author": "jamesblonde",
+      "created": "2026-01-31 10:34:07",
+      "created_at": 1769855647000
     },
     {
       "id": 46822632,
       "title": "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",
       "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "score": 467,
+      "score": 470,
       "author": "breve",
       "created": "2026-01-30 10:14:31",
       "created_at": 1769768071000
+    },
+    {
+      "id": 46824422,
+      "title": "HTTP Cats",
+      "link": "https://http.cat/",
+      "score": 467,
+      "author": "surprisetalk",
+      "created": "2026-01-30 13:56:51",
+      "created_at": 1769781411000
     }
   ],
   "code": 200,
