@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-01T12:26:45.740Z"
+    "lastUpdate": "2026-02-01T16:17:15.177Z"
   },
   "data": [
     {
       "id": 46844870,
-      "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
+      "title": "Netbird – Open Source Zero Trust Networking",
       "link": "https://netbird.io/",
-      "score": 230,
+      "score": 428,
       "author": "l1am0",
       "created": "2026-02-01 09:44:01",
       "created_at": 1769939041000
     },
     {
+      "id": 46846252,
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "link": "https://www.adventuregamestudio.co.uk/",
+      "score": 63,
+      "author": "doener",
+      "created": "2026-02-01 13:56:56",
+      "created_at": 1769954216000
+    },
+    {
+      "id": 46847039,
+      "title": "English professors double down on requiring printed copies of readings",
+      "link": "https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings",
+      "score": 7,
+      "author": "cmsefton",
+      "created": "2026-02-01 15:58:23",
+      "created_at": 1769961503000
+    },
+    {
       "id": 46844822,
       "title": "What I learned building an opinionated and minimal coding agent",
       "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 81,
+      "score": 189,
       "author": "SatvikBeri",
       "created": "2026-02-01 09:33:46",
       "created_at": 1769938426000
     },
     {
+      "id": 46812795,
+      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
+      "link": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
+      "score": 64,
+      "author": "mikece",
+      "created": "2026-01-29 16:54:39",
+      "created_at": 1769705679000
+    },
+    {
       "id": 46844350,
       "title": "The Book of PF, 4th edition",
       "link": "https://nostarch.com/book-of-pf-4th-edition",
-      "score": 90,
+      "score": 137,
       "author": "0x54MUR41",
       "created": "2026-02-01 07:50:51",
       "created_at": 1769932251000
     },
     {
-      "id": 46845470,
-      "title": "How to Scale a System from 0 to 10M+ Users",
-      "link": "https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
-      "score": 15,
-      "author": "olayiwoladekoya",
-      "created": "2026-02-01 11:35:32",
-      "created_at": 1769945732000
+      "id": 46845244,
+      "title": "Amiga Unix (Amix)",
+      "link": "https://www.amigaunix.com/doku.php/home",
+      "score": 47,
+      "author": "donatj",
+      "created": "2026-02-01 10:57:20",
+      "created_at": 1769943440000
+    },
+    {
+      "id": 46782462,
+      "title": "Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.",
+      "link": "https://collections.leventhalmap.org/search/commonwealth:3f463773q",
+      "score": 11,
+      "author": "speckx",
+      "created": "2026-01-27 16:44:39",
+      "created_at": 1769532279000
+    },
+    {
+      "id": 46845103,
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "link": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "score": 73,
+      "author": "yannick2k",
+      "created": "2026-02-01 10:30:41",
+      "created_at": 1769941841000
     },
     {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 712,
+      "score": 771,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
-    },
-    {
-      "id": 46786575,
-      "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
-      "link": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
-      "score": 39,
-      "author": "kohlschuetter",
-      "created": "2026-01-27 20:57:25",
-      "created_at": 1769547445000
-    },
-    {
-      "id": 46782872,
-      "title": "The history of C# and TypeScript with Anders Hejlsberg | GitHub",
-      "link": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
-      "score": 85,
-      "author": "doppp",
-      "created": "2026-01-27 17:07:35",
-      "created_at": 1769533655000
-    },
-    {
-      "id": 46799435,
-      "title": "VisualJJ – Jujutsu in Visual Studio Code",
-      "link": "https://www.visualjj.com/",
-      "score": 25,
-      "author": "demail",
-      "created": "2026-01-28 18:20:35",
-      "created_at": 1769624435000
-    },
-    {
-      "id": 46840612,
-      "title": "In praise of –dry-run",
-      "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
-      "score": 192,
-      "author": "ingve",
-      "created": "2026-01-31 20:42:13",
-      "created_at": 1769892133000
-    },
-    {
-      "id": 46845244,
-      "title": "Amiga Unix (Amix)",
-      "link": "https://www.amigaunix.com/doku.php/home",
-      "score": 5,
-      "author": "donatj",
-      "created": "2026-02-01 10:57:20",
-      "created_at": 1769943440000
     }
   ],
   "code": 200,
