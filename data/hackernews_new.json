@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-01T01:19:35.387Z"
+    "lastUpdate": "2026-02-01T05:18:33.498Z"
   },
   "data": [
+    {
+      "id": 46842603,
+      "title": "List animals until failure",
+      "link": "https://rose.systems/animalist/",
+      "score": 52,
+      "author": "l1n",
+      "created": "2026-02-01 01:03:23",
+      "created_at": 1769907803000
+    },
     {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 418,
+      "score": 526,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
     },
     {
-      "id": 46793313,
-      "title": "Scientist who helped eradicate smallpox dies at age 89",
-      "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
-      "score": 63,
-      "author": "CrossVR",
-      "created": "2026-01-28 10:03:11",
-      "created_at": 1769594591000
+      "id": 46842178,
+      "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
+      "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
+      "score": 18,
+      "author": "marojejian",
+      "created": "2026-02-01 00:00:11",
+      "created_at": 1769904011000
+    },
+    {
+      "id": 46804009,
+      "title": "pg_tracing: Distributed Tracing for PostgreSQL",
+      "link": "https://github.com/DataDog/pg_tracing",
+      "score": 15,
+      "author": "tanelpoder",
+      "created": "2026-01-29 00:36:30",
+      "created_at": 1769646990000
+    },
+    {
+      "id": 46840612,
+      "title": "In praise of –dry-run",
+      "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "score": 97,
+      "author": "ingve",
+      "created": "2026-01-31 20:42:13",
+      "created_at": 1769892133000
     },
     {
       "id": 46840924,
       "title": "Generative AI and Wikipedia editing: What we learned in 2025",
       "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
-      "score": 59,
+      "score": 108,
       "author": "ColinWright",
       "created": "2026-01-31 21:14:02",
       "created_at": 1769894042000
     },
     {
-      "id": 46840252,
-      "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
-      "link": "https://arxiv.org/abs/2512.21473",
-      "score": 57,
-      "author": "matt_d",
-      "created": "2026-01-31 20:05:22",
-      "created_at": 1769889922000
+      "id": 46787211,
+      "title": "Opentrees.org (2024)",
+      "link": "https://opentrees.org/#pos=1/-37.8/145",
+      "score": 35,
+      "author": "surprisetalk",
+      "created": "2026-01-27 21:33:28",
+      "created_at": 1769549608000
     },
     {
-      "id": 46841374,
-      "title": "Swift is a more convenient Rust",
-      "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
-      "score": 179,
-      "author": "behnamoh",
-      "created": "2026-01-31 22:05:03",
-      "created_at": 1769897103000
+      "id": 46793313,
+      "title": "Scientist who helped eradicate smallpox dies at age 89",
+      "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "score": 167,
+      "author": "CrossVR",
+      "created": "2026-01-28 10:03:11",
+      "created_at": 1769594591000
     },
     {
-      "id": 46829965,
-      "title": "Wikipedia: Sandbox",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Sandbox",
-      "score": 49,
-      "author": "zaptrem",
-      "created": "2026-01-30 21:12:01",
-      "created_at": 1769807521000
-    },
-    {
-      "id": 46840219,
-      "title": "The Saddest Moment (2013) [pdf]",
-      "link": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
-      "score": 66,
-      "author": "tosh",
-      "created": "2026-01-31 20:02:36",
-      "created_at": 1769889756000
+      "id": 46840865,
+      "title": "Outsourcing thinking",
+      "link": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "score": 106,
+      "author": "todsacerdoti",
+      "created": "2026-01-31 21:06:57",
+      "created_at": 1769893617000
     },
     {
       "id": 46840698,
       "title": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
       "link": "https://github.com/zupat/related_post_gen",
-      "score": 41,
+      "score": 74,
       "author": "behnamoh",
       "created": "2026-01-31 20:50:56",
       "created_at": 1769892656000
-    },
-    {
-      "id": 46840178,
-      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
-      "link": "https://github.com/rtvkiz/minimal",
-      "score": 64,
-      "author": "ritvikarya98",
-      "created": "2026-01-31 19:58:00",
-      "created_at": 1769889480000
-    },
-    {
-      "id": 46815209,
-      "title": "Ferrari vs. Markets",
-      "link": "https://ferrari-imports.enigmatechnologies.dev/",
-      "score": 31,
-      "author": "merinid",
-      "created": "2026-01-29 19:25:32",
-      "created_at": 1769714732000
     }
   ],
   "code": 200,

@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-01T01:19:34.583Z"
+    "lastUpdate": "2026-02-01T05:18:33.330Z"
   },
   "data": [
     {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 1789,
+      "score": 1793,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
     },
     {
-      "id": 46820360,
-      "title": "Moltbook",
-      "link": "https://www.moltbook.com/",
-      "score": 1634,
-      "author": "teej",
-      "created": "2026-01-30 03:55:34",
-      "created_at": 1769745334000
-    },
-    {
-      "id": 46821774,
-      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-      "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "score": 716,
-      "author": "franczesko",
-      "created": "2026-01-30 08:09:41",
-      "created_at": 1769760581000
-    },
-    {
       "id": 46835336,
       "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
       "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-      "score": 708,
+      "score": 726,
       "author": "jamesblonde",
       "created": "2026-01-31 10:34:07",
       "created_at": 1769855647000
     },
     {
+      "id": 46821774,
+      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+      "link": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+      "score": 720,
+      "author": "franczesko",
+      "created": "2026-01-30 08:09:41",
+      "created_at": 1769760581000
+    },
+    {
       "id": 46820783,
       "title": "OpenClaw – Moltbot Renamed Again",
       "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 647,
+      "score": 653,
       "author": "ed",
       "created": "2026-01-30 05:14:48",
       "created_at": 1769750088000
@@ -55,10 +46,19 @@
       "id": 46824422,
       "title": "HTTP Cats",
       "link": "https://http.cat/",
-      "score": 554,
+      "score": 560,
       "author": "surprisetalk",
       "created": "2026-01-30 13:56:51",
       "created_at": 1769781411000
+    },
+    {
+      "id": 46838417,
+      "title": "Finland looks to introduce Australia-style ban on social media",
+      "link": "https://yle.fi/a/74-20207494",
+      "score": 544,
+      "author": "Teever",
+      "created": "2026-01-31 17:06:22",
+      "created_at": 1769879182000
     },
     {
       "id": 46821134,
@@ -70,10 +70,19 @@
       "created_at": 1769753976000
     },
     {
+      "id": 46838597,
+      "title": "Mobile carriers can get your GPS location",
+      "link": "https://an.dywa.ng/carrier-gnss.html",
+      "score": 526,
+      "author": "cbeuw",
+      "created": "2026-01-31 17:21:34",
+      "created_at": 1769880094000
+    },
+    {
       "id": 46822630,
       "title": "Surely the crash of the US economy has to be soon",
       "link": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
-      "score": 496,
+      "score": 502,
       "author": "Wilsoniumite",
       "created": "2026-01-30 10:14:23",
       "created_at": 1769768063000
@@ -86,15 +95,6 @@
       "author": "breve",
       "created": "2026-01-30 10:14:31",
       "created_at": 1769768071000
-    },
-    {
-      "id": 46838417,
-      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
-      "link": "https://yle.fi/a/74-20207494",
-      "score": 464,
-      "author": "Teever",
-      "created": "2026-01-31 17:06:22",
-      "created_at": 1769879182000
     }
   ],
   "code": 200,
