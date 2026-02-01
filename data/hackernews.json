@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-01T05:18:33.330Z"
+    "lastUpdate": "2026-02-01T08:20:31.460Z"
   },
   "data": [
     {
       "id": 46829147,
       "title": "Antirender: remove the glossy shine on architectural renderings",
       "link": "https://antirender.com/",
-      "score": 1793,
+      "score": 1799,
       "author": "iambateman",
       "created": "2026-01-30 20:05:24",
       "created_at": 1769803524000
@@ -19,7 +19,7 @@
       "id": 46835336,
       "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
       "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-      "score": 726,
+      "score": 733,
       "author": "jamesblonde",
       "created": "2026-01-31 10:34:07",
       "created_at": 1769855647000
@@ -34,55 +34,37 @@
       "created_at": 1769760581000
     },
     {
-      "id": 46820783,
-      "title": "OpenClaw – Moltbot Renamed Again",
-      "link": "https://openclaw.ai/blog/introducing-openclaw",
-      "score": 653,
-      "author": "ed",
-      "created": "2026-01-30 05:14:48",
-      "created_at": 1769750088000
-    },
-    {
-      "id": 46824422,
-      "title": "HTTP Cats",
-      "link": "https://http.cat/",
-      "score": 560,
-      "author": "surprisetalk",
-      "created": "2026-01-30 13:56:51",
-      "created_at": 1769781411000
-    },
-    {
-      "id": 46838417,
-      "title": "Finland looks to introduce Australia-style ban on social media",
-      "link": "https://yle.fi/a/74-20207494",
-      "score": 544,
-      "author": "Teever",
-      "created": "2026-01-31 17:06:22",
-      "created_at": 1769879182000
-    },
-    {
-      "id": 46821134,
-      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-      "link": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-      "score": 528,
-      "author": "vidyesh",
-      "created": "2026-01-30 06:19:36",
-      "created_at": 1769753976000
-    },
-    {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 526,
+      "score": 620,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
     },
     {
+      "id": 46838417,
+      "title": "Finland looks to introduce Australia-style ban on social media",
+      "link": "https://yle.fi/a/74-20207494",
+      "score": 590,
+      "author": "Teever",
+      "created": "2026-01-31 17:06:22",
+      "created_at": 1769879182000
+    },
+    {
+      "id": 46824422,
+      "title": "HTTP Cats",
+      "link": "https://http.cat/",
+      "score": 564,
+      "author": "surprisetalk",
+      "created": "2026-01-30 13:56:51",
+      "created_at": 1769781411000
+    },
+    {
       "id": 46822630,
       "title": "Surely the crash of the US economy has to be soon",
       "link": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
-      "score": 502,
+      "score": 503,
       "author": "Wilsoniumite",
       "created": "2026-01-30 10:14:23",
       "created_at": 1769768063000
@@ -91,10 +73,28 @@
       "id": 46822632,
       "title": "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",
       "link": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "score": 477,
+      "score": 478,
       "author": "breve",
       "created": "2026-01-30 10:14:31",
       "created_at": 1769768071000
+    },
+    {
+      "id": 46832074,
+      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+      "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "score": 445,
+      "author": "simedw",
+      "created": "2026-01-31 00:51:27",
+      "created_at": 1769820687000
+    },
+    {
+      "id": 46827003,
+      "title": "Microsoft 365 now tracks you in real time?",
+      "link": "https://ztechtalk.com/microsoft-teams",
+      "score": 375,
+      "author": "imalerba",
+      "created": "2026-01-30 17:12:39",
+      "created_at": 1769793159000
     }
   ],
   "code": 200,
