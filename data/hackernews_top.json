@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-01-31T20:14:13.664Z"
+    "lastUpdate": "2026-02-01T01:19:35.345Z"
   },
   "data": [
     {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 204,
+      "score": 418,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
     },
     {
-      "id": 46838981,
-      "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "link": "https://genode.org/about/index",
-      "score": 62,
-      "author": "doener",
-      "created": "2026-01-31 18:03:32",
-      "created_at": 1769882612000
+      "id": 46793313,
+      "title": "Scientist who helped eradicate smallpox dies at age 89",
+      "link": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "score": 63,
+      "author": "CrossVR",
+      "created": "2026-01-28 10:03:11",
+      "created_at": 1769594591000
     },
     {
-      "id": 46838417,
-      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
-      "link": "https://yle.fi/a/74-20207494",
-      "score": 188,
-      "author": "Teever",
-      "created": "2026-01-31 17:06:22",
-      "created_at": 1769879182000
+      "id": 46840924,
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "score": 59,
+      "author": "ColinWright",
+      "created": "2026-01-31 21:14:02",
+      "created_at": 1769894042000
     },
     {
       "id": 46840252,
       "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
       "link": "https://arxiv.org/abs/2512.21473",
-      "score": 3,
+      "score": 57,
       "author": "matt_d",
       "created": "2026-01-31 20:05:22",
       "created_at": 1769889922000
     },
     {
-      "id": 46764979,
-      "title": "Animated AVIF for the Modern Web",
-      "link": "https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/",
-      "score": 57,
-      "author": "sdoering",
-      "created": "2026-01-26 12:45:50",
-      "created_at": 1769431550000
+      "id": 46841374,
+      "title": "Swift is a more convenient Rust",
+      "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
+      "score": 179,
+      "author": "behnamoh",
+      "created": "2026-01-31 22:05:03",
+      "created_at": 1769897103000
     },
     {
-      "id": 46780086,
-      "title": "CPython Internals Explained",
-      "link": "https://github.com/zpoint/CPython-Internals",
-      "score": 108,
-      "author": "yufiz",
-      "created": "2026-01-27 14:07:37",
-      "created_at": 1769522857000
+      "id": 46829965,
+      "title": "Wikipedia: Sandbox",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:Sandbox",
+      "score": 49,
+      "author": "zaptrem",
+      "created": "2026-01-30 21:12:01",
+      "created_at": 1769807521000
     },
     {
-      "id": 46839743,
-      "title": "Death Note: L, Anonymity and Eluding Entropy (2011)",
-      "link": "https://gwern.net/death-note-anonymity",
-      "score": 24,
-      "author": "teej",
-      "created": "2026-01-31 19:11:34",
-      "created_at": 1769886694000
+      "id": 46840219,
+      "title": "The Saddest Moment (2013) [pdf]",
+      "link": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
+      "score": 66,
+      "author": "tosh",
+      "created": "2026-01-31 20:02:36",
+      "created_at": 1769889756000
     },
     {
-      "id": 46838635,
-      "title": "US has investigated claims WhatsApp chats aren't private",
-      "link": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
-      "score": 11,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-01-31 17:25:30",
-      "created_at": 1769880330000
+      "id": 46840698,
+      "title": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
+      "link": "https://github.com/zupat/related_post_gen",
+      "score": 41,
+      "author": "behnamoh",
+      "created": "2026-01-31 20:50:56",
+      "created_at": 1769892656000
     },
     {
-      "id": 46835612,
-      "title": "Guix System First Impressions as a Nix User",
-      "link": "https://nemin.hu/guix.html",
-      "score": 100,
-      "author": "todsacerdoti",
-      "created": "2026-01-31 11:22:24",
-      "created_at": 1769858544000
+      "id": 46840178,
+      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "link": "https://github.com/rtvkiz/minimal",
+      "score": 64,
+      "author": "ritvikarya98",
+      "created": "2026-01-31 19:58:00",
+      "created_at": 1769889480000
     },
     {
-      "id": 46835454,
-      "title": "\"Giving up upstream-ing my patches & feel free to pick them up\"",
-      "link": "https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html",
-      "score": 90,
-      "author": "csmantle",
-      "created": "2026-01-31 10:53:38",
-      "created_at": 1769856818000
+      "id": 46815209,
+      "title": "Ferrari vs. Markets",
+      "link": "https://ferrari-imports.enigmatechnologies.dev/",
+      "score": 31,
+      "author": "merinid",
+      "created": "2026-01-29 19:25:32",
+      "created_at": 1769714732000
     }
   ],
   "code": 200,
