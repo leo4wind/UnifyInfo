@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-01T20:14:39.933Z"
+    "lastUpdate": "2026-02-02T01:11:12.397Z"
   },
   "data": [
-    {
-      "id": 46829147,
-      "title": "Antirender: remove the glossy shine on architectural renderings",
-      "link": "https://antirender.com/",
-      "score": 1820,
-      "author": "iambateman",
-      "created": "2026-01-30 20:05:24",
-      "created_at": 1769803524000
-    },
     {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 821,
+      "score": 833,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
@@ -28,7 +19,7 @@
       "id": 46835336,
       "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
       "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-      "score": 776,
+      "score": 782,
       "author": "jamesblonde",
       "created": "2026-01-31 10:34:07",
       "created_at": 1769855647000
@@ -37,7 +28,7 @@
       "id": 46838417,
       "title": "Finland looks to introduce Australia-style ban on social media",
       "link": "https://yle.fi/a/74-20207494",
-      "score": 696,
+      "score": 708,
       "author": "Teever",
       "created": "2026-01-31 17:06:22",
       "created_at": 1769879182000
@@ -46,55 +37,64 @@
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "link": "https://netbird.io/",
-      "score": 561,
+      "score": 638,
       "author": "l1am0",
       "created": "2026-02-01 09:44:01",
       "created_at": 1769939041000
     },
     {
+      "id": 46848415,
+      "title": "I taught my neighbor to keep the volume down",
+      "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
+      "score": 503,
+      "author": "firefoxd",
+      "created": "2026-02-01 19:00:46",
+      "created_at": 1769972446000
+    },
+    {
       "id": 46832074,
       "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
       "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "score": 454,
+      "score": 458,
       "author": "simedw",
       "created": "2026-01-31 00:51:27",
       "created_at": 1769820687000
     },
     {
-      "id": 46829582,
-      "title": "Peerweb: Decentralized website hosting via WebTorrent",
-      "link": "https://peerweb.lol/",
-      "score": 369,
-      "author": "dtj1123",
-      "created": "2026-01-30 20:40:00",
-      "created_at": 1769805600000
+      "id": 46844822,
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "score": 345,
+      "author": "SatvikBeri",
+      "created": "2026-02-01 09:33:46",
+      "created_at": 1769938426000
     },
     {
-      "id": 46831702,
-      "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
-      "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
-      "score": 356,
-      "author": "pixelesque",
-      "created": "2026-01-31 00:02:30",
-      "created_at": 1769817750000
+      "id": 46842603,
+      "title": "List animals until failure",
+      "link": "https://rose.systems/animalist/",
+      "score": 325,
+      "author": "l1n",
+      "created": "2026-02-01 01:03:23",
+      "created_at": 1769907803000
     },
     {
       "id": 46841374,
       "title": "Swift is a more convenient Rust (2023)",
       "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
-      "score": 311,
+      "score": 314,
       "author": "behnamoh",
       "created": "2026-01-31 22:05:03",
       "created_at": 1769897103000
     },
     {
-      "id": 46829548,
-      "title": "Silver plunges 30% in worst day since 1980, gold tumbles",
-      "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
-      "score": 298,
-      "author": "pera",
-      "created": "2026-01-30 20:37:48",
-      "created_at": 1769805468000
+      "id": 46840612,
+      "title": "In praise of –dry-run",
+      "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "score": 286,
+      "author": "ingve",
+      "created": "2026-01-31 20:42:13",
+      "created_at": 1769892133000
     }
   ],
   "code": 200,
