@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-02T12:34:44.450Z"
+    "lastUpdate": "2026-02-02T16:25:43.029Z"
   },
   "data": [
     {
-      "id": 46854642,
-      "title": "Termux",
-      "link": "https://github.com/termux/termux-app",
-      "score": 27,
-      "author": "tosh",
-      "created": "2026-02-02 11:03:44",
-      "created_at": 1770030224000
+      "id": 46855447,
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "link": "https://neutree.ai/blog/nano-vllm-part-1",
+      "score": 103,
+      "author": "yz-yu",
+      "created": "2026-02-02 12:52:35",
+      "created_at": 1770036755000
     },
     {
-      "id": 46855003,
-      "title": "Applications where agents are first-class citizens",
-      "link": "https://every.to/guides/agent-native",
-      "score": 8,
-      "author": "chrisjj",
-      "created": "2026-02-02 11:59:32",
-      "created_at": 1770033572000
+      "id": 46855803,
+      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+      "link": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
+      "score": 40,
+      "author": "defrost",
+      "created": "2026-02-02 13:29:13",
+      "created_at": 1770038953000
     },
     {
-      "id": 46849567,
-      "title": "Defeating a 40-year-old copy protection dongle",
-      "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 627,
-      "author": "zdw",
-      "created": "2026-02-01 21:30:51",
-      "created_at": 1769981451000
+      "id": 46857488,
+      "title": "Ask HN: Who is hiring? (February 2026)",
+      "link": "",
+      "score": 17,
+      "author": "whoishiring",
+      "created": "2026-02-02 16:01:30",
+      "created_at": 1770048090000
     },
     {
-      "id": 46854951,
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "score": 36,
-      "author": "jsheard",
-      "created": "2026-02-02 11:52:29",
-      "created_at": 1770033149000
+      "id": 46820142,
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "link": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "score": 75,
+      "author": "indigodaddy",
+      "created": "2026-01-30 03:17:32",
+      "created_at": 1769743052000
     },
     {
       "id": 46854534,
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "title": "My fast zero-allocation webserver using OxCaml",
       "link": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "score": 8,
+      "score": 69,
       "author": "noelwelsh",
       "created": "2026-02-02 10:45:44",
       "created_at": 1770029144000
     },
     {
-      "id": 46852096,
-      "title": "Apple's MacBook Pro DFU port documentation is wrong",
-      "link": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "score": 125,
+      "id": 46849567,
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "score": 731,
       "author": "zdw",
-      "created": "2026-02-02 03:29:55",
-      "created_at": 1770002995000
+      "created": "2026-02-01 21:30:51",
+      "created_at": 1769981451000
     },
     {
-      "id": 46849258,
-      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-      "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 324,
-      "author": "rafaelcosta",
-      "created": "2026-02-01 20:51:56",
-      "created_at": 1769979116000
+      "id": 46856854,
+      "title": "Waymo Seeking About $16B Near $110B Valuation",
+      "link": "https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation",
+      "score": 64,
+      "author": "JumpCrisscross",
+      "created": "2026-02-02 15:08:52",
+      "created_at": 1770044932000
     },
     {
-      "id": 46845097,
-      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-      "link": "https://github.com/rustrum/apate",
-      "score": 7,
-      "author": "rumatoest",
-      "created": "2026-02-01 10:29:07",
-      "created_at": 1769941747000
+      "id": 46830026,
+      "title": "Hypergrowth isn’t always easy",
+      "link": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
+      "score": 54,
+      "author": "usrme",
+      "created": "2026-01-30 21:17:21",
+      "created_at": 1769807841000
     },
     {
-      "id": 46814340,
-      "title": "Ratchets in Software Development",
-      "link": "https://qntm.org/ratchet",
-      "score": 51,
-      "author": "nvader",
-      "created": "2026-01-29 18:31:48",
-      "created_at": 1769711508000
+      "id": 46854642,
+      "title": "Termux",
+      "link": "https://github.com/termux/termux-app",
+      "score": 237,
+      "author": "tosh",
+      "created": "2026-02-02 11:03:44",
+      "created_at": 1770030224000
     },
     {
-      "id": 46850803,
-      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
-      "link": "https://xikipedia.org",
-      "score": 262,
-      "author": "rebane2001",
-      "created": "2026-02-02 00:12:19",
-      "created_at": 1769991139000
+      "id": 46854999,
+      "title": "Claude Code is suddenly everywhere inside Microsoft",
+      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "score": 146,
+      "author": "Anon84",
+      "created": "2026-02-02 11:58:58",
+      "created_at": 1770033538000
     }
   ],
   "code": 200,
