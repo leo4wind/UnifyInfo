@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-02T01:11:12.397Z"
+    "lastUpdate": "2026-02-02T05:19:40.193Z"
   },
   "data": [
     {
       "id": 46838597,
       "title": "Mobile carriers can get your GPS location",
       "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 833,
+      "score": 845,
       "author": "cbeuw",
       "created": "2026-01-31 17:21:34",
       "created_at": 1769880094000
@@ -19,7 +19,7 @@
       "id": 46835336,
       "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
       "link": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-      "score": 782,
+      "score": 785,
       "author": "jamesblonde",
       "created": "2026-01-31 10:34:07",
       "created_at": 1769855647000
@@ -28,7 +28,7 @@
       "id": 46838417,
       "title": "Finland looks to introduce Australia-style ban on social media",
       "link": "https://yle.fi/a/74-20207494",
-      "score": 708,
+      "score": 716,
       "author": "Teever",
       "created": "2026-01-31 17:06:22",
       "created_at": 1769879182000
@@ -37,43 +37,52 @@
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "link": "https://netbird.io/",
-      "score": 638,
+      "score": 660,
       "author": "l1am0",
       "created": "2026-02-01 09:44:01",
       "created_at": 1769939041000
     },
     {
       "id": 46848415,
-      "title": "I taught my neighbor to keep the volume down",
+      "title": "Teaching my neighbor to keep the volume down",
       "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 503,
+      "score": 616,
       "author": "firefoxd",
       "created": "2026-02-01 19:00:46",
       "created_at": 1769972446000
     },
     {
-      "id": 46832074,
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "score": 458,
-      "author": "simedw",
-      "created": "2026-01-31 00:51:27",
-      "created_at": 1769820687000
+      "id": 46851548,
+      "title": "Notepad++ hijacked by state-sponsored actors",
+      "link": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
+      "score": 437,
+      "author": "mysterydip",
+      "created": "2026-02-02 01:59:56",
+      "created_at": 1769997596000
     },
     {
       "id": 46844822,
       "title": "What I learned building an opinionated and minimal coding agent",
       "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 345,
+      "score": 367,
       "author": "SatvikBeri",
       "created": "2026-02-01 09:33:46",
       "created_at": 1769938426000
     },
     {
+      "id": 46849567,
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "score": 344,
+      "author": "zdw",
+      "created": "2026-02-01 21:30:51",
+      "created_at": 1769981451000
+    },
+    {
       "id": 46842603,
       "title": "List animals until failure",
       "link": "https://rose.systems/animalist/",
-      "score": 325,
+      "score": 333,
       "author": "l1n",
       "created": "2026-02-01 01:03:23",
       "created_at": 1769907803000
@@ -82,19 +91,10 @@
       "id": 46841374,
       "title": "Swift is a more convenient Rust (2023)",
       "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
-      "score": 314,
+      "score": 315,
       "author": "behnamoh",
       "created": "2026-01-31 22:05:03",
       "created_at": 1769897103000
-    },
-    {
-      "id": 46840612,
-      "title": "In praise of –dry-run",
-      "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
-      "score": 286,
-      "author": "ingve",
-      "created": "2026-01-31 20:42:13",
-      "created_at": 1769892133000
     }
   ],
   "code": 200,

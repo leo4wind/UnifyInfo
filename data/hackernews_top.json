@@ -3,32 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-02T01:11:12.532Z"
+    "lastUpdate": "2026-02-02T05:19:40.273Z"
   },
   "data": [
     {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 203,
+      "score": 344,
       "author": "zdw",
       "created": "2026-02-01 21:30:51",
       "created_at": 1769981451000
     },
     {
+      "id": 46851548,
+      "title": "Notepad++ hijacked by state-sponsored actors",
+      "link": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
+      "score": 437,
+      "author": "mysterydip",
+      "created": "2026-02-02 01:59:56",
+      "created_at": 1769997596000
+    },
+    {
       "id": 46850205,
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "link": "https://github.com/gavrielc/nanoclaw",
-      "score": 135,
+      "score": 258,
       "author": "jimminyx",
       "created": "2026-02-01 22:49:22",
       "created_at": 1769986162000
     },
     {
+      "id": 46851192,
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "link": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "score": 40,
+      "author": "kioku",
+      "created": "2026-02-02 01:11:15",
+      "created_at": 1769994675000
+    },
+    {
       "id": 46847780,
       "title": "Apple I Advertisement (1976)",
       "link": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 172,
+      "score": 201,
       "author": "janandonly",
       "created": "2026-02-01 17:36:57",
       "created_at": 1769967417000
@@ -37,64 +55,46 @@
       "id": 46849258,
       "title": "My thousand dollar iPhone can't do math",
       "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 122,
+      "score": 201,
       "author": "rafaelcosta",
       "created": "2026-02-01 20:51:56",
       "created_at": 1769979116000
     },
     {
-      "id": 46844870,
-      "title": "Netbird – Open Source Zero Trust Networking",
-      "link": "https://netbird.io/",
-      "score": 638,
-      "author": "l1am0",
-      "created": "2026-02-01 09:44:01",
-      "created_at": 1769939041000
+      "id": 46844466,
+      "title": "Contracts in Nix",
+      "link": "https://sraka.xyz/posts/contracts.html",
+      "score": 10,
+      "author": "todsacerdoti",
+      "created": "2026-02-01 08:15:21",
+      "created_at": 1769933721000
     },
     {
       "id": 46846252,
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "link": "https://www.adventuregamestudio.co.uk/",
-      "score": 260,
+      "score": 287,
       "author": "doener",
       "created": "2026-02-01 13:56:56",
       "created_at": 1769954216000
     },
     {
+      "id": 46850803,
+      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "link": "https://xikipedia.org",
+      "score": 69,
+      "author": "rebane2001",
+      "created": "2026-02-02 00:12:19",
+      "created_at": 1769991139000
+    },
+    {
       "id": 46849926,
       "title": "Treasures found on HS2 route stored in secret warehouse",
       "link": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "score": 9,
+      "score": 40,
       "author": "breve",
       "created": "2026-02-01 22:14:39",
       "created_at": 1769984079000
-    },
-    {
-      "id": 46848415,
-      "title": "I taught my neighbor to keep the volume down",
-      "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 503,
-      "author": "firefoxd",
-      "created": "2026-02-01 19:00:46",
-      "created_at": 1769972446000
-    },
-    {
-      "id": 46826011,
-      "title": "Efficient String Compression for Modern Database Systems",
-      "link": "https://cedardb.com/blog/string_compression/",
-      "score": 78,
-      "author": "jandrewrogers",
-      "created": "2026-01-30 16:02:53",
-      "created_at": 1769788973000
-    },
-    {
-      "id": 46814581,
-      "title": "Founding is a snowball",
-      "link": "https://blog.bawolf.com/p/founding-is-a-snowball",
-      "score": 25,
-      "author": "bryantwolf",
-      "created": "2026-01-29 18:46:33",
-      "created_at": 1769712393000
     }
   ],
   "code": 200,
