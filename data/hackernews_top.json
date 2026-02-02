@@ -3,23 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-02T08:31:14.429Z"
+    "lastUpdate": "2026-02-02T12:34:43.582Z"
   },
   "data": [
+    {
+      "id": 46854642,
+      "title": "Termux",
+      "link": "https://github.com/termux/termux-app",
+      "score": 27,
+      "author": "tosh",
+      "created": "2026-02-02 11:03:44",
+      "created_at": 1770030224000
+    },
+    {
+      "id": 46855003,
+      "title": "Applications where agents are first-class citizens",
+      "link": "https://every.to/guides/agent-native",
+      "score": 8,
+      "author": "chrisjj",
+      "created": "2026-02-02 11:59:32",
+      "created_at": 1770033572000
+    },
     {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 469,
+      "score": 627,
       "author": "zdw",
       "created": "2026-02-01 21:30:51",
       "created_at": 1769981451000
     },
     {
+      "id": 46854951,
+      "title": "Microsoft is walking back Windows 11's AI overload",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+      "score": 36,
+      "author": "jsheard",
+      "created": "2026-02-02 11:52:29",
+      "created_at": 1770033149000
+    },
+    {
+      "id": 46854534,
+      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "score": 8,
+      "author": "noelwelsh",
+      "created": "2026-02-02 10:45:44",
+      "created_at": 1770029144000
+    },
+    {
       "id": 46852096,
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "link": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "score": 73,
+      "score": 125,
       "author": "zdw",
       "created": "2026-02-02 03:29:55",
       "created_at": 1770002995000
@@ -28,73 +64,37 @@
       "id": 46849258,
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
       "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 265,
+      "score": 324,
       "author": "rafaelcosta",
       "created": "2026-02-01 20:51:56",
       "created_at": 1769979116000
     },
     {
-      "id": 46850205,
-      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-      "link": "https://github.com/gavrielc/nanoclaw",
-      "score": 335,
-      "author": "jimminyx",
-      "created": "2026-02-01 22:49:22",
-      "created_at": 1769986162000
+      "id": 46845097,
+      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
+      "link": "https://github.com/rustrum/apate",
+      "score": 7,
+      "author": "rumatoest",
+      "created": "2026-02-01 10:29:07",
+      "created_at": 1769941747000
+    },
+    {
+      "id": 46814340,
+      "title": "Ratchets in Software Development",
+      "link": "https://qntm.org/ratchet",
+      "score": 51,
+      "author": "nvader",
+      "created": "2026-01-29 18:31:48",
+      "created_at": 1769711508000
     },
     {
       "id": 46850803,
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
       "link": "https://xikipedia.org",
-      "score": 147,
+      "score": 262,
       "author": "rebane2001",
       "created": "2026-02-02 00:12:19",
       "created_at": 1769991139000
-    },
-    {
-      "id": 46851192,
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "link": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "score": 67,
-      "author": "kioku",
-      "created": "2026-02-02 01:11:15",
-      "created_at": 1769994675000
-    },
-    {
-      "id": 46847780,
-      "title": "Apple I Advertisement (1976)",
-      "link": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "score": 221,
-      "author": "janandonly",
-      "created": "2026-02-01 17:36:57",
-      "created_at": 1769967417000
-    },
-    {
-      "id": 46844466,
-      "title": "Contracts in Nix",
-      "link": "https://sraka.xyz/posts/contracts.html",
-      "score": 38,
-      "author": "todsacerdoti",
-      "created": "2026-02-01 08:15:21",
-      "created_at": 1769933721000
-    },
-    {
-      "id": 46846252,
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "link": "https://www.adventuregamestudio.co.uk/",
-      "score": 308,
-      "author": "doener",
-      "created": "2026-02-01 13:56:56",
-      "created_at": 1769954216000
-    },
-    {
-      "id": 46849926,
-      "title": "Treasures found on HS2 route stored in secret warehouse",
-      "link": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "score": 56,
-      "author": "breve",
-      "created": "2026-02-01 22:14:39",
-      "created_at": 1769984079000
     }
   ],
   "code": 200,
