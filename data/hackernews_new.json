@@ -3,50 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-03T05:10:49.294Z"
+    "lastUpdate": "2026-02-03T08:26:33.953Z"
   },
   "data": [
     {
       "id": 46866544,
       "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "score": 19,
+      "score": 104,
       "author": "GalaxySnail",
       "created": "2026-02-03 04:33:25",
       "created_at": 1770093205000
     },
     {
-      "id": 46864498,
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "score": 136,
-      "author": "salkahfi",
-      "created": "2026-02-03 00:28:06",
-      "created_at": 1770078486000
-    },
-    {
       "id": 46859054,
       "title": "The Codex App",
       "link": "https://openai.com/index/introducing-the-codex-app/",
-      "score": 583,
+      "score": 647,
       "author": "meetpateltech",
       "created": "2026-02-02 18:02:48",
       "created_at": 1770055368000
     },
     {
+      "id": 46864498,
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "score": 172,
+      "author": "salkahfi",
+      "created": "2026-02-03 00:28:06",
+      "created_at": 1770078486000
+    },
+    {
       "id": 46861313,
       "title": "Anki ownership transferred to AnkiHub",
       "link": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "score": 298,
+      "score": 361,
       "author": "trms",
       "created": "2026-02-02 20:48:55",
       "created_at": 1770065335000
     },
     {
+      "id": 46866481,
+      "title": "Coding assistants are solving the wrong problem",
+      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "score": 94,
+      "author": "jinhkuan",
+      "created": "2026-02-03 04:25:35",
+      "created_at": 1770092735000
+    },
+    {
       "id": 46861842,
       "title": "GitHub experience various partial-outages/degradations",
       "link": "https://www.githubstatus.com?todayis=2026-02-02",
-      "score": 176,
+      "score": 205,
       "author": "bhouston",
       "created": "2026-02-02 21:28:16",
       "created_at": 1770067696000
@@ -55,7 +64,7 @@
       "id": 46858577,
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
       "link": "https://www.millert.dev/",
-      "score": 346,
+      "score": 408,
       "author": "wodniok",
       "created": "2026-02-02 17:25:26",
       "created_at": 1770053126000
@@ -64,7 +73,7 @@
       "id": 46829029,
       "title": "See how many words you have written in Hacker News comments",
       "link": "https://serjaimelannister.github.io/hn-words/",
-      "score": 25,
+      "score": 58,
       "author": "Imustaskforhelp",
       "created": "2026-01-30 19:54:52",
       "created_at": 1769802892000
@@ -73,7 +82,7 @@
       "id": 46822177,
       "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
       "link": "https://tamikothiel.com/cm/cm-tshirt.html",
-      "score": 58,
+      "score": 72,
       "author": "tosh",
       "created": "2026-01-30 09:10:48",
       "created_at": 1769764248000
@@ -82,19 +91,10 @@
       "id": 46862170,
       "title": "xAI joins SpaceX",
       "link": "https://www.spacex.com/updates#xai-joins-spacex",
-      "score": 583,
+      "score": 663,
       "author": "g-mork",
       "created": "2026-02-02 21:51:22",
       "created_at": 1770069082000
-    },
-    {
-      "id": 46847660,
-      "title": "50 years ago, a young Bill Gates took on the 'software pirates'",
-      "link": "https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/",
-      "score": 9,
-      "author": "MilnerRoute",
-      "created": "2026-02-01 17:21:50",
-      "created_at": 1769966510000
     }
   ],
   "code": 200,
