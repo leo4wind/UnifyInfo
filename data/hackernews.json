@@ -3,59 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-02T16:25:42.888Z"
+    "lastUpdate": "2026-02-03T01:12:08.594Z"
   },
   "data": [
-    {
-      "id": 46838597,
-      "title": "Mobile carriers can get your GPS location",
-      "link": "https://an.dywa.ng/carrier-gnss.html",
-      "score": 862,
-      "author": "cbeuw",
-      "created": "2026-01-31 17:21:34",
-      "created_at": 1769880094000
-    },
     {
       "id": 46851548,
       "title": "Notepad++ hijacked by state-sponsored actors",
       "link": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
-      "score": 769,
+      "score": 862,
       "author": "mysterydip",
       "created": "2026-02-02 01:59:56",
       "created_at": 1769997596000
     },
     {
-      "id": 46848415,
-      "title": "Teaching my neighbor to keep the volume down",
-      "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-      "score": 756,
-      "author": "firefoxd",
-      "created": "2026-02-01 19:00:46",
-      "created_at": 1769972446000
-    },
-    {
       "id": 46849567,
       "title": "Defeating a 40-year-old copy protection dongle",
       "link": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "score": 731,
+      "score": 817,
       "author": "zdw",
       "created": "2026-02-01 21:30:51",
       "created_at": 1769981451000
     },
     {
-      "id": 46838417,
-      "title": "Finland looks to introduce Australia-style ban on social media",
-      "link": "https://yle.fi/a/74-20207494",
-      "score": 728,
-      "author": "Teever",
-      "created": "2026-01-31 17:06:22",
-      "created_at": 1769879182000
+      "id": 46848415,
+      "title": "Teaching my neighbor to keep the volume down",
+      "link": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
+      "score": 795,
+      "author": "firefoxd",
+      "created": "2026-02-01 19:00:46",
+      "created_at": 1769972446000
     },
     {
       "id": 46844870,
       "title": "Netbird – Open Source Zero Trust Networking",
       "link": "https://netbird.io/",
-      "score": 703,
+      "score": 716,
       "author": "l1am0",
       "created": "2026-02-01 09:44:01",
       "created_at": 1769939041000
@@ -64,37 +46,55 @@
       "id": 46850205,
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "link": "https://github.com/gavrielc/nanoclaw",
-      "score": 460,
+      "score": 496,
       "author": "jimminyx",
       "created": "2026-02-01 22:49:22",
       "created_at": 1769986162000
     },
     {
-      "id": 46844822,
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "score": 392,
-      "author": "SatvikBeri",
-      "created": "2026-02-01 09:33:46",
-      "created_at": 1769938426000
+      "id": 46859054,
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "score": 495,
+      "author": "meetpateltech",
+      "created": "2026-02-02 18:02:48",
+      "created_at": 1770055368000
     },
     {
       "id": 46849258,
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
       "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "score": 381,
+      "score": 413,
       "author": "rafaelcosta",
       "created": "2026-02-01 20:51:56",
       "created_at": 1769979116000
     },
     {
-      "id": 46846252,
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "link": "https://www.adventuregamestudio.co.uk/",
-      "score": 371,
-      "author": "doener",
-      "created": "2026-02-01 13:56:56",
-      "created_at": 1769954216000
+      "id": 46850803,
+      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "link": "https://xikipedia.org",
+      "score": 405,
+      "author": "rebane2001",
+      "created": "2026-02-02 00:12:19",
+      "created_at": 1769991139000
+    },
+    {
+      "id": 46844822,
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "score": 399,
+      "author": "SatvikBeri",
+      "created": "2026-02-01 09:33:46",
+      "created_at": 1769938426000
+    },
+    {
+      "id": 46862170,
+      "title": "xAI joins SpaceX",
+      "link": "https://www.spacex.com/updates#xai-joins-spacex",
+      "score": 395,
+      "author": "g-mork",
+      "created": "2026-02-02 21:51:22",
+      "created_at": 1770069082000
     }
   ],
   "code": 200,
