@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-03T16:40:35.616Z"
+    "lastUpdate": "2026-02-03T20:25:20.705Z"
   },
   "data": [
-    {
-      "id": 46871173,
-      "title": "Agent Skills",
-      "link": "https://agentskills.io/home",
-      "score": 156,
-      "author": "mooreds",
-      "created": "2026-02-03 14:09:54",
-      "created_at": 1770127794000
-    },
     {
       "id": 46872706,
       "title": "Qwen3-Coder-Next",
       "link": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "score": 75,
+      "score": 421,
       "author": "danielhanchen",
       "created": "2026-02-03 16:01:50",
       "created_at": 1770134510000
     },
     {
+      "id": 46874097,
+      "title": "Deno Sandbox",
+      "link": "https://deno.com/blog/introducing-deno-sandbox",
+      "score": 168,
+      "author": "johnspurlock",
+      "created": "2026-02-03 17:33:20",
+      "created_at": 1770140000000
+    },
+    {
+      "id": 46874619,
+      "title": "Xcode 26.3 unlocks the power of agentic coding",
+      "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "score": 146,
+      "author": "davidbarker",
+      "created": "2026-02-03 18:04:08",
+      "created_at": 1770141848000
+    },
+    {
+      "id": 46875228,
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "link": "https://github.com/alibaba/AliSQL",
+      "score": 51,
+      "author": "baotiao",
+      "created": "2026-02-03 18:40:18",
+      "created_at": 1770144018000
+    },
+    {
+      "id": 46871173,
+      "title": "Agent Skills",
+      "link": "https://agentskills.io/home",
+      "score": 287,
+      "author": "mooreds",
+      "created": "2026-02-03 14:09:54",
+      "created_at": 1770127794000
+    },
+    {
+      "id": 46873138,
+      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+      "link": "https://github.com/j178/prek",
+      "score": 120,
+      "author": "fortuitous-frog",
+      "created": "2026-02-03 16:29:34",
+      "created_at": 1770136174000
+    },
+    {
+      "id": 46873294,
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "link": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "score": 408,
+      "author": "AareyBaba",
+      "created": "2026-02-03 16:39:18",
+      "created_at": 1770136758000
+    },
+    {
       "id": 46868759,
       "title": "What's up with all those equals signs anyway?",
       "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-      "score": 397,
+      "score": 518,
       "author": "todsacerdoti",
       "created": "2026-02-03 09:37:40",
       "created_at": 1770111460000
     },
     {
-      "id": 46872540,
-      "title": "New York Wants to Ctrl+Alt+Delete Your 3D Printer",
-      "link": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-      "score": 61,
-      "author": "ptorrone",
-      "created": "2026-02-03 15:51:42",
-      "created_at": 1770133902000
+      "id": 46833534,
+      "title": "Puget Systems Most Reliable Hardware of 2025",
+      "link": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
+      "score": 26,
+      "author": "zdw",
+      "created": "2026-01-31 04:34:25",
+      "created_at": 1769834065000
     },
     {
       "id": 46872733,
       "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
       "link": "",
-      "score": 7,
+      "score": 38,
       "author": "eduardpi",
       "created": "2026-02-03 16:03:21",
       "created_at": 1770134601000
-    },
-    {
-      "id": 46845650,
-      "title": "Heritability of intrinsic human life span is about 50%",
-      "link": "https://www.science.org/doi/10.1126/science.adz1187",
-      "score": 51,
-      "author": "XzetaU8",
-      "created": "2026-02-01 12:13:22",
-      "created_at": 1769948002000
-    },
-    {
-      "id": 46871473,
-      "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
-      "link": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
-      "score": 24,
-      "author": "rbbydotdev",
-      "created": "2026-02-03 14:35:25",
-      "created_at": 1770129325000
-    },
-    {
-      "id": 46870015,
-      "title": "Bunny Database",
-      "link": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-      "score": 84,
-      "author": "dabinat",
-      "created": "2026-02-03 12:13:44",
-      "created_at": 1770120824000
-    },
-    {
-      "id": 46870917,
-      "title": "Show HN: difi – A Git diff TUI with Neovim integration (written in Go)",
-      "link": "https://github.com/oug-t/difi",
-      "score": 27,
-      "author": "oug-t",
-      "created": "2026-02-03 13:47:24",
-      "created_at": 1770126444000
-    },
-    {
-      "id": 46871179,
-      "title": "Ask HN: Is there anyone here who still uses slide rules?",
-      "link": "",
-      "score": 75,
-      "author": "blenderob",
-      "created": "2026-02-03 14:10:21",
-      "created_at": 1770127821000
     }
   ],
   "code": 200,
