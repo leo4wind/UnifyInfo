@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-03T08:26:33.953Z"
+    "lastUpdate": "2026-02-03T12:35:14.244Z"
   },
   "data": [
+    {
+      "id": 46868759,
+      "title": "What's up with all those equals signs anyway?",
+      "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "score": 165,
+      "author": "todsacerdoti",
+      "created": "2026-02-03 09:37:40",
+      "created_at": 1770111460000
+    },
     {
       "id": 46866544,
       "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "score": 104,
+      "score": 167,
       "author": "GalaxySnail",
       "created": "2026-02-03 04:33:25",
       "created_at": 1770093205000
     },
     {
+      "id": 46868675,
+      "title": "Rentahuman – The Meatspace Layer for AI",
+      "link": "https://rentahuman.ai",
+      "score": 40,
+      "author": "p0nce",
+      "created": "2026-02-03 09:30:07",
+      "created_at": 1770111007000
+    },
+    {
+      "id": 46867947,
+      "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+      "link": "https://github.com/whispem/minikv",
+      "score": 12,
+      "author": "whispem",
+      "created": "2026-02-03 08:00:19",
+      "created_at": 1770105619000
+    },
+    {
       "id": 46859054,
       "title": "The Codex App",
       "link": "https://openai.com/index/introducing-the-codex-app/",
-      "score": 647,
+      "score": 699,
       "author": "meetpateltech",
       "created": "2026-02-02 18:02:48",
       "created_at": 1770055368000
     },
     {
-      "id": 46864498,
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "score": 172,
-      "author": "salkahfi",
-      "created": "2026-02-03 00:28:06",
-      "created_at": 1770078486000
+      "id": 46868318,
+      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+      "link": "https://github.com/KrystianJonca/lnai",
+      "score": 33,
+      "author": "iamkrystian17",
+      "created": "2026-02-03 08:45:57",
+      "created_at": 1770108357000
     },
     {
       "id": 46861313,
       "title": "Anki ownership transferred to AnkiHub",
       "link": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "score": 361,
+      "score": 442,
       "author": "trms",
       "created": "2026-02-02 20:48:55",
       "created_at": 1770065335000
     },
     {
-      "id": 46866481,
-      "title": "Coding assistants are solving the wrong problem",
-      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "score": 94,
-      "author": "jinhkuan",
-      "created": "2026-02-03 04:25:35",
-      "created_at": 1770092735000
-    },
-    {
-      "id": 46861842,
-      "title": "GitHub experience various partial-outages/degradations",
-      "link": "https://www.githubstatus.com?todayis=2026-02-02",
-      "score": 205,
-      "author": "bhouston",
-      "created": "2026-02-02 21:28:16",
-      "created_at": 1770067696000
+      "id": 46864498,
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "score": 201,
+      "author": "salkahfi",
+      "created": "2026-02-03 00:28:06",
+      "created_at": 1770078486000
     },
     {
       "id": 46858577,
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
       "link": "https://www.millert.dev/",
-      "score": 408,
+      "score": 489,
       "author": "wodniok",
       "created": "2026-02-02 17:25:26",
       "created_at": 1770053126000
-    },
-    {
-      "id": 46829029,
-      "title": "See how many words you have written in Hacker News comments",
-      "link": "https://serjaimelannister.github.io/hn-words/",
-      "score": 58,
-      "author": "Imustaskforhelp",
-      "created": "2026-01-30 19:54:52",
-      "created_at": 1769802892000
-    },
-    {
-      "id": 46822177,
-      "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
-      "link": "https://tamikothiel.com/cm/cm-tshirt.html",
-      "score": 72,
-      "author": "tosh",
-      "created": "2026-01-30 09:10:48",
-      "created_at": 1769764248000
-    },
-    {
-      "id": 46862170,
-      "title": "xAI joins SpaceX",
-      "link": "https://www.spacex.com/updates#xai-joins-spacex",
-      "score": 663,
-      "author": "g-mork",
-      "created": "2026-02-02 21:51:22",
-      "created_at": 1770069082000
     }
   ],
   "code": 200,
