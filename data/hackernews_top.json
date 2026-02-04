@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-04T01:07:09.117Z"
+    "lastUpdate": "2026-02-04T05:04:26.236Z"
   },
   "data": [
+    {
+      "id": 46881264,
+      "title": "I miss thinking hard",
+      "link": "https://www.jernesto.com/articles/thinking_hard",
+      "score": 87,
+      "author": "jernestomg",
+      "created": "2026-02-04 03:54:11",
+      "created_at": 1770177251000
+    },
     {
       "id": 46848876,
       "title": "Lessons learned shipping 500 units of my first hardware product",
       "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-      "score": 250,
+      "score": 443,
       "author": "sberens",
       "created": "2026-02-01 20:01:00",
       "created_at": 1769976060000
@@ -19,7 +28,7 @@
       "id": 46876105,
       "title": "Data centers in space makes no sense",
       "link": "https://civai.org/blog/space-data-centers",
-      "score": 156,
+      "score": 375,
       "author": "ajyoon",
       "created": "2026-02-03 19:37:30",
       "created_at": 1770147450000
@@ -28,73 +37,64 @@
       "id": 46847690,
       "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
       "link": "https://github.com/puemos/craftplan",
-      "score": 47,
+      "score": 179,
       "author": "deofoo",
       "created": "2026-02-01 17:25:39",
       "created_at": 1769966739000
     },
     {
+      "id": 46813029,
+      "title": "The largest zip tie is nearly 4 feet long and $75",
+      "link": "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75",
+      "score": 50,
+      "author": "PaulHoule",
+      "created": "2026-01-29 17:08:20",
+      "created_at": 1769706500000
+    },
+    {
       "id": 46874097,
       "title": "Deno Sandbox",
       "link": "https://deno.com/blog/introducing-deno-sandbox",
-      "score": 317,
+      "score": 365,
       "author": "johnspurlock",
       "created": "2026-02-03 17:33:20",
       "created_at": 1770140000000
     },
     {
+      "id": 46846101,
+      "title": "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
+      "link": "https://banteg.xyz/posts/crimsonland/",
+      "score": 70,
+      "author": "banteg",
+      "created": "2026-02-01 13:32:58",
+      "created_at": 1769952778000
+    },
+    {
       "id": 46874619,
       "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
       "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "score": 225,
+      "score": 270,
       "author": "davidbarker",
       "created": "2026-02-03 18:04:08",
       "created_at": 1770141848000
     },
     {
-      "id": 46877403,
-      "title": "FlashAttention-T: Towards Tensorized Attention",
-      "link": "https://dl.acm.org/doi/10.1145/3774934.3786425",
-      "score": 67,
-      "author": "matt_d",
-      "created": "2026-02-03 21:15:48",
-      "created_at": 1770153348000
-    },
-    {
-      "id": 46875228,
-      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-      "link": "https://github.com/alibaba/AliSQL",
-      "score": 138,
-      "author": "baotiao",
-      "created": "2026-02-03 18:40:18",
-      "created_at": 1770144018000
-    },
-    {
-      "id": 46878338,
-      "title": "Notepad++ supply chain attack breakdown",
-      "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
-      "score": 148,
-      "author": "natebc",
-      "created": "2026-02-03 22:35:27",
-      "created_at": 1770158127000
-    },
-    {
       "id": 46871173,
       "title": "Agent Skills",
       "link": "https://agentskills.io/home",
-      "score": 365,
+      "score": 407,
       "author": "mooreds",
       "created": "2026-02-03 14:09:54",
       "created_at": 1770127794000
     },
     {
-      "id": 46822717,
-      "title": "1,400-year-old tomb featuring giant owl sculpture discovered in Mexico",
-      "link": "https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl",
-      "score": 44,
-      "author": "breve",
-      "created": "2026-01-30 10:26:54",
-      "created_at": 1769768814000
+      "id": 46872540,
+      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+      "link": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+      "score": 318,
+      "author": "ptorrone",
+      "created": "2026-02-03 15:51:42",
+      "created_at": 1770133902000
     }
   ],
   "code": 200,
