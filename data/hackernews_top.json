@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-04T12:35:46.432Z"
+    "lastUpdate": "2026-02-04T16:34:34.225Z"
   },
   "data": [
     {
-      "id": 46881264,
-      "title": "I miss thinking hard",
-      "link": "https://www.jernesto.com/articles/thinking_hard",
-      "score": 713,
-      "author": "jernestomg",
-      "created": "2026-02-04 03:54:11",
-      "created_at": 1770177251000
+      "id": 46886735,
+      "title": "Voxtral Transcribe 2",
+      "link": "https://mistral.ai/news/voxtral-transcribe-2",
+      "score": 95,
+      "author": "meetpateltech",
+      "created": "2026-02-04 15:08:17",
+      "created_at": 1770217697000
+    },
+    {
+      "id": 46886265,
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "link": "https://arxiv.org/abs/2602.00294",
+      "score": 64,
+      "author": "fheinsen",
+      "created": "2026-02-04 14:33:33",
+      "created_at": 1770215613000
+    },
+    {
+      "id": 46872465,
+      "title": "A sane but bull case on Clawdbot / OpenClaw",
+      "link": "https://brandon.wang/2026/clawdbot",
+      "score": 107,
+      "author": "brdd",
+      "created": "2026-02-03 15:47:10",
+      "created_at": 1770133630000
+    },
+    {
+      "id": 46886440,
+      "title": "A case study in PDF forensics: The Epstein PDFs",
+      "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+      "score": 80,
+      "author": "DuffJohnson",
+      "created": "2026-02-04 14:46:46",
+      "created_at": 1770216406000
+    },
+    {
+      "id": 46877278,
+      "title": "Tractor",
+      "link": "https://incoherency.co.uk/blog/stories/tractor.html",
+      "score": 22,
+      "author": "surprisetalk",
+      "created": "2026-02-03 21:04:59",
+      "created_at": 1770152699000
     },
     {
       "id": 46876105,
       "title": "Data centers in space makes no sense",
       "link": "https://civai.org/blog/space-data-centers",
-      "score": 712,
+      "score": 901,
       "author": "ajyoon",
       "created": "2026-02-03 19:37:30",
       "created_at": 1770147450000
     },
     {
-      "id": 46882389,
-      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-      "link": "https://github.com/bethington/ghidra-mcp",
-      "score": 108,
-      "author": "xerzes",
-      "created": "2026-02-04 06:51:51",
-      "created_at": 1770187911000
+      "id": 46886237,
+      "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+      "link": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+      "score": 290,
+      "author": "robin_reala",
+      "created": "2026-02-04 14:31:32",
+      "created_at": 1770215492000
+    },
+    {
+      "id": 46886191,
+      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "link": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
+      "score": 78,
+      "author": "bookofjoe",
+      "created": "2026-02-04 14:27:05",
+      "created_at": 1770215225000
     },
     {
       "id": 46848876,
       "title": "Lessons learned shipping 500 units of my first hardware product",
       "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-      "score": 650,
+      "score": 730,
       "author": "sberens",
       "created": "2026-02-01 20:01:00",
       "created_at": 1769976060000
     },
     {
-      "id": 46840558,
-      "title": "Brazilian Micro-SaaS Map",
-      "link": "https://saas-map.ssr.trapiche.cloud/",
-      "score": 15,
-      "author": "acfilho",
-      "created": "2026-01-31 20:35:51",
-      "created_at": 1769891751000
-    },
-    {
-      "id": 46847690,
-      "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-      "link": "https://github.com/puemos/craftplan",
-      "score": 390,
-      "author": "deofoo",
-      "created": "2026-02-01 17:25:39",
-      "created_at": 1769966739000
-    },
-    {
-      "id": 46834810,
-      "title": "The Mathematics of Tuning Systems",
-      "link": "https://math.ucr.edu/home/baez/tuning_talk/",
-      "score": 32,
-      "author": "u1hcw9nx",
-      "created": "2026-01-31 09:04:08",
-      "created_at": 1769850248000
-    },
-    {
-      "id": 46872540,
-      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
-      "link": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-      "score": 478,
-      "author": "ptorrone",
-      "created": "2026-02-03 15:51:42",
-      "created_at": 1770133902000
-    },
-    {
-      "id": 46874097,
-      "title": "Deno Sandbox",
-      "link": "https://deno.com/blog/introducing-deno-sandbox",
-      "score": 464,
-      "author": "johnspurlock",
-      "created": "2026-02-03 17:33:20",
-      "created_at": 1770140000000
-    },
-    {
-      "id": 46842288,
-      "title": "High-Altitude Adventure with a DIY Pico Balloon",
-      "link": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
-      "score": 43,
-      "author": "jnord",
-      "created": "2026-02-01 00:14:55",
-      "created_at": 1769904895000
+      "id": 46788588,
+      "title": "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
+      "link": "https://oldinsurancemaps.net/",
+      "score": 45,
+      "author": "lapetitejort",
+      "created": "2026-01-27 23:18:48",
+      "created_at": 1769555928000
     }
   ],
   "code": 200,
