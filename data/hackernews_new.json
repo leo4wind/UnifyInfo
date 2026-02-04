@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-04T16:34:34.363Z"
+    "lastUpdate": "2026-02-04T20:22:21.816Z"
   },
   "data": [
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "link": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 95,
+      "score": 428,
       "author": "meetpateltech",
       "created": "2026-02-04 15:08:17",
       "created_at": 1770217697000
     },
     {
+      "id": 46890675,
+      "title": "Mean People Fail (2014)",
+      "link": "https://paulgraham.com/mean.html",
+      "score": 21,
+      "author": "insuranceguru",
+      "created": "2026-02-04 19:47:37",
+      "created_at": 1770234457000
+    },
+    {
+      "id": 46826803,
+      "title": "Yawning has an unexpected influence on the fluid inside your brain",
+      "link": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
+      "score": 51,
+      "author": "MDWolinski",
+      "created": "2026-01-30 16:57:19",
+      "created_at": 1769792239000
+    },
+    {
+      "id": 46888795,
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "score": 56,
+      "author": "evakhoury",
+      "created": "2026-02-04 17:35:05",
+      "created_at": 1770226505000
+    },
+    {
+      "id": 46889703,
+      "title": "Claude Code for Infrastructure",
+      "link": "https://www.fluid.sh/",
+      "score": 30,
+      "author": "aspectrr",
+      "created": "2026-02-04 18:34:08",
+      "created_at": 1770230048000
+    },
+    {
+      "id": 46890034,
+      "title": "How Jeff Bezos Brought Down the Washington Post",
+      "link": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
+      "score": 32,
+      "author": "thm",
+      "created": "2026-02-04 18:56:46",
+      "created_at": 1770231406000
+    },
+    {
       "id": 46886265,
       "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
       "link": "https://arxiv.org/abs/2602.00294",
-      "score": 64,
+      "score": 126,
       "author": "fheinsen",
       "created": "2026-02-04 14:33:33",
       "created_at": 1770215613000
     },
     {
-      "id": 46872465,
-      "title": "A sane but bull case on Clawdbot / OpenClaw",
-      "link": "https://brandon.wang/2026/clawdbot",
-      "score": 107,
-      "author": "brdd",
-      "created": "2026-02-03 15:47:10",
-      "created_at": 1770133630000
-    },
-    {
-      "id": 46886440,
-      "title": "A case study in PDF forensics: The Epstein PDFs",
-      "link": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-      "score": 80,
-      "author": "DuffJohnson",
-      "created": "2026-02-04 14:46:46",
-      "created_at": 1770216406000
+      "id": 46888441,
+      "title": "AI is killing B2B SaaS",
+      "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "score": 45,
+      "author": "namanyayg",
+      "created": "2026-02-04 17:09:28",
+      "created_at": 1770224968000
     },
     {
       "id": 46877278,
       "title": "Tractor",
       "link": "https://incoherency.co.uk/blog/stories/tractor.html",
-      "score": 22,
+      "score": 91,
       "author": "surprisetalk",
       "created": "2026-02-03 21:04:59",
       "created_at": 1770152699000
     },
     {
-      "id": 46876105,
-      "title": "Data centers in space makes no sense",
-      "link": "https://civai.org/blog/space-data-centers",
-      "score": 901,
-      "author": "ajyoon",
-      "created": "2026-02-03 19:37:30",
-      "created_at": 1770147450000
-    },
-    {
-      "id": 46886237,
-      "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
-      "link": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-      "score": 290,
-      "author": "robin_reala",
-      "created": "2026-02-04 14:31:32",
-      "created_at": 1770215492000
-    },
-    {
-      "id": 46886191,
-      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-      "link": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-      "score": 78,
-      "author": "bookofjoe",
-      "created": "2026-02-04 14:27:05",
-      "created_at": 1770215225000
-    },
-    {
-      "id": 46848876,
-      "title": "Lessons learned shipping 500 units of my first hardware product",
-      "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-      "score": 730,
-      "author": "sberens",
-      "created": "2026-02-01 20:01:00",
-      "created_at": 1769976060000
-    },
-    {
-      "id": 46788588,
-      "title": "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
-      "link": "https://oldinsurancemaps.net/",
-      "score": 45,
-      "author": "lapetitejort",
-      "created": "2026-01-27 23:18:48",
-      "created_at": 1769555928000
+      "id": 46845845,
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "score": 8,
+      "author": "fugu2",
+      "created": "2026-02-01 12:43:41",
+      "created_at": 1769949821000
     }
   ],
   "code": 200,
