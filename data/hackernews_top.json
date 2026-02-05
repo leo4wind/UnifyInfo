@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-04T20:22:21.787Z"
+    "lastUpdate": "2026-02-05T01:08:16.935Z"
   },
   "data": [
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "link": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 428,
+      "score": 708,
       "author": "meetpateltech",
       "created": "2026-02-04 15:08:17",
       "created_at": 1770217697000
     },
     {
-      "id": 46890675,
-      "title": "Mean People Fail (2014)",
-      "link": "https://paulgraham.com/mean.html",
-      "score": 21,
-      "author": "insuranceguru",
-      "created": "2026-02-04 19:47:37",
-      "created_at": 1770234457000
-    },
-    {
-      "id": 46826803,
-      "title": "Yawning has an unexpected influence on the fluid inside your brain",
-      "link": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
-      "score": 51,
-      "author": "MDWolinski",
-      "created": "2026-01-30 16:57:19",
-      "created_at": 1769792239000
-    },
-    {
-      "id": 46888795,
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "score": 56,
-      "author": "evakhoury",
-      "created": "2026-02-04 17:35:05",
-      "created_at": 1770226505000
-    },
-    {
-      "id": 46889703,
-      "title": "Claude Code for Infrastructure",
-      "link": "https://www.fluid.sh/",
-      "score": 30,
-      "author": "aspectrr",
-      "created": "2026-02-04 18:34:08",
-      "created_at": 1770230048000
-    },
-    {
-      "id": 46890034,
-      "title": "How Jeff Bezos Brought Down the Washington Post",
-      "link": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
-      "score": 32,
-      "author": "thm",
-      "created": "2026-02-04 18:56:46",
-      "created_at": 1770231406000
-    },
-    {
-      "id": 46886265,
-      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-      "link": "https://arxiv.org/abs/2602.00294",
-      "score": 126,
-      "author": "fheinsen",
-      "created": "2026-02-04 14:33:33",
-      "created_at": 1770215613000
-    },
-    {
-      "id": 46888441,
-      "title": "AI is killing B2B SaaS",
-      "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "id": 46893018,
+      "title": "As Rocks May Think",
+      "link": "https://evjang.com/2026/02/04/rocks.html",
       "score": 45,
-      "author": "namanyayg",
-      "created": "2026-02-04 17:09:28",
-      "created_at": 1770224968000
-    },
-    {
-      "id": 46877278,
-      "title": "Tractor",
-      "link": "https://incoherency.co.uk/blog/stories/tractor.html",
-      "score": 91,
-      "author": "surprisetalk",
-      "created": "2026-02-03 21:04:59",
-      "created_at": 1770152699000
+      "author": "modeless",
+      "created": "2026-02-04 22:50:34",
+      "created_at": 1770245434000
     },
     {
       "id": 46845845,
       "title": "Claude Code: connect to a local model when your quota runs out",
       "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "score": 8,
+      "score": 173,
       "author": "fugu2",
       "created": "2026-02-01 12:43:41",
       "created_at": 1769949821000
+    },
+    {
+      "id": 46845239,
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "link": "https://sqldef.github.io/",
+      "score": 39,
+      "author": "Palmik",
+      "created": "2026-02-01 10:56:42",
+      "created_at": 1769943402000
+    },
+    {
+      "id": 46893970,
+      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
+      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "score": 6,
+      "author": "jakequist",
+      "created": "2026-02-05 00:28:06",
+      "created_at": 1770251286000
+    },
+    {
+      "id": 46845642,
+      "title": "Remarkable Pro Colors",
+      "link": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+      "score": 55,
+      "author": "ffaser5gxlsll",
+      "created": "2026-02-01 12:12:00",
+      "created_at": 1769947920000
+    },
+    {
+      "id": 46888441,
+      "title": "AI is killing B2B SaaS",
+      "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "score": 204,
+      "author": "namanyayg",
+      "created": "2026-02-04 17:09:28",
+      "created_at": 1770224968000
+    },
+    {
+      "id": 46889703,
+      "title": "Claude Code for Infrastructure",
+      "link": "https://www.fluid.sh/",
+      "score": 136,
+      "author": "aspectrr",
+      "created": "2026-02-04 18:34:08",
+      "created_at": 1770230048000
+    },
+    {
+      "id": 46888795,
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "score": 116,
+      "author": "evakhoury",
+      "created": "2026-02-04 17:35:05",
+      "created_at": 1770226505000
+    },
+    {
+      "id": 46887564,
+      "title": "Microsoft's Copilot chatbot is running into problems",
+      "link": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+      "score": 103,
+      "author": "fortran77",
+      "created": "2026-02-04 16:08:55",
+      "created_at": 1770221335000
     }
   ],
   "code": 200,
