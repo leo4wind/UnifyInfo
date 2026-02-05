@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-05T16:34:54.084Z"
+    "lastUpdate": "2026-02-05T20:22:16.468Z"
   },
   "data": [
+    {
+      "id": 46902223,
+      "title": "Claude Opus 4.6",
+      "link": "https://www.anthropic.com/news/claude-opus-4-6",
+      "score": 879,
+      "author": "HellsMaddy",
+      "created": "2026-02-05 17:38:53",
+      "created_at": 1770313133000
+    },
+    {
+      "id": 46902638,
+      "title": "GPT-5.3-Codex",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "score": 567,
+      "author": "meetpateltech",
+      "created": "2026-02-05 18:08:08",
+      "created_at": 1770314888000
+    },
+    {
+      "id": 46902368,
+      "title": "Orchestrate teams of Claude Code sessions",
+      "link": "https://code.claude.com/docs/en/agent-teams",
+      "score": 188,
+      "author": "davidbarker",
+      "created": "2026-02-05 17:49:54",
+      "created_at": 1770313794000
+    },
+    {
+      "id": 46847297,
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "link": "https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf",
+      "score": 42,
+      "author": "wallflower",
+      "created": "2026-02-01 16:31:16",
+      "created_at": 1769963476000
+    },
     {
       "id": 46896146,
       "title": "Don't rent the cloud, own instead",
       "link": "https://blog.comma.ai/datacenter/",
-      "score": 762,
+      "score": 977,
       "author": "Torq_boi",
       "created": "2026-02-05 05:50:01",
       "created_at": 1770270601000
     },
     {
-      "id": 46899132,
-      "title": "Company as Code",
-      "link": "https://blog.42futures.com/p/company-as-code",
-      "score": 111,
-      "author": "ahamez",
-      "created": "2026-02-05 12:56:28",
-      "created_at": 1770296188000
+      "id": 46904361,
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "link": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "score": 11,
+      "author": "mdp",
+      "created": "2026-02-05 20:00:39",
+      "created_at": 1770321639000
+    },
+    {
+      "id": 46903001,
+      "title": "Ardour 9.0 Released",
+      "link": "https://ardour.org/whatsnew.html",
+      "score": 109,
+      "author": "PaulDavisThe1st",
+      "created": "2026-02-05 18:30:16",
+      "created_at": 1770316216000
+    },
+    {
+      "id": 46902789,
+      "title": "A small, shared skill library by builders, for builders. (human and agent)",
+      "link": "https://github.com/PsiACE/skills",
+      "score": 22,
+      "author": "recrush",
+      "created": "2026-02-05 18:17:14",
+      "created_at": 1770315434000
+    },
+    {
+      "id": 46901452,
+      "title": "European Commission Trials Matrix to Replace Teams",
+      "link": "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/",
+      "score": 255,
+      "author": "Arathorn",
+      "created": "2026-02-05 16:33:56",
+      "created_at": 1770309236000
     },
     {
       "id": 46899591,
       "title": "The New Collabora Office for Desktop",
       "link": "https://www.collaboraonline.com/collabora-office/",
-      "score": 49,
+      "score": 118,
       "author": "mfld",
       "created": "2026-02-05 13:47:59",
       "created_at": 1770299279000
-    },
-    {
-      "id": 46899066,
-      "title": "GB Renewables Map",
-      "link": "https://renewables-map.robinhawkes.com/",
-      "score": 44,
-      "author": "RobinL",
-      "created": "2026-02-05 12:48:01",
-      "created_at": 1770295681000
-    },
-    {
-      "id": 46895972,
-      "title": "When internal hostnames are leaked to the clown",
-      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
-      "score": 330,
-      "author": "zdw",
-      "created": "2026-02-05 05:22:36",
-      "created_at": 1770268956000
-    },
-    {
-      "id": 46846940,
-      "title": "Programming Patterns: The Story of the Jacquard Loom",
-      "link": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom",
-      "score": 36,
-      "author": "andsoitis",
-      "created": "2026-02-01 15:43:15",
-      "created_at": 1769960595000
-    },
-    {
-      "id": 46844393,
-      "title": "A Broken Heart",
-      "link": "https://allenpike.com/2026/a-broken-heart/",
-      "score": 86,
-      "author": "memalign",
-      "created": "2026-02-01 07:58:06",
-      "created_at": 1769932686000
-    },
-    {
-      "id": 46845790,
-      "title": "Simply Scheme: Introducing Computer Science (1999)",
-      "link": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
-      "score": 60,
-      "author": "AlexeyBrin",
-      "created": "2026-02-01 12:35:30",
-      "created_at": 1769949330000
-    },
-    {
-      "id": 46897737,
-      "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
-      "link": "https://github.com/HKUDS/nanobot",
-      "score": 116,
-      "author": "ms7892",
-      "created": "2026-02-05 09:39:11",
-      "created_at": 1770284351000
-    },
-    {
-      "id": 46897332,
-      "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
-      "link": "https://github.com/vkazanov/elcity",
-      "score": 97,
-      "author": "vkazanov",
-      "created": "2026-02-05 08:46:13",
-      "created_at": 1770281173000
     }
   ],
   "code": 200,
