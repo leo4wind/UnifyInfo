@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-05T05:11:57.637Z"
+    "lastUpdate": "2026-02-05T08:30:49.756Z"
   },
   "data": [
     {
-      "id": 46894815,
-      "title": "Child prodigies rarely become elite performers",
-      "link": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
-      "score": 73,
-      "author": "i7l",
-      "created": "2026-02-05 02:17:08",
-      "created_at": 1770257828000
+      "id": 46896146,
+      "title": "Don't rent the cloud, own instead",
+      "link": "https://blog.comma.ai/datacenter/",
+      "score": 158,
+      "author": "Torq_boi",
+      "created": "2026-02-05 05:50:01",
+      "created_at": 1770270601000
     },
     {
-      "id": 46887893,
-      "title": "Postgres Postmaster does not scale",
-      "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
-      "score": 40,
-      "author": "davidgu",
-      "created": "2026-02-04 16:30:51",
-      "created_at": 1770222651000
+      "id": 46895972,
+      "title": "When internal hostnames are leaked to the clown",
+      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "score": 142,
+      "author": "zdw",
+      "created": "2026-02-05 05:22:36",
+      "created_at": 1770268956000
+    },
+    {
+      "id": 46844209,
+      "title": "The TV industry concedes that the future may not be in 8K",
+      "link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
+      "score": 25,
+      "author": "cxrlosfx",
+      "created": "2026-02-01 07:13:10",
+      "created_at": 1769929990000
     },
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "link": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 809,
+      "score": 879,
       "author": "meetpateltech",
       "created": "2026-02-04 15:08:17",
       "created_at": 1770217697000
     },
     {
+      "id": 46887893,
+      "title": "Postgres Postmaster does not scale",
+      "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+      "score": 90,
+      "author": "davidgu",
+      "created": "2026-02-04 16:30:51",
+      "created_at": 1770222651000
+    },
+    {
+      "id": 46895381,
+      "title": "Wirth's Revenge",
+      "link": "https://jmoiron.net/blog/wirths-revenge/",
+      "score": 37,
+      "author": "signa11",
+      "created": "2026-02-05 03:38:26",
+      "created_at": 1770262706000
+    },
+    {
       "id": 46845239,
       "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
       "link": "https://sqldef.github.io/",
-      "score": 102,
+      "score": 151,
       "author": "Palmik",
       "created": "2026-02-01 10:56:42",
       "created_at": 1769943402000
     },
     {
-      "id": 46893970,
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "score": 221,
-      "author": "jakequist",
-      "created": "2026-02-05 00:28:06",
-      "created_at": 1770251286000
-    },
-    {
-      "id": 46845845,
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "score": 234,
-      "author": "fugu2",
-      "created": "2026-02-01 12:43:41",
-      "created_at": 1769949821000
-    },
-    {
-      "id": 46893411,
-      "title": "Why More Companies Are Recognizing the Benefits of Keeping Older Employees",
-      "link": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
-      "score": 58,
-      "author": "andsoitis",
-      "created": "2026-02-04 23:26:23",
-      "created_at": 1770247583000
-    },
-    {
       "id": 46895388,
       "title": "A few CPU hardware bugs",
       "link": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
-      "score": 9,
+      "score": 42,
       "author": "signa11",
       "created": "2026-02-05 03:39:43",
       "created_at": 1770262783000
     },
     {
-      "id": 46888441,
-      "title": "AI is killing B2B SaaS",
-      "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "score": 288,
-      "author": "namanyayg",
-      "created": "2026-02-04 17:09:28",
-      "created_at": 1770224968000
+      "id": 46845845,
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "score": 267,
+      "author": "fugu2",
+      "created": "2026-02-01 12:43:41",
+      "created_at": 1769949821000
     },
     {
-      "id": 46889703,
-      "title": "Claude Code for Infrastructure",
-      "link": "https://www.fluid.sh/",
-      "score": 177,
-      "author": "aspectrr",
-      "created": "2026-02-04 18:34:08",
-      "created_at": 1770230048000
+      "id": 46895860,
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "score": 171,
+      "author": "WaitWaitWha",
+      "created": "2026-02-05 05:02:01",
+      "created_at": 1770267721000
     }
   ],
   "code": 200,
