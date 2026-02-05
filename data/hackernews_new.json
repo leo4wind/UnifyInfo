@@ -3,68 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-05T01:08:16.950Z"
+    "lastUpdate": "2026-02-05T05:11:57.684Z"
   },
   "data": [
+    {
+      "id": 46894815,
+      "title": "Child prodigies rarely become elite performers",
+      "link": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
+      "score": 73,
+      "author": "i7l",
+      "created": "2026-02-05 02:17:08",
+      "created_at": 1770257828000
+    },
+    {
+      "id": 46887893,
+      "title": "Postgres Postmaster does not scale",
+      "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+      "score": 40,
+      "author": "davidgu",
+      "created": "2026-02-04 16:30:51",
+      "created_at": 1770222651000
+    },
     {
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "link": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 708,
+      "score": 809,
       "author": "meetpateltech",
       "created": "2026-02-04 15:08:17",
       "created_at": 1770217697000
     },
     {
-      "id": 46893018,
-      "title": "As Rocks May Think",
-      "link": "https://evjang.com/2026/02/04/rocks.html",
-      "score": 45,
-      "author": "modeless",
-      "created": "2026-02-04 22:50:34",
-      "created_at": 1770245434000
-    },
-    {
-      "id": 46845845,
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "score": 173,
-      "author": "fugu2",
-      "created": "2026-02-01 12:43:41",
-      "created_at": 1769949821000
-    },
-    {
       "id": 46845239,
       "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
       "link": "https://sqldef.github.io/",
-      "score": 39,
+      "score": 102,
       "author": "Palmik",
       "created": "2026-02-01 10:56:42",
       "created_at": 1769943402000
     },
     {
       "id": 46893970,
-      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
+      "title": "OpenClaw is what Apple intelligence should have been",
       "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "score": 6,
+      "score": 221,
       "author": "jakequist",
       "created": "2026-02-05 00:28:06",
       "created_at": 1770251286000
     },
     {
-      "id": 46845642,
-      "title": "Remarkable Pro Colors",
-      "link": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-      "score": 55,
-      "author": "ffaser5gxlsll",
-      "created": "2026-02-01 12:12:00",
-      "created_at": 1769947920000
+      "id": 46845845,
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "link": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+      "score": 234,
+      "author": "fugu2",
+      "created": "2026-02-01 12:43:41",
+      "created_at": 1769949821000
+    },
+    {
+      "id": 46893411,
+      "title": "Why More Companies Are Recognizing the Benefits of Keeping Older Employees",
+      "link": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
+      "score": 58,
+      "author": "andsoitis",
+      "created": "2026-02-04 23:26:23",
+      "created_at": 1770247583000
+    },
+    {
+      "id": 46895388,
+      "title": "A few CPU hardware bugs",
+      "link": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+      "score": 9,
+      "author": "signa11",
+      "created": "2026-02-05 03:39:43",
+      "created_at": 1770262783000
     },
     {
       "id": 46888441,
       "title": "AI is killing B2B SaaS",
       "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "score": 204,
+      "score": 288,
       "author": "namanyayg",
       "created": "2026-02-04 17:09:28",
       "created_at": 1770224968000
@@ -73,28 +91,10 @@
       "id": 46889703,
       "title": "Claude Code for Infrastructure",
       "link": "https://www.fluid.sh/",
-      "score": 136,
+      "score": 177,
       "author": "aspectrr",
       "created": "2026-02-04 18:34:08",
       "created_at": 1770230048000
-    },
-    {
-      "id": 46888795,
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "score": 116,
-      "author": "evakhoury",
-      "created": "2026-02-04 17:35:05",
-      "created_at": 1770226505000
-    },
-    {
-      "id": 46887564,
-      "title": "Microsoft's Copilot chatbot is running into problems",
-      "link": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "score": 103,
-      "author": "fortran77",
-      "created": "2026-02-04 16:08:55",
-      "created_at": 1770221335000
     }
   ],
   "code": 200,
