@@ -3,32 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-06T05:10:33.790Z"
+    "lastUpdate": "2026-02-06T08:29:55.347Z"
   },
   "data": [
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 1737,
+      "score": 1888,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
     },
     {
+      "id": 46909468,
+      "title": "Things Unix can do atomically (2010)",
+      "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "score": 64,
+      "author": "onurkanbkrc",
+      "created": "2026-02-06 05:29:55",
+      "created_at": 1770355795000
+    },
+    {
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1165,
+      "score": 1266,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
     },
     {
+      "id": 46909439,
+      "title": "Systems Thinking",
+      "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "score": 60,
+      "author": "r4um",
+      "created": "2026-02-06 05:24:36",
+      "created_at": 1770355476000
+    },
+    {
+      "id": 46909037,
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "link": "https://github.com/artifact-keeper",
+      "score": 37,
+      "author": "bsgeraci",
+      "created": "2026-02-06 04:12:59",
+      "created_at": 1770351179000
+    },
+    {
       "id": 46903558,
       "title": "My AI Adoption Journey",
       "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 446,
+      "score": 552,
       "author": "anurag",
       "created": "2026-02-05 19:04:40",
       "created_at": 1770318280000
@@ -37,7 +64,7 @@
       "id": 46903616,
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 452,
+      "score": 509,
       "author": "modeless",
       "created": "2026-02-05 19:07:51",
       "created_at": 1770318471000
@@ -46,55 +73,28 @@
       "id": 46890335,
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "link": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "score": 280,
+      "score": 333,
       "author": "ComputerGuru",
       "created": "2026-02-04 19:19:07",
       "created_at": 1770232747000
     },
     {
-      "id": 46845135,
-      "title": "Pong Cam – My ESP32S3 Thinks It's a WebCam",
-      "link": "https://www.atomic14.com/2026/02/01/pong-cam",
-      "score": 39,
-      "author": "iamflimflam1",
-      "created": "2026-02-01 10:36:56",
-      "created_at": 1769942216000
+      "id": 46865849,
+      "title": "How to carry more than your own bodyweight (2025)",
+      "link": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
+      "score": 19,
+      "author": "1659447091",
+      "created": "2026-02-03 02:55:38",
+      "created_at": 1770087338000
     },
     {
-      "id": 46853261,
-      "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
-      "link": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
-      "score": 15,
-      "author": "camille_134",
-      "created": "2026-02-02 07:05:56",
-      "created_at": 1770015956000
-    },
-    {
-      "id": 46855697,
-      "title": "Animated Knots",
-      "link": "https://www.animatedknots.com/",
-      "score": 109,
-      "author": "ostacke",
-      "created": "2026-02-02 13:18:05",
-      "created_at": 1770038285000
-    },
-    {
-      "id": 46908671,
-      "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
-      "link": "https://vespalec.com/blog/tower-of-flaws/",
-      "score": 26,
-      "author": "svespalec",
-      "created": "2026-02-06 03:22:29",
-      "created_at": 1770348149000
-    },
-    {
-      "id": 46908491,
-      "title": "GitHub Actions is slowly killing engineering teams",
-      "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-      "score": 93,
-      "author": "codesuki",
-      "created": "2026-02-06 02:58:31",
-      "created_at": 1770346711000
+      "id": 46867446,
+      "title": "Stay Away from My Trash",
+      "link": "https://tldraw.dev/blog/stay-away-from-my-trash",
+      "score": 18,
+      "author": "EvgeniyZh",
+      "created": "2026-02-03 06:53:23",
+      "created_at": 1770101603000
     }
   ],
   "code": 200,

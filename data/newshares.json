@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-02-06T05:10:36.235Z"
+    "lastUpdate": "2026-02-06T08:29:58.435Z"
   },
   "data": [
+    {
+      "zqdm": "920168",
+      "zqjc": "通宝光电",
+      "sgdm": "920168",
+      "fxsl": 18793400,
+      "swfxsl": 16914060,
+      "sgsx": 845700,
+      "dgsz": 8457000,
+      "fxjg": 16.17,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-02-09",
+      "zqgbrq": "2026-02-12",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 30.5,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "汽车照明系统、电子控制系统、能源管理系统等汽车电子零部件的研发、生产和销售"
+    },
     {
       "zqdm": "920166",
       "zqjc": "海圣医疗",
@@ -76,5 +99,5 @@
       "zyyw": "汽车制造机器视觉设备的研发、生产及销售"
     }
   ],
-  "total": 3
+  "total": 4
 }
