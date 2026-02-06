@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-06T08:29:55.347Z"
+    "lastUpdate": "2026-02-06T12:35:38.323Z"
   },
   "data": [
+    {
+      "id": 46910963,
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "score": 158,
+      "author": "giuliomagnifico",
+      "created": "2026-02-06 09:56:55",
+      "created_at": 1770371815000
+    },
+    {
+      "id": 46911901,
+      "title": "I Now Assume That All Ads on Apple News Are Scams",
+      "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+      "score": 11,
+      "author": "cdrnsf",
+      "created": "2026-02-06 12:16:43",
+      "created_at": 1770380203000
+    },
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 1888,
+      "score": 2047,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
     },
     {
-      "id": 46909468,
-      "title": "Things Unix can do atomically (2010)",
-      "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-      "score": 64,
-      "author": "onurkanbkrc",
-      "created": "2026-02-06 05:29:55",
-      "created_at": 1770355795000
+      "id": 46911170,
+      "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
+      "link": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
+      "score": 30,
+      "author": "dagurp",
+      "created": "2026-02-06 10:26:16",
+      "created_at": 1770373576000
     },
     {
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1266,
+      "score": 1356,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
     },
     {
+      "id": 46909468,
+      "title": "Things Unix can do atomically (2010)",
+      "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "score": 143,
+      "author": "onurkanbkrc",
+      "created": "2026-02-06 05:29:55",
+      "created_at": 1770355795000
+    },
+    {
       "id": 46909439,
       "title": "Systems Thinking",
       "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-      "score": 60,
+      "score": 133,
       "author": "r4um",
       "created": "2026-02-06 05:24:36",
       "created_at": 1770355476000
     },
     {
-      "id": 46909037,
-      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-      "link": "https://github.com/artifact-keeper",
-      "score": 37,
-      "author": "bsgeraci",
-      "created": "2026-02-06 04:12:59",
-      "created_at": 1770351179000
+      "id": 46867271,
+      "title": "Plasma Effect",
+      "link": "https://www.4rknova.com/blog/2016/11/01/plasma",
+      "score": 46,
+      "author": "todsacerdoti",
+      "created": "2026-02-03 06:26:01",
+      "created_at": 1770099961000
     },
     {
       "id": 46903558,
       "title": "My AI Adoption Journey",
       "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 552,
+      "score": 650,
       "author": "anurag",
       "created": "2026-02-05 19:04:40",
       "created_at": 1770318280000
     },
     {
-      "id": 46903616,
-      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 509,
-      "author": "modeless",
-      "created": "2026-02-05 19:07:51",
-      "created_at": 1770318471000
-    },
-    {
-      "id": 46890335,
-      "title": "Recreating Epstein PDFs from raw encoded attachments",
-      "link": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "score": 333,
-      "author": "ComputerGuru",
-      "created": "2026-02-04 19:19:07",
-      "created_at": 1770232747000
-    },
-    {
-      "id": 46865849,
-      "title": "How to carry more than your own bodyweight (2025)",
-      "link": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
-      "score": 19,
-      "author": "1659447091",
-      "created": "2026-02-03 02:55:38",
-      "created_at": 1770087338000
-    },
-    {
-      "id": 46867446,
-      "title": "Stay Away from My Trash",
-      "link": "https://tldraw.dev/blog/stay-away-from-my-trash",
-      "score": 18,
-      "author": "EvgeniyZh",
-      "created": "2026-02-03 06:53:23",
-      "created_at": 1770101603000
+      "id": 46911873,
+      "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
+      "link": "https://wiz.jock.pl/experiments/agent-arena/",
+      "score": 5,
+      "author": "joozio",
+      "created": "2026-02-06 12:12:18",
+      "created_at": 1770379938000
     }
   ],
   "code": 200,

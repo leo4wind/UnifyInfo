@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-06T08:29:55.195Z"
+    "lastUpdate": "2026-02-06T12:35:38.144Z"
   },
   "data": [
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 1888,
+      "score": 2047,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
@@ -19,7 +19,7 @@
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1266,
+      "score": 1356,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
@@ -28,7 +28,7 @@
       "id": 46896146,
       "title": "Don't rent the cloud, own instead",
       "link": "https://blog.comma.ai/datacenter/",
-      "score": 1137,
+      "score": 1153,
       "author": "Torq_boi",
       "created": "2026-02-05 05:50:01",
       "created_at": 1770270601000
@@ -37,16 +37,25 @@
       "id": 46886735,
       "title": "Voxtral Transcribe 2",
       "link": "https://mistral.ai/news/voxtral-transcribe-2",
-      "score": 990,
+      "score": 992,
       "author": "meetpateltech",
       "created": "2026-02-04 15:08:17",
       "created_at": 1770217697000
     },
     {
+      "id": 46903558,
+      "title": "My AI Adoption Journey",
+      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "score": 650,
+      "author": "anurag",
+      "created": "2026-02-05 19:04:40",
+      "created_at": 1770318280000
+    },
+    {
       "id": 46903556,
       "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
       "link": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
-      "score": 602,
+      "score": 619,
       "author": "cdrnsf",
       "created": "2026-02-05 19:04:37",
       "created_at": 1770318277000
@@ -61,19 +70,10 @@
       "created_at": 1770215492000
     },
     {
-      "id": 46903558,
-      "title": "My AI Adoption Journey",
-      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 552,
-      "author": "anurag",
-      "created": "2026-02-05 19:04:40",
-      "created_at": 1770318280000
-    },
-    {
       "id": 46903616,
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 509,
+      "score": 566,
       "author": "modeless",
       "created": "2026-02-05 19:07:51",
       "created_at": 1770318471000
@@ -82,7 +82,7 @@
       "id": 46893970,
       "title": "OpenClaw is what Apple intelligence should have been",
       "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "score": 500,
+      "score": 501,
       "author": "jakequist",
       "created": "2026-02-05 00:28:06",
       "created_at": 1770251286000
@@ -91,7 +91,7 @@
       "id": 46888441,
       "title": "AI is killing B2B SaaS",
       "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "score": 492,
+      "score": 494,
       "author": "namanyayg",
       "created": "2026-02-04 17:09:28",
       "created_at": 1770224968000
