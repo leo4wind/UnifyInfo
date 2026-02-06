@@ -3,50 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-06T12:35:38.287Z"
+    "lastUpdate": "2026-02-06T16:32:36.473Z"
   },
   "data": [
     {
-      "id": 46910963,
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "score": 158,
-      "author": "giuliomagnifico",
-      "created": "2026-02-06 09:56:55",
-      "created_at": 1770371815000
+      "id": 46913793,
+      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+      "link": "https://github.com/microsoft/litebox",
+      "score": 80,
+      "author": "aktau",
+      "created": "2026-02-06 15:13:04",
+      "created_at": 1770390784000
     },
     {
       "id": 46911901,
-      "title": "I Now Assume That All Ads on Apple News Are Scams",
+      "title": "I now assume that all ads on Apple news are scams",
       "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 11,
+      "score": 532,
       "author": "cdrnsf",
       "created": "2026-02-06 12:16:43",
       "created_at": 1770380203000
     },
     {
+      "id": 46912800,
+      "title": "Hackers (1995) Animated Experience",
+      "link": "https://hackers-1995.vercel.app/",
+      "score": 112,
+      "author": "todsacerdoti",
+      "created": "2026-02-06 13:49:55",
+      "created_at": 1770385795000
+    },
+    {
+      "id": 46871654,
+      "title": "Understanding Neural Network, Visually",
+      "link": "https://visualrambling.space/neural-network/",
+      "score": 23,
+      "author": "surprisetalk",
+      "created": "2026-02-03 14:49:11",
+      "created_at": 1770130151000
+    },
+    {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 2047,
+      "score": 2168,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
     },
     {
+      "id": 46911869,
+      "title": "TikTok's 'Addictive Design' Found to Be Illegal in Europe",
+      "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "score": 319,
+      "author": "thm",
+      "created": "2026-02-06 12:11:48",
+      "created_at": 1770379908000
+    },
+    {
       "id": 46911170,
       "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
       "link": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-      "score": 30,
+      "score": 83,
       "author": "dagurp",
       "created": "2026-02-06 10:26:16",
       "created_at": 1770373576000
     },
     {
+      "id": 46910963,
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "score": 336,
+      "author": "giuliomagnifico",
+      "created": "2026-02-06 09:56:55",
+      "created_at": 1770371815000
+    },
+    {
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1356,
+      "score": 1418,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
@@ -55,46 +91,10 @@
       "id": 46909468,
       "title": "Things Unix can do atomically (2010)",
       "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-      "score": 143,
+      "score": 199,
       "author": "onurkanbkrc",
       "created": "2026-02-06 05:29:55",
       "created_at": 1770355795000
-    },
-    {
-      "id": 46909439,
-      "title": "Systems Thinking",
-      "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-      "score": 133,
-      "author": "r4um",
-      "created": "2026-02-06 05:24:36",
-      "created_at": 1770355476000
-    },
-    {
-      "id": 46867271,
-      "title": "Plasma Effect",
-      "link": "https://www.4rknova.com/blog/2016/11/01/plasma",
-      "score": 46,
-      "author": "todsacerdoti",
-      "created": "2026-02-03 06:26:01",
-      "created_at": 1770099961000
-    },
-    {
-      "id": 46903558,
-      "title": "My AI Adoption Journey",
-      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 650,
-      "author": "anurag",
-      "created": "2026-02-05 19:04:40",
-      "created_at": 1770318280000
-    },
-    {
-      "id": 46911873,
-      "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
-      "link": "https://wiz.jock.pl/experiments/agent-arena/",
-      "score": 5,
-      "author": "joozio",
-      "created": "2026-02-06 12:12:18",
-      "created_at": 1770379938000
     }
   ],
   "code": 200,
