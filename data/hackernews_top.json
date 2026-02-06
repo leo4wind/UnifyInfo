@@ -3,32 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-06T01:07:16.389Z"
+    "lastUpdate": "2026-02-06T05:10:33.758Z"
   },
   "data": [
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 1482,
+      "score": 1737,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
     },
     {
-      "id": 46905555,
-      "title": "It's 2026, Just Use Postgres",
-      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "score": 294,
-      "author": "turtles3",
-      "created": "2026-02-05 21:24:03",
-      "created_at": 1770326643000
-    },
-    {
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 994,
+      "score": 1165,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
@@ -37,7 +28,7 @@
       "id": 46903558,
       "title": "My AI Adoption Journey",
       "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 281,
+      "score": 446,
       "author": "anurag",
       "created": "2026-02-05 19:04:40",
       "created_at": 1770318280000
@@ -46,7 +37,7 @@
       "id": 46903616,
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 340,
+      "score": 452,
       "author": "modeless",
       "created": "2026-02-05 19:07:51",
       "created_at": 1770318471000
@@ -55,46 +46,55 @@
       "id": 46890335,
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "link": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "score": 183,
+      "score": 280,
       "author": "ComputerGuru",
       "created": "2026-02-04 19:19:07",
       "created_at": 1770232747000
     },
     {
-      "id": 46905761,
-      "title": "Review of 1984 by Isaac Asimov (1980)",
-      "link": "https://www.newworker.org/ncptrory/1984.htm",
-      "score": 71,
-      "author": "doruk101",
-      "created": "2026-02-05 21:39:57",
-      "created_at": 1770327597000
+      "id": 46845135,
+      "title": "Pong Cam – My ESP32S3 Thinks It's a WebCam",
+      "link": "https://www.atomic14.com/2026/02/01/pong-cam",
+      "score": 39,
+      "author": "iamflimflam1",
+      "created": "2026-02-01 10:36:56",
+      "created_at": 1769942216000
+    },
+    {
+      "id": 46853261,
+      "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
+      "link": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
+      "score": 15,
+      "author": "camille_134",
+      "created": "2026-02-02 07:05:56",
+      "created_at": 1770015956000
     },
     {
       "id": 46855697,
       "title": "Animated Knots",
       "link": "https://www.animatedknots.com/",
-      "score": 28,
+      "score": 109,
       "author": "ostacke",
       "created": "2026-02-02 13:18:05",
       "created_at": 1770038285000
     },
     {
-      "id": 46845567,
-      "title": "Launching My Side Project as a Solo Dev: The Walkthrough",
-      "link": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
-      "score": 9,
-      "author": "romes",
-      "created": "2026-02-01 11:58:12",
-      "created_at": 1769947092000
+      "id": 46908671,
+      "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+      "link": "https://vespalec.com/blog/tower-of-flaws/",
+      "score": 26,
+      "author": "svespalec",
+      "created": "2026-02-06 03:22:29",
+      "created_at": 1770348149000
     },
     {
-      "id": 46867526,
-      "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
-      "link": "https://www.menuetos.net/",
-      "score": 94,
-      "author": "pjerem",
-      "created": "2026-02-03 07:03:34",
-      "created_at": 1770102214000
+      "id": 46908491,
+      "title": "GitHub Actions is slowly killing engineering teams",
+      "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+      "score": 93,
+      "author": "codesuki",
+      "created": "2026-02-06 02:58:31",
+      "created_at": 1770346711000
     }
   ],
   "code": 200,
