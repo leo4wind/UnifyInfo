@@ -3,23 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-07T12:25:53.030Z"
+    "lastUpdate": "2026-02-07T16:17:50.757Z"
   },
   "data": [
     {
+      "id": 46923736,
+      "title": "France's homegrown open source online office suite",
+      "link": "https://github.com/suitenumerique",
+      "score": 253,
+      "author": "nar001",
+      "created": "2026-02-07 13:34:34",
+      "created_at": 1770471274000
+    },
+    {
+      "id": 46924813,
+      "title": "British drivers over 70 to face eye tests every three years",
+      "link": "https://www.bbc.com/news/articles/c205nxy0p31o",
+      "score": 25,
+      "author": "bookofjoe",
+      "created": "2026-02-07 15:55:54",
+      "created_at": 1770479754000
+    },
+    {
       "id": 46890814,
-      "title": "Start all of your commands with a comma",
+      "title": "Start all of your commands with a comma (2009)",
       "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-      "score": 167,
+      "score": 383,
       "author": "theblazehen",
       "created": "2026-02-04 19:59:12",
       "created_at": 1770235152000
     },
     {
+      "id": 46923254,
+      "title": "Hoot: Scheme on WebAssembly",
+      "link": "https://www.spritely.institute/hoot/",
+      "score": 67,
+      "author": "AlexeyBrin",
+      "created": "2026-02-07 12:18:20",
+      "created_at": 1770466700000
+    },
+    {
+      "id": 46923463,
+      "title": "Reinforcement Learning from Human Feedback",
+      "link": "https://arxiv.org/abs/2504.12501",
+      "score": 43,
+      "author": "onurkanbkrc",
+      "created": "2026-02-07 12:53:39",
+      "created_at": 1770468819000
+    },
+    {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 674,
+      "score": 752,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
@@ -28,73 +64,37 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 951,
+      "score": 1010,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
     },
     {
-      "id": 46874372,
-      "title": "Jeffrey Snover: \"Welcome to the Room\"",
-      "link": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
-      "score": 24,
-      "author": "kaonwarb",
-      "created": "2026-02-03 17:49:49",
-      "created_at": 1770140989000
+      "id": 46923543,
+      "title": "Coding agents have replaced every framework I used",
+      "link": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+      "score": 115,
+      "author": "alainrk",
+      "created": "2026-02-07 13:07:09",
+      "created_at": 1770469629000
     },
     {
-      "id": 46898473,
-      "title": "How we made geo joins 400× faster with H3 indexes",
-      "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-      "score": 123,
-      "author": "matheusalmeida",
-      "created": "2026-02-05 11:19:40",
-      "created_at": 1770290380000
+      "id": 46924591,
+      "title": "First Proof",
+      "link": "https://arxiv.org/abs/2602.05192",
+      "score": 16,
+      "author": "samasblack",
+      "created": "2026-02-07 15:25:49",
+      "created_at": 1770477949000
     },
     {
-      "id": 46868343,
-      "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-      "link": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 58,
-      "author": "videotopia",
-      "created": "2026-02-03 08:49:40",
-      "created_at": 1770108580000
-    },
-    {
-      "id": 46918429,
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "link": "https://github.com/valdanylchuk/breezydemo",
-      "score": 232,
-      "author": "isitcontent",
-      "created": "2026-02-06 21:33:11",
-      "created_at": 1770413591000
-    },
-    {
-      "id": 46918254,
-      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "link": "https://github.com/pydantic/monty",
-      "score": 225,
-      "author": "dmpetrov",
-      "created": "2026-02-06 21:16:36",
-      "created_at": 1770412596000
-    },
-    {
-      "id": 46917033,
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "link": "https://vecti.com",
-      "score": 332,
-      "author": "vecti",
-      "created": "2026-02-06 19:27:37",
-      "created_at": 1770406057000
-    },
-    {
-      "id": 46912800,
-      "title": "Hackers (1995) Animated Experience",
-      "link": "https://hackers-1995.vercel.app/",
-      "score": 495,
-      "author": "todsacerdoti",
-      "created": "2026-02-06 13:49:55",
-      "created_at": 1770385795000
+      "id": 46922049,
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "link": "https://jesperordrup.github.io/vocal-guide/",
+      "score": 142,
+      "author": "jesperordrup",
+      "created": "2026-02-07 07:37:03",
+      "created_at": 1770449823000
     }
   ],
   "code": 200,
