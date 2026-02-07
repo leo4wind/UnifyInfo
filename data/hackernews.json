@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-06T20:22:29.524Z"
+    "lastUpdate": "2026-02-07T01:06:11.754Z"
   },
   "data": [
     {
       "id": 46902223,
       "title": "Claude Opus 4.6",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 2230,
+      "score": 2265,
       "author": "HellsMaddy",
       "created": "2026-02-05 17:38:53",
       "created_at": 1770313133000
@@ -19,7 +19,7 @@
       "id": 46902638,
       "title": "GPT-5.3-Codex",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1463,
+      "score": 1479,
       "author": "meetpateltech",
       "created": "2026-02-05 18:08:08",
       "created_at": 1770314888000
@@ -28,73 +28,73 @@
       "id": 46896146,
       "title": "Don't rent the cloud, own instead",
       "link": "https://blog.comma.ai/datacenter/",
-      "score": 1167,
+      "score": 1173,
       "author": "Torq_boi",
       "created": "2026-02-05 05:50:01",
       "created_at": 1770270601000
     },
     {
-      "id": 46903558,
-      "title": "My AI Adoption Journey",
-      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 866,
-      "author": "anurag",
-      "created": "2026-02-05 19:04:40",
-      "created_at": 1770318280000
-    },
-    {
       "id": 46911901,
       "title": "I now assume that all ads on Apple news are scams",
       "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 796,
+      "score": 924,
       "author": "cdrnsf",
       "created": "2026-02-06 12:16:43",
       "created_at": 1770380203000
     },
     {
+      "id": 46903558,
+      "title": "My AI Adoption Journey",
+      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "score": 883,
+      "author": "anurag",
+      "created": "2026-02-05 19:04:40",
+      "created_at": 1770318280000
+    },
+    {
       "id": 46903616,
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 681,
+      "score": 696,
       "author": "modeless",
       "created": "2026-02-05 19:07:51",
       "created_at": 1770318471000
     },
     {
+      "id": 46914785,
+      "title": "The Waymo World Model",
+      "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+      "score": 688,
+      "author": "xnx",
+      "created": "2026-02-06 16:20:42",
+      "created_at": 1770394842000
+    },
+    {
       "id": 46903556,
       "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
       "link": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
-      "score": 648,
+      "score": 655,
       "author": "cdrnsf",
       "created": "2026-02-05 19:04:37",
       "created_at": 1770318277000
     },
     {
-      "id": 46893970,
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "score": 508,
-      "author": "jakequist",
-      "created": "2026-02-05 00:28:06",
-      "created_at": 1770251286000
-    },
-    {
       "id": 46911869,
-      "title": "TikTok's 'Addictive Design' Found to Be Illegal in Europe",
+      "title": "TikTok's 'addictive design' found to be illegal in Europe",
       "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 506,
+      "score": 587,
       "author": "thm",
       "created": "2026-02-06 12:11:48",
       "created_at": 1770379908000
     },
     {
-      "id": 46905555,
-      "title": "It's 2026, Just Use Postgres",
-      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "score": 503,
-      "author": "turtles3",
-      "created": "2026-02-05 21:24:03",
-      "created_at": 1770326643000
+      "id": 46893970,
+      "title": "OpenClaw is what Apple intelligence should have been",
+      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "score": 510,
+      "author": "jakequist",
+      "created": "2026-02-05 00:28:06",
+      "created_at": 1770251286000
     }
   ],
   "code": 200,

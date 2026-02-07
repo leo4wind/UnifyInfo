@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-06T20:22:29.727Z"
+    "lastUpdate": "2026-02-07T01:06:11.901Z"
   },
   "data": [
     {
+      "id": 46918612,
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "link": "https://openciv3.org/",
+      "score": 295,
+      "author": "klaussilveira",
+      "created": "2026-02-06 21:51:23",
+      "created_at": 1770414683000
+    },
+    {
       "id": 46914785,
-      "title": "The Waymo World Model: A New Frontier for Autonomous Driving Simulation",
+      "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 386,
+      "score": 688,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
     },
     {
+      "id": 46918429,
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "link": "https://github.com/valdanylchuk/breezydemo",
+      "score": 99,
+      "author": "isitcontent",
+      "created": "2026-02-06 21:33:11",
+      "created_at": 1770413591000
+    },
+    {
+      "id": 46918254,
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "link": "https://github.com/pydantic/monty",
+      "score": 72,
+      "author": "dmpetrov",
+      "created": "2026-02-06 21:16:36",
+      "created_at": 1770412596000
+    },
+    {
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "link": "https://vecti.com",
-      "score": 64,
+      "score": 213,
       "author": "vecti",
       "created": "2026-02-06 19:27:37",
       "created_at": 1770406057000
     },
     {
+      "id": 46866937,
+      "title": "A century of hair samples proves leaded gas ban worked",
+      "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
+      "score": 19,
+      "author": "jnord",
+      "created": "2026-02-03 05:38:51",
+      "created_at": 1770097131000
+    },
+    {
       "id": 46913793,
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
       "link": "https://github.com/microsoft/litebox",
-      "score": 214,
+      "score": 289,
       "author": "aktau",
       "created": "2026-02-06 15:13:04",
       "created_at": 1770390784000
     },
     {
+      "id": 46918824,
+      "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+      "link": "https://github.com/phreda4/r3",
+      "score": 36,
+      "author": "phreda4",
+      "created": "2026-02-06 22:10:13",
+      "created_at": 1770415813000
+    },
+    {
       "id": 46914159,
       "title": "Sheldon Brown's Bicycle Technical Info",
       "link": "https://www.sheldonbrown.com/",
-      "score": 181,
+      "score": 283,
       "author": "ostacke",
       "created": "2026-02-06 15:40:42",
       "created_at": 1770392442000
     },
     {
-      "id": 46870514,
-      "title": "Learning from context is harder than we thought",
-      "link": "https://hy.tencent.com/research/100025?langVersion=en",
-      "score": 57,
-      "author": "limoce",
-      "created": "2026-02-03 13:07:37",
-      "created_at": 1770124057000
-    },
-    {
-      "id": 46871654,
-      "title": "Understanding Neural Network, Visually",
-      "link": "https://visualrambling.space/neural-network/",
-      "score": 150,
-      "author": "surprisetalk",
-      "created": "2026-02-03 14:49:11",
-      "created_at": 1770130151000
-    },
-    {
-      "id": 46916586,
-      "title": "How to effectively write quality code with AI",
-      "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "score": 14,
-      "author": "i5heu",
-      "created": "2026-02-06 18:49:59",
-      "created_at": 1770403799000
-    },
-    {
-      "id": 46911901,
-      "title": "I now assume that all ads on Apple news are scams",
-      "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 796,
-      "author": "cdrnsf",
-      "created": "2026-02-06 12:16:43",
-      "created_at": 1770380203000
-    },
-    {
-      "id": 46912800,
-      "title": "Hackers (1995) Animated Experience",
-      "link": "https://hackers-1995.vercel.app/",
-      "score": 253,
-      "author": "todsacerdoti",
-      "created": "2026-02-06 13:49:55",
-      "created_at": 1770385795000
-    },
-    {
-      "id": 46860623,
-      "title": "The Monad Called Free",
-      "link": "http://blog.sigfpe.com/2014/04/the-monad-called-free.html",
-      "score": 42,
-      "author": "romes",
-      "created": "2026-02-02 20:02:26",
-      "created_at": 1770062546000
+      "id": 46916609,
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "link": "https://eljojo.github.io/rememory/",
+      "score": 120,
+      "author": "eljojo",
+      "created": "2026-02-06 18:51:58",
+      "created_at": 1770403918000
     }
   ],
   "code": 200,
