@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-07T08:18:47.152Z"
+    "lastUpdate": "2026-02-07T12:25:54.175Z"
   },
   "data": [
+    {
+      "id": 46890814,
+      "title": "Start all of your commands with a comma",
+      "link": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+      "score": 167,
+      "author": "theblazehen",
+      "created": "2026-02-04 19:59:12",
+      "created_at": 1770235152000
+    },
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 560,
+      "score": 674,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
@@ -19,34 +28,34 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 879,
+      "score": 951,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
     },
     {
+      "id": 46874372,
+      "title": "Jeffrey Snover: \"Welcome to the Room\"",
+      "link": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
+      "score": 24,
+      "author": "kaonwarb",
+      "created": "2026-02-03 17:49:49",
+      "created_at": 1770140989000
+    },
+    {
       "id": 46898473,
       "title": "How we made geo joins 400× faster with H3 indexes",
       "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-      "score": 85,
+      "score": 123,
       "author": "matheusalmeida",
       "created": "2026-02-05 11:19:40",
       "created_at": 1770290380000
     },
     {
-      "id": 46867361,
-      "title": "What Is Ruliology?",
-      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "score": 11,
-      "author": "helloplanets",
-      "created": "2026-02-03 06:40:40",
-      "created_at": 1770100840000
-    },
-    {
       "id": 46868343,
       "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
       "link": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-      "score": 14,
+      "score": 58,
       "author": "videotopia",
       "created": "2026-02-03 08:49:40",
       "created_at": 1770108580000
@@ -55,7 +64,7 @@
       "id": 46918429,
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "link": "https://github.com/valdanylchuk/breezydemo",
-      "score": 193,
+      "score": 232,
       "author": "isitcontent",
       "created": "2026-02-06 21:33:11",
       "created_at": 1770413591000
@@ -64,7 +73,7 @@
       "id": 46918254,
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "link": "https://github.com/pydantic/monty",
-      "score": 191,
+      "score": 225,
       "author": "dmpetrov",
       "created": "2026-02-06 21:16:36",
       "created_at": 1770412596000
@@ -73,28 +82,19 @@
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "link": "https://vecti.com",
-      "score": 303,
+      "score": 332,
       "author": "vecti",
       "created": "2026-02-06 19:27:37",
       "created_at": 1770406057000
     },
     {
-      "id": 46913793,
-      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-      "link": "https://github.com/microsoft/litebox",
-      "score": 350,
-      "author": "aktau",
-      "created": "2026-02-06 15:13:04",
-      "created_at": 1770390784000
-    },
-    {
-      "id": 46914159,
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "link": "https://www.sheldonbrown.com/",
-      "score": 348,
-      "author": "ostacke",
-      "created": "2026-02-06 15:40:42",
-      "created_at": 1770392442000
+      "id": 46912800,
+      "title": "Hackers (1995) Animated Experience",
+      "link": "https://hackers-1995.vercel.app/",
+      "score": 495,
+      "author": "todsacerdoti",
+      "created": "2026-02-06 13:49:55",
+      "created_at": 1770385795000
     }
   ],
   "code": 200,
