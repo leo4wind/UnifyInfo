@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-07T16:17:50.617Z"
+    "lastUpdate": "2026-02-07T20:14:59.780Z"
   },
   "data": [
-    {
-      "id": 46902223,
-      "title": "Claude Opus 4.6",
-      "link": "https://www.anthropic.com/news/claude-opus-4-6",
-      "score": 2296,
-      "author": "HellsMaddy",
-      "created": "2026-02-05 17:38:53",
-      "created_at": 1770313133000
-    },
-    {
-      "id": 46902638,
-      "title": "GPT-5.3-Codex",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "score": 1503,
-      "author": "meetpateltech",
-      "created": "2026-02-05 18:08:08",
-      "created_at": 1770314888000
-    },
     {
       "id": 46911901,
       "title": "I now assume that all ads on Apple news are scams",
       "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 1109,
+      "score": 1134,
       "author": "cdrnsf",
       "created": "2026-02-06 12:16:43",
       "created_at": 1770380203000
@@ -37,64 +19,82 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1010,
+      "score": 1062,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
     },
     {
-      "id": 46903558,
-      "title": "My AI Adoption Journey",
-      "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "score": 920,
-      "author": "anurag",
-      "created": "2026-02-05 19:04:40",
-      "created_at": 1770318280000
-    },
-    {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 752,
+      "score": 834,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
     },
     {
-      "id": 46903616,
-      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "link": "https://www.anthropic.com/engineering/building-c-compiler",
-      "score": 713,
-      "author": "modeless",
-      "created": "2026-02-05 19:07:51",
-      "created_at": 1770318471000
-    },
-    {
-      "id": 46903556,
-      "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
-      "link": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
-      "score": 664,
-      "author": "cdrnsf",
-      "created": "2026-02-05 19:04:37",
-      "created_at": 1770318277000
-    },
-    {
       "id": 46911869,
       "title": "TikTok's 'addictive design' found to be illegal in Europe",
       "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 647,
+      "score": 654,
       "author": "thm",
       "created": "2026-02-06 12:11:48",
       "created_at": 1770379908000
     },
     {
+      "id": 46923736,
+      "title": "France's homegrown open source online office suite",
+      "link": "https://github.com/suitenumerique",
+      "score": 571,
+      "author": "nar001",
+      "created": "2026-02-07 13:34:34",
+      "created_at": 1770471274000
+    },
+    {
+      "id": 46912800,
+      "title": "Hackers (1995) Animated Experience",
+      "link": "https://hackers-1995.vercel.app/",
+      "score": 558,
+      "author": "todsacerdoti",
+      "created": "2026-02-06 13:49:55",
+      "created_at": 1770385795000
+    },
+    {
       "id": 46910963,
       "title": "A new bill in New York would require disclaimers on AI-generated news content",
       "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "score": 550,
+      "score": 553,
       "author": "giuliomagnifico",
       "created": "2026-02-06 09:56:55",
       "created_at": 1770371815000
+    },
+    {
+      "id": 46905555,
+      "title": "It's 2026, Just Use Postgres",
+      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
+      "score": 518,
+      "author": "turtles3",
+      "created": "2026-02-05 21:24:03",
+      "created_at": 1770326643000
+    },
+    {
+      "id": 46904361,
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "link": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "score": 518,
+      "author": "mdp",
+      "created": "2026-02-05 20:00:39",
+      "created_at": 1770321639000
+    },
+    {
+      "id": 46913903,
+      "title": "An Update on Heroku",
+      "link": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "score": 474,
+      "author": "lstoll",
+      "created": "2026-02-06 15:20:23",
+      "created_at": 1770391223000
     }
   ],
   "code": 200,
