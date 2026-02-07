@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-07T05:00:35.039Z"
+    "lastUpdate": "2026-02-07T08:18:47.152Z"
   },
   "data": [
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 472,
+      "score": 560,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
@@ -19,16 +19,43 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 811,
+      "score": 879,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
     },
     {
+      "id": 46898473,
+      "title": "How we made geo joins 400× faster with H3 indexes",
+      "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+      "score": 85,
+      "author": "matheusalmeida",
+      "created": "2026-02-05 11:19:40",
+      "created_at": 1770290380000
+    },
+    {
+      "id": 46867361,
+      "title": "What Is Ruliology?",
+      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+      "score": 11,
+      "author": "helloplanets",
+      "created": "2026-02-03 06:40:40",
+      "created_at": 1770100840000
+    },
+    {
+      "id": 46868343,
+      "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+      "link": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+      "score": 14,
+      "author": "videotopia",
+      "created": "2026-02-03 08:49:40",
+      "created_at": 1770108580000
+    },
+    {
       "id": 46918429,
       "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
       "link": "https://github.com/valdanylchuk/breezydemo",
-      "score": 157,
+      "score": 193,
       "author": "isitcontent",
       "created": "2026-02-06 21:33:11",
       "created_at": 1770413591000
@@ -37,64 +64,37 @@
       "id": 46918254,
       "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "link": "https://github.com/pydantic/monty",
-      "score": 155,
+      "score": 191,
       "author": "dmpetrov",
       "created": "2026-02-06 21:16:36",
       "created_at": 1770412596000
     },
     {
-      "id": 46898473,
-      "title": "How we made geo joins 400× faster with H3 indexes",
-      "link": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-      "score": 31,
-      "author": "matheusalmeida",
-      "created": "2026-02-05 11:19:40",
-      "created_at": 1770290380000
-    },
-    {
-      "id": 46866937,
-      "title": "A century of hair samples proves leaded gas ban worked",
-      "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
-      "score": 91,
-      "author": "jnord",
-      "created": "2026-02-03 05:38:51",
-      "created_at": 1770097131000
-    },
-    {
-      "id": 46857453,
-      "title": "Dark Alley Mathematics",
-      "link": "https://blog.szczepan.org/blog/three-points/",
-      "score": 50,
-      "author": "quibono",
-      "created": "2026-02-02 15:58:13",
-      "created_at": 1770047893000
-    },
-    {
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "link": "https://vecti.com",
-      "score": 260,
+      "score": 303,
       "author": "vecti",
       "created": "2026-02-06 19:27:37",
       "created_at": 1770406057000
     },
     {
-      "id": 46916609,
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "link": "https://eljojo.github.io/rememory/",
-      "score": 207,
-      "author": "eljojo",
-      "created": "2026-02-06 18:51:58",
-      "created_at": 1770403918000
-    },
-    {
       "id": 46913793,
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
       "link": "https://github.com/microsoft/litebox",
-      "score": 328,
+      "score": 350,
       "author": "aktau",
       "created": "2026-02-06 15:13:04",
       "created_at": 1770390784000
+    },
+    {
+      "id": 46914159,
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "link": "https://www.sheldonbrown.com/",
+      "score": 348,
+      "author": "ostacke",
+      "created": "2026-02-06 15:40:42",
+      "created_at": 1770392442000
     }
   ],
   "code": 200,
