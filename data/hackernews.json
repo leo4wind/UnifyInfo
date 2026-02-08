@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-07T20:14:59.780Z"
+    "lastUpdate": "2026-02-08T01:29:14.172Z"
   },
   "data": [
     {
       "id": 46911901,
       "title": "I now assume that all ads on Apple news are scams",
       "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 1134,
+      "score": 1145,
       "author": "cdrnsf",
       "created": "2026-02-06 12:16:43",
       "created_at": 1770380203000
@@ -19,7 +19,7 @@
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1062,
+      "score": 1113,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
@@ -28,34 +28,34 @@
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 834,
+      "score": 880,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
     },
     {
-      "id": 46911869,
-      "title": "TikTok's 'addictive design' found to be illegal in Europe",
-      "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 654,
-      "author": "thm",
-      "created": "2026-02-06 12:11:48",
-      "created_at": 1770379908000
-    },
-    {
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "link": "https://github.com/suitenumerique",
-      "score": 571,
+      "score": 687,
       "author": "nar001",
       "created": "2026-02-07 13:34:34",
       "created_at": 1770471274000
     },
     {
+      "id": 46911869,
+      "title": "TikTok's 'addictive design' found to be illegal in Europe",
+      "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "score": 657,
+      "author": "thm",
+      "created": "2026-02-06 12:11:48",
+      "created_at": 1770379908000
+    },
+    {
       "id": 46912800,
       "title": "Hackers (1995) Animated Experience",
       "link": "https://hackers-1995.vercel.app/",
-      "score": 558,
+      "score": 573,
       "author": "todsacerdoti",
       "created": "2026-02-06 13:49:55",
       "created_at": 1770385795000
@@ -64,37 +64,37 @@
       "id": 46910963,
       "title": "A new bill in New York would require disclaimers on AI-generated news content",
       "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "score": 553,
+      "score": 561,
       "author": "giuliomagnifico",
       "created": "2026-02-06 09:56:55",
       "created_at": 1770371815000
     },
     {
-      "id": 46905555,
-      "title": "It's 2026, Just Use Postgres",
-      "link": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-      "score": 518,
-      "author": "turtles3",
-      "created": "2026-02-05 21:24:03",
-      "created_at": 1770326643000
-    },
-    {
-      "id": 46904361,
-      "title": "LinkedIn checks for 2953 browser extensions",
-      "link": "https://github.com/mdp/linkedin-extension-fingerprinting",
-      "score": 518,
-      "author": "mdp",
-      "created": "2026-02-05 20:00:39",
-      "created_at": 1770321639000
-    },
-    {
       "id": 46913903,
       "title": "An Update on Heroku",
       "link": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 474,
+      "score": 487,
       "author": "lstoll",
       "created": "2026-02-06 15:20:23",
       "created_at": 1770391223000
+    },
+    {
+      "id": 46914159,
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "link": "https://www.sheldonbrown.com/",
+      "score": 439,
+      "author": "ostacke",
+      "created": "2026-02-06 15:40:42",
+      "created_at": 1770392442000
+    },
+    {
+      "id": 46926245,
+      "title": "We mourn our craft",
+      "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
+      "score": 387,
+      "author": "ColinWright",
+      "created": "2026-02-07 18:32:27",
+      "created_at": 1770489147000
     }
   ],
   "code": 200,
