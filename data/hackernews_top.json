@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-08T01:29:14.250Z"
+    "lastUpdate": "2026-02-08T05:20:16.438Z"
   },
   "data": [
     {
-      "id": 46928435,
-      "title": "Tiny C Compiler",
-      "link": "https://bellard.org/tcc/",
-      "score": 111,
-      "author": "guerrilla",
-      "created": "2026-02-07 21:45:54",
-      "created_at": 1770500754000
+      "id": 46930391,
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "link": "https://github.com/localgpt-app/localgpt",
+      "score": 106,
+      "author": "yi_wang",
+      "created": "2026-02-08 01:26:38",
+      "created_at": 1770513998000
+    },
+    {
+      "id": 46931026,
+      "title": "Bye Bye Humanity: The Potential AMOC Collapse",
+      "link": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+      "score": 20,
+      "author": "rolph",
+      "created": "2026-02-08 03:20:33",
+      "created_at": 1770520833000
     },
     {
       "id": 46925741,
-      "title": "SectorC: A C Compiler in 512 bytes",
+      "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "link": "https://xorvoid.com/sectorc.html",
-      "score": 193,
+      "score": 245,
       "author": "valyala",
       "created": "2026-02-07 17:39:53",
       "created_at": 1770485993000
     },
     {
+      "id": 46930565,
+      "title": "Haskell for all: Beyond agentic coding",
+      "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+      "score": 47,
+      "author": "RebelPotato",
+      "created": "2026-02-08 01:55:09",
+      "created_at": 1770515709000
+    },
+    {
+      "id": 46931213,
+      "title": "Homeland Security Spying on Reddit Users",
+      "link": "https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit",
+      "score": 46,
+      "author": "duxup",
+      "created": "2026-02-08 03:59:24",
+      "created_at": 1770523164000
+    },
+    {
       "id": 46926043,
       "title": "Speed up responses with fast mode",
       "link": "https://code.claude.com/docs/en/fast-mode",
-      "score": 114,
+      "score": 161,
       "author": "surprisetalk",
       "created": "2026-02-07 18:08:23",
       "created_at": 1770487703000
     },
     {
-      "id": 46926576,
-      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
-      "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
-      "score": 44,
-      "author": "gnufx",
-      "created": "2026-02-07 19:07:27",
-      "created_at": 1770491247000
-    },
-    {
       "id": 46924426,
       "title": "Software factories and the agentic moment",
       "link": "https://factory.strongdm.ai/",
-      "score": 134,
+      "score": 192,
       "author": "mellosouls",
       "created": "2026-02-07 15:05:56",
       "created_at": 1770476756000
     },
     {
-      "id": 46918612,
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "link": "https://openciv3.org/",
-      "score": 880,
-      "author": "klaussilveira",
-      "created": "2026-02-06 21:51:23",
-      "created_at": 1770414683000
+      "id": 46926576,
+      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+      "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+      "score": 70,
+      "author": "gnufx",
+      "created": "2026-02-07 19:07:27",
+      "created_at": 1770491247000
     },
     {
-      "id": 46924264,
-      "title": "Stories from 25 Years of Software Development",
-      "link": "https://susam.net/twenty-five-years-of-computing.html",
-      "score": 132,
-      "author": "vinhnx",
-      "created": "2026-02-07 14:42:16",
-      "created_at": 1770475336000
+      "id": 46868928,
+      "title": "LLMs as the new high level language",
+      "link": "https://federicopereiro.com/llm-high/",
+      "score": 58,
+      "author": "swah",
+      "created": "2026-02-03 10:00:03",
+      "created_at": 1770112803000
     },
     {
       "id": 46923254,
       "title": "Hoot: Scheme on WebAssembly",
       "link": "https://www.spritely.institute/hoot/",
-      "score": 166,
+      "score": 179,
       "author": "AlexeyBrin",
       "created": "2026-02-07 12:18:20",
       "created_at": 1770466700000
-    },
-    {
-      "id": 46928810,
-      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-      "score": 63,
-      "author": "randycupertino",
-      "created": "2026-02-07 22:25:03",
-      "created_at": 1770503103000
-    },
-    {
-      "id": 46924591,
-      "title": "First Proof",
-      "link": "https://arxiv.org/abs/2602.05192",
-      "score": 99,
-      "author": "samasblack",
-      "created": "2026-02-07 15:25:49",
-      "created_at": 1770477949000
     }
   ],
   "code": 200,
