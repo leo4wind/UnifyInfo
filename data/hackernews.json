@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-08T16:18:33.746Z"
+    "lastUpdate": "2026-02-08T20:15:24.492Z"
   },
   "data": [
-    {
-      "id": 46914785,
-      "title": "The Waymo World Model",
-      "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1131,
-      "author": "xnx",
-      "created": "2026-02-06 16:20:42",
-      "created_at": 1770394842000
-    },
     {
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 940,
+      "score": 945,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
@@ -28,73 +19,82 @@
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "link": "https://github.com/suitenumerique",
-      "score": 766,
+      "score": 774,
       "author": "nar001",
       "created": "2026-02-07 13:34:34",
       "created_at": 1770471274000
     },
     {
-      "id": 46913903,
-      "title": "An Update on Heroku",
-      "link": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 500,
-      "author": "lstoll",
-      "created": "2026-02-06 15:20:23",
-      "created_at": 1770391223000
-    },
-    {
       "id": 46926245,
       "title": "We mourn our craft",
       "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 496,
+      "score": 630,
       "author": "ColinWright",
       "created": "2026-02-07 18:32:27",
       "created_at": 1770489147000
     },
     {
-      "id": 46914159,
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "link": "https://www.sheldonbrown.com/",
-      "score": 454,
-      "author": "ostacke",
-      "created": "2026-02-06 15:40:42",
-      "created_at": 1770392442000
-    },
-    {
       "id": 46922049,
       "title": "Vocal Guide – belt sing without killing yourself",
       "link": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 398,
+      "score": 404,
       "author": "jesperordrup",
       "created": "2026-02-07 07:37:03",
       "created_at": 1770449823000
     },
     {
-      "id": 46916609,
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "link": "https://eljojo.github.io/rememory/",
-      "score": 387,
-      "author": "eljojo",
-      "created": "2026-02-06 18:51:58",
-      "created_at": 1770403918000
+      "id": 46922969,
+      "title": "The AI boom is causing shortages everywhere else",
+      "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "score": 382,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-02-07 11:21:29",
+      "created_at": 1770463289000
     },
     {
       "id": 46917033,
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
       "link": "https://vecti.com",
-      "score": 379,
+      "score": 381,
       "author": "vecti",
       "created": "2026-02-06 19:27:37",
       "created_at": 1770406057000
     },
     {
-      "id": 46922969,
-      "title": "The AI boom is causing shortages everywhere else",
-      "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 374,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-02-07 11:21:29",
-      "created_at": 1770463289000
+      "id": 46925741,
+      "title": "SectorC: A C Compiler in 512 bytes (2023)",
+      "link": "https://xorvoid.com/sectorc.html",
+      "score": 364,
+      "author": "valyala",
+      "created": "2026-02-07 17:39:53",
+      "created_at": 1770485993000
+    },
+    {
+      "id": 46934404,
+      "title": "AI fatigue is real and nobody talks about it",
+      "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+      "score": 356,
+      "author": "sidk24",
+      "created": "2026-02-08 14:19:32",
+      "created_at": 1770560372000
+    },
+    {
+      "id": 46932192,
+      "title": "DoNotNotify is now Open Source",
+      "link": "https://donotnotify.com/opensource.html",
+      "score": 356,
+      "author": "awaaz",
+      "created": "2026-02-08 07:39:49",
+      "created_at": 1770536389000
+    },
+    {
+      "id": 46923543,
+      "title": "Coding agents have replaced every framework I used",
+      "link": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+      "score": 352,
+      "author": "alainrk",
+      "created": "2026-02-07 13:07:09",
+      "created_at": 1770469629000
     }
   ],
   "code": 200,

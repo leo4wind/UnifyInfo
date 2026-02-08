@@ -3,32 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-08T16:18:33.924Z"
+    "lastUpdate": "2026-02-08T20:15:24.986Z"
   },
   "data": [
     {
-      "id": 46934344,
-      "title": "I am happier writing code by hand",
-      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 170,
-      "author": "lazyfolder",
-      "created": "2026-02-08 14:12:18",
-      "created_at": 1770559938000
+      "id": 46930961,
+      "title": "Vouch",
+      "link": "https://github.com/mitchellh/vouch",
+      "score": 278,
+      "author": "chwtutha",
+      "created": "2026-02-08 03:09:28",
+      "created_at": 1770520168000
     },
     {
-      "id": 46934404,
-      "title": "AI fatigue Is real and nobody talks about it",
-      "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 236,
-      "author": "sidk24",
-      "created": "2026-02-08 14:19:32",
-      "created_at": 1770560372000
+      "id": 46935791,
+      "title": "I put a real-time 3D shader on the Game Boy Color",
+      "link": "https://blog.otterstack.com/posts/202512-gbshader/",
+      "score": 156,
+      "author": "adunk",
+      "created": "2026-02-08 16:28:51",
+      "created_at": 1770568131000
+    },
+    {
+      "id": 46937012,
+      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+      "link": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+      "score": 47,
+      "author": "nullcathedral",
+      "created": "2026-02-08 18:24:26",
+      "created_at": 1770575066000
+    },
+    {
+      "id": 46936828,
+      "title": "The Little Bool of Doom",
+      "link": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+      "score": 40,
+      "author": "pocksuppet",
+      "created": "2026-02-08 18:02:50",
+      "created_at": 1770573770000
+    },
+    {
+      "id": 46936237,
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
+      "link": "https://underhillgame.com/",
+      "score": 60,
+      "author": "ariaalam",
+      "created": "2026-02-08 17:08:30",
+      "created_at": 1770570510000
     },
     {
       "id": 46934499,
       "title": "RFC 3092 – Etymology of \"Foo\" (2001)",
       "link": "https://datatracker.ietf.org/doc/html/rfc3092",
-      "score": 35,
+      "score": 97,
       "author": "ipnon",
       "created": "2026-02-08 14:32:28",
       "created_at": 1770561148000
@@ -37,7 +64,7 @@
       "id": 46934107,
       "title": "GitHub Agentic Workflows",
       "link": "https://github.github.io/gh-aw/",
-      "score": 36,
+      "score": 134,
       "author": "mooreds",
       "created": "2026-02-08 13:40:56",
       "created_at": 1770558056000
@@ -46,55 +73,28 @@
       "id": 46934266,
       "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
       "link": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
-      "score": 32,
+      "score": 96,
       "author": "todsacerdoti",
       "created": "2026-02-08 14:02:58",
       "created_at": 1770559378000
     },
     {
-      "id": 46888258,
-      "title": "Show HN: It took 4 years to sell my startup. I wrote a book about it",
-      "link": "https://derekyan.com/ma-book/",
-      "score": 72,
-      "author": "zhyan7109",
-      "created": "2026-02-04 16:56:11",
-      "created_at": 1770224171000
+      "id": 46934579,
+      "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
+      "link": "https://habr.com/en/articles/446238/",
+      "score": 59,
+      "author": "todsacerdoti",
+      "created": "2026-02-08 14:40:52",
+      "created_at": 1770561652000
     },
     {
-      "id": 46925672,
-      "title": "The Contagious Taste of Cancer",
-      "link": "https://www.historytoday.com/archive/history-matters/contagious-taste-cancer",
-      "score": 15,
-      "author": "Thevet",
-      "created": "2026-02-07 17:31:44",
-      "created_at": 1770485504000
-    },
-    {
-      "id": 46932985,
-      "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
-      "link": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
-      "score": 67,
-      "author": "bryanrasmussen",
-      "created": "2026-02-08 10:13:00",
-      "created_at": 1770545580000
-    },
-    {
-      "id": 46932343,
-      "title": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
-      "link": "https://github.com/jingkaihe/matchlock",
-      "score": 98,
-      "author": "jingkai_he",
-      "created": "2026-02-08 08:07:55",
-      "created_at": 1770538075000
-    },
-    {
-      "id": 46932678,
-      "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
-      "link": "https://github.com/joshuanwalker/Raiders2600",
-      "score": 49,
-      "author": "pacod",
-      "created": "2026-02-08 09:10:18",
-      "created_at": 1770541818000
+      "id": 46935991,
+      "title": "Omega-3 is inversely related to risk of early-onset dementia",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
+      "score": 151,
+      "author": "brandonb",
+      "created": "2026-02-08 16:47:08",
+      "created_at": 1770569228000
     }
   ],
   "code": 200,
