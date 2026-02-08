@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-08T12:26:44.156Z"
+    "lastUpdate": "2026-02-08T16:18:33.746Z"
   },
   "data": [
-    {
-      "id": 46911901,
-      "title": "I now assume that all ads on Apple news are scams",
-      "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "score": 1154,
-      "author": "cdrnsf",
-      "created": "2026-02-06 12:16:43",
-      "created_at": 1770380203000
-    },
     {
       "id": 46914785,
       "title": "The Waymo World Model",
       "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-      "score": 1125,
+      "score": 1131,
       "author": "xnx",
       "created": "2026-02-06 16:20:42",
       "created_at": 1770394842000
@@ -28,7 +19,7 @@
       "id": 46918612,
       "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
       "link": "https://openciv3.org/",
-      "score": 930,
+      "score": 940,
       "author": "klaussilveira",
       "created": "2026-02-06 21:51:23",
       "created_at": 1770414683000
@@ -37,64 +28,73 @@
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "link": "https://github.com/suitenumerique",
-      "score": 753,
+      "score": 766,
       "author": "nar001",
       "created": "2026-02-07 13:34:34",
       "created_at": 1770471274000
     },
     {
-      "id": 46911869,
-      "title": "TikTok's 'addictive design' found to be illegal in Europe",
-      "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-      "score": 671,
-      "author": "thm",
-      "created": "2026-02-06 12:11:48",
-      "created_at": 1770379908000
-    },
-    {
-      "id": 46912800,
-      "title": "Hackers (1995) Animated Experience",
-      "link": "https://hackers-1995.vercel.app/",
-      "score": 594,
-      "author": "todsacerdoti",
-      "created": "2026-02-06 13:49:55",
-      "created_at": 1770385795000
-    },
-    {
       "id": 46913903,
       "title": "An Update on Heroku",
       "link": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "score": 499,
+      "score": 500,
       "author": "lstoll",
       "created": "2026-02-06 15:20:23",
       "created_at": 1770391223000
     },
     {
-      "id": 46914159,
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "link": "https://www.sheldonbrown.com/",
-      "score": 451,
-      "author": "ostacke",
-      "created": "2026-02-06 15:40:42",
-      "created_at": 1770392442000
-    },
-    {
       "id": 46926245,
       "title": "We mourn our craft",
       "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 423,
+      "score": 496,
       "author": "ColinWright",
       "created": "2026-02-07 18:32:27",
       "created_at": 1770489147000
     },
     {
-      "id": 46913793,
-      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-      "link": "https://github.com/microsoft/litebox",
-      "score": 386,
-      "author": "aktau",
-      "created": "2026-02-06 15:13:04",
-      "created_at": 1770390784000
+      "id": 46914159,
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "link": "https://www.sheldonbrown.com/",
+      "score": 454,
+      "author": "ostacke",
+      "created": "2026-02-06 15:40:42",
+      "created_at": 1770392442000
+    },
+    {
+      "id": 46922049,
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "link": "https://jesperordrup.github.io/vocal-guide/",
+      "score": 398,
+      "author": "jesperordrup",
+      "created": "2026-02-07 07:37:03",
+      "created_at": 1770449823000
+    },
+    {
+      "id": 46916609,
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "link": "https://eljojo.github.io/rememory/",
+      "score": 387,
+      "author": "eljojo",
+      "created": "2026-02-06 18:51:58",
+      "created_at": 1770403918000
+    },
+    {
+      "id": 46917033,
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "link": "https://vecti.com",
+      "score": 379,
+      "author": "vecti",
+      "created": "2026-02-06 19:27:37",
+      "created_at": 1770406057000
+    },
+    {
+      "id": 46922969,
+      "title": "The AI boom is causing shortages everywhere else",
+      "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "score": 374,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-02-07 11:21:29",
+      "created_at": 1770463289000
     }
   ],
   "code": 200,

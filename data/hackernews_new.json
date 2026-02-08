@@ -3,41 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-08T12:26:44.410Z"
+    "lastUpdate": "2026-02-08T16:18:33.924Z"
   },
   "data": [
     {
-      "id": 46932192,
-      "title": "DoNotNotify is now Open Source",
-      "link": "https://donotnotify.com/opensource.html",
-      "score": 208,
-      "author": "awaaz",
-      "created": "2026-02-08 07:39:49",
-      "created_at": 1770536389000
+      "id": 46934344,
+      "title": "I am happier writing code by hand",
+      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+      "score": 170,
+      "author": "lazyfolder",
+      "created": "2026-02-08 14:12:18",
+      "created_at": 1770559938000
     },
     {
-      "id": 46933401,
-      "title": "Dave Farber has passed away",
-      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
-      "score": 21,
-      "author": "vitplister",
-      "created": "2026-02-08 11:38:57",
-      "created_at": 1770550737000
+      "id": 46934404,
+      "title": "AI fatigue Is real and nobody talks about it",
+      "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+      "score": 236,
+      "author": "sidk24",
+      "created": "2026-02-08 14:19:32",
+      "created_at": 1770560372000
     },
     {
-      "id": 46933365,
-      "title": "Why E cores make Apple Silicon fast",
-      "link": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
-      "score": 4,
-      "author": "ingve",
-      "created": "2026-02-08 11:31:49",
-      "created_at": 1770550309000
+      "id": 46934499,
+      "title": "RFC 3092 – Etymology of \"Foo\" (2001)",
+      "link": "https://datatracker.ietf.org/doc/html/rfc3092",
+      "score": 35,
+      "author": "ipnon",
+      "created": "2026-02-08 14:32:28",
+      "created_at": 1770561148000
+    },
+    {
+      "id": 46934107,
+      "title": "GitHub Agentic Workflows",
+      "link": "https://github.github.io/gh-aw/",
+      "score": 36,
+      "author": "mooreds",
+      "created": "2026-02-08 13:40:56",
+      "created_at": 1770558056000
+    },
+    {
+      "id": 46934266,
+      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+      "link": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
+      "score": 32,
+      "author": "todsacerdoti",
+      "created": "2026-02-08 14:02:58",
+      "created_at": 1770559378000
+    },
+    {
+      "id": 46888258,
+      "title": "Show HN: It took 4 years to sell my startup. I wrote a book about it",
+      "link": "https://derekyan.com/ma-book/",
+      "score": 72,
+      "author": "zhyan7109",
+      "created": "2026-02-04 16:56:11",
+      "created_at": 1770224171000
+    },
+    {
+      "id": 46925672,
+      "title": "The Contagious Taste of Cancer",
+      "link": "https://www.historytoday.com/archive/history-matters/contagious-taste-cancer",
+      "score": 15,
+      "author": "Thevet",
+      "created": "2026-02-07 17:31:44",
+      "created_at": 1770485504000
+    },
+    {
+      "id": 46932985,
+      "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
+      "link": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
+      "score": 67,
+      "author": "bryanrasmussen",
+      "created": "2026-02-08 10:13:00",
+      "created_at": 1770545580000
     },
     {
       "id": 46932343,
-      "title": "Matchlock: Linux-based sandboxing for AI agents",
+      "title": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
       "link": "https://github.com/jingkaihe/matchlock",
-      "score": 42,
+      "score": 98,
       "author": "jingkai_he",
       "created": "2026-02-08 08:07:55",
       "created_at": 1770538075000
@@ -46,55 +91,10 @@
       "id": 46932678,
       "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
       "link": "https://github.com/joshuanwalker/Raiders2600",
-      "score": 16,
+      "score": 49,
       "author": "pacod",
       "created": "2026-02-08 09:10:18",
       "created_at": 1770541818000
-    },
-    {
-      "id": 46930391,
-      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-      "link": "https://github.com/localgpt-app/localgpt",
-      "score": 248,
-      "author": "yi_wang",
-      "created": "2026-02-08 01:26:38",
-      "created_at": 1770513998000
-    },
-    {
-      "id": 46930565,
-      "title": "Haskell for all: Beyond agentic coding",
-      "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 146,
-      "author": "RebelPotato",
-      "created": "2026-02-08 01:55:09",
-      "created_at": 1770515709000
-    },
-    {
-      "id": 46933067,
-      "title": "(AI) Slop Terrifies Me",
-      "link": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 35,
-      "author": "Ezhik",
-      "created": "2026-02-08 10:31:35",
-      "created_at": 1770546695000
-    },
-    {
-      "id": 46925741,
-      "title": "SectorC: A C Compiler in 512 bytes (2023)",
-      "link": "https://xorvoid.com/sectorc.html",
-      "score": 324,
-      "author": "valyala",
-      "created": "2026-02-07 17:39:53",
-      "created_at": 1770485993000
-    },
-    {
-      "id": 46886569,
-      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
-      "link": "https://rabbitear.org/book/origami.html",
-      "score": 16,
-      "author": "molszanski",
-      "created": "2026-02-04 14:57:38",
-      "created_at": 1770217058000
     }
   ],
   "code": 200,
