@@ -3,14 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-08T08:21:34.037Z"
+    "lastUpdate": "2026-02-08T12:26:44.410Z"
   },
   "data": [
+    {
+      "id": 46932192,
+      "title": "DoNotNotify is now Open Source",
+      "link": "https://donotnotify.com/opensource.html",
+      "score": 208,
+      "author": "awaaz",
+      "created": "2026-02-08 07:39:49",
+      "created_at": 1770536389000
+    },
+    {
+      "id": 46933401,
+      "title": "Dave Farber has passed away",
+      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
+      "score": 21,
+      "author": "vitplister",
+      "created": "2026-02-08 11:38:57",
+      "created_at": 1770550737000
+    },
+    {
+      "id": 46933365,
+      "title": "Why E cores make Apple Silicon fast",
+      "link": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
+      "score": 4,
+      "author": "ingve",
+      "created": "2026-02-08 11:31:49",
+      "created_at": 1770550309000
+    },
+    {
+      "id": 46932343,
+      "title": "Matchlock: Linux-based sandboxing for AI agents",
+      "link": "https://github.com/jingkaihe/matchlock",
+      "score": 42,
+      "author": "jingkai_he",
+      "created": "2026-02-08 08:07:55",
+      "created_at": 1770538075000
+    },
+    {
+      "id": 46932678,
+      "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
+      "link": "https://github.com/joshuanwalker/Raiders2600",
+      "score": 16,
+      "author": "pacod",
+      "created": "2026-02-08 09:10:18",
+      "created_at": 1770541818000
+    },
     {
       "id": 46930391,
       "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
       "link": "https://github.com/localgpt-app/localgpt",
-      "score": 192,
+      "score": 248,
       "author": "yi_wang",
       "created": "2026-02-08 01:26:38",
       "created_at": 1770513998000
@@ -19,82 +64,37 @@
       "id": 46930565,
       "title": "Haskell for all: Beyond agentic coding",
       "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-      "score": 91,
+      "score": 146,
       "author": "RebelPotato",
       "created": "2026-02-08 01:55:09",
       "created_at": 1770515709000
     },
     {
+      "id": 46933067,
+      "title": "(AI) Slop Terrifies Me",
+      "link": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "score": 35,
+      "author": "Ezhik",
+      "created": "2026-02-08 10:31:35",
+      "created_at": 1770546695000
+    },
+    {
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "link": "https://xorvoid.com/sectorc.html",
-      "score": 280,
+      "score": 324,
       "author": "valyala",
       "created": "2026-02-07 17:39:53",
       "created_at": 1770485993000
     },
     {
-      "id": 46924426,
-      "title": "Software factories and the agentic moment",
-      "link": "https://factory.strongdm.ai/",
-      "score": 220,
-      "author": "mellosouls",
-      "created": "2026-02-07 15:05:56",
-      "created_at": 1770476756000
-    },
-    {
-      "id": 46868928,
-      "title": "LLMs as the new high level language",
-      "link": "https://federicopereiro.com/llm-high/",
-      "score": 89,
-      "author": "swah",
-      "created": "2026-02-03 10:00:03",
-      "created_at": 1770112803000
-    },
-    {
-      "id": 46861158,
-      "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-      "link": "https://aosabook.org/en/v1/bdb.html",
-      "score": 21,
-      "author": "grep_it",
-      "created": "2026-02-02 20:37:41",
-      "created_at": 1770064661000
-    },
-    {
-      "id": 46926043,
-      "title": "Speed up responses with fast mode",
-      "link": "https://code.claude.com/docs/en/fast-mode",
-      "score": 177,
-      "author": "surprisetalk",
-      "created": "2026-02-07 18:08:23",
-      "created_at": 1770487703000
-    },
-    {
-      "id": 46931948,
-      "title": "The world heard JD Vance being booed at the Olympics. Except for viewers in USA",
-      "link": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
-      "score": 126,
-      "author": "treetalker",
-      "created": "2026-02-08 07:00:40",
-      "created_at": 1770534040000
-    },
-    {
-      "id": 46931595,
-      "title": "LineageOS 23.2",
-      "link": "https://lineageos.org/Changelog-31/",
-      "score": 27,
-      "author": "pentagrama",
-      "created": "2026-02-08 05:33:15",
-      "created_at": 1770528795000
-    },
-    {
-      "id": 46923254,
-      "title": "Hoot: Scheme on WebAssembly",
-      "link": "https://www.spritely.institute/hoot/",
-      "score": 188,
-      "author": "AlexeyBrin",
-      "created": "2026-02-07 12:18:20",
-      "created_at": 1770466700000
+      "id": 46886569,
+      "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
+      "link": "https://rabbitear.org/book/origami.html",
+      "score": 16,
+      "author": "molszanski",
+      "created": "2026-02-04 14:57:38",
+      "created_at": 1770217058000
     }
   ],
   "code": 200,
