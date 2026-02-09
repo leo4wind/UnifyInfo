@@ -3,86 +3,77 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-09T12:42:49.335Z"
+    "lastUpdate": "2026-02-09T20:30:16.214Z"
   },
   "data": [
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 905,
+      "score": 1038,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
-      "id": 46923736,
-      "title": "France's homegrown open source online office suite",
-      "link": "https://github.com/suitenumerique",
-      "score": 803,
-      "author": "nar001",
-      "created": "2026-02-07 13:34:34",
-      "created_at": 1770471274000
-    },
-    {
-      "id": 46926245,
-      "title": "We mourn our craft",
-      "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 738,
-      "author": "ColinWright",
-      "created": "2026-02-07 18:32:27",
-      "created_at": 1770489147000
-    },
-    {
-      "id": 46934404,
-      "title": "AI fatigue is real and nobody talks about it",
-      "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 430,
-      "author": "sidk24",
-      "created": "2026-02-08 14:19:32",
-      "created_at": 1770560372000
-    },
-    {
       "id": 46938511,
       "title": "Art of Roads in Games",
       "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "score": 401,
+      "score": 555,
       "author": "linolevan",
       "created": "2026-02-08 21:05:24",
       "created_at": 1770584724000
     },
     {
-      "id": 46932192,
-      "title": "DoNotNotify is now Open Source",
-      "link": "https://donotnotify.com/opensource.html",
-      "score": 396,
-      "author": "awaaz",
-      "created": "2026-02-08 07:39:49",
-      "created_at": 1770536389000
+      "id": 46945663,
+      "title": "Discord will require a face scan or ID for full access next month",
+      "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "score": 517,
+      "author": "x01",
+      "created": "2026-02-09 14:37:38",
+      "created_at": 1770647858000
     },
     {
       "id": 46939593,
       "title": "AI makes the easy part easier and the hard part harder",
       "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "score": 386,
+      "score": 481,
       "author": "weaksauce",
       "created": "2026-02-08 23:13:34",
       "created_at": 1770592414000
     },
     {
-      "id": 46925741,
-      "title": "SectorC: A C Compiler in 512 bytes (2023)",
-      "link": "https://xorvoid.com/sectorc.html",
-      "score": 378,
-      "author": "valyala",
-      "created": "2026-02-07 17:39:53",
-      "created_at": 1770485993000
+      "id": 46934404,
+      "title": "AI fatigue is real and nobody talks about it",
+      "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+      "score": 442,
+      "author": "sidk24",
+      "created": "2026-02-08 14:19:32",
+      "created_at": 1770560372000
+    },
+    {
+      "id": 46932192,
+      "title": "DoNotNotify is now Open Source",
+      "link": "https://donotnotify.com/opensource.html",
+      "score": 405,
+      "author": "awaaz",
+      "created": "2026-02-08 07:39:49",
+      "created_at": 1770536389000
+    },
+    {
+      "id": 46946827,
+      "title": "GitHub is down again",
+      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+      "score": 400,
+      "author": "MattIPv4",
+      "created": "2026-02-09 16:12:19",
+      "created_at": 1770653539000
     },
     {
       "id": 46933067,
       "title": "Slop Terrifies Me",
       "link": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 374,
+      "score": 390,
       "author": "Ezhik",
       "created": "2026-02-08 10:31:35",
       "created_at": 1770546695000
@@ -91,10 +82,19 @@
       "id": 46934344,
       "title": "I am happier writing code by hand",
       "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 371,
+      "score": 383,
       "author": "lazyfolder",
       "created": "2026-02-08 14:12:18",
       "created_at": 1770559938000
+    },
+    {
+      "id": 46941603,
+      "title": "Claude’s C Compiler vs. GCC",
+      "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "score": 329,
+      "author": "unchar1",
+      "created": "2026-02-09 04:30:38",
+      "created_at": 1770611438000
     }
   ],
   "code": 200,
