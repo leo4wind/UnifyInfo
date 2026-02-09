@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-09T01:13:59.320Z"
+    "lastUpdate": "2026-02-09T05:23:21.122Z"
   },
   "data": [
+    {
+      "id": 46938511,
+      "title": "Art of Roads in Games",
+      "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "score": 147,
+      "author": "linolevan",
+      "created": "2026-02-08 21:05:24",
+      "created_at": 1770584724000
+    },
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 581,
+      "score": 727,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
-      "id": 46939593,
-      "title": "AI makes the easy part easier and the hard part harder",
-      "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "score": 104,
-      "author": "weaksauce",
-      "created": "2026-02-08 23:13:34",
-      "created_at": 1770592414000
+      "id": 46941603,
+      "title": "Claude's C Compiler vs. GCC",
+      "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "score": 6,
+      "author": "unchar1",
+      "created": "2026-02-09 04:30:38",
+      "created_at": 1770611438000
     },
     {
       "id": 46939187,
       "title": "Reverse Engineering the Prom for the SGI O2",
       "link": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
-      "score": 36,
+      "score": 73,
       "author": "mattst88",
       "created": "2026-02-08 22:25:25",
       "created_at": 1770589525000
     },
     {
-      "id": 46938398,
-      "title": "More Mac malware from Google search",
-      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-      "score": 66,
-      "author": "kristianp",
-      "created": "2026-02-08 20:52:55",
-      "created_at": 1770583975000
+      "id": 46885841,
+      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
+      "link": "https://sir68k.re/posts/rh1-firmware-available/",
+      "score": 24,
+      "author": "jimbauwens",
+      "created": "2026-02-04 13:57:39",
+      "created_at": 1770213459000
+    },
+    {
+      "id": 46941640,
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "link": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "score": 24,
+      "author": "dev_tty01",
+      "created": "2026-02-09 04:38:14",
+      "created_at": 1770611894000
+    },
+    {
+      "id": 46932444,
+      "title": "Quartz crystals",
+      "link": "https://www.pa3fwm.nl/technotes/tn13a.html",
+      "score": 54,
+      "author": "gtsnexp",
+      "created": "2026-02-08 08:26:36",
+      "created_at": 1770539196000
     },
     {
       "id": 46938280,
       "title": "Apple XNU: Clutch Scheduler",
       "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "score": 77,
+      "score": 118,
       "author": "tosh",
       "created": "2026-02-08 20:38:55",
       "created_at": 1770583135000
     },
     {
-      "id": 46938903,
-      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)",
-      "link": "https://arxiv.org/abs/2510.25417",
-      "score": 120,
-      "author": "vinnyglennon",
-      "created": "2026-02-08 21:52:28",
-      "created_at": 1770587548000
+      "id": 46939312,
+      "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+      "link": "https://bobbiec.github.io/cistercian-font.html",
+      "score": 43,
+      "author": "bobbiechen",
+      "created": "2026-02-08 22:39:46",
+      "created_at": 1770590386000
     },
     {
-      "id": 46937696,
-      "title": "Ask HN: What are you working on? (February 2026)",
-      "link": "",
-      "score": 56,
-      "author": "david927",
-      "created": "2026-02-08 19:35:55",
-      "created_at": 1770579355000
-    },
-    {
-      "id": 46937012,
-      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-      "link": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
-      "score": 100,
-      "author": "nullcathedral",
-      "created": "2026-02-08 18:24:26",
-      "created_at": 1770575066000
-    },
-    {
-      "id": 46936828,
-      "title": "The Little Bool of Doom (2025)",
-      "link": "https://blog.svgames.pl/article/the-little-bool-of-doom",
-      "score": 77,
-      "author": "pocksuppet",
-      "created": "2026-02-08 18:02:50",
-      "created_at": 1770573770000
-    },
-    {
-      "id": 46936237,
-      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
-      "link": "https://underhillgame.com/",
-      "score": 129,
-      "author": "ariaalam",
-      "created": "2026-02-08 17:08:30",
-      "created_at": 1770570510000
+      "id": 46938398,
+      "title": "More Mac malware from Google search",
+      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "score": 135,
+      "author": "kristianp",
+      "created": "2026-02-08 20:52:55",
+      "created_at": 1770583975000
     }
   ],
   "code": 200,
