@@ -3,41 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-08T20:15:24.734Z"
+    "lastUpdate": "2026-02-09T01:13:59.292Z"
   },
   "data": [
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 278,
+      "score": 581,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
-      "id": 46935791,
-      "title": "I put a real-time 3D shader on the Game Boy Color",
-      "link": "https://blog.otterstack.com/posts/202512-gbshader/",
-      "score": 156,
-      "author": "adunk",
-      "created": "2026-02-08 16:28:51",
-      "created_at": 1770568131000
+      "id": 46939593,
+      "title": "AI makes the easy part easier and the hard part harder",
+      "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "score": 104,
+      "author": "weaksauce",
+      "created": "2026-02-08 23:13:34",
+      "created_at": 1770592414000
+    },
+    {
+      "id": 46939187,
+      "title": "Reverse Engineering the Prom for the SGI O2",
+      "link": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+      "score": 36,
+      "author": "mattst88",
+      "created": "2026-02-08 22:25:25",
+      "created_at": 1770589525000
+    },
+    {
+      "id": 46938398,
+      "title": "More Mac malware from Google search",
+      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "score": 66,
+      "author": "kristianp",
+      "created": "2026-02-08 20:52:55",
+      "created_at": 1770583975000
+    },
+    {
+      "id": 46938280,
+      "title": "Apple XNU: Clutch Scheduler",
+      "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+      "score": 77,
+      "author": "tosh",
+      "created": "2026-02-08 20:38:55",
+      "created_at": 1770583135000
+    },
+    {
+      "id": 46938903,
+      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)",
+      "link": "https://arxiv.org/abs/2510.25417",
+      "score": 120,
+      "author": "vinnyglennon",
+      "created": "2026-02-08 21:52:28",
+      "created_at": 1770587548000
+    },
+    {
+      "id": 46937696,
+      "title": "Ask HN: What are you working on? (February 2026)",
+      "link": "",
+      "score": 56,
+      "author": "david927",
+      "created": "2026-02-08 19:35:55",
+      "created_at": 1770579355000
     },
     {
       "id": 46937012,
       "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
       "link": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
-      "score": 47,
+      "score": 100,
       "author": "nullcathedral",
       "created": "2026-02-08 18:24:26",
       "created_at": 1770575066000
     },
     {
       "id": 46936828,
-      "title": "The Little Bool of Doom",
+      "title": "The Little Bool of Doom (2025)",
       "link": "https://blog.svgames.pl/article/the-little-bool-of-doom",
-      "score": 40,
+      "score": 77,
       "author": "pocksuppet",
       "created": "2026-02-08 18:02:50",
       "created_at": 1770573770000
@@ -46,55 +91,10 @@
       "id": 46936237,
       "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
       "link": "https://underhillgame.com/",
-      "score": 60,
+      "score": 129,
       "author": "ariaalam",
       "created": "2026-02-08 17:08:30",
       "created_at": 1770570510000
-    },
-    {
-      "id": 46934499,
-      "title": "RFC 3092 – Etymology of \"Foo\" (2001)",
-      "link": "https://datatracker.ietf.org/doc/html/rfc3092",
-      "score": 97,
-      "author": "ipnon",
-      "created": "2026-02-08 14:32:28",
-      "created_at": 1770561148000
-    },
-    {
-      "id": 46934107,
-      "title": "GitHub Agentic Workflows",
-      "link": "https://github.github.io/gh-aw/",
-      "score": 134,
-      "author": "mooreds",
-      "created": "2026-02-08 13:40:56",
-      "created_at": 1770558056000
-    },
-    {
-      "id": 46934266,
-      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-      "link": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
-      "score": 96,
-      "author": "todsacerdoti",
-      "created": "2026-02-08 14:02:58",
-      "created_at": 1770559378000
-    },
-    {
-      "id": 46934579,
-      "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
-      "link": "https://habr.com/en/articles/446238/",
-      "score": 59,
-      "author": "todsacerdoti",
-      "created": "2026-02-08 14:40:52",
-      "created_at": 1770561652000
-    },
-    {
-      "id": 46935991,
-      "title": "Omega-3 is inversely related to risk of early-onset dementia",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
-      "score": 151,
-      "author": "brandonb",
-      "created": "2026-02-08 16:47:08",
-      "created_at": 1770569228000
     }
   ],
   "code": 200,
