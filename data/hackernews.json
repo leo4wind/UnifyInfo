@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-09T05:23:20.947Z"
+    "lastUpdate": "2026-02-09T08:38:48.646Z"
   },
   "data": [
-    {
-      "id": 46923736,
-      "title": "France's homegrown open source online office suite",
-      "link": "https://github.com/suitenumerique",
-      "score": 793,
-      "author": "nar001",
-      "created": "2026-02-07 13:34:34",
-      "created_at": 1770471274000
-    },
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 727,
+      "score": 809,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
+      "id": 46923736,
+      "title": "France's homegrown open source online office suite",
+      "link": "https://github.com/suitenumerique",
+      "score": 798,
+      "author": "nar001",
+      "created": "2026-02-07 13:34:34",
+      "created_at": 1770471274000
+    },
+    {
       "id": 46926245,
       "title": "We mourn our craft",
       "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 698,
+      "score": 711,
       "author": "ColinWright",
       "created": "2026-02-07 18:32:27",
       "created_at": 1770489147000
     },
     {
-      "id": 46922049,
-      "title": "Vocal Guide – belt sing without killing yourself",
-      "link": "https://jesperordrup.github.io/vocal-guide/",
-      "score": 411,
-      "author": "jesperordrup",
-      "created": "2026-02-07 07:37:03",
-      "created_at": 1770449823000
-    },
-    {
       "id": 46934404,
       "title": "AI fatigue is real and nobody talks about it",
       "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 408,
+      "score": 420,
       "author": "sidk24",
       "created": "2026-02-08 14:19:32",
       "created_at": 1770560372000
@@ -55,7 +46,7 @@
       "id": 46922969,
       "title": "The AI boom is causing shortages everywhere else",
       "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 390,
+      "score": 393,
       "author": "1vuio0pswjnm7",
       "created": "2026-02-07 11:21:29",
       "created_at": 1770463289000
@@ -64,7 +55,7 @@
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "link": "https://donotnotify.com/opensource.html",
-      "score": 376,
+      "score": 386,
       "author": "awaaz",
       "created": "2026-02-08 07:39:49",
       "created_at": 1770536389000
@@ -73,28 +64,37 @@
       "id": 46925741,
       "title": "SectorC: A C Compiler in 512 bytes (2023)",
       "link": "https://xorvoid.com/sectorc.html",
-      "score": 375,
+      "score": 378,
       "author": "valyala",
       "created": "2026-02-07 17:39:53",
       "created_at": 1770485993000
     },
     {
+      "id": 46934344,
+      "title": "I am happier writing code by hand",
+      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+      "score": 367,
+      "author": "lazyfolder",
+      "created": "2026-02-08 14:12:18",
+      "created_at": 1770559938000
+    },
+    {
       "id": 46923543,
       "title": "Coding agents have replaced every framework I used",
       "link": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 361,
+      "score": 362,
       "author": "alainrk",
       "created": "2026-02-07 13:07:09",
       "created_at": 1770469629000
     },
     {
-      "id": 46934344,
-      "title": "I am happier writing code by hand",
-      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 360,
-      "author": "lazyfolder",
-      "created": "2026-02-08 14:12:18",
-      "created_at": 1770559938000
+      "id": 46933067,
+      "title": "Slop Terrifies Me",
+      "link": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "score": 357,
+      "author": "Ezhik",
+      "created": "2026-02-08 10:31:35",
+      "created_at": 1770546695000
     }
   ],
   "code": 200,

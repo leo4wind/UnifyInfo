@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-09T05:23:21.087Z"
+    "lastUpdate": "2026-02-09T08:38:48.780Z"
   },
   "data": [
     {
       "id": 46938511,
       "title": "Art of Roads in Games",
       "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "score": 147,
+      "score": 240,
       "author": "linolevan",
       "created": "2026-02-08 21:05:24",
       "created_at": 1770584724000
@@ -19,82 +19,82 @@
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 727,
+      "score": 809,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
+      "id": 46941882,
+      "title": "Nobody knows how the whole system works",
+      "link": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
+      "score": 42,
+      "author": "azhenley",
+      "created": "2026-02-09 05:28:15",
+      "created_at": 1770614895000
+    },
+    {
+      "id": 46889710,
+      "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+      "link": "https://github.com/naver/lispe",
+      "score": 34,
+      "author": "PaulHoule",
+      "created": "2026-02-04 18:34:29",
+      "created_at": 1770230069000
+    },
+    {
       "id": 46941603,
-      "title": "Claude's C Compiler vs. GCC",
+      "title": "Claude’s C Compiler vs. GCC",
       "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-      "score": 6,
+      "score": 193,
       "author": "unchar1",
       "created": "2026-02-09 04:30:38",
       "created_at": 1770611438000
     },
     {
-      "id": 46939187,
-      "title": "Reverse Engineering the Prom for the SGI O2",
-      "link": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
-      "score": 73,
-      "author": "mattst88",
-      "created": "2026-02-08 22:25:25",
-      "created_at": 1770589525000
-    },
-    {
-      "id": 46885841,
-      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
-      "link": "https://sir68k.re/posts/rh1-firmware-available/",
-      "score": 24,
-      "author": "jimbauwens",
-      "created": "2026-02-04 13:57:39",
-      "created_at": 1770213459000
-    },
-    {
       "id": 46941640,
       "title": "TSMC to make advanced AI semiconductors in Japan",
       "link": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-      "score": 24,
+      "score": 122,
       "author": "dev_tty01",
       "created": "2026-02-09 04:38:14",
       "created_at": 1770611894000
     },
     {
-      "id": 46932444,
-      "title": "Quartz crystals",
-      "link": "https://www.pa3fwm.nl/technotes/tn13a.html",
-      "score": 54,
-      "author": "gtsnexp",
-      "created": "2026-02-08 08:26:36",
-      "created_at": 1770539196000
-    },
-    {
-      "id": 46938280,
-      "title": "Apple XNU: Clutch Scheduler",
-      "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "score": 118,
-      "author": "tosh",
-      "created": "2026-02-08 20:38:55",
-      "created_at": 1770583135000
-    },
-    {
       "id": 46939312,
       "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
       "link": "https://bobbiec.github.io/cistercian-font.html",
-      "score": 43,
+      "score": 75,
       "author": "bobbiechen",
       "created": "2026-02-08 22:39:46",
       "created_at": 1770590386000
     },
     {
-      "id": 46938398,
-      "title": "More Mac malware from Google search",
-      "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-      "score": 135,
-      "author": "kristianp",
-      "created": "2026-02-08 20:52:55",
-      "created_at": 1770583975000
+      "id": 46885841,
+      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
+      "link": "https://sir68k.re/posts/rh1-firmware-available/",
+      "score": 42,
+      "author": "jimbauwens",
+      "created": "2026-02-04 13:57:39",
+      "created_at": 1770213459000
+    },
+    {
+      "id": 46939685,
+      "title": "Every book recommended on the Odd Lots Discord",
+      "link": "https://odd-lots-books.netlify.app/",
+      "score": 88,
+      "author": "muggermuch",
+      "created": "2026-02-08 23:27:59",
+      "created_at": 1770593279000
+    },
+    {
+      "id": 46938280,
+      "title": "Apple XNU: Clutch Scheduler",
+      "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+      "score": 132,
+      "author": "tosh",
+      "created": "2026-02-08 20:38:55",
+      "created_at": 1770583135000
     }
   ],
   "code": 200,
