@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-09T08:38:48.646Z"
+    "lastUpdate": "2026-02-09T12:42:49.335Z"
   },
   "data": [
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 809,
+      "score": 905,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
@@ -19,7 +19,7 @@
       "id": 46923736,
       "title": "France's homegrown open source online office suite",
       "link": "https://github.com/suitenumerique",
-      "score": 798,
+      "score": 803,
       "author": "nar001",
       "created": "2026-02-07 13:34:34",
       "created_at": 1770471274000
@@ -28,7 +28,7 @@
       "id": 46926245,
       "title": "We mourn our craft",
       "link": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-      "score": 711,
+      "score": 738,
       "author": "ColinWright",
       "created": "2026-02-07 18:32:27",
       "created_at": 1770489147000
@@ -37,28 +37,37 @@
       "id": 46934404,
       "title": "AI fatigue is real and nobody talks about it",
       "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 420,
+      "score": 430,
       "author": "sidk24",
       "created": "2026-02-08 14:19:32",
       "created_at": 1770560372000
     },
     {
-      "id": 46922969,
-      "title": "The AI boom is causing shortages everywhere else",
-      "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-      "score": 393,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-02-07 11:21:29",
-      "created_at": 1770463289000
+      "id": 46938511,
+      "title": "Art of Roads in Games",
+      "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "score": 401,
+      "author": "linolevan",
+      "created": "2026-02-08 21:05:24",
+      "created_at": 1770584724000
     },
     {
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "link": "https://donotnotify.com/opensource.html",
-      "score": 386,
+      "score": 396,
       "author": "awaaz",
       "created": "2026-02-08 07:39:49",
       "created_at": 1770536389000
+    },
+    {
+      "id": 46939593,
+      "title": "AI makes the easy part easier and the hard part harder",
+      "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "score": 386,
+      "author": "weaksauce",
+      "created": "2026-02-08 23:13:34",
+      "created_at": 1770592414000
     },
     {
       "id": 46925741,
@@ -70,31 +79,22 @@
       "created_at": 1770485993000
     },
     {
-      "id": 46934344,
-      "title": "I am happier writing code by hand",
-      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 367,
-      "author": "lazyfolder",
-      "created": "2026-02-08 14:12:18",
-      "created_at": 1770559938000
-    },
-    {
-      "id": 46923543,
-      "title": "Coding agents have replaced every framework I used",
-      "link": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-      "score": 362,
-      "author": "alainrk",
-      "created": "2026-02-07 13:07:09",
-      "created_at": 1770469629000
-    },
-    {
       "id": 46933067,
       "title": "Slop Terrifies Me",
       "link": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 357,
+      "score": 374,
       "author": "Ezhik",
       "created": "2026-02-08 10:31:35",
       "created_at": 1770546695000
+    },
+    {
+      "id": 46934344,
+      "title": "I am happier writing code by hand",
+      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+      "score": 371,
+      "author": "lazyfolder",
+      "created": "2026-02-08 14:12:18",
+      "created_at": 1770559938000
     }
   ],
   "code": 200,

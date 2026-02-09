@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-09T08:38:48.780Z"
+    "lastUpdate": "2026-02-09T12:42:49.431Z"
   },
   "data": [
+    {
+      "id": 46943568,
+      "title": "Show HN: Algorithmically Finding the Longest Line of Sight on Earth",
+      "link": "https://alltheviews.world",
+      "score": 71,
+      "author": "tombh",
+      "created": "2026-02-09 10:05:55",
+      "created_at": 1770631555000
+    },
     {
       "id": 46938511,
       "title": "Art of Roads in Games",
       "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "score": 240,
+      "score": 401,
       "author": "linolevan",
       "created": "2026-02-08 21:05:24",
       "created_at": 1770584724000
@@ -19,82 +28,73 @@
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 809,
+      "score": 905,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
     },
     {
-      "id": 46941882,
-      "title": "Nobody knows how the whole system works",
-      "link": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-      "score": 42,
-      "author": "azhenley",
-      "created": "2026-02-09 05:28:15",
-      "created_at": 1770614895000
+      "id": 46943752,
+      "title": "Offpunk 3.0",
+      "link": "https://ploum.net/2026-02-09-offpunk3.html",
+      "score": 44,
+      "author": "todsacerdoti",
+      "created": "2026-02-09 10:37:20",
+      "created_at": 1770633440000
+    },
+    {
+      "id": 46944245,
+      "title": "Matrix messaging gaining ground in government IT",
+      "link": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
+      "score": 22,
+      "author": "rbanffy",
+      "created": "2026-02-09 11:53:13",
+      "created_at": 1770637993000
+    },
+    {
+      "id": 46885469,
+      "title": "Tessellation Kit (2016)",
+      "link": "https://sciencevsmagic.net/tes/#0.5.0.1.aaaaaaaaa",
+      "score": 18,
+      "author": "surprisetalk",
+      "created": "2026-02-04 13:17:05",
+      "created_at": 1770211025000
     },
     {
       "id": 46889710,
       "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
       "link": "https://github.com/naver/lispe",
-      "score": 34,
+      "score": 65,
       "author": "PaulHoule",
       "created": "2026-02-04 18:34:29",
       "created_at": 1770230069000
     },
     {
-      "id": 46941603,
-      "title": "Claude’s C Compiler vs. GCC",
-      "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-      "score": 193,
-      "author": "unchar1",
-      "created": "2026-02-09 04:30:38",
-      "created_at": 1770611438000
-    },
-    {
-      "id": 46941640,
-      "title": "TSMC to make advanced AI semiconductors in Japan",
-      "link": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-      "score": 122,
-      "author": "dev_tty01",
-      "created": "2026-02-09 04:38:14",
-      "created_at": 1770611894000
-    },
-    {
       "id": 46939312,
       "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
       "link": "https://bobbiec.github.io/cistercian-font.html",
-      "score": 75,
+      "score": 115,
       "author": "bobbiechen",
       "created": "2026-02-08 22:39:46",
       "created_at": 1770590386000
     },
     {
-      "id": 46885841,
-      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
-      "link": "https://sir68k.re/posts/rh1-firmware-available/",
-      "score": 42,
-      "author": "jimbauwens",
-      "created": "2026-02-04 13:57:39",
-      "created_at": 1770213459000
-    },
-    {
       "id": 46939685,
       "title": "Every book recommended on the Odd Lots Discord",
       "link": "https://odd-lots-books.netlify.app/",
-      "score": 88,
+      "score": 115,
       "author": "muggermuch",
       "created": "2026-02-08 23:27:59",
       "created_at": 1770593279000
     },
     {
-      "id": 46938280,
-      "title": "Apple XNU: Clutch Scheduler",
-      "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "score": 132,
-      "author": "tosh",
-      "created": "2026-02-08 20:38:55",
-      "created_at": 1770583135000
+      "id": 46936237,
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+      "link": "https://underhillgame.com/",
+      "score": 240,
+      "author": "ariaalam",
+      "created": "2026-02-08 17:08:30",
+      "created_at": 1770570510000
     }
   ],
   "code": 200,
