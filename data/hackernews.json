@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-10T16:53:19.007Z"
+    "lastUpdate": "2026-02-10T20:34:50.894Z"
   },
   "data": [
     {
       "id": 46945663,
       "title": "Discord will require a face scan or ID for full access next month",
       "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 1923,
+      "score": 1964,
       "author": "x01",
       "created": "2026-02-09 14:37:38",
       "created_at": 1770647858000
@@ -19,16 +19,25 @@
       "id": 46946401,
       "title": "Why is the sky blue?",
       "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 734,
+      "score": 770,
       "author": "udit99",
       "created": "2026-02-09 15:39:51",
       "created_at": 1770651591000
     },
     {
+      "id": 46949564,
+      "title": "Discord Alternatives, Ranked",
+      "link": "https://taggart-tech.com/discord-alternatives/",
+      "score": 610,
+      "author": "pseudalopex",
+      "created": "2026-02-09 19:15:14",
+      "created_at": 1770664514000
+    },
+    {
       "id": 46938511,
       "title": "Art of Roads in Games",
       "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "score": 593,
+      "score": 599,
       "author": "linolevan",
       "created": "2026-02-08 21:05:24",
       "created_at": 1770584724000
@@ -37,64 +46,55 @@
       "id": 46947096,
       "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
       "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 581,
+      "score": 590,
       "author": "tokyobreakfast",
       "created": "2026-02-09 16:26:31",
       "created_at": 1770654391000
     },
     {
-      "id": 46949564,
-      "title": "Discord Alternatives, Ranked",
-      "link": "https://taggart-tech.com/discord-alternatives/",
-      "score": 531,
-      "author": "pseudalopex",
-      "created": "2026-02-09 19:15:14",
-      "created_at": 1770664514000
-    },
-    {
       "id": 46939593,
       "title": "AI makes the easy part easier and the hard part harder",
       "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "score": 516,
+      "score": 520,
       "author": "weaksauce",
       "created": "2026-02-08 23:13:34",
       "created_at": 1770592414000
     },
     {
-      "id": 46946827,
-      "title": "GitHub is down again",
-      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-      "score": 501,
-      "author": "MattIPv4",
-      "created": "2026-02-09 16:12:19",
-      "created_at": 1770653539000
-    },
-    {
       "id": 46954920,
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "link": "https://arxiv.org/abs/2512.20798",
-      "score": 458,
+      "score": 506,
       "author": "tiny-automates",
       "created": "2026-02-10 03:17:17",
       "created_at": 1770693437000
     },
     {
-      "id": 46943568,
-      "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
-      "link": "https://alltheviews.world",
-      "score": 400,
-      "author": "tombh",
-      "created": "2026-02-09 10:05:55",
-      "created_at": 1770631555000
+      "id": 46946827,
+      "title": "GitHub is down again",
+      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+      "score": 502,
+      "author": "MattIPv4",
+      "created": "2026-02-09 16:12:19",
+      "created_at": 1770653539000
     },
     {
-      "id": 46946308,
-      "title": "Sandboxels",
-      "link": "https://neal.fun/sandboxels/",
-      "score": 368,
-      "author": "2sf5",
-      "created": "2026-02-09 15:31:09",
-      "created_at": 1770651069000
+      "id": 46958399,
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "score": 429,
+      "author": "NewCzech",
+      "created": "2026-02-10 11:42:14",
+      "created_at": 1770723734000
+    },
+    {
+      "id": 46960036,
+      "title": "Oxide raises $200M Series C",
+      "link": "https://oxide.computer/blog/our-200m-series-c",
+      "score": 423,
+      "author": "igrunert",
+      "created": "2026-02-10 14:20:49",
+      "created_at": 1770733249000
     }
   ],
   "code": 200,

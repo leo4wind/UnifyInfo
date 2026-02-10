@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-10T16:53:19.212Z"
+    "lastUpdate": "2026-02-10T20:34:50.982Z"
   },
   "data": [
     {
-      "id": 46960392,
-      "title": "Parse, Don't Validate (2019)",
-      "link": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
-      "score": 102,
-      "author": "shirian",
-      "created": "2026-02-10 14:49:29",
-      "created_at": 1770734969000
+      "id": 46962996,
+      "title": "The Singularity will occur on a Tuesday",
+      "link": "https://campedersen.com/singularity",
+      "score": 407,
+      "author": "ecto",
+      "created": "2026-02-10 17:04:31",
+      "created_at": 1770743071000
+    },
+    {
+      "id": 46965776,
+      "title": "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"",
+      "link": "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/",
+      "score": 33,
+      "author": "marysminefnuf",
+      "created": "2026-02-10 19:49:02",
+      "created_at": 1770752942000
+    },
+    {
+      "id": 46964159,
+      "title": "The Switch to Linux and the Beginning of My Self-Hosting Journey",
+      "link": "https://hazemkrimi.tech/blog/linux-self-hosting-journey/",
+      "score": 63,
+      "author": "kingcrimson1000",
+      "created": "2026-02-10 18:09:10",
+      "created_at": 1770746950000
+    },
+    {
+      "id": 46966209,
+      "title": "Show HN: Clawe – open-source Trello for agent teams",
+      "link": "https://github.com/getclawe/clawe",
+      "score": 9,
+      "author": "Jonathanfishner",
+      "created": "2026-02-10 20:17:45",
+      "created_at": 1770754665000
+    },
+    {
+      "id": 46963887,
+      "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+      "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+      "score": 65,
+      "author": "simonw",
+      "created": "2026-02-10 17:52:46",
+      "created_at": 1770745966000
     },
     {
       "id": 46959418,
-      "title": "Simplifying Vulkan One Subsystem at a Time",
+      "title": "Simplifying Vulkan one subsystem at a time",
       "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-      "score": 106,
+      "score": 169,
       "author": "amazari",
       "created": "2026-02-10 13:26:14",
       "created_at": 1770729974000
     },
     {
-      "id": 46958231,
-      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "link": "https://code.idtech.space/fn/hl2",
-      "score": 189,
-      "author": "klaussilveira",
-      "created": "2026-02-10 11:21:56",
-      "created_at": 1770722516000
-    },
-    {
-      "id": 46960036,
-      "title": "Oxide raises $200M Series C",
-      "link": "https://oxide.computer/blog/our-200m-series-c",
-      "score": 252,
-      "author": "igrunert",
-      "created": "2026-02-10 14:20:49",
-      "created_at": 1770733249000
-    },
-    {
-      "id": 46960675,
-      "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-      "link": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-      "score": 175,
-      "author": "jamesrandall",
-      "created": "2026-02-10 15:08:36",
-      "created_at": 1770736116000
-    },
-    {
-      "id": 46955712,
-      "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
-      "link": "https://www.netviews.app",
-      "score": 65,
-      "author": "n1sni",
-      "created": "2026-02-10 05:20:32",
-      "created_at": 1770700832000
-    },
-    {
-      "id": 46957198,
-      "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
-      "link": "https://qwen.ai/blog?id=qwen-image-2.0",
-      "score": 223,
-      "author": "meetpateltech",
-      "created": "2026-02-10 09:19:00",
-      "created_at": 1770715140000
-    },
-    {
       "id": 46962402,
       "title": "Mathematicians disagree on the essential structure of the complex numbers",
       "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-      "score": 4,
+      "score": 86,
       "author": "FillMaths",
       "created": "2026-02-10 16:36:30",
       "created_at": 1770741390000
     },
     {
-      "id": 46954920,
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "link": "https://arxiv.org/abs/2512.20798",
-      "score": 458,
-      "author": "tiny-automates",
-      "created": "2026-02-10 03:17:17",
-      "created_at": 1770693437000
+      "id": 46961345,
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "link": "https://entire.io/blog/hello-entire-world/",
+      "score": 132,
+      "author": "meetpateltech",
+      "created": "2026-02-10 15:44:47",
+      "created_at": 1770738287000
     },
     {
-      "id": 46958399,
-      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-      "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "score": 167,
-      "author": "NewCzech",
-      "created": "2026-02-10 11:42:14",
-      "created_at": 1770723734000
+      "id": 46964162,
+      "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+      "link": "https://livedocs.com",
+      "score": 30,
+      "author": "arsalanb",
+      "created": "2026-02-10 18:09:14",
+      "created_at": 1770746954000
+    },
+    {
+      "id": 46958231,
+      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "link": "https://code.idtech.space/fn/hl2",
+      "score": 266,
+      "author": "klaussilveira",
+      "created": "2026-02-10 11:21:56",
+      "created_at": 1770722516000
     }
   ],
   "code": 200,
