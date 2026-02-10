@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-02-10T05:23:29.524Z"
+    "lastUpdate": "2026-02-10T08:38:57.132Z"
   },
   "data": [
+    {
+      "zqdm": "920187",
+      "zqjc": "通领科技",
+      "sgdm": "920187",
+      "fxsl": 15600000,
+      "swfxsl": 14040000,
+      "sgsx": 702000,
+      "dgsz": 7020000,
+      "fxjg": 29.62,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-02-11",
+      "zqgbrq": "2026-02-24",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.47,
+      "hysyl": 30.47,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "汽车内饰件的研发、生产及销售"
+    },
     {
       "zqdm": "920168",
       "zqjc": "通宝光电",
@@ -53,5 +76,5 @@
       "zyyw": "从事麻醉领域医疗器械研发、生产和销售的高新技术企业"
     }
   ],
-  "total": 2
+  "total": 3
 }

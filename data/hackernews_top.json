@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-10T05:23:26.408Z"
+    "lastUpdate": "2026-02-10T08:38:54.390Z"
   },
   "data": [
     {
       "id": 46954920,
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "link": "https://arxiv.org/abs/2512.20798",
-      "score": 92,
+      "score": 227,
       "author": "tiny-automates",
       "created": "2026-02-10 03:17:17",
       "created_at": 1770693437000
@@ -19,7 +19,7 @@
       "id": 46945663,
       "title": "Discord will require a face scan or ID for full access next month",
       "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 1427,
+      "score": 1601,
       "author": "x01",
       "created": "2026-02-09 14:37:38",
       "created_at": 1770647858000
@@ -28,73 +28,73 @@
       "id": 46954136,
       "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
       "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-      "score": 77,
+      "score": 183,
       "author": "Curiositry",
       "created": "2026-02-10 01:26:42",
       "created_at": 1770686802000
     },
     {
-      "id": 46947096,
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 442,
-      "author": "tokyobreakfast",
-      "created": "2026-02-09 16:26:31",
-      "created_at": 1770654391000
+      "id": 46956322,
+      "title": "Brutalist Southbank Centre Listed",
+      "link": "https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals",
+      "score": 10,
+      "author": "daverol",
+      "created": "2026-02-10 07:10:37",
+      "created_at": 1770707437000
+    },
+    {
+      "id": 46954049,
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "link": "https://github.com/antirez/voxtral.c",
+      "score": 112,
+      "author": "Curiositry",
+      "created": "2026-02-10 01:17:35",
+      "created_at": 1770686255000
     },
     {
       "id": 46946401,
       "title": "Why is the sky blue?",
       "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 461,
+      "score": 555,
       "author": "udit99",
       "created": "2026-02-09 15:39:51",
       "created_at": 1770651591000
     },
     {
-      "id": 46953491,
-      "title": "What functional programmers get wrong about systems",
-      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-      "score": 145,
-      "author": "subset",
-      "created": "2026-02-10 00:07:44",
-      "created_at": 1770682064000
-    },
-    {
-      "id": 46953136,
-      "title": "Is particle physics dead, dying, or just hard?",
-      "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-      "score": 57,
-      "author": "mellosouls",
-      "created": "2026-02-09 23:31:15",
-      "created_at": 1770679875000
+      "id": 46947096,
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "score": 483,
+      "author": "tokyobreakfast",
+      "created": "2026-02-09 16:26:31",
+      "created_at": 1770654391000
     },
     {
       "id": 46947777,
       "title": "Hard-braking events as indicators of road segment crash risk",
       "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 239,
+      "score": 269,
       "author": "aleyan",
       "created": "2026-02-09 17:09:37",
       "created_at": 1770656977000
     },
     {
-      "id": 46952118,
-      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-      "link": "https://www.chainlift.io/liftkit",
-      "score": 103,
-      "author": "peter_d_sherman",
-      "created": "2026-02-09 22:01:34",
-      "created_at": 1770674494000
+      "id": 46949564,
+      "title": "Discord Alternatives, Ranked",
+      "link": "https://taggart-tech.com/discord-alternatives/",
+      "score": 174,
+      "author": "pseudalopex",
+      "created": "2026-02-09 19:15:14",
+      "created_at": 1770664514000
     },
     {
-      "id": 46951057,
-      "title": "America has a tungsten problem",
-      "link": "https://www.noleary.com/blog/posts/1",
-      "score": 143,
-      "author": "noleary",
-      "created": "2026-02-09 20:49:21",
-      "created_at": 1770670161000
+      "id": 46953136,
+      "title": "Is particle physics dead, dying, or just hard?",
+      "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "score": 103,
+      "author": "mellosouls",
+      "created": "2026-02-09 23:31:15",
+      "created_at": 1770679875000
     }
   ],
   "code": 200,
