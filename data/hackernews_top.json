@@ -3,41 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-10T01:22:35.068Z"
+    "lastUpdate": "2026-02-10T05:23:26.408Z"
   },
   "data": [
+    {
+      "id": 46954920,
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "link": "https://arxiv.org/abs/2512.20798",
+      "score": 92,
+      "author": "tiny-automates",
+      "created": "2026-02-10 03:17:17",
+      "created_at": 1770693437000
+    },
     {
       "id": 46945663,
       "title": "Discord will require a face scan or ID for full access next month",
       "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 1153,
+      "score": 1427,
       "author": "x01",
       "created": "2026-02-09 14:37:38",
       "created_at": 1770647858000
     },
     {
-      "id": 46952987,
-      "title": "The shadowy world of abandoned oil tankers",
-      "link": "https://www.bbc.com/news/articles/cddg885344do",
-      "score": 40,
-      "author": "1659447091",
-      "created": "2026-02-09 23:17:42",
-      "created_at": 1770679062000
-    },
-    {
-      "id": 46953491,
-      "title": "What Functional Programmers Get Wrong About Systems",
-      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-      "score": 13,
-      "author": "subset",
-      "created": "2026-02-10 00:07:44",
-      "created_at": 1770682064000
+      "id": 46954136,
+      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+      "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+      "score": 77,
+      "author": "Curiositry",
+      "created": "2026-02-10 01:26:42",
+      "created_at": 1770686802000
     },
     {
       "id": 46947096,
       "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
       "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 387,
+      "score": 442,
       "author": "tokyobreakfast",
       "created": "2026-02-09 16:26:31",
       "created_at": 1770654391000
@@ -46,25 +46,34 @@
       "id": 46946401,
       "title": "Why is the sky blue?",
       "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 397,
+      "score": 461,
       "author": "udit99",
       "created": "2026-02-09 15:39:51",
       "created_at": 1770651591000
     },
     {
-      "id": 46901560,
-      "title": "Stop Using Icons in Data Tables",
-      "link": "https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d",
+      "id": 46953491,
+      "title": "What functional programmers get wrong about systems",
+      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+      "score": 145,
+      "author": "subset",
+      "created": "2026-02-10 00:07:44",
+      "created_at": 1770682064000
+    },
+    {
+      "id": 46953136,
+      "title": "Is particle physics dead, dying, or just hard?",
+      "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
       "score": 57,
-      "author": "ctward",
-      "created": "2026-02-05 16:42:55",
-      "created_at": 1770309775000
+      "author": "mellosouls",
+      "created": "2026-02-09 23:31:15",
+      "created_at": 1770679875000
     },
     {
       "id": 46947777,
       "title": "Hard-braking events as indicators of road segment crash risk",
       "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 198,
+      "score": 239,
       "author": "aleyan",
       "created": "2026-02-09 17:09:37",
       "created_at": 1770656977000
@@ -73,28 +82,19 @@
       "id": 46952118,
       "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
       "link": "https://www.chainlift.io/liftkit",
-      "score": 43,
+      "score": 103,
       "author": "peter_d_sherman",
       "created": "2026-02-09 22:01:34",
       "created_at": 1770674494000
     },
     {
-      "id": 46878373,
-      "title": "How I've run major projects (2025)",
-      "link": "https://www.benkuhn.net/pjm/",
-      "score": 95,
-      "author": "thomascountz",
-      "created": "2026-02-03 22:38:21",
-      "created_at": 1770158301000
-    },
-    {
-      "id": 46950756,
-      "title": "Game Theory Patterns at Work (2016)",
-      "link": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
-      "score": 20,
-      "author": "kurinikku",
-      "created": "2026-02-09 20:30:10",
-      "created_at": 1770669010000
+      "id": 46951057,
+      "title": "America has a tungsten problem",
+      "link": "https://www.noleary.com/blog/posts/1",
+      "score": 143,
+      "author": "noleary",
+      "created": "2026-02-09 20:49:21",
+      "created_at": 1770670161000
     }
   ],
   "code": 200,
