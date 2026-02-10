@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-09T20:30:16.214Z"
+    "lastUpdate": "2026-02-10T01:22:34.871Z"
   },
   "data": [
+    {
+      "id": 46945663,
+      "title": "Discord will require a face scan or ID for full access next month",
+      "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "score": 1153,
+      "author": "x01",
+      "created": "2026-02-09 14:37:38",
+      "created_at": 1770647858000
+    },
     {
       "id": 46930961,
       "title": "Vouch",
       "link": "https://github.com/mitchellh/vouch",
-      "score": 1038,
+      "score": 1045,
       "author": "chwtutha",
       "created": "2026-02-08 03:09:28",
       "created_at": 1770520168000
@@ -19,34 +28,34 @@
       "id": 46938511,
       "title": "Art of Roads in Games",
       "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-      "score": 555,
+      "score": 573,
       "author": "linolevan",
       "created": "2026-02-08 21:05:24",
       "created_at": 1770584724000
     },
     {
-      "id": 46945663,
-      "title": "Discord will require a face scan or ID for full access next month",
-      "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 517,
-      "author": "x01",
-      "created": "2026-02-09 14:37:38",
-      "created_at": 1770647858000
-    },
-    {
       "id": 46939593,
       "title": "AI makes the easy part easier and the hard part harder",
       "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-      "score": 481,
+      "score": 497,
       "author": "weaksauce",
       "created": "2026-02-08 23:13:34",
       "created_at": 1770592414000
     },
     {
+      "id": 46946827,
+      "title": "GitHub is down again",
+      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+      "score": 475,
+      "author": "MattIPv4",
+      "created": "2026-02-09 16:12:19",
+      "created_at": 1770653539000
+    },
+    {
       "id": 46934404,
       "title": "AI fatigue is real and nobody talks about it",
       "link": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-      "score": 442,
+      "score": 446,
       "author": "sidk24",
       "created": "2026-02-08 14:19:32",
       "created_at": 1770560372000
@@ -55,46 +64,37 @@
       "id": 46932192,
       "title": "DoNotNotify is now Open Source",
       "link": "https://donotnotify.com/opensource.html",
-      "score": 405,
+      "score": 407,
       "author": "awaaz",
       "created": "2026-02-08 07:39:49",
       "created_at": 1770536389000
     },
     {
-      "id": 46946827,
-      "title": "GitHub is down again",
-      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-      "score": 400,
-      "author": "MattIPv4",
-      "created": "2026-02-09 16:12:19",
-      "created_at": 1770653539000
+      "id": 46946401,
+      "title": "Why is the sky blue?",
+      "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "score": 397,
+      "author": "udit99",
+      "created": "2026-02-09 15:39:51",
+      "created_at": 1770651591000
     },
     {
       "id": 46933067,
       "title": "Slop Terrifies Me",
       "link": "https://ezhik.jp/ai-slop-terrifies-me/",
-      "score": 390,
+      "score": 392,
       "author": "Ezhik",
       "created": "2026-02-08 10:31:35",
       "created_at": 1770546695000
     },
     {
-      "id": 46934344,
-      "title": "I am happier writing code by hand",
-      "link": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-      "score": 383,
-      "author": "lazyfolder",
-      "created": "2026-02-08 14:12:18",
-      "created_at": 1770559938000
-    },
-    {
-      "id": 46941603,
-      "title": "Claude’s C Compiler vs. GCC",
-      "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-      "score": 329,
-      "author": "unchar1",
-      "created": "2026-02-09 04:30:38",
-      "created_at": 1770611438000
+      "id": 46947096,
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "score": 387,
+      "author": "tokyobreakfast",
+      "created": "2026-02-09 16:26:31",
+      "created_at": 1770654391000
     }
   ],
   "code": 200,
