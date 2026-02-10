@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-10T12:47:38.243Z"
+    "lastUpdate": "2026-02-10T16:53:19.212Z"
   },
   "data": [
     {
-      "id": 46954920,
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "link": "https://arxiv.org/abs/2512.20798",
-      "score": 348,
-      "author": "tiny-automates",
-      "created": "2026-02-10 03:17:17",
-      "created_at": 1770693437000
+      "id": 46960392,
+      "title": "Parse, Don't Validate (2019)",
+      "link": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+      "score": 102,
+      "author": "shirian",
+      "created": "2026-02-10 14:49:29",
+      "created_at": 1770734969000
     },
     {
-      "id": 46958597,
-      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
-      "link": "https://github.com/luckyPipewrench/pipelock",
-      "score": 11,
-      "author": "pipejosh",
-      "created": "2026-02-10 12:04:20",
-      "created_at": 1770725060000
-    },
-    {
-      "id": 46945663,
-      "title": "Discord will require a face scan or ID for full access next month",
-      "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-      "score": 1772,
-      "author": "x01",
-      "created": "2026-02-09 14:37:38",
-      "created_at": 1770647858000
-    },
-    {
-      "id": 46954136,
-      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-      "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-      "score": 287,
-      "author": "Curiositry",
-      "created": "2026-02-10 01:26:42",
-      "created_at": 1770686802000
+      "id": 46959418,
+      "title": "Simplifying Vulkan One Subsystem at a Time",
+      "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+      "score": 106,
+      "author": "amazari",
+      "created": "2026-02-10 13:26:14",
+      "created_at": 1770729974000
     },
     {
       "id": 46958231,
       "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
       "link": "https://code.idtech.space/fn/hl2",
-      "score": 11,
+      "score": 189,
       "author": "klaussilveira",
       "created": "2026-02-10 11:21:56",
       "created_at": 1770722516000
     },
     {
-      "id": 46954049,
-      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-      "link": "https://github.com/antirez/voxtral.c",
-      "score": 196,
-      "author": "Curiositry",
-      "created": "2026-02-10 01:17:35",
-      "created_at": 1770686255000
+      "id": 46960036,
+      "title": "Oxide raises $200M Series C",
+      "link": "https://oxide.computer/blog/our-200m-series-c",
+      "score": 252,
+      "author": "igrunert",
+      "created": "2026-02-10 14:20:49",
+      "created_at": 1770733249000
     },
     {
-      "id": 46949564,
-      "title": "Discord Alternatives, Ranked",
-      "link": "https://taggart-tech.com/discord-alternatives/",
-      "score": 357,
-      "author": "pseudalopex",
-      "created": "2026-02-09 19:15:14",
-      "created_at": 1770664514000
+      "id": 46960675,
+      "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+      "link": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+      "score": 175,
+      "author": "jamesrandall",
+      "created": "2026-02-10 15:08:36",
+      "created_at": 1770736116000
     },
     {
-      "id": 46946401,
-      "title": "Why is the sky blue?",
-      "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "score": 645,
-      "author": "udit99",
-      "created": "2026-02-09 15:39:51",
-      "created_at": 1770651591000
+      "id": 46955712,
+      "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+      "link": "https://www.netviews.app",
+      "score": 65,
+      "author": "n1sni",
+      "created": "2026-02-10 05:20:32",
+      "created_at": 1770700832000
     },
     {
-      "id": 46947096,
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "score": 535,
-      "author": "tokyobreakfast",
-      "created": "2026-02-09 16:26:31",
-      "created_at": 1770654391000
+      "id": 46957198,
+      "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+      "link": "https://qwen.ai/blog?id=qwen-image-2.0",
+      "score": 223,
+      "author": "meetpateltech",
+      "created": "2026-02-10 09:19:00",
+      "created_at": 1770715140000
     },
     {
-      "id": 46947777,
-      "title": "Hard-braking events as indicators of road segment crash risk",
-      "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "score": 313,
-      "author": "aleyan",
-      "created": "2026-02-09 17:09:37",
-      "created_at": 1770656977000
+      "id": 46962402,
+      "title": "Mathematicians disagree on the essential structure of the complex numbers",
+      "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+      "score": 4,
+      "author": "FillMaths",
+      "created": "2026-02-10 16:36:30",
+      "created_at": 1770741390000
+    },
+    {
+      "id": 46954920,
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "link": "https://arxiv.org/abs/2512.20798",
+      "score": 458,
+      "author": "tiny-automates",
+      "created": "2026-02-10 03:17:17",
+      "created_at": 1770693437000
+    },
+    {
+      "id": 46958399,
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "score": 167,
+      "author": "NewCzech",
+      "created": "2026-02-10 11:42:14",
+      "created_at": 1770723734000
     }
   ],
   "code": 200,
