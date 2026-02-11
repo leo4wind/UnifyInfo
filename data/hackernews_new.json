@@ -3,50 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-11T08:36:21.071Z"
+    "lastUpdate": "2026-02-11T12:42:50.685Z"
   },
   "data": [
+    {
+      "id": 46973083,
+      "title": "Chrome extensions spying on 37M users' browsing data",
+      "link": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+      "score": 72,
+      "author": "qcontinuum1",
+      "created": "2026-02-11 10:00:56",
+      "created_at": 1770804056000
+    },
     {
       "id": 46971516,
       "title": "Windows Notepad App Remote Code Execution Vulnerability",
       "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 38,
+      "score": 385,
       "author": "riffraff",
       "created": "2026-02-11 06:15:33",
       "created_at": 1770790533000
     },
     {
+      "id": 46909279,
+      "title": "It's all a blur",
+      "link": "https://lcamtuf.substack.com/p/its-all-a-blur",
+      "score": 85,
+      "author": "zdw",
+      "created": "2026-02-06 04:50:09",
+      "created_at": 1770353409000
+    },
+    {
+      "id": 46973647,
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "score": 149,
+      "author": "EwanG",
+      "created": "2026-02-11 11:27:38",
+      "created_at": 1770809258000
+    },
+    {
+      "id": 46973573,
+      "title": "Exposure Simulator",
+      "link": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+      "score": 22,
+      "author": "sneela",
+      "created": "2026-02-11 11:16:23",
+      "created_at": 1770808583000
+    },
+    {
+      "id": 46972471,
+      "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+      "link": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+      "score": 41,
+      "author": "yread",
+      "created": "2026-02-11 08:43:58",
+      "created_at": 1770799438000
+    },
+    {
       "id": 46958345,
       "title": "The Feynman Lectures on Physics (1961-1964)",
       "link": "https://www.feynmanlectures.caltech.edu/",
-      "score": 293,
+      "score": 362,
       "author": "rramadass",
       "created": "2026-02-10 11:36:14",
       "created_at": 1770723374000
     },
     {
-      "id": 46972179,
-      "title": "The AI Vampire",
-      "link": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
-      "score": 3,
-      "author": "SilverElfin",
-      "created": "2026-02-11 08:01:52",
-      "created_at": 1770796912000
-    },
-    {
-      "id": 46934318,
-      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
-      "link": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
-      "score": 95,
-      "author": "assimpleaspossi",
-      "created": "2026-02-08 14:09:39",
-      "created_at": 1770559779000
+      "id": 46967898,
+      "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+      "link": "https://itsyhome.app",
+      "score": 19,
+      "author": "nixus76",
+      "created": "2026-02-10 22:31:12",
+      "created_at": 1770762672000
     },
     {
       "id": 46962996,
       "title": "The Singularity will occur on a Tuesday",
       "link": "https://campedersen.com/singularity",
-      "score": 1031,
+      "score": 1168,
       "author": "ecto",
       "created": "2026-02-10 17:04:31",
       "created_at": 1770743071000
@@ -55,37 +91,10 @@
       "id": 46961345,
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 470,
+      "score": 531,
       "author": "meetpateltech",
       "created": "2026-02-10 15:44:47",
       "created_at": 1770738287000
-    },
-    {
-      "id": 46913489,
-      "title": "Lessons you will learn living in a snowy place",
-      "link": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
-      "score": 137,
-      "author": "surprisetalk",
-      "created": "2026-02-06 14:49:25",
-      "created_at": 1770389365000
-    },
-    {
-      "id": 46967772,
-      "title": "The Day the Telnet Died",
-      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "score": 322,
-      "author": "pjf",
-      "created": "2026-02-10 22:20:40",
-      "created_at": 1770762040000
-    },
-    {
-      "id": 46971248,
-      "title": "Stay Hungry, Stay Foolish (2005)",
-      "link": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
-      "score": 21,
-      "author": "walterbell",
-      "created": "2026-02-11 05:32:10",
-      "created_at": 1770787930000
     }
   ],
   "code": 200,
