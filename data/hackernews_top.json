@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-11T12:42:50.578Z"
+    "lastUpdate": "2026-02-11T16:53:20.078Z"
   },
   "data": [
     {
-      "id": 46973083,
-      "title": "Chrome extensions spying on 37M users' browsing data",
-      "link": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-      "score": 72,
-      "author": "qcontinuum1",
-      "created": "2026-02-11 10:00:56",
-      "created_at": 1770804056000
+      "id": 46976466,
+      "title": "Railway (PaaS) Global Outage",
+      "link": "https://status.railway.com",
+      "score": 34,
+      "author": "TealMyEal",
+      "created": "2026-02-11 15:51:11",
+      "created_at": 1770825071000
     },
     {
-      "id": 46971516,
-      "title": "Windows Notepad App Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 385,
-      "author": "riffraff",
-      "created": "2026-02-11 06:15:33",
-      "created_at": 1770790533000
+      "id": 46924075,
+      "title": "GLM-OCR: Accurate × Fast × Comprehensive",
+      "link": "https://github.com/zai-org/GLM-OCR",
+      "score": 72,
+      "author": "ms7892",
+      "created": "2026-02-07 14:15:36",
+      "created_at": 1770473736000
     },
     {
       "id": 46909279,
       "title": "It's all a blur",
       "link": "https://lcamtuf.substack.com/p/its-all-a-blur",
-      "score": 85,
+      "score": 228,
       "author": "zdw",
       "created": "2026-02-06 04:50:09",
       "created_at": 1770353409000
     },
     {
-      "id": 46973647,
-      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-      "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
-      "score": 149,
-      "author": "EwanG",
-      "created": "2026-02-11 11:27:38",
-      "created_at": 1770809258000
+      "id": 46920315,
+      "title": "WiFi Could Become an Invisible Mass Surveillance System",
+      "link": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+      "score": 84,
+      "author": "mgh2",
+      "created": "2026-02-07 01:16:42",
+      "created_at": 1770427002000
+    },
+    {
+      "id": 46946593,
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "link": "https://hallucinatingsplines.com",
+      "score": 88,
+      "author": "aed",
+      "created": "2026-02-09 15:54:33",
+      "created_at": 1770652473000
+    },
+    {
+      "id": 46977210,
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "link": "https://z.ai/blog/glm-5",
+      "score": 8,
+      "author": "meetpateltech",
+      "created": "2026-02-11 16:41:33",
+      "created_at": 1770828093000
+    },
+    {
+      "id": 46976443,
+      "title": "Why Vampires Live Forever",
+      "link": "https://machielreyneke.com/blog/vampires-longevity/",
+      "score": 25,
+      "author": "machielrey",
+      "created": "2026-02-11 15:50:04",
+      "created_at": 1770825004000
+    },
+    {
+      "id": 46972610,
+      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
+      "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "score": 188,
+      "author": "edward",
+      "created": "2026-02-11 09:04:00",
+      "created_at": 1770800640000
     },
     {
       "id": 46973573,
       "title": "Exposure Simulator",
       "link": "http://www.andersenimages.com/tutorials/exposure-simulator/",
-      "score": 22,
+      "score": 78,
       "author": "sneela",
       "created": "2026-02-11 11:16:23",
       "created_at": 1770808583000
     },
     {
-      "id": 46972471,
-      "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
-      "link": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
-      "score": 41,
-      "author": "yread",
-      "created": "2026-02-11 08:43:58",
-      "created_at": 1770799438000
-    },
-    {
-      "id": 46958345,
-      "title": "The Feynman Lectures on Physics (1961-1964)",
-      "link": "https://www.feynmanlectures.caltech.edu/",
-      "score": 362,
-      "author": "rramadass",
-      "created": "2026-02-10 11:36:14",
-      "created_at": 1770723374000
-    },
-    {
-      "id": 46967898,
-      "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
-      "link": "https://itsyhome.app",
-      "score": 19,
-      "author": "nixus76",
-      "created": "2026-02-10 22:31:12",
-      "created_at": 1770762672000
-    },
-    {
-      "id": 46962996,
-      "title": "The Singularity will occur on a Tuesday",
-      "link": "https://campedersen.com/singularity",
-      "score": 1168,
-      "author": "ecto",
-      "created": "2026-02-10 17:04:31",
-      "created_at": 1770743071000
-    },
-    {
-      "id": 46961345,
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 531,
-      "author": "meetpateltech",
-      "created": "2026-02-10 15:44:47",
-      "created_at": 1770738287000
+      "id": 46922453,
+      "title": "Rome is studded with cannon balls (2022)",
+      "link": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
+      "score": 51,
+      "author": "thomassmith65",
+      "created": "2026-02-07 09:10:26",
+      "created_at": 1770455426000
     }
   ],
   "code": 200,
