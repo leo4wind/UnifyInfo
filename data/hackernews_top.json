@@ -3,41 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-11T05:22:55.309Z"
+    "lastUpdate": "2026-02-11T08:36:21.049Z"
   },
   "data": [
+    {
+      "id": 46971516,
+      "title": "Windows Notepad App Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+      "score": 38,
+      "author": "riffraff",
+      "created": "2026-02-11 06:15:33",
+      "created_at": 1770790533000
+    },
     {
       "id": 46958345,
       "title": "The Feynman Lectures on Physics (1961-1964)",
       "link": "https://www.feynmanlectures.caltech.edu/",
-      "score": 197,
+      "score": 293,
       "author": "rramadass",
       "created": "2026-02-10 11:36:14",
       "created_at": 1770723374000
     },
     {
+      "id": 46972179,
+      "title": "The AI Vampire",
+      "link": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
+      "score": 3,
+      "author": "SilverElfin",
+      "created": "2026-02-11 08:01:52",
+      "created_at": 1770796912000
+    },
+    {
       "id": 46934318,
       "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
       "link": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
-      "score": 57,
+      "score": 95,
       "author": "assimpleaspossi",
       "created": "2026-02-08 14:09:39",
       "created_at": 1770559779000
     },
     {
-      "id": 46967772,
-      "title": "The Day the Telnet Died",
-      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "score": 265,
-      "author": "pjf",
-      "created": "2026-02-10 22:20:40",
-      "created_at": 1770762040000
-    },
-    {
       "id": 46962996,
       "title": "The Singularity will occur on a Tuesday",
       "link": "https://campedersen.com/singularity",
-      "score": 916,
+      "score": 1031,
       "author": "ecto",
       "created": "2026-02-10 17:04:31",
       "created_at": 1770743071000
@@ -46,55 +55,37 @@
       "id": 46961345,
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 412,
+      "score": 470,
       "author": "meetpateltech",
       "created": "2026-02-10 15:44:47",
       "created_at": 1770738287000
     },
     {
-      "id": 46969088,
-      "title": "Fun With Pinball",
-      "link": "https://www.funwithpinball.com/exhibits/small-boards",
-      "score": 51,
-      "author": "jackwilsdon",
-      "created": "2026-02-11 00:21:55",
-      "created_at": 1770769315000
+      "id": 46913489,
+      "title": "Lessons you will learn living in a snowy place",
+      "link": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
+      "score": 137,
+      "author": "surprisetalk",
+      "created": "2026-02-06 14:49:25",
+      "created_at": 1770389365000
     },
     {
-      "id": 46970752,
-      "title": "A simpler way to remove explicit images from Search",
-      "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
-      "score": 6,
-      "author": "gnabgib",
-      "created": "2026-02-11 04:15:24",
-      "created_at": 1770783324000
+      "id": 46967772,
+      "title": "The Day the Telnet Died",
+      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+      "score": 322,
+      "author": "pjf",
+      "created": "2026-02-10 22:20:40",
+      "created_at": 1770762040000
     },
     {
-      "id": 46934248,
-      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-      "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-      "score": 116,
-      "author": "AlexeyBrin",
-      "created": "2026-02-08 14:01:11",
-      "created_at": 1770559271000
-    },
-    {
-      "id": 46958231,
-      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "link": "https://code.idtech.space/fn/hl2",
-      "score": 352,
-      "author": "klaussilveira",
-      "created": "2026-02-10 11:21:56",
-      "created_at": 1770722516000
-    },
-    {
-      "id": 46933444,
-      "title": "My eighth year as a bootstrapped founder",
-      "link": "https://mtlynch.io/bootstrapped-founder-year-8/",
-      "score": 183,
-      "author": "mtlynch",
-      "created": "2026-02-08 11:47:02",
-      "created_at": 1770551222000
+      "id": 46971248,
+      "title": "Stay Hungry, Stay Foolish (2005)",
+      "link": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
+      "score": 21,
+      "author": "walterbell",
+      "created": "2026-02-11 05:32:10",
+      "created_at": 1770787930000
     }
   ],
   "code": 200,
