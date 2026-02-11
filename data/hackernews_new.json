@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-10T20:34:51.013Z"
+    "lastUpdate": "2026-02-11T01:20:24.064Z"
   },
   "data": [
+    {
+      "id": 46967772,
+      "title": "The Day the Telnet Died",
+      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+      "score": 134,
+      "author": "pjf",
+      "created": "2026-02-10 22:20:40",
+      "created_at": 1770762040000
+    },
+    {
+      "id": 46958345,
+      "title": "The Feynman Lectures on Physics (1961-1964)",
+      "link": "https://www.feynmanlectures.caltech.edu/",
+      "score": 75,
+      "author": "rramadass",
+      "created": "2026-02-10 11:36:14",
+      "created_at": 1770723374000
+    },
     {
       "id": 46962996,
       "title": "The Singularity will occur on a Tuesday",
       "link": "https://campedersen.com/singularity",
-      "score": 407,
+      "score": 810,
       "author": "ecto",
       "created": "2026-02-10 17:04:31",
       "created_at": 1770743071000
     },
     {
-      "id": 46965776,
-      "title": "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"",
-      "link": "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/",
-      "score": 33,
-      "author": "marysminefnuf",
-      "created": "2026-02-10 19:49:02",
-      "created_at": 1770752942000
-    },
-    {
-      "id": 46964159,
-      "title": "The Switch to Linux and the Beginning of My Self-Hosting Journey",
-      "link": "https://hazemkrimi.tech/blog/linux-self-hosting-journey/",
-      "score": 63,
-      "author": "kingcrimson1000",
-      "created": "2026-02-10 18:09:10",
-      "created_at": 1770746950000
-    },
-    {
-      "id": 46966209,
-      "title": "Show HN: Clawe – open-source Trello for agent teams",
-      "link": "https://github.com/getclawe/clawe",
-      "score": 9,
-      "author": "Jonathanfishner",
-      "created": "2026-02-10 20:17:45",
-      "created_at": 1770754665000
-    },
-    {
-      "id": 46963887,
-      "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
-      "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
-      "score": 65,
-      "author": "simonw",
-      "created": "2026-02-10 17:52:46",
-      "created_at": 1770745966000
-    },
-    {
-      "id": 46959418,
-      "title": "Simplifying Vulkan one subsystem at a time",
-      "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-      "score": 169,
-      "author": "amazari",
-      "created": "2026-02-10 13:26:14",
-      "created_at": 1770729974000
-    },
-    {
-      "id": 46962402,
-      "title": "Mathematicians disagree on the essential structure of the complex numbers",
-      "link": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-      "score": 86,
-      "author": "FillMaths",
-      "created": "2026-02-10 16:36:30",
-      "created_at": 1770741390000
-    },
-    {
       "id": 46961345,
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 132,
+      "score": 309,
       "author": "meetpateltech",
       "created": "2026-02-10 15:44:47",
       "created_at": 1770738287000
     },
     {
-      "id": 46964162,
-      "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
-      "link": "https://livedocs.com",
-      "score": 30,
-      "author": "arsalanb",
-      "created": "2026-02-10 18:09:14",
-      "created_at": 1770746954000
+      "id": 46934248,
+      "title": "The Little Learner: A Straight Line to Deep Learning",
+      "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+      "score": 72,
+      "author": "AlexeyBrin",
+      "created": "2026-02-08 14:01:11",
+      "created_at": 1770559271000
+    },
+    {
+      "id": 46966605,
+      "title": "The Falkirk Wheel",
+      "link": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+      "score": 40,
+      "author": "scapecast",
+      "created": "2026-02-10 20:42:20",
+      "created_at": 1770756140000
+    },
+    {
+      "id": 46966182,
+      "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+      "link": "https://github.com/tambo-ai/tambo",
+      "score": 42,
+      "author": "grouchy",
+      "created": "2026-02-10 20:16:12",
+      "created_at": 1770754572000
+    },
+    {
+      "id": 46933444,
+      "title": "My eighth year as a bootstrapped founder",
+      "link": "https://mtlynch.io/bootstrapped-founder-year-8/",
+      "score": 122,
+      "author": "mtlynch",
+      "created": "2026-02-08 11:47:02",
+      "created_at": 1770551222000
     },
     {
       "id": 46958231,
       "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
       "link": "https://code.idtech.space/fn/hl2",
-      "score": 266,
+      "score": 325,
       "author": "klaussilveira",
       "created": "2026-02-10 11:21:56",
       "created_at": 1770722516000
+    },
+    {
+      "id": 46959418,
+      "title": "Simplifying Vulkan one subsystem at a time",
+      "link": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+      "score": 206,
+      "author": "amazari",
+      "created": "2026-02-10 13:26:14",
+      "created_at": 1770729974000
     }
   ],
   "code": 200,
