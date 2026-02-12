@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-12T08:34:11.968Z"
+    "lastUpdate": "2026-02-12T12:39:46.083Z"
   },
   "data": [
+    {
+      "id": 46987919,
+      "title": "The \"Crown of Nobles\" Noble Gas Tube Display",
+      "link": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
+      "score": 9,
+      "author": "Ivoah",
+      "created": "2026-02-12 12:23:05",
+      "created_at": 1770898985000
+    },
     {
       "id": 46985151,
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "link": "https://github.com/tonyyont/peon-ping",
-      "score": 240,
+      "score": 507,
       "author": "doppp",
       "created": "2026-02-12 05:18:49",
       "created_at": 1770873529000
     },
     {
+      "id": 46987559,
+      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+      "link": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "score": 187,
+      "author": "wrxd",
+      "created": "2026-02-12 11:46:01",
+      "created_at": 1770896761000
+    },
+    {
       "id": 46982421,
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "link": "https://age-verifier.kibty.town/",
-      "score": 673,
+      "score": 802,
       "author": "JustSkyfall",
       "created": "2026-02-11 22:56:41",
       "created_at": 1770850601000
     },
     {
-      "id": 46949814,
-      "title": "Using an engineering notebook",
-      "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
-      "score": 142,
-      "author": "evakhoury",
-      "created": "2026-02-09 19:29:53",
-      "created_at": 1770665393000
-    },
-    {
-      "id": 46985147,
-      "title": "D Programming Language",
-      "link": "https://dlang.org/",
-      "score": 92,
-      "author": "arcadia_leak",
-      "created": "2026-02-12 05:18:09",
-      "created_at": 1770873489000
+      "id": 46986248,
+      "title": "The missing digit of Stela C",
+      "link": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
+      "score": 48,
+      "author": "chmaynard",
+      "created": "2026-02-12 08:35:34",
+      "created_at": 1770885334000
     },
     {
       "id": 46933529,
       "title": "“Nothing” is the secret to structuring your work",
       "link": "https://www.vangemert.dev/blog/nothing",
-      "score": 238,
+      "score": 318,
       "author": "spmvg",
       "created": "2026-02-08 12:01:50",
       "created_at": 1770552110000
     },
     {
+      "id": 46949814,
+      "title": "Using an engineering notebook",
+      "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "score": 213,
+      "author": "evakhoury",
+      "created": "2026-02-09 19:29:53",
+      "created_at": 1770665393000
+    },
+    {
       "id": 46974853,
       "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
       "link": "https://z.ai/blog/glm-5",
-      "score": 358,
+      "score": 405,
       "author": "CuriouslyC",
       "created": "2026-02-11 13:42:16",
       "created_at": 1770817336000
     },
     {
-      "id": 46945907,
-      "title": "HeyWhatsThat",
-      "link": "https://www.heywhatsthat.com/faq.html",
-      "score": 21,
-      "author": "1970-01-01",
-      "created": "2026-02-09 14:57:25",
-      "created_at": 1770649045000
+      "id": 46984735,
+      "title": "How to make a living as an artist",
+      "link": "https://essays.fnnch.com/make-a-living",
+      "score": 130,
+      "author": "gwintrob",
+      "created": "2026-02-12 03:56:26",
+      "created_at": 1770868586000
     },
     {
       "id": 46976911,
       "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
       "link": "https://fluorite.game/",
-      "score": 463,
+      "score": 488,
       "author": "bsimpson",
       "created": "2026-02-11 16:21:10",
       "created_at": 1770826870000
-    },
-    {
-      "id": 46942864,
-      "title": "Text classification with Python 3.14's ZSTD module",
-      "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
-      "score": 186,
-      "author": "alexmolas",
-      "created": "2026-02-09 08:14:28",
-      "created_at": 1770624868000
-    },
-    {
-      "id": 46986001,
-      "title": "65 Lines of Markdown, a Claude Code Sensation",
-      "link": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
-      "score": 8,
-      "author": "roywashere",
-      "created": "2026-02-12 07:52:49",
-      "created_at": 1770882769000
     }
   ],
   "code": 200,

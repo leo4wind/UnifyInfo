@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-12T08:34:11.806Z"
+    "lastUpdate": "2026-02-12T12:39:45.941Z"
   },
   "data": [
     {
       "id": 46962996,
       "title": "The Singularity will occur on a Tuesday",
       "link": "https://campedersen.com/singularity",
-      "score": 1336,
+      "score": 1345,
       "author": "ecto",
       "created": "2026-02-10 17:04:31",
       "created_at": 1770743071000
@@ -19,7 +19,7 @@
       "id": 46958399,
       "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
       "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "score": 1094,
+      "score": 1105,
       "author": "NewCzech",
       "created": "2026-02-10 11:42:14",
       "created_at": 1770723734000
@@ -28,7 +28,7 @@
       "id": 46978710,
       "title": "Claude Code is being dumbed down?",
       "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "score": 893,
+      "score": 978,
       "author": "WXLCKNO",
       "created": "2026-02-11 18:23:39",
       "created_at": 1770834219000
@@ -37,16 +37,25 @@
       "id": 46960675,
       "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
       "link": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-      "score": 807,
+      "score": 812,
       "author": "jamesrandall",
       "created": "2026-02-10 15:08:36",
       "created_at": 1770736116000
     },
     {
+      "id": 46982421,
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "link": "https://age-verifier.kibty.town/",
+      "score": 802,
+      "author": "JustSkyfall",
+      "created": "2026-02-11 22:56:41",
+      "created_at": 1770850601000
+    },
+    {
       "id": 46963804,
       "title": "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
       "link": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-      "score": 785,
+      "score": 788,
       "author": "lehi",
       "created": "2026-02-10 17:48:05",
       "created_at": 1770745685000
@@ -55,25 +64,16 @@
       "id": 46971516,
       "title": "Windows Notepad App Remote Code Execution Vulnerability",
       "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 774,
+      "score": 778,
       "author": "riffraff",
       "created": "2026-02-11 06:15:33",
       "created_at": 1770790533000
     },
     {
-      "id": 46982421,
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "link": "https://age-verifier.kibty.town/",
-      "score": 673,
-      "author": "JustSkyfall",
-      "created": "2026-02-11 22:56:41",
-      "created_at": 1770850601000
-    },
-    {
       "id": 46961345,
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 602,
+      "score": 603,
       "author": "meetpateltech",
       "created": "2026-02-10 15:44:47",
       "created_at": 1770738287000
@@ -82,7 +82,7 @@
       "id": 46960036,
       "title": "Oxide raises $200M Series C",
       "link": "https://oxide.computer/blog/our-200m-series-c",
-      "score": 598,
+      "score": 599,
       "author": "igrunert",
       "created": "2026-02-10 14:20:49",
       "created_at": 1770733249000
@@ -91,7 +91,7 @@
       "id": 46978966,
       "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
       "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "score": 550,
+      "score": 596,
       "author": "jedberg",
       "created": "2026-02-11 18:43:01",
       "created_at": 1770835381000
