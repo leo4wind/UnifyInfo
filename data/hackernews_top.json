@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-11T20:28:48.376Z"
+    "lastUpdate": "2026-02-12T01:12:52.905Z"
   },
   "data": [
     {
-      "id": 46979562,
-      "title": "The risk of a hothouse Earth trajectory",
-      "link": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
-      "score": 124,
-      "author": "Archelaos",
-      "created": "2026-02-11 19:25:18",
-      "created_at": 1770837918000
+      "id": 46982421,
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "link": "https://age-verifier.kibty.town/",
+      "score": 253,
+      "author": "JustSkyfall",
+      "created": "2026-02-11 22:56:41",
+      "created_at": 1770850601000
+    },
+    {
+      "id": 46982792,
+      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "score": 87,
+      "author": "droidjj",
+      "created": "2026-02-11 23:37:11",
+      "created_at": 1770853031000
     },
     {
       "id": 46976911,
-      "title": "Toyota Fluorite: \"console-grade\" Flutter game engine",
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
       "link": "https://fluorite.game/",
-      "score": 221,
+      "score": 387,
       "author": "bsimpson",
       "created": "2026-02-11 16:21:10",
       "created_at": 1770826870000
     },
     {
-      "id": 46977210,
-      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "id": 46942864,
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "score": 71,
+      "author": "alexmolas",
+      "created": "2026-02-09 08:14:28",
+      "created_at": 1770624868000
+    },
+    {
+      "id": 46974853,
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
       "link": "https://z.ai/blog/glm-5",
-      "score": 249,
-      "author": "meetpateltech",
-      "created": "2026-02-11 16:41:33",
-      "created_at": 1770828093000
+      "score": 238,
+      "author": "CuriouslyC",
+      "created": "2026-02-11 13:42:16",
+      "created_at": 1770817336000
+    },
+    {
+      "id": 46933529,
+      "title": "\"Nothing\" is the secret to structuring your work",
+      "link": "https://www.vangemert.dev/blog/nothing",
+      "score": 40,
+      "author": "spmvg",
+      "created": "2026-02-08 12:01:50",
+      "created_at": 1770552110000
     },
     {
       "id": 46978490,
       "title": "NetNewsWire Turns 23",
       "link": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-      "score": 84,
+      "score": 196,
       "author": "robin_reala",
       "created": "2026-02-11 18:06:11",
       "created_at": 1770833171000
     },
     {
+      "id": 46980355,
+      "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
+      "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "score": 21,
+      "author": "ericpauley",
+      "created": "2026-02-11 20:20:48",
+      "created_at": 1770841248000
+    },
+    {
       "id": 46978710,
-      "title": "Claude Code Is Being Dumbed Down",
+      "title": "Claude Code is being dumbed down?",
       "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "score": 359,
+      "score": 718,
       "author": "WXLCKNO",
       "created": "2026-02-11 18:23:39",
       "created_at": 1770834219000
     },
     {
-      "id": 46917005,
-      "title": "Single bone in Spain offers first direct evidence of Hannibal's war elephants",
-      "link": "https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html",
-      "score": 50,
-      "author": "Archelaos",
-      "created": "2026-02-06 19:25:52",
-      "created_at": 1770405952000
-    },
-    {
-      "id": 46968374,
-      "title": "We rendered and embedded one million CAD files",
-      "link": "https://cad-search-three.vercel.app/",
-      "score": 44,
-      "author": "DavidFerris",
-      "created": "2026-02-10 23:12:36",
-      "created_at": 1770765156000
-    },
-    {
-      "id": 46920315,
-      "title": "WiFi Could Become an Invisible Mass Surveillance System",
-      "link": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
-      "score": 217,
-      "author": "mgh2",
-      "created": "2026-02-07 01:16:42",
-      "created_at": 1770427002000
-    },
-    {
-      "id": 46924075,
-      "title": "GLM-OCR: Accurate × Fast × Comprehensive",
-      "link": "https://github.com/zai-org/GLM-OCR",
-      "score": 169,
-      "author": "ms7892",
-      "created": "2026-02-07 14:15:36",
-      "created_at": 1770473736000
-    },
-    {
-      "id": 46978966,
-      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-      "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "score": 104,
-      "author": "jedberg",
-      "created": "2026-02-11 18:43:01",
-      "created_at": 1770835381000
+      "id": 46979936,
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "score": 64,
+      "author": "arm",
+      "created": "2026-02-11 19:50:43",
+      "created_at": 1770839443000
     }
   ],
   "code": 200,

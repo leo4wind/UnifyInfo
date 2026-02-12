@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-11T20:28:48.273Z"
+    "lastUpdate": "2026-02-12T01:12:52.817Z"
   },
   "data": [
     {
       "id": 46962996,
       "title": "The Singularity will occur on a Tuesday",
       "link": "https://campedersen.com/singularity",
-      "score": 1311,
+      "score": 1321,
       "author": "ecto",
       "created": "2026-02-10 17:04:31",
       "created_at": 1770743071000
@@ -19,7 +19,7 @@
       "id": 46958399,
       "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
       "link": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "score": 1070,
+      "score": 1084,
       "author": "NewCzech",
       "created": "2026-02-10 11:42:14",
       "created_at": 1770723734000
@@ -28,7 +28,7 @@
       "id": 46960675,
       "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
       "link": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-      "score": 785,
+      "score": 797,
       "author": "jamesrandall",
       "created": "2026-02-10 15:08:36",
       "created_at": 1770736116000
@@ -37,7 +37,7 @@
       "id": 46963804,
       "title": "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
       "link": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-      "score": 778,
+      "score": 781,
       "author": "lehi",
       "created": "2026-02-10 17:48:05",
       "created_at": 1770745685000
@@ -46,34 +46,43 @@
       "id": 46971516,
       "title": "Windows Notepad App Remote Code Execution Vulnerability",
       "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 690,
+      "score": 751,
       "author": "riffraff",
       "created": "2026-02-11 06:15:33",
       "created_at": 1770790533000
     },
     {
-      "id": 46960036,
-      "title": "Oxide raises $200M Series C",
-      "link": "https://oxide.computer/blog/our-200m-series-c",
-      "score": 595,
-      "author": "igrunert",
-      "created": "2026-02-10 14:20:49",
-      "created_at": 1770733249000
+      "id": 46978710,
+      "title": "Claude Code is being dumbed down?",
+      "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "score": 718,
+      "author": "WXLCKNO",
+      "created": "2026-02-11 18:23:39",
+      "created_at": 1770834219000
     },
     {
       "id": 46961345,
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
       "link": "https://entire.io/blog/hello-entire-world/",
-      "score": 590,
+      "score": 597,
       "author": "meetpateltech",
       "created": "2026-02-10 15:44:47",
       "created_at": 1770738287000
     },
     {
+      "id": 46960036,
+      "title": "Oxide raises $200M Series C",
+      "link": "https://oxide.computer/blog/our-200m-series-c",
+      "score": 596,
+      "author": "igrunert",
+      "created": "2026-02-10 14:20:49",
+      "created_at": 1770733249000
+    },
+    {
       "id": 46954920,
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "link": "https://arxiv.org/abs/2512.20798",
-      "score": 537,
+      "score": 538,
       "author": "tiny-automates",
       "created": "2026-02-10 03:17:17",
       "created_at": 1770693437000
@@ -82,19 +91,10 @@
       "id": 46959832,
       "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
       "link": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
-      "score": 485,
+      "score": 489,
       "author": "geox",
       "created": "2026-02-10 14:02:10",
       "created_at": 1770732130000
-    },
-    {
-      "id": 46967772,
-      "title": "The Day the Telnet Died",
-      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "score": 474,
-      "author": "pjf",
-      "created": "2026-02-10 22:20:40",
-      "created_at": 1770762040000
     }
   ],
   "code": 200,
