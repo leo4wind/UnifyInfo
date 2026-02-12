@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-12T05:20:46.032Z"
+    "lastUpdate": "2026-02-12T08:34:11.968Z"
   },
   "data": [
+    {
+      "id": 46985151,
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "link": "https://github.com/tonyyont/peon-ping",
+      "score": 240,
+      "author": "doppp",
+      "created": "2026-02-12 05:18:49",
+      "created_at": 1770873529000
+    },
     {
       "id": 46982421,
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "link": "https://age-verifier.kibty.town/",
-      "score": 525,
+      "score": 673,
       "author": "JustSkyfall",
       "created": "2026-02-11 22:56:41",
       "created_at": 1770850601000
@@ -19,82 +28,73 @@
       "id": 46949814,
       "title": "Using an engineering notebook",
       "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
-      "score": 65,
+      "score": 142,
       "author": "evakhoury",
       "created": "2026-02-09 19:29:53",
       "created_at": 1770665393000
     },
     {
+      "id": 46985147,
+      "title": "D Programming Language",
+      "link": "https://dlang.org/",
+      "score": 92,
+      "author": "arcadia_leak",
+      "created": "2026-02-12 05:18:09",
+      "created_at": 1770873489000
+    },
+    {
       "id": 46933529,
       "title": "“Nothing” is the secret to structuring your work",
       "link": "https://www.vangemert.dev/blog/nothing",
-      "score": 154,
+      "score": 238,
       "author": "spmvg",
       "created": "2026-02-08 12:01:50",
       "created_at": 1770552110000
     },
     {
-      "id": 46984799,
-      "title": "GLM-5 was trained entirely on Huawei chips",
-      "link": "https://glm5.net/",
-      "score": 12,
-      "author": "wildcatqz",
-      "created": "2026-02-12 04:06:44",
-      "created_at": 1770869204000
-    },
-    {
-      "id": 46976911,
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "link": "https://fluorite.game/",
-      "score": 437,
-      "author": "bsimpson",
-      "created": "2026-02-11 16:21:10",
-      "created_at": 1770826870000
-    },
-    {
-      "id": 46921757,
-      "title": "Kanchipuram Saris and Thinking Machines",
-      "link": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
-      "score": 81,
-      "author": "trojanalert",
-      "created": "2026-02-07 06:19:05",
-      "created_at": 1770445145000
-    },
-    {
-      "id": 46942864,
-      "title": "Text classification with Python 3.14's ZSTD module",
-      "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
-      "score": 154,
-      "author": "alexmolas",
-      "created": "2026-02-09 08:14:28",
-      "created_at": 1770624868000
-    },
-    {
       "id": 46974853,
       "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
       "link": "https://z.ai/blog/glm-5",
-      "score": 314,
+      "score": 358,
       "author": "CuriouslyC",
       "created": "2026-02-11 13:42:16",
       "created_at": 1770817336000
     },
     {
-      "id": 46980355,
-      "title": "Reports of Telnet's death have been greatly exaggerated",
-      "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-      "score": 77,
-      "author": "ericpauley",
-      "created": "2026-02-11 20:20:48",
-      "created_at": 1770841248000
+      "id": 46945907,
+      "title": "HeyWhatsThat",
+      "link": "https://www.heywhatsthat.com/faq.html",
+      "score": 21,
+      "author": "1970-01-01",
+      "created": "2026-02-09 14:57:25",
+      "created_at": 1770649045000
     },
     {
-      "id": 46982943,
-      "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
-      "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-      "score": 18,
-      "author": "bartblast",
-      "created": "2026-02-11 23:54:59",
-      "created_at": 1770854099000
+      "id": 46976911,
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "link": "https://fluorite.game/",
+      "score": 463,
+      "author": "bsimpson",
+      "created": "2026-02-11 16:21:10",
+      "created_at": 1770826870000
+    },
+    {
+      "id": 46942864,
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "score": 186,
+      "author": "alexmolas",
+      "created": "2026-02-09 08:14:28",
+      "created_at": 1770624868000
+    },
+    {
+      "id": 46986001,
+      "title": "65 Lines of Markdown, a Claude Code Sensation",
+      "link": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
+      "score": 8,
+      "author": "roywashere",
+      "created": "2026-02-12 07:52:49",
+      "created_at": 1770882769000
     }
   ],
   "code": 200,
