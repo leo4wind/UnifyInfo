@@ -3,41 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-12T01:12:52.905Z"
+    "lastUpdate": "2026-02-12T05:20:46.032Z"
   },
   "data": [
     {
       "id": 46982421,
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "link": "https://age-verifier.kibty.town/",
-      "score": 253,
+      "score": 525,
       "author": "JustSkyfall",
       "created": "2026-02-11 22:56:41",
       "created_at": 1770850601000
     },
     {
-      "id": 46982792,
-      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "score": 87,
-      "author": "droidjj",
-      "created": "2026-02-11 23:37:11",
-      "created_at": 1770853031000
+      "id": 46949814,
+      "title": "Using an engineering notebook",
+      "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "score": 65,
+      "author": "evakhoury",
+      "created": "2026-02-09 19:29:53",
+      "created_at": 1770665393000
+    },
+    {
+      "id": 46933529,
+      "title": "“Nothing” is the secret to structuring your work",
+      "link": "https://www.vangemert.dev/blog/nothing",
+      "score": 154,
+      "author": "spmvg",
+      "created": "2026-02-08 12:01:50",
+      "created_at": 1770552110000
+    },
+    {
+      "id": 46984799,
+      "title": "GLM-5 was trained entirely on Huawei chips",
+      "link": "https://glm5.net/",
+      "score": 12,
+      "author": "wildcatqz",
+      "created": "2026-02-12 04:06:44",
+      "created_at": 1770869204000
     },
     {
       "id": 46976911,
       "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
       "link": "https://fluorite.game/",
-      "score": 387,
+      "score": 437,
       "author": "bsimpson",
       "created": "2026-02-11 16:21:10",
       "created_at": 1770826870000
     },
     {
+      "id": 46921757,
+      "title": "Kanchipuram Saris and Thinking Machines",
+      "link": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+      "score": 81,
+      "author": "trojanalert",
+      "created": "2026-02-07 06:19:05",
+      "created_at": 1770445145000
+    },
+    {
       "id": 46942864,
       "title": "Text classification with Python 3.14's ZSTD module",
       "link": "https://maxhalford.github.io/blog/text-classification-zstd/",
-      "score": 71,
+      "score": 154,
       "author": "alexmolas",
       "created": "2026-02-09 08:14:28",
       "created_at": 1770624868000
@@ -46,55 +73,28 @@
       "id": 46974853,
       "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
       "link": "https://z.ai/blog/glm-5",
-      "score": 238,
+      "score": 314,
       "author": "CuriouslyC",
       "created": "2026-02-11 13:42:16",
       "created_at": 1770817336000
     },
     {
-      "id": 46933529,
-      "title": "\"Nothing\" is the secret to structuring your work",
-      "link": "https://www.vangemert.dev/blog/nothing",
-      "score": 40,
-      "author": "spmvg",
-      "created": "2026-02-08 12:01:50",
-      "created_at": 1770552110000
-    },
-    {
-      "id": 46978490,
-      "title": "NetNewsWire Turns 23",
-      "link": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-      "score": 196,
-      "author": "robin_reala",
-      "created": "2026-02-11 18:06:11",
-      "created_at": 1770833171000
-    },
-    {
       "id": 46980355,
-      "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
+      "title": "Reports of Telnet's death have been greatly exaggerated",
       "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-      "score": 21,
+      "score": 77,
       "author": "ericpauley",
       "created": "2026-02-11 20:20:48",
       "created_at": 1770841248000
     },
     {
-      "id": 46978710,
-      "title": "Claude Code is being dumbed down?",
-      "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "score": 718,
-      "author": "WXLCKNO",
-      "created": "2026-02-11 18:23:39",
-      "created_at": 1770834219000
-    },
-    {
-      "id": 46979936,
-      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-      "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-      "score": 64,
-      "author": "arm",
-      "created": "2026-02-11 19:50:43",
-      "created_at": 1770839443000
+      "id": 46982943,
+      "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+      "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+      "score": 18,
+      "author": "bartblast",
+      "created": "2026-02-11 23:54:59",
+      "created_at": 1770854099000
     }
   ],
   "code": 200,
