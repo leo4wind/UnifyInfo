@@ -3,59 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-12T16:45:50.684Z"
+    "lastUpdate": "2026-02-12T20:23:57.603Z"
   },
   "data": [
-    {
-      "id": 46962996,
-      "title": "The Singularity will occur on a Tuesday",
-      "link": "https://campedersen.com/singularity",
-      "score": 1348,
-      "author": "ecto",
-      "created": "2026-02-10 17:04:31",
-      "created_at": 1770743071000
-    },
     {
       "id": 46978710,
       "title": "Claude Code is being dumbed down?",
       "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "score": 1015,
+      "score": 1034,
       "author": "WXLCKNO",
       "created": "2026-02-11 18:23:39",
       "created_at": 1770834219000
     },
     {
+      "id": 46990729,
+      "title": "An AI agent published a hit piece on me",
+      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "score": 919,
+      "author": "scottshambaugh",
+      "created": "2026-02-12 16:23:24",
+      "created_at": 1770913404000
+    },
+    {
       "id": 46982421,
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "link": "https://age-verifier.kibty.town/",
-      "score": 891,
+      "score": 913,
       "author": "JustSkyfall",
       "created": "2026-02-11 22:56:41",
       "created_at": 1770850601000
     },
     {
-      "id": 46963804,
-      "title": "Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number",
-      "link": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-      "score": 792,
-      "author": "lehi",
-      "created": "2026-02-10 17:48:05",
-      "created_at": 1770745685000
-    },
-    {
-      "id": 46971516,
-      "title": "Windows Notepad App Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 784,
-      "author": "riffraff",
-      "created": "2026-02-11 06:15:33",
-      "created_at": 1770790533000
-    },
-    {
       "id": 46985151,
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "link": "https://github.com/tonyyont/peon-ping",
-      "score": 758,
+      "score": 883,
       "author": "doppp",
       "created": "2026-02-12 05:18:49",
       "created_at": 1770873529000
@@ -64,16 +46,25 @@
       "id": 46987559,
       "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
       "link": "https://github.com/matplotlib/matplotlib/pull/31132",
-      "score": 676,
+      "score": 810,
       "author": "wrxd",
       "created": "2026-02-12 11:46:01",
       "created_at": 1770896761000
     },
     {
+      "id": 46971516,
+      "title": "Windows Notepad App Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+      "score": 793,
+      "author": "riffraff",
+      "created": "2026-02-11 06:15:33",
+      "created_at": 1770790533000
+    },
+    {
       "id": 46978966,
       "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
       "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "score": 627,
+      "score": 643,
       "author": "jedberg",
       "created": "2026-02-11 18:43:01",
       "created_at": 1770835381000
@@ -82,7 +73,7 @@
       "id": 46976911,
       "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
       "link": "https://fluorite.game/",
-      "score": 517,
+      "score": 521,
       "author": "bsimpson",
       "created": "2026-02-11 16:21:10",
       "created_at": 1770826870000
@@ -95,6 +86,15 @@
       "author": "pjf",
       "created": "2026-02-10 22:20:40",
       "created_at": 1770762040000
+    },
+    {
+      "id": 46977175,
+      "title": "Ireland rolls out basic income scheme for artists",
+      "link": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "score": 464,
+      "author": "abe94",
+      "created": "2026-02-11 16:39:11",
+      "created_at": 1770827951000
     }
   ],
   "code": 200,
