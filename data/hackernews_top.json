@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-12T12:39:46.083Z"
+    "lastUpdate": "2026-02-12T16:45:50.824Z"
   },
   "data": [
     {
+      "id": 46990729,
+      "title": "An AI Agent Published a Hit Piece on Me",
+      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "score": 101,
+      "author": "scottshambaugh",
+      "created": "2026-02-12 16:23:24",
+      "created_at": 1770913404000
+    },
+    {
+      "id": 46989217,
+      "title": "Email is tough: Major European Payment Processor's Emails rejected by GWorkspace",
+      "link": "https://atha.io/blog/2026-02-12-viva",
+      "score": 197,
+      "author": "thatha7777",
+      "created": "2026-02-12 14:24:15",
+      "created_at": 1770906255000
+    },
+    {
+      "id": 46988596,
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "score": 243,
+      "author": "kachapopopow",
+      "created": "2026-02-12 13:30:20",
+      "created_at": 1770903020000
+    },
+    {
       "id": 46987919,
-      "title": "The \"Crown of Nobles\" Noble Gas Tube Display",
+      "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
       "link": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
-      "score": 9,
+      "score": 96,
       "author": "Ivoah",
       "created": "2026-02-12 12:23:05",
       "created_at": 1770898985000
     },
     {
+      "id": 46989605,
+      "title": "A brief history of barbed wire fence telephone networks (2024)",
+      "link": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
+      "score": 33,
+      "author": "keepamovin",
+      "created": "2026-02-12 14:56:18",
+      "created_at": 1770908178000
+    },
+    {
+      "id": 46989124,
+      "title": "Culture Is the Mass-Synchronization of Framings",
+      "link": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
+      "score": 39,
+      "author": "mrcgnc",
+      "created": "2026-02-12 14:17:37",
+      "created_at": 1770905857000
+    },
+    {
+      "id": 46989117,
+      "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+      "link": "https://lwn.net/Articles/1055590/",
+      "score": 47,
+      "author": "todsacerdoti",
+      "created": "2026-02-12 14:17:06",
+      "created_at": 1770905826000
+    },
+    {
+      "id": 46988438,
+      "title": "Apache Arrow is 10 years old",
+      "link": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+      "score": 66,
+      "author": "tosh",
+      "created": "2026-02-12 13:13:30",
+      "created_at": 1770902010000
+    },
+    {
       "id": 46985151,
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "link": "https://github.com/tonyyont/peon-ping",
-      "score": 507,
+      "score": 758,
       "author": "doppp",
       "created": "2026-02-12 05:18:49",
       "created_at": 1770873529000
     },
     {
-      "id": 46987559,
-      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-      "link": "https://github.com/matplotlib/matplotlib/pull/31132",
-      "score": 187,
-      "author": "wrxd",
-      "created": "2026-02-12 11:46:01",
-      "created_at": 1770896761000
-    },
-    {
-      "id": 46982421,
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "link": "https://age-verifier.kibty.town/",
-      "score": 802,
-      "author": "JustSkyfall",
-      "created": "2026-02-11 22:56:41",
-      "created_at": 1770850601000
-    },
-    {
-      "id": 46986248,
-      "title": "The missing digit of Stela C",
-      "link": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
-      "score": 48,
-      "author": "chmaynard",
-      "created": "2026-02-12 08:35:34",
-      "created_at": 1770885334000
-    },
-    {
-      "id": 46933529,
-      "title": "“Nothing” is the secret to structuring your work",
-      "link": "https://www.vangemert.dev/blog/nothing",
-      "score": 318,
-      "author": "spmvg",
-      "created": "2026-02-08 12:01:50",
-      "created_at": 1770552110000
-    },
-    {
-      "id": 46949814,
-      "title": "Using an engineering notebook",
-      "link": "https://ntietz.com/blog/using-an-engineering-notebook/",
-      "score": 213,
-      "author": "evakhoury",
-      "created": "2026-02-09 19:29:53",
-      "created_at": 1770665393000
-    },
-    {
-      "id": 46974853,
-      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-      "link": "https://z.ai/blog/glm-5",
-      "score": 405,
-      "author": "CuriouslyC",
-      "created": "2026-02-11 13:42:16",
-      "created_at": 1770817336000
-    },
-    {
-      "id": 46984735,
-      "title": "How to make a living as an artist",
-      "link": "https://essays.fnnch.com/make-a-living",
-      "score": 130,
-      "author": "gwintrob",
-      "created": "2026-02-12 03:56:26",
-      "created_at": 1770868586000
-    },
-    {
-      "id": 46976911,
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "link": "https://fluorite.game/",
-      "score": 488,
-      "author": "bsimpson",
-      "created": "2026-02-11 16:21:10",
-      "created_at": 1770826870000
+      "id": 46948278,
+      "title": "I Wrote a Scheme in 2025",
+      "link": "https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html",
+      "score": 59,
+      "author": "maplant",
+      "created": "2026-02-09 17:44:32",
+      "created_at": 1770659072000
     }
   ],
   "code": 200,
