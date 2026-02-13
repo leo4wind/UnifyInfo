@@ -3,50 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-12T20:23:57.603Z"
+    "lastUpdate": "2026-02-13T01:16:33.122Z"
   },
   "data": [
-    {
-      "id": 46978710,
-      "title": "Claude Code is being dumbed down?",
-      "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "score": 1034,
-      "author": "WXLCKNO",
-      "created": "2026-02-11 18:23:39",
-      "created_at": 1770834219000
-    },
     {
       "id": 46990729,
       "title": "An AI agent published a hit piece on me",
       "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "score": 919,
+      "score": 1407,
       "author": "scottshambaugh",
       "created": "2026-02-12 16:23:24",
       "created_at": 1770913404000
     },
     {
-      "id": 46982421,
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "link": "https://age-verifier.kibty.town/",
-      "score": 913,
-      "author": "JustSkyfall",
-      "created": "2026-02-11 22:56:41",
-      "created_at": 1770850601000
+      "id": 46978710,
+      "title": "Claude Code is being dumbed down?",
+      "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "score": 1046,
+      "author": "WXLCKNO",
+      "created": "2026-02-11 18:23:39",
+      "created_at": 1770834219000
     },
     {
       "id": 46985151,
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "link": "https://github.com/tonyyont/peon-ping",
-      "score": 883,
+      "score": 933,
       "author": "doppp",
       "created": "2026-02-12 05:18:49",
       "created_at": 1770873529000
     },
     {
+      "id": 46982421,
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "link": "https://age-verifier.kibty.town/",
+      "score": 926,
+      "author": "JustSkyfall",
+      "created": "2026-02-11 22:56:41",
+      "created_at": 1770850601000
+    },
+    {
       "id": 46987559,
       "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
       "link": "https://github.com/matplotlib/matplotlib/pull/31132",
-      "score": 810,
+      "score": 856,
       "author": "wrxd",
       "created": "2026-02-12 11:46:01",
       "created_at": 1770896761000
@@ -55,7 +55,7 @@
       "id": 46971516,
       "title": "Windows Notepad App Remote Code Execution Vulnerability",
       "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "score": 793,
+      "score": 795,
       "author": "riffraff",
       "created": "2026-02-11 06:15:33",
       "created_at": 1770790533000
@@ -64,37 +64,37 @@
       "id": 46978966,
       "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
       "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-      "score": 643,
+      "score": 649,
       "author": "jedberg",
       "created": "2026-02-11 18:43:01",
       "created_at": 1770835381000
     },
     {
-      "id": 46976911,
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "link": "https://fluorite.game/",
-      "score": 521,
-      "author": "bsimpson",
-      "created": "2026-02-11 16:21:10",
-      "created_at": 1770826870000
+      "id": 46991240,
+      "title": "Gemini 3 Deep Think",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "score": 627,
+      "author": "tosh",
+      "created": "2026-02-12 16:55:50",
+      "created_at": 1770915350000
     },
     {
-      "id": 46967772,
-      "title": "The Day the Telnet Died",
-      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "score": 491,
-      "author": "pjf",
-      "created": "2026-02-10 22:20:40",
-      "created_at": 1770762040000
+      "id": 46991394,
+      "title": "ai;dr",
+      "link": "https://www.0xsid.com/blog/aidr",
+      "score": 572,
+      "author": "ssiddharth",
+      "created": "2026-02-12 17:03:30",
+      "created_at": 1770915810000
     },
     {
-      "id": 46977175,
-      "title": "Ireland rolls out basic income scheme for artists",
-      "link": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-      "score": 464,
-      "author": "abe94",
-      "created": "2026-02-11 16:39:11",
-      "created_at": 1770827951000
+      "id": 46988596,
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "score": 551,
+      "author": "kachapopopow",
+      "created": "2026-02-12 13:30:20",
+      "created_at": 1770903020000
     }
   ],
   "code": 200,

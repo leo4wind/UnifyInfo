@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-12T20:23:57.927Z"
+    "lastUpdate": "2026-02-13T01:16:33.321Z"
   },
   "data": [
+    {
+      "id": 46997008,
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "score": 68,
+      "author": "erickhill",
+      "created": "2026-02-12 23:52:24",
+      "created_at": 1770940344000
+    },
     {
       "id": 46992553,
       "title": "GPT‑5.3‑Codex‑Spark",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "score": 270,
+      "score": 531,
       "author": "meetpateltech",
       "created": "2026-02-12 18:06:09",
       "created_at": 1770919569000
     },
     {
-      "id": 46990729,
-      "title": "An AI agent published a hit piece on me",
-      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "score": 919,
-      "author": "scottshambaugh",
-      "created": "2026-02-12 16:23:24",
-      "created_at": 1770913404000
+      "id": 46997133,
+      "title": "AWS Adds support for nested virtualization",
+      "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "score": 36,
+      "author": "sitole",
+      "created": "2026-02-13 00:07:57",
+      "created_at": 1770941277000
     },
     {
       "id": 46991240,
       "title": "Gemini 3 Deep Think",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "score": 343,
+      "score": 627,
       "author": "tosh",
       "created": "2026-02-12 16:55:50",
       "created_at": 1770915350000
     },
     {
+      "id": 46990729,
+      "title": "An AI agent published a hit piece on me",
+      "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "score": 1407,
+      "author": "scottshambaugh",
+      "created": "2026-02-12 16:23:24",
+      "created_at": 1770913404000
+    },
+    {
+      "id": 46996999,
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "link": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "score": 103,
+      "author": "c420",
+      "created": "2026-02-12 23:51:16",
+      "created_at": 1770940276000
+    },
+    {
+      "id": 46934513,
+      "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+      "link": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
+      "score": 24,
+      "author": "SamPatt",
+      "created": "2026-02-08 14:33:22",
+      "created_at": 1770561202000
+    },
+    {
       "id": 46992815,
       "title": "Polis: Open-source platform for large-scale civic deliberation",
       "link": "https://pol.is/home2",
-      "score": 55,
+      "score": 166,
       "author": "mefengl",
       "created": "2026-02-12 18:23:20",
       "created_at": 1770920600000
     },
     {
-      "id": 46993596,
-      "title": "Show HN: rari, the rust-powered react framework",
-      "link": "https://rari.build/",
-      "score": 27,
-      "author": "bvanvugt",
-      "created": "2026-02-12 19:15:47",
-      "created_at": 1770923747000
-    },
-    {
-      "id": 46989217,
-      "title": "Major European payment processor can't send email to Google Workspace users",
-      "link": "https://atha.io/blog/2026-02-12-viva",
-      "score": 339,
-      "author": "thatha7777",
-      "created": "2026-02-12 14:24:15",
-      "created_at": 1770906255000
-    },
-    {
-      "id": 46991591,
-      "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
-      "link": "",
-      "score": 56,
-      "author": "kmansm27",
-      "created": "2026-02-12 17:14:28",
-      "created_at": 1770916468000
-    },
-    {
       "id": 46988596,
       "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
       "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "score": 412,
+      "score": 551,
       "author": "kachapopopow",
       "created": "2026-02-12 13:30:20",
       "created_at": 1770903020000
     },
     {
-      "id": 46993345,
-      "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-      "link": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-      "score": 67,
-      "author": "ryanhn",
-      "created": "2026-02-12 18:58:56",
-      "created_at": 1770922736000
-    },
-    {
-      "id": 46991435,
-      "title": "Shut Up: Comment Blocker",
-      "link": "https://rickyromero.com/shutup/",
-      "score": 52,
-      "author": "mefengl",
-      "created": "2026-02-12 17:05:36",
-      "created_at": 1770915936000
+      "id": 46989217,
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "link": "https://atha.io/blog/2026-02-12-viva",
+      "score": 448,
+      "author": "thatha7777",
+      "created": "2026-02-12 14:24:15",
+      "created_at": 1770906255000
     }
   ],
   "code": 200,
