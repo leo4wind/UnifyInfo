@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-13T16:32:59.792Z"
+    "lastUpdate": "2026-02-13T20:25:56.367Z"
   },
   "data": [
     {
-      "id": 47002825,
-      "title": "Zed editor switching graphics lib from blade to wgpu",
-      "link": "https://github.com/zed-industries/zed/pull/46758",
-      "score": 163,
-      "author": "jpeeler",
-      "created": "2026-02-13 14:03:14",
-      "created_at": 1770991394000
-    },
-    {
-      "id": 47001871,
-      "title": "Monosketch",
-      "link": "https://monosketch.io/",
-      "score": 304,
-      "author": "penguin_booze",
-      "created": "2026-02-13 12:18:05",
-      "created_at": 1770985085000
-    },
-    {
-      "id": 47003219,
-      "title": "Open Source Is Not About You (2018)",
-      "link": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-      "score": 75,
-      "author": "doubleg",
-      "created": "2026-02-13 14:36:28",
-      "created_at": 1770993388000
-    },
-    {
-      "id": 46931482,
-      "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
-      "link": "https://greensdictofslang.com/",
-      "score": 40,
-      "author": "mxfh",
-      "created": "2026-02-08 05:10:36",
-      "created_at": 1770527436000
-    },
-    {
-      "id": 46954637,
-      "title": "Faster Than Dijkstra?",
-      "link": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
-      "score": 31,
-      "author": "drbruced",
-      "created": "2026-02-10 02:36:34",
-      "created_at": 1770690994000
-    },
-    {
-      "id": 46997008,
-      "title": "Resizing windows on macOS Tahoe – the saga continues",
-      "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "score": 741,
-      "author": "erickhill",
-      "created": "2026-02-12 23:52:24",
-      "created_at": 1770940344000
+      "id": 47006594,
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 133,
+      "author": "davidbarker",
+      "created": "2026-02-13 19:20:12",
+      "created_at": 1771010412000
     },
     {
       "id": 47003064,
       "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
       "link": "https://ios-countdown.win/",
-      "score": 202,
+      "score": 925,
       "author": "ozzyphantom",
       "created": "2026-02-13 14:21:01",
       "created_at": 1770992461000
     },
     {
-      "id": 47000041,
-      "title": "MinIO repository is no longer maintained",
-      "link": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "score": 369,
-      "author": "psvmcc",
-      "created": "2026-02-13 07:46:03",
-      "created_at": 1770968763000
+      "id": 47001871,
+      "title": "Monosketch",
+      "link": "https://monosketch.io/",
+      "score": 577,
+      "author": "penguin_booze",
+      "created": "2026-02-13 12:18:05",
+      "created_at": 1770985085000
     },
     {
-      "id": 46992553,
-      "title": "GPT‑5.3‑Codex‑Spark",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "score": 822,
-      "author": "meetpateltech",
-      "created": "2026-02-12 18:06:09",
-      "created_at": 1770919569000
+      "id": 46939613,
+      "title": "Sandwich Bill of Materials",
+      "link": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+      "score": 118,
+      "author": "zdw",
+      "created": "2026-02-08 23:15:54",
+      "created_at": 1770592554000
     },
     {
-      "id": 46930461,
-      "title": "Implementing Auto Tiling with Just 5 Tiles",
-      "link": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
-      "score": 42,
-      "author": "todsacerdoti",
-      "created": "2026-02-08 01:37:36",
-      "created_at": 1770514656000
+      "id": 47006393,
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "link": "https://cloudrouter.dev/",
+      "score": 26,
+      "author": "austinwang115",
+      "created": "2026-02-13 19:02:17",
+      "created_at": 1771009337000
+    },
+    {
+      "id": 47005081,
+      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+      "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+      "score": 188,
+      "author": "cdrnsf",
+      "created": "2026-02-13 17:13:01",
+      "created_at": 1771002781000
+    },
+    {
+      "id": 47004312,
+      "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
+      "link": "https://github.com/nearai/ironclaw",
+      "score": 79,
+      "author": "dawg91",
+      "created": "2026-02-13 16:10:07",
+      "created_at": 1770999007000
+    },
+    {
+      "id": 47006738,
+      "title": "11.8M EU citizens pay taxes to governments they cannot vote for",
+      "link": "https://homolova.sk/missingvoters/",
+      "score": 57,
+      "author": "heyimada",
+      "created": "2026-02-13 19:33:16",
+      "created_at": 1771011196000
+    },
+    {
+      "id": 47003219,
+      "title": "Open Source Is Not About You (2018)",
+      "link": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+      "score": 164,
+      "author": "doubleg",
+      "created": "2026-02-13 14:36:28",
+      "created_at": 1770993388000
+    },
+    {
+      "id": 46993587,
+      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+      "link": "https://www.moltis.org",
+      "score": 12,
+      "author": "fabienpenso",
+      "created": "2026-02-12 19:15:21",
+      "created_at": 1770923721000
     }
   ],
   "code": 200,
