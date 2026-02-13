@@ -3,32 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-13T05:16:53.626Z"
+    "lastUpdate": "2026-02-13T08:31:36.609Z"
   },
   "data": [
     {
       "id": 46997008,
       "title": "Resizing windows on macOS Tahoe – the saga continues",
       "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "score": 298,
+      "score": 486,
       "author": "erickhill",
       "created": "2026-02-12 23:52:24",
       "created_at": 1770940344000
     },
     {
-      "id": 46997519,
-      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
-      "link": "https://skipthe.tips/",
-      "score": 163,
-      "author": "randycupertino",
-      "created": "2026-02-13 00:54:51",
-      "created_at": 1770944091000
+      "id": 46999224,
+      "title": "MMAcevedo aka Lena by qntm",
+      "link": "https://qntm.org/mmacevedo",
+      "score": 50,
+      "author": "stickynotememo",
+      "created": "2026-02-13 05:24:40",
+      "created_at": 1770960280000
     },
     {
       "id": 46992553,
       "title": "GPT‑5.3‑Codex‑Spark",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "score": 621,
+      "score": 707,
       "author": "meetpateltech",
       "created": "2026-02-12 18:06:09",
       "created_at": 1770919569000
@@ -37,64 +37,55 @@
       "id": 46991240,
       "title": "Gemini 3 Deep Think",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "score": 741,
+      "score": 826,
       "author": "tosh",
       "created": "2026-02-12 16:55:50",
       "created_at": 1770915350000
     },
     {
-      "id": 46997133,
-      "title": "AWS Adds support for nested virtualization",
-      "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
-      "score": 129,
-      "author": "sitole",
-      "created": "2026-02-13 00:07:57",
-      "created_at": 1770941277000
+      "id": 46997519,
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "link": "https://skipthe.tips/",
+      "score": 278,
+      "author": "randycupertino",
+      "created": "2026-02-13 00:54:51",
+      "created_at": 1770944091000
+    },
+    {
+      "id": 46999545,
+      "title": "Ring owners are returning their cameras",
+      "link": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+      "score": 74,
+      "author": "c420",
+      "created": "2026-02-13 06:23:26",
+      "created_at": 1770963806000
     },
     {
       "id": 46990729,
       "title": "An AI agent published a hit piece on me",
       "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "score": 1599,
+      "score": 1742,
       "author": "scottshambaugh",
       "created": "2026-02-12 16:23:24",
       "created_at": 1770913404000
     },
     {
-      "id": 46924818,
-      "title": "Japan's Dododo Land, the most irritating place on Earth",
-      "link": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
-      "score": 34,
-      "author": "zdw",
-      "created": "2026-02-07 15:56:15",
-      "created_at": 1770479775000
+      "id": 46997133,
+      "title": "AWS Adds support for nested virtualization",
+      "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "score": 185,
+      "author": "sitole",
+      "created": "2026-02-13 00:07:57",
+      "created_at": 1770941277000
     },
     {
-      "id": 46992815,
-      "title": "Polis: Open-source platform for large-scale civic deliberation",
-      "link": "https://pol.is/home2",
-      "score": 205,
-      "author": "mefengl",
-      "created": "2026-02-12 18:23:20",
-      "created_at": 1770920600000
-    },
-    {
-      "id": 46996999,
-      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
-      "link": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
-      "score": 303,
-      "author": "c420",
-      "created": "2026-02-12 23:51:16",
-      "created_at": 1770940276000
-    },
-    {
-      "id": 46997658,
-      "title": "Inside Epstein’s network: what 1.4M emails reveal",
-      "link": "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network",
-      "score": 76,
-      "author": "doener",
-      "created": "2026-02-13 01:09:37",
-      "created_at": 1770944977000
+      "id": 46923825,
+      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+      "link": "https://antithesis.com/blog/2026/rust_cpp/",
+      "score": 14,
+      "author": "lukastyrychtr",
+      "created": "2026-02-07 13:45:47",
+      "created_at": 1770471947000
     }
   ],
   "code": 200,
