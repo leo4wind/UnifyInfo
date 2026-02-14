@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-13T20:25:56.529Z"
+    "lastUpdate": "2026-02-14T01:08:47.414Z"
   },
   "data": [
+    {
+      "id": 47009416,
+      "title": "The evolution of OpenAI's mission statement",
+      "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+      "score": 104,
+      "author": "coloneltcb",
+      "created": "2026-02-13 23:43:27",
+      "created_at": 1771026207000
+    },
+    {
+      "id": 47009582,
+      "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+      "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+      "score": 145,
+      "author": "jjwiseman",
+      "created": "2026-02-14 00:00:58",
+      "created_at": 1771027258000
+    },
     {
       "id": 47006594,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 133,
+      "score": 354,
       "author": "davidbarker",
       "created": "2026-02-13 19:20:12",
       "created_at": 1771010412000
     },
     {
-      "id": 47003064,
-      "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
-      "link": "https://ios-countdown.win/",
-      "score": 925,
-      "author": "ozzyphantom",
-      "created": "2026-02-13 14:21:01",
-      "created_at": 1770992461000
+      "id": 47008163,
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "score": 50,
+      "author": "xx123122",
+      "created": "2026-02-13 21:35:52",
+      "created_at": 1771018552000
     },
     {
-      "id": 47001871,
-      "title": "Monosketch",
-      "link": "https://monosketch.io/",
-      "score": 577,
-      "author": "penguin_booze",
-      "created": "2026-02-13 12:18:05",
-      "created_at": 1770985085000
+      "id": 47005509,
+      "title": "Building a TUI is easy now",
+      "link": "https://hatchet.run/blog/tuis-are-easy-now",
+      "score": 105,
+      "author": "abelanger",
+      "created": "2026-02-13 17:50:54",
+      "created_at": 1771005054000
     },
     {
-      "id": 46939613,
-      "title": "Sandwich Bill of Materials",
-      "link": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
-      "score": 118,
-      "author": "zdw",
-      "created": "2026-02-08 23:15:54",
-      "created_at": 1770592554000
+      "id": 46930181,
+      "title": "Font Rendering from First Principles",
+      "link": "https://mccloskeybr.com/articles/font_rendering.html",
+      "score": 77,
+      "author": "krapp",
+      "created": "2026-02-08 00:58:29",
+      "created_at": 1770512309000
+    },
+    {
+      "id": 46955311,
+      "title": "Gradient.horse",
+      "link": "https://gradient.horse",
+      "score": 18,
+      "author": "microflash",
+      "created": "2026-02-10 04:13:49",
+      "created_at": 1770696829000
     },
     {
       "id": 47006393,
       "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
       "link": "https://cloudrouter.dev/",
-      "score": 26,
+      "score": 85,
       "author": "austinwang115",
       "created": "2026-02-13 19:02:17",
       "created_at": 1771009337000
     },
     {
-      "id": 47005081,
-      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
-      "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-      "score": 188,
-      "author": "cdrnsf",
-      "created": "2026-02-13 17:13:01",
-      "created_at": 1771002781000
+      "id": 47007656,
+      "title": "The EU moves to kill infinite scrolling",
+      "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "score": 270,
+      "author": "danso",
+      "created": "2026-02-13 20:52:11",
+      "created_at": 1771015931000
     },
     {
-      "id": 47004312,
-      "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
-      "link": "https://github.com/nearai/ironclaw",
-      "score": 79,
-      "author": "dawg91",
-      "created": "2026-02-13 16:10:07",
-      "created_at": 1770999007000
-    },
-    {
-      "id": 47006738,
-      "title": "11.8M EU citizens pay taxes to governments they cannot vote for",
-      "link": "https://homolova.sk/missingvoters/",
-      "score": 57,
-      "author": "heyimada",
-      "created": "2026-02-13 19:33:16",
-      "created_at": 1771011196000
-    },
-    {
-      "id": 47003219,
-      "title": "Open Source Is Not About You (2018)",
-      "link": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-      "score": 164,
-      "author": "doubleg",
-      "created": "2026-02-13 14:36:28",
-      "created_at": 1770993388000
-    },
-    {
-      "id": 46993587,
-      "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
-      "link": "https://www.moltis.org",
-      "score": 12,
-      "author": "fabienpenso",
-      "created": "2026-02-12 19:15:21",
-      "created_at": 1770923721000
+      "id": 46944430,
+      "title": "gRPC: From service definition to wire format",
+      "link": "https://kreya.app/blog/grpc-deep-dive/",
+      "score": 76,
+      "author": "latonz",
+      "created": "2026-02-09 12:17:23",
+      "created_at": 1770639443000
     }
   ],
   "code": 200,
