@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-14T12:25:24.056Z"
+    "lastUpdate": "2026-02-14T16:17:22.237Z"
   },
   "data": [
+    {
+      "id": 47014449,
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "link": "https://ooh.directory/",
+      "score": 151,
+      "author": "hisamafahri",
+      "created": "2026-02-14 13:40:20",
+      "created_at": 1771076420000
+    },
+    {
+      "id": 47015294,
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "score": 21,
+      "author": "minimalthinker",
+      "created": "2026-02-14 15:35:47",
+      "created_at": 1771083347000
+    },
+    {
+      "id": 47014500,
+      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+      "link": "https://github.com/datavorous/sameshi",
+      "score": 68,
+      "author": "datavorous_",
+      "created": "2026-02-14 13:47:44",
+      "created_at": 1771076864000
+    },
     {
       "id": 47012717,
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
       "link": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 142,
+      "score": 250,
       "author": "Retro_Dev",
       "created": "2026-02-14 08:22:11",
       "created_at": 1771057331000
     },
     {
+      "id": 46959531,
+      "title": "Shades of Halftone",
+      "link": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+      "score": 25,
+      "author": "surprisetalk",
+      "created": "2026-02-10 13:35:47",
+      "created_at": 1770730547000
+    },
+    {
       "id": 46954696,
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
       "link": "https://www.wallstreetraider.com/story.html",
-      "score": 367,
+      "score": 557,
       "author": "benstopics",
       "created": "2026-02-10 02:44:58",
       "created_at": 1770691498000
     },
     {
+      "id": 47014405,
+      "title": "How many registers does an x86-64 CPU have? (2020)",
+      "link": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+      "score": 35,
+      "author": "tosh",
+      "created": "2026-02-14 13:33:03",
+      "created_at": 1771075983000
+    },
+    {
       "id": 47011567,
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
       "link": "https://github.com/mickamy/sql-tap",
-      "score": 125,
+      "score": 183,
       "author": "mickamy",
       "created": "2026-02-14 04:27:35",
       "created_at": 1771043255000
     },
     {
-      "id": 46965829,
-      "title": "The Three Year Myth",
-      "link": "https://green.spacedino.net/the-three-year-myth/",
-      "score": 81,
-      "author": "surprisetalk",
-      "created": "2026-02-10 19:51:38",
-      "created_at": 1770753098000
+      "id": 47015406,
+      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+      "link": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+      "score": 17,
+      "author": "pjmlp",
+      "created": "2026-02-14 15:49:56",
+      "created_at": 1771084196000
     },
     {
-      "id": 46936671,
-      "title": "Understanding the Go Compiler: The Linker",
-      "link": "https://internals-for-interns.com/posts/the-go-linker/",
-      "score": 98,
-      "author": "valyala",
-      "created": "2026-02-08 17:46:46",
-      "created_at": 1770572806000
-    },
-    {
-      "id": 47012964,
-      "title": "YouTube as Storage",
-      "link": "https://github.com/PulseBeat02/yt-media-storage",
-      "score": 55,
-      "author": "saswatms",
-      "created": "2026-02-14 09:10:15",
-      "created_at": 1771060215000
-    },
-    {
-      "id": 47000505,
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "link": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 277,
-      "author": "walterbell",
-      "created": "2026-02-13 08:49:02",
-      "created_at": 1770972542000
-    },
-    {
-      "id": 47008163,
-      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 178,
-      "author": "xx123122",
-      "created": "2026-02-13 21:35:52",
-      "created_at": 1771018552000
-    },
-    {
-      "id": 47013059,
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "link": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 59,
-      "author": "robin_reala",
-      "created": "2026-02-14 09:28:45",
-      "created_at": 1771061325000
-    },
-    {
-      "id": 47006594,
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 502,
-      "author": "davidbarker",
-      "created": "2026-02-13 19:20:12",
-      "created_at": 1771010412000
+      "id": 46957629,
+      "title": "Code Storage by the Pierre Computer Company",
+      "link": "https://code.storage/",
+      "score": 27,
+      "author": "admp",
+      "created": "2026-02-10 10:12:27",
+      "created_at": 1770718347000
     }
   ],
   "code": 200,
