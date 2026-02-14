@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-14T16:17:22.420Z"
+    "lastUpdate": "2026-02-14T20:14:38.374Z"
   },
   "data": [
     {
-      "id": 47014449,
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "link": "https://ooh.directory/",
-      "score": 151,
-      "author": "hisamafahri",
-      "created": "2026-02-14 13:40:20",
-      "created_at": 1771076420000
+      "id": 47017138,
+      "title": "Internet Increasingly Becoming Unarchivable",
+      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "score": 145,
+      "author": "ninjagoo",
+      "created": "2026-02-14 18:46:32",
+      "created_at": 1771094792000
+    },
+    {
+      "id": 47017682,
+      "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+      "link": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+      "score": 39,
+      "author": "stared",
+      "created": "2026-02-14 19:47:46",
+      "created_at": 1771098466000
+    },
+    {
+      "id": 47016443,
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "score": 124,
+      "author": "i5heu",
+      "created": "2026-02-14 17:36:45",
+      "created_at": 1771090605000
     },
     {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 21,
+      "score": 224,
       "author": "minimalthinker",
       "created": "2026-02-14 15:35:47",
       "created_at": 1771083347000
     },
     {
-      "id": 47014500,
-      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-      "link": "https://github.com/datavorous/sameshi",
-      "score": 68,
-      "author": "datavorous_",
-      "created": "2026-02-14 13:47:44",
-      "created_at": 1771076864000
+      "id": 47017727,
+      "title": "You Can't Trust the Internet Anymore",
+      "link": "https://nicole.express/2026/not-my-casual-hobby.html",
+      "score": 16,
+      "author": "panic",
+      "created": "2026-02-14 19:51:25",
+      "created_at": 1771098685000
     },
     {
-      "id": 47012717,
-      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "link": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "score": 250,
-      "author": "Retro_Dev",
-      "created": "2026-02-14 08:22:11",
-      "created_at": 1771057331000
+      "id": 47014449,
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "link": "https://ooh.directory/",
+      "score": 313,
+      "author": "hisamafahri",
+      "created": "2026-02-14 13:40:20",
+      "created_at": 1771076420000
     },
     {
-      "id": 46959531,
-      "title": "Shades of Halftone",
-      "link": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "score": 25,
-      "author": "surprisetalk",
-      "created": "2026-02-10 13:35:47",
-      "created_at": 1770730547000
+      "id": 47017545,
+      "title": "Descent, Ported to the Web",
+      "link": "https://mrdoob.github.io/three-descent/",
+      "score": 19,
+      "author": "memalign",
+      "created": "2026-02-14 19:33:24",
+      "created_at": 1771097604000
     },
     {
-      "id": 46954696,
-      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "link": "https://www.wallstreetraider.com/story.html",
-      "score": 557,
-      "author": "benstopics",
-      "created": "2026-02-10 02:44:58",
-      "created_at": 1770691498000
+      "id": 47016008,
+      "title": "Amsterdam Compiler Kit",
+      "link": "https://github.com/davidgiven/ack",
+      "score": 46,
+      "author": "andsoitis",
+      "created": "2026-02-14 16:50:47",
+      "created_at": 1771087847000
     },
     {
-      "id": 47014405,
-      "title": "How many registers does an x86-64 CPU have? (2020)",
-      "link": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
-      "score": 35,
-      "author": "tosh",
-      "created": "2026-02-14 13:33:03",
-      "created_at": 1771075983000
+      "id": 47016530,
+      "title": "A header-only C vector database library",
+      "link": "https://github.com/abdimoallim/vdb",
+      "score": 22,
+      "author": "abdimoalim",
+      "created": "2026-02-14 17:45:09",
+      "created_at": 1771091109000
     },
     {
-      "id": 47011567,
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "link": "https://github.com/mickamy/sql-tap",
-      "score": 183,
-      "author": "mickamy",
-      "created": "2026-02-14 04:27:35",
-      "created_at": 1771043255000
-    },
-    {
-      "id": 47015406,
-      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-      "link": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-      "score": 17,
-      "author": "pjmlp",
-      "created": "2026-02-14 15:49:56",
-      "created_at": 1771084196000
-    },
-    {
-      "id": 46957629,
-      "title": "Code Storage by the Pierre Computer Company",
-      "link": "https://code.storage/",
-      "score": 27,
-      "author": "admp",
-      "created": "2026-02-10 10:12:27",
-      "created_at": 1770718347000
+      "id": 46965462,
+      "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+      "link": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "score": 31,
+      "author": "weinzierl",
+      "created": "2026-02-10 19:27:33",
+      "created_at": 1770751653000
     }
   ],
   "code": 200,
