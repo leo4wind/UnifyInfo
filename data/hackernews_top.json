@@ -3,59 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-14T01:08:47.383Z"
+    "lastUpdate": "2026-02-14T05:04:17.805Z"
   },
   "data": [
     {
-      "id": 47009416,
-      "title": "The evolution of OpenAI's mission statement",
-      "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
-      "score": 104,
-      "author": "coloneltcb",
-      "created": "2026-02-13 23:43:27",
-      "created_at": 1771026207000
-    },
-    {
-      "id": 47009582,
-      "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
-      "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
-      "score": 145,
-      "author": "jjwiseman",
-      "created": "2026-02-14 00:00:58",
-      "created_at": 1771027258000
-    },
-    {
-      "id": 47006594,
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 354,
-      "author": "davidbarker",
-      "created": "2026-02-13 19:20:12",
-      "created_at": 1771010412000
+      "id": 47010823,
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "link": "https://npmx.dev",
+      "score": 49,
+      "author": "slymax",
+      "created": "2026-02-14 02:14:34",
+      "created_at": 1771035274000
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 50,
+      "score": 113,
       "author": "xx123122",
       "created": "2026-02-13 21:35:52",
       "created_at": 1771018552000
     },
     {
+      "id": 47006594,
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 425,
+      "author": "davidbarker",
+      "created": "2026-02-13 19:20:12",
+      "created_at": 1771010412000
+    },
+    {
       "id": 47005509,
       "title": "Building a TUI is easy now",
       "link": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 105,
+      "score": 175,
       "author": "abelanger",
       "created": "2026-02-13 17:50:54",
       "created_at": 1771005054000
     },
     {
+      "id": 46983873,
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "link": "http://www.lisp-screenshots.org",
+      "score": 60,
+      "author": "_emacsomancer_",
+      "created": "2026-02-12 01:44:35",
+      "created_at": 1770860675000
+    },
+    {
+      "id": 46967147,
+      "title": "Adventures in Neural Rendering",
+      "link": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+      "score": 14,
+      "author": "ingve",
+      "created": "2026-02-10 21:26:16",
+      "created_at": 1770758776000
+    },
+    {
       "id": 46930181,
       "title": "Font Rendering from First Principles",
       "link": "https://mccloskeybr.com/articles/font_rendering.html",
-      "score": 77,
+      "score": 117,
       "author": "krapp",
       "created": "2026-02-08 00:58:29",
       "created_at": 1770512309000
@@ -64,25 +73,16 @@
       "id": 46955311,
       "title": "Gradient.horse",
       "link": "https://gradient.horse",
-      "score": 18,
+      "score": 161,
       "author": "microflash",
       "created": "2026-02-10 04:13:49",
       "created_at": 1770696829000
     },
     {
-      "id": 47006393,
-      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-      "link": "https://cloudrouter.dev/",
-      "score": 85,
-      "author": "austinwang115",
-      "created": "2026-02-13 19:02:17",
-      "created_at": 1771009337000
-    },
-    {
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 270,
+      "score": 425,
       "author": "danso",
       "created": "2026-02-13 20:52:11",
       "created_at": 1771015931000
@@ -91,7 +91,7 @@
       "id": 46944430,
       "title": "gRPC: From service definition to wire format",
       "link": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 76,
+      "score": 105,
       "author": "latonz",
       "created": "2026-02-09 12:17:23",
       "created_at": 1770639443000
