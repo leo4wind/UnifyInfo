@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-14T05:04:17.805Z"
+    "lastUpdate": "2026-02-14T08:20:02.733Z"
   },
   "data": [
     {
-      "id": 47010823,
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "link": "https://npmx.dev",
-      "score": 49,
-      "author": "slymax",
-      "created": "2026-02-14 02:14:34",
-      "created_at": 1771035274000
+      "id": 47011567,
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "link": "https://github.com/mickamy/sql-tap",
+      "score": 74,
+      "author": "mickamy",
+      "created": "2026-02-14 04:27:35",
+      "created_at": 1771043255000
+    },
+    {
+      "id": 46954696,
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "link": "https://www.wallstreetraider.com/story.html",
+      "score": 206,
+      "author": "benstopics",
+      "created": "2026-02-10 02:44:58",
+      "created_at": 1770691498000
+    },
+    {
+      "id": 46936671,
+      "title": "Understanding the Go Compiler: The Linker",
+      "link": "https://internals-for-interns.com/posts/the-go-linker/",
+      "score": 52,
+      "author": "valyala",
+      "created": "2026-02-08 17:46:46",
+      "created_at": 1770572806000
+    },
+    {
+      "id": 46965829,
+      "title": "The Three Year Myth",
+      "link": "https://green.spacedino.net/the-three-year-myth/",
+      "score": 20,
+      "author": "surprisetalk",
+      "created": "2026-02-10 19:51:38",
+      "created_at": 1770753098000
     },
     {
       "id": 47008163,
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
       "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "score": 113,
+      "score": 146,
       "author": "xx123122",
       "created": "2026-02-13 21:35:52",
       "created_at": 1771018552000
     },
     {
-      "id": 47006594,
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 425,
-      "author": "davidbarker",
-      "created": "2026-02-13 19:20:12",
-      "created_at": 1771010412000
-    },
-    {
-      "id": 47005509,
-      "title": "Building a TUI is easy now",
-      "link": "https://hatchet.run/blog/tuis-are-easy-now",
-      "score": 175,
-      "author": "abelanger",
-      "created": "2026-02-13 17:50:54",
-      "created_at": 1771005054000
-    },
-    {
       "id": 46983873,
       "title": "Common Lisp Screenshots: today's CL applications in action",
       "link": "http://www.lisp-screenshots.org",
-      "score": 60,
+      "score": 96,
       "author": "_emacsomancer_",
       "created": "2026-02-12 01:44:35",
       "created_at": 1770860675000
     },
     {
-      "id": 46967147,
-      "title": "Adventures in Neural Rendering",
-      "link": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-      "score": 14,
-      "author": "ingve",
-      "created": "2026-02-10 21:26:16",
-      "created_at": 1770758776000
+      "id": 47006594,
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 461,
+      "author": "davidbarker",
+      "created": "2026-02-13 19:20:12",
+      "created_at": 1771010412000
     },
     {
-      "id": 46930181,
-      "title": "Font Rendering from First Principles",
-      "link": "https://mccloskeybr.com/articles/font_rendering.html",
-      "score": 117,
-      "author": "krapp",
-      "created": "2026-02-08 00:58:29",
-      "created_at": 1770512309000
+      "id": 47011602,
+      "title": "Backblaze Drive Stats for 2025",
+      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "score": 54,
+      "author": "Brajeshwar",
+      "created": "2026-02-14 04:35:01",
+      "created_at": 1771043701000
     },
     {
-      "id": 46955311,
-      "title": "Gradient.horse",
-      "link": "https://gradient.horse",
-      "score": 161,
-      "author": "microflash",
-      "created": "2026-02-10 04:13:49",
-      "created_at": 1770696829000
-    },
-    {
-      "id": 47007656,
-      "title": "The EU moves to kill infinite scrolling",
-      "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 425,
-      "author": "danso",
-      "created": "2026-02-13 20:52:11",
-      "created_at": 1771015931000
-    },
-    {
-      "id": 46944430,
-      "title": "gRPC: From service definition to wire format",
-      "link": "https://kreya.app/blog/grpc-deep-dive/",
-      "score": 105,
-      "author": "latonz",
-      "created": "2026-02-09 12:17:23",
-      "created_at": 1770639443000
+      "id": 47005509,
+      "title": "Building a TUI is easy now",
+      "link": "https://hatchet.run/blog/tuis-are-easy-now",
+      "score": 210,
+      "author": "abelanger",
+      "created": "2026-02-13 17:50:54",
+      "created_at": 1771005054000
     }
   ],
   "code": 200,

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-14T05:04:17.607Z"
+    "lastUpdate": "2026-02-14T08:20:02.638Z"
   },
   "data": [
     {
       "id": 46990729,
       "title": "An AI agent published a hit piece on me",
       "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "score": 2274,
+      "score": 2282,
       "author": "scottshambaugh",
       "created": "2026-02-12 16:23:24",
       "created_at": 1770913404000
@@ -19,7 +19,7 @@
       "id": 47003064,
       "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
       "link": "https://ios-countdown.win/",
-      "score": 1355,
+      "score": 1427,
       "author": "ozzyphantom",
       "created": "2026-02-13 14:21:01",
       "created_at": 1770992461000
@@ -28,25 +28,16 @@
       "id": 46991240,
       "title": "Gemini 3 Deep Think",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "score": 1039,
+      "score": 1043,
       "author": "tosh",
       "created": "2026-02-12 16:55:50",
       "created_at": 1770915350000
     },
     {
-      "id": 46985151,
-      "title": "Warcraft III Peon Voice Notifications for Claude Code",
-      "link": "https://github.com/tonyyont/peon-ping",
-      "score": 989,
-      "author": "doppp",
-      "created": "2026-02-12 05:18:49",
-      "created_at": 1770873529000
-    },
-    {
       "id": 46987559,
       "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
       "link": "https://github.com/matplotlib/matplotlib/pull/31132",
-      "score": 930,
+      "score": 932,
       "author": "wrxd",
       "created": "2026-02-12 11:46:01",
       "created_at": 1770896761000
@@ -55,7 +46,7 @@
       "id": 46992553,
       "title": "GPT‑5.3‑Codex‑Spark",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-      "score": 874,
+      "score": 876,
       "author": "meetpateltech",
       "created": "2026-02-12 18:06:09",
       "created_at": 1770919569000
@@ -64,7 +55,7 @@
       "id": 46997008,
       "title": "Resizing windows on macOS Tahoe – the saga continues",
       "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "score": 845,
+      "score": 847,
       "author": "erickhill",
       "created": "2026-02-12 23:52:24",
       "created_at": 1770940344000
@@ -73,7 +64,7 @@
       "id": 46988596,
       "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
       "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-      "score": 797,
+      "score": 798,
       "author": "kachapopopow",
       "created": "2026-02-12 13:30:20",
       "created_at": 1770903020000
@@ -82,7 +73,7 @@
       "id": 47001871,
       "title": "Monosketch",
       "link": "https://monosketch.io/",
-      "score": 740,
+      "score": 759,
       "author": "penguin_booze",
       "created": "2026-02-13 12:18:05",
       "created_at": 1770985085000
@@ -91,10 +82,19 @@
       "id": 46991394,
       "title": "ai;dr",
       "link": "https://www.0xsid.com/blog/aidr",
-      "score": 695,
+      "score": 700,
       "author": "ssiddharth",
       "created": "2026-02-12 17:03:30",
       "created_at": 1770915810000
+    },
+    {
+      "id": 46989217,
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "link": "https://atha.io/blog/2026-02-12-viva",
+      "score": 598,
+      "author": "thatha7777",
+      "created": "2026-02-12 14:24:15",
+      "created_at": 1770906255000
     }
   ],
   "code": 200,
