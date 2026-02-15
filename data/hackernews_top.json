@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-15T08:21:03.354Z"
+    "lastUpdate": "2026-02-15T12:27:30.705Z"
   },
   "data": [
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 302,
+      "score": 526,
       "author": "panic",
       "created": "2026-02-15 01:20:58",
       "created_at": 1771118458000
@@ -19,82 +19,82 @@
       "id": 47021354,
       "title": "Flashpoint Archive – Over 200k web games and animations preserved",
       "link": "https://flashpointarchive.org",
-      "score": 43,
+      "score": 145,
       "author": "helloplanets",
       "created": "2026-02-15 05:43:59",
       "created_at": 1771134239000
     },
     {
+      "id": 47022329,
+      "title": "Two different tricks for fast LLM inference",
+      "link": "https://www.seangoedecke.com/fast-llm-inference/",
+      "score": 46,
+      "author": "swah",
+      "created": "2026-02-15 09:27:33",
+      "created_at": 1771147653000
+    },
+    {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 424,
+      "score": 481,
       "author": "minimalthinker",
       "created": "2026-02-14 15:35:47",
       "created_at": 1771083347000
     },
     {
+      "id": 46989859,
+      "title": "Inspecting the Source of Go Modules",
+      "link": "https://words.filippo.io/go-source/",
+      "score": 26,
+      "author": "todsacerdoti",
+      "created": "2026-02-12 15:17:25",
+      "created_at": 1770909445000
+    },
+    {
+      "id": 46990888,
+      "title": "A practical guide to observing the night sky for real skies and real equipment",
+      "link": "https://stargazingbuddy.com/",
+      "score": 34,
+      "author": "constantinum",
+      "created": "2026-02-12 16:35:10",
+      "created_at": 1770914110000
+    },
+    {
       "id": 47000535,
       "title": "Zvec: A lightweight, fast, in-process vector database",
       "link": "https://github.com/alibaba/zvec",
-      "score": 134,
+      "score": 161,
       "author": "dvrp",
       "created": "2026-02-13 08:53:51",
       "created_at": 1770972831000
     },
     {
+      "id": 46972392,
+      "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
+      "link": "https://github.com/Nonannet/copapy",
+      "score": 6,
+      "author": "Saloc",
+      "created": "2026-02-11 08:34:51",
+      "created_at": 1770798891000
+    },
+    {
       "id": 47004689,
       "title": "Instagram's URL Blackhole",
       "link": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 177,
+      "score": 219,
       "author": "tkp-415",
       "created": "2026-02-13 16:42:04",
       "created_at": 1771000924000
     },
     {
-      "id": 47021586,
-      "title": "Ex-Tech –> Homeless in SF",
-      "link": "https://zamoshi.substack.com/p/ninety-four-degrees",
-      "score": 68,
-      "author": "Zamoshi",
-      "created": "2026-02-15 06:48:13",
-      "created_at": 1771138093000
-    },
-    {
-      "id": 46970733,
-      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
-      "link": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
-      "score": 110,
-      "author": "geox",
-      "created": "2026-02-11 04:12:00",
-      "created_at": 1770783120000
-    },
-    {
-      "id": 46970832,
-      "title": "I'm building a clarity-first language (compiles to C++)",
-      "link": "https://github.com/taman-islam/rox",
-      "score": 28,
-      "author": "hedayet",
-      "created": "2026-02-11 04:30:18",
-      "created_at": 1770784218000
-    },
-    {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 818,
+      "score": 941,
       "author": "i5heu",
       "created": "2026-02-14 17:36:45",
       "created_at": 1771090605000
-    },
-    {
-      "id": 47017138,
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 476,
-      "author": "ninjagoo",
-      "created": "2026-02-14 18:46:32",
-      "created_at": 1771094792000
     }
   ],
   "code": 200,
