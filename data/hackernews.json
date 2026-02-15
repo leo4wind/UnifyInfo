@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-15T16:17:21.754Z"
+    "lastUpdate": "2026-02-15T20:14:45.162Z"
   },
   "data": [
     {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 1030,
+      "score": 1080,
       "author": "i5heu",
       "created": "2026-02-14 17:36:45",
       "created_at": 1771090605000
     },
     {
+      "id": 47020191,
+      "title": "I love the work of the ArchWiki maintainers",
+      "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "score": 832,
+      "author": "panic",
+      "created": "2026-02-15 01:20:58",
+      "created_at": 1771118458000
+    },
+    {
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 761,
+      "score": 765,
       "author": "danso",
       "created": "2026-02-13 20:52:11",
       "created_at": 1771015931000
@@ -28,73 +37,64 @@
       "id": 47009949,
       "title": "An AI agent published a hit piece on me – more things have happened",
       "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "score": 709,
+      "score": 720,
       "author": "scottshambaugh",
       "created": "2026-02-14 00:37:53",
       "created_at": 1771029473000
     },
     {
-      "id": 47020191,
-      "title": "I love the work of the ArchWiki maintainers",
-      "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 706,
-      "author": "panic",
-      "created": "2026-02-15 01:20:58",
-      "created_at": 1771118458000
-    },
-    {
       "id": 47008560,
       "title": "OpenAI has deleted the word 'safely' from its mission",
       "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-      "score": 588,
+      "score": 590,
       "author": "DamnInteresting",
       "created": "2026-02-13 22:17:06",
       "created_at": 1771021026000
     },
     {
-      "id": 47006594,
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 567,
-      "author": "davidbarker",
-      "created": "2026-02-13 19:20:12",
-      "created_at": 1771010412000
+      "id": 47015294,
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "score": 573,
+      "author": "minimalthinker",
+      "created": "2026-02-14 15:35:47",
+      "created_at": 1771083347000
     },
     {
       "id": 47014449,
       "title": "Ooh.directory: a place to find good blogs that interest you",
       "link": "https://ooh.directory/",
-      "score": 559,
+      "score": 571,
       "author": "hisamafahri",
       "created": "2026-02-14 13:40:20",
       "created_at": 1771076420000
     },
     {
+      "id": 47006594,
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "link": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 571,
+      "author": "davidbarker",
+      "created": "2026-02-13 19:20:12",
+      "created_at": 1771010412000
+    },
+    {
+      "id": 47023238,
+      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+      "link": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "score": 545,
+      "author": "mikece",
+      "created": "2026-02-15 12:42:17",
+      "created_at": 1771159337000
+    },
+    {
       "id": 47013059,
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
       "link": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 541,
+      "score": 545,
       "author": "robin_reala",
       "created": "2026-02-14 09:28:45",
       "created_at": 1771061325000
-    },
-    {
-      "id": 47017138,
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 533,
-      "author": "ninjagoo",
-      "created": "2026-02-14 18:46:32",
-      "created_at": 1771094792000
-    },
-    {
-      "id": 47015294,
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 532,
-      "author": "minimalthinker",
-      "created": "2026-02-14 15:35:47",
-      "created_at": 1771083347000
     }
   ],
   "code": 200,

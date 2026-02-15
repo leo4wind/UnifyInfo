@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-15T16:17:21.890Z"
+    "lastUpdate": "2026-02-15T20:14:45.264Z"
   },
   "data": [
+    {
+      "id": 47025399,
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "link": "https://github.com/TechPaula/LT6502",
+      "score": 168,
+      "author": "classichasclass",
+      "created": "2026-02-15 17:12:35",
+      "created_at": 1771175555000
+    },
+    {
+      "id": 47025378,
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "score": 416,
+      "author": "giuliomagnifico",
+      "created": "2026-02-15 17:10:18",
+      "created_at": 1771175418000
+    },
     {
       "id": 47022891,
       "title": "I Fixed Windows Native Development",
       "link": "https://marler8997.github.io/blog/fixed-windows/",
-      "score": 305,
+      "score": 513,
       "author": "deevus",
       "created": "2026-02-15 11:25:26",
       "created_at": 1771154726000
     },
     {
-      "id": 47024676,
-      "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
-      "link": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
-      "score": 13,
-      "author": "PaulHoule",
-      "created": "2026-02-15 15:53:13",
-      "created_at": 1771170793000
+      "id": 47026134,
+      "title": "Towards Autonomous Mathematics Research",
+      "link": "https://arxiv.org/abs/2602.10177",
+      "score": 33,
+      "author": "gmays",
+      "created": "2026-02-15 18:35:40",
+      "created_at": 1771180540000
+    },
+    {
+      "id": 47024506,
+      "title": "Gwtar: A static efficient single-file HTML format",
+      "link": "https://gwern.net/gwtar",
+      "score": 106,
+      "author": "theblazehen",
+      "created": "2026-02-15 15:37:06",
+      "created_at": 1771169826000
+    },
+    {
+      "id": 46993014,
+      "title": "Real-time PathTracing with global illumination in WebGL",
+      "link": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+      "score": 61,
+      "author": "tobr",
+      "created": "2026-02-12 18:35:39",
+      "created_at": 1770921339000
+    },
+    {
+      "id": 47024907,
+      "title": "Hideki Sato, designer of all Sega's consoles, has died",
+      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+      "score": 212,
+      "author": "magoghm",
+      "created": "2026-02-15 16:19:51",
+      "created_at": 1771172391000
     },
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 706,
+      "score": 832,
       "author": "panic",
       "created": "2026-02-15 01:20:58",
       "created_at": 1771118458000
     },
     {
-      "id": 47023238,
-      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
-      "link": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-      "score": 283,
-      "author": "mikece",
-      "created": "2026-02-15 12:42:17",
-      "created_at": 1771159337000
+      "id": 47025624,
+      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+      "link": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+      "score": 152,
+      "author": "cdrnsf",
+      "created": "2026-02-15 17:37:10",
+      "created_at": 1771177030000
     },
     {
-      "id": 47021354,
-      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-      "link": "https://flashpointarchive.org",
-      "score": 231,
-      "author": "helloplanets",
-      "created": "2026-02-15 05:43:59",
-      "created_at": 1771134239000
-    },
-    {
-      "id": 47022943,
-      "title": "Reversed engineered game Starflight (1986)",
-      "link": "https://github.com/s-macke/starflight-reverse",
-      "score": 42,
-      "author": "tosh",
-      "created": "2026-02-15 11:37:29",
-      "created_at": 1771155449000
-    },
-    {
-      "id": 47022329,
-      "title": "Two different tricks for fast LLM inference",
-      "link": "https://www.seangoedecke.com/fast-llm-inference/",
-      "score": 102,
-      "author": "swah",
-      "created": "2026-02-15 09:27:33",
-      "created_at": 1771147653000
-    },
-    {
-      "id": 47021980,
-      "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-      "link": "https://oat.ink/",
-      "score": 240,
-      "author": "twapi",
-      "created": "2026-02-15 08:17:05",
-      "created_at": 1771143425000
-    },
-    {
-      "id": 46968964,
-      "title": "RynnBrain",
-      "link": "https://github.com/alibaba-damo-academy/RynnBrain",
-      "score": 32,
-      "author": "jsemrau",
-      "created": "2026-02-11 00:08:01",
-      "created_at": 1770768481000
-    },
-    {
-      "id": 46960485,
-      "title": "How Is Data Stored?",
-      "link": "https://www.makingsoftware.com/chapters/how-is-data-stored",
-      "score": 31,
-      "author": "tzury",
-      "created": "2026-02-10 14:56:09",
-      "created_at": 1770735369000
+      "id": 47026848,
+      "title": "State Attorneys General Want to Tie Online Access to ID",
+      "link": "https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act",
+      "score": 21,
+      "author": "computerliker",
+      "created": "2026-02-15 19:49:17",
+      "created_at": 1771184957000
     }
   ],
   "code": 200,
