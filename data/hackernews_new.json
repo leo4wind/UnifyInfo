@@ -3,41 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-15T05:15:18.482Z"
+    "lastUpdate": "2026-02-15T08:21:05.606Z"
   },
   "data": [
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 117,
+      "score": 302,
       "author": "panic",
       "created": "2026-02-15 01:20:58",
       "created_at": 1771118458000
     },
     {
+      "id": 47021354,
+      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+      "link": "https://flashpointarchive.org",
+      "score": 43,
+      "author": "helloplanets",
+      "created": "2026-02-15 05:43:59",
+      "created_at": 1771134239000
+    },
+    {
       "id": 47015294,
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
       "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 371,
+      "score": 424,
       "author": "minimalthinker",
       "created": "2026-02-14 15:35:47",
       "created_at": 1771083347000
     },
     {
-      "id": 47014449,
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "link": "https://ooh.directory/",
-      "score": 468,
-      "author": "hisamafahri",
-      "created": "2026-02-14 13:40:20",
-      "created_at": 1771076420000
-    },
-    {
       "id": 47000535,
       "title": "Zvec: A lightweight, fast, in-process vector database",
       "link": "https://github.com/alibaba/zvec",
-      "score": 101,
+      "score": 134,
       "author": "dvrp",
       "created": "2026-02-13 08:53:51",
       "created_at": 1770972831000
@@ -46,25 +46,43 @@
       "id": 47004689,
       "title": "Instagram's URL Blackhole",
       "link": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 118,
+      "score": 177,
       "author": "tkp-415",
       "created": "2026-02-13 16:42:04",
       "created_at": 1771000924000
     },
     {
+      "id": 47021586,
+      "title": "Ex-Tech –> Homeless in SF",
+      "link": "https://zamoshi.substack.com/p/ninety-four-degrees",
+      "score": 68,
+      "author": "Zamoshi",
+      "created": "2026-02-15 06:48:13",
+      "created_at": 1771138093000
+    },
+    {
       "id": 46970733,
       "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
       "link": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
-      "score": 89,
+      "score": 110,
       "author": "geox",
       "created": "2026-02-11 04:12:00",
       "created_at": 1770783120000
     },
     {
+      "id": 46970832,
+      "title": "I'm building a clarity-first language (compiles to C++)",
+      "link": "https://github.com/taman-islam/rox",
+      "score": 28,
+      "author": "hedayet",
+      "created": "2026-02-11 04:30:18",
+      "created_at": 1770784218000
+    },
+    {
       "id": 47016443,
       "title": "uBlock filter list to hide all YouTube Shorts",
       "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 728,
+      "score": 818,
       "author": "i5heu",
       "created": "2026-02-14 17:36:45",
       "created_at": 1771090605000
@@ -73,28 +91,10 @@
       "id": 47017138,
       "title": "News publishers limit Internet Archive access due to AI scraping concerns",
       "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "score": 443,
+      "score": 476,
       "author": "ninjagoo",
       "created": "2026-02-14 18:46:32",
       "created_at": 1771094792000
-    },
-    {
-      "id": 47020218,
-      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-      "link": "https://newpipe.net/",
-      "score": 168,
-      "author": "nvader",
-      "created": "2026-02-15 01:24:16",
-      "created_at": 1771118656000
-    },
-    {
-      "id": 46973299,
-      "title": "Flood Fill vs. The Magic Circle",
-      "link": "https://www.robinsloan.com/winter-garden/magic-circle/",
-      "score": 51,
-      "author": "tobr",
-      "created": "2026-02-11 10:31:21",
-      "created_at": 1770805881000
     }
   ],
   "code": 200,
