@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-15T12:27:30.705Z"
+    "lastUpdate": "2026-02-15T16:17:21.890Z"
   },
   "data": [
+    {
+      "id": 47022891,
+      "title": "I Fixed Windows Native Development",
+      "link": "https://marler8997.github.io/blog/fixed-windows/",
+      "score": 305,
+      "author": "deevus",
+      "created": "2026-02-15 11:25:26",
+      "created_at": 1771154726000
+    },
+    {
+      "id": 47024676,
+      "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
+      "link": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
+      "score": 13,
+      "author": "PaulHoule",
+      "created": "2026-02-15 15:53:13",
+      "created_at": 1771170793000
+    },
     {
       "id": 47020191,
       "title": "I love the work of the ArchWiki maintainers",
       "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 526,
+      "score": 706,
       "author": "panic",
       "created": "2026-02-15 01:20:58",
       "created_at": 1771118458000
     },
     {
+      "id": 47023238,
+      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+      "link": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "score": 283,
+      "author": "mikece",
+      "created": "2026-02-15 12:42:17",
+      "created_at": 1771159337000
+    },
+    {
       "id": 47021354,
       "title": "Flashpoint Archive – Over 200k web games and animations preserved",
       "link": "https://flashpointarchive.org",
-      "score": 145,
+      "score": 231,
       "author": "helloplanets",
       "created": "2026-02-15 05:43:59",
       "created_at": 1771134239000
     },
     {
+      "id": 47022943,
+      "title": "Reversed engineered game Starflight (1986)",
+      "link": "https://github.com/s-macke/starflight-reverse",
+      "score": 42,
+      "author": "tosh",
+      "created": "2026-02-15 11:37:29",
+      "created_at": 1771155449000
+    },
+    {
       "id": 47022329,
       "title": "Two different tricks for fast LLM inference",
       "link": "https://www.seangoedecke.com/fast-llm-inference/",
-      "score": 46,
+      "score": 102,
       "author": "swah",
       "created": "2026-02-15 09:27:33",
       "created_at": 1771147653000
     },
     {
-      "id": 47015294,
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-      "score": 481,
-      "author": "minimalthinker",
-      "created": "2026-02-14 15:35:47",
-      "created_at": 1771083347000
+      "id": 47021980,
+      "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+      "link": "https://oat.ink/",
+      "score": 240,
+      "author": "twapi",
+      "created": "2026-02-15 08:17:05",
+      "created_at": 1771143425000
     },
     {
-      "id": 46989859,
-      "title": "Inspecting the Source of Go Modules",
-      "link": "https://words.filippo.io/go-source/",
-      "score": 26,
-      "author": "todsacerdoti",
-      "created": "2026-02-12 15:17:25",
-      "created_at": 1770909445000
+      "id": 46968964,
+      "title": "RynnBrain",
+      "link": "https://github.com/alibaba-damo-academy/RynnBrain",
+      "score": 32,
+      "author": "jsemrau",
+      "created": "2026-02-11 00:08:01",
+      "created_at": 1770768481000
     },
     {
-      "id": 46990888,
-      "title": "A practical guide to observing the night sky for real skies and real equipment",
-      "link": "https://stargazingbuddy.com/",
-      "score": 34,
-      "author": "constantinum",
-      "created": "2026-02-12 16:35:10",
-      "created_at": 1770914110000
-    },
-    {
-      "id": 47000535,
-      "title": "Zvec: A lightweight, fast, in-process vector database",
-      "link": "https://github.com/alibaba/zvec",
-      "score": 161,
-      "author": "dvrp",
-      "created": "2026-02-13 08:53:51",
-      "created_at": 1770972831000
-    },
-    {
-      "id": 46972392,
-      "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
-      "link": "https://github.com/Nonannet/copapy",
-      "score": 6,
-      "author": "Saloc",
-      "created": "2026-02-11 08:34:51",
-      "created_at": 1770798891000
-    },
-    {
-      "id": 47004689,
-      "title": "Instagram's URL Blackhole",
-      "link": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "score": 219,
-      "author": "tkp-415",
-      "created": "2026-02-13 16:42:04",
-      "created_at": 1771000924000
-    },
-    {
-      "id": 47016443,
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 941,
-      "author": "i5heu",
-      "created": "2026-02-14 17:36:45",
-      "created_at": 1771090605000
+      "id": 46960485,
+      "title": "How Is Data Stored?",
+      "link": "https://www.makingsoftware.com/chapters/how-is-data-stored",
+      "score": 31,
+      "author": "tzury",
+      "created": "2026-02-10 14:56:09",
+      "created_at": 1770735369000
     }
   ],
   "code": 200,
