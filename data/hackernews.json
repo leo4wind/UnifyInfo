@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-15T01:15:33.192Z"
+    "lastUpdate": "2026-02-15T05:15:17.973Z"
   },
   "data": [
     {
       "id": 47003064,
       "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
       "link": "https://ios-countdown.win/",
-      "score": 1580,
+      "score": 1584,
       "author": "ozzyphantom",
       "created": "2026-02-13 14:21:01",
       "created_at": 1770992461000
@@ -19,7 +19,7 @@
       "id": 47001871,
       "title": "Monosketch",
       "link": "https://monosketch.io/",
-      "score": 847,
+      "score": 849,
       "author": "penguin_booze",
       "created": "2026-02-13 12:18:05",
       "created_at": 1770985085000
@@ -28,16 +28,25 @@
       "id": 47007656,
       "title": "The EU moves to kill infinite scrolling",
       "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "score": 738,
+      "score": 741,
       "author": "danso",
       "created": "2026-02-13 20:52:11",
       "created_at": 1771015931000
     },
     {
+      "id": 47016443,
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "score": 728,
+      "author": "i5heu",
+      "created": "2026-02-14 17:36:45",
+      "created_at": 1771090605000
+    },
+    {
       "id": 47009949,
       "title": "An AI agent published a hit piece on me – more things have happened",
       "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "score": 637,
+      "score": 665,
       "author": "scottshambaugh",
       "created": "2026-02-14 00:37:53",
       "created_at": 1771029473000
@@ -46,7 +55,7 @@
       "id": 47000505,
       "title": "Babylon 5 is now free to watch on YouTube",
       "link": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "score": 587,
+      "score": 599,
       "author": "walterbell",
       "created": "2026-02-13 08:49:02",
       "created_at": 1770972542000
@@ -55,7 +64,7 @@
       "id": 47008560,
       "title": "OpenAI has deleted the word 'safely' from its mission",
       "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-      "score": 577,
+      "score": 580,
       "author": "DamnInteresting",
       "created": "2026-02-13 22:17:06",
       "created_at": 1771021026000
@@ -64,25 +73,16 @@
       "id": 47006594,
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "link": "https://openai.com/index/new-result-theoretical-physics/",
-      "score": 557,
+      "score": 559,
       "author": "davidbarker",
       "created": "2026-02-13 19:20:12",
       "created_at": 1771010412000
     },
     {
-      "id": 47016443,
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "score": 538,
-      "author": "i5heu",
-      "created": "2026-02-14 17:36:45",
-      "created_at": 1771090605000
-    },
-    {
       "id": 47013059,
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
       "link": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "score": 535,
+      "score": 538,
       "author": "robin_reala",
       "created": "2026-02-14 09:28:45",
       "created_at": 1771061325000
