@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-16T08:34:48.114Z"
+    "lastUpdate": "2026-02-16T12:38:15.632Z"
   },
   "data": [
     {
-      "id": 47031580,
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "link": "https://mastodon.world/@knowmadd/116072773118828295",
-      "score": 291,
-      "author": "novemp",
-      "created": "2026-02-16 06:31:48",
-      "created_at": 1771223508000
+      "id": 47033328,
+      "title": "MessageFormat: Unicode standard for localizable message strings",
+      "link": "https://github.com/unicode-org/message-format-wg",
+      "score": 55,
+      "author": "todsacerdoti",
+      "created": "2026-02-16 10:26:22",
+      "created_at": 1771237582000
     },
     {
       "id": 47028013,
       "title": "I’m joining OpenAI",
       "link": "https://steipete.me/posts/2026/openclaw",
-      "score": 942,
+      "score": 1132,
       "author": "mfiguiere",
       "created": "2026-02-15 21:54:15",
       "created_at": 1771192455000
     },
     {
-      "id": 47031268,
-      "title": "Building SQLite with a small swarm",
-      "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
-      "score": 41,
-      "author": "kyars",
-      "created": "2026-02-16 05:38:51",
-      "created_at": 1771220331000
+      "id": 47031580,
+      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "link": "https://mastodon.world/@knowmadd/116072773118828295",
+      "score": 667,
+      "author": "novemp",
+      "created": "2026-02-16 06:31:48",
+      "created_at": 1771223508000
     },
     {
-      "id": 47032235,
-      "title": "picol: A Tcl interpreter in 500 lines of code",
-      "link": "https://github.com/antirez/picol",
-      "score": 6,
-      "author": "tosh",
-      "created": "2026-02-16 08:04:11",
-      "created_at": 1771229051000
+      "id": 46997356,
+      "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+      "link": "https://github.com/preservim/vim-pencil",
+      "score": 25,
+      "author": "gurjeet",
+      "created": "2026-02-13 00:35:23",
+      "created_at": 1770942923000
+    },
+    {
+      "id": 47032876,
+      "title": "Qwen3.5: Towards Native Multimodal Agents",
+      "link": "https://qwen.ai/blog?id=qwen3.5",
+      "score": 34,
+      "author": "danielhanchen",
+      "created": "2026-02-16 09:32:21",
+      "created_at": 1771234341000
     },
     {
       "id": 47028227,
       "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
       "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "score": 255,
+      "score": 309,
       "author": "prophylaxis",
       "created": "2026-02-15 22:17:10",
       "created_at": 1771193830000
     },
     {
-      "id": 47030271,
-      "title": "Arm wants a bigger slice of the chip business",
-      "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
-      "score": 64,
-      "author": "andsoitis",
-      "created": "2026-02-16 02:36:14",
-      "created_at": 1771209374000
+      "id": 47032235,
+      "title": "picol: A Tcl interpreter in 500 lines of code",
+      "link": "https://github.com/antirez/picol",
+      "score": 45,
+      "author": "tosh",
+      "created": "2026-02-16 08:04:11",
+      "created_at": 1771229051000
+    },
+    {
+      "id": 47033622,
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "link": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "score": 35,
+      "author": "beardyw",
+      "created": "2026-02-16 11:06:28",
+      "created_at": 1771239988000
     },
     {
       "id": 47025851,
       "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
       "link": "https://modern-css.com",
-      "score": 420,
+      "score": 515,
       "author": "eustoria",
       "created": "2026-02-15 18:04:10",
       "created_at": 1771178650000
     },
     {
-      "id": 47000034,
-      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-      "link": "https://blog.exe.dev/expensively-quadratic",
-      "score": 14,
-      "author": "luu",
-      "created": "2026-02-13 07:44:50",
-      "created_at": 1770968690000
-    },
-    {
-      "id": 46984768,
-      "title": "1,300-year-old world chronicle unearthed in Sinai",
-      "link": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-      "score": 18,
-      "author": "telotortium",
-      "created": "2026-02-12 04:01:48",
-      "created_at": 1770868908000
-    },
-    {
-      "id": 46999285,
-      "title": "Audio is the one area small labs are winning",
-      "link": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-      "score": 180,
-      "author": "rocauc",
-      "created": "2026-02-13 05:39:45",
-      "created_at": 1770961185000
+      "id": 47030271,
+      "title": "Arm wants a bigger slice of the chip business",
+      "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "score": 100,
+      "author": "andsoitis",
+      "created": "2026-02-16 02:36:14",
+      "created_at": 1771209374000
     }
   ],
   "code": 200,
