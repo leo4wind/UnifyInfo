@@ -3,41 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-16T16:31:44.354Z"
+    "lastUpdate": "2026-02-16T20:19:13.267Z"
   },
   "data": [
     {
-      "id": 47034713,
-      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
-      "link": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "score": 238,
-      "author": "harel",
-      "created": "2026-02-16 13:30:07",
-      "created_at": 1771248607000
-    },
-    {
-      "id": 47034801,
-      "title": "Running My Own XMPP Server",
-      "link": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
-      "score": 98,
-      "author": "speckx",
-      "created": "2026-02-16 13:39:45",
-      "created_at": 1771249185000
-    },
-    {
-      "id": 47035371,
-      "title": "The Sideprocalypse",
-      "link": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
-      "score": 72,
-      "author": "headalgorithm",
-      "created": "2026-02-16 14:26:39",
-      "created_at": 1771251999000
+      "id": 47037501,
+      "title": "WebMCP Proposal",
+      "link": "https://webmachinelearning.github.io/webmcp/",
+      "score": 84,
+      "author": "Alifatisk",
+      "created": "2026-02-16 17:08:20",
+      "created_at": 1771261700000
     },
     {
       "id": 47035560,
       "title": "What Your Bluetooth Devices Reveal About You",
       "link": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 54,
+      "score": 178,
       "author": "ssgodderidge",
       "created": "2026-02-16 14:39:32",
       "created_at": 1771252772000
@@ -46,55 +28,73 @@
       "id": 47011548,
       "title": "Ghidra by NSA",
       "link": "https://github.com/NationalSecurityAgency/ghidra",
-      "score": 117,
+      "score": 232,
       "author": "handfuloflight",
       "created": "2026-02-14 04:24:18",
       "created_at": 1771043058000
     },
     {
+      "id": 47038546,
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "score": 18,
+      "author": "bookofjoe",
+      "created": "2026-02-16 18:41:50",
+      "created_at": 1771267310000
+    },
+    {
+      "id": 47038588,
+      "title": "Use protocols, not services",
+      "link": "https://notnotp.com/notes/use-protocols-not-services/",
+      "score": 171,
+      "author": "enz",
+      "created": "2026-02-16 18:44:58",
+      "created_at": 1771267498000
+    },
+    {
+      "id": 47038965,
+      "title": "Wero – Digital payment wallet, made in Europe",
+      "link": "https://wero-wallet.eu",
+      "score": 72,
+      "author": "tilt",
+      "created": "2026-02-16 19:09:58",
+      "created_at": 1771268998000
+    },
+    {
+      "id": 47037313,
+      "title": "How to take a photo with scotch tape (lensless imaging) [video]",
+      "link": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+      "score": 58,
+      "author": "surprisetalk",
+      "created": "2026-02-16 16:55:02",
+      "created_at": 1771260902000
+    },
+    {
       "id": 47032876,
       "title": "Qwen3.5: Towards Native Multimodal Agents",
       "link": "https://qwen.ai/blog?id=qwen3.5",
-      "score": 219,
+      "score": 315,
       "author": "danielhanchen",
       "created": "2026-02-16 09:32:21",
       "created_at": 1771234341000
     },
     {
-      "id": 47031580,
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "link": "https://mastodon.world/@knowmadd/116072773118828295",
-      "score": 1037,
-      "author": "novemp",
-      "created": "2026-02-16 06:31:48",
-      "created_at": 1771223508000
+      "id": 47038318,
+      "title": "\"Token anxiety\", a slot machine by any other name",
+      "link": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+      "score": 43,
+      "author": "presbyterian",
+      "created": "2026-02-16 18:23:36",
+      "created_at": 1771266216000
     },
     {
-      "id": 47028013,
-      "title": "I’m joining OpenAI",
-      "link": "https://steipete.me/posts/2026/openclaw",
-      "score": 1271,
-      "author": "mfiguiere",
-      "created": "2026-02-15 21:54:15",
-      "created_at": 1771192455000
-    },
-    {
-      "id": 47036891,
-      "title": "Show HN: Simple org-mode web adapter",
-      "link": "https://github.com/SpaceTurth/Org-Web-Adapter",
-      "score": 3,
-      "author": "turth",
-      "created": "2026-02-16 16:19:16",
-      "created_at": 1771258756000
-    },
-    {
-      "id": 47033328,
-      "title": "MessageFormat: Unicode standard for localizable message strings",
-      "link": "https://github.com/unicode-org/message-format-wg",
-      "score": 121,
-      "author": "todsacerdoti",
-      "created": "2026-02-16 10:26:22",
-      "created_at": 1771237582000
+      "id": 47039044,
+      "title": "Show HN: 2D Coulomb Gas Simulator",
+      "link": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
+      "score": 8,
+      "author": "swesnow",
+      "created": "2026-02-16 19:17:46",
+      "created_at": 1771269466000
     }
   ],
   "code": 200,
