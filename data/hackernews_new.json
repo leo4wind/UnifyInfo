@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-16T01:12:58.223Z"
+    "lastUpdate": "2026-02-16T05:22:15.518Z"
   },
   "data": [
     {
       "id": 47028013,
       "title": "I’m joining OpenAI",
       "link": "https://steipete.me/posts/2026/openclaw",
-      "score": 466,
+      "score": 753,
       "author": "mfiguiere",
       "created": "2026-02-15 21:54:15",
       "created_at": 1771192455000
@@ -19,82 +19,82 @@
       "id": 47028227,
       "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
       "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "score": 101,
+      "score": 187,
       "author": "prophylaxis",
       "created": "2026-02-15 22:17:10",
       "created_at": 1771193830000
     },
     {
-      "id": 47025399,
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "link": "https://github.com/TechPaula/LT6502",
-      "score": 294,
-      "author": "classichasclass",
-      "created": "2026-02-15 17:12:35",
-      "created_at": 1771175555000
-    },
-    {
-      "id": 47029397,
-      "title": "Pink noise reduces REM sleep and may harm sleep quality",
-      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
-      "score": 10,
-      "author": "gnabgib",
-      "created": "2026-02-16 00:35:12",
-      "created_at": 1771202112000
-    },
-    {
-      "id": 47028705,
-      "title": "Error payloads in Zig",
-      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
-      "score": 25,
-      "author": "srcreigh",
-      "created": "2026-02-15 23:08:43",
-      "created_at": 1771196923000
-    },
-    {
-      "id": 47025864,
-      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-      "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-      "score": 80,
-      "author": "mikhael",
-      "created": "2026-02-15 18:05:24",
-      "created_at": 1771178724000
+      "id": 47030271,
+      "title": "Arm wants a bigger slice of the chip business",
+      "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "score": 36,
+      "author": "andsoitis",
+      "created": "2026-02-16 02:36:14",
+      "created_at": 1771209374000
     },
     {
       "id": 47025851,
       "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
       "link": "https://modern-css.com",
-      "score": 194,
+      "score": 307,
       "author": "eustoria",
       "created": "2026-02-15 18:04:10",
       "created_at": 1771178650000
     },
     {
+      "id": 47025399,
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "link": "https://github.com/TechPaula/LT6502",
+      "score": 331,
+      "author": "classichasclass",
+      "created": "2026-02-15 17:12:35",
+      "created_at": 1771175555000
+    },
+    {
       "id": 46999285,
       "title": "Audio is the one area small labs are winning",
       "link": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-      "score": 77,
+      "score": 145,
       "author": "rocauc",
       "created": "2026-02-13 05:39:45",
       "created_at": 1770961185000
     },
     {
-      "id": 47022891,
-      "title": "I fixed Windows native development",
-      "link": "https://marler8997.github.io/blog/fixed-windows/",
-      "score": 651,
-      "author": "deevus",
-      "created": "2026-02-15 11:25:26",
-      "created_at": 1771154726000
+      "id": 47028705,
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "score": 63,
+      "author": "srcreigh",
+      "created": "2026-02-15 23:08:43",
+      "created_at": 1771196923000
     },
     {
       "id": 47004384,
       "title": "I gave Claude access to my pen plotter",
       "link": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-      "score": 67,
+      "score": 136,
       "author": "futurecat",
       "created": "2026-02-13 16:15:58",
       "created_at": 1770999358000
+    },
+    {
+      "id": 47025864,
+      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+      "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "score": 130,
+      "author": "mikhael",
+      "created": "2026-02-15 18:05:24",
+      "created_at": 1771178724000
+    },
+    {
+      "id": 47029339,
+      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "link": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "score": 36,
+      "author": "luu",
+      "created": "2026-02-16 00:26:23",
+      "created_at": 1771201583000
     }
   ],
   "code": 200,
