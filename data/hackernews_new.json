@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-15T20:14:45.294Z"
+    "lastUpdate": "2026-02-16T01:12:58.223Z"
   },
   "data": [
+    {
+      "id": 47028013,
+      "title": "I’m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "score": 466,
+      "author": "mfiguiere",
+      "created": "2026-02-15 21:54:15",
+      "created_at": 1771192455000
+    },
+    {
+      "id": 47028227,
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "score": 101,
+      "author": "prophylaxis",
+      "created": "2026-02-15 22:17:10",
+      "created_at": 1771193830000
+    },
     {
       "id": 47025399,
       "title": "LT6502: A 6502-based homebrew laptop",
       "link": "https://github.com/TechPaula/LT6502",
-      "score": 168,
+      "score": 294,
       "author": "classichasclass",
       "created": "2026-02-15 17:12:35",
       "created_at": 1771175555000
     },
     {
-      "id": 47025378,
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "score": 416,
-      "author": "giuliomagnifico",
-      "created": "2026-02-15 17:10:18",
-      "created_at": 1771175418000
+      "id": 47029397,
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "score": 10,
+      "author": "gnabgib",
+      "created": "2026-02-16 00:35:12",
+      "created_at": 1771202112000
+    },
+    {
+      "id": 47028705,
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "score": 25,
+      "author": "srcreigh",
+      "created": "2026-02-15 23:08:43",
+      "created_at": 1771196923000
+    },
+    {
+      "id": 47025864,
+      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+      "link": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "score": 80,
+      "author": "mikhael",
+      "created": "2026-02-15 18:05:24",
+      "created_at": 1771178724000
+    },
+    {
+      "id": 47025851,
+      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "link": "https://modern-css.com",
+      "score": 194,
+      "author": "eustoria",
+      "created": "2026-02-15 18:04:10",
+      "created_at": 1771178650000
+    },
+    {
+      "id": 46999285,
+      "title": "Audio is the one area small labs are winning",
+      "link": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+      "score": 77,
+      "author": "rocauc",
+      "created": "2026-02-13 05:39:45",
+      "created_at": 1770961185000
     },
     {
       "id": 47022891,
-      "title": "I Fixed Windows Native Development",
+      "title": "I fixed Windows native development",
       "link": "https://marler8997.github.io/blog/fixed-windows/",
-      "score": 513,
+      "score": 651,
       "author": "deevus",
       "created": "2026-02-15 11:25:26",
       "created_at": 1771154726000
     },
     {
-      "id": 47026134,
-      "title": "Towards Autonomous Mathematics Research",
-      "link": "https://arxiv.org/abs/2602.10177",
-      "score": 33,
-      "author": "gmays",
-      "created": "2026-02-15 18:35:40",
-      "created_at": 1771180540000
-    },
-    {
-      "id": 47024506,
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "link": "https://gwern.net/gwtar",
-      "score": 106,
-      "author": "theblazehen",
-      "created": "2026-02-15 15:37:06",
-      "created_at": 1771169826000
-    },
-    {
-      "id": 46993014,
-      "title": "Real-time PathTracing with global illumination in WebGL",
-      "link": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
-      "score": 61,
-      "author": "tobr",
-      "created": "2026-02-12 18:35:39",
-      "created_at": 1770921339000
-    },
-    {
-      "id": 47024907,
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "score": 212,
-      "author": "magoghm",
-      "created": "2026-02-15 16:19:51",
-      "created_at": 1771172391000
-    },
-    {
-      "id": 47020191,
-      "title": "I love the work of the ArchWiki maintainers",
-      "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "score": 832,
-      "author": "panic",
-      "created": "2026-02-15 01:20:58",
-      "created_at": 1771118458000
-    },
-    {
-      "id": 47025624,
-      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
-      "link": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
-      "score": 152,
-      "author": "cdrnsf",
-      "created": "2026-02-15 17:37:10",
-      "created_at": 1771177030000
-    },
-    {
-      "id": 47026848,
-      "title": "State Attorneys General Want to Tie Online Access to ID",
-      "link": "https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act",
-      "score": 21,
-      "author": "computerliker",
-      "created": "2026-02-15 19:49:17",
-      "created_at": 1771184957000
+      "id": 47004384,
+      "title": "I gave Claude access to my pen plotter",
+      "link": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+      "score": 67,
+      "author": "futurecat",
+      "created": "2026-02-13 16:15:58",
+      "created_at": 1770999358000
     }
   ],
   "code": 200,
