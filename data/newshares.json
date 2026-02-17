@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-02-16T20:19:16.127Z"
+    "lastUpdate": "2026-02-17T01:12:03.558Z"
   },
   "data": [
+    {
+      "zqdm": "920183",
+      "zqjc": "海菲曼",
+      "sgdm": "920183",
+      "fxsl": 10527020,
+      "swfxsl": 9474318,
+      "sgsx": 473700,
+      "dgsz": 4737000,
+      "fxjg": 19.71,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-02-24",
+      "zqgbrq": "2026-02-27",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 65.52,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "主要从事自主品牌“HIFIMAN”终端电声产品的设计、研发、生产和销售"
+    },
     {
       "zqdm": "920187",
       "zqjc": "通领科技",
@@ -30,5 +53,5 @@
       "zyyw": "汽车内饰件的研发、生产及销售"
     }
   ],
-  "total": 1
+  "total": 2
 }
