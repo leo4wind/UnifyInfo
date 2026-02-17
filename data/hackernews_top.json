@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-17T05:17:15.470Z"
+    "lastUpdate": "2026-02-17T08:33:36.556Z"
   },
   "data": [
     {
-      "id": 47042396,
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "score": 284,
-      "author": "colinprince",
-      "created": "2026-02-17 01:01:00",
-      "created_at": 1771290060000
+      "id": 47022270,
+      "title": "Four Column ASCII (2017)",
+      "link": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "score": 84,
+      "author": "tempodox",
+      "created": "2026-02-15 09:15:16",
+      "created_at": 1771146916000
     },
     {
       "id": 47038546,
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 493,
+      "score": 637,
       "author": "bookofjoe",
       "created": "2026-02-16 18:41:50",
       "created_at": 1771267310000
     },
     {
-      "id": 47040430,
-      "title": "Study: Self-generated Agent Skills are useless",
-      "link": "https://arxiv.org/abs/2602.12670",
-      "score": 307,
-      "author": "mustaphah",
-      "created": "2026-02-16 21:15:56",
-      "created_at": 1771276556000
-    },
-    {
-      "id": 47042136,
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "link": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "score": 286,
-      "author": "VorpalWay",
-      "created": "2026-02-17 00:26:20",
-      "created_at": 1771287980000
+      "id": 47014002,
+      "title": "A deep dive into Apple's .car file format",
+      "link": "https://dbg.re/posts/car-file-format/",
+      "score": 69,
+      "author": "MrFinch",
+      "created": "2026-02-14 12:18:04",
+      "created_at": 1771071484000
     },
     {
       "id": 47040524,
       "title": "Rise of the Triforce",
       "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "score": 155,
+      "score": 241,
       "author": "max-m",
       "created": "2026-02-16 21:24:04",
       "created_at": 1771277044000
     },
     {
-      "id": 47003071,
-      "title": "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
-      "link": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
-      "score": 32,
-      "author": "tosh",
-      "created": "2026-02-13 14:21:41",
-      "created_at": 1770992501000
+      "id": 47034087,
+      "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+      "link": "https://arxiv.org/abs/2602.11988",
+      "score": 92,
+      "author": "mustaphah",
+      "created": "2026-02-16 12:15:39",
+      "created_at": 1771244139000
     },
     {
-      "id": 47040375,
-      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-      "link": "https://github.com/zachlatta/freeflow",
-      "score": 133,
-      "author": "zachlatta",
-      "created": "2026-02-16 21:10:44",
-      "created_at": 1771276244000
+      "id": 47042895,
+      "title": "Poor Deming never stood a chance",
+      "link": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+      "score": 57,
+      "author": "todsacerdoti",
+      "created": "2026-02-17 02:13:37",
+      "created_at": 1771294417000
     },
     {
       "id": 47035560,
       "title": "What your Bluetooth devices reveal",
       "link": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "score": 345,
+      "score": 407,
       "author": "ssgodderidge",
       "created": "2026-02-16 14:39:32",
       "created_at": 1771252772000
     },
     {
-      "id": 47043751,
-      "title": "Long-term unemployment is becoming 'a status quo' in today's job market",
-      "link": "https://www.cnbc.com/2026/02/16/long-term-unemployment-becoming-a-status-quo-in-todays-job-market.html",
-      "score": 25,
-      "author": "rustoo",
-      "created": "2026-02-17 04:36:58",
-      "created_at": 1771303018000
-    },
-    {
       "id": 47002231,
-      "title": "Visual Introduction to PyTorch",
+      "title": "Visual introduction to PyTorch",
       "link": "https://0byte.io/articles/pytorch_introduction.html",
-      "score": 166,
+      "score": 229,
       "author": "0bytematt",
       "created": "2026-02-13 12:59:33",
       "created_at": 1770987573000
+    },
+    {
+      "id": 47040375,
+      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "link": "https://github.com/zachlatta/freeflow",
+      "score": 175,
+      "author": "zachlatta",
+      "created": "2026-02-16 21:10:44",
+      "created_at": 1771276244000
+    },
+    {
+      "id": 47004712,
+      "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+      "link": "https://github.com/matt1398/claude-devtools",
+      "score": 5,
+      "author": "matt1398",
+      "created": "2026-02-13 16:43:50",
+      "created_at": 1771001030000
     }
   ],
   "code": 200,
