@@ -3,59 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-17T20:26:12.138Z"
+    "lastUpdate": "2026-02-18T01:14:09.785Z"
   },
   "data": [
     {
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 475,
+      "score": 832,
       "author": "adocomplete",
       "created": "2026-02-17 17:48:52",
       "created_at": 1771350532000
     },
     {
+      "id": 47049824,
+      "title": "Thank HN: You helped save 33k lives",
+      "link": "",
+      "score": 349,
+      "author": "chaseadam17",
+      "created": "2026-02-17 17:06:18",
+      "created_at": 1771347978000
+    },
+    {
+      "id": 47052941,
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "link": "https://github.com/Zaneham/BarraCUDA",
+      "score": 131,
+      "author": "rurban",
+      "created": "2026-02-17 20:35:18",
+      "created_at": 1771360518000
+    },
+    {
       "id": 47051852,
       "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
       "link": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 40,
+      "score": 259,
       "author": "moWerk",
       "created": "2026-02-17 19:24:55",
       "created_at": 1771356295000
     },
     {
-      "id": 47049479,
-      "title": "Using go fix to modernize Go code",
-      "link": "https://go.dev/blog/gofix",
-      "score": 168,
-      "author": "todsacerdoti",
-      "created": "2026-02-17 16:42:35",
-      "created_at": 1771346555000
+      "id": 47055424,
+      "title": "Rathbun's Operator",
+      "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
+      "score": 28,
+      "author": "bb88",
+      "created": "2026-02-18 00:26:15",
+      "created_at": 1771374375000
     },
     {
       "id": 47050067,
       "title": "Gentoo on Codeberg",
       "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-      "score": 131,
+      "score": 247,
       "author": "todsacerdoti",
       "created": "2026-02-17 17:21:04",
       "created_at": 1771348864000
     },
     {
-      "id": 47045612,
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 913,
-      "author": "to3k",
-      "created": "2026-02-17 10:02:36",
-      "created_at": 1771322556000
+      "id": 47049479,
+      "title": "Using go fix to modernize Go code",
+      "link": "https://go.dev/blog/gofix",
+      "score": 270,
+      "author": "todsacerdoti",
+      "created": "2026-02-17 16:42:35",
+      "created_at": 1771346555000
+    },
+    {
+      "id": 47054134,
+      "title": "I swear the UFO is coming any minute",
+      "link": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "score": 81,
+      "author": "Ariarule",
+      "created": "2026-02-17 22:10:22",
+      "created_at": 1771366222000
     },
     {
       "id": 47049718,
       "title": "So you want to build a tunnel",
       "link": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
-      "score": 87,
+      "score": 157,
       "author": "crescit_eundo",
       "created": "2026-02-17 16:59:34",
       "created_at": 1771347574000
@@ -64,37 +91,10 @@
       "id": 47049628,
       "title": "Async/Await on the GPU",
       "link": "https://www.vectorware.com/blog/async-await-on-gpu/",
-      "score": 90,
+      "score": 149,
       "author": "Philpax",
       "created": "2026-02-17 16:53:05",
       "created_at": 1771347185000
-    },
-    {
-      "id": 47049573,
-      "title": "HackMyClaw",
-      "link": "https://hackmyclaw.com/",
-      "score": 190,
-      "author": "hentrep",
-      "created": "2026-02-17 16:48:43",
-      "created_at": 1771346923000
-    },
-    {
-      "id": 47049845,
-      "title": "Chess engines do weird stuff",
-      "link": "https://girl.surgery/chess",
-      "score": 97,
-      "author": "admiringly",
-      "created": "2026-02-17 17:07:59",
-      "created_at": 1771348079000
-    },
-    {
-      "id": 47048733,
-      "title": "Show HN: I wrote a technical history book on Lisp",
-      "link": "https://berksoft.ca/gol/",
-      "score": 87,
-      "author": "cdegroot",
-      "created": "2026-02-17 15:43:39",
-      "created_at": 1771343019000
     }
   ],
   "code": 200,

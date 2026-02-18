@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-02-17T20:26:14.810Z"
+    "lastUpdate": "2026-02-18T01:14:12.696Z"
   },
   "data": [
+    {
+      "zqdm": "301680",
+      "zqjc": "固德电材",
+      "sgdm": "301680",
+      "fxsl": 20700000,
+      "swfxsl": 4968000,
+      "sgsx": 4500,
+      "dgsz": 45000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-02-25",
+      "zqgbrq": "2026-02-27",
+      "zqjkrq": "2026-02-27",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 30.44,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "新能源汽车动力电池热失控防护零部件及电力电工绝缘产品的研发、生产和销售"
+    },
     {
       "zqdm": "920183",
       "zqjc": "海菲曼",
@@ -28,29 +51,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "主要从事自主品牌“HIFIMAN”终端电声产品的设计、研发、生产和销售"
-    },
-    {
-      "zqdm": "920187",
-      "zqjc": "通领科技",
-      "sgdm": "920187",
-      "fxsl": 15600000,
-      "swfxsl": 14040000,
-      "sgsx": 702000,
-      "dgsz": 7020000,
-      "fxjg": 29.62,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-02-11",
-      "zqgbrq": "2026-02-24",
-      "zqjkrq": null,
-      "ssrq": null,
-      "syl": 14.47,
-      "hysyl": 30.47,
-      "wszql": 0.04955969,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "汽车内饰件的研发、生产及销售"
     }
   ],
   "total": 2
