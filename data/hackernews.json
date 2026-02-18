@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-18T05:18:49.481Z"
+    "lastUpdate": "2026-02-18T08:33:39.690Z"
   },
   "data": [
-    {
-      "id": 47031580,
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "link": "https://mastodon.world/@knowmadd/116072773118828295",
-      "score": 1485,
-      "author": "novemp",
-      "created": "2026-02-16 06:31:48",
-      "created_at": 1771223508000
-    },
     {
       "id": 47045612,
       "title": "GrapheneOS – Break Free from Google and Apple",
       "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 1088,
+      "score": 1110,
       "author": "to3k",
       "created": "2026-02-17 10:02:36",
       "created_at": 1771322556000
@@ -28,7 +19,7 @@
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 980,
+      "score": 1065,
       "author": "adocomplete",
       "created": "2026-02-17 17:48:52",
       "created_at": 1771350532000
@@ -37,7 +28,7 @@
       "id": 47038546,
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 901,
+      "score": 903,
       "author": "bookofjoe",
       "created": "2026-02-16 18:41:50",
       "created_at": 1771267310000
@@ -46,7 +37,7 @@
       "id": 47049824,
       "title": "Thank HN: You helped save 33k lives",
       "link": "",
-      "score": 602,
+      "score": 747,
       "author": "chaseadam17",
       "created": "2026-02-17 17:06:18",
       "created_at": 1771347978000
@@ -73,7 +64,7 @@
       "id": 47034713,
       "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
       "link": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "score": 515,
+      "score": 516,
       "author": "harel",
       "created": "2026-02-16 13:30:07",
       "created_at": 1771248607000
@@ -82,19 +73,28 @@
       "id": 47049426,
       "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
       "link": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-      "score": 477,
+      "score": 487,
       "author": "theahura",
       "created": "2026-02-17 16:37:41",
       "created_at": 1771346261000
     },
     {
-      "id": 47031334,
-      "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "link": "https://jmail.world/jemini",
-      "score": 461,
-      "author": "dvrp",
-      "created": "2026-02-16 05:53:03",
-      "created_at": 1771221183000
+      "id": 47045804,
+      "title": "Is Show HN dead? No, but it's drowning",
+      "link": "https://www.arthurcnops.blog/death-of-show-hn/",
+      "score": 463,
+      "author": "acnops",
+      "created": "2026-02-17 10:29:14",
+      "created_at": 1771324154000
+    },
+    {
+      "id": 47051546,
+      "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans",
+      "link": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
+      "score": 431,
+      "author": "Bender",
+      "created": "2026-02-17 19:02:44",
+      "created_at": 1771354964000
     }
   ],
   "code": 200,
