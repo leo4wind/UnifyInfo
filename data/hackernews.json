@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-18T08:33:39.690Z"
+    "lastUpdate": "2026-02-18T12:37:21.955Z"
   },
   "data": [
-    {
-      "id": 47045612,
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "score": 1110,
-      "author": "to3k",
-      "created": "2026-02-17 10:02:36",
-      "created_at": 1771322556000
-    },
     {
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 1065,
+      "score": 1159,
       "author": "adocomplete",
       "created": "2026-02-17 17:48:52",
       "created_at": 1771350532000
     },
     {
+      "id": 47045612,
+      "title": "GrapheneOS – Break Free from Google and Apple",
+      "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "score": 1122,
+      "author": "to3k",
+      "created": "2026-02-17 10:02:36",
+      "created_at": 1771322556000
+    },
+    {
       "id": 47038546,
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
       "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "score": 903,
+      "score": 906,
       "author": "bookofjoe",
       "created": "2026-02-16 18:41:50",
       "created_at": 1771267310000
@@ -37,16 +37,34 @@
       "id": 47049824,
       "title": "Thank HN: You helped save 33k lives",
       "link": "",
-      "score": 747,
+      "score": 887,
       "author": "chaseadam17",
       "created": "2026-02-17 17:06:18",
       "created_at": 1771347978000
     },
     {
+      "id": 47057829,
+      "title": "15 years later, Microsoft morged my diagram",
+      "link": "https://nvie.com/posts/15-years-later/",
+      "score": 583,
+      "author": "cheeaun",
+      "created": "2026-02-18 06:20:13",
+      "created_at": 1771395613000
+    },
+    {
+      "id": 47055979,
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "link": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "score": 556,
+      "author": "virgildotcodes",
+      "created": "2026-02-18 01:40:52",
+      "created_at": 1771378852000
+    },
+    {
       "id": 47042396,
       "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
       "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "score": 553,
+      "score": 555,
       "author": "colinprince",
       "created": "2026-02-17 01:01:00",
       "created_at": 1771290060000
@@ -64,37 +82,19 @@
       "id": 47034713,
       "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
       "link": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "score": 516,
+      "score": 517,
       "author": "harel",
       "created": "2026-02-16 13:30:07",
       "created_at": 1771248607000
     },
     {
-      "id": 47049426,
-      "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
-      "link": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-      "score": 487,
-      "author": "theahura",
-      "created": "2026-02-17 16:37:41",
-      "created_at": 1771346261000
-    },
-    {
-      "id": 47045804,
-      "title": "Is Show HN dead? No, but it's drowning",
-      "link": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "score": 463,
-      "author": "acnops",
-      "created": "2026-02-17 10:29:14",
-      "created_at": 1771324154000
-    },
-    {
-      "id": 47051546,
-      "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans",
-      "link": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
-      "score": 431,
-      "author": "Bender",
-      "created": "2026-02-17 19:02:44",
-      "created_at": 1771354964000
+      "id": 47056314,
+      "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
+      "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "score": 497,
+      "author": "walterbell",
+      "created": "2026-02-18 02:18:29",
+      "created_at": 1771381109000
     }
   ],
   "code": 200,

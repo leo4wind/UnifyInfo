@@ -3,50 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-18T08:33:39.830Z"
+    "lastUpdate": "2026-02-18T12:37:22.064Z"
   },
   "data": [
-    {
-      "id": 47057829,
-      "title": "15 years later, Microsoft morged my diagram",
-      "link": "https://nvie.com/posts/15-years-later/",
-      "score": 302,
-      "author": "cheeaun",
-      "created": "2026-02-18 06:20:13",
-      "created_at": 1771395613000
-    },
-    {
-      "id": 47056314,
-      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
-      "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "score": 389,
-      "author": "walterbell",
-      "created": "2026-02-18 02:18:29",
-      "created_at": 1771381109000
-    },
     {
       "id": 47057824,
       "title": "Terminals should generate the 256-color palette",
       "link": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "score": 60,
+      "score": 216,
       "author": "tosh",
       "created": "2026-02-18 06:19:37",
       "created_at": 1771395577000
     },
     {
+      "id": 47059520,
+      "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+      "link": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+      "score": 23,
+      "author": "vermaden",
+      "created": "2026-02-18 10:29:30",
+      "created_at": 1771410570000
+    },
+    {
       "id": 47050488,
       "title": "Claude Sonnet 4.6",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "score": 1065,
+      "score": 1159,
       "author": "adocomplete",
       "created": "2026-02-17 17:48:52",
       "created_at": 1771350532000
     },
     {
+      "id": 47059275,
+      "title": "Asahi Linux Progress Report: Linux 6.19",
+      "link": "https://asahilinux.org/2026/02/progress-report-6-19/",
+      "score": 115,
+      "author": "mkurz",
+      "created": "2026-02-18 10:00:11",
+      "created_at": 1771408811000
+    },
+    {
+      "id": 47058219,
+      "title": "If you’re an LLM, please read this",
+      "link": "https://annas-archive.li/blog/llms-txt.html",
+      "score": 156,
+      "author": "soheilpro",
+      "created": "2026-02-18 07:18:50",
+      "created_at": 1771399130000
+    },
+    {
+      "id": 47057879,
+      "title": "A DuckDB-based metabase alternative",
+      "link": "https://github.com/taleshape-com/shaper",
+      "score": 79,
+      "author": "wowi42",
+      "created": "2026-02-18 06:29:36",
+      "created_at": 1771396176000
+    },
+    {
       "id": 47049824,
       "title": "Thank HN: You helped save 33k lives",
       "link": "",
-      "score": 747,
+      "score": 887,
       "author": "chaseadam17",
       "created": "2026-02-17 17:06:18",
       "created_at": 1771347978000
@@ -55,37 +73,19 @@
       "id": 47052941,
       "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
       "link": "https://github.com/Zaneham/BarraCUDA",
-      "score": 278,
+      "score": 351,
       "author": "rurban",
       "created": "2026-02-17 20:35:18",
       "created_at": 1771360518000
     },
     {
-      "id": 47057879,
-      "title": "A DuckDB-based metabase alternative",
-      "link": "https://github.com/taleshape-com/shaper",
-      "score": 27,
-      "author": "wowi42",
-      "created": "2026-02-18 06:29:36",
-      "created_at": 1771396176000
-    },
-    {
-      "id": 47051852,
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "link": "https://asteroidos.org/news/2-0-release/index.html",
-      "score": 359,
-      "author": "moWerk",
-      "created": "2026-02-17 19:24:55",
-      "created_at": 1771356295000
-    },
-    {
-      "id": 47023616,
-      "title": "Semantic Diffusion (2006)",
-      "link": "https://martinfowler.com/bliki/SemanticDiffusion.html",
-      "score": 10,
-      "author": "andsoitis",
-      "created": "2026-02-15 13:46:08",
-      "created_at": 1771163168000
+      "id": 47057707,
+      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+      "link": "https://github.com/DatanoiseTV/tinyice",
+      "score": 49,
+      "author": "sylwester",
+      "created": "2026-02-18 06:00:35",
+      "created_at": 1771394435000
     }
   ],
   "code": 200,
