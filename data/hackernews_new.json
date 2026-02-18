@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-18T16:51:23.048Z"
+    "lastUpdate": "2026-02-18T20:28:09.949Z"
   },
   "data": [
     {
-      "id": 47062534,
-      "title": "Why AI Velocity Is Becoming a Debt Accelerator",
-      "link": "https://martinfowler.com/fragments/2026-02-18.html",
-      "score": 48,
-      "author": "nthypes",
-      "created": "2026-02-18 16:08:48",
-      "created_at": 1771430928000
+      "id": 47064490,
+      "title": "Cosmologically Unique IDs",
+      "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "score": 122,
+      "author": "jfantl",
+      "created": "2026-02-18 18:37:22",
+      "created_at": 1771439842000
+    },
+    {
+      "id": 47063005,
+      "title": "Tailscale Peer Relays is now generally available",
+      "link": "https://tailscale.com/blog/peer-relays-ga",
+      "score": 215,
+      "author": "sz4kerto",
+      "created": "2026-02-18 16:46:12",
+      "created_at": 1771433172000
     },
     {
       "id": 47062748,
       "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
       "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 23,
+      "score": 167,
       "author": "idoxer",
       "created": "2026-02-18 16:28:19",
       "created_at": 1771432099000
     },
     {
-      "id": 47061062,
-      "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-      "link": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
-      "score": 68,
-      "author": "vintagedave",
-      "created": "2026-02-18 14:08:11",
-      "created_at": 1771423691000
+      "id": 47064047,
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "score": 77,
+      "author": "todsacerdoti",
+      "created": "2026-02-18 18:04:13",
+      "created_at": 1771437853000
     },
     {
-      "id": 47062096,
-      "title": "Show HN: VectorNest responsive web-based SVG editor",
-      "link": "https://ekrsulov.github.io/vectornest/",
-      "score": 22,
-      "author": "ekrsulov",
-      "created": "2026-02-18 15:31:57",
-      "created_at": 1771428717000
+      "id": 47065179,
+      "title": "R3forth: A concatenative language derived from ColorForth",
+      "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+      "score": 14,
+      "author": "tosh",
+      "created": "2026-02-18 19:28:59",
+      "created_at": 1771442939000
+    },
+    {
+      "id": 47064787,
+      "title": "Show HN: Echo, an iOS SSH+mosh client built on Ghostty",
+      "link": "https://replay.software/updates/introducing-echo",
+      "score": 63,
+      "author": "sgottit",
+      "created": "2026-02-18 18:58:38",
+      "created_at": 1771441118000
+    },
+    {
+      "id": 47064470,
+      "title": "OpenClaw Is Dangerous",
+      "link": "https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous",
+      "score": 44,
+      "author": "theahura",
+      "created": "2026-02-18 18:35:54",
+      "created_at": 1771439754000
+    },
+    {
+      "id": 47062561,
+      "title": "Pocketbase lost its funding from FLOSS fund",
+      "link": "https://github.com/pocketbase/pocketbase/discussions/7287",
+      "score": 72,
+      "author": "Onavo",
+      "created": "2026-02-18 16:11:00",
+      "created_at": 1771431060000
+    },
+    {
+      "id": 47022604,
+      "title": "Learning Lean: Part 1",
+      "link": "https://rkirov.github.io/posts/lean1/",
+      "score": 35,
+      "author": "vinhnx",
+      "created": "2026-02-15 10:20:02",
+      "created_at": 1771150802000
     },
     {
       "id": 47058219,
       "title": "If you’re an LLM, please read this",
       "link": "https://annas-archive.li/blog/llms-txt.html",
-      "score": 447,
+      "score": 639,
       "author": "soheilpro",
       "created": "2026-02-18 07:18:50",
       "created_at": 1771399130000
-    },
-    {
-      "id": 47062726,
-      "title": "Show HN: A Unix environment in a single HTML file (420 KB)",
-      "link": "https://shiro.computer/show",
-      "score": 13,
-      "author": "sagebird",
-      "created": "2026-02-18 16:26:08",
-      "created_at": 1771431968000
-    },
-    {
-      "id": 47060486,
-      "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-      "link": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
-      "score": 398,
-      "author": "speckx",
-      "created": "2026-02-18 13:00:11",
-      "created_at": 1771419611000
-    },
-    {
-      "id": 47057824,
-      "title": "Terminals should generate the 256-color palette",
-      "link": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "score": 371,
-      "author": "tosh",
-      "created": "2026-02-18 06:19:37",
-      "created_at": 1771395577000
-    },
-    {
-      "id": 47062329,
-      "title": "Garment Notation Language: Formal descriptive language for clothing construction",
-      "link": "https://github.com/khalildh/garment-notation",
-      "score": 12,
-      "author": "prathyvsh",
-      "created": "2026-02-18 15:53:15",
-      "created_at": 1771429995000
-    },
-    {
-      "id": 47061029,
-      "title": "Show HN: CEL by Example",
-      "link": "https://celbyexample.com/",
-      "score": 31,
-      "author": "bufbuild",
-      "created": "2026-02-18 14:05:39",
-      "created_at": 1771423539000
     }
   ],
   "code": 200,
