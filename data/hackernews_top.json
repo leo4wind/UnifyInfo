@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-19T12:38:37.337Z"
+    "lastUpdate": "2026-02-19T16:40:00.608Z"
   },
   "data": [
     {
-      "id": 47072863,
-      "title": "Show HN: An encrypted, local, cross-platform journaling app",
-      "link": "https://github.com/fjrevoredo/mini-diarium",
-      "score": 15,
-      "author": "holyknight",
-      "created": "2026-02-19 11:54:21",
-      "created_at": 1771502061000
+      "id": 47074389,
+      "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
+      "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "score": 82,
+      "author": "guardianbob",
+      "created": "2026-02-19 14:52:18",
+      "created_at": 1771512738000
+    },
+    {
+      "id": 47073112,
+      "title": "Pebble Production: February Update",
+      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "score": 153,
+      "author": "smig0",
+      "created": "2026-02-19 12:36:00",
+      "created_at": 1771504560000
+    },
+    {
+      "id": 47075318,
+      "title": "Gemini 3.1",
+      "link": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+      "score": 66,
+      "author": "PunchTornado",
+      "created": "2026-02-19 16:14:07",
+      "created_at": 1771517647000
+    },
+    {
+      "id": 47072968,
+      "title": "Paged Out Issue #8 [pdf]",
+      "link": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "score": 129,
+      "author": "SteveHawk27",
+      "created": "2026-02-19 12:13:44",
+      "created_at": 1771503224000
+    },
+    {
+      "id": 47074869,
+      "title": "Dinosaur Food: 100M year old foods we still eat today",
+      "link": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
+      "score": 20,
+      "author": "simonebrunozzi",
+      "created": "2026-02-19 15:30:42",
+      "created_at": 1771515042000
     },
     {
       "id": 47038032,
       "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
       "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "score": 37,
+      "score": 138,
       "author": "benbreen",
       "created": "2026-02-16 17:57:46",
       "created_at": 1771264666000
     },
     {
-      "id": 47041225,
-      "title": "The Mongol Khans of Medieval France",
-      "link": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
-      "score": 23,
-      "author": "Thevet",
-      "created": "2026-02-16 22:27:47",
-      "created_at": 1771280867000
+      "id": 47035088,
+      "title": "-fbounds-safety: Enforcing bounds safety for C",
+      "link": "https://clang.llvm.org/docs/BoundsSafety.html",
+      "score": 65,
+      "author": "thefilmore",
+      "created": "2026-02-16 14:05:21",
+      "created_at": 1771250721000
     },
     {
-      "id": 47066552,
-      "title": "Sizing chaos",
-      "link": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 653,
-      "author": "zdw",
-      "created": "2026-02-18 21:18:20",
-      "created_at": 1771449500000
+      "id": 47075400,
+      "title": "AI made coding more enjoyable",
+      "link": "https://weberdominik.com/blog/ai-coding-enjoyable/",
+      "score": 6,
+      "author": "domysee",
+      "created": "2026-02-19 16:20:26",
+      "created_at": 1771518026000
+    },
+    {
+      "id": 47075124,
+      "title": "Show HN: Micasa – track your house from the terminal",
+      "link": "https://micasa.dev",
+      "score": 10,
+      "author": "cpcloud",
+      "created": "2026-02-19 15:54:14",
+      "created_at": 1771516454000
     },
     {
       "id": 47072539,
       "title": "Bridging Elixir and Python with Oban",
       "link": "https://oban.pro/articles/bridging-with-oban",
-      "score": 14,
+      "score": 75,
       "author": "sorentwo",
       "created": "2026-02-19 11:07:15",
       "created_at": 1771499235000
-    },
-    {
-      "id": 47066241,
-      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 377,
-      "author": "surprisetalk",
-      "created": "2026-02-18 20:54:31",
-      "created_at": 1771448071000
-    },
-    {
-      "id": 47072444,
-      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-      "link": "https://makie.org/website/blogposts/raytracing/",
-      "score": 12,
-      "author": "simondanisch",
-      "created": "2026-02-19 10:55:13",
-      "created_at": 1771498513000
-    },
-    {
-      "id": 47068890,
-      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-      "score": 138,
-      "author": "fp64enjoyer",
-      "created": "2026-02-19 01:46:07",
-      "created_at": 1771465567000
-    },
-    {
-      "id": 47070680,
-      "title": "Old School Visual Effects: The Cloud Tank (2010)",
-      "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
-      "score": 44,
-      "author": "exvi",
-      "created": "2026-02-19 06:43:53",
-      "created_at": 1771483433000
-    },
-    {
-      "id": 47064490,
-      "title": "Cosmologically Unique IDs",
-      "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 413,
-      "author": "jfantl",
-      "created": "2026-02-18 18:37:22",
-      "created_at": 1771439842000
     }
   ],
   "code": 200,
