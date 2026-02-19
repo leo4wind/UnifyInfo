@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-19T08:31:52.763Z"
+    "lastUpdate": "2026-02-19T12:38:37.490Z"
   },
   "data": [
     {
-      "id": 47067496,
-      "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
-      "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
-      "score": 42,
-      "author": "lisper",
-      "created": "2026-02-18 22:47:44",
-      "created_at": 1771454864000
+      "id": 47072863,
+      "title": "Show HN: An encrypted, local, cross-platform journaling app",
+      "link": "https://github.com/fjrevoredo/mini-diarium",
+      "score": 15,
+      "author": "holyknight",
+      "created": "2026-02-19 11:54:21",
+      "created_at": 1771502061000
+    },
+    {
+      "id": 47038032,
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "score": 37,
+      "author": "benbreen",
+      "created": "2026-02-16 17:57:46",
+      "created_at": 1771264666000
+    },
+    {
+      "id": 47041225,
+      "title": "The Mongol Khans of Medieval France",
+      "link": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+      "score": 23,
+      "author": "Thevet",
+      "created": "2026-02-16 22:27:47",
+      "created_at": 1771280867000
     },
     {
       "id": 47066552,
       "title": "Sizing chaos",
       "link": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 504,
+      "score": 653,
       "author": "zdw",
       "created": "2026-02-18 21:18:20",
       "created_at": 1771449500000
     },
     {
+      "id": 47072539,
+      "title": "Bridging Elixir and Python with Oban",
+      "link": "https://oban.pro/articles/bridging-with-oban",
+      "score": 14,
+      "author": "sorentwo",
+      "created": "2026-02-19 11:07:15",
+      "created_at": 1771499235000
+    },
+    {
       "id": 47066241,
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
       "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 312,
+      "score": 377,
       "author": "surprisetalk",
       "created": "2026-02-18 20:54:31",
       "created_at": 1771448071000
     },
     {
+      "id": 47072444,
+      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "link": "https://makie.org/website/blogposts/raytracing/",
+      "score": 12,
+      "author": "simondanisch",
+      "created": "2026-02-19 10:55:13",
+      "created_at": 1771498513000
+    },
+    {
       "id": 47068890,
       "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
       "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-      "score": 98,
+      "score": 138,
       "author": "fp64enjoyer",
       "created": "2026-02-19 01:46:07",
       "created_at": 1771465567000
     },
     {
-      "id": 47069299,
-      "title": "Anthropic officially bans using subscription auth for third party use",
-      "link": "https://code.claude.com/docs/en/legal-and-compliance",
-      "score": 298,
-      "author": "theahura",
-      "created": "2026-02-19 02:52:26",
-      "created_at": 1771469546000
+      "id": 47070680,
+      "title": "Old School Visual Effects: The Cloud Tank (2010)",
+      "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+      "score": 44,
+      "author": "exvi",
+      "created": "2026-02-19 06:43:53",
+      "created_at": 1771483433000
     },
     {
       "id": 47064490,
       "title": "Cosmologically Unique IDs",
       "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 359,
+      "score": 413,
       "author": "jfantl",
       "created": "2026-02-18 18:37:22",
       "created_at": 1771439842000
-    },
-    {
-      "id": 47069179,
-      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
-      "link": "https://static.stepfun.com/blog/step-3.5-flash/",
-      "score": 54,
-      "author": "kristianp",
-      "created": "2026-02-19 02:32:00",
-      "created_at": 1771468320000
-    },
-    {
-      "id": 47063005,
-      "title": "Tailscale Peer Relays is now generally available",
-      "link": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 395,
-      "author": "sz4kerto",
-      "created": "2026-02-18 16:46:12",
-      "created_at": 1771433172000
-    },
-    {
-      "id": 47025885,
-      "title": "How to choose between Hindley-Milner and bidirectional typing",
-      "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
-      "score": 87,
-      "author": "thunderseethe",
-      "created": "2026-02-15 18:07:44",
-      "created_at": 1771178864000
-    },
-    {
-      "id": 47028803,
-      "title": "Visualizing the ARM64 Instruction Set (2024)",
-      "link": "https://zyedidia.github.io/blog/posts/6-arm64/",
-      "score": 25,
-      "author": "userbinator",
-      "created": "2026-02-15 23:20:04",
-      "created_at": 1771197604000
     }
   ],
   "code": 200,
