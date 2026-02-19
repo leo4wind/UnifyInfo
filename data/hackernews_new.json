@@ -3,41 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-18T20:28:09.949Z"
+    "lastUpdate": "2026-02-19T01:13:46.761Z"
   },
   "data": [
+    {
+      "id": 47067678,
+      "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+      "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+      "score": 136,
+      "author": "thewavelength",
+      "created": "2026-02-18 23:08:38",
+      "created_at": 1771456118000
+    },
+    {
+      "id": 47066552,
+      "title": "Sizing chaos",
+      "link": "https://pudding.cool/2026/02/womens-sizing/",
+      "score": 247,
+      "author": "zdw",
+      "created": "2026-02-18 21:18:20",
+      "created_at": 1771449500000
+    },
+    {
+      "id": 47066241,
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "score": 121,
+      "author": "surprisetalk",
+      "created": "2026-02-18 20:54:31",
+      "created_at": 1771448071000
+    },
     {
       "id": 47064490,
       "title": "Cosmologically Unique IDs",
       "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 122,
+      "score": 270,
       "author": "jfantl",
       "created": "2026-02-18 18:37:22",
       "created_at": 1771439842000
     },
     {
-      "id": 47063005,
-      "title": "Tailscale Peer Relays is now generally available",
-      "link": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 215,
-      "author": "sz4kerto",
-      "created": "2026-02-18 16:46:12",
-      "created_at": 1771433172000
-    },
-    {
       "id": 47062748,
       "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
       "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 167,
+      "score": 246,
       "author": "idoxer",
       "created": "2026-02-18 16:28:19",
       "created_at": 1771432099000
     },
     {
+      "id": 47063005,
+      "title": "Tailscale Peer Relays is now generally available",
+      "link": "https://tailscale.com/blog/peer-relays-ga",
+      "score": 313,
+      "author": "sz4kerto",
+      "created": "2026-02-18 16:46:12",
+      "created_at": 1771433172000
+    },
+    {
       "id": 47064047,
       "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
       "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "score": 77,
+      "score": 181,
       "author": "todsacerdoti",
       "created": "2026-02-18 18:04:13",
       "created_at": 1771437853000
@@ -46,55 +73,28 @@
       "id": 47065179,
       "title": "R3forth: A concatenative language derived from ColorForth",
       "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "score": 14,
+      "score": 50,
       "author": "tosh",
       "created": "2026-02-18 19:28:59",
       "created_at": 1771442939000
     },
     {
-      "id": 47064787,
-      "title": "Show HN: Echo, an iOS SSH+mosh client built on Ghostty",
-      "link": "https://replay.software/updates/introducing-echo",
-      "score": 63,
-      "author": "sgottit",
-      "created": "2026-02-18 18:58:38",
-      "created_at": 1771441118000
+      "id": 47063663,
+      "title": "The Perils of ISBN",
+      "link": "https://rygoldstein.com/posts/perils-of-isbn",
+      "score": 60,
+      "author": "evakhoury",
+      "created": "2026-02-18 17:34:37",
+      "created_at": 1771436077000
     },
     {
-      "id": 47064470,
-      "title": "OpenClaw Is Dangerous",
-      "link": "https://12gramsofcarbon.com/p/tech-things-openclaw-is-dangerous",
-      "score": 44,
-      "author": "theahura",
-      "created": "2026-02-18 18:35:54",
-      "created_at": 1771439754000
-    },
-    {
-      "id": 47062561,
-      "title": "Pocketbase lost its funding from FLOSS fund",
-      "link": "https://github.com/pocketbase/pocketbase/discussions/7287",
-      "score": 72,
-      "author": "Onavo",
-      "created": "2026-02-18 16:11:00",
-      "created_at": 1771431060000
-    },
-    {
-      "id": 47022604,
-      "title": "Learning Lean: Part 1",
-      "link": "https://rkirov.github.io/posts/lean1/",
-      "score": 35,
-      "author": "vinhnx",
-      "created": "2026-02-15 10:20:02",
-      "created_at": 1771150802000
-    },
-    {
-      "id": 47058219,
-      "title": "If you’re an LLM, please read this",
-      "link": "https://annas-archive.li/blog/llms-txt.html",
-      "score": 639,
-      "author": "soheilpro",
-      "created": "2026-02-18 07:18:50",
-      "created_at": 1771399130000
+      "id": 47060220,
+      "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+      "link": "",
+      "score": 37,
+      "author": "FailMore",
+      "created": "2026-02-18 12:18:26",
+      "created_at": 1771417106000
     }
   ],
   "code": 200,
