@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-19T16:40:00.608Z"
+    "lastUpdate": "2026-02-19T20:21:44.501Z"
   },
   "data": [
     {
-      "id": 47074389,
-      "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
-      "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "score": 82,
-      "author": "guardianbob",
-      "created": "2026-02-19 14:52:18",
-      "created_at": 1771512738000
-    },
-    {
-      "id": 47073112,
-      "title": "Pebble Production: February Update",
-      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "score": 153,
-      "author": "smig0",
-      "created": "2026-02-19 12:36:00",
-      "created_at": 1771504560000
-    },
-    {
-      "id": 47075318,
-      "title": "Gemini 3.1",
-      "link": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-      "score": 66,
-      "author": "PunchTornado",
-      "created": "2026-02-19 16:14:07",
-      "created_at": 1771517647000
-    },
-    {
-      "id": 47072968,
-      "title": "Paged Out Issue #8 [pdf]",
-      "link": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "score": 129,
-      "author": "SteveHawk27",
-      "created": "2026-02-19 12:13:44",
-      "created_at": 1771503224000
-    },
-    {
-      "id": 47074869,
-      "title": "Dinosaur Food: 100M year old foods we still eat today",
-      "link": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-      "score": 20,
-      "author": "simonebrunozzi",
-      "created": "2026-02-19 15:30:42",
-      "created_at": 1771515042000
-    },
-    {
-      "id": 47038032,
-      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-      "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "score": 138,
-      "author": "benbreen",
-      "created": "2026-02-16 17:57:46",
-      "created_at": 1771264666000
-    },
-    {
-      "id": 47035088,
-      "title": "-fbounds-safety: Enforcing bounds safety for C",
-      "link": "https://clang.llvm.org/docs/BoundsSafety.html",
-      "score": 65,
-      "author": "thefilmore",
-      "created": "2026-02-16 14:05:21",
-      "created_at": 1771250721000
-    },
-    {
-      "id": 47075400,
-      "title": "AI made coding more enjoyable",
-      "link": "https://weberdominik.com/blog/ai-coding-enjoyable/",
-      "score": 6,
-      "author": "domysee",
-      "created": "2026-02-19 16:20:26",
-      "created_at": 1771518026000
+      "id": 47077844,
+      "title": "California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves",
+      "link": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
+      "score": 70,
+      "author": "fortran77",
+      "created": "2026-02-19 19:16:12",
+      "created_at": 1771528572000
     },
     {
       "id": 47075124,
       "title": "Show HN: Micasa – track your house from the terminal",
       "link": "https://micasa.dev",
-      "score": 10,
+      "score": 224,
       "author": "cpcloud",
       "created": "2026-02-19 15:54:14",
       "created_at": 1771516454000
     },
     {
-      "id": 47072539,
-      "title": "Bridging Elixir and Python with Oban",
-      "link": "https://oban.pro/articles/bridging-with-oban",
-      "score": 75,
-      "author": "sorentwo",
-      "created": "2026-02-19 11:07:15",
-      "created_at": 1771499235000
+      "id": 47077245,
+      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+      "score": 35,
+      "author": "bryanrasmussen",
+      "created": "2026-02-19 18:31:50",
+      "created_at": 1771525910000
+    },
+    {
+      "id": 47078167,
+      "title": "Micropayments as a reality check for news sites",
+      "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "score": 13,
+      "author": "speckx",
+      "created": "2026-02-19 19:42:31",
+      "created_at": 1771530151000
+    },
+    {
+      "id": 47077849,
+      "title": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
+      "link": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
+      "score": 104,
+      "author": "freitasm",
+      "created": "2026-02-19 19:16:33",
+      "created_at": 1771528593000
+    },
+    {
+      "id": 47076659,
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "link": "https://github.com/Veirt/weathr",
+      "score": 60,
+      "author": "forinti",
+      "created": "2026-02-19 17:47:25",
+      "created_at": 1771523245000
+    },
+    {
+      "id": 47075318,
+      "title": "Gemini 3.1 Pro",
+      "link": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+      "score": 555,
+      "author": "PunchTornado",
+      "created": "2026-02-19 16:14:07",
+      "created_at": 1771517647000
+    },
+    {
+      "id": 47073112,
+      "title": "Pebble Production: February Update",
+      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "score": 226,
+      "author": "smig0",
+      "created": "2026-02-19 12:36:00",
+      "created_at": 1771504560000
+    },
+    {
+      "id": 47072968,
+      "title": "Paged Out Issue #8 [pdf]",
+      "link": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "score": 227,
+      "author": "SteveHawk27",
+      "created": "2026-02-19 12:13:44",
+      "created_at": 1771503224000
+    },
+    {
+      "id": 47077383,
+      "title": "Farewell Rust",
+      "link": "https://yieldcode.blog/post/farewell-rust/",
+      "score": 35,
+      "author": "skwee357",
+      "created": "2026-02-19 18:42:51",
+      "created_at": 1771526571000
     }
   ],
   "code": 200,
