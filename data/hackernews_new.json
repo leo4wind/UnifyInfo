@@ -3,23 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-19T01:13:46.761Z"
+    "lastUpdate": "2026-02-19T05:17:24.392Z"
   },
   "data": [
-    {
-      "id": 47067678,
-      "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
-      "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "score": 136,
-      "author": "thewavelength",
-      "created": "2026-02-18 23:08:38",
-      "created_at": 1771456118000
-    },
     {
       "id": 47066552,
       "title": "Sizing chaos",
       "link": "https://pudding.cool/2026/02/womens-sizing/",
-      "score": 247,
+      "score": 395,
       "author": "zdw",
       "created": "2026-02-18 21:18:20",
       "created_at": 1771449500000
@@ -28,73 +19,82 @@
       "id": 47066241,
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
       "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-      "score": 121,
+      "score": 243,
       "author": "surprisetalk",
       "created": "2026-02-18 20:54:31",
       "created_at": 1771448071000
     },
     {
+      "id": 47068890,
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "score": 58,
+      "author": "fp64enjoyer",
+      "created": "2026-02-19 01:46:07",
+      "created_at": 1771465567000
+    },
+    {
+      "id": 47069299,
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "link": "https://code.claude.com/docs/en/legal-and-compliance",
+      "score": 146,
+      "author": "theahura",
+      "created": "2026-02-19 02:52:26",
+      "created_at": 1771469546000
+    },
+    {
       "id": 47064490,
       "title": "Cosmologically Unique IDs",
       "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "score": 270,
+      "score": 320,
       "author": "jfantl",
       "created": "2026-02-18 18:37:22",
       "created_at": 1771439842000
     },
     {
-      "id": 47062748,
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
-      "score": 246,
-      "author": "idoxer",
-      "created": "2026-02-18 16:28:19",
-      "created_at": 1771432099000
+      "id": 47025885,
+      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+      "score": 61,
+      "author": "thunderseethe",
+      "created": "2026-02-15 18:07:44",
+      "created_at": 1771178864000
     },
     {
       "id": 47063005,
       "title": "Tailscale Peer Relays is now generally available",
       "link": "https://tailscale.com/blog/peer-relays-ga",
-      "score": 313,
+      "score": 362,
       "author": "sz4kerto",
       "created": "2026-02-18 16:46:12",
       "created_at": 1771433172000
     },
     {
-      "id": 47064047,
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-      "score": 181,
-      "author": "todsacerdoti",
-      "created": "2026-02-18 18:04:13",
-      "created_at": 1771437853000
+      "id": 47068320,
+      "title": "How AI is affecting productivity and jobs in Europe",
+      "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "score": 38,
+      "author": "pseudolus",
+      "created": "2026-02-19 00:22:45",
+      "created_at": 1771460565000
     },
     {
-      "id": 47065179,
-      "title": "R3forth: A concatenative language derived from ColorForth",
-      "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "score": 50,
-      "author": "tosh",
-      "created": "2026-02-18 19:28:59",
-      "created_at": 1771442939000
+      "id": 47062748,
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "link": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "score": 290,
+      "author": "idoxer",
+      "created": "2026-02-18 16:28:19",
+      "created_at": 1771432099000
     },
     {
-      "id": 47063663,
-      "title": "The Perils of ISBN",
-      "link": "https://rygoldstein.com/posts/perils-of-isbn",
-      "score": 60,
-      "author": "evakhoury",
-      "created": "2026-02-18 17:34:37",
-      "created_at": 1771436077000
-    },
-    {
-      "id": 47060220,
-      "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
-      "link": "",
-      "score": 37,
-      "author": "FailMore",
-      "created": "2026-02-18 12:18:26",
-      "created_at": 1771417106000
+      "id": 47068948,
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "score": 120,
+      "author": "tuananh",
+      "created": "2026-02-19 01:55:33",
+      "created_at": 1771466133000
     }
   ],
   "code": 200,
