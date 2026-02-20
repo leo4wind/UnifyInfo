@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-20T01:08:50.382Z"
+    "lastUpdate": "2026-02-20T05:11:44.652Z"
   },
   "data": [
+    {
+      "id": 47082496,
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "score": 125,
+      "author": "interpidused",
+      "created": "2026-02-20 01:28:47",
+      "created_at": 1771550927000
+    },
+    {
+      "id": 47083145,
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "score": 201,
+      "author": "scottshambaugh",
+      "created": "2026-02-20 03:05:08",
+      "created_at": 1771556708000
+    },
     {
       "id": 47074735,
       "title": "Gemini 3.1 Pro",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 499,
+      "score": 620,
       "author": "MallocVoidstar",
       "created": "2026-02-19 15:19:57",
       "created_at": 1771514397000
     },
     {
+      "id": 47083648,
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "score": 7,
+      "author": "zagwdt",
+      "created": "2026-02-20 04:15:58",
+      "created_at": 1771560958000
+    },
+    {
+      "id": 47082548,
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "score": 34,
+      "author": "neelc",
+      "created": "2026-02-20 01:33:36",
+      "created_at": 1771551216000
+    },
+    {
       "id": 47075124,
       "title": "Show HN: Micasa – track your house from the terminal",
       "link": "https://micasa.dev",
-      "score": 420,
+      "score": 490,
       "author": "cpcloud",
       "created": "2026-02-19 15:54:14",
       "created_at": 1771516454000
     },
     {
+      "id": 47082854,
+      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "link": "https://github.com/tmustier/pi-for-excel",
+      "score": 25,
+      "author": "rahimnathwani",
+      "created": "2026-02-20 02:20:06",
+      "created_at": 1771554006000
+    },
+    {
+      "id": 47035698,
+      "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+      "link": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+      "score": 32,
+      "author": "WillMorr",
+      "created": "2026-02-16 14:49:24",
+      "created_at": 1771253364000
+    },
+    {
       "id": 47078167,
       "title": "Micropayments as a reality check for news sites",
       "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
-      "score": 107,
+      "score": 139,
       "author": "speckx",
       "created": "2026-02-19 19:42:31",
       "created_at": 1771530151000
     },
     {
-      "id": 47074389,
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "score": 207,
-      "author": "guardianbob",
-      "created": "2026-02-19 14:52:18",
-      "created_at": 1771512738000
-    },
-    {
-      "id": 47076659,
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "link": "https://github.com/Veirt/weathr",
-      "score": 154,
-      "author": "forinti",
-      "created": "2026-02-19 17:47:25",
-      "created_at": 1771523245000
-    },
-    {
-      "id": 47079718,
-      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-      "link": "https://github.com/manaflow-ai/cmux",
-      "score": 82,
-      "author": "lawrencechen",
-      "created": "2026-02-19 21:30:04",
-      "created_at": 1771536604000
-    },
-    {
-      "id": 47077245,
-      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
-      "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
-      "score": 73,
-      "author": "bryanrasmussen",
-      "created": "2026-02-19 18:31:50",
-      "created_at": 1771525910000
-    },
-    {
       "id": 47067270,
       "title": "US plans online portal to bypass content bans in Europe and elsewhere",
       "link": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "score": 140,
+      "score": 230,
       "author": "c420",
       "created": "2026-02-18 22:25:13",
       "created_at": 1771453513000
-    },
-    {
-      "id": 47072968,
-      "title": "Paged Out Issue #8 [pdf]",
-      "link": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "score": 300,
-      "author": "SteveHawk27",
-      "created": "2026-02-19 12:13:44",
-      "created_at": 1771503224000
-    },
-    {
-      "id": 47073112,
-      "title": "Pebble Production: February Update",
-      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "score": 261,
-      "author": "smig0",
-      "created": "2026-02-19 12:36:00",
-      "created_at": 1771504560000
     }
   ],
   "code": 200,
