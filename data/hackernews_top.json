@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-20T16:25:41.095Z"
+    "lastUpdate": "2026-02-20T20:19:36.846Z"
   },
   "data": [
+    {
+      "id": 47091419,
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 473,
+      "author": "LorenDB",
+      "created": "2026-02-20 17:58:51",
+      "created_at": 1771610331000
+    },
     {
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 286,
+      "score": 539,
       "author": "lairv",
       "created": "2026-02-20 13:51:04",
       "created_at": 1771595464000
@@ -19,82 +28,73 @@
       "id": 47088181,
       "title": "I found a useful Git one liner buried in leaked CIA developer docs",
       "link": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 226,
+      "score": 494,
       "author": "spencerldixon",
       "created": "2026-02-20 14:03:06",
       "created_at": 1771596186000
     },
     {
-      "id": 47088685,
-      "title": "Child's Play: Tech's new generation and the end of thinking",
-      "link": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
-      "score": 58,
-      "author": "ramimac",
-      "created": "2026-02-20 14:48:34",
-      "created_at": 1771598914000
+      "id": 47092578,
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "score": 47,
+      "author": "toomuchtodo",
+      "created": "2026-02-20 19:19:58",
+      "created_at": 1771615198000
     },
     {
-      "id": 47089907,
-      "title": "No Skill. No Taste",
-      "link": "https://blog.kinglycrow.com/no-skill-no-taste/",
-      "score": 10,
-      "author": "ianbutler",
-      "created": "2026-02-20 16:13:32",
-      "created_at": 1771604012000
+      "id": 47091071,
+      "title": "Lil' Fun Langs",
+      "link": "https://taylor.town/scrapscript-000",
+      "score": 59,
+      "author": "surprisetalk",
+      "created": "2026-02-20 17:34:12",
+      "created_at": 1771608852000
+    },
+    {
+      "id": 47091469,
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "link": "https://www.anthropic.com/news/claude-code-security",
+      "score": 52,
+      "author": "surprisetalk",
+      "created": "2026-02-20 18:03:19",
+      "created_at": 1771610599000
     },
     {
       "id": 47089213,
       "title": "Trump's global tariffs struck down by US Supreme Court",
       "link": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 304,
+      "score": 923,
       "author": "blackguardx",
       "created": "2026-02-20 15:27:38",
       "created_at": 1771601258000
     },
     {
+      "id": 47092348,
+      "title": "Testing Super Mario Using a Behavior Model Autonomously",
+      "link": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
+      "score": 18,
+      "author": "Naulius",
+      "created": "2026-02-20 19:04:55",
+      "created_at": 1771614295000
+    },
+    {
+      "id": 47091748,
+      "title": "Facebook is absolutely cooked",
+      "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "score": 233,
+      "author": "npilk",
+      "created": "2026-02-20 18:25:07",
+      "created_at": 1771611907000
+    },
+    {
       "id": 47086181,
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 440,
+      "score": 591,
       "author": "sidnarsipur",
       "created": "2026-02-20 10:32:52",
       "created_at": 1771583572000
-    },
-    {
-      "id": 47088166,
-      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-      "link": "https://github.com/IronsideXXVI/Hacker-News",
-      "score": 85,
-      "author": "IronsideXXVI",
-      "created": "2026-02-20 14:02:05",
-      "created_at": 1771596125000
-    },
-    {
-      "id": 47085425,
-      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-      "link": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 120,
-      "author": "andreabergia",
-      "created": "2026-02-20 08:52:17",
-      "created_at": 1771577537000
-    },
-    {
-      "id": 47087719,
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "score": 100,
-      "author": "el_duderino",
-      "created": "2026-02-20 13:22:32",
-      "created_at": 1771593752000
-    },
-    {
-      "id": 47086557,
-      "title": "Minions – Stripe's Coding Agents Part 2",
-      "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
-      "score": 85,
-      "author": "ludovicianul",
-      "created": "2026-02-20 11:20:02",
-      "created_at": 1771586402000
     }
   ],
   "code": 200,
