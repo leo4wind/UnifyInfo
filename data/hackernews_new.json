@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-20T12:34:23.375Z"
+    "lastUpdate": "2026-02-20T16:25:41.210Z"
   },
   "data": [
+    {
+      "id": 47088037,
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "score": 286,
+      "author": "lairv",
+      "created": "2026-02-20 13:51:04",
+      "created_at": 1771595464000
+    },
+    {
+      "id": 47088181,
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "link": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "score": 226,
+      "author": "spencerldixon",
+      "created": "2026-02-20 14:03:06",
+      "created_at": 1771596186000
+    },
+    {
+      "id": 47088685,
+      "title": "Child's Play: Tech's new generation and the end of thinking",
+      "link": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+      "score": 58,
+      "author": "ramimac",
+      "created": "2026-02-20 14:48:34",
+      "created_at": 1771598914000
+    },
+    {
+      "id": 47089907,
+      "title": "No Skill. No Taste",
+      "link": "https://blog.kinglycrow.com/no-skill-no-taste/",
+      "score": 10,
+      "author": "ianbutler",
+      "created": "2026-02-20 16:13:32",
+      "created_at": 1771604012000
+    },
+    {
+      "id": 47089213,
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "link": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "score": 304,
+      "author": "blackguardx",
+      "created": "2026-02-20 15:27:38",
+      "created_at": 1771601258000
+    },
     {
       "id": 47086181,
       "title": "The path to ubiquitous AI (17k tokens/sec)",
       "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 156,
+      "score": 440,
       "author": "sidnarsipur",
       "created": "2026-02-20 10:32:52",
       "created_at": 1771583572000
     },
     {
+      "id": 47088166,
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "link": "https://github.com/IronsideXXVI/Hacker-News",
+      "score": 85,
+      "author": "IronsideXXVI",
+      "created": "2026-02-20 14:02:05",
+      "created_at": 1771596125000
+    },
+    {
       "id": 47085425,
       "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
       "link": "https://jimmyhmiller.com/learn-codebase-visualizer",
-      "score": 39,
+      "score": 120,
       "author": "andreabergia",
       "created": "2026-02-20 08:52:17",
       "created_at": 1771577537000
     },
     {
-      "id": 47074735,
-      "title": "Gemini 3.1 Pro",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "score": 815,
-      "author": "MallocVoidstar",
-      "created": "2026-02-19 15:19:57",
-      "created_at": 1771514397000
+      "id": 47087719,
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+      "score": 100,
+      "author": "el_duderino",
+      "created": "2026-02-20 13:22:32",
+      "created_at": 1771593752000
     },
     {
       "id": 47086557,
       "title": "Minions – Stripe's Coding Agents Part 2",
       "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
-      "score": 20,
+      "score": 85,
       "author": "ludovicianul",
       "created": "2026-02-20 11:20:02",
       "created_at": 1771586402000
-    },
-    {
-      "id": 47083648,
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "score": 142,
-      "author": "zagwdt",
-      "created": "2026-02-20 04:15:58",
-      "created_at": 1771560958000
-    },
-    {
-      "id": 47085370,
-      "title": "Web Components: The Framework-Free Renaissance",
-      "link": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-      "score": 27,
-      "author": "mpweiher",
-      "created": "2026-02-20 08:45:57",
-      "created_at": 1771577157000
-    },
-    {
-      "id": 47031197,
-      "title": "Defer available in gcc and clang",
-      "link": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-      "score": 194,
-      "author": "r4um",
-      "created": "2026-02-16 05:27:35",
-      "created_at": 1771219655000
-    },
-    {
-      "id": 47085483,
-      "title": "I tried building my startup entirely on European infrastructure",
-      "link": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-      "score": 376,
-      "author": "willy__",
-      "created": "2026-02-20 09:02:05",
-      "created_at": 1771578125000
-    },
-    {
-      "id": 47078324,
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "score": 301,
-      "author": "benbeingbin",
-      "created": "2026-02-19 19:55:11",
-      "created_at": 1771530911000
     }
   ],
   "code": 200,
