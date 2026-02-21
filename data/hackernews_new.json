@@ -3,59 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-21T12:25:31.660Z"
+    "lastUpdate": "2026-02-21T16:17:10.517Z"
   },
   "data": [
-    {
-      "id": 47091419,
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1605,
-      "author": "LorenDB",
-      "created": "2026-02-20 17:58:51",
-      "created_at": 1771610331000
-    },
     {
       "id": 47098245,
       "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
       "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 131,
+      "score": 564,
       "author": "ColinWright",
       "created": "2026-02-21 07:06:18",
       "created_at": 1771657578000
     },
     {
-      "id": 47099160,
-      "title": "Andrej Karpathy talks about \"Claws\"",
-      "link": "https://simonwillison.net/2026/Feb/21/claws/",
-      "score": 98,
-      "author": "helloplanets",
-      "created": "2026-02-21 09:53:15",
-      "created_at": 1771667595000
+      "id": 47091419,
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 1798,
+      "author": "LorenDB",
+      "created": "2026-02-20 17:58:51",
+      "created_at": 1771610331000
     },
     {
-      "id": 47094192,
-      "title": "Turn Dependabot off",
-      "link": "https://words.filippo.io/dependabot/",
-      "score": 493,
-      "author": "todsacerdoti",
-      "created": "2026-02-20 21:25:41",
-      "created_at": 1771622741000
+      "id": 47101200,
+      "title": "macOS's Little-Known Command-Line Sandboxing Tool",
+      "link": "https://igorstechnoclub.com/sandbox-exec/",
+      "score": 75,
+      "author": "Igor_Wiwi",
+      "created": "2026-02-21 14:34:45",
+      "created_at": 1771684485000
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 642,
+      "score": 759,
       "author": "toomuchtodo",
       "created": "2026-02-20 19:19:58",
       "created_at": 1771615198000
     },
     {
+      "id": 47094192,
+      "title": "Turn Dependabot off",
+      "link": "https://words.filippo.io/dependabot/",
+      "score": 560,
+      "author": "todsacerdoti",
+      "created": "2026-02-20 21:25:41",
+      "created_at": 1771622741000
+    },
+    {
+      "id": 47099160,
+      "title": "Andrej Karpathy talks about \"Claws\"",
+      "link": "https://simonwillison.net/2026/Feb/21/claws/",
+      "score": 219,
+      "author": "helloplanets",
+      "created": "2026-02-21 09:53:15",
+      "created_at": 1771667595000
+    },
+    {
       "id": 47091748,
       "title": "Facebook is cooked",
       "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 1154,
+      "score": 1300,
       "author": "npilk",
       "created": "2026-02-20 18:25:07",
       "created_at": 1771611907000
@@ -64,7 +73,7 @@
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 752,
+      "score": 781,
       "author": "lairv",
       "created": "2026-02-20 13:51:04",
       "created_at": 1771595464000
@@ -73,19 +82,19 @@
       "id": 47092006,
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
       "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 466,
+      "score": 524,
       "author": "nobody9999",
       "created": "2026-02-20 18:42:21",
       "created_at": 1771612941000
     },
     {
-      "id": 47095429,
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "link": "https://worldwideweb.cern.ch",
-      "score": 191,
-      "author": "tylerdane",
-      "created": "2026-02-20 23:19:12",
-      "created_at": 1771629552000
+      "id": 47098582,
+      "title": "AI uBlock Blacklist",
+      "link": "https://github.com/alvi-se/ai-ublock-blacklist",
+      "score": 82,
+      "author": "rdmuser",
+      "created": "2026-02-21 08:10:49",
+      "created_at": 1771661449000
     }
   ],
   "code": 200,
