@@ -3,59 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-21T05:00:19.544Z"
+    "lastUpdate": "2026-02-21T08:18:53.572Z"
   },
   "data": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "link": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1242,
+      "score": 1392,
       "author": "LorenDB",
       "created": "2026-02-20 17:58:51",
       "created_at": 1771610331000
     },
     {
       "id": 47094192,
-      "title": "Turn Dependabot Off",
+      "title": "Turn Dependabot off",
       "link": "https://words.filippo.io/dependabot/",
-      "score": 350,
+      "score": 416,
       "author": "todsacerdoti",
       "created": "2026-02-20 21:25:41",
       "created_at": 1771622741000
     },
     {
-      "id": 47092578,
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 425,
-      "author": "toomuchtodo",
-      "created": "2026-02-20 19:19:58",
-      "created_at": 1771615198000
-    },
-    {
-      "id": 47095429,
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "link": "https://worldwideweb.cern.ch",
-      "score": 126,
-      "author": "tylerdane",
-      "created": "2026-02-20 23:19:12",
-      "created_at": 1771629552000
-    },
-    {
       "id": 47091748,
       "title": "Facebook is cooked",
       "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 856,
+      "score": 1015,
       "author": "npilk",
       "created": "2026-02-20 18:25:07",
       "created_at": 1771611907000
     },
     {
+      "id": 47092578,
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "score": 528,
+      "author": "toomuchtodo",
+      "created": "2026-02-20 19:19:58",
+      "created_at": 1771615198000
+    },
+    {
       "id": 47088037,
       "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
       "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 693,
+      "score": 724,
       "author": "lairv",
       "created": "2026-02-20 13:51:04",
       "created_at": 1771595464000
@@ -64,37 +55,46 @@
       "id": 47092006,
       "title": "Wikipedia deprecates Archive.today, starts removing archive links",
       "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 356,
+      "score": 408,
       "author": "nobody9999",
       "created": "2026-02-20 18:42:21",
       "created_at": 1771612941000
     },
     {
-      "id": 47096466,
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "link": "https://www.june.kim/cord",
-      "score": 48,
-      "author": "gfortaine",
-      "created": "2026-02-21 01:27:35",
-      "created_at": 1771637255000
+      "id": 47095429,
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "link": "https://worldwideweb.cern.ch",
+      "score": 158,
+      "author": "tylerdane",
+      "created": "2026-02-20 23:19:12",
+      "created_at": 1771629552000
+    },
+    {
+      "id": 47065729,
+      "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
+      "link": "https://www.nature.com/articles/d41586-026-00502-2",
+      "score": 42,
+      "author": "gnabgib",
+      "created": "2026-02-18 20:12:13",
+      "created_at": 1771445533000
     },
     {
       "id": 47096520,
       "title": "What Is OAuth?",
       "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-      "score": 63,
+      "score": 101,
       "author": "cratermoon",
       "created": "2026-02-21 01:33:40",
       "created_at": 1771637620000
     },
     {
-      "id": 47047559,
-      "title": "Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter",
-      "link": "https://github.com/psyb0t/piraterf",
-      "score": 19,
-      "author": "metadescription",
-      "created": "2026-02-17 14:00:56",
-      "created_at": 1771336856000
+      "id": 47058584,
+      "title": "Index, Count, Offset, Size",
+      "link": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+      "score": 75,
+      "author": "ingve",
+      "created": "2026-02-18 08:20:17",
+      "created_at": 1771402817000
     }
   ],
   "code": 200,
