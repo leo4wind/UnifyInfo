@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-21T16:17:10.497Z"
+    "lastUpdate": "2026-02-21T20:13:47.271Z"
   },
   "data": [
+    {
+      "id": 47103649,
+      "title": "Cloudflare outage on February 20, 2026",
+      "link": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
+      "score": 71,
+      "author": "nomaxx117",
+      "created": "2026-02-21 19:05:31",
+      "created_at": 1771700731000
+    },
     {
       "id": 47098245,
       "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
       "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 564,
+      "score": 905,
       "author": "ColinWright",
       "created": "2026-02-21 07:06:18",
       "created_at": 1771657578000
     },
     {
-      "id": 47091419,
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 1798,
-      "author": "LorenDB",
-      "created": "2026-02-20 17:58:51",
-      "created_at": 1771610331000
+      "id": 47102576,
+      "title": "What not to write on your security clearance form (1988)",
+      "link": "https://milk.com/wall-o-shame/security_clearance.html",
+      "score": 285,
+      "author": "wizardforhire",
+      "created": "2026-02-21 17:08:12",
+      "created_at": 1771693692000
     },
     {
-      "id": 47101200,
-      "title": "macOS's Little-Known Command-Line Sandboxing Tool",
-      "link": "https://igorstechnoclub.com/sandbox-exec/",
-      "score": 75,
-      "author": "Igor_Wiwi",
-      "created": "2026-02-21 14:34:45",
-      "created_at": 1771684485000
+      "id": 47102975,
+      "title": "Personal Statement of a CIA Analyst",
+      "link": "https://antipolygraph.org/statements/statement-038.shtml",
+      "score": 37,
+      "author": "grubbs",
+      "created": "2026-02-21 17:49:02",
+      "created_at": 1771696142000
     },
     {
-      "id": 47092578,
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 759,
-      "author": "toomuchtodo",
-      "created": "2026-02-20 19:19:58",
-      "created_at": 1771615198000
+      "id": 47103506,
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "link": "https://github.com/a-e-k/canvas_ity",
+      "score": 13,
+      "author": "PaulHoule",
+      "created": "2026-02-21 18:50:19",
+      "created_at": 1771699819000
     },
     {
-      "id": 47094192,
-      "title": "Turn Dependabot off",
-      "link": "https://words.filippo.io/dependabot/",
-      "score": 560,
+      "id": 47103945,
+      "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
+      "link": "https://inputlag.science",
+      "score": 9,
+      "author": "akyuu",
+      "created": "2026-02-21 19:41:52",
+      "created_at": 1771702912000
+    },
+    {
+      "id": 47103931,
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "score": 7,
       "author": "todsacerdoti",
-      "created": "2026-02-20 21:25:41",
-      "created_at": 1771622741000
+      "created": "2026-02-21 19:40:06",
+      "created_at": 1771702806000
     },
     {
-      "id": 47099160,
-      "title": "Andrej Karpathy talks about \"Claws\"",
-      "link": "https://simonwillison.net/2026/Feb/21/claws/",
-      "score": 219,
-      "author": "helloplanets",
-      "created": "2026-02-21 09:53:15",
-      "created_at": 1771667595000
+      "id": 47061614,
+      "title": "How far back in time can you understand English?",
+      "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+      "score": 193,
+      "author": "spzb",
+      "created": "2026-02-18 14:56:58",
+      "created_at": 1771426618000
     },
     {
-      "id": 47091748,
-      "title": "Facebook is cooked",
-      "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 1300,
-      "author": "npilk",
-      "created": "2026-02-20 18:25:07",
-      "created_at": 1771611907000
+      "id": 47102763,
+      "title": "DialUp95 – A 90s inspired nostalgia hit",
+      "link": "https://dialup95.com/",
+      "score": 43,
+      "author": "robputt",
+      "created": "2026-02-21 17:26:17",
+      "created_at": 1771694777000
     },
     {
-      "id": 47088037,
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 781,
-      "author": "lairv",
-      "created": "2026-02-20 13:51:04",
-      "created_at": 1771595464000
-    },
-    {
-      "id": 47092006,
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 524,
-      "author": "nobody9999",
-      "created": "2026-02-20 18:42:21",
-      "created_at": 1771612941000
-    },
-    {
-      "id": 47098582,
-      "title": "AI uBlock Blacklist",
-      "link": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "score": 82,
-      "author": "rdmuser",
-      "created": "2026-02-21 08:10:49",
-      "created_at": 1771661449000
+      "id": 47094429,
+      "title": "Loon: A functional lang with invisible types, safe ownership, and alg. effects",
+      "link": "https://loonlang.com",
+      "score": 30,
+      "author": "surprisetalk",
+      "created": "2026-02-20 21:45:31",
+      "created_at": 1771623931000
     }
   ],
   "code": 200,
