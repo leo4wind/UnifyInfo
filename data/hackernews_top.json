@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-20T20:19:36.846Z"
+    "lastUpdate": "2026-02-21T01:07:20.560Z"
   },
   "data": [
     {
       "id": 47091419,
       "title": "Keep Android Open",
       "link": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 473,
+      "score": 1010,
       "author": "LorenDB",
       "created": "2026-02-20 17:58:51",
       "created_at": 1771610331000
     },
     {
-      "id": 47088037,
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-      "score": 539,
-      "author": "lairv",
-      "created": "2026-02-20 13:51:04",
-      "created_at": 1771595464000
+      "id": 47094192,
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "score": 233,
+      "author": "todsacerdoti",
+      "created": "2026-02-20 21:25:41",
+      "created_at": 1771622741000
     },
     {
-      "id": 47088181,
-      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-      "link": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-      "score": 494,
-      "author": "spencerldixon",
-      "created": "2026-02-20 14:03:06",
-      "created_at": 1771596186000
+      "id": 47095429,
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "score": 54,
+      "author": "tylerdane",
+      "created": "2026-02-20 23:19:12",
+      "created_at": 1771629552000
     },
     {
       "id": 47092578,
       "title": "I found a Vulnerability. They found a Lawyer",
       "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 47,
+      "score": 311,
       "author": "toomuchtodo",
       "created": "2026-02-20 19:19:58",
       "created_at": 1771615198000
     },
     {
-      "id": 47091071,
-      "title": "Lil' Fun Langs",
-      "link": "https://taylor.town/scrapscript-000",
-      "score": 59,
-      "author": "surprisetalk",
-      "created": "2026-02-20 17:34:12",
-      "created_at": 1771608852000
-    },
-    {
-      "id": 47091469,
-      "title": "Making frontier cybersecurity capabilities available to defenders",
-      "link": "https://www.anthropic.com/news/claude-code-security",
-      "score": 52,
-      "author": "surprisetalk",
-      "created": "2026-02-20 18:03:19",
-      "created_at": 1771610599000
-    },
-    {
-      "id": 47089213,
-      "title": "Trump's global tariffs struck down by US Supreme Court",
-      "link": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 923,
-      "author": "blackguardx",
-      "created": "2026-02-20 15:27:38",
-      "created_at": 1771601258000
-    },
-    {
-      "id": 47092348,
-      "title": "Testing Super Mario Using a Behavior Model Autonomously",
-      "link": "https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part1/",
-      "score": 18,
-      "author": "Naulius",
-      "created": "2026-02-20 19:04:55",
-      "created_at": 1771614295000
-    },
-    {
       "id": 47091748,
-      "title": "Facebook is absolutely cooked",
+      "title": "Facebook is cooked",
       "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 233,
+      "score": 670,
       "author": "npilk",
       "created": "2026-02-20 18:25:07",
       "created_at": 1771611907000
     },
     {
-      "id": 47086181,
-      "title": "The path to ubiquitous AI (17k tokens/sec)",
-      "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
-      "score": 591,
-      "author": "sidnarsipur",
-      "created": "2026-02-20 10:32:52",
-      "created_at": 1771583572000
+      "id": 47088037,
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "score": 653,
+      "author": "lairv",
+      "created": "2026-02-20 13:51:04",
+      "created_at": 1771595464000
+    },
+    {
+      "id": 47092006,
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 267,
+      "author": "nobody9999",
+      "created": "2026-02-20 18:42:21",
+      "created_at": 1771612941000
+    },
+    {
+      "id": 47093724,
+      "title": "OpenScan",
+      "link": "https://openscan.eu/pages/scan-gallery",
+      "score": 82,
+      "author": "joebig",
+      "created": "2026-02-20 20:47:48",
+      "created_at": 1771620468000
+    },
+    {
+      "id": 47094149,
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "link": "https://mines.fyi/",
+      "score": 45,
+      "author": "irasigman",
+      "created": "2026-02-20 21:22:27",
+      "created_at": 1771622547000
+    },
+    {
+      "id": 47092203,
+      "title": "Every company building your AI assistant is now an ad company",
+      "link": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "score": 76,
+      "author": "ajuhasz",
+      "created": "2026-02-20 18:55:15",
+      "created_at": 1771613715000
     }
   ],
   "code": 200,
