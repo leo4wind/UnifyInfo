@@ -3,41 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-22T16:17:29.844Z"
+    "lastUpdate": "2026-02-22T20:14:50.110Z"
   },
   "data": [
-    {
-      "id": 47091419,
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "score": 2137,
-      "author": "LorenDB",
-      "created": "2026-02-20 17:58:51",
-      "created_at": 1771610331000
-    },
-    {
-      "id": 47089213,
-      "title": "Trump's global tariffs struck down by US Supreme Court",
-      "link": "https://www.bbc.com/news/live/c0l9r67drg7t",
-      "score": 1503,
-      "author": "blackguardx",
-      "created": "2026-02-20 15:27:38",
-      "created_at": 1771601258000
-    },
-    {
-      "id": 47091748,
-      "title": "Facebook is cooked",
-      "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-      "score": 1457,
-      "author": "npilk",
-      "created": "2026-02-20 18:25:07",
-      "created_at": 1771611907000
-    },
     {
       "id": 47098245,
       "title": "I verified my LinkedIn identity. Here's what I handed over",
       "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "score": 1362,
+      "score": 1389,
       "author": "ColinWright",
       "created": "2026-02-21 07:06:18",
       "created_at": 1771657578000
@@ -46,7 +19,7 @@
       "id": 47092578,
       "title": "I found a vulnerability. they found a lawyer",
       "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-      "score": 870,
+      "score": 878,
       "author": "toomuchtodo",
       "created": "2026-02-20 19:19:58",
       "created_at": 1771615198000
@@ -55,7 +28,7 @@
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "link": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 750,
+      "score": 837,
       "author": "vinhnx",
       "created": "2026-02-22 00:29:05",
       "created_at": 1771720145000
@@ -70,19 +43,10 @@
       "created_at": 1771622741000
     },
     {
-      "id": 47092006,
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-      "score": 593,
-      "author": "nobody9999",
-      "created": "2026-02-20 18:42:21",
-      "created_at": 1771612941000
-    },
-    {
       "id": 47102576,
       "title": "What not to write on your security clearance form (1988)",
       "link": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 469,
+      "score": 478,
       "author": "wizardforhire",
       "created": "2026-02-21 17:08:12",
       "created_at": 1771693692000
@@ -91,10 +55,46 @@
       "id": 47095134,
       "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
       "link": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "score": 447,
+      "score": 450,
       "author": "latexr",
       "created": "2026-02-20 22:50:35",
       "created_at": 1771627835000
+    },
+    {
+      "id": 47110515,
+      "title": "Attention Media ≠ Social Networks",
+      "link": "https://susam.net/attention-media-vs-social-networks.html",
+      "score": 427,
+      "author": "susam",
+      "created": "2026-02-22 12:36:46",
+      "created_at": 1771763806000
+    },
+    {
+      "id": 47104973,
+      "title": "Why is Claude an Electron app?",
+      "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+      "score": 400,
+      "author": "dbreunig",
+      "created": "2026-02-21 21:28:13",
+      "created_at": 1771709293000
+    },
+    {
+      "id": 47096253,
+      "title": "Claws are now a new layer on top of LLM agents",
+      "link": "https://twitter.com/karpathy/status/2024987174077432126",
+      "score": 384,
+      "author": "Cyphase",
+      "created": "2026-02-21 00:56:29",
+      "created_at": 1771635389000
+    },
+    {
+      "id": 47103661,
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "link": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 367,
+      "author": "beAroundHere",
+      "created": "2026-02-21 19:07:20",
+      "created_at": 1771700840000
     }
   ],
   "code": 200,

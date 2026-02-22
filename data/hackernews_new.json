@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-22T16:17:30.044Z"
+    "lastUpdate": "2026-02-22T20:14:50.362Z"
   },
   "data": [
     {
       "id": 47110515,
       "title": "Attention Media ≠ Social Networks",
       "link": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 208,
+      "score": 427,
       "author": "susam",
       "created": "2026-02-22 12:36:46",
       "created_at": 1771763806000
     },
     {
+      "id": 47113728,
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "link": "https://hawksley.org/2026/02/17/timeframe.html",
+      "score": 18,
+      "author": "saeedesmaili",
+      "created": "2026-02-22 19:12:31",
+      "created_at": 1771787551000
+    },
+    {
+      "id": 47112174,
+      "title": "Fix your tools",
+      "link": "https://ochagavia.nl/blog/fix-your-tools/",
+      "score": 127,
+      "author": "vinhnx",
+      "created": "2026-02-22 16:12:31",
+      "created_at": 1771776751000
+    },
+    {
+      "id": 47113567,
+      "title": "Show HN: Local-First Linux MicroVMs for macOS",
+      "link": "https://shuru.run",
+      "score": 19,
+      "author": "harshdoesdev",
+      "created": "2026-02-22 18:50:14",
+      "created_at": 1771786214000
+    },
+    {
+      "id": 47113527,
+      "title": "Linuxulator on FreeBSD Feels Like Magic",
+      "link": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+      "score": 17,
+      "author": "vermaden",
+      "created": "2026-02-22 18:45:56",
+      "created_at": 1771785956000
+    },
+    {
+      "id": 47113325,
+      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+      "link": "https://github.com/FreHu/vscode-fresh-file-explorer",
+      "score": 34,
+      "author": "frehu",
+      "created": "2026-02-22 18:20:31",
+      "created_at": 1771784431000
+    },
+    {
+      "id": 47111981,
+      "title": "Show HN: 3D Mahjong, Built in CSS",
+      "link": "https://voxjong.com",
+      "score": 59,
+      "author": "rofko",
+      "created": "2026-02-22 15:53:02",
+      "created_at": 1771775582000
+    },
+    {
       "id": 47110473,
-      "title": "What Is a Database Transaction?",
+      "title": "What is a database transaction?",
       "link": "https://planetscale.com/blog/database-transactions",
-      "score": 90,
+      "score": 170,
       "author": "0x54MUR41",
       "created": "2026-02-22 12:28:41",
       "created_at": 1771763321000
     },
     {
-      "id": 47111067,
-      "title": "Iran students stage first large anti-government protests since deadly crackdown",
-      "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
-      "score": 116,
-      "author": "tartoran",
-      "created": "2026-02-22 13:59:40",
-      "created_at": 1771768780000
+      "id": 47113883,
+      "title": "Green lumber fallacy in software engineering (2022)",
+      "link": "https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software",
+      "score": 6,
+      "author": "mooreds",
+      "created": "2026-02-22 19:32:37",
+      "created_at": 1771788757000
     },
     {
       "id": 47111626,
       "title": "Xweather Live – Interactive global vector weather map",
       "link": "https://live.xweather.com/",
-      "score": 14,
+      "score": 91,
       "author": "unstyledcontent",
       "created": "2026-02-22 15:12:15",
       "created_at": 1771773135000
-    },
-    {
-      "id": 47108989,
-      "title": "Back to FreeBSD: Part 1",
-      "link": "https://hypha.pub/back-to-freebsd-part-1",
-      "score": 142,
-      "author": "enz",
-      "created": "2026-02-22 07:16:27",
-      "created_at": 1771744587000
-    },
-    {
-      "id": 47111440,
-      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "link": "https://quesma.com/blog/introducing-binaryaudit/",
-      "score": 57,
-      "author": "jakozaur",
-      "created": "2026-02-22 14:50:44",
-      "created_at": 1771771844000
-    },
-    {
-      "id": 47110781,
-      "title": "Volatility: The volatile memory forensic extraction framework",
-      "link": "https://github.com/volatilityfoundation/volatility3",
-      "score": 24,
-      "author": "transpute",
-      "created": "2026-02-22 13:20:07",
-      "created_at": 1771766407000
-    },
-    {
-      "id": 47100190,
-      "title": "The Four-Color Theorem 1852–1976",
-      "link": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
-      "score": 26,
-      "author": "bikenaga",
-      "created": "2026-02-21 12:32:06",
-      "created_at": 1771677126000
-    },
-    {
-      "id": 47103661,
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 291,
-      "author": "beAroundHere",
-      "created": "2026-02-21 19:07:20",
-      "created_at": 1771700840000
-    },
-    {
-      "id": 47111400,
-      "title": "Man accidentally gains control of 7k robot vacuums",
-      "link": "https://www.popsci.com/technology/robot-vacuum-army/",
-      "score": 40,
-      "author": "Brajeshwar",
-      "created": "2026-02-22 14:44:42",
-      "created_at": 1771771482000
     }
   ],
   "code": 200,
