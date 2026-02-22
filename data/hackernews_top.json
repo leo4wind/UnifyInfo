@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-22T08:19:49.617Z"
+    "lastUpdate": "2026-02-22T12:26:14.996Z"
   },
   "data": [
+    {
+      "id": 47108989,
+      "title": "Back to FreeBSD: Part 1",
+      "link": "https://hypha.pub/back-to-freebsd-part-1",
+      "score": 68,
+      "author": "enz",
+      "created": "2026-02-22 07:16:27",
+      "created_at": 1771744587000
+    },
+    {
+      "id": 47103661,
+      "title": "How Taalas “prints” LLM onto a chip?",
+      "link": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 184,
+      "author": "beAroundHere",
+      "created": "2026-02-21 19:07:20",
+      "created_at": 1771700840000
+    },
+    {
+      "id": 47100328,
+      "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
+      "link": "https://github.com/kurouna/elecxzy",
+      "score": 14,
+      "author": "kurouna",
+      "created": "2026-02-21 12:49:24",
+      "created_at": 1771678164000
+    },
     {
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "link": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 435,
+      "score": 623,
       "author": "vinhnx",
       "created": "2026-02-22 00:29:05",
       "created_at": 1771720145000
@@ -19,82 +46,55 @@
       "id": 47107781,
       "title": "Japanese Woodblock Print Search",
       "link": "https://ukiyo-e.org/",
-      "score": 71,
+      "score": 119,
       "author": "curmudgeon22",
       "created": "2026-02-22 03:18:36",
       "created_at": 1771730316000
     },
     {
-      "id": 47106985,
-      "title": "A Botnet Accidentally Destroyed I2P",
-      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "score": 90,
-      "author": "Cider9986",
-      "created": "2026-02-22 01:08:17",
-      "created_at": 1771722497000
-    },
-    {
-      "id": 47103661,
-      "title": "How Taalas \"prints\" LLM onto a chip?",
-      "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 83,
-      "author": "beAroundHere",
-      "created": "2026-02-21 19:07:20",
-      "created_at": 1771700840000
-    },
-    {
-      "id": 47104667,
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "link": "https://github.com/xaskasdf/ntransformer",
-      "score": 220,
-      "author": "xaskasdf",
-      "created": "2026-02-21 20:57:30",
-      "created_at": 1771707450000
-    },
-    {
-      "id": 47046070,
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "score": 79,
-      "author": "matheusalmeida",
-      "created": "2026-02-17 11:01:09",
-      "created_at": 1771326069000
-    },
-    {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 506,
+      "score": 571,
       "author": "spzb",
       "created": "2026-02-18 14:56:58",
       "created_at": 1771426618000
     },
     {
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 127,
+      "author": "matheusalmeida",
+      "created": "2026-02-17 11:01:09",
+      "created_at": 1771326069000
+    },
+    {
+      "id": 47104667,
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "link": "https://github.com/xaskasdf/ntransformer",
+      "score": 274,
+      "author": "xaskasdf",
+      "created": "2026-02-21 20:57:30",
+      "created_at": 1771707450000
+    },
+    {
       "id": 47096167,
       "title": "Gamedate – A site to revive dead multiplayer games",
       "link": "https://gamedate.org/",
-      "score": 76,
+      "score": 153,
       "author": "msuniverse2026",
       "created": "2026-02-21 00:44:28",
       "created_at": 1771634668000
     },
     {
-      "id": 47105198,
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 121,
-      "author": "suddenlybananas",
-      "created": "2026-02-21 21:51:58",
-      "created_at": 1771710718000
-    },
-    {
-      "id": 47103931,
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 177,
-      "author": "todsacerdoti",
-      "created": "2026-02-21 19:40:06",
-      "created_at": 1771702806000
+      "id": 47046853,
+      "title": "Unreal Numbers",
+      "link": "https://lcamtuf.substack.com/p/unreal-numbers",
+      "score": 17,
+      "author": "surprisetalk",
+      "created": "2026-02-17 12:40:10",
+      "created_at": 1771332010000
     }
   ],
   "code": 200,
