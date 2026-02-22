@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-22T01:12:18.389Z"
+    "lastUpdate": "2026-02-22T05:11:29.875Z"
   },
   "data": [
     {
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "link": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 18,
+      "score": 249,
       "author": "vinhnx",
       "created": "2026-02-22 00:29:05",
       "created_at": 1771720145000
     },
     {
-      "id": 47106626,
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "score": 19,
-      "author": "fragmede",
-      "created": "2026-02-22 00:21:05",
-      "created_at": 1771719665000
+      "id": 47107781,
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "score": 28,
+      "author": "curmudgeon22",
+      "created": "2026-02-22 03:18:36",
+      "created_at": 1771730316000
     },
     {
-      "id": 47105198,
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "score": 58,
-      "author": "suddenlybananas",
-      "created": "2026-02-21 21:51:58",
-      "created_at": 1771710718000
+      "id": 47106985,
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "score": 56,
+      "author": "Cider9986",
+      "created": "2026-02-22 01:08:17",
+      "created_at": 1771722497000
     },
     {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "link": "https://github.com/xaskasdf/ntransformer",
-      "score": 83,
+      "score": 157,
       "author": "xaskasdf",
       "created": "2026-02-21 20:57:30",
       "created_at": 1771707450000
     },
     {
-      "id": 47103931,
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "score": 118,
-      "author": "todsacerdoti",
-      "created": "2026-02-21 19:40:06",
-      "created_at": 1771702806000
-    },
-    {
       "id": 47061614,
       "title": "How far back in time can you understand English?",
       "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "score": 340,
+      "score": 435,
       "author": "spzb",
       "created": "2026-02-18 14:56:58",
       "created_at": 1771426618000
     },
     {
+      "id": 47105198,
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "link": "https://www.science.org/doi/10.1126/science.adq7188",
+      "score": 99,
+      "author": "suddenlybananas",
+      "created": "2026-02-21 21:51:58",
+      "created_at": 1771710718000
+    },
+    {
+      "id": 47046070,
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 38,
+      "author": "matheusalmeida",
+      "created": "2026-02-17 11:01:09",
+      "created_at": 1771326069000
+    },
+    {
+      "id": 47051709,
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "link": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "score": 30,
+      "author": "bookmtn",
+      "created": "2026-02-17 19:13:37",
+      "created_at": 1771355617000
+    },
+    {
+      "id": 47088307,
+      "title": "“Playmakers,” reviewed: The race to give every child a toy",
+      "link": "https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review",
+      "score": 5,
+      "author": "fortran77",
+      "created": "2026-02-20 14:14:33",
+      "created_at": 1771596873000
+    },
+    {
       "id": 47100232,
       "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
       "link": "https://github.com/tnm/zclaw",
-      "score": 85,
+      "score": 133,
       "author": "tosh",
       "created": "2026-02-21 12:37:52",
       "created_at": 1771677472000
-    },
-    {
-      "id": 47104185,
-      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "link": "https://www.eduke32.com/",
-      "score": 142,
-      "author": "reconnecting",
-      "created": "2026-02-21 20:10:13",
-      "created_at": 1771704613000
-    },
-    {
-      "id": 47101171,
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "link": "https://www.koreaherald.com/article/10679206",
-      "score": 146,
-      "author": "phront",
-      "created": "2026-02-21 14:32:16",
-      "created_at": 1771684336000
-    },
-    {
-      "id": 47103136,
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "score": 91,
-      "author": "iancmceachern",
-      "created": "2026-02-21 18:09:24",
-      "created_at": 1771697364000
     }
   ],
   "code": 200,
