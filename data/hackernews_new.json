@@ -3,23 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-23T12:38:49.179Z"
+    "lastUpdate": "2026-02-23T16:42:38.265Z"
   },
   "data": [
+    {
+      "id": 47122715,
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "link": "https://spectrum.ieee.org/age-verification",
+      "score": 386,
+      "author": "oldnetguy",
+      "created": "2026-02-23 14:22:39",
+      "created_at": 1771856559000
+    },
     {
       "id": 47120899,
       "title": "Ladybird Browser adopts Rust",
       "link": "https://ladybird.org/posts/adopting-rust/",
-      "score": 199,
+      "score": 632,
       "author": "adius",
       "created": "2026-02-23 11:29:22",
       "created_at": 1771846162000
     },
     {
+      "id": 47124149,
+      "title": "A simple web we own",
+      "link": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "score": 28,
+      "author": "speckx",
+      "created": "2026-02-23 16:01:18",
+      "created_at": 1771862478000
+    },
+    {
+      "id": 47124325,
+      "title": "C99 implementation of new O(m log^(2/3) n) shortest path algorithm",
+      "link": "https://github.com/danalec/DMMSY-SSSP",
+      "score": 29,
+      "author": "danalec",
+      "created": "2026-02-23 16:14:10",
+      "created_at": 1771863250000
+    },
+    {
+      "id": 47122789,
+      "title": "The peculiar case of Japanese web design (2022)",
+      "link": "https://sabrinas.space",
+      "score": 116,
+      "author": "montenegrohugo",
+      "created": "2026-02-23 14:28:39",
+      "created_at": 1771856919000
+    },
+    {
       "id": 47119530,
       "title": "Elsevier shuts down its finance journal citation cartel",
       "link": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "score": 198,
+      "score": 366,
       "author": "qsi",
       "created": "2026-02-23 08:22:34",
       "created_at": 1771834954000
@@ -28,25 +64,25 @@
       "id": 47075455,
       "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
       "link": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-      "score": 156,
+      "score": 265,
       "author": "mhb",
       "created": "2026-02-19 16:23:39",
       "created_at": 1771518219000
     },
     {
-      "id": 47121029,
-      "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
-      "link": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
-      "score": 64,
-      "author": "doener",
-      "created": "2026-02-23 11:44:10",
-      "created_at": 1771847050000
+      "id": 47119274,
+      "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
+      "link": "https://magicalmushroom.com/index",
+      "score": 202,
+      "author": "microflash",
+      "created": "2026-02-23 07:43:47",
+      "created_at": 1771832627000
     },
     {
       "id": 47113728,
       "title": "I built Timeframe, our family e-paper dashboard",
       "link": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 1215,
+      "score": 1362,
       "author": "saeedesmaili",
       "created": "2026-02-22 19:12:31",
       "created_at": 1771787551000
@@ -55,46 +91,10 @@
       "id": 47078112,
       "title": "0 A.D. Release 28: Boiorix",
       "link": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
-      "score": 172,
+      "score": 242,
       "author": "jonbaer",
       "created": "2026-02-19 19:37:00",
       "created_at": 1771529820000
-    },
-    {
-      "id": 47119274,
-      "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
-      "link": "https://magicalmushroom.com/index",
-      "score": 74,
-      "author": "microflash",
-      "created": "2026-02-23 07:43:47",
-      "created_at": 1771832627000
-    },
-    {
-      "id": 47060835,
-      "title": "A NASA Engineer Discovered a World of Semi Truck Aerodynamics by Accident",
-      "link": "https://www.thedrive.com/news/how-a-nasa-engineer-discovered-a-world-of-semi-truck-aerodynamics-by-accident",
-      "score": 22,
-      "author": "PaulHoule",
-      "created": "2026-02-18 13:42:42",
-      "created_at": 1771422162000
-    },
-    {
-      "id": 47120201,
-      "title": "SETI@home: Data Acquisition and Front-End Processing (2025)",
-      "link": "https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7",
-      "score": 21,
-      "author": "tosh",
-      "created": "2026-02-23 09:58:33",
-      "created_at": 1771840713000
-    },
-    {
-      "id": 47113618,
-      "title": "Loops is a federated, open-source TikTok",
-      "link": "https://joinloops.org/",
-      "score": 464,
-      "author": "Gooblebrai",
-      "created": "2026-02-22 18:56:40",
-      "created_at": 1771786600000
     }
   ],
   "code": 200,
