@@ -3,32 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-23T01:11:47.681Z"
+    "lastUpdate": "2026-02-23T05:21:05.567Z"
   },
   "data": [
     {
       "id": 47113728,
       "title": "I built Timeframe, our family e-paper dashboard",
       "link": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 537,
+      "score": 819,
       "author": "saeedesmaili",
       "created": "2026-02-22 19:12:31",
       "created_at": 1771787551000
     },
     {
-      "id": 47115805,
-      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "score": 162,
-      "author": "srigi",
-      "created": "2026-02-22 23:07:55",
-      "created_at": 1771801675000
+      "id": 47117780,
+      "title": "Freemediaheckyeah",
+      "link": "https://fmhy.net/",
+      "score": 84,
+      "author": "con",
+      "created": "2026-02-23 03:35:31",
+      "created_at": 1771817731000
+    },
+    {
+      "id": 47117459,
+      "title": "The JavaScript Oxidation Compiler",
+      "link": "https://oxc.rs/",
+      "score": 63,
+      "author": "modinfo",
+      "created": "2026-02-23 02:49:16",
+      "created_at": 1771814956000
     },
     {
       "id": 47113618,
       "title": "Loops is a federated, open-source TikTok",
       "link": "https://joinloops.org/",
-      "score": 202,
+      "score": 325,
       "author": "Gooblebrai",
       "created": "2026-02-22 18:56:40",
       "created_at": 1771786600000
@@ -37,64 +46,55 @@
       "id": 47114530,
       "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
       "link": "https://cia-factbook-archive.fly.dev/",
-      "score": 91,
+      "score": 218,
       "author": "MilkMp",
       "created": "2026-02-22 20:50:23",
       "created_at": 1771793423000
     },
     {
-      "id": 47115575,
-      "title": "Using the new bridges of FreeBSD 15",
-      "link": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
-      "score": 35,
-      "author": "vermaden",
-      "created": "2026-02-22 22:42:16",
-      "created_at": 1771800136000
+      "id": 47066446,
+      "title": "How to train your program verifier",
+      "link": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+      "score": 18,
+      "author": "matt_d",
+      "created": "2026-02-18 21:10:09",
+      "created_at": 1771449009000
     },
     {
-      "id": 47110515,
-      "title": "Attention Media ≠ Social Networks",
-      "link": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 524,
-      "author": "susam",
-      "created": "2026-02-22 12:36:46",
-      "created_at": 1771763806000
+      "id": 47115805,
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "score": 446,
+      "author": "srigi",
+      "created": "2026-02-22 23:07:55",
+      "created_at": 1771801675000
     },
     {
-      "id": 47074321,
-      "title": "Keybee: A Keyboard Designed for Smartphones",
-      "link": "https://keybeekeyboard.com/",
-      "score": 40,
-      "author": "surprisetalk",
-      "created": "2026-02-19 14:45:55",
-      "created_at": 1771512355000
+      "id": 47117169,
+      "title": "Aqua: A CLI message tool for AI agents",
+      "link": "https://github.com/quailyquaily/aqua",
+      "score": 27,
+      "author": "lyricat",
+      "created": "2026-02-23 02:07:27",
+      "created_at": 1771812447000
     },
     {
-      "id": 47088005,
-      "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
-      "link": "https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md",
-      "score": 9,
-      "author": "jimishol",
-      "created": "2026-02-20 13:48:55",
-      "created_at": 1771595335000
+      "id": 47067031,
+      "title": "My journey to the microwave alternate timeline",
+      "link": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+      "score": 127,
+      "author": "jstanley",
+      "created": "2026-02-18 21:59:06",
+      "created_at": 1771451946000
     },
     {
-      "id": 47113796,
-      "title": "Six Math Essentials",
-      "link": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
-      "score": 92,
-      "author": "digital55",
-      "created": "2026-02-22 19:21:21",
-      "created_at": 1771788081000
-    },
-    {
-      "id": 47113567,
-      "title": "Show HN: Local-First Linux MicroVMs for macOS",
-      "link": "https://shuru.run",
-      "score": 108,
-      "author": "harshdoesdev",
-      "created": "2026-02-22 18:50:14",
-      "created_at": 1771786214000
+      "id": 47117408,
+      "title": "Agentic Software Engineering Book",
+      "link": "https://agenticse-book.github.io/",
+      "score": 47,
+      "author": "bananaflag",
+      "created": "2026-02-23 02:41:43",
+      "created_at": 1771814503000
     }
   ],
   "code": 200,
