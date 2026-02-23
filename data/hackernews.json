@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-23T08:37:00.470Z"
+    "lastUpdate": "2026-02-23T12:38:49.054Z"
   },
   "data": [
     {
       "id": 47113728,
       "title": "I built Timeframe, our family e-paper dashboard",
       "link": "https://hawksley.org/2026/02/17/timeframe.html",
-      "score": 1029,
+      "score": 1215,
       "author": "saeedesmaili",
       "created": "2026-02-22 19:12:31",
       "created_at": 1771787551000
@@ -19,43 +19,52 @@
       "id": 47106686,
       "title": "How I use Claude Code: Separation of planning and execution",
       "link": "https://boristane.com/blog/how-i-use-claude-code/",
-      "score": 904,
+      "score": 916,
       "author": "vinhnx",
       "created": "2026-02-22 00:29:05",
       "created_at": 1771720145000
     },
     {
-      "id": 47110515,
-      "title": "Attention Media ≠ Social Networks",
-      "link": "https://susam.net/attention-media-vs-social-networks.html",
-      "score": 599,
-      "author": "susam",
-      "created": "2026-02-22 12:36:46",
-      "created_at": 1771763806000
-    },
-    {
       "id": 47115805,
       "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
       "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "score": 572,
+      "score": 670,
       "author": "srigi",
       "created": "2026-02-22 23:07:55",
       "created_at": 1771801675000
     },
     {
+      "id": 47110515,
+      "title": "Attention Media ≠ Social Networks",
+      "link": "https://susam.net/attention-media-vs-social-networks.html",
+      "score": 617,
+      "author": "susam",
+      "created": "2026-02-22 12:36:46",
+      "created_at": 1771763806000
+    },
+    {
       "id": 47102576,
       "title": "What not to write on your security clearance form (1988)",
       "link": "https://milk.com/wall-o-shame/security_clearance.html",
-      "score": 492,
+      "score": 495,
       "author": "wizardforhire",
       "created": "2026-02-21 17:08:12",
       "created_at": 1771693692000
     },
     {
+      "id": 47113618,
+      "title": "Loops is a federated, open-source TikTok",
+      "link": "https://joinloops.org/",
+      "score": 464,
+      "author": "Gooblebrai",
+      "created": "2026-02-22 18:56:40",
+      "created_at": 1771786600000
+    },
+    {
       "id": 47104973,
       "title": "Why is Claude an Electron app?",
       "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "score": 412,
+      "score": 413,
       "author": "dbreunig",
       "created": "2026-02-21 21:28:13",
       "created_at": 1771709293000
@@ -64,25 +73,16 @@
       "id": 47103661,
       "title": "How Taalas “prints” LLM onto a chip?",
       "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "score": 400,
+      "score": 405,
       "author": "beAroundHere",
       "created": "2026-02-21 19:07:20",
       "created_at": 1771700840000
     },
     {
-      "id": 47113618,
-      "title": "Loops is a federated, open-source TikTok",
-      "link": "https://joinloops.org/",
-      "score": 393,
-      "author": "Gooblebrai",
-      "created": "2026-02-22 18:56:40",
-      "created_at": 1771786600000
-    },
-    {
       "id": 47104667,
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
       "link": "https://github.com/xaskasdf/ntransformer",
-      "score": 377,
+      "score": 380,
       "author": "xaskasdf",
       "created": "2026-02-21 20:57:30",
       "created_at": 1771707450000
@@ -91,7 +91,7 @@
       "id": 47114530,
       "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
       "link": "https://cia-factbook-archive.fly.dev/",
-      "score": 304,
+      "score": 365,
       "author": "MilkMp",
       "created": "2026-02-22 20:50:23",
       "created_at": 1771793423000
