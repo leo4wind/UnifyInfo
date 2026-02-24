@@ -3,50 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-24T08:34:56.604Z"
+    "lastUpdate": "2026-02-24T12:39:35.658Z"
   },
   "data": [
     {
-      "id": 47133313,
-      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "score": 169,
-      "author": "shaunpud",
-      "created": "2026-02-24 05:47:23",
-      "created_at": 1771912043000
+      "id": 47094768,
+      "title": "Diode – Build, program, and simulate hardware",
+      "link": "https://www.withdiode.com/",
+      "score": 141,
+      "author": "rossant",
+      "created": "2026-02-20 22:14:13",
+      "created_at": 1771625653000
     },
     {
       "id": 47123689,
       "title": "Terence Tao, at 8 years old (1984) [pdf]",
       "link": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-      "score": 216,
+      "score": 318,
       "author": "gurjeet",
       "created": "2026-02-23 15:36:50",
       "created_at": 1771861010000
     },
     {
+      "id": 47095266,
+      "title": "ΛProlog: Logic programming in higher-order logic",
+      "link": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
+      "score": 35,
+      "author": "ux266478",
+      "created": "2026-02-20 23:02:08",
+      "created_at": 1771628528000
+    },
+    {
+      "id": 47099401,
+      "title": "A distributed queue in a single JSON file on object storage",
+      "link": "https://turbopuffer.com/blog/object-storage-queue",
+      "score": 36,
+      "author": "Sirupsen",
+      "created": "2026-02-21 10:31:37",
+      "created_at": 1771669897000
+    },
+    {
       "id": 47133055,
       "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
       "link": "https://github.com/GreatScott/enveil",
-      "score": 51,
+      "score": 110,
       "author": "parkaboy",
       "created": "2026-02-24 05:04:50",
       "created_at": 1771909490000
     },
     {
-      "id": 47132388,
-      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-      "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 217,
-      "author": "wglb",
-      "created": "2026-02-24 03:10:16",
-      "created_at": 1771902616000
-    },
-    {
       "id": 47130860,
       "title": "I Ported Coreboot to the ThinkPad X270",
       "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-      "score": 166,
+      "score": 219,
       "author": "todsacerdoti",
       "created": "2026-02-23 23:58:45",
       "created_at": 1771891125000
@@ -55,46 +64,37 @@
       "id": 47132102,
       "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "link": "https://lyra.horse/x86css/",
-      "score": 100,
+      "score": 163,
       "author": "rebane2001",
       "created": "2026-02-24 02:27:14",
       "created_at": 1771900034000
     },
     {
-      "id": 47122715,
-      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "link": "https://spectrum.ieee.org/age-verification",
-      "score": 1412,
-      "author": "oldnetguy",
-      "created": "2026-02-23 14:22:39",
-      "created_at": 1771856559000
+      "id": 47133313,
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "score": 312,
+      "author": "shaunpud",
+      "created": "2026-02-24 05:47:23",
+      "created_at": 1771912043000
     },
     {
-      "id": 47131225,
-      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-      "link": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-      "score": 137,
-      "author": "adebayoj",
-      "created": "2026-02-24 00:38:02",
-      "created_at": 1771893482000
+      "id": 47132388,
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "score": 298,
+      "author": "wglb",
+      "created": "2026-02-24 03:10:16",
+      "created_at": 1771902616000
     },
     {
-      "id": 47079208,
-      "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
-      "link": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
-      "score": 57,
-      "author": "beardyw",
-      "created": "2026-02-19 20:55:12",
-      "created_at": 1771534512000
-    },
-    {
-      "id": 47129727,
-      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-      "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-      "score": 150,
-      "author": "surprisetalk",
-      "created": "2026-02-23 22:11:34",
-      "created_at": 1771884694000
+      "id": 47124171,
+      "title": "The Missing Semester of Your CS Education – Revised for 2026",
+      "link": "https://missing.csail.mit.edu/",
+      "score": 76,
+      "author": "anishathalye",
+      "created": "2026-02-23 16:02:48",
+      "created_at": 1771862568000
     }
   ],
   "code": 200,
