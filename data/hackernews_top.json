@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-24T16:54:58.461Z"
+    "lastUpdate": "2026-02-24T20:24:19.520Z"
   },
   "data": [
     {
+      "id": 47139675,
+      "title": "I'm helping my dog vibe code games",
+      "link": "https://www.calebleak.com/posts/dog-game/",
+      "score": 316,
+      "author": "cleak",
+      "created": "2026-02-24 17:15:17",
+      "created_at": 1771953317000
+    },
+    {
+      "id": 47140042,
+      "title": "Nearby Glasses",
+      "link": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "score": 69,
+      "author": "zingerlio",
+      "created": "2026-02-24 17:40:40",
+      "created_at": 1771954840000
+    },
+    {
       "id": 47136604,
-      "title": "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
       "link": "https://wordglyph.xyz/one-piece-at-a-time",
-      "score": 177,
+      "score": 324,
       "author": "wordglyph",
       "created": "2026-02-24 13:03:51",
       "created_at": 1771938231000
     },
     {
-      "id": 47137711,
-      "title": "Stripe valued at $159B, 2025 annual letter",
-      "link": "https://stripe.com/newsroom/news/stripe-2025-update",
-      "score": 47,
-      "author": "jez",
-      "created": "2026-02-24 14:37:52",
-      "created_at": 1771943872000
+      "id": 47139902,
+      "title": "HuggingFace Agent Skills",
+      "link": "https://github.com/huggingface/skills",
+      "score": 56,
+      "author": "armcat",
+      "created": "2026-02-24 17:30:19",
+      "created_at": 1771954219000
     },
     {
-      "id": 47138718,
-      "title": "Software 3.1? – AI Functions",
-      "link": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
-      "score": 28,
-      "author": "aspittel",
-      "created": "2026-02-24 15:58:08",
-      "created_at": 1771948688000
-    },
-    {
-      "id": 47125263,
-      "title": "Samsung Upcycle Promise",
-      "link": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
-      "score": 44,
-      "author": "1970-01-01",
-      "created": "2026-02-23 17:14:02",
-      "created_at": 1771866842000
-    },
-    {
-      "id": 47094768,
-      "title": "Diode – Build, program, and simulate hardware",
-      "link": "https://www.withdiode.com/",
-      "score": 337,
-      "author": "rossant",
-      "created": "2026-02-20 22:14:13",
-      "created_at": 1771625653000
-    },
-    {
-      "id": 47136611,
-      "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
-      "link": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
-      "score": 208,
-      "author": "todsacerdoti",
-      "created": "2026-02-24 13:04:16",
-      "created_at": 1771938256000
-    },
-    {
-      "id": 47112148,
-      "title": "Extending C with Prolog (1994)",
-      "link": "https://www.amzi.com/articles/irq_expert_system.htm",
-      "score": 11,
-      "author": "Antibabelic",
-      "created": "2026-02-22 16:10:18",
-      "created_at": 1771776618000
-    },
-    {
-      "id": 47095266,
-      "title": "λProlog: Logic programming in higher-order logic",
-      "link": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-      "score": 101,
-      "author": "ux266478",
-      "created": "2026-02-20 23:02:08",
-      "created_at": 1771628528000
-    },
-    {
-      "id": 47114678,
-      "title": "We installed a single turnstile to feel secure",
-      "link": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
-      "score": 58,
-      "author": "firefoxd",
-      "created": "2026-02-22 21:07:11",
-      "created_at": 1771794431000
+      "id": 47140612,
+      "title": "I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone",
+      "link": "https://macky.dev",
+      "score": 27,
+      "author": "Sayuj01",
+      "created": "2026-02-24 18:21:39",
+      "created_at": 1771957299000
     },
     {
       "id": 47136537,
       "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
       "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-      "score": 78,
+      "score": 148,
       "author": "mitchbob",
       "created": "2026-02-24 12:58:14",
       "created_at": 1771937894000
+    },
+    {
+      "id": 47139765,
+      "title": "Open Letter to Google on Mandatory Developer Registration for App Distribution",
+      "link": "https://keepandroidopen.org/open-letter/",
+      "score": 238,
+      "author": "kaplun",
+      "created": "2026-02-24 17:21:11",
+      "created_at": 1771953671000
+    },
+    {
+      "id": 47141797,
+      "title": "Hacking an old Kindle to display bus arrival times",
+      "link": "https://www.mariannefeng.com/portfolio/kindle/",
+      "score": 5,
+      "author": "mengchengfeng",
+      "created": "2026-02-24 19:43:34",
+      "created_at": 1771962214000
+    },
+    {
+      "id": 47140657,
+      "title": "Steel Bank Common Lisp",
+      "link": "https://www.sbcl.org/",
+      "score": 59,
+      "author": "tosh",
+      "created": "2026-02-24 18:24:17",
+      "created_at": 1771957457000
+    },
+    {
+      "id": 47114678,
+      "title": "We installed a single turnstile to feel secure",
+      "link": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+      "score": 190,
+      "author": "firefoxd",
+      "created": "2026-02-22 21:07:11",
+      "created_at": 1771794431000
     }
   ],
   "code": 200,
