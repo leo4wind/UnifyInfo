@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-24T12:39:35.753Z"
+    "lastUpdate": "2026-02-24T16:54:58.618Z"
   },
   "data": [
+    {
+      "id": 47136604,
+      "title": "I Pitched a Roller Coaster to Disneyland at Age 10 in 1978",
+      "link": "https://wordglyph.xyz/one-piece-at-a-time",
+      "score": 177,
+      "author": "wordglyph",
+      "created": "2026-02-24 13:03:51",
+      "created_at": 1771938231000
+    },
+    {
+      "id": 47137711,
+      "title": "Stripe valued at $159B, 2025 annual letter",
+      "link": "https://stripe.com/newsroom/news/stripe-2025-update",
+      "score": 47,
+      "author": "jez",
+      "created": "2026-02-24 14:37:52",
+      "created_at": 1771943872000
+    },
+    {
+      "id": 47138718,
+      "title": "Software 3.1? – AI Functions",
+      "link": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
+      "score": 28,
+      "author": "aspittel",
+      "created": "2026-02-24 15:58:08",
+      "created_at": 1771948688000
+    },
+    {
+      "id": 47125263,
+      "title": "Samsung Upcycle Promise",
+      "link": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
+      "score": 44,
+      "author": "1970-01-01",
+      "created": "2026-02-23 17:14:02",
+      "created_at": 1771866842000
+    },
     {
       "id": 47094768,
       "title": "Diode – Build, program, and simulate hardware",
       "link": "https://www.withdiode.com/",
-      "score": 141,
+      "score": 337,
       "author": "rossant",
       "created": "2026-02-20 22:14:13",
       "created_at": 1771625653000
     },
     {
-      "id": 47123689,
-      "title": "Terence Tao, at 8 years old (1984) [pdf]",
-      "link": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-      "score": 318,
-      "author": "gurjeet",
-      "created": "2026-02-23 15:36:50",
-      "created_at": 1771861010000
+      "id": 47136611,
+      "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
+      "link": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+      "score": 208,
+      "author": "todsacerdoti",
+      "created": "2026-02-24 13:04:16",
+      "created_at": 1771938256000
+    },
+    {
+      "id": 47112148,
+      "title": "Extending C with Prolog (1994)",
+      "link": "https://www.amzi.com/articles/irq_expert_system.htm",
+      "score": 11,
+      "author": "Antibabelic",
+      "created": "2026-02-22 16:10:18",
+      "created_at": 1771776618000
     },
     {
       "id": 47095266,
-      "title": "ΛProlog: Logic programming in higher-order logic",
+      "title": "λProlog: Logic programming in higher-order logic",
       "link": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
-      "score": 35,
+      "score": 101,
       "author": "ux266478",
       "created": "2026-02-20 23:02:08",
       "created_at": 1771628528000
     },
     {
-      "id": 47099401,
-      "title": "A distributed queue in a single JSON file on object storage",
-      "link": "https://turbopuffer.com/blog/object-storage-queue",
-      "score": 36,
-      "author": "Sirupsen",
-      "created": "2026-02-21 10:31:37",
-      "created_at": 1771669897000
+      "id": 47114678,
+      "title": "We installed a single turnstile to feel secure",
+      "link": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+      "score": 58,
+      "author": "firefoxd",
+      "created": "2026-02-22 21:07:11",
+      "created_at": 1771794431000
     },
     {
-      "id": 47133055,
-      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
-      "link": "https://github.com/GreatScott/enveil",
-      "score": 110,
-      "author": "parkaboy",
-      "created": "2026-02-24 05:04:50",
-      "created_at": 1771909490000
-    },
-    {
-      "id": 47130860,
-      "title": "I Ported Coreboot to the ThinkPad X270",
-      "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-      "score": 219,
-      "author": "todsacerdoti",
-      "created": "2026-02-23 23:58:45",
-      "created_at": 1771891125000
-    },
-    {
-      "id": 47132102,
-      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-      "link": "https://lyra.horse/x86css/",
-      "score": 163,
-      "author": "rebane2001",
-      "created": "2026-02-24 02:27:14",
-      "created_at": 1771900034000
-    },
-    {
-      "id": 47133313,
-      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "score": 312,
-      "author": "shaunpud",
-      "created": "2026-02-24 05:47:23",
-      "created_at": 1771912043000
-    },
-    {
-      "id": 47132388,
-      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-      "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 298,
-      "author": "wglb",
-      "created": "2026-02-24 03:10:16",
-      "created_at": 1771902616000
-    },
-    {
-      "id": 47124171,
-      "title": "The Missing Semester of Your CS Education – Revised for 2026",
-      "link": "https://missing.csail.mit.edu/",
-      "score": 76,
-      "author": "anishathalye",
-      "created": "2026-02-23 16:02:48",
-      "created_at": 1771862568000
+      "id": 47136537,
+      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+      "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+      "score": 78,
+      "author": "mitchbob",
+      "created": "2026-02-24 12:58:14",
+      "created_at": 1771937894000
     }
   ],
   "code": 200,
