@@ -3,14 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-25T12:38:56.512Z"
+    "lastUpdate": "2026-02-25T16:58:10.049Z"
   },
   "data": [
+    {
+      "id": 47151233,
+      "title": "Never Buy A .online Domain",
+      "link": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "score": 414,
+      "author": "ssiddharth",
+      "created": "2026-02-25 13:31:17",
+      "created_at": 1772026277000
+    },
+    {
+      "id": 47153798,
+      "title": "The United States needs fewer bus stops",
+      "link": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "score": 11,
+      "author": "surprisetalk",
+      "created": "2026-02-25 16:31:26",
+      "created_at": 1772037086000
+    },
+    {
+      "id": 47153924,
+      "title": "The Misuses of the University",
+      "link": "https://www.publicbooks.org/the-misuses-of-the-university/",
+      "score": 7,
+      "author": "ubasu",
+      "created": "2026-02-25 16:38:40",
+      "created_at": 1772037520000
+    },
+    {
+      "id": 47115574,
+      "title": "How to fold the Blade Runner origami unicorn (1996)",
+      "link": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+      "score": 157,
+      "author": "exvi",
+      "created": "2026-02-22 22:42:12",
+      "created_at": 1771800132000
+    },
+    {
+      "id": 47152982,
+      "title": "GNU Texmacs",
+      "link": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+      "score": 21,
+      "author": "remywang",
+      "created": "2026-02-25 15:37:29",
+      "created_at": 1772033849000
+    },
+    {
+      "id": 47097446,
+      "title": "Topological Naming Problem",
+      "link": "https://wiki.freecad.org/Topological_naming_problem",
+      "score": 23,
+      "author": "tripdout",
+      "created": "2026-02-21 04:16:55",
+      "created_at": 1771647415000
+    },
+    {
+      "id": 47151995,
+      "title": "Show HN: Django Control Room – All Your Tools Inside the Django Admin",
+      "link": "https://github.com/yassi/dj-control-room",
+      "score": 46,
+      "author": "yassi_dev",
+      "created": "2026-02-25 14:31:35",
+      "created_at": 1772029895000
+    },
     {
       "id": 47149701,
       "title": "Danish government agency to ditch Microsoft software (2025)",
       "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "score": 206,
+      "score": 533,
       "author": "robtherobber",
       "created": "2026-02-25 10:16:22",
       "created_at": 1772014582000
@@ -19,73 +82,19 @@
       "id": 47149586,
       "title": "Show HN: A real-time strategy game that AI agents can play",
       "link": "https://llmskirmish.com/",
-      "score": 71,
+      "score": 155,
       "author": "__cayenne__",
       "created": "2026-02-25 10:02:45",
       "created_at": 1772013765000
     },
     {
-      "id": 47139675,
-      "title": "I'm helping my dog vibe code games",
-      "link": "https://www.calebleak.com/posts/dog-game/",
-      "score": 963,
-      "author": "cleak",
-      "created": "2026-02-24 17:15:17",
-      "created_at": 1771953317000
-    },
-    {
-      "id": 47149151,
-      "title": "LLM=True",
-      "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-      "score": 120,
-      "author": "avh3",
-      "created": "2026-02-25 09:05:40",
-      "created_at": 1772010340000
-    },
-    {
-      "id": 47143754,
-      "title": "Pi – A minimal terminal coding harness",
-      "link": "https://pi.dev",
-      "score": 432,
-      "author": "kristianpaul",
-      "created": "2026-02-24 21:53:59",
-      "created_at": 1771970039000
-    },
-    {
-      "id": 47147609,
-      "title": "Turing Completeness of GNU find",
-      "link": "https://arxiv.org/abs/2602.20762",
-      "score": 68,
-      "author": "todsacerdoti",
-      "created": "2026-02-25 05:16:39",
-      "created_at": 1771996599000
-    },
-    {
-      "id": 47144464,
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "score": 252,
-      "author": "fittingopposite",
-      "created": "2026-02-24 22:46:23",
-      "created_at": 1771973183000
-    },
-    {
-      "id": 47143755,
-      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "link": "https://github.com/moonshine-ai/moonshine",
-      "score": 268,
-      "author": "petewarden",
-      "created": "2026-02-24 21:54:07",
-      "created_at": 1771970047000
-    },
-    {
-      "id": 47113946,
-      "title": "Read Locks Are Not Your Friends",
-      "link": "https://eventual-consistency.vercel.app/posts/write-locks-faster",
-      "score": 8,
-      "author": "emschwartz",
-      "created": "2026-02-22 19:40:18",
-      "created_at": 1771789218000
+      "id": 47153941,
+      "title": "Show HN: Sgai – Goal-driven multi-agent software dev (GOAL.md → working code)",
+      "link": "https://github.com/sandgardenhq/sgai",
+      "score": 3,
+      "author": "sandgardenhq",
+      "created": "2026-02-25 16:39:23",
+      "created_at": 1772037563000
     }
   ],
   "code": 200,
