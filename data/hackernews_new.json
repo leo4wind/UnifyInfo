@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-25T01:15:53.015Z"
+    "lastUpdate": "2026-02-25T05:18:47.127Z"
   },
   "data": [
+    {
+      "id": 47147122,
+      "title": "What Happened to Fry's Electronics",
+      "link": "https://dfarq.homeip.net/what-happened-to-frys-electronics/",
+      "score": 34,
+      "author": "jnord",
+      "created": "2026-02-25 03:55:30",
+      "created_at": 1771991730000
+    },
     {
       "id": 47139675,
       "title": "I'm helping my dog vibe code games",
       "link": "https://www.calebleak.com/posts/dog-game/",
-      "score": 585,
+      "score": 746,
       "author": "cleak",
       "created": "2026-02-24 17:15:17",
       "created_at": 1771953317000
@@ -19,7 +28,7 @@
       "id": 47143755,
       "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
       "link": "https://github.com/moonshine-ai/moonshine",
-      "score": 107,
+      "score": 178,
       "author": "petewarden",
       "created": "2026-02-24 21:54:07",
       "created_at": 1771970047000
@@ -28,25 +37,52 @@
       "id": 47143152,
       "title": "Mac mini will be made at a new facility in Houston",
       "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "score": 310,
+      "score": 430,
       "author": "haunter",
       "created": "2026-02-24 21:13:45",
       "created_at": 1771967625000
     },
     {
-      "id": 47144325,
-      "title": "Cell Service for the Fairly Paranoid",
-      "link": "https://www.cape.co/",
-      "score": 54,
-      "author": "0xWTF",
-      "created": "2026-02-24 22:37:54",
-      "created_at": 1771972674000
+      "id": 47144464,
+      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "score": 137,
+      "author": "fittingopposite",
+      "created": "2026-02-24 22:46:23",
+      "created_at": 1771973183000
+    },
+    {
+      "id": 47143754,
+      "title": "Pi – A minimal terminal coding harness",
+      "link": "https://pi.dev",
+      "score": 252,
+      "author": "kristianpaul",
+      "created": "2026-02-24 21:53:59",
+      "created_at": 1771970039000
+    },
+    {
+      "id": 47145907,
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "link": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "score": 247,
+      "author": "toomuchtodo",
+      "created": "2026-02-25 01:00:45",
+      "created_at": 1771981245000
+    },
+    {
+      "id": 47077215,
+      "title": "Justifying Text-Wrap: Pretty",
+      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "score": 69,
+      "author": "surprisetalk",
+      "created": "2026-02-19 18:29:55",
+      "created_at": 1771525795000
     },
     {
       "id": 47141797,
       "title": "Hacking an old Kindle to display bus arrival times",
       "link": "https://www.mariannefeng.com/portfolio/kindle/",
-      "score": 162,
+      "score": 197,
       "author": "mengchengfeng",
       "created": "2026-02-24 19:43:34",
       "created_at": 1771962214000
@@ -55,37 +91,10 @@
       "id": 47140042,
       "title": "Nearby Glasses",
       "link": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "score": 229,
+      "score": 273,
       "author": "zingerlio",
       "created": "2026-02-24 17:40:40",
       "created_at": 1771954840000
-    },
-    {
-      "id": 47144464,
-      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "score": 38,
-      "author": "fittingopposite",
-      "created": "2026-02-24 22:46:23",
-      "created_at": 1771973183000
-    },
-    {
-      "id": 47136604,
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "link": "https://wordglyph.xyz/one-piece-at-a-time",
-      "score": 387,
-      "author": "wordglyph",
-      "created": "2026-02-24 13:03:51",
-      "created_at": 1771938231000
-    },
-    {
-      "id": 47140322,
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "link": "https://github.com/generalaction/emdash",
-      "score": 103,
-      "author": "onecommit",
-      "created": "2026-02-24 18:00:37",
-      "created_at": 1771956037000
     }
   ],
   "code": 200,
