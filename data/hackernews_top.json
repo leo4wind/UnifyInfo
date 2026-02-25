@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-25T08:36:04.539Z"
+    "lastUpdate": "2026-02-25T12:38:56.512Z"
   },
   "data": [
     {
-      "id": 47137013,
-      "title": "Sovereignty in a System Prompt",
-      "link": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
-      "score": 34,
-      "author": "0x5FC3",
-      "created": "2026-02-24 13:38:54",
-      "created_at": 1771940334000
+      "id": 47149701,
+      "title": "Danish government agency to ditch Microsoft software (2025)",
+      "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "score": 206,
+      "author": "robtherobber",
+      "created": "2026-02-25 10:16:22",
+      "created_at": 1772014582000
+    },
+    {
+      "id": 47149586,
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "link": "https://llmskirmish.com/",
+      "score": 71,
+      "author": "__cayenne__",
+      "created": "2026-02-25 10:02:45",
+      "created_at": 1772013765000
     },
     {
       "id": 47139675,
       "title": "I'm helping my dog vibe code games",
       "link": "https://www.calebleak.com/posts/dog-game/",
-      "score": 879,
+      "score": 963,
       "author": "cleak",
       "created": "2026-02-24 17:15:17",
       "created_at": 1771953317000
     },
     {
-      "id": 47110384,
-      "title": "Cl-kawa: Scheme on Java on Common Lisp",
-      "link": "https://github.com/atgreen/cl-kawa",
-      "score": 31,
-      "author": "varjag",
-      "created": "2026-02-22 12:12:39",
-      "created_at": 1771762359000
-    },
-    {
-      "id": 47143755,
-      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "link": "https://github.com/moonshine-ai/moonshine",
-      "score": 230,
-      "author": "petewarden",
-      "created": "2026-02-24 21:54:07",
-      "created_at": 1771970047000
+      "id": 47149151,
+      "title": "LLM=True",
+      "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "score": 120,
+      "author": "avh3",
+      "created": "2026-02-25 09:05:40",
+      "created_at": 1772010340000
     },
     {
       "id": 47143754,
       "title": "Pi – A minimal terminal coding harness",
       "link": "https://pi.dev",
-      "score": 339,
+      "score": 432,
       "author": "kristianpaul",
       "created": "2026-02-24 21:53:59",
       "created_at": 1771970039000
     },
     {
-      "id": 47144464,
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "score": 203,
-      "author": "fittingopposite",
-      "created": "2026-02-24 22:46:23",
-      "created_at": 1771973183000
-    },
-    {
-      "id": 47114165,
-      "title": "Japanese Death Poems",
-      "link": "https://www.secretorum.life/p/japanese-death-poems-part-3",
-      "score": 19,
-      "author": "NaOH",
-      "created": "2026-02-22 20:08:18",
-      "created_at": 1771790898000
-    },
-    {
       "id": 47147609,
-      "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+      "title": "Turing Completeness of GNU find",
       "link": "https://arxiv.org/abs/2602.20762",
-      "score": 18,
+      "score": 68,
       "author": "todsacerdoti",
       "created": "2026-02-25 05:16:39",
       "created_at": 1771996599000
     },
     {
-      "id": 47143152,
-      "title": "Mac mini will be made at a new facility in Houston",
-      "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "score": 493,
-      "author": "haunter",
-      "created": "2026-02-24 21:13:45",
-      "created_at": 1771967625000
+      "id": 47144464,
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "score": 252,
+      "author": "fittingopposite",
+      "created": "2026-02-24 22:46:23",
+      "created_at": 1771973183000
     },
     {
-      "id": 47141797,
-      "title": "Hacking an old Kindle to display bus arrival times",
-      "link": "https://www.mariannefeng.com/portfolio/kindle/",
-      "score": 241,
-      "author": "mengchengfeng",
-      "created": "2026-02-24 19:43:34",
-      "created_at": 1771962214000
+      "id": 47143755,
+      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+      "link": "https://github.com/moonshine-ai/moonshine",
+      "score": 268,
+      "author": "petewarden",
+      "created": "2026-02-24 21:54:07",
+      "created_at": 1771970047000
+    },
+    {
+      "id": 47113946,
+      "title": "Read Locks Are Not Your Friends",
+      "link": "https://eventual-consistency.vercel.app/posts/write-locks-faster",
+      "score": 8,
+      "author": "emschwartz",
+      "created": "2026-02-22 19:40:18",
+      "created_at": 1771789218000
     }
   ],
   "code": 200,
