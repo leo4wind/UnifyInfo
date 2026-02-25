@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-24T20:24:14.830Z"
+    "lastUpdate": "2026-02-25T01:15:52.681Z"
   },
   "data": [
     {
       "id": 47122715,
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "link": "https://spectrum.ieee.org/age-verification",
-      "score": 1627,
+      "score": 1637,
       "author": "oldnetguy",
       "created": "2026-02-23 14:22:39",
       "created_at": 1771856559000
@@ -19,34 +19,43 @@
       "id": 47120899,
       "title": "Ladybird adopts Rust, with help from AI",
       "link": "https://ladybird.org/posts/adopting-rust/",
-      "score": 1236,
+      "score": 1250,
       "author": "adius",
       "created": "2026-02-23 11:29:22",
       "created_at": 1771846162000
     },
     {
-      "id": 47115805,
-      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-      "score": 797,
-      "author": "srigi",
-      "created": "2026-02-22 23:07:55",
-      "created_at": 1771801675000
+      "id": 47136179,
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "link": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "score": 1242,
+      "author": "Qem",
+      "created": "2026-02-24 12:16:45",
+      "created_at": 1771935405000
     },
     {
       "id": 47127081,
       "title": "Americans are destroying Flock surveillance cameras",
       "link": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-      "score": 687,
+      "score": 693,
       "author": "mikece",
       "created": "2026-02-23 19:04:34",
       "created_at": 1771873474000
     },
     {
+      "id": 47139675,
+      "title": "I'm helping my dog vibe code games",
+      "link": "https://www.calebleak.com/posts/dog-game/",
+      "score": 585,
+      "author": "cleak",
+      "created": "2026-02-24 17:15:17",
+      "created_at": 1771953317000
+    },
+    {
       "id": 47119210,
       "title": "Pope tells priests to use their brains, not AI, to write homilies",
       "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-      "score": 565,
+      "score": 568,
       "author": "josephcsible",
       "created": "2026-02-23 07:33:57",
       "created_at": 1771832037000
@@ -55,7 +64,7 @@
       "id": 47119530,
       "title": "Elsevier shuts down its finance journal citation cartel",
       "link": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-      "score": 550,
+      "score": 551,
       "author": "qsi",
       "created": "2026-02-23 08:22:34",
       "created_at": 1771834954000
@@ -64,37 +73,28 @@
       "id": 47127396,
       "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
       "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-      "score": 537,
+      "score": 544,
       "author": "boplicity",
       "created": "2026-02-23 19:23:30",
       "created_at": 1771874610000
     },
     {
-      "id": 47136179,
-      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-      "link": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-      "score": 514,
-      "author": "Qem",
-      "created": "2026-02-24 12:16:45",
-      "created_at": 1771935405000
+      "id": 47120145,
+      "title": "Hetzner Prices increase 30-40%",
+      "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/",
+      "score": 467,
+      "author": "williausrohr",
+      "created": "2026-02-23 09:52:14",
+      "created_at": 1771840334000
     },
     {
-      "id": 47114530,
-      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-      "link": "https://cia-factbook-archive.fly.dev/",
-      "score": 484,
-      "author": "MilkMp",
-      "created": "2026-02-22 20:50:23",
-      "created_at": 1771793423000
-    },
-    {
-      "id": 47121029,
-      "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
-      "link": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
-      "score": 454,
-      "author": "doener",
-      "created": "2026-02-23 11:44:10",
-      "created_at": 1771847050000
+      "id": 47123689,
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "link": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "score": 466,
+      "author": "gurjeet",
+      "created": "2026-02-23 15:36:50",
+      "created_at": 1771861010000
     }
   ],
   "code": 200,
