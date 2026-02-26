@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-26T08:34:21.936Z"
+    "lastUpdate": "2026-02-26T12:39:15.165Z"
   },
   "data": [
     {
       "id": 47136179,
       "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
       "link": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-      "score": 2039,
+      "score": 2054,
       "author": "Qem",
       "created": "2026-02-24 12:16:45",
       "created_at": 1771935405000
@@ -19,7 +19,7 @@
       "id": 47139675,
       "title": "I'm helping my dog vibe code games",
       "link": "https://www.calebleak.com/posts/dog-game/",
-      "score": 1090,
+      "score": 1094,
       "author": "cleak",
       "created": "2026-02-24 17:15:17",
       "created_at": 1771953317000
@@ -28,16 +28,25 @@
       "id": 47149701,
       "title": "Danish government agency to ditch Microsoft software (2025)",
       "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "score": 769,
+      "score": 804,
       "author": "robtherobber",
       "created": "2026-02-25 10:16:22",
       "created_at": 1772014582000
     },
     {
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 795,
+      "author": "hiisthisthingon",
+      "created": "2026-02-25 19:54:14",
+      "created_at": 1772049254000
+    },
+    {
       "id": 47151233,
       "title": "Never buy a .online domain",
       "link": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "score": 718,
+      "score": 735,
       "author": "ssiddharth",
       "created": "2026-02-25 13:31:17",
       "created_at": 1772026277000
@@ -46,7 +55,7 @@
       "id": 47145907,
       "title": "Amazon accused of widespread scheme to inflate prices across the economy",
       "link": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
-      "score": 669,
+      "score": 673,
       "author": "toomuchtodo",
       "created": "2026-02-25 01:00:45",
       "created_at": 1771981245000
@@ -55,7 +64,7 @@
       "id": 47152085,
       "title": "New accounts on HN more likely to use em-dashes",
       "link": "https://www.marginalia.nu/weird-ai-crap/hn/",
-      "score": 653,
+      "score": 671,
       "author": "todsacerdoti",
       "created": "2026-02-25 14:37:21",
       "created_at": 1772030241000
@@ -73,7 +82,7 @@
       "id": 47145963,
       "title": "Anthropic Drops Flagship Safety Pledge",
       "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-      "score": 625,
+      "score": 635,
       "author": "cwwc",
       "created": "2026-02-25 01:08:46",
       "created_at": 1771981726000
@@ -86,15 +95,6 @@
       "author": "haunter",
       "created": "2026-02-24 21:13:45",
       "created_at": 1771967625000
-    },
-    {
-      "id": 47143754,
-      "title": "Pi – A minimal terminal coding harness",
-      "link": "https://pi.dev",
-      "score": 573,
-      "author": "kristianpaul",
-      "created": "2026-02-24 21:53:59",
-      "created_at": 1771970039000
     }
   ],
   "code": 200,
