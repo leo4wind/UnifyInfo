@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-26T16:45:08.545Z"
+    "lastUpdate": "2026-02-26T20:25:50.153Z"
   },
   "data": [
     {
-      "id": 47167858,
-      "title": "Nano Banana 2: Google's latest AI image generation model",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 87,
-      "author": "davidbarker",
-      "created": "2026-02-26 16:02:37",
-      "created_at": 1772121757000
-    },
-    {
       "id": 47167763,
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-      "score": 60,
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "score": 245,
       "author": "DamnInteresting",
       "created": "2026-02-26 15:55:48",
       "created_at": 1772121348000
     },
     {
-      "id": 47167733,
-      "title": "Why Developers Keep Choosing Claude over Every Other AI",
-      "link": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
-      "score": 24,
-      "author": "gmays",
-      "created": "2026-02-26 15:53:30",
-      "created_at": 1772121210000
+      "id": 47170174,
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "link": "https://www.usecardboard.com/",
+      "score": 30,
+      "author": "sxmawl",
+      "created": "2026-02-26 18:38:38",
+      "created_at": 1772131118000
     },
     {
-      "id": 47164270,
-      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "link": "https://gitlab.com/here_forawhile/terminalphone",
-      "score": 202,
-      "author": "smalltorch",
-      "created": "2026-02-26 10:40:45",
-      "created_at": 1772102445000
+      "id": 47128645,
+      "title": "I baked a pie every day for a year and it changed my life",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "score": 112,
+      "author": "NaOH",
+      "created": "2026-02-23 20:54:34",
+      "created_at": 1771880074000
     },
     {
-      "id": 47165397,
-      "title": "Anthropic ditches its core safety promise",
-      "link": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "score": 400,
-      "author": "motbus3",
-      "created": "2026-02-26 12:52:50",
-      "created_at": 1772110370000
+      "id": 47167931,
+      "title": "Will vibe coding end like the maker movement?",
+      "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "score": 138,
+      "author": "itunpredictable",
+      "created": "2026-02-26 16:07:11",
+      "created_at": 1772122031000
     },
     {
-      "id": 47156925,
-      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 1005,
-      "author": "hiisthisthingon",
-      "created": "2026-02-25 19:54:14",
-      "created_at": 1772049254000
+      "id": 47168726,
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "link": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "score": 88,
+      "author": "spiffytech",
+      "created": "2026-02-26 17:01:05",
+      "created_at": 1772125265000
     },
     {
-      "id": 47166264,
-      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-      "link": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
-      "score": 27,
-      "author": "jasonpeacock",
-      "created": "2026-02-26 14:05:46",
-      "created_at": 1772114746000
+      "id": 47170299,
+      "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
+      "link": "https://github.com/jayu/rev-dep",
+      "score": 22,
+      "author": "jayu_dev",
+      "created": "2026-02-26 18:47:27",
+      "created_at": 1772131647000
     },
     {
-      "id": 47165648,
-      "title": "just-bash: Bash for Agents",
-      "link": "https://github.com/vercel-labs/just-bash",
-      "score": 36,
-      "author": "tosh",
-      "created": "2026-02-26 13:16:30",
-      "created_at": 1772111790000
+      "id": 47141119,
+      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "link": "https://hackersmacker.org",
+      "score": 53,
+      "author": "conesus",
+      "created": "2026-02-24 19:00:16",
+      "created_at": 1771959616000
     },
     {
-      "id": 47163885,
-      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-      "link": "",
-      "score": 371,
-      "author": "miki123211",
-      "created": "2026-02-26 09:35:08",
-      "created_at": 1772098508000
+      "id": 47169757,
+      "title": "What Claude Code Chooses",
+      "link": "https://amplifying.ai/research/claude-code-picks",
+      "score": 31,
+      "author": "tin7in",
+      "created": "2026-02-26 18:12:26",
+      "created_at": 1772129546000
     },
     {
-      "id": 47157224,
-      "title": "Jimi Hendrix was a systems engineer",
-      "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 590,
-      "author": "tintinnabula",
-      "created": "2026-02-25 20:16:47",
-      "created_at": 1772050607000
+      "id": 47167858,
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "score": 369,
+      "author": "davidbarker",
+      "created": "2026-02-26 16:02:37",
+      "created_at": 1772121757000
+    },
+    {
+      "id": 47169518,
+      "title": "Show HN: Deff – side-by-side Git diff review in your terminal",
+      "link": "https://github.com/flamestro/deff",
+      "score": 34,
+      "author": "flamestro",
+      "created": "2026-02-26 17:54:06",
+      "created_at": 1772128446000
     }
   ],
   "code": 200,
