@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-26T01:09:28.145Z"
+    "lastUpdate": "2026-02-26T05:15:25.554Z"
   },
   "data": [
+    {
+      "id": 47156925,
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 163,
+      "author": "hiisthisthingon",
+      "created": "2026-02-25 19:54:14",
+      "created_at": 1772049254000
+    },
     {
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 274,
+      "score": 387,
       "author": "tintinnabula",
       "created": "2026-02-25 20:16:47",
       "created_at": 1772050607000
     },
     {
       "id": 47159302,
-      "title": "First Website",
+      "title": "First Website (1992)",
       "link": "https://info.cern.ch",
-      "score": 61,
+      "score": 159,
       "author": "shrikaranhanda",
       "created": "2026-02-25 23:02:58",
       "created_at": 1772060578000
     },
     {
+      "id": 47161160,
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "score": 123,
+      "author": "jnord",
+      "created": "2026-02-26 02:43:26",
+      "created_at": 1772073806000
+    },
+    {
+      "id": 47158975,
+      "title": "How will OpenAI compete?",
+      "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "score": 113,
+      "author": "iamskeole",
+      "created": "2026-02-25 22:29:25",
+      "created_at": 1772058565000
+    },
+    {
+      "id": 47108861,
+      "title": "The Pleasures and Pains of Coffee (1830)",
+      "link": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+      "score": 27,
+      "author": "jxmorris12",
+      "created": "2026-02-22 06:50:39",
+      "created_at": 1771743039000
+    },
+    {
+      "id": 47105175,
+      "title": "Gauss's Weekday Algorithm, Visualized",
+      "link": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
+      "score": 19,
+      "author": "lukasmetzner",
+      "created": "2026-02-21 21:49:23",
+      "created_at": 1771710563000
+    },
+    {
+      "id": 47112299,
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "link": "https://simonbergerart.com",
+      "score": 94,
+      "author": "cs702",
+      "created": "2026-02-22 16:25:48",
+      "created_at": 1771777548000
+    },
+    {
       "id": 47157398,
       "title": "Making MCP cheaper via CLI",
       "link": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "score": 110,
+      "score": 163,
       "author": "thellimist",
       "created": "2026-02-25 20:29:37",
       "created_at": 1772051377000
     },
     {
-      "id": 47159364,
-      "title": "Origin of the rule that swap size should be 2x of the physical memory",
-      "link": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
-      "score": 21,
-      "author": "SeenNotHeard",
-      "created": "2026-02-25 23:09:33",
-      "created_at": 1772060973000
-    },
-    {
-      "id": 47153798,
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "link": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "score": 291,
-      "author": "surprisetalk",
-      "created": "2026-02-25 16:31:26",
-      "created_at": 1772037086000
-    },
-    {
       "id": 47154399,
       "title": "Windows 11 Notepad to support Markdown",
       "link": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "score": 172,
+      "score": 238,
       "author": "andreynering",
       "created": "2026-02-25 17:14:19",
       "created_at": 1772039659000
-    },
-    {
-      "id": 47154971,
-      "title": "The Om Programming Language",
-      "link": "https://www.om-language.com/",
-      "score": 226,
-      "author": "tosh",
-      "created": "2026-02-25 17:48:21",
-      "created_at": 1772041701000
-    },
-    {
-      "id": 47151842,
-      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
-      "link": "https://respectify.org/",
-      "score": 84,
-      "author": "vintagedave",
-      "created": "2026-02-25 14:21:19",
-      "created_at": 1772029279000
-    },
-    {
-      "id": 47139716,
-      "title": "Large-Scale Online Deanonymization with LLMs",
-      "link": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "score": 185,
-      "author": "DalasNoin",
-      "created": "2026-02-24 17:18:17",
-      "created_at": 1771953497000
-    },
-    {
-      "id": 47135542,
-      "title": "The Hydrogen Truck Problem Isn't the Truck",
-      "link": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
-      "score": 19,
-      "author": "mikeayles",
-      "created": "2026-02-24 10:58:29",
-      "created_at": 1771930709000
     }
   ],
   "code": 200,
