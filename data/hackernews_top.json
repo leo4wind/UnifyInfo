@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-27T05:10:12.263Z"
+    "lastUpdate": "2026-02-27T08:30:15.744Z"
   },
   "data": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1312,
+      "score": 1721,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
     },
     {
       "id": 47176257,
-      "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+      "title": "The Hunt for Dark Breakfast",
       "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 68,
+      "score": 181,
       "author": "moultano",
       "created": "2026-02-27 03:49:48",
       "created_at": 1772164188000
     },
     {
-      "id": 47175931,
-      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-      "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-      "score": 153,
-      "author": "mikece",
-      "created": "2026-02-27 03:08:09",
-      "created_at": 1772161689000
+      "id": 47177186,
+      "title": "The normalization of corruption in organizations (2003) [pdf]",
+      "link": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
+      "score": 16,
+      "author": "rendx",
+      "created": "2026-02-27 06:21:23",
+      "created_at": 1772173283000
+    },
+    {
+      "id": 47123633,
+      "title": "Julia: Performance Tips",
+      "link": "https://docs.julialang.org/en/v1/manual/performance-tips/",
+      "score": 30,
+      "author": "tosh",
+      "created": "2026-02-23 15:33:33",
+      "created_at": 1771860813000
     },
     {
       "id": 47169757,
-      "title": "What Claude Code Chooses",
+      "title": "What Claude Code chooses",
       "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 315,
+      "score": 390,
       "author": "tin7in",
       "created": "2026-02-26 18:12:26",
       "created_at": 1772129546000
     },
     {
+      "id": 47138698,
+      "title": "80386 Protection",
+      "link": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "score": 46,
+      "author": "nand2mario",
+      "created": "2026-02-24 15:56:32",
+      "created_at": 1771948592000
+    },
+    {
       "id": 47172119,
       "title": "Layoffs at Block",
       "link": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 598,
+      "score": 685,
       "author": "mlex",
       "created": "2026-02-26 21:17:56",
       "created_at": 1772140676000
     },
     {
-      "id": 47161889,
-      "title": "Move tests to closed source repo",
-      "link": "https://github.com/tldraw/tldraw/issues/8082",
-      "score": 21,
-      "author": "nilsbunger",
-      "created": "2026-02-26 04:34:26",
-      "created_at": 1772080466000
-    },
-    {
-      "id": 47167931,
-      "title": "Will vibe coding end like the maker movement?",
-      "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-      "score": 351,
-      "author": "itunpredictable",
-      "created": "2026-02-26 16:07:11",
-      "created_at": 1772122031000
-    },
-    {
       "id": 47167763,
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 334,
+      "score": 351,
       "author": "DamnInteresting",
       "created": "2026-02-26 15:55:48",
       "created_at": 1772121348000
     },
     {
-      "id": 47176239,
-      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "link": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 12,
-      "author": "noahkay13",
-      "created": "2026-02-27 03:48:05",
-      "created_at": 1772164085000
-    },
-    {
       "id": 47171233,
       "title": "What does \" 2>&1 \" mean?",
       "link": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 190,
+      "score": 262,
       "author": "alexmolas",
       "created": "2026-02-26 19:58:46",
       "created_at": 1772135926000
+    },
+    {
+      "id": 47176239,
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "link": "https://github.com/Frikallo/parakeet.cpp",
+      "score": 41,
+      "author": "noahkay13",
+      "created": "2026-02-27 03:48:05",
+      "created_at": 1772164085000
     }
   ],
   "code": 200,

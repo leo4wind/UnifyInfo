@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-27T05:10:12.120Z"
+    "lastUpdate": "2026-02-27T08:30:15.587Z"
   },
   "data": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1312,
+      "score": 1721,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
@@ -19,7 +19,7 @@
       "id": 47156925,
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
       "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 1222,
+      "score": 1232,
       "author": "hiisthisthingon",
       "created": "2026-02-25 19:54:14",
       "created_at": 1772049254000
@@ -28,7 +28,7 @@
       "id": 47149701,
       "title": "Danish government agency to ditch Microsoft software (2025)",
       "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "score": 827,
+      "score": 828,
       "author": "robtherobber",
       "created": "2026-02-25 10:16:22",
       "created_at": 1772014582000
@@ -37,7 +37,7 @@
       "id": 47151233,
       "title": "Never buy a .online domain",
       "link": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "score": 767,
+      "score": 768,
       "author": "ssiddharth",
       "created": "2026-02-25 13:31:17",
       "created_at": 1772026277000
@@ -46,16 +46,25 @@
       "id": 47152085,
       "title": "New accounts on HN more likely to use em-dashes",
       "link": "https://www.marginalia.nu/weird-ai-crap/hn/",
-      "score": 701,
+      "score": 702,
       "author": "todsacerdoti",
       "created": "2026-02-25 14:37:21",
       "created_at": 1772030241000
     },
     {
+      "id": 47172119,
+      "title": "Layoffs at Block",
+      "link": "https://twitter.com/jack/status/2027129697092731343",
+      "score": 685,
+      "author": "mlex",
+      "created": "2026-02-26 21:17:56",
+      "created_at": 1772140676000
+    },
+    {
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 652,
+      "score": 655,
       "author": "tintinnabula",
       "created": "2026-02-25 20:16:47",
       "created_at": 1772050607000
@@ -64,37 +73,28 @@
       "id": 47163885,
       "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
       "link": "",
-      "score": 613,
+      "score": 628,
       "author": "miki123211",
       "created": "2026-02-26 09:35:08",
       "created_at": 1772098508000
     },
     {
-      "id": 47172119,
-      "title": "Layoffs at Block",
-      "link": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 598,
-      "author": "mlex",
-      "created": "2026-02-26 21:17:56",
-      "created_at": 1772140676000
-    },
-    {
       "id": 47159430,
       "title": "Banned in California",
       "link": "https://www.bannedincalifornia.org/",
-      "score": 575,
+      "score": 583,
       "author": "pie_flavor",
       "created": "2026-02-25 23:16:40",
       "created_at": 1772061400000
     },
     {
-      "id": 47165397,
-      "title": "Anthropic ditches its core safety promise",
-      "link": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "score": 547,
-      "author": "motbus3",
-      "created": "2026-02-26 12:52:50",
-      "created_at": 1772110370000
+      "id": 47167858,
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "score": 560,
+      "author": "davidbarker",
+      "created": "2026-02-26 16:02:37",
+      "created_at": 1772121757000
     }
   ],
   "code": 200,
