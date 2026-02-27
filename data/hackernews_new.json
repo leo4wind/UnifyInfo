@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-27T12:34:20.689Z"
+    "lastUpdate": "2026-02-27T16:29:06.670Z"
   },
   "data": [
+    {
+      "id": 47180569,
+      "title": "We deserve a better streams API for JavaScript",
+      "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "score": 128,
+      "author": "nnx",
+      "created": "2026-02-27 14:02:53",
+      "created_at": 1772200973000
+    },
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 2103,
+      "score": 2559,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
     },
     {
+      "id": 47181801,
+      "title": "We gave terabytes of CI logs to an LLM",
+      "link": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "score": 17,
+      "author": "shad42",
+      "created": "2026-02-27 15:41:13",
+      "created_at": 1772206873000
+    },
+    {
+      "id": 47181471,
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "link": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "score": 31,
+      "author": "jimminyx",
+      "created": "2026-02-27 15:14:42",
+      "created_at": 1772205282000
+    },
+    {
       "id": 47146487,
       "title": "Can you reverse engineer our neural network?",
       "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "score": 59,
+      "score": 181,
       "author": "jsomers",
       "created": "2026-02-25 02:20:13",
       "created_at": 1771986013000
     },
     {
+      "id": 47181391,
+      "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
+      "link": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "score": 96,
+      "author": "hn_acker",
+      "created": "2026-02-27 15:09:04",
+      "created_at": 1772204944000
+    },
+    {
+      "id": 47180083,
+      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+      "link": "https://retrotick.com/",
+      "score": 76,
+      "author": "lqs_",
+      "created": "2026-02-27 13:06:50",
+      "created_at": 1772197610000
+    },
+    {
       "id": 47178863,
       "title": "F-Droid Board of Directors nominations 2026",
       "link": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-      "score": 42,
+      "score": 106,
       "author": "edent",
       "created": "2026-02-27 10:27:29",
       "created_at": 1772188049000
     },
     {
-      "id": 47178836,
-      "title": "Dyson settles forced labour suit in landmark UK case",
-      "link": "https://www.bbc.com/news/articles/cddnry8dnl7o",
-      "score": 52,
-      "author": "cmsefton",
-      "created": "2026-02-27 10:21:40",
-      "created_at": 1772187700000
-    },
-    {
-      "id": 47177186,
-      "title": "The normalization of corruption in organizations (2003) [pdf]",
-      "link": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "score": 105,
-      "author": "rendx",
-      "created": "2026-02-27 06:21:23",
-      "created_at": 1772173283000
-    },
-    {
-      "id": 47176257,
-      "title": "The Hunt for Dark Breakfast",
-      "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 281,
-      "author": "moultano",
-      "created": "2026-02-27 03:49:48",
-      "created_at": 1772164188000
+      "id": 47181380,
+      "title": "The Pentagon is making a mistake by threatening Anthropic",
+      "link": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+      "score": 11,
+      "author": "speckx",
+      "created": "2026-02-27 15:08:29",
+      "created_at": 1772204909000
     },
     {
       "id": 47139911,
       "title": "An interactive intro to quadtrees",
       "link": "https://growingswe.com/blog/quadtrees",
-      "score": 41,
+      "score": 130,
       "author": "evakhoury",
       "created": "2026-02-24 17:31:05",
       "created_at": 1771954265000
-    },
-    {
-      "id": 47178678,
-      "title": "Breaking Free",
-      "link": "https://www.forbrukerradet.no/breakingfree/",
-      "score": 19,
-      "author": "Aissen",
-      "created": "2026-02-27 09:56:42",
-      "created_at": 1772186202000
-    },
-    {
-      "id": 47131980,
-      "title": "Reading English from 1000 Ad",
-      "link": "https://lewiscampbell.tech/blog/260224.html",
-      "score": 11,
-      "author": "LAC-Tech",
-      "created": "2026-02-24 02:06:50",
-      "created_at": 1771898810000
-    },
-    {
-      "id": 47169757,
-      "title": "What Claude Code chooses",
-      "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 463,
-      "author": "tin7in",
-      "created": "2026-02-26 18:12:26",
-      "created_at": 1772129546000
     }
   ],
   "code": 200,
