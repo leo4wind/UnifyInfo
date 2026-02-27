@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-27T08:30:15.744Z"
+    "lastUpdate": "2026-02-27T12:34:20.451Z"
   },
   "data": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1721,
+      "score": 2103,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
     },
     {
-      "id": 47176257,
-      "title": "The Hunt for Dark Breakfast",
-      "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 181,
-      "author": "moultano",
-      "created": "2026-02-27 03:49:48",
-      "created_at": 1772164188000
+      "id": 47146487,
+      "title": "Can you reverse engineer our neural network?",
+      "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "score": 59,
+      "author": "jsomers",
+      "created": "2026-02-25 02:20:13",
+      "created_at": 1771986013000
+    },
+    {
+      "id": 47178863,
+      "title": "F-Droid Board of Directors nominations 2026",
+      "link": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+      "score": 42,
+      "author": "edent",
+      "created": "2026-02-27 10:27:29",
+      "created_at": 1772188049000
+    },
+    {
+      "id": 47178836,
+      "title": "Dyson settles forced labour suit in landmark UK case",
+      "link": "https://www.bbc.com/news/articles/cddnry8dnl7o",
+      "score": 52,
+      "author": "cmsefton",
+      "created": "2026-02-27 10:21:40",
+      "created_at": 1772187700000
     },
     {
       "id": 47177186,
       "title": "The normalization of corruption in organizations (2003) [pdf]",
       "link": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "score": 16,
+      "score": 105,
       "author": "rendx",
       "created": "2026-02-27 06:21:23",
       "created_at": 1772173283000
     },
     {
-      "id": 47123633,
-      "title": "Julia: Performance Tips",
-      "link": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-      "score": 30,
-      "author": "tosh",
-      "created": "2026-02-23 15:33:33",
-      "created_at": 1771860813000
+      "id": 47176257,
+      "title": "The Hunt for Dark Breakfast",
+      "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "score": 281,
+      "author": "moultano",
+      "created": "2026-02-27 03:49:48",
+      "created_at": 1772164188000
+    },
+    {
+      "id": 47139911,
+      "title": "An interactive intro to quadtrees",
+      "link": "https://growingswe.com/blog/quadtrees",
+      "score": 41,
+      "author": "evakhoury",
+      "created": "2026-02-24 17:31:05",
+      "created_at": 1771954265000
+    },
+    {
+      "id": 47178678,
+      "title": "Breaking Free",
+      "link": "https://www.forbrukerradet.no/breakingfree/",
+      "score": 19,
+      "author": "Aissen",
+      "created": "2026-02-27 09:56:42",
+      "created_at": 1772186202000
+    },
+    {
+      "id": 47131980,
+      "title": "Reading English from 1000 Ad",
+      "link": "https://lewiscampbell.tech/blog/260224.html",
+      "score": 11,
+      "author": "LAC-Tech",
+      "created": "2026-02-24 02:06:50",
+      "created_at": 1771898810000
     },
     {
       "id": 47169757,
       "title": "What Claude Code chooses",
       "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 390,
+      "score": 463,
       "author": "tin7in",
       "created": "2026-02-26 18:12:26",
       "created_at": 1772129546000
-    },
-    {
-      "id": 47138698,
-      "title": "80386 Protection",
-      "link": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 46,
-      "author": "nand2mario",
-      "created": "2026-02-24 15:56:32",
-      "created_at": 1771948592000
-    },
-    {
-      "id": 47172119,
-      "title": "Layoffs at Block",
-      "link": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 685,
-      "author": "mlex",
-      "created": "2026-02-26 21:17:56",
-      "created_at": 1772140676000
-    },
-    {
-      "id": 47167763,
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 351,
-      "author": "DamnInteresting",
-      "created": "2026-02-26 15:55:48",
-      "created_at": 1772121348000
-    },
-    {
-      "id": 47171233,
-      "title": "What does \" 2>&1 \" mean?",
-      "link": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 262,
-      "author": "alexmolas",
-      "created": "2026-02-26 19:58:46",
-      "created_at": 1772135926000
-    },
-    {
-      "id": 47176239,
-      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "link": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 41,
-      "author": "noahkay13",
-      "created": "2026-02-27 03:48:05",
-      "created_at": 1772164085000
     }
   ],
   "code": 200,
