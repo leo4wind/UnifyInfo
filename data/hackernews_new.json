@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-27T16:29:06.670Z"
+    "lastUpdate": "2026-02-27T20:18:27.112Z"
   },
   "data": [
     {
+      "id": 47184744,
+      "title": "The Robotic Dexterity Deadlock",
+      "link": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
+      "score": 18,
+      "author": "shmublu",
+      "created": "2026-02-27 19:51:33",
+      "created_at": 1772221893000
+    },
+    {
       "id": 47180569,
-      "title": "We deserve a better streams API for JavaScript",
+      "title": "A better streams API is possible for JavaScript",
       "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "score": 128,
+      "score": 289,
       "author": "nnx",
       "created": "2026-02-27 14:02:53",
       "created_at": 1772200973000
     },
     {
-      "id": 47173121,
-      "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 2559,
-      "author": "qwertox",
-      "created": "2026-02-26 22:42:47",
-      "created_at": 1772145767000
+      "id": 47183725,
+      "title": "Writing a Guide to SDF Fonts",
+      "link": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+      "score": 26,
+      "author": "chunkles",
+      "created": "2026-02-27 18:24:09",
+      "created_at": 1772216649000
     },
     {
-      "id": 47181801,
-      "title": "We gave terabytes of CI logs to an LLM",
-      "link": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "score": 17,
-      "author": "shad42",
-      "created": "2026-02-27 15:41:13",
-      "created_at": 1772206873000
+      "id": 47181211,
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "score": 77,
+      "author": "zlatkov",
+      "created": "2026-02-27 14:56:05",
+      "created_at": 1772204165000
     },
     {
-      "id": 47181471,
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "link": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-      "score": 31,
-      "author": "jimminyx",
-      "created": "2026-02-27 15:14:42",
-      "created_at": 1772205282000
+      "id": 47184049,
+      "title": "Let's discuss sandbox isolation",
+      "link": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+      "score": 20,
+      "author": "shayonj",
+      "created": "2026-02-27 18:49:50",
+      "created_at": 1772218190000
     },
     {
-      "id": 47146487,
-      "title": "Can you reverse engineer our neural network?",
-      "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-      "score": 181,
-      "author": "jsomers",
-      "created": "2026-02-25 02:20:13",
-      "created_at": 1771986013000
+      "id": 47183578,
+      "title": "Dan Simmons, author of Hyperion, has died",
+      "link": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+      "score": 208,
+      "author": "throw0101a",
+      "created": "2026-02-27 18:13:39",
+      "created_at": 1772216019000
     },
     {
-      "id": 47181391,
-      "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
-      "link": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "score": 96,
-      "author": "hn_acker",
-      "created": "2026-02-27 15:09:04",
-      "created_at": 1772204944000
+      "id": 47182487,
+      "title": "Allocating on the Stack",
+      "link": "https://go.dev/blog/allocation-optimizations",
+      "score": 75,
+      "author": "spacey",
+      "created": "2026-02-27 16:34:05",
+      "created_at": 1772210045000
     },
     {
-      "id": 47180083,
-      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-      "link": "https://retrotick.com/",
-      "score": 76,
-      "author": "lqs_",
-      "created": "2026-02-27 13:06:50",
-      "created_at": 1772197610000
+      "id": 47181316,
+      "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
+      "link": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+      "score": 18,
+      "author": "gregpr07",
+      "created": "2026-02-27 15:03:12",
+      "created_at": 1772204592000
     },
     {
-      "id": 47178863,
-      "title": "F-Droid Board of Directors nominations 2026",
-      "link": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-      "score": 106,
-      "author": "edent",
-      "created": "2026-02-27 10:27:29",
-      "created_at": 1772188049000
-    },
-    {
-      "id": 47181380,
-      "title": "The Pentagon is making a mistake by threatening Anthropic",
-      "link": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-      "score": 11,
-      "author": "speckx",
-      "created": "2026-02-27 15:08:29",
-      "created_at": 1772204909000
-    },
-    {
-      "id": 47139911,
-      "title": "An interactive intro to quadtrees",
-      "link": "https://growingswe.com/blog/quadtrees",
-      "score": 130,
-      "author": "evakhoury",
-      "created": "2026-02-24 17:31:05",
-      "created_at": 1771954265000
+      "id": 47137199,
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "link": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "score": 48,
+      "author": "ibobev",
+      "created": "2026-02-24 13:54:21",
+      "created_at": 1771941261000
     }
   ],
   "code": 200,
