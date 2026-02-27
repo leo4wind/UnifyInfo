@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-02-26T20:25:50.153Z"
+    "lastUpdate": "2026-02-27T01:08:17.687Z"
   },
   "data": [
+    {
+      "id": 47173121,
+      "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "score": 646,
+      "author": "qwertox",
+      "created": "2026-02-26 22:42:47",
+      "created_at": 1772145767000
+    },
+    {
+      "id": 47172119,
+      "title": "Layoffs at Block",
+      "link": "https://twitter.com/jack/status/2027129697092731343",
+      "score": 371,
+      "author": "mlex",
+      "created": "2026-02-26 21:17:56",
+      "created_at": 1772140676000
+    },
     {
       "id": 47167763,
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 245,
+      "score": 315,
       "author": "DamnInteresting",
       "created": "2026-02-26 15:55:48",
       "created_at": 1772121348000
     },
     {
-      "id": 47170174,
-      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-      "link": "https://www.usecardboard.com/",
-      "score": 30,
-      "author": "sxmawl",
-      "created": "2026-02-26 18:38:38",
-      "created_at": 1772131118000
-    },
-    {
-      "id": 47128645,
-      "title": "I baked a pie every day for a year and it changed my life",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
-      "score": 112,
-      "author": "NaOH",
-      "created": "2026-02-23 20:54:34",
-      "created_at": 1771880074000
-    },
-    {
       "id": 47167931,
       "title": "Will vibe coding end like the maker movement?",
       "link": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-      "score": 138,
+      "score": 302,
       "author": "itunpredictable",
       "created": "2026-02-26 16:07:11",
       "created_at": 1772122031000
     },
     {
-      "id": 47168726,
-      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
-      "link": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
-      "score": 88,
-      "author": "spiffytech",
-      "created": "2026-02-26 17:01:05",
-      "created_at": 1772125265000
-    },
-    {
-      "id": 47170299,
-      "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
-      "link": "https://github.com/jayu/rev-dep",
-      "score": 22,
-      "author": "jayu_dev",
-      "created": "2026-02-26 18:47:27",
-      "created_at": 1772131647000
-    },
-    {
-      "id": 47141119,
-      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
-      "link": "https://hackersmacker.org",
-      "score": 53,
-      "author": "conesus",
-      "created": "2026-02-24 19:00:16",
-      "created_at": 1771959616000
-    },
-    {
       "id": 47169757,
       "title": "What Claude Code Chooses",
       "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 31,
+      "score": 220,
       "author": "tin7in",
       "created": "2026-02-26 18:12:26",
       "created_at": 1772129546000
     },
     {
-      "id": 47167858,
-      "title": "Nano Banana 2: Google's latest AI image generation model",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 369,
-      "author": "davidbarker",
-      "created": "2026-02-26 16:02:37",
-      "created_at": 1772121757000
+      "id": 47171233,
+      "title": "What does \" 2>&1 \" mean?",
+      "link": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "score": 104,
+      "author": "alexmolas",
+      "created": "2026-02-26 19:58:46",
+      "created_at": 1772135926000
     },
     {
-      "id": 47169518,
-      "title": "Show HN: Deff – side-by-side Git diff review in your terminal",
-      "link": "https://github.com/flamestro/deff",
-      "score": 34,
-      "author": "flamestro",
-      "created": "2026-02-26 17:54:06",
-      "created_at": 1772128446000
+      "id": 47172730,
+      "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+      "link": "https://coderush.me/hydroph0bia-part3/",
+      "score": 27,
+      "author": "transpute",
+      "created": "2026-02-26 22:14:11",
+      "created_at": 1772144051000
+    },
+    {
+      "id": 47124454,
+      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+      "link": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+      "score": 15,
+      "author": "vinhnx",
+      "created": "2026-02-23 16:23:01",
+      "created_at": 1771863781000
+    },
+    {
+      "id": 47170174,
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "link": "https://www.usecardboard.com/",
+      "score": 93,
+      "author": "sxmawl",
+      "created": "2026-02-26 18:38:38",
+      "created_at": 1772131118000
+    },
+    {
+      "id": 47172664,
+      "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+      "link": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "score": 145,
+      "author": "littlexsparkee",
+      "created": "2026-02-26 22:09:45",
+      "created_at": 1772143785000
     }
   ],
   "code": 200,

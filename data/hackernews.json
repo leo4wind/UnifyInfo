@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-26T20:25:49.887Z"
+    "lastUpdate": "2026-02-27T01:08:17.140Z"
   },
   "data": [
     {
       "id": 47156925,
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
       "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "score": 1134,
+      "score": 1200,
       "author": "hiisthisthingon",
       "created": "2026-02-25 19:54:14",
       "created_at": 1772049254000
@@ -19,7 +19,7 @@
       "id": 47149701,
       "title": "Danish government agency to ditch Microsoft software (2025)",
       "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
-      "score": 819,
+      "score": 824,
       "author": "robtherobber",
       "created": "2026-02-25 10:16:22",
       "created_at": 1772014582000
@@ -28,34 +28,34 @@
       "id": 47151233,
       "title": "Never buy a .online domain",
       "link": "https://www.0xsid.com/blog/online-tld-is-pain",
-      "score": 758,
+      "score": 762,
       "author": "ssiddharth",
       "created": "2026-02-25 13:31:17",
       "created_at": 1772026277000
     },
     {
-      "id": 47152085,
-      "title": "New accounts on HN more likely to use em-dashes",
-      "link": "https://www.marginalia.nu/weird-ai-crap/hn/",
-      "score": 693,
-      "author": "todsacerdoti",
-      "created": "2026-02-25 14:37:21",
-      "created_at": 1772030241000
-    },
-    {
       "id": 47145963,
       "title": "Anthropic drops flagship safety pledge",
       "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-      "score": 687,
+      "score": 700,
       "author": "cwwc",
       "created": "2026-02-25 01:08:46",
       "created_at": 1771981726000
     },
     {
+      "id": 47152085,
+      "title": "New accounts on HN more likely to use em-dashes",
+      "link": "https://www.marginalia.nu/weird-ai-crap/hn/",
+      "score": 698,
+      "author": "todsacerdoti",
+      "created": "2026-02-25 14:37:21",
+      "created_at": 1772030241000
+    },
+    {
       "id": 47145907,
       "title": "Amazon accused of widespread scheme to inflate prices across the economy",
       "link": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
-      "score": 680,
+      "score": 683,
       "author": "toomuchtodo",
       "created": "2026-02-25 01:00:45",
       "created_at": 1771981245000
@@ -64,37 +64,37 @@
       "id": 47157224,
       "title": "Jimi Hendrix was a systems engineer",
       "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "score": 631,
+      "score": 650,
       "author": "tintinnabula",
       "created": "2026-02-25 20:16:47",
       "created_at": 1772050607000
     },
     {
-      "id": 47143152,
-      "title": "Mac mini will be made at a new facility in Houston",
-      "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "score": 628,
-      "author": "haunter",
-      "created": "2026-02-24 21:13:45",
-      "created_at": 1771967625000
+      "id": 47173121,
+      "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+      "link": "https://www.anthropic.com/news/statement-department-of-war",
+      "score": 646,
+      "author": "qwertox",
+      "created": "2026-02-26 22:42:47",
+      "created_at": 1772145767000
     },
     {
-      "id": 47143754,
-      "title": "Pi – A minimal terminal coding harness",
-      "link": "https://pi.dev",
-      "score": 587,
-      "author": "kristianpaul",
-      "created": "2026-02-24 21:53:59",
-      "created_at": 1771970039000
+      "id": 47163885,
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "link": "",
+      "score": 589,
+      "author": "miki123211",
+      "created": "2026-02-26 09:35:08",
+      "created_at": 1772098508000
     },
     {
-      "id": 47165397,
-      "title": "Anthropic ditches its core safety promise",
-      "link": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "score": 542,
-      "author": "motbus3",
-      "created": "2026-02-26 12:52:50",
-      "created_at": 1772110370000
+      "id": 47159430,
+      "title": "Banned in California",
+      "link": "https://www.bannedincalifornia.org/",
+      "score": 557,
+      "author": "pie_flavor",
+      "created": "2026-02-25 23:16:40",
+      "created_at": 1772061400000
     }
   ],
   "code": 200,
