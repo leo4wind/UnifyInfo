@@ -3,11 +3,25 @@
     "name": "Ars Technica",
     "description": "科技新闻和评测",
     "url": "https://arstechnica.com/feed/",
-    "lastUpdate": "2026-02-28T16:14:48.717Z"
+    "lastUpdate": "2026-02-28T20:14:45.959Z"
   },
   "items": [
     {
-      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "title": "Trump moves to ban Anthropic from the US government",
+      "link": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "description": "",
+      "pubDate": "Sat, 28 Feb 2026 20:00:26 +0000",
+      "timestamp": 1772308826000
+    },
+    {
+      "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
+      "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
+      "description": "",
+      "pubDate": "Sat, 28 Feb 2026 18:17:12 +0000",
+      "timestamp": 1772302632000
+    },
+    {
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
       "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
       "description": "",
       "pubDate": "Sat, 28 Feb 2026 01:26:41 +0000",
@@ -131,20 +145,6 @@
       "description": "",
       "pubDate": "Thu, 26 Feb 2026 22:19:39 +0000",
       "timestamp": 1772144379000
-    },
-    {
-      "title": "The physics of squeaking sneakers",
-      "link": "https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/",
-      "description": "",
-      "pubDate": "Thu, 26 Feb 2026 21:48:37 +0000",
-      "timestamp": 1772142517000
-    },
-    {
-      "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
-      "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
-      "description": "",
-      "pubDate": "Thu, 26 Feb 2026 17:12:10 +0000",
-      "timestamp": 1772125930000
     }
   ],
   "total": 20
