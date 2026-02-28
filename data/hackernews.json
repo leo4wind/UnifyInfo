@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-28T12:24:38.635Z"
+    "lastUpdate": "2026-02-28T16:15:07.835Z"
   },
   "data": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 2871,
+      "score": 2878,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
@@ -19,25 +19,43 @@
       "id": 47188473,
       "title": "We Will Not Be Divided",
       "link": "https://notdivided.org",
-      "score": 1881,
+      "score": 2178,
       "author": "BloondAndDoom",
       "created": "2026-02-28 00:54:53",
       "created_at": 1772240093000
     },
     {
+      "id": 47193478,
+      "title": "OpenAI – How to delete your account",
+      "link": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "score": 1543,
+      "author": "carlosrg",
+      "created": "2026-02-28 10:41:55",
+      "created_at": 1772275315000
+    },
+    {
       "id": 47186677,
       "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
       "link": "https://twitter.com/secwar/status/2027507717469049070",
-      "score": 1279,
+      "score": 1300,
       "author": "jacobedawson",
       "created": "2026-02-27 22:31:18",
       "created_at": 1772231478000
     },
     {
+      "id": 47189650,
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "link": "https://twitter.com/sama/status/2027578652477821175",
+      "score": 1105,
+      "author": "eoskx",
+      "created": "2026-02-28 02:59:02",
+      "created_at": 1772247542000
+    },
+    {
       "id": 47188697,
       "title": "Statement on the comments from Secretary of War Pete Hegseth",
       "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "score": 998,
+      "score": 1072,
       "author": "surprisetalk",
       "created": "2026-02-28 01:20:10",
       "created_at": 1772241610000
@@ -46,7 +64,7 @@
       "id": 47190997,
       "title": "How do I cancel my ChatGPT subscription?",
       "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-      "score": 908,
+      "score": 951,
       "author": "tobr",
       "created": "2026-02-28 05:55:01",
       "created_at": 1772258101000
@@ -55,25 +73,16 @@
       "id": 47172119,
       "title": "Layoffs at Block",
       "link": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 888,
+      "score": 892,
       "author": "mlex",
       "created": "2026-02-26 21:17:56",
       "created_at": 1772140676000
     },
     {
-      "id": 47189650,
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "link": "https://twitter.com/sama/status/2027578652477821175",
-      "score": 869,
-      "author": "eoskx",
-      "created": "2026-02-28 02:59:02",
-      "created_at": 1772247542000
-    },
-    {
       "id": 47181208,
       "title": "A new California law says all operating systems need to have age verification",
       "link": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
-      "score": 617,
+      "score": 705,
       "author": "WalterSobchak",
       "created": "2026-02-27 14:55:49",
       "created_at": 1772204149000
@@ -82,19 +91,10 @@
       "id": 47167858,
       "title": "Nano Banana 2: Google's latest AI image generation model",
       "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 598,
+      "score": 600,
       "author": "davidbarker",
       "created": "2026-02-26 16:02:37",
       "created_at": 1772121757000
-    },
-    {
-      "id": 47169757,
-      "title": "What Claude Code chooses",
-      "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 596,
-      "author": "tin7in",
-      "created": "2026-02-26 18:12:26",
-      "created_at": 1772129546000
     }
   ],
   "code": 200,

@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-28T12:24:38.788Z"
+    "lastUpdate": "2026-02-28T16:15:08.074Z"
   },
   "data": [
     {
-      "id": 47193478,
-      "title": "OpenAI – How to delete your account",
-      "link": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-      "score": 475,
-      "author": "carlosrg",
-      "created": "2026-02-28 10:41:55",
-      "created_at": 1772275315000
+      "id": 47196582,
+      "title": "Cognitive Debt: When Velocity Exceeds Comprehension",
+      "link": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
+      "score": 16,
+      "author": "pagade",
+      "created": "2026-02-28 15:39:10",
+      "created_at": 1772293150000
     },
     {
-      "id": 47192505,
-      "title": "Unsloth Dynamic 2.0 GGUFs",
-      "link": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
-      "score": 62,
-      "author": "tosh",
-      "created": "2026-02-28 08:56:33",
-      "created_at": 1772268993000
+      "id": 47155526,
+      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "link": "https://github.com/ad-si/Woxi",
+      "score": 74,
+      "author": "adamnemecek",
+      "created": "2026-02-25 18:24:46",
+      "created_at": 1772043886000
+    },
+    {
+      "id": 47195371,
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "link": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "score": 69,
+      "author": "RyanShook",
+      "created": "2026-02-28 13:50:13",
+      "created_at": 1772286613000
+    },
+    {
+      "id": 47195123,
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "link": "https://nowigetit.us",
+      "score": 42,
+      "author": "jbdamask",
+      "created": "2026-02-28 13:29:36",
+      "created_at": 1772285376000
     },
     {
       "id": 47188473,
       "title": "We Will Not Be Divided",
       "link": "https://notdivided.org",
-      "score": 1881,
+      "score": 2178,
       "author": "BloondAndDoom",
       "created": "2026-02-28 00:54:53",
       "created_at": 1772240093000
     },
     {
-      "id": 47189650,
-      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-      "link": "https://twitter.com/sama/status/2027578652477821175",
-      "score": 869,
-      "author": "eoskx",
-      "created": "2026-02-28 02:59:02",
-      "created_at": 1772247542000
+      "id": 47195093,
+      "title": "Customer Update on Simplenote",
+      "link": "https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all",
+      "score": 29,
+      "author": "0in",
+      "created": "2026-02-28 13:26:51",
+      "created_at": 1772285211000
     },
     {
-      "id": 47181208,
-      "title": "A new California law says all operating systems need to have age verification",
-      "link": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
-      "score": 617,
-      "author": "WalterSobchak",
-      "created": "2026-02-27 14:55:49",
-      "created_at": 1772204149000
+      "id": 47195157,
+      "title": "The Life Cycle of Money",
+      "link": "https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/",
+      "score": 22,
+      "author": "nanacnote",
+      "created": "2026-02-28 13:32:28",
+      "created_at": 1772285548000
     },
     {
-      "id": 47147597,
-      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
-      "link": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
-      "score": 57,
-      "author": "dinvlad",
-      "created": "2026-02-25 05:14:09",
-      "created_at": 1771996449000
+      "id": 47194611,
+      "title": "Don't trust AI agents",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+      "score": 183,
+      "author": "gronky_",
+      "created": "2026-02-28 12:39:32",
+      "created_at": 1772282372000
     },
     {
-      "id": 47181211,
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "score": 508,
-      "author": "zlatkov",
-      "created": "2026-02-27 14:56:05",
-      "created_at": 1772204165000
+      "id": 47195317,
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "score": 82,
+      "author": "bookofjoe",
+      "created": "2026-02-28 13:46:20",
+      "created_at": 1772286380000
     },
     {
-      "id": 47193832,
-      "title": "Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash",
-      "link": "https://github.com/junevm/splathash",
-      "score": 4,
-      "author": "unsorted2270",
-      "created": "2026-02-28 11:24:45",
-      "created_at": 1772277885000
-    },
-    {
-      "id": 47190806,
-      "title": "Cash issuing terminals",
-      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
-      "score": 69,
-      "author": "zdw",
-      "created": "2026-02-28 05:21:21",
-      "created_at": 1772256081000
-    },
-    {
-      "id": 47170030,
-      "title": "Smallest transformer that can add two 10-digit numbers",
-      "link": "https://github.com/anadim/AdderBoard",
-      "score": 175,
-      "author": "ks2048",
-      "created": "2026-02-26 18:29:56",
-      "created_at": 1772130596000
+      "id": 47192505,
+      "title": "Unsloth Dynamic 2.0 GGUFs",
+      "link": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+      "score": 123,
+      "author": "tosh",
+      "created": "2026-02-28 08:56:33",
+      "created_at": 1772268993000
     }
   ],
   "code": 200,
