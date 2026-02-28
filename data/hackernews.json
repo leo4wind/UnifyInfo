@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-02-28T04:47:12.621Z"
+    "lastUpdate": "2026-02-28T08:17:27.947Z"
   },
   "data": [
     {
       "id": 47173121,
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 2856,
+      "score": 2862,
       "author": "qwertox",
       "created": "2026-02-26 22:42:47",
       "created_at": 1772145767000
     },
     {
+      "id": 47188473,
+      "title": "We Will Not Be Divided",
+      "link": "https://notdivided.org",
+      "score": 1384,
+      "author": "BloondAndDoom",
+      "created": "2026-02-28 00:54:53",
+      "created_at": 1772240093000
+    },
+    {
       "id": 47186677,
       "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
       "link": "https://twitter.com/secwar/status/2027507717469049070",
-      "score": 1188,
+      "score": 1251,
       "author": "jacobedawson",
       "created": "2026-02-27 22:31:18",
       "created_at": 1772231478000
@@ -28,19 +37,19 @@
       "id": 47172119,
       "title": "Layoffs at Block",
       "link": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 886,
+      "score": 887,
       "author": "mlex",
       "created": "2026-02-26 21:17:56",
       "created_at": 1772140676000
     },
     {
-      "id": 47188473,
-      "title": "We Will Not Be Divided",
-      "link": "https://notdivided.org",
-      "score": 859,
-      "author": "BloondAndDoom",
-      "created": "2026-02-28 00:54:53",
-      "created_at": 1772240093000
+      "id": 47188697,
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "score": 861,
+      "author": "surprisetalk",
+      "created": "2026-02-28 01:20:10",
+      "created_at": 1772241610000
     },
     {
       "id": 47163885,
@@ -52,19 +61,10 @@
       "created_at": 1772098508000
     },
     {
-      "id": 47188697,
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "score": 636,
-      "author": "surprisetalk",
-      "created": "2026-02-28 01:20:10",
-      "created_at": 1772241610000
-    },
-    {
       "id": 47167858,
       "title": "Nano Banana 2: Google's latest AI image generation model",
       "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "score": 596,
+      "score": 598,
       "author": "davidbarker",
       "created": "2026-02-26 16:02:37",
       "created_at": 1772121757000
@@ -73,28 +73,28 @@
       "id": 47169757,
       "title": "What Claude Code chooses",
       "link": "https://amplifying.ai/research/claude-code-picks",
-      "score": 586,
+      "score": 591,
       "author": "tin7in",
       "created": "2026-02-26 18:12:26",
       "created_at": 1772129546000
     },
     {
-      "id": 47165397,
-      "title": "Anthropic ditches its core safety promise",
-      "link": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "score": 551,
-      "author": "motbus3",
-      "created": "2026-02-26 12:52:50",
-      "created_at": 1772110370000
-    },
-    {
       "id": 47181391,
       "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
       "link": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "score": 541,
+      "score": 562,
       "author": "hn_acker",
       "created": "2026-02-27 15:09:04",
       "created_at": 1772204944000
+    },
+    {
+      "id": 47181208,
+      "title": "A new California law says all operating systems need to have age verification",
+      "link": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "score": 554,
+      "author": "WalterSobchak",
+      "created": "2026-02-27 14:55:49",
+      "created_at": 1772204149000
     }
   ],
   "code": 200,
