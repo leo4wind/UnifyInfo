@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-27T20:18:27.046Z"
+    "lastUpdate": "2026-02-28T01:02:43.626Z"
   },
   "data": [
     {
-      "id": 47184744,
-      "title": "The Robotic Dexterity Deadlock",
-      "link": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
-      "score": 18,
-      "author": "shmublu",
-      "created": "2026-02-27 19:51:33",
-      "created_at": 1772221893000
+      "id": 47186677,
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "link": "https://twitter.com/secwar/status/2027507717469049070",
+      "score": 869,
+      "author": "jacobedawson",
+      "created": "2026-02-27 22:31:18",
+      "created_at": 1772231478000
     },
     {
-      "id": 47180569,
-      "title": "A better streams API is possible for JavaScript",
-      "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "score": 289,
-      "author": "nnx",
-      "created": "2026-02-27 14:02:53",
-      "created_at": 1772200973000
-    },
-    {
-      "id": 47183725,
-      "title": "Writing a Guide to SDF Fonts",
-      "link": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "score": 26,
-      "author": "chunkles",
-      "created": "2026-02-27 18:24:09",
-      "created_at": 1772216649000
+      "id": 47187649,
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "link": "https://www.science.org/doi/10.1126/science.adt2760",
+      "score": 29,
+      "author": "ppnpm",
+      "created": "2026-02-27 23:42:14",
+      "created_at": 1772235734000
     },
     {
       "id": 47181211,
       "title": "OpenAI raises $110B on $730B pre-money valuation",
       "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "score": 77,
+      "score": 362,
       "author": "zlatkov",
       "created": "2026-02-27 14:56:05",
       "created_at": 1772204165000
     },
     {
-      "id": 47184049,
-      "title": "Let's discuss sandbox isolation",
-      "link": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-      "score": 20,
-      "author": "shayonj",
-      "created": "2026-02-27 18:49:50",
-      "created_at": 1772218190000
+      "id": 47170030,
+      "title": "Smallest transformer that can add two 10-digit numbers",
+      "link": "https://github.com/anadim/AdderBoard",
+      "score": 26,
+      "author": "ks2048",
+      "created": "2026-02-26 18:29:56",
+      "created_at": 1772130596000
     },
     {
-      "id": 47183578,
-      "title": "Dan Simmons, author of Hyperion, has died",
-      "link": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-      "score": 208,
-      "author": "throw0101a",
-      "created": "2026-02-27 18:13:39",
-      "created_at": 1772216019000
+      "id": 47187121,
+      "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
+      "link": "https://github.com/wkoszek/emuko",
+      "score": 30,
+      "author": "felipap",
+      "created": "2026-02-27 23:01:49",
+      "created_at": 1772233309000
     },
     {
-      "id": 47182487,
-      "title": "Allocating on the Stack",
-      "link": "https://go.dev/blog/allocation-optimizations",
-      "score": 75,
-      "author": "spacey",
-      "created": "2026-02-27 16:34:05",
-      "created_at": 1772210045000
+      "id": 47181208,
+      "title": "A new California law says all operating systems need to have age verification",
+      "link": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "score": 335,
+      "author": "WalterSobchak",
+      "created": "2026-02-27 14:55:49",
+      "created_at": 1772204149000
     },
     {
-      "id": 47181316,
-      "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
-      "link": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-      "score": 18,
-      "author": "gregpr07",
-      "created": "2026-02-27 15:03:12",
-      "created_at": 1772204592000
+      "id": 47182483,
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "link": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "score": 203,
+      "author": "voxadam",
+      "created": "2026-02-27 16:33:39",
+      "created_at": 1772210019000
     },
     {
-      "id": 47137199,
-      "title": "Modeling cycles of grift with evolutionary game theory",
-      "link": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-      "score": 48,
-      "author": "ibobev",
-      "created": "2026-02-24 13:54:21",
-      "created_at": 1771941261000
+      "id": 47180569,
+      "title": "A better streams API is possible for JavaScript",
+      "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "score": 367,
+      "author": "nnx",
+      "created": "2026-02-27 14:02:53",
+      "created_at": 1772200973000
+    },
+    {
+      "id": 47186444,
+      "title": "Otters as Bioindicators of Estuarine Health",
+      "link": "https://emt.pensoft.net/article/185117/",
+      "score": 17,
+      "author": "PaulHoule",
+      "created": "2026-02-27 22:13:54",
+      "created_at": 1772230434000
+    },
+    {
+      "id": 47181944,
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "link": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "score": 119,
+      "author": "cwwc",
+      "created": "2026-02-27 15:52:27",
+      "created_at": 1772207547000
     }
   ],
   "code": 200,
