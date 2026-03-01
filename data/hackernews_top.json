@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-01T05:14:00.093Z"
+    "lastUpdate": "2026-03-01T08:19:14.194Z"
   },
   "data": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 366,
+      "score": 673,
       "author": "tambourine_man",
       "created": "2026-03-01 01:39:26",
       "created_at": 1772329166000
     },
     {
+      "id": 47204571,
+      "title": "Switch to Claude Without Starting Over",
+      "link": "https://claude.com/import-memory",
+      "score": 26,
+      "author": "doener",
+      "created": "2026-03-01 07:36:52",
+      "created_at": 1772350612000
+    },
+    {
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 394,
+      "score": 497,
       "author": "golfer",
       "created": "2026-02-28 21:24:16",
       "created_at": 1772313856000
     },
     {
+      "id": 47204559,
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "link": "https://modernaicourse.org",
+      "score": 12,
+      "author": "vismit2000",
+      "created": "2026-03-01 07:35:03",
+      "created_at": 1772350503000
+    },
+    {
       "id": 47200904,
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
       "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 193,
+      "score": 245,
       "author": "ksec",
       "created": "2026-02-28 22:19:36",
       "created_at": 1772317176000
     },
     {
-      "id": 47197267,
-      "title": "Obsidian Sync now has a headless client",
-      "link": "https://help.obsidian.md/sync/headless",
-      "score": 432,
-      "author": "adilmoujahid",
-      "created": "2026-02-28 16:31:53",
-      "created_at": 1772296313000
-    },
-    {
       "id": 47161759,
       "title": "The happiest I've ever been",
       "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 392,
+      "score": 459,
       "author": "bewal416",
       "created": "2026-02-26 04:13:47",
       "created_at": 1772079227000
     },
     {
+      "id": 47197267,
+      "title": "Obsidian Sync now has a headless client",
+      "link": "https://help.obsidian.md/sync/headless",
+      "score": 464,
+      "author": "adilmoujahid",
+      "created": "2026-02-28 16:31:53",
+      "created_at": 1772296313000
+    },
+    {
+      "id": 47152448,
+      "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+      "link": "https://www.nature.com/articles/s41586-026-10114-5",
+      "score": 52,
+      "author": "zdw",
+      "created": "2026-02-25 15:01:20",
+      "created_at": 1772031680000
+    },
+    {
       "id": 47163779,
       "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
       "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 44,
+      "score": 75,
       "author": "mrngm",
       "created": "2026-02-26 09:18:57",
       "created_at": 1772097537000
     },
     {
-      "id": 47201816,
-      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "link": "https://github.com/jonwiggins/xmloxide",
-      "score": 47,
-      "author": "jawiggins",
-      "created": "2026-02-28 23:44:41",
-      "created_at": 1772322281000
-    },
-    {
       "id": 47198977,
       "title": "Block the “Upgrade to Tahoe” Alerts",
       "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 172,
+      "score": 211,
       "author": "todsacerdoti",
       "created": "2026-02-28 19:04:01",
       "created_at": 1772305441000
-    },
-    {
-      "id": 47195371,
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "link": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 219,
-      "author": "RyanShook",
-      "created": "2026-02-28 13:50:13",
-      "created_at": 1772286613000
-    },
-    {
-      "id": 47155526,
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "link": "https://github.com/ad-si/Woxi",
-      "score": 265,
-      "author": "adamnemecek",
-      "created": "2026-02-25 18:24:46",
-      "created_at": 1772043886000
     }
   ],
   "code": 200,
