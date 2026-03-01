@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-01T16:16:01.477Z"
+    "lastUpdate": "2026-03-01T20:15:07.254Z"
   },
   "data": [
-    {
-      "id": 47206824,
-      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-      "link": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-      "score": 204,
-      "author": "saikatsg",
-      "created": "2026-03-01 14:09:24",
-      "created_at": 1772374164000
-    },
     {
       "id": 47206009,
       "title": "Ghostty – Terminal Emulator",
       "link": "https://ghostty.org/docs",
-      "score": 141,
+      "score": 441,
       "author": "oli5679",
       "created": "2026-03-01 12:13:03",
       "created_at": 1772367183000
     },
     {
-      "id": 47206798,
-      "title": "Ape Coding",
-      "link": "https://rsaksida.com/blog/ape-coding/",
-      "score": 36,
-      "author": "rmsaksida",
-      "created": "2026-03-01 14:07:05",
-      "created_at": 1772374025000
-    },
-    {
       "id": 47202708,
       "title": "Microgpt",
       "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1286,
+      "score": 1510,
       "author": "tambourine_man",
       "created": "2026-03-01 01:39:26",
       "created_at": 1772329166000
     },
     {
-      "id": 47205890,
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "link": "https://99helpers.com/tools/ad-supported-chat",
-      "score": 228,
-      "author": "nickk81",
-      "created": "2026-03-01 11:49:01",
-      "created_at": 1772365741000
-    },
-    {
-      "id": 47178758,
-      "title": "Aromatic 5-silicon rings synthesized at last",
-      "link": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
-      "score": 35,
-      "author": "keepamovin",
-      "created": "2026-02-27 10:10:22",
-      "created_at": 1772187022000
-    },
-    {
-      "id": 47204964,
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "link": "https://mlu-explain.github.io/decision-tree/",
-      "score": 234,
-      "author": "mschnell",
-      "created": "2026-03-01 08:55:52",
-      "created_at": 1772355352000
+      "id": 47209781,
+      "title": "Operational issue – Multiple services (UAE)",
+      "link": "https://health.aws.amazon.com/health/status",
+      "score": 71,
+      "author": "earthboundkid",
+      "created": "2026-03-01 19:24:30",
+      "created_at": 1772393070000
     },
     {
       "id": 47207236,
-      "title": "Why XML Tags Are So Fundamental to Claude",
+      "title": "Why XML tags are so fundamental to Claude",
       "link": "https://glthr.com/XML-fundamental-to-Claude",
-      "score": 18,
+      "score": 94,
       "author": "glth",
       "created": "2026-03-01 14:52:22",
       "created_at": 1772376742000
     },
     {
-      "id": 47168405,
-      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
-      "link": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
-      "score": 54,
-      "author": "ibobev",
-      "created": "2026-02-26 16:39:07",
-      "created_at": 1772123947000
+      "id": 47208398,
+      "title": "When does MCP make sense vs CLI?",
+      "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "score": 100,
+      "author": "ejholmes",
+      "created": "2026-03-01 16:54:49",
+      "created_at": 1772384089000
     },
     {
-      "id": 47170958,
-      "title": "Setting up phones is a nightmare",
-      "link": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
-      "score": 9,
-      "author": "bariumbitmap",
-      "created": "2026-02-26 19:36:30",
-      "created_at": 1772134590000
+      "id": 47204964,
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "link": "https://mlu-explain.github.io/decision-tree/",
+      "score": 320,
+      "author": "mschnell",
+      "created": "2026-03-01 08:55:52",
+      "created_at": 1772355352000
+    },
+    {
+      "id": 47205208,
+      "title": "Microgpt explained interactively",
+      "link": "https://growingswe.com/blog/microgpt",
+      "score": 12,
+      "author": "growingswe",
+      "created": "2026-03-01 09:43:43",
+      "created_at": 1772358223000
+    },
+    {
+      "id": 47165965,
+      "title": "Long Range E-Bike (2021)",
+      "link": "https://jacquesmattheij.com/long-range-ebike/",
+      "score": 48,
+      "author": "birdculture",
+      "created": "2026-02-26 13:41:32",
+      "created_at": 1772113292000
+    },
+    {
+      "id": 47151367,
+      "title": "Python Type Checker Comparison: Empty Container Inference",
+      "link": "https://pyrefly.org/blog/container-inference-comparison/",
+      "score": 28,
+      "author": "ocamoss",
+      "created": "2026-02-25 13:45:02",
+      "created_at": 1772027102000
+    },
+    {
+      "id": 47200420,
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "score": 743,
+      "author": "golfer",
+      "created": "2026-02-28 21:24:16",
+      "created_at": 1772313856000
     }
   ],
   "code": 200,
