@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-01T08:19:14.264Z"
+    "lastUpdate": "2026-03-01T12:26:18.097Z"
   },
   "data": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 673,
+      "score": 1015,
       "author": "tambourine_man",
       "created": "2026-03-01 01:39:26",
       "created_at": 1772329166000
     },
     {
-      "id": 47204571,
-      "title": "Switch to Claude Without Starting Over",
-      "link": "https://claude.com/import-memory",
-      "score": 26,
-      "author": "doener",
-      "created": "2026-03-01 07:36:52",
-      "created_at": 1772350612000
-    },
-    {
-      "id": 47200420,
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 497,
-      "author": "golfer",
-      "created": "2026-02-28 21:24:16",
-      "created_at": 1772313856000
+      "id": 47204964,
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "link": "https://mlu-explain.github.io/decision-tree/",
+      "score": 127,
+      "author": "mschnell",
+      "created": "2026-03-01 08:55:52",
+      "created_at": 1772355352000
     },
     {
       "id": 47204559,
       "title": "10-202: Introduction to Modern AI (CMU)",
       "link": "https://modernaicourse.org",
-      "score": 12,
+      "score": 85,
       "author": "vismit2000",
       "created": "2026-03-01 07:35:03",
       "created_at": 1772350503000
     },
     {
-      "id": 47200904,
-      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-      "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "score": 245,
-      "author": "ksec",
-      "created": "2026-02-28 22:19:36",
-      "created_at": 1772317176000
+      "id": 47200420,
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "score": 590,
+      "author": "golfer",
+      "created": "2026-02-28 21:24:16",
+      "created_at": 1772313856000
     },
     {
-      "id": 47161759,
-      "title": "The happiest I've ever been",
-      "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 459,
-      "author": "bewal416",
-      "created": "2026-02-26 04:13:47",
-      "created_at": 1772079227000
+      "id": 47205129,
+      "title": "Why is the first C++ (m)allocation always 72 KB?",
+      "link": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+      "score": 40,
+      "author": "joelsiks",
+      "created": "2026-03-01 09:27:34",
+      "created_at": 1772357254000
+    },
+    {
+      "id": 47183396,
+      "title": "Robust and efficient quantum-safe HTTPS",
+      "link": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+      "score": 35,
+      "author": "tptacek",
+      "created": "2026-02-27 17:58:48",
+      "created_at": 1772215128000
+    },
+    {
+      "id": 47181542,
+      "title": "An ode to houseplant programming (2025)",
+      "link": "https://hannahilea.com/blog/houseplant-programming/",
+      "score": 44,
+      "author": "evakhoury",
+      "created": "2026-02-27 15:19:10",
+      "created_at": 1772205550000
+    },
+    {
+      "id": 47204571,
+      "title": "Switch to Claude without starting over",
+      "link": "https://claude.com/import-memory",
+      "score": 199,
+      "author": "doener",
+      "created": "2026-03-01 07:36:52",
+      "created_at": 1772350612000
+    },
+    {
+      "id": 47205127,
+      "title": "Show HN: Terminal-Style Portfolio on the Internet",
+      "link": "https://kuber.studio/",
+      "score": 18,
+      "author": "kuberwastaken",
+      "created": "2026-03-01 09:26:59",
+      "created_at": 1772357219000
     },
     {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "link": "https://help.obsidian.md/sync/headless",
-      "score": 464,
+      "score": 497,
       "author": "adilmoujahid",
       "created": "2026-02-28 16:31:53",
       "created_at": 1772296313000
-    },
-    {
-      "id": 47152448,
-      "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
-      "link": "https://www.nature.com/articles/s41586-026-10114-5",
-      "score": 52,
-      "author": "zdw",
-      "created": "2026-02-25 15:01:20",
-      "created_at": 1772031680000
-    },
-    {
-      "id": 47163779,
-      "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
-      "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "score": 75,
-      "author": "mrngm",
-      "created": "2026-02-26 09:18:57",
-      "created_at": 1772097537000
-    },
-    {
-      "id": 47198977,
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "score": 211,
-      "author": "todsacerdoti",
-      "created": "2026-02-28 19:04:01",
-      "created_at": 1772305441000
     }
   ],
   "code": 200,
