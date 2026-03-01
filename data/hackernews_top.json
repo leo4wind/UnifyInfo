@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-02-28T20:14:56.001Z"
+    "lastUpdate": "2026-03-01T01:17:59.207Z"
   },
   "data": [
+    {
+      "id": 47200420,
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "score": 175,
+      "author": "golfer",
+      "created": "2026-02-28 21:24:16",
+      "created_at": 1772313856000
+    },
+    {
+      "id": 47200904,
+      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "score": 109,
+      "author": "ksec",
+      "created": "2026-02-28 22:19:36",
+      "created_at": 1772317176000
+    },
+    {
+      "id": 47200342,
+      "title": "MinIO Is Dead, Long Live MinIO",
+      "link": "https://blog.vonng.com/en/db/minio-resurrect/",
+      "score": 180,
+      "author": "zufallsheld",
+      "created": "2026-02-28 21:16:53",
+      "created_at": 1772313413000
+    },
     {
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "link": "https://help.obsidian.md/sync/headless",
-      "score": 200,
+      "score": 375,
       "author": "adilmoujahid",
       "created": "2026-02-28 16:31:53",
       "created_at": 1772296313000
@@ -19,82 +46,55 @@
       "id": 47161759,
       "title": "The happiest I've ever been",
       "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "score": 69,
+      "score": 300,
       "author": "bewal416",
       "created": "2026-02-26 04:13:47",
       "created_at": 1772079227000
     },
     {
-      "id": 47197595,
-      "title": "Verified Spec-Driven Development (VSDD)",
-      "link": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-      "score": 75,
+      "id": 47201816,
+      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
+      "link": "https://github.com/jonwiggins/xmloxide",
+      "score": 14,
+      "author": "jawiggins",
+      "created": "2026-02-28 23:44:41",
+      "created_at": 1772322281000
+    },
+    {
+      "id": 47198977,
+      "title": "Block the “Upgrade to Tahoe” Alerts",
+      "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "score": 116,
       "author": "todsacerdoti",
-      "created": "2026-02-28 16:58:54",
-      "created_at": 1772297934000
+      "created": "2026-02-28 19:04:01",
+      "created_at": 1772305441000
     },
     {
       "id": 47195371,
       "title": "Addressing Antigravity Bans and Reinstating Access",
       "link": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "score": 144,
+      "score": 197,
       "author": "RyanShook",
       "created": "2026-02-28 13:50:13",
       "created_at": 1772286613000
     },
     {
-      "id": 47155526,
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "link": "https://github.com/ad-si/Woxi",
-      "score": 179,
-      "author": "adamnemecek",
-      "created": "2026-02-25 18:24:46",
-      "created_at": 1772043886000
+      "id": 47197595,
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "link": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "score": 140,
+      "author": "todsacerdoti",
+      "created": "2026-02-28 16:58:54",
+      "created_at": 1772297934000
     },
     {
-      "id": 47154637,
-      "title": "New evidence that Cantor plagiarized Dedekind?",
-      "link": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
-      "score": 61,
-      "author": "rbanffy",
-      "created": "2026-02-25 17:28:33",
-      "created_at": 1772040513000
-    },
-    {
-      "id": 47195123,
-      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "link": "https://nowigetit.us",
-      "score": 122,
-      "author": "jbdamask",
-      "created": "2026-02-28 13:29:36",
-      "created_at": 1772285376000
-    },
-    {
-      "id": 47178051,
-      "title": "Werner Herzog Between Fact and Fiction",
-      "link": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
-      "score": 25,
-      "author": "Hooke",
-      "created": "2026-02-27 08:27:45",
-      "created_at": 1772180865000
-    },
-    {
-      "id": 47197505,
-      "title": "The whole thing was a scam",
-      "link": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 213,
-      "author": "guilamu",
-      "created": "2026-02-28 16:51:49",
-      "created_at": 1772297509000
-    },
-    {
-      "id": 47199389,
-      "title": "Khamenei Dead",
-      "link": "https://twitter.com/BarakRavid/status/2027830773328302396",
-      "score": 42,
-      "author": "harscoat",
-      "created": "2026-02-28 19:47:08",
-      "created_at": 1772308028000
+      "id": 47158834,
+      "title": "Deterministic Programming with LLMs",
+      "link": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "score": 15,
+      "author": "todsacerdoti",
+      "created": "2026-02-25 22:17:29",
+      "created_at": 1772057849000
     }
   ],
   "code": 200,
