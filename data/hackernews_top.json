@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-02T08:32:17.313Z"
+    "lastUpdate": "2026-03-02T12:34:25.203Z"
   },
   "data": [
     {
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
       "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 262,
+      "score": 824,
       "author": "km",
       "created": "2026-03-02 06:48:07",
       "created_at": 1772434087000
     },
     {
+      "id": 47215489,
+      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "link": "https://e.foundation/e-os/",
+      "score": 227,
+      "author": "doener",
+      "created": "2026-03-02 09:09:44",
+      "created_at": 1772442584000
+    },
+    {
+      "id": 47216765,
+      "title": "Claude Code LSP",
+      "link": "https://karanbansal.in/blog/claude-code-lsp/",
+      "score": 23,
+      "author": "LexSiga",
+      "created": "2026-03-02 11:47:16",
+      "created_at": 1772452036000
+    },
+    {
       "id": 47176576,
       "title": "Making Video Games in 2025 (without an engine)",
       "link": "https://www.noelberry.ca/posts/making_games_in_2025/",
-      "score": 44,
+      "score": 197,
       "author": "alvivar",
       "created": "2026-02-27 04:38:15",
       "created_at": 1772167095000
     },
     {
-      "id": 47213866,
-      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-      "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-      "score": 85,
-      "author": "MBCook",
-      "created": "2026-03-02 04:23:53",
-      "created_at": 1772425433000
+      "id": 47215565,
+      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+      "link": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+      "score": 66,
+      "author": "JeanKage",
+      "created": "2026-03-02 09:20:06",
+      "created_at": 1772443206000
+    },
+    {
+      "id": 47214864,
+      "title": "How to talk to anyone and why you should",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "score": 140,
+      "author": "Looky1173",
+      "created": "2026-03-02 07:30:12",
+      "created_at": 1772436612000
+    },
+    {
+      "id": 47215427,
+      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+      "link": "https://github.com/getomnico/omni",
+      "score": 62,
+      "author": "prvnsmpth",
+      "created": "2026-03-02 08:58:14",
+      "created_at": 1772441894000
+    },
+    {
+      "id": 47216037,
+      "title": "Jolla phone – a full-stack European alternative",
+      "link": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+      "score": 144,
+      "author": "spinningslate",
+      "created": "2026-03-02 10:21:24",
+      "created_at": 1772446884000
+    },
+    {
+      "id": 47216047,
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "score": 135,
+      "author": "robtherobber",
+      "created": "2026-03-02 10:23:06",
+      "created_at": 1772446986000
     },
     {
       "id": 47212355,
       "title": "If AI writes code, should the session be part of the commit?",
       "link": "https://github.com/mandel-macaque/memento",
-      "score": 209,
+      "score": 310,
       "author": "mandel_x",
       "created": "2026-03-02 00:27:52",
       "created_at": 1772411272000
-    },
-    {
-      "id": 47211249,
-      "title": "WebMCP is available for early preview",
-      "link": "https://developer.chrome.com/blog/webmcp-epp",
-      "score": 270,
-      "author": "andsoitis",
-      "created": "2026-03-01 22:13:58",
-      "created_at": 1772403238000
-    },
-    {
-      "id": 47214250,
-      "title": "Evolving descriptive text of mental content from human brain activity",
-      "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-      "score": 18,
-      "author": "ggm",
-      "created": "2026-03-02 05:39:36",
-      "created_at": 1772429976000
-    },
-    {
-      "id": 47212576,
-      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-      "link": "https://github.com/kossisoroyce/timber",
-      "score": 114,
-      "author": "kossisoroyce",
-      "created": "2026-03-02 00:57:40",
-      "created_at": 1772413060000
-    },
-    {
-      "id": 47213764,
-      "title": "Everett shuts down Flock camera network after judge rules footage public record",
-      "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
-      "score": 206,
-      "author": "aranaur",
-      "created": "2026-03-02 04:06:00",
-      "created_at": 1772424360000
-    },
-    {
-      "id": 47211830,
-      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "link": "https://github.com/AlexsJones/llmfit",
-      "score": 118,
-      "author": "bilsbie",
-      "created": "2026-03-01 23:15:16",
-      "created_at": 1772406916000
-    },
-    {
-      "id": 47214063,
-      "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
-      "link": "https://variantsystems.io/blog/beam-otp-process-concurrency",
-      "score": 21,
-      "author": "linkdd",
-      "created": "2026-03-02 05:01:08",
-      "created_at": 1772427668000
     }
   ],
   "code": 200,
