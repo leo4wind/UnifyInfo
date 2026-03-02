@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-02T16:31:36.277Z"
+    "lastUpdate": "2026-03-02T20:24:30.876Z"
   },
   "data": [
     {
       "id": 47202708,
       "title": "Microgpt",
       "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1858,
+      "score": 1882,
       "author": "tambourine_man",
       "created": "2026-03-01 01:39:26",
       "created_at": 1772329166000
@@ -19,25 +19,25 @@
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
       "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 1359,
+      "score": 1773,
       "author": "km",
       "created": "2026-03-02 06:48:07",
       "created_at": 1772434087000
     },
     {
-      "id": 47197505,
-      "title": "The whole thing was a scam",
-      "link": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 976,
-      "author": "guilamu",
-      "created": "2026-02-28 16:51:49",
-      "created_at": 1772297509000
+      "id": 47216047,
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "score": 890,
+      "author": "robtherobber",
+      "created": "2026-03-02 10:23:06",
+      "created_at": 1772446986000
     },
     {
       "id": 47206009,
       "title": "Ghostty – Terminal Emulator",
       "link": "https://ghostty.org/docs",
-      "score": 817,
+      "score": 829,
       "author": "oli5679",
       "created": "2026-03-01 12:13:03",
       "created_at": 1772367183000
@@ -46,34 +46,25 @@
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 814,
+      "score": 820,
       "author": "golfer",
       "created": "2026-02-28 21:24:16",
       "created_at": 1772313856000
     },
     {
-      "id": 47216047,
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "score": 623,
-      "author": "robtherobber",
-      "created": "2026-03-02 10:23:06",
-      "created_at": 1772446986000
-    },
-    {
-      "id": 47197267,
-      "title": "Obsidian Sync now has a headless client",
-      "link": "https://help.obsidian.md/sync/headless",
-      "score": 577,
-      "author": "adilmoujahid",
-      "created": "2026-02-28 16:31:53",
-      "created_at": 1772296313000
+      "id": 47215489,
+      "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
+      "link": "https://e.foundation/e-os/",
+      "score": 592,
+      "author": "doener",
+      "created": "2026-03-02 09:09:44",
+      "created_at": 1772442584000
     },
     {
       "id": 47204571,
       "title": "Switch to Claude without starting over",
       "link": "https://claude.com/import-memory",
-      "score": 570,
+      "score": 574,
       "author": "doener",
       "created": "2026-03-01 07:36:52",
       "created_at": 1772350612000
@@ -82,7 +73,7 @@
       "id": 47205890,
       "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
       "link": "https://99helpers.com/tools/ad-supported-chat",
-      "score": 566,
+      "score": 573,
       "author": "nickk81",
       "created": "2026-03-01 11:49:01",
       "created_at": 1772365741000
@@ -91,10 +82,19 @@
       "id": 47204964,
       "title": "Decision trees – the unreasonable power of nested decision rules",
       "link": "https://mlu-explain.github.io/decision-tree/",
-      "score": 528,
+      "score": 535,
       "author": "mschnell",
       "created": "2026-03-01 08:55:52",
       "created_at": 1772355352000
+    },
+    {
+      "id": 47200879,
+      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
+      "link": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
+      "score": 468,
+      "author": "andsoitis",
+      "created": "2026-02-28 22:16:08",
+      "created_at": 1772316968000
     }
   ],
   "code": 200,
