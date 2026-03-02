@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-02T12:34:25.463Z"
+    "lastUpdate": "2026-03-02T16:31:36.492Z"
   },
   "data": [
+    {
+      "id": 47218288,
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "link": "https://github.com/anthropics/claude-code/issues/22543",
+      "score": 191,
+      "author": "mystcb",
+      "created": "2026-03-02 14:21:19",
+      "created_at": 1772461279000
+    },
     {
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
       "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 824,
+      "score": 1359,
       "author": "km",
       "created": "2026-03-02 06:48:07",
       "created_at": 1772434087000
     },
     {
+      "id": 47218364,
+      "title": "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
+      "link": "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/",
+      "score": 84,
+      "author": "gmays",
+      "created": "2026-03-02 14:28:41",
+      "created_at": 1772461721000
+    },
+    {
       "id": 47215489,
       "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
       "link": "https://e.foundation/e-os/",
-      "score": 227,
+      "score": 466,
       "author": "doener",
       "created": "2026-03-02 09:09:44",
       "created_at": 1772442584000
     },
     {
-      "id": 47216765,
-      "title": "Claude Code LSP",
-      "link": "https://karanbansal.in/blog/claude-code-lsp/",
-      "score": 23,
-      "author": "LexSiga",
-      "created": "2026-03-02 11:47:16",
-      "created_at": 1772452036000
+      "id": 47218743,
+      "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
+      "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "score": 39,
+      "author": "gmays",
+      "created": "2026-03-02 14:54:58",
+      "created_at": 1772463298000
     },
     {
-      "id": 47176576,
-      "title": "Making Video Games in 2025 (without an engine)",
-      "link": "https://www.noelberry.ca/posts/making_games_in_2025/",
-      "score": 197,
-      "author": "alvivar",
-      "created": "2026-02-27 04:38:15",
-      "created_at": 1772167095000
+      "id": 47219668,
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "link": "",
+      "score": 16,
+      "author": "whoishiring",
+      "created": "2026-03-02 16:00:27",
+      "created_at": 1772467227000
     },
     {
-      "id": 47215565,
-      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
-      "link": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
-      "score": 66,
-      "author": "JeanKage",
-      "created": "2026-03-02 09:20:06",
-      "created_at": 1772443206000
+      "id": 47219688,
+      "title": "Notes on Lagrange Interpolating Polynomials",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+      "score": 6,
+      "author": "ibobev",
+      "created": "2026-03-02 16:01:20",
+      "created_at": 1772467280000
+    },
+    {
+      "id": 47167058,
+      "title": "Use the Mikado Method to do safe changes in a complex codebase",
+      "link": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
+      "score": 41,
+      "author": "foenix",
+      "created": "2026-02-26 15:03:34",
+      "created_at": 1772118214000
     },
     {
       "id": 47214864,
       "title": "How to talk to anyone and why you should",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "score": 140,
+      "score": 325,
       "author": "Looky1173",
       "created": "2026-03-02 07:30:12",
       "created_at": 1772436612000
     },
     {
-      "id": 47215427,
-      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
-      "link": "https://github.com/getomnico/omni",
-      "score": 62,
-      "author": "prvnsmpth",
-      "created": "2026-03-02 08:58:14",
-      "created_at": 1772441894000
-    },
-    {
-      "id": 47216037,
-      "title": "Jolla phone – a full-stack European alternative",
-      "link": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-      "score": 144,
-      "author": "spinningslate",
-      "created": "2026-03-02 10:21:24",
-      "created_at": 1772446884000
-    },
-    {
-      "id": 47216047,
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "score": 135,
-      "author": "robtherobber",
-      "created": "2026-03-02 10:23:06",
-      "created_at": 1772446986000
-    },
-    {
-      "id": 47212355,
-      "title": "If AI writes code, should the session be part of the commit?",
-      "link": "https://github.com/mandel-macaque/memento",
-      "score": 310,
-      "author": "mandel_x",
-      "created": "2026-03-02 00:27:52",
-      "created_at": 1772411272000
+      "id": 47218188,
+      "title": "An Interesting Find: STM32 RDP1 Decryptor",
+      "link": "https://carlossless.io/stm32-rdp1-decryptor/",
+      "score": 45,
+      "author": "carlossless",
+      "created": "2026-03-02 14:12:18",
+      "created_at": 1772460738000
     }
   ],
   "code": 200,
