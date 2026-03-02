@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-02T05:10:29.078Z"
+    "lastUpdate": "2026-03-02T08:32:16.990Z"
   },
   "data": [
     {
       "id": 47193478,
       "title": "OpenAI – How to delete your account",
       "link": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-      "score": 1899,
+      "score": 1905,
       "author": "carlosrg",
       "created": "2026-02-28 10:41:55",
       "created_at": 1772275315000
@@ -19,34 +19,16 @@
       "id": 47202708,
       "title": "Microgpt",
       "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "score": 1748,
+      "score": 1799,
       "author": "tambourine_man",
       "created": "2026-03-01 01:39:26",
       "created_at": 1772329166000
     },
     {
-      "id": 47191232,
-      "title": "The United States and Israel have launched a major attack on Iran",
-      "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-      "score": 1177,
-      "author": "lavp",
-      "created": "2026-02-28 06:34:07",
-      "created_at": 1772260447000
-    },
-    {
-      "id": 47190997,
-      "title": "How do I cancel my ChatGPT subscription?",
-      "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-      "score": 1056,
-      "author": "tobr",
-      "created": "2026-02-28 05:55:01",
-      "created_at": 1772258101000
-    },
-    {
       "id": 47197505,
       "title": "The whole thing was a scam",
       "link": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "score": 948,
+      "score": 957,
       "author": "guilamu",
       "created": "2026-02-28 16:51:49",
       "created_at": 1772297509000
@@ -55,7 +37,7 @@
       "id": 47200420,
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "score": 791,
+      "score": 798,
       "author": "golfer",
       "created": "2026-02-28 21:24:16",
       "created_at": 1772313856000
@@ -64,7 +46,7 @@
       "id": 47206009,
       "title": "Ghostty – Terminal Emulator",
       "link": "https://ghostty.org/docs",
-      "score": 672,
+      "score": 717,
       "author": "oli5679",
       "created": "2026-03-01 12:13:03",
       "created_at": 1772367183000
@@ -73,28 +55,46 @@
       "id": 47197267,
       "title": "Obsidian Sync now has a headless client",
       "link": "https://help.obsidian.md/sync/headless",
-      "score": 571,
+      "score": 572,
       "author": "adilmoujahid",
       "created": "2026-02-28 16:31:53",
       "created_at": 1772296313000
     },
     {
+      "id": 47204571,
+      "title": "Switch to Claude without starting over",
+      "link": "https://claude.com/import-memory",
+      "score": 552,
+      "author": "doener",
+      "created": "2026-03-01 07:36:52",
+      "created_at": 1772350612000
+    },
+    {
       "id": 47193064,
       "title": "MCP server that reduces Claude Code context consumption by 98%",
       "link": "https://mksg.lu/blog/context-mode",
-      "score": 540,
+      "score": 548,
       "author": "mksglu",
       "created": "2026-02-28 10:01:20",
       "created_at": 1772272880000
     },
     {
-      "id": 47204571,
-      "title": "Switch to Claude without starting over",
-      "link": "https://claude.com/import-memory",
-      "score": 533,
-      "author": "doener",
-      "created": "2026-03-01 07:36:52",
-      "created_at": 1772350612000
+      "id": 47205890,
+      "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
+      "link": "https://99helpers.com/tools/ad-supported-chat",
+      "score": 537,
+      "author": "nickk81",
+      "created": "2026-03-01 11:49:01",
+      "created_at": 1772365741000
+    },
+    {
+      "id": 47196582,
+      "title": "Cognitive Debt: When Velocity Exceeds Comprehension",
+      "link": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
+      "score": 488,
+      "author": "pagade",
+      "created": "2026-02-28 15:39:10",
+      "created_at": 1772293150000
     }
   ],
   "code": 200,
