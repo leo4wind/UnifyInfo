@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-03T01:12:13.813Z"
+    "lastUpdate": "2026-03-03T05:09:53.261Z"
   },
   "data": [
     {
       "id": 47225130,
-      "title": "The workers behind Meta's smart glasses can see everything",
+      "title": "A hidden workforce behind Meta’s new smart glasses",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 427,
+      "score": 815,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
     },
     {
-      "id": 47224118,
-      "title": "Welcome (back) to Macintosh",
-      "link": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
-      "score": 230,
-      "author": "Udo_Schmitz",
-      "created": "2026-03-02 21:09:47",
-      "created_at": 1772485787000
-    },
-    {
-      "id": 47225318,
-      "title": "Seed of Might Color Correction Process (2023) [pdf]",
-      "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-      "score": 58,
-      "author": "haunter",
-      "created": "2026-03-02 22:49:47",
-      "created_at": 1772491787000
-    },
-    {
-      "id": 47225505,
-      "title": "Closure of the Weatheradio Service in Canada",
-      "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-      "score": 47,
-      "author": "da768",
-      "created": "2026-03-02 23:03:59",
-      "created_at": 1772492639000
-    },
-    {
-      "id": 47224295,
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "link": "https://www.ntik.me/posts/voice-agent",
-      "score": 130,
-      "author": "nicktikhonov",
-      "created": "2026-03-02 21:23:40",
-      "created_at": 1772486620000
-    },
-    {
       "id": 47223620,
-      "title": "British Columbia to end time changes, adopt year-round daylight time",
+      "title": "British Columbia is permanently adopting daylight time",
       "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 388,
+      "score": 585,
       "author": "ireflect",
       "created": "2026-03-02 20:30:52",
       "created_at": 1772483452000
     },
     {
-      "id": 47225726,
-      "title": "How to Build Your Own Quantum Computer",
-      "link": "https://physics.aps.org/articles/v19/24",
-      "score": 12,
-      "author": "tzury",
-      "created": "2026-03-02 23:22:50",
-      "created_at": 1772493770000
+      "id": 47226608,
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "score": 83,
+      "author": "danso",
+      "created": "2026-03-03 01:12:30",
+      "created_at": 1772500350000
     },
     {
-      "id": 47224832,
-      "title": "The 185-Microsecond Type Hint",
-      "link": "https://blog.sturdystatistics.com/posts/type_hint/",
-      "score": 35,
-      "author": "kianN",
-      "created": "2026-03-02 22:04:56",
-      "created_at": 1772489096000
+      "id": 47224295,
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "link": "https://www.ntik.me/posts/voice-agent",
+      "score": 271,
+      "author": "nicktikhonov",
+      "created": "2026-03-02 21:23:40",
+      "created_at": 1772486620000
     },
     {
-      "id": 47218743,
-      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-      "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "score": 245,
-      "author": "gmays",
-      "created": "2026-03-02 14:54:58",
-      "created_at": 1772463298000
+      "id": 47201132,
+      "title": "Simple Screw Counter",
+      "link": "https://mitxela.com/projects/screwcounter",
+      "score": 27,
+      "author": "jk_tech",
+      "created": "2026-02-28 22:41:33",
+      "created_at": 1772318493000
+    },
+    {
+      "id": 47225318,
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+      "score": 79,
+      "author": "haunter",
+      "created": "2026-03-02 22:49:47",
+      "created_at": 1772491787000
     },
     {
       "id": 47218175,
       "title": "New iPad Air, powered by M4",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-      "score": 311,
+      "score": 348,
       "author": "Garbage",
       "created": "2026-03-02 14:11:23",
       "created_at": 1772460683000
+    },
+    {
+      "id": 47218743,
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "score": 269,
+      "author": "gmays",
+      "created": "2026-03-02 14:54:58",
+      "created_at": 1772463298000
+    },
+    {
+      "id": 47225726,
+      "title": "How to Build Your Own Quantum Computer",
+      "link": "https://physics.aps.org/articles/v19/24",
+      "score": 61,
+      "author": "tzury",
+      "created": "2026-03-02 23:22:50",
+      "created_at": 1772493770000
+    },
+    {
+      "id": 47227999,
+      "title": "Intent-Based Commits",
+      "link": "https://github.com/adamveld12/ghost",
+      "score": 3,
+      "author": "adamveld12",
+      "created": "2026-03-03 04:20:37",
+      "created_at": 1772511637000
     }
   ],
   "code": 200,
