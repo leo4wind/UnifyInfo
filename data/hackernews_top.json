@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-03T05:09:53.261Z"
+    "lastUpdate": "2026-03-03T08:29:07.797Z"
   },
   "data": [
     {
       "id": 47225130,
-      "title": "A hidden workforce behind Meta’s new smart glasses",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 815,
+      "score": 1008,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
@@ -19,7 +19,7 @@
       "id": 47223620,
       "title": "British Columbia is permanently adopting daylight time",
       "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 585,
+      "score": 764,
       "author": "ireflect",
       "created": "2026-03-02 20:30:52",
       "created_at": 1772483452000
@@ -28,73 +28,73 @@
       "id": 47226608,
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
       "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 83,
+      "score": 236,
       "author": "danso",
       "created": "2026-03-03 01:12:30",
       "created_at": 1772500350000
     },
     {
-      "id": 47224295,
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "link": "https://www.ntik.me/posts/voice-agent",
-      "score": 271,
-      "author": "nicktikhonov",
-      "created": "2026-03-02 21:23:40",
-      "created_at": 1772486620000
-    },
-    {
       "id": 47201132,
-      "title": "Simple Screw Counter",
+      "title": "Simple screw counter",
       "link": "https://mitxela.com/projects/screwcounter",
-      "score": 27,
+      "score": 109,
       "author": "jk_tech",
       "created": "2026-02-28 22:41:33",
       "created_at": 1772318493000
     },
     {
-      "id": 47225318,
-      "title": "Seed of Might Color Correction Process (2023) [pdf]",
-      "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-      "score": 79,
-      "author": "haunter",
-      "created": "2026-03-02 22:49:47",
-      "created_at": 1772491787000
+      "id": 47228390,
+      "title": "Daily Driving GrapheneOS",
+      "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "score": 82,
+      "author": "zdw",
+      "created": "2026-03-03 05:18:24",
+      "created_at": 1772515104000
     },
     {
-      "id": 47218175,
-      "title": "New iPad Air, powered by M4",
-      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-      "score": 348,
-      "author": "Garbage",
-      "created": "2026-03-02 14:11:23",
-      "created_at": 1772460683000
+      "id": 47224295,
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "link": "https://www.ntik.me/posts/voice-agent",
+      "score": 370,
+      "author": "nicktikhonov",
+      "created": "2026-03-02 21:23:40",
+      "created_at": 1772486620000
     },
     {
-      "id": 47218743,
-      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-      "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "score": 269,
-      "author": "gmays",
-      "created": "2026-03-02 14:54:58",
-      "created_at": 1772463298000
+      "id": 47229119,
+      "title": "I built a pint-sized Macintosh",
+      "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+      "score": 17,
+      "author": "ingve",
+      "created": "2026-03-03 07:06:22",
+      "created_at": 1772521582000
     },
     {
-      "id": 47225726,
-      "title": "How to Build Your Own Quantum Computer",
-      "link": "https://physics.aps.org/articles/v19/24",
-      "score": 61,
-      "author": "tzury",
-      "created": "2026-03-02 23:22:50",
-      "created_at": 1772493770000
+      "id": 47229344,
+      "title": "Arm's Cortex X925: Reaching Desktop Performance",
+      "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "score": 7,
+      "author": "ingve",
+      "created": "2026-03-03 07:34:47",
+      "created_at": 1772523287000
     },
     {
-      "id": 47227999,
-      "title": "Intent-Based Commits",
-      "link": "https://github.com/adamveld12/ghost",
-      "score": 3,
-      "author": "adamveld12",
-      "created": "2026-03-03 04:20:37",
-      "created_at": 1772511637000
+      "id": 47196864,
+      "title": "DOS Memory Management",
+      "link": "https://www.os2museum.com/wp/dos-memory-management/",
+      "score": 35,
+      "author": "ingve",
+      "created": "2026-02-28 16:00:48",
+      "created_at": 1772294448000
+    },
+    {
+      "id": 47228639,
+      "title": "Buckle Up for Bumpier Skies",
+      "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
+      "score": 23,
+      "author": "littlexsparkee",
+      "created": "2026-03-03 05:51:02",
+      "created_at": 1772517062000
     }
   ],
   "code": 200,
