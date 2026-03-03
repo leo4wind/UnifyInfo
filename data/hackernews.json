@@ -3,59 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-03T08:29:07.243Z"
+    "lastUpdate": "2026-03-03T12:33:41.188Z"
   },
   "data": [
     {
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS",
       "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 2172,
+      "score": 2224,
       "author": "km",
       "created": "2026-03-02 06:48:07",
       "created_at": 1772434087000
     },
     {
-      "id": 47216047,
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "score": 1083,
-      "author": "robtherobber",
-      "created": "2026-03-02 10:23:06",
-      "created_at": 1772446986000
-    },
-    {
       "id": 47225130,
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1008,
+      "score": 1175,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
     },
     {
-      "id": 47206009,
-      "title": "Ghostty – Terminal Emulator",
-      "link": "https://ghostty.org/docs",
-      "score": 840,
-      "author": "oli5679",
-      "created": "2026-03-01 12:13:03",
-      "created_at": 1772367183000
+      "id": 47216047,
+      "title": "“Microslop” filtered in the official Microsoft Copilot Discord server",
+      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "score": 1112,
+      "author": "robtherobber",
+      "created": "2026-03-02 10:23:06",
+      "created_at": 1772446986000
     },
     {
       "id": 47223620,
       "title": "British Columbia is permanently adopting daylight time",
       "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 764,
+      "score": 890,
       "author": "ireflect",
       "created": "2026-03-02 20:30:52",
       "created_at": 1772483452000
     },
     {
+      "id": 47206009,
+      "title": "Ghostty – Terminal Emulator",
+      "link": "https://ghostty.org/docs",
+      "score": 846,
+      "author": "oli5679",
+      "created": "2026-03-01 12:13:03",
+      "created_at": 1772367183000
+    },
+    {
       "id": 47215489,
       "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
       "link": "https://e.foundation/e-os/",
-      "score": 618,
+      "score": 622,
       "author": "doener",
       "created": "2026-03-02 09:09:44",
       "created_at": 1772442584000
@@ -64,7 +64,7 @@
       "id": 47214864,
       "title": "How to talk to anyone and why you should",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "score": 590,
+      "score": 604,
       "author": "Looky1173",
       "created": "2026-03-02 07:30:12",
       "created_at": 1772436612000
@@ -79,22 +79,22 @@
       "created_at": 1772365741000
     },
     {
-      "id": 47204571,
-      "title": "Switch to Claude without starting over",
-      "link": "https://claude.com/import-memory",
-      "score": 584,
-      "author": "doener",
-      "created": "2026-03-01 07:36:52",
-      "created_at": 1772350612000
+      "id": 47212355,
+      "title": "If AI writes code, should the session be part of the commit?",
+      "link": "https://github.com/mandel-macaque/memento",
+      "score": 478,
+      "author": "mandel_x",
+      "created": "2026-03-02 00:27:52",
+      "created_at": 1772411272000
     },
     {
-      "id": 47204964,
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "link": "https://mlu-explain.github.io/decision-tree/",
-      "score": 544,
-      "author": "mschnell",
-      "created": "2026-03-01 08:55:52",
-      "created_at": 1772355352000
+      "id": 47213764,
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "score": 469,
+      "author": "aranaur",
+      "created": "2026-03-02 04:06:00",
+      "created_at": 1772424360000
     }
   ],
   "code": 200,

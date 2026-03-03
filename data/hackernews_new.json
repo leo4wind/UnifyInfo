@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-03T08:29:08.130Z"
+    "lastUpdate": "2026-03-03T12:33:41.578Z"
   },
   "data": [
     {
       "id": 47225130,
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1008,
+      "score": 1175,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
     },
     {
-      "id": 47223620,
-      "title": "British Columbia is permanently adopting daylight time",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 764,
-      "author": "ireflect",
-      "created": "2026-03-02 20:30:52",
-      "created_at": 1772483452000
-    },
-    {
-      "id": 47226608,
-      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 236,
-      "author": "danso",
-      "created": "2026-03-03 01:12:30",
-      "created_at": 1772500350000
-    },
-    {
-      "id": 47201132,
-      "title": "Simple screw counter",
-      "link": "https://mitxela.com/projects/screwcounter",
-      "score": 109,
-      "author": "jk_tech",
-      "created": "2026-02-28 22:41:33",
-      "created_at": 1772318493000
-    },
-    {
-      "id": 47228390,
-      "title": "Daily Driving GrapheneOS",
-      "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-      "score": 82,
-      "author": "zdw",
-      "created": "2026-03-03 05:18:24",
-      "created_at": 1772515104000
-    },
-    {
-      "id": 47224295,
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "link": "https://www.ntik.me/posts/voice-agent",
-      "score": 370,
-      "author": "nicktikhonov",
-      "created": "2026-03-02 21:23:40",
-      "created_at": 1772486620000
-    },
-    {
-      "id": 47229119,
-      "title": "I built a pint-sized Macintosh",
-      "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
-      "score": 17,
-      "author": "ingve",
-      "created": "2026-03-03 07:06:22",
-      "created_at": 1772521582000
+      "id": 47230663,
+      "title": "The beauty and terror of modding Windows",
+      "link": "https://windowsread.me/p/windhawk-explained",
+      "score": 30,
+      "author": "wild_pointer",
+      "created": "2026-03-03 10:49:05",
+      "created_at": 1772534945000
     },
     {
       "id": 47229344,
       "title": "Arm's Cortex X925: Reaching Desktop Performance",
       "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "score": 7,
+      "score": 131,
       "author": "ingve",
       "created": "2026-03-03 07:34:47",
       "created_at": 1772523287000
     },
     {
-      "id": 47196864,
-      "title": "DOS Memory Management",
-      "link": "https://www.os2museum.com/wp/dos-memory-management/",
-      "score": 35,
-      "author": "ingve",
-      "created": "2026-02-28 16:00:48",
-      "created_at": 1772294448000
+      "id": 47223620,
+      "title": "British Columbia is permanently adopting daylight time",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "score": 890,
+      "author": "ireflect",
+      "created": "2026-03-02 20:30:52",
+      "created_at": 1772483452000
     },
     {
-      "id": 47228639,
-      "title": "Buckle Up for Bumpier Skies",
-      "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
-      "score": 23,
-      "author": "littlexsparkee",
-      "created": "2026-03-03 05:51:02",
-      "created_at": 1772517062000
+      "id": 47230704,
+      "title": "The Xkcd thing, now interactive",
+      "link": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "score": 106,
+      "author": "memalign",
+      "created": "2026-03-03 10:56:52",
+      "created_at": 1772535412000
+    },
+    {
+      "id": 47226608,
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "score": 349,
+      "author": "danso",
+      "created": "2026-03-03 01:12:30",
+      "created_at": 1772500350000
+    },
+    {
+      "id": 47203827,
+      "title": "We Built a Video Rendering Engine by Lying to the Browser About What Time It Is",
+      "link": "https://blog.replit.com/browsers-dont-want-to-be-cameras",
+      "score": 65,
+      "author": "darshkpatel",
+      "created": "2026-03-01 04:50:02",
+      "created_at": 1772340602000
+    },
+    {
+      "id": 47201132,
+      "title": "Simple screw counter",
+      "link": "https://mitxela.com/projects/screwcounter",
+      "score": 171,
+      "author": "jk_tech",
+      "created": "2026-02-28 22:41:33",
+      "created_at": 1772318493000
+    },
+    {
+      "id": 47217224,
+      "title": "C64: Putting Sprite Multiplexing to Work",
+      "link": "https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/",
+      "score": 18,
+      "author": "ibobev",
+      "created": "2026-03-02 12:35:37",
+      "created_at": 1772454937000
+    },
+    {
+      "id": 47195476,
+      "title": "How to sew a Hyperbolic Blanket (2021)",
+      "link": "https://www.geometrygames.org/HyperbolicBlanket/index.html",
+      "score": 11,
+      "author": "aebtebeten",
+      "created": "2026-02-28 14:00:16",
+      "created_at": 1772287216000
     }
   ],
   "code": 200,
