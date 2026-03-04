@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-04T12:33:07.653Z"
+    "lastUpdate": "2026-03-04T16:30:46.999Z"
   },
   "data": [
+    {
+      "id": 47246110,
+      "title": "Nobody Gets Promoted for Simplicity",
+      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "score": 457,
+      "author": "aamederen",
+      "created": "2026-03-04 11:43:32",
+      "created_at": 1772624612000
+    },
+    {
+      "id": 47248319,
+      "title": "\"It Turns Out\"",
+      "link": "https://jsomers.net/blog/it-turns-out",
+      "score": 96,
+      "author": "Munksgaard",
+      "created": "2026-03-04 14:52:46",
+      "created_at": 1772635966000
+    },
+    {
+      "id": 47248341,
+      "title": "The one science reform we can all agree on, but we're too cowardly to do",
+      "link": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+      "score": 75,
+      "author": "sito42",
+      "created": "2026-03-04 14:53:48",
+      "created_at": 1772636028000
+    },
+    {
+      "id": 47249343,
+      "title": "Something is afoot in the land of Qwen",
+      "link": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "score": 39,
+      "author": "simonw",
+      "created": "2026-03-04 15:55:34",
+      "created_at": 1772639734000
+    },
+    {
+      "id": 47247033,
+      "title": "Glaze by Raycast",
+      "link": "https://www.glazeapp.com/",
+      "score": 111,
+      "author": "romac",
+      "created": "2026-03-04 13:21:31",
+      "created_at": 1772630491000
+    },
     {
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 849,
+      "score": 1049,
       "author": "pabs3",
       "created": "2026-03-04 00:58:31",
       "created_at": 1772585911000
     },
     {
-      "id": 47245211,
-      "title": "Bet on German Train Delays",
-      "link": "https://bahn.bet",
-      "score": 80,
-      "author": "indiantinker",
-      "created": "2026-03-04 09:42:20",
-      "created_at": 1772617340000
+      "id": 47246296,
+      "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "link": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "score": 101,
+      "author": "bilsbie",
+      "created": "2026-03-04 12:04:31",
+      "created_at": 1772625871000
     },
     {
-      "id": 47244291,
-      "title": "RFC 9849. TLS Encrypted Client Hello",
-      "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "score": 122,
-      "author": "P_qRs",
-      "created": "2026-03-04 07:25:24",
-      "created_at": 1772609124000
+      "id": 47247645,
+      "title": "Apple Introduces MacBook Neo",
+      "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "score": 455,
+      "author": "dm",
+      "created": "2026-03-04 14:16:41",
+      "created_at": 1772633801000
     },
     {
-      "id": 47243272,
-      "title": "Agentic Engineering Patterns",
-      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "score": 215,
-      "author": "r4um",
-      "created": "2026-03-04 05:00:37",
-      "created_at": 1772600437000
+      "id": 47204994,
+      "title": "Libre Solar – Open Hardware for Renewable Energy",
+      "link": "https://libre.solar",
+      "score": 58,
+      "author": "evolve2k",
+      "created": "2026-03-01 09:01:05",
+      "created_at": 1772355665000
     },
     {
-      "id": 47206647,
-      "title": "RE#: how we built the fastest regex engine in F#",
-      "link": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
-      "score": 41,
-      "author": "exceptione",
-      "created": "2026-03-01 13:47:36",
-      "created_at": 1772372856000
-    },
-    {
-      "id": 47243804,
-      "title": "Better JIT for Postgres",
-      "link": "https://github.com/vladich/pg_jitter",
-      "score": 82,
-      "author": "vladich",
-      "created": "2026-03-04 06:17:10",
-      "created_at": 1772605030000
-    },
-    {
-      "id": 47243069,
-      "title": "A CPU that runs entirely on GPU",
-      "link": "https://github.com/robertcprice/nCPU",
-      "score": 130,
-      "author": "cypres",
-      "created": "2026-03-04 04:30:32",
-      "created_at": 1772598632000
-    },
-    {
-      "id": 47232453,
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 802,
-      "author": "scrlk",
-      "created": "2026-03-03 14:02:06",
-      "created_at": 1772546526000
-    },
-    {
-      "id": 47242193,
-      "title": "Graphics Programming Resources",
-      "link": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 117,
-      "author": "abetusk",
-      "created": "2026-03-04 02:23:01",
-      "created_at": 1772590981000
+      "id": 47244395,
+      "title": "Chimpanzees Are into Crystals",
+      "link": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+      "score": 58,
+      "author": "jimnotgym",
+      "created": "2026-03-04 07:47:06",
+      "created_at": 1772610426000
     }
   ],
   "code": 200,
