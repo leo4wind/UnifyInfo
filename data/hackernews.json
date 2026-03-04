@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-04T16:30:46.827Z"
+    "lastUpdate": "2026-03-04T20:22:30.901Z"
   },
   "data": [
     {
       "id": 47225130,
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1389,
+      "score": 1401,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
@@ -19,34 +19,43 @@
       "id": 47230704,
       "title": "The Xkcd thing, now interactive",
       "link": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-      "score": 1264,
+      "score": 1275,
       "author": "memalign",
       "created": "2026-03-03 10:56:52",
       "created_at": 1772535412000
     },
     {
-      "id": 47223620,
-      "title": "British Columbia is permanently adopting daylight time",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 1145,
-      "author": "ireflect",
-      "created": "2026-03-02 20:30:52",
-      "created_at": 1772483452000
-    },
-    {
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 1049,
+      "score": 1159,
       "author": "pabs3",
       "created": "2026-03-04 00:58:31",
       "created_at": 1772585911000
     },
     {
+      "id": 47223620,
+      "title": "British Columbia is permanently adopting daylight time",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "score": 1149,
+      "author": "ireflect",
+      "created": "2026-03-02 20:30:52",
+      "created_at": 1772483452000
+    },
+    {
+      "id": 47247645,
+      "title": "MacBook Neo",
+      "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "score": 1132,
+      "author": "dm",
+      "created": "2026-03-04 14:16:41",
+      "created_at": 1772633801000
+    },
+    {
       "id": 47232768,
       "title": "I'm reluctant to verify my identity or age for any online services",
       "link": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-      "score": 952,
+      "score": 959,
       "author": "speckx",
       "created": "2026-03-03 14:22:25",
       "created_at": 1772547745000
@@ -55,7 +64,7 @@
       "id": 47232453,
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 825,
+      "score": 831,
       "author": "scrlk",
       "created": "2026-03-03 14:02:06",
       "created_at": 1772546526000
@@ -64,37 +73,28 @@
       "id": 47230710,
       "title": "Claude's Cycles [pdf]",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 719,
+      "score": 745,
       "author": "fs123",
       "created": "2026-03-03 10:57:42",
       "created_at": 1772535462000
     },
     {
+      "id": 47246110,
+      "title": "Nobody Gets Promoted for Simplicity",
+      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "score": 700,
+      "author": "aamederen",
+      "created": "2026-03-04 11:43:32",
+      "created_at": 1772624612000
+    },
+    {
       "id": 47226608,
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
       "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 589,
+      "score": 591,
       "author": "danso",
       "created": "2026-03-03 01:12:30",
       "created_at": 1772500350000
-    },
-    {
-      "id": 47224295,
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "link": "https://www.ntik.me/posts/voice-agent",
-      "score": 560,
-      "author": "nicktikhonov",
-      "created": "2026-03-02 21:23:40",
-      "created_at": 1772486620000
-    },
-    {
-      "id": 47232158,
-      "title": "I'm losing the SEO battle for my own open source project",
-      "link": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
-      "score": 501,
-      "author": "devinitely",
-      "created": "2026-03-03 13:39:38",
-      "created_at": 1772545178000
     }
   ],
   "code": 200,
