@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-04T05:03:35.115Z"
+    "lastUpdate": "2026-03-04T08:27:18.023Z"
   },
   "data": [
     {
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 268,
+      "score": 535,
       "author": "pabs3",
       "created": "2026-03-04 00:58:31",
       "created_at": 1772585911000
     },
     {
-      "id": 47242725,
-      "title": "California's Digital Age Assurance Act, and FOSS",
-      "link": "https://runxiyu.org/comp/ab1043/",
-      "score": 49,
-      "author": "todsacerdoti",
-      "created": "2026-03-04 03:36:18",
-      "created_at": 1772595378000
+      "id": 47244291,
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "score": 24,
+      "author": "P_qRs",
+      "created": "2026-03-04 07:25:24",
+      "created_at": 1772609124000
+    },
+    {
+      "id": 47243804,
+      "title": "Better JIT for Postgres",
+      "link": "https://github.com/vladich/pg_jitter",
+      "score": 32,
+      "author": "vladich",
+      "created": "2026-03-04 06:17:10",
+      "created_at": 1772605030000
+    },
+    {
+      "id": 47243272,
+      "title": "Agentic Engineering Patterns",
+      "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "score": 78,
+      "author": "r4um",
+      "created": "2026-03-04 05:00:37",
+      "created_at": 1772600437000
     },
     {
       "id": 47241817,
       "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
       "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
-      "score": 71,
+      "score": 191,
       "author": "1659447091",
       "created": "2026-03-04 01:31:05",
       "created_at": 1772587865000
     },
     {
-      "id": 47242193,
-      "title": "Graphics Programming Resources",
-      "link": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 36,
-      "author": "abetusk",
-      "created": "2026-03-04 02:23:01",
-      "created_at": 1772590981000
-    },
-    {
-      "id": 47242637,
-      "title": "Speculative Speculative Decoding (SSD)",
-      "link": "https://arxiv.org/abs/2603.03251",
-      "score": 20,
-      "author": "E-Reverance",
-      "created": "2026-03-04 03:24:20",
-      "created_at": 1772594660000
-    },
-    {
-      "id": 47241976,
-      "title": "Weave – A language aware merge algorithm based on entities",
-      "link": "https://github.com/Ataraxy-Labs/weave",
-      "score": 57,
-      "author": "rs545837",
-      "created": "2026-03-04 01:52:21",
-      "created_at": 1772589141000
-    },
-    {
-      "id": 47242765,
-      "title": "Nobody Gets Promoted for Simplicity",
-      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "score": 32,
-      "author": "SerCe",
-      "created": "2026-03-04 03:40:18",
-      "created_at": 1772595618000
+      "id": 47243069,
+      "title": "A CPU that runs entirely on GPU",
+      "link": "https://github.com/robertcprice/nCPU",
+      "score": 61,
+      "author": "cypres",
+      "created": "2026-03-04 04:30:32",
+      "created_at": 1772598632000
     },
     {
       "id": 47232453,
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 720,
+      "score": 767,
       "author": "scrlk",
       "created": "2026-03-03 14:02:06",
       "created_at": 1772546526000
     },
     {
-      "id": 47242342,
-      "title": "Mac external displays for designers and developers, part 2",
-      "link": "https://bjango.com/articles/macexternaldisplays2/",
-      "score": 26,
-      "author": "fragmede",
-      "created": "2026-03-04 02:43:05",
-      "created_at": 1772592185000
+      "id": 47242193,
+      "title": "Graphics Programming Resources",
+      "link": "https://develop--gpvm-website.netlify.app/resources/",
+      "score": 75,
+      "author": "abetusk",
+      "created": "2026-03-04 02:23:01",
+      "created_at": 1772590981000
     },
     {
       "id": 47230710,
       "title": "Claude's Cycles [pdf]",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 550,
+      "score": 608,
       "author": "fs123",
       "created": "2026-03-03 10:57:42",
       "created_at": 1772535462000
+    },
+    {
+      "id": 47205031,
+      "title": "On the Design of Programming Languages (1974) [pdf]",
+      "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
+      "score": 27,
+      "author": "jruohonen",
+      "created": "2026-03-01 09:09:04",
+      "created_at": 1772356144000
     }
   ],
   "code": 200,
