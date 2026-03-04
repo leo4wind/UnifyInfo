@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-03T20:22:22.195Z"
+    "lastUpdate": "2026-03-04T01:08:21.652Z"
   },
   "data": [
     {
       "id": 47214645,
       "title": "Motorola announces a partnership with GrapheneOS",
       "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "score": 2285,
+      "score": 2300,
       "author": "km",
       "created": "2026-03-02 06:48:07",
       "created_at": 1772434087000
@@ -19,7 +19,7 @@
       "id": 47225130,
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1333,
+      "score": 1366,
       "author": "sandbach",
       "created": "2026-03-02 22:32:35",
       "created_at": 1772490755000
@@ -28,73 +28,73 @@
       "id": 47216047,
       "title": "“Microslop” filtered in the official Microsoft Copilot Discord server",
       "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "score": 1145,
+      "score": 1150,
       "author": "robtherobber",
       "created": "2026-03-02 10:23:06",
       "created_at": 1772446986000
     },
     {
-      "id": 47223620,
-      "title": "British Columbia is permanently adopting daylight time",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 1087,
-      "author": "ireflect",
-      "created": "2026-03-02 20:30:52",
-      "created_at": 1772483452000
-    },
-    {
       "id": 47230704,
       "title": "The Xkcd thing, now interactive",
       "link": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-      "score": 940,
+      "score": 1129,
       "author": "memalign",
       "created": "2026-03-03 10:56:52",
       "created_at": 1772535412000
     },
     {
+      "id": 47223620,
+      "title": "British Columbia is permanently adopting daylight time",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "score": 1106,
+      "author": "ireflect",
+      "created": "2026-03-02 20:30:52",
+      "created_at": 1772483452000
+    },
+    {
       "id": 47232768,
       "title": "I'm reluctant to verify my identity or age for any online services",
       "link": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-      "score": 706,
+      "score": 871,
       "author": "speckx",
       "created": "2026-03-03 14:22:25",
       "created_at": 1772547745000
     },
     {
-      "id": 47215489,
-      "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
-      "link": "https://e.foundation/e-os/",
-      "score": 630,
-      "author": "doener",
-      "created": "2026-03-02 09:09:44",
-      "created_at": 1772442584000
+      "id": 47232453,
+      "title": "MacBook Pro with M5 Pro and M5 Max",
+      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "score": 641,
+      "author": "scrlk",
+      "created": "2026-03-03 14:02:06",
+      "created_at": 1772546526000
     },
     {
       "id": 47214864,
       "title": "How to talk to anyone and why you should",
       "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "score": 628,
+      "score": 635,
       "author": "Looky1173",
       "created": "2026-03-02 07:30:12",
       "created_at": 1772436612000
     },
     {
+      "id": 47215489,
+      "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
+      "link": "https://e.foundation/e-os/",
+      "score": 632,
+      "author": "doener",
+      "created": "2026-03-02 09:09:44",
+      "created_at": 1772442584000
+    },
+    {
       "id": 47226608,
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
       "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 548,
+      "score": 564,
       "author": "danso",
       "created": "2026-03-03 01:12:30",
       "created_at": 1772500350000
-    },
-    {
-      "id": 47224295,
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "link": "https://www.ntik.me/posts/voice-agent",
-      "score": 545,
-      "author": "nicktikhonov",
-      "created": "2026-03-02 21:23:40",
-      "created_at": 1772486620000
     }
   ],
   "code": 200,
