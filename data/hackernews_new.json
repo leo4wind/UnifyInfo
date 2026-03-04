@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-04T01:08:21.895Z"
+    "lastUpdate": "2026-03-04T05:03:35.196Z"
   },
   "data": [
+    {
+      "id": 47241551,
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "score": 268,
+      "author": "pabs3",
+      "created": "2026-03-04 00:58:31",
+      "created_at": 1772585911000
+    },
+    {
+      "id": 47242725,
+      "title": "California's Digital Age Assurance Act, and FOSS",
+      "link": "https://runxiyu.org/comp/ab1043/",
+      "score": 49,
+      "author": "todsacerdoti",
+      "created": "2026-03-04 03:36:18",
+      "created_at": 1772595378000
+    },
+    {
+      "id": 47241817,
+      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "score": 71,
+      "author": "1659447091",
+      "created": "2026-03-04 01:31:05",
+      "created_at": 1772587865000
+    },
+    {
+      "id": 47242193,
+      "title": "Graphics Programming Resources",
+      "link": "https://develop--gpvm-website.netlify.app/resources/",
+      "score": 36,
+      "author": "abetusk",
+      "created": "2026-03-04 02:23:01",
+      "created_at": 1772590981000
+    },
+    {
+      "id": 47242637,
+      "title": "Speculative Speculative Decoding (SSD)",
+      "link": "https://arxiv.org/abs/2603.03251",
+      "score": 20,
+      "author": "E-Reverance",
+      "created": "2026-03-04 03:24:20",
+      "created_at": 1772594660000
+    },
+    {
+      "id": 47241976,
+      "title": "Weave – A language aware merge algorithm based on entities",
+      "link": "https://github.com/Ataraxy-Labs/weave",
+      "score": 57,
+      "author": "rs545837",
+      "created": "2026-03-04 01:52:21",
+      "created_at": 1772589141000
+    },
+    {
+      "id": 47242765,
+      "title": "Nobody Gets Promoted for Simplicity",
+      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "score": 32,
+      "author": "SerCe",
+      "created": "2026-03-04 03:40:18",
+      "created_at": 1772595618000
+    },
     {
       "id": 47232453,
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 641,
+      "score": 720,
       "author": "scrlk",
       "created": "2026-03-03 14:02:06",
       "created_at": 1772546526000
     },
     {
-      "id": 47240441,
-      "title": "Talos: Hardware accelerator for deep convolutional neural networks",
-      "link": "https://talos.wtf/",
-      "score": 40,
-      "author": "llamatheollama",
-      "created": "2026-03-03 23:11:11",
-      "created_at": 1772579471000
-    },
-    {
-      "id": 47239943,
-      "title": "Don't make me talk to your chatbot",
-      "link": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
-      "score": 192,
-      "author": "pkilgore",
-      "created": "2026-03-03 22:24:06",
-      "created_at": 1772576646000
-    },
-    {
-      "id": 47236169,
-      "title": "GPT‑5.3 Instant",
-      "link": "https://openai.com/index/gpt-5-3-instant/",
-      "score": 279,
-      "author": "meetpateltech",
-      "created": "2026-03-03 17:57:33",
-      "created_at": 1772560653000
-    },
-    {
-      "id": 47236958,
-      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
-      "score": 233,
-      "author": "vanburen",
-      "created": "2026-03-03 18:54:06",
-      "created_at": 1772564046000
-    },
-    {
-      "id": 47239042,
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "link": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "score": 87,
-      "author": "spacemarine1",
-      "created": "2026-03-03 21:10:27",
-      "created_at": 1772572227000
-    },
-    {
-      "id": 47204027,
-      "title": "Textadept",
-      "link": "https://orbitalquark.github.io/textadept/",
-      "score": 58,
-      "author": "giancarlostoro",
-      "created": "2026-03-01 05:36:58",
-      "created_at": 1772343418000
+      "id": 47242342,
+      "title": "Mac external displays for designers and developers, part 2",
+      "link": "https://bjango.com/articles/macexternaldisplays2/",
+      "score": 26,
+      "author": "fragmede",
+      "created": "2026-03-04 02:43:05",
+      "created_at": 1772592185000
     },
     {
       "id": 47230710,
       "title": "Claude's Cycles [pdf]",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 436,
+      "score": 550,
       "author": "fs123",
       "created": "2026-03-03 10:57:42",
       "created_at": 1772535462000
-    },
-    {
-      "id": 47240212,
-      "title": "Helsinki just went a full year without a single traffic death",
-      "link": "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/",
-      "score": 124,
-      "author": "mooreds",
-      "created": "2026-03-03 22:49:54",
-      "created_at": 1772578194000
-    },
-    {
-      "id": 47240694,
-      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
-      "link": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-      "score": 87,
-      "author": "wrxd",
-      "created": "2026-03-03 23:34:05",
-      "created_at": 1772580845000
     }
   ],
   "code": 200,
