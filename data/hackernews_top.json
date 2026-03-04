@@ -3,59 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-04T08:27:18.023Z"
+    "lastUpdate": "2026-03-04T12:33:07.653Z"
   },
   "data": [
     {
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 535,
+      "score": 849,
       "author": "pabs3",
       "created": "2026-03-04 00:58:31",
       "created_at": 1772585911000
     },
     {
+      "id": 47245211,
+      "title": "Bet on German Train Delays",
+      "link": "https://bahn.bet",
+      "score": 80,
+      "author": "indiantinker",
+      "created": "2026-03-04 09:42:20",
+      "created_at": 1772617340000
+    },
+    {
       "id": 47244291,
       "title": "RFC 9849. TLS Encrypted Client Hello",
       "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "score": 24,
+      "score": 122,
       "author": "P_qRs",
       "created": "2026-03-04 07:25:24",
       "created_at": 1772609124000
     },
     {
-      "id": 47243804,
-      "title": "Better JIT for Postgres",
-      "link": "https://github.com/vladich/pg_jitter",
-      "score": 32,
-      "author": "vladich",
-      "created": "2026-03-04 06:17:10",
-      "created_at": 1772605030000
-    },
-    {
       "id": 47243272,
       "title": "Agentic Engineering Patterns",
       "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "score": 78,
+      "score": 215,
       "author": "r4um",
       "created": "2026-03-04 05:00:37",
       "created_at": 1772600437000
     },
     {
-      "id": 47241817,
-      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
-      "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
-      "score": 191,
-      "author": "1659447091",
-      "created": "2026-03-04 01:31:05",
-      "created_at": 1772587865000
+      "id": 47206647,
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "link": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
+      "score": 41,
+      "author": "exceptione",
+      "created": "2026-03-01 13:47:36",
+      "created_at": 1772372856000
+    },
+    {
+      "id": 47243804,
+      "title": "Better JIT for Postgres",
+      "link": "https://github.com/vladich/pg_jitter",
+      "score": 82,
+      "author": "vladich",
+      "created": "2026-03-04 06:17:10",
+      "created_at": 1772605030000
     },
     {
       "id": 47243069,
       "title": "A CPU that runs entirely on GPU",
       "link": "https://github.com/robertcprice/nCPU",
-      "score": 61,
+      "score": 130,
       "author": "cypres",
       "created": "2026-03-04 04:30:32",
       "created_at": 1772598632000
@@ -64,7 +73,7 @@
       "id": 47232453,
       "title": "MacBook Pro with M5 Pro and M5 Max",
       "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "score": 767,
+      "score": 802,
       "author": "scrlk",
       "created": "2026-03-03 14:02:06",
       "created_at": 1772546526000
@@ -73,28 +82,10 @@
       "id": 47242193,
       "title": "Graphics Programming Resources",
       "link": "https://develop--gpvm-website.netlify.app/resources/",
-      "score": 75,
+      "score": 117,
       "author": "abetusk",
       "created": "2026-03-04 02:23:01",
       "created_at": 1772590981000
-    },
-    {
-      "id": 47230710,
-      "title": "Claude's Cycles [pdf]",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "score": 608,
-      "author": "fs123",
-      "created": "2026-03-03 10:57:42",
-      "created_at": 1772535462000
-    },
-    {
-      "id": 47205031,
-      "title": "On the Design of Programming Languages (1974) [pdf]",
-      "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
-      "score": 27,
-      "author": "jruohonen",
-      "created": "2026-03-01 09:09:04",
-      "created_at": 1772356144000
     }
   ],
   "code": 200,
