@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-05T17:53:33.961Z"
+    "lastUpdate": "2026-03-05T20:28:32.428Z"
   },
   "data": [
+    {
+      "id": 47265045,
+      "title": "GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4/",
+      "score": 282,
+      "author": "mudkipdev",
+      "created": "2026-03-05 18:08:10",
+      "created_at": 1772734090000
+    },
     {
       "id": 47263323,
       "title": "Wikipedia in read-only mode following mass admin account compromise",
       "link": "https://www.wikimediastatus.net",
-      "score": 274,
+      "score": 651,
       "author": "greyface-",
       "created": "2026-03-05 16:04:54",
       "created_at": 1772726694000
     },
     {
-      "id": 47263036,
-      "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-      "link": "https://jido.run/blog/jido-2-0-is-here",
-      "score": 106,
-      "author": "mikehostetler",
-      "created": "2026-03-05 15:48:52",
-      "created_at": 1772725732000
+      "id": 47264756,
+      "title": "The Brand Age",
+      "link": "https://paulgraham.com/brandage.html",
+      "score": 85,
+      "author": "bigwheels",
+      "created": "2026-03-05 17:44:10",
+      "created_at": 1772732650000
     },
     {
-      "id": 47261561,
-      "title": "Good software knows when to stop",
-      "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "score": 152,
-      "author": "ssaboum",
-      "created": "2026-03-05 13:52:43",
-      "created_at": 1772718763000
+      "id": 47266030,
+      "title": "Let's Get Physical",
+      "link": "https://m4iler.cloud/posts/lets-get-physical/",
+      "score": 34,
+      "author": "MBCook",
+      "created": "2026-03-05 19:21:03",
+      "created_at": 1772738463000
+    },
+    {
+      "id": 47215602,
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "link": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+      "score": 37,
+      "author": "todsacerdoti",
+      "created": "2026-03-02 09:26:04",
+      "created_at": 1772443564000
+    },
+    {
+      "id": 47266084,
+      "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
+      "link": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "score": 129,
+      "author": "klausa",
+      "created": "2026-03-05 19:24:35",
+      "created_at": 1772738675000
     },
     {
       "id": 47263595,
       "title": "A GitHub Issue Title Compromised 4k Developer Machines",
       "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "score": 34,
+      "score": 179,
       "author": "edf13",
       "created": "2026-03-05 16:22:01",
       "created_at": 1772727721000
     },
     {
+      "id": 47261561,
+      "title": "Good software knows when to stop",
+      "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "score": 245,
+      "author": "ssaboum",
+      "created": "2026-03-05 13:52:43",
+      "created_at": 1772718763000
+    },
+    {
+      "id": 47263036,
+      "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+      "link": "https://jido.run/blog/jido-2-0-is-here",
+      "score": 180,
+      "author": "mikehostetler",
+      "created": "2026-03-05 15:48:52",
+      "created_at": 1772725732000
+    },
+    {
       "id": 47264741,
       "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
       "link": "",
-      "score": 4,
+      "score": 20,
       "author": "Gobhanu",
       "created": "2026-03-05 17:43:31",
       "created_at": 1772732611000
-    },
-    {
-      "id": 47258801,
-      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-      "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
-      "score": 301,
-      "author": "ipotapov",
-      "created": "2026-03-05 07:43:41",
-      "created_at": 1772696621000
-    },
-    {
-      "id": 47255881,
-      "title": "Google Workspace CLI",
-      "link": "https://github.com/googleworkspace/cli",
-      "score": 819,
-      "author": "gonzalovargas",
-      "created": "2026-03-05 00:22:09",
-      "created_at": 1772670129000
-    },
-    {
-      "id": 47261734,
-      "title": "Fast-Servers",
-      "link": "https://geocar.sdf1.org/fast-servers.html",
-      "score": 52,
-      "author": "tosh",
-      "created": "2026-03-05 14:11:22",
-      "created_at": 1772719882000
-    },
-    {
-      "id": 47262347,
-      "title": "Google Safe Browsing missed 84% of confirmed phishing sites",
-      "link": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
-      "score": 176,
-      "author": "jdup7",
-      "created": "2026-03-05 15:03:22",
-      "created_at": 1772723002000
-    },
-    {
-      "id": 47263661,
-      "title": "Datasets for Reconstructing Visual Perception from Brain Data",
-      "link": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
-      "score": 8,
-      "author": "katsee",
-      "created": "2026-03-05 16:26:29",
-      "created_at": 1772727989000
     }
   ],
   "code": 200,
