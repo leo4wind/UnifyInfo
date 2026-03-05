@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-05T05:08:47.443Z"
+    "lastUpdate": "2026-03-05T08:29:04.762Z"
   },
   "data": [
+    {
+      "id": 47258801,
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+      "score": 22,
+      "author": "ipotapov",
+      "created": "2026-03-05 07:43:41",
+      "created_at": 1772696621000
+    },
     {
       "id": 47255881,
       "title": "Google Workspace CLI",
       "link": "https://github.com/googleworkspace/cli",
-      "score": 298,
+      "score": 523,
       "author": "gonzalovargas",
       "created": "2026-03-05 00:22:09",
       "created_at": 1772670129000
     },
     {
+      "id": 47257637,
+      "title": "You Just Reveived",
+      "link": "https://dylan.gr/1772520728",
+      "score": 125,
+      "author": "djnaraps",
+      "created": "2026-03-05 04:37:43",
+      "created_at": 1772685463000
+    },
+    {
+      "id": 47258455,
+      "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+      "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+      "score": 28,
+      "author": "bonefishgrill",
+      "created": "2026-03-05 06:59:30",
+      "created_at": 1772693970000
+    },
+    {
       "id": 47247645,
       "title": "MacBook Neo",
       "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "score": 1667,
+      "score": 1758,
       "author": "dm",
       "created": "2026-03-04 14:16:41",
       "created_at": 1772633801000
     },
     {
+      "id": 47258885,
+      "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+      "link": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+      "score": 8,
+      "author": "mpweiher",
+      "created": "2026-03-05 07:57:25",
+      "created_at": 1772697445000
+    },
+    {
       "id": 47253177,
       "title": "Building a new Flash",
       "link": "https://bill.newgrounds.com/news/post/1607118",
-      "score": 435,
+      "score": 519,
       "author": "TechPlasma",
       "created": "2026-03-04 20:16:03",
       "created_at": 1772655363000
     },
     {
-      "id": 47256923,
-      "title": "What Python's asyncio primitives get wrong about shared state",
-      "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-      "score": 20,
-      "author": "goodoldneon",
-      "created": "2026-03-05 02:55:57",
-      "created_at": 1772679357000
-    },
-    {
-      "id": 47255662,
-      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "score": 388,
-      "author": "SilverElfin",
-      "created": "2026-03-04 23:51:10",
-      "created_at": 1772668270000
-    },
-    {
-      "id": 47249343,
-      "title": "Something is afoot in the land of Qwen",
-      "link": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "score": 592,
-      "author": "simonw",
-      "created": "2026-03-04 15:55:34",
-      "created_at": 1772639734000
-    },
-    {
-      "id": 47254516,
-      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
-      "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
-      "score": 78,
-      "author": "Anon84",
-      "created": "2026-03-04 21:56:20",
-      "created_at": 1772661380000
-    },
-    {
-      "id": 47203533,
-      "title": "Malm Whale",
-      "link": "https://www.atlasobscura.com/places/malm-whale",
+      "id": 47258076,
+      "title": "Relax NG is a schema language for XML",
+      "link": "https://relaxng.org/",
       "score": 17,
-      "author": "thunderbong",
-      "created": "2026-03-01 03:56:42",
-      "created_at": 1772337402000
+      "author": "Frotag",
+      "created": "2026-03-05 06:01:18",
+      "created_at": 1772690478000
     },
     {
-      "id": 47249744,
-      "title": "Humans 40k yrs ago developed a system of conventional signs",
-      "link": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
-      "score": 87,
-      "author": "bikenaga",
-      "created": "2026-03-04 16:20:36",
-      "created_at": 1772641236000
+      "id": 47257352,
+      "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+      "link": "https://poppy-connection-keeper.netlify.app/",
+      "score": 76,
+      "author": "mahirhiro",
+      "created": "2026-03-05 03:56:38",
+      "created_at": 1772682998000
     },
     {
-      "id": 47245491,
-      "title": "Moss is a pixel canvas where every brush is a tiny program",
-      "link": "https://www.moss.town/",
-      "score": 212,
-      "author": "smusamashah",
-      "created": "2026-03-04 10:21:13",
-      "created_at": 1772619673000
+      "id": 47257394,
+      "title": "The L in \"LLM\" Stands for Lying",
+      "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "score": 76,
+      "author": "LorenDB",
+      "created": "2026-03-05 04:02:32",
+      "created_at": 1772683352000
     }
   ],
   "code": 200,
