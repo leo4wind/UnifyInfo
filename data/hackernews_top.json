@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-06T08:25:47.683Z"
+    "lastUpdate": "2026-03-06T12:31:54.034Z"
   },
   "data": [
+    {
+      "id": 47272799,
+      "title": "LibreSprite – open-source pixel art editor",
+      "link": "https://libresprite.github.io/",
+      "score": 55,
+      "author": "nicoloren",
+      "created": "2026-03-06 09:22:00",
+      "created_at": 1772788920000
+    },
     {
       "id": 47270784,
       "title": "System76 on Age Verification Laws",
       "link": "https://blog.system76.com/post/system76-on-age-verification/",
-      "score": 232,
+      "score": 482,
       "author": "LorenDB",
       "created": "2026-03-06 04:12:26",
       "created_at": 1772770346000
     },
     {
+      "id": 47272534,
+      "title": "GPL upgrades via section 14 proxy delegation",
+      "link": "https://runxiyu.org/comp/gplproxy/",
+      "score": 60,
+      "author": "weinzierl",
+      "created": "2026-03-06 08:41:51",
+      "created_at": 1772786511000
+    },
+    {
       "id": 47265045,
       "title": "GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4/",
-      "score": 799,
+      "score": 874,
       "author": "mudkipdev",
       "created": "2026-03-05 18:08:10",
       "created_at": 1772734090000
     },
     {
-      "id": 47270807,
-      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-      "link": "https://dev.moment.com/",
-      "score": 47,
-      "author": "armandhammer10",
-      "created": "2026-03-06 04:15:40",
-      "created_at": 1772770540000
+      "id": 47273854,
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+      "score": 24,
+      "author": "todsacerdoti",
+      "created": "2026-03-06 11:53:18",
+      "created_at": 1772797998000
     },
     {
       "id": 47252971,
       "title": "10% of Firefox crashes are caused by bitflips",
       "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "score": 552,
+      "score": 700,
       "author": "marvinborner",
       "created": "2026-03-04 19:58:24",
       "created_at": 1772654304000
     },
     {
+      "id": 47270807,
+      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "link": "https://dev.moment.com/",
+      "score": 107,
+      "author": "armandhammer10",
+      "created": "2026-03-06 04:15:40",
+      "created_at": 1772770540000
+    },
+    {
+      "id": 47232091,
+      "title": "Ask HN: How many of you hold an amateur radio license in your country?",
+      "link": "",
+      "score": 32,
+      "author": "ToddWBurgess",
+      "created": "2026-03-03 13:34:10",
+      "created_at": 1772544850000
+    },
+    {
       "id": 47263595,
       "title": "A GitHub Issue Title Compromised 4k Developer Machines",
       "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "score": 402,
+      "score": 488,
       "author": "edf13",
       "created": "2026-03-05 16:22:01",
       "created_at": 1772727721000
     },
     {
-      "id": 47264756,
-      "title": "The Brand Age",
-      "link": "https://paulgraham.com/brandage.html",
-      "score": 330,
-      "author": "bigwheels",
-      "created": "2026-03-05 17:44:10",
-      "created_at": 1772732650000
-    },
-    {
-      "id": 47268391,
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "link": "https://www.anthropic.com/research/labor-market-impacts",
-      "score": 173,
-      "author": "jjwiseman",
-      "created": "2026-03-05 22:55:01",
-      "created_at": 1772751301000
-    },
-    {
-      "id": 47269263,
-      "title": "Where things stand with the Department of War",
-      "link": "https://www.anthropic.com/news/where-stand-department-war",
-      "score": 413,
-      "author": "surprisetalk",
-      "created": "2026-03-06 00:40:41",
-      "created_at": 1772757641000
-    },
-    {
-      "id": 47261561,
-      "title": "Good software knows when to stop",
-      "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "score": 411,
-      "author": "ssaboum",
-      "created": "2026-03-05 13:52:43",
-      "created_at": 1772718763000
+      "id": 47272797,
+      "title": "If AI has a bright future, why does AI think it doesn't?",
+      "link": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
+      "score": 11,
+      "author": "JCW2001",
+      "created": "2026-03-06 09:21:56",
+      "created_at": 1772788916000
     }
   ],
   "code": 200,
