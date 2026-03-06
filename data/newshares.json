@@ -3,8 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-06T05:04:54.520Z"
+    "lastUpdate": "2026-03-06T08:25:51.483Z"
   },
-  "data": [],
-  "total": 0
+  "data": [
+    {
+      "zqdm": "920078",
+      "zqjc": "族兴新材",
+      "sgdm": "920078",
+      "fxsl": 23000000,
+      "swfxsl": 20700000,
+      "sgsx": 1035000,
+      "dgsz": 10350000,
+      "fxjg": 6.98,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-09",
+      "zqgbrq": "2026-03-12",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 34.76,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司致力于有色金属功能粉体材料中微细球形铝粉和铝颜料的应用研究和产品开发"
+    }
+  ],
+  "total": 1
 }
