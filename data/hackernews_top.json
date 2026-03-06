@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-06T01:14:42.917Z"
+    "lastUpdate": "2026-03-06T05:04:51.720Z"
   },
   "data": [
-    {
-      "id": 47249387,
-      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
-      "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
-      "score": 279,
-      "author": "ece",
-      "created": "2026-03-04 15:57:29",
-      "created_at": 1772639849000
-    },
-    {
-      "id": 47269263,
-      "title": "Where things stand with the Department of War",
-      "link": "https://www.anthropic.com/news/where-stand-department-war",
-      "score": 48,
-      "author": "surprisetalk",
-      "created": "2026-03-06 00:40:41",
-      "created_at": 1772757641000
-    },
     {
       "id": 47265045,
       "title": "GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4/",
-      "score": 611,
+      "score": 713,
       "author": "mudkipdev",
       "created": "2026-03-05 18:08:10",
       "created_at": 1772734090000
     },
     {
-      "id": 47268662,
-      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-      "link": "https://charm.land/blog/v2/",
-      "score": 68,
-      "author": "atkrad",
-      "created": "2026-03-05 23:26:52",
-      "created_at": 1772753212000
+      "id": 47225655,
+      "title": "Nobody ever got fired for using a struct",
+      "link": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+      "score": 55,
+      "author": "gz09",
+      "created": "2026-03-02 23:16:20",
+      "created_at": 1772493380000
     },
     {
-      "id": 47267947,
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "link": "https://406.fail/",
-      "score": 66,
-      "author": "Muhammad523",
-      "created": "2026-03-05 22:04:59",
-      "created_at": 1772748299000
-    },
-    {
-      "id": 47264756,
-      "title": "The Brand Age",
-      "link": "https://paulgraham.com/brandage.html",
-      "score": 207,
-      "author": "bigwheels",
-      "created": "2026-03-05 17:44:10",
-      "created_at": 1772732650000
+      "id": 47269263,
+      "title": "Where things stand with the Department of War",
+      "link": "https://www.anthropic.com/news/where-stand-department-war",
+      "score": 311,
+      "author": "surprisetalk",
+      "created": "2026-03-06 00:40:41",
+      "created_at": 1772757641000
     },
     {
       "id": 47252971,
       "title": "10% of Firefox crashes are caused by bitflips",
       "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "score": 242,
+      "score": 375,
       "author": "marvinborner",
       "created": "2026-03-04 19:58:24",
       "created_at": 1772654304000
     },
     {
-      "id": 47263323,
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "link": "https://www.wikimediastatus.net",
-      "score": 865,
-      "author": "greyface-",
-      "created": "2026-03-05 16:04:54",
-      "created_at": 1772726694000
+      "id": 47264756,
+      "title": "The Brand Age",
+      "link": "https://paulgraham.com/brandage.html",
+      "score": 278,
+      "author": "bigwheels",
+      "created": "2026-03-05 17:44:10",
+      "created_at": 1772732650000
+    },
+    {
+      "id": 47268391,
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "link": "https://www.anthropic.com/research/labor-market-impacts",
+      "score": 111,
+      "author": "jjwiseman",
+      "created": "2026-03-05 22:55:01",
+      "created_at": 1772751301000
+    },
+    {
+      "id": 47267947,
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "link": "https://406.fail/",
+      "score": 124,
+      "author": "Muhammad523",
+      "created": "2026-03-05 22:04:59",
+      "created_at": 1772748299000
+    },
+    {
+      "id": 47249387,
+      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "link": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+      "score": 410,
+      "author": "ece",
+      "created": "2026-03-04 15:57:29",
+      "created_at": 1772639849000
+    },
+    {
+      "id": 47268574,
+      "title": "Stop Using Grey Text (2025)",
+      "link": "https://catskull.net/stop-using-grey-text.html",
+      "score": 46,
+      "author": "catskull",
+      "created": "2026-03-05 23:15:57",
+      "created_at": 1772752557000
     },
     {
       "id": 47261561,
       "title": "Good software knows when to stop",
       "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-      "score": 329,
+      "score": 379,
       "author": "ssaboum",
       "created": "2026-03-05 13:52:43",
       "created_at": 1772718763000
-    },
-    {
-      "id": 47215602,
-      "title": "Hardware hotplug events on Linux, the gory details",
-      "link": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-      "score": 114,
-      "author": "todsacerdoti",
-      "created": "2026-03-02 09:26:04",
-      "created_at": 1772443564000
     }
   ],
   "code": 200,
