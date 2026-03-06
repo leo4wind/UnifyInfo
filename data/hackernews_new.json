@@ -3,14 +3,77 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-06T12:31:54.058Z"
+    "lastUpdate": "2026-03-06T16:28:06.087Z"
   },
   "data": [
+    {
+      "id": 47275088,
+      "title": "Global Warming Has Accelerated Significantly",
+      "link": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
+      "score": 403,
+      "author": "morsch",
+      "created": "2026-03-06 14:10:03",
+      "created_at": 1772806203000
+    },
+    {
+      "id": 47274676,
+      "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+      "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+      "score": 242,
+      "author": "Anon84",
+      "created": "2026-03-06 13:30:54",
+      "created_at": 1772803854000
+    },
+    {
+      "id": 47275236,
+      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "link": "https://github.com/moongate-community/moongatev2",
+      "score": 54,
+      "author": "squidleon",
+      "created": "2026-03-06 14:22:59",
+      "created_at": 1772806979000
+    },
+    {
+      "id": 47275035,
+      "title": "US economy unexpectedly sheds 92,000 jobs in February",
+      "link": "https://www.bbc.com/news/articles/cjd98091g28o",
+      "score": 310,
+      "author": "smartbit",
+      "created": "2026-03-06 14:04:18",
+      "created_at": 1772805858000
+    },
+    {
+      "id": 47220411,
+      "title": "Payphone Go",
+      "link": "https://walzr.com/payphone-go/",
+      "score": 108,
+      "author": "walz",
+      "created": "2026-03-02 16:45:43",
+      "created_at": 1772469943000
+    },
+    {
+      "id": 47275152,
+      "title": "CT Scans of Health Wearables",
+      "link": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+      "score": 48,
+      "author": "radeeyate",
+      "created": "2026-03-06 14:16:06",
+      "created_at": 1772806566000
+    },
+    {
+      "id": 47263441,
+      "title": "Analytic Fog Rendering with Volumetric Primitives",
+      "link": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+      "score": 33,
+      "author": "surprisetalk",
+      "created": "2026-03-05 16:12:44",
+      "created_at": 1772727164000
+    },
     {
       "id": 47272799,
       "title": "LibreSprite – open-source pixel art editor",
       "link": "https://libresprite.github.io/",
-      "score": 55,
+      "score": 151,
       "author": "nicoloren",
       "created": "2026-03-06 09:22:00",
       "created_at": 1772788920000
@@ -19,82 +82,19 @@
       "id": 47270784,
       "title": "System76 on Age Verification Laws",
       "link": "https://blog.system76.com/post/system76-on-age-verification/",
-      "score": 482,
+      "score": 664,
       "author": "LorenDB",
       "created": "2026-03-06 04:12:26",
       "created_at": 1772770346000
     },
     {
-      "id": 47272534,
-      "title": "GPL upgrades via section 14 proxy delegation",
-      "link": "https://runxiyu.org/comp/gplproxy/",
-      "score": 60,
-      "author": "weinzierl",
-      "created": "2026-03-06 08:41:51",
-      "created_at": 1772786511000
-    },
-    {
       "id": 47265045,
       "title": "GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4/",
-      "score": 874,
+      "score": 935,
       "author": "mudkipdev",
       "created": "2026-03-05 18:08:10",
       "created_at": 1772734090000
-    },
-    {
-      "id": 47273854,
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "score": 24,
-      "author": "todsacerdoti",
-      "created": "2026-03-06 11:53:18",
-      "created_at": 1772797998000
-    },
-    {
-      "id": 47252971,
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "score": 700,
-      "author": "marvinborner",
-      "created": "2026-03-04 19:58:24",
-      "created_at": 1772654304000
-    },
-    {
-      "id": 47270807,
-      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-      "link": "https://dev.moment.com/",
-      "score": 107,
-      "author": "armandhammer10",
-      "created": "2026-03-06 04:15:40",
-      "created_at": 1772770540000
-    },
-    {
-      "id": 47232091,
-      "title": "Ask HN: How many of you hold an amateur radio license in your country?",
-      "link": "",
-      "score": 32,
-      "author": "ToddWBurgess",
-      "created": "2026-03-03 13:34:10",
-      "created_at": 1772544850000
-    },
-    {
-      "id": 47263595,
-      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-      "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-      "score": 488,
-      "author": "edf13",
-      "created": "2026-03-05 16:22:01",
-      "created_at": 1772727721000
-    },
-    {
-      "id": 47272797,
-      "title": "If AI has a bright future, why does AI think it doesn't?",
-      "link": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-      "score": 11,
-      "author": "JCW2001",
-      "created": "2026-03-06 09:21:56",
-      "created_at": 1772788916000
     }
   ],
   "code": 200,

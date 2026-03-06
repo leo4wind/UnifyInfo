@@ -3,68 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-06T12:31:53.876Z"
+    "lastUpdate": "2026-03-06T16:28:05.786Z"
   },
   "data": [
-    {
-      "id": 47247645,
-      "title": "MacBook Neo",
-      "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "score": 1937,
-      "author": "dm",
-      "created": "2026-03-04 14:16:41",
-      "created_at": 1772633801000
-    },
-    {
-      "id": 47263323,
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "link": "https://www.wikimediastatus.net",
-      "score": 987,
-      "author": "greyface-",
-      "created": "2026-03-05 16:04:54",
-      "created_at": 1772726694000
-    },
     {
       "id": 47261688,
       "title": "Judge orders government to begin refunding more than $130B in tariffs",
       "link": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-      "score": 974,
+      "score": 1025,
       "author": "JumpCrisscross",
       "created": "2026-03-05 14:05:46",
       "created_at": 1772719546000
     },
     {
-      "id": 47255881,
-      "title": "Google Workspace CLI",
-      "link": "https://github.com/googleworkspace/cli",
-      "score": 916,
-      "author": "gonzalovargas",
-      "created": "2026-03-05 00:22:09",
-      "created_at": 1772670129000
+      "id": 47263323,
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "link": "https://www.wikimediastatus.net",
+      "score": 1017,
+      "author": "greyface-",
+      "created": "2026-03-05 16:04:54",
+      "created_at": 1772726694000
     },
     {
       "id": 47265045,
       "title": "GPT-5.4",
       "link": "https://openai.com/index/introducing-gpt-5-4/",
-      "score": 874,
+      "score": 935,
       "author": "mudkipdev",
       "created": "2026-03-05 18:08:10",
       "created_at": 1772734090000
     },
     {
-      "id": 47246110,
-      "title": "Nobody gets promoted for simplicity",
-      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "score": 874,
-      "author": "aamederen",
-      "created": "2026-03-04 11:43:32",
-      "created_at": 1772624612000
+      "id": 47255881,
+      "title": "Google Workspace CLI",
+      "link": "https://github.com/googleworkspace/cli",
+      "score": 923,
+      "author": "gonzalovargas",
+      "created": "2026-03-05 00:22:09",
+      "created_at": 1772670129000
+    },
+    {
+      "id": 47252971,
+      "title": "10% of Firefox crashes are caused by bitflips",
+      "link": "https://mas.to/@gabrielesvelto/116171750653898304",
+      "score": 810,
+      "author": "marvinborner",
+      "created": "2026-03-04 19:58:24",
+      "created_at": 1772654304000
     },
     {
       "id": 47255662,
       "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
       "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "score": 784,
+      "score": 785,
       "author": "SilverElfin",
       "created": "2026-03-04 23:51:10",
       "created_at": 1772668270000
@@ -73,7 +64,7 @@
       "id": 47249343,
       "title": "Something is afoot in the land of Qwen",
       "link": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "score": 774,
+      "score": 777,
       "author": "simonw",
       "created": "2026-03-04 15:55:34",
       "created_at": 1772639734000
@@ -82,19 +73,28 @@
       "id": 47253177,
       "title": "Building a new Flash",
       "link": "https://bill.newgrounds.com/news/post/1607118",
-      "score": 722,
+      "score": 724,
       "author": "TechPlasma",
       "created": "2026-03-04 20:16:03",
       "created_at": 1772655363000
     },
     {
-      "id": 47252971,
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-      "score": 700,
-      "author": "marvinborner",
-      "created": "2026-03-04 19:58:24",
-      "created_at": 1772654304000
+      "id": 47270784,
+      "title": "System76 on Age Verification Laws",
+      "link": "https://blog.system76.com/post/system76-on-age-verification/",
+      "score": 664,
+      "author": "LorenDB",
+      "created": "2026-03-06 04:12:26",
+      "created_at": 1772770346000
+    },
+    {
+      "id": 47257394,
+      "title": "The L in \"LLM\" Stands for Lying",
+      "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "score": 649,
+      "author": "LorenDB",
+      "created": "2026-03-05 04:02:32",
+      "created_at": 1772683352000
     }
   ],
   "code": 200,
