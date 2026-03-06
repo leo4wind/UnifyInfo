@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-05T20:28:32.044Z"
+    "lastUpdate": "2026-03-06T01:14:42.781Z"
   },
   "data": [
     {
       "id": 47247645,
       "title": "MacBook Neo",
       "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "score": 1899,
+      "score": 1915,
       "author": "dm",
       "created": "2026-03-04 14:16:41",
       "created_at": 1772633801000
@@ -19,43 +19,43 @@
       "id": 47241551,
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
       "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "score": 1260,
+      "score": 1268,
       "author": "pabs3",
       "created": "2026-03-04 00:58:31",
       "created_at": 1772585911000
     },
     {
-      "id": 47246110,
-      "title": "Nobody gets promoted for simplicity",
-      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "score": 865,
-      "author": "aamederen",
-      "created": "2026-03-04 11:43:32",
-      "created_at": 1772624612000
-    },
-    {
       "id": 47255881,
       "title": "Google Workspace CLI",
       "link": "https://github.com/googleworkspace/cli",
-      "score": 863,
+      "score": 897,
       "author": "gonzalovargas",
       "created": "2026-03-05 00:22:09",
       "created_at": 1772670129000
     },
     {
-      "id": 47249343,
-      "title": "Something is afoot in the land of Qwen",
-      "link": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "score": 766,
-      "author": "simonw",
-      "created": "2026-03-04 15:55:34",
-      "created_at": 1772639734000
+      "id": 47246110,
+      "title": "Nobody gets promoted for simplicity",
+      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "score": 871,
+      "author": "aamederen",
+      "created": "2026-03-04 11:43:32",
+      "created_at": 1772624612000
+    },
+    {
+      "id": 47263323,
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "link": "https://www.wikimediastatus.net",
+      "score": 865,
+      "author": "greyface-",
+      "created": "2026-03-05 16:04:54",
+      "created_at": 1772726694000
     },
     {
       "id": 47255662,
       "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
       "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "score": 751,
+      "score": 773,
       "author": "SilverElfin",
       "created": "2026-03-04 23:51:10",
       "created_at": 1772668270000
@@ -64,37 +64,37 @@
       "id": 47261688,
       "title": "Judge orders government to begin refunding more than $130B in tariffs",
       "link": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-      "score": 705,
+      "score": 772,
       "author": "JumpCrisscross",
       "created": "2026-03-05 14:05:46",
       "created_at": 1772719546000
     },
     {
+      "id": 47249343,
+      "title": "Something is afoot in the land of Qwen",
+      "link": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "score": 770,
+      "author": "simonw",
+      "created": "2026-03-04 15:55:34",
+      "created_at": 1772639734000
+    },
+    {
       "id": 47253177,
       "title": "Building a new Flash",
       "link": "https://bill.newgrounds.com/news/post/1607118",
-      "score": 695,
+      "score": 712,
       "author": "TechPlasma",
       "created": "2026-03-04 20:16:03",
       "created_at": 1772655363000
     },
     {
-      "id": 47263323,
-      "title": "Wikipedia in read-only mode following mass admin account compromise",
-      "link": "https://www.wikimediastatus.net",
-      "score": 651,
-      "author": "greyface-",
-      "created": "2026-03-05 16:04:54",
-      "created_at": 1772726694000
-    },
-    {
-      "id": 47252049,
-      "title": "An interactive map of Flock Cams",
-      "link": "https://deflock.org/map#map=5/37.125286/-96.284180",
-      "score": 606,
-      "author": "anjel",
-      "created": "2026-03-04 18:50:45",
-      "created_at": 1772650245000
+      "id": 47265045,
+      "title": "GPT-5.4",
+      "link": "https://openai.com/index/introducing-gpt-5-4/",
+      "score": 611,
+      "author": "mudkipdev",
+      "created": "2026-03-05 18:08:10",
+      "created_at": 1772734090000
     }
   ],
   "code": 200,
