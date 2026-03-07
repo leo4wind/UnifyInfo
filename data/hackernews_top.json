@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-07T01:06:23.652Z"
+    "lastUpdate": "2026-03-07T04:54:44.374Z"
   },
   "data": [
     {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org",
-      "score": 86,
+      "score": 241,
       "author": "PaulHoule",
       "created": "2026-03-06 23:59:16",
       "created_at": 1772841556000
     },
     {
+      "id": 47283665,
+      "title": "UUID package coming to Go standard library",
+      "link": "https://github.com/golang/go/issues/62026",
+      "score": 64,
+      "author": "soypat",
+      "created": "2026-03-07 02:03:21",
+      "created_at": 1772849001000
+    },
+    {
       "id": 47281593,
       "title": "this css proves me human",
       "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 132,
+      "score": 194,
       "author": "todsacerdoti",
       "created": "2026-03-06 21:52:44",
       "created_at": 1772833964000
     },
     {
+      "id": 47284061,
+      "title": "Can a wealthy family change the course of a deadly brain disease?",
+      "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+      "score": 19,
+      "author": "Snoozus",
+      "created": "2026-03-07 03:06:58",
+      "created_at": 1772852818000
+    },
+    {
+      "id": 47256941,
+      "title": "Maybe There's a Pattern Here?",
+      "link": "https://dynomight.net/pattern/",
+      "score": 48,
+      "author": "surprisetalk",
+      "created": "2026-03-05 02:58:10",
+      "created_at": 1772679490000
+    },
+    {
+      "id": 47283337,
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "score": 111,
+      "author": "dnw",
+      "created": "2026-03-07 01:17:57",
+      "created_at": 1772846277000
+    },
+    {
       "id": 47282230,
       "title": "C# strings silently kill your SQL Server indexes in Dapper",
       "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-      "score": 40,
+      "score": 78,
       "author": "PretzelFisch",
       "created": "2026-03-06 22:55:37",
       "created_at": 1772837737000
     },
     {
-      "id": 47282390,
-      "title": "Show HN: The Roman Industrial Revolution that could have been (Vol 2)",
-      "link": "https://thelydianstone.com/volume-2",
-      "score": 20,
-      "author": "miki_tyler",
-      "created": "2026-03-06 23:17:19",
-      "created_at": 1772839039000
-    },
-    {
-      "id": 47214708,
-      "title": "Math Notepad",
-      "link": "https://mathnotepad.com",
-      "score": 53,
-      "author": "the-mitr",
-      "created": "2026-03-02 07:01:19",
-      "created_at": 1772434879000
-    },
-    {
-      "id": 47281221,
-      "title": "The Shady World of IP Leasing",
-      "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
-      "score": 49,
-      "author": "alibarber",
-      "created": "2026-03-06 21:19:25",
-      "created_at": 1772831965000
+      "id": 47263938,
+      "title": "Galileo's handwritten notes found in ancient astronomy text",
+      "link": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "score": 67,
+      "author": "tzury",
+      "created": "2026-03-05 16:47:27",
+      "created_at": 1772729247000
     },
     {
       "id": 47273854,
       "title": "Hardening Firefox with Anthropic's Red Team",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 468,
+      "score": 528,
       "author": "todsacerdoti",
       "created": "2026-03-06 11:53:18",
       "created_at": 1772797998000
     },
     {
-      "id": 47275236,
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "link": "https://github.com/moongate-community/moongatev2",
-      "score": 222,
-      "author": "squidleon",
-      "created": "2026-03-06 14:22:59",
-      "created_at": 1772806979000
-    },
-    {
-      "id": 47219462,
-      "title": "Open Camera is a FOSS camera app for Android",
-      "link": "https://opencamera.org.uk/",
-      "score": 209,
-      "author": "tetris11",
-      "created": "2026-03-02 15:46:51",
-      "created_at": 1772466411000
-    },
-    {
-      "id": 47206990,
-      "title": "Apache Otava",
-      "link": "https://otava.apache.org/",
-      "score": 78,
-      "author": "djoldman",
-      "created": "2026-03-01 14:27:12",
-      "created_at": 1772375232000
+      "id": 47231871,
+      "title": "Querying 3B Vectors",
+      "link": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+      "score": 9,
+      "author": "surprisetalk",
+      "created": "2026-03-03 13:17:11",
+      "created_at": 1772543831000
     }
   ],
   "code": 200,
