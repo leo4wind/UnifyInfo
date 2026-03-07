@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-07T08:18:11.138Z"
+    "lastUpdate": "2026-03-07T12:25:11.130Z"
   },
   "data": [
     {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org",
-      "score": 364,
+      "score": 482,
       "author": "PaulHoule",
       "created": "2026-03-06 23:59:16",
       "created_at": 1772841556000
     },
     {
+      "id": 47286311,
+      "title": "Ki Editor - an editor that operates on the AST",
+      "link": "https://ki-editor.org/",
+      "score": 27,
+      "author": "ravenical",
+      "created": "2026-03-07 10:29:13",
+      "created_at": 1772879353000
+    },
+    {
+      "id": 47282777,
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "link": "",
+      "score": 551,
+      "author": "shannoncc",
+      "created": "2026-03-07 00:05:06",
+      "created_at": 1772841906000
+    },
+    {
       "id": 47283665,
       "title": "UUID package coming to Go standard library",
       "link": "https://github.com/golang/go/issues/62026",
-      "score": 148,
+      "score": 228,
       "author": "soypat",
       "created": "2026-03-07 02:03:21",
       "created_at": 1772849001000
@@ -28,73 +46,55 @@
       "id": 47281593,
       "title": "this css proves me human",
       "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 241,
+      "score": 282,
       "author": "todsacerdoti",
       "created": "2026-03-06 21:52:44",
       "created_at": 1772833964000
     },
     {
-      "id": 47283337,
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 181,
-      "author": "dnw",
-      "created": "2026-03-07 01:17:57",
-      "created_at": 1772846277000
+      "id": 47255798,
+      "title": "48x32, a 1536 LED Game Computer",
+      "link": "https://jacquesmattheij.com/48x32-introduction/",
+      "score": 17,
+      "author": "duck",
+      "created": "2026-03-05 00:10:42",
+      "created_at": 1772669442000
     },
     {
-      "id": 47263938,
-      "title": "Galileo's handwritten notes found in ancient astronomy text",
-      "link": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "score": 102,
-      "author": "tzury",
-      "created": "2026-03-05 16:47:27",
-      "created_at": 1772729247000
+      "id": 47285846,
+      "title": "QGIS 4.0",
+      "link": "https://changelog.qgis.org/en/version/4.0/",
+      "score": 90,
+      "author": "jonbaer",
+      "created": "2026-03-07 08:53:47",
+      "created_at": 1772873627000
     },
     {
-      "id": 47234689,
-      "title": "The Longing (1999)",
-      "link": "https://www.cluetrain.com/book/longing.html",
-      "score": 12,
-      "author": "herbertl",
-      "created": "2026-03-03 16:19:08",
-      "created_at": 1772554748000
+      "id": 47285960,
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "score": 79,
+      "author": "askl",
+      "created": "2026-03-07 09:18:40",
+      "created_at": 1772875120000
     },
     {
       "id": 47282701,
       "title": "Helix: A post-modern text editor",
       "link": "https://helix-editor.com/",
-      "score": 96,
+      "score": 180,
       "author": "doener",
       "created": "2026-03-06 23:53:29",
       "created_at": 1772841209000
     },
     {
-      "id": 47256941,
-      "title": "Maybe there's a pattern here?",
-      "link": "https://dynomight.net/pattern/",
-      "score": 96,
-      "author": "surprisetalk",
-      "created": "2026-03-05 02:58:10",
-      "created_at": 1772679490000
-    },
-    {
-      "id": 47275236,
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "link": "https://github.com/moongate-community/moongatev2",
-      "score": 247,
-      "author": "squidleon",
-      "created": "2026-03-06 14:22:59",
-      "created_at": 1772806979000
-    },
-    {
-      "id": 47231871,
-      "title": "Querying 3B Vectors",
-      "link": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
-      "score": 31,
-      "author": "surprisetalk",
-      "created": "2026-03-03 13:17:11",
-      "created_at": 1772543831000
+      "id": 47263938,
+      "title": "Galileo's handwritten notes found in ancient astronomy text",
+      "link": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "score": 151,
+      "author": "tzury",
+      "created": "2026-03-05 16:47:27",
+      "created_at": 1772729247000
     }
   ],
   "code": 200,
