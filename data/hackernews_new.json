@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-08T12:26:44.199Z"
+    "lastUpdate": "2026-03-08T16:16:16.636Z"
   },
   "data": [
+    {
+      "id": 47298044,
+      "title": "FrameBook",
+      "link": "https://fb.edoo.gg",
+      "score": 62,
+      "author": "todsacerdoti",
+      "created": "2026-03-08 15:21:09",
+      "created_at": 1772983269000
+    },
     {
       "id": 47295837,
       "title": "Notes on Writing WASM",
       "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 38,
+      "score": 119,
       "author": "vinhnx",
       "created": "2026-03-08 09:24:54",
       "created_at": 1772961894000
     },
     {
+      "id": 47254896,
+      "title": "Why can't you tune your guitar? (2019)",
+      "link": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "score": 62,
+      "author": "digitallogic",
+      "created": "2026-03-04 22:30:27",
+      "created_at": 1772663427000
+    },
+    {
+      "id": 47297091,
+      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+      "link": "https://github.com/kantord/blogtato",
+      "score": 28,
+      "author": "todsacerdoti",
+      "created": "2026-03-08 13:16:14",
+      "created_at": 1772975774000
+    },
+    {
+      "id": 47297919,
+      "title": "Living Human Brain Cells Play Doom on a CL1",
+      "link": "https://corticallabs.com/doom.html",
+      "score": 5,
+      "author": "kevinak",
+      "created": "2026-03-08 15:07:28",
+      "created_at": 1772982448000
+    },
+    {
+      "id": 47297453,
+      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+      "link": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+      "score": 73,
+      "author": "maxloh",
+      "created": "2026-03-08 14:09:09",
+      "created_at": 1772978949000
+    },
+    {
       "id": 47295537,
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "link": "https://arxiv.org/abs/2603.03823",
-      "score": 64,
+      "score": 93,
       "author": "mpweiher",
       "created": "2026-03-08 08:11:50",
       "created_at": 1772957510000
     },
     {
+      "id": 47297167,
+      "title": "Beagle, a source code management system that stores AST trees",
+      "link": "https://github.com/gritzko/librdx/tree/master/be",
+      "score": 19,
+      "author": "strogonoff",
+      "created": "2026-03-08 13:28:26",
+      "created_at": 1772976506000
+    },
+    {
       "id": 47247248,
       "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
       "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 21,
+      "score": 68,
       "author": "surprisetalk",
       "created": "2026-03-04 13:39:34",
       "created_at": 1772631574000
     },
     {
-      "id": 47249139,
-      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-      "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "score": 48,
-      "author": "ohjeez",
-      "created": "2026-03-04 15:42:49",
-      "created_at": 1772638969000
-    },
-    {
-      "id": 47293119,
-      "title": "Cloud VM benchmarks 2026",
-      "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 264,
-      "author": "dkechag",
-      "created": "2026-03-08 00:44:32",
-      "created_at": 1772930672000
-    },
-    {
-      "id": 47292522,
-      "title": "How to run Qwen 3.5 locally",
-      "link": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 222,
-      "author": "Curiositry",
-      "created": "2026-03-07 23:32:17",
-      "created_at": 1772926337000
-    },
-    {
-      "id": 47296302,
-      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
-      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
-      "score": 46,
-      "author": "rbanffy",
-      "created": "2026-03-08 10:54:32",
-      "created_at": 1772967272000
-    },
-    {
-      "id": 47295279,
-      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
-      "link": "https://curiosity-telescope.vercel.app/",
-      "score": 41,
-      "author": "big_Brain69",
-      "created": "2026-03-08 07:16:15",
-      "created_at": 1772954175000
-    },
-    {
-      "id": 47293415,
-      "title": "Warn about PyPy being unmaintained",
-      "link": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 222,
-      "author": "networked",
-      "created": "2026-03-08 01:35:21",
-      "created_at": 1772933721000
-    },
-    {
-      "id": 47239955,
-      "title": "The Lobster Programming Language",
-      "link": "https://strlen.com/lobster/",
-      "score": 26,
-      "author": "keyle",
-      "created": "2026-03-03 22:24:54",
-      "created_at": 1772576694000
+      "id": 47296849,
+      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+      "link": "https://xcancel.com/theflow0/status/2030011206040256841",
+      "score": 159,
+      "author": "doener",
+      "created": "2026-03-08 12:40:14",
+      "created_at": 1772973614000
     }
   ],
   "code": 200,

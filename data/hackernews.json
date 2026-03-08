@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-08T12:26:43.938Z"
+    "lastUpdate": "2026-03-08T16:16:16.236Z"
   },
   "data": [
-    {
-      "id": 47275088,
-      "title": "Global warming has accelerated significantly",
-      "link": "https://www.researchsquare.com/article/rs-6079807/v1",
-      "score": 1157,
-      "author": "morsch",
-      "created": "2026-03-06 14:10:03",
-      "created_at": 1772806203000
-    },
     {
       "id": 47282777,
       "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
       "link": "",
-      "score": 1009,
+      "score": 1020,
       "author": "shannoncc",
       "created": "2026-03-07 00:05:06",
       "created_at": 1772841906000
@@ -28,7 +19,7 @@
       "id": 47278426,
       "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
       "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 1002,
+      "score": 1005,
       "author": "enraged_camel",
       "created": "2026-03-06 17:46:45",
       "created_at": 1772819205000
@@ -37,64 +28,73 @@
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org",
-      "score": 643,
+      "score": 649,
       "author": "PaulHoule",
       "created": "2026-03-06 23:59:16",
       "created_at": 1772841556000
     },
     {
-      "id": 47273854,
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 619,
-      "author": "todsacerdoti",
-      "created": "2026-03-06 11:53:18",
-      "created_at": 1772797998000
-    },
-    {
-      "id": 47274676,
-      "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
-      "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 597,
-      "author": "Anon84",
-      "created": "2026-03-06 13:30:54",
-      "created_at": 1772803854000
-    },
-    {
-      "id": 47275035,
-      "title": "US economy unexpectedly sheds 92k jobs in February",
-      "link": "https://www.bbc.com/news/articles/cjd98091g28o",
-      "score": 561,
-      "author": "smartbit",
-      "created": "2026-03-06 14:04:18",
-      "created_at": 1772805858000
-    },
-    {
-      "id": 47283337,
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 435,
-      "author": "dnw",
-      "created": "2026-03-07 01:17:57",
-      "created_at": 1772846277000
-    },
-    {
       "id": 47285960,
       "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
       "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "score": 433,
+      "score": 444,
       "author": "askl",
       "created": "2026-03-07 09:18:40",
       "created_at": 1772875120000
     },
     {
+      "id": 47283337,
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "score": 437,
+      "author": "dnw",
+      "created": "2026-03-07 01:17:57",
+      "created_at": 1772846277000
+    },
+    {
       "id": 47286311,
       "title": "Ki Editor - an editor that operates on the AST",
       "link": "https://ki-editor.org/",
-      "score": 402,
+      "score": 407,
       "author": "ravenical",
       "created": "2026-03-07 10:29:13",
       "created_at": 1772879353000
+    },
+    {
+      "id": 47281593,
+      "title": "this css proves me human",
+      "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
+      "score": 371,
+      "author": "todsacerdoti",
+      "created": "2026-03-06 21:52:44",
+      "created_at": 1772833964000
+    },
+    {
+      "id": 47292485,
+      "title": "Put the zip code first",
+      "link": "https://zipcodefirst.com",
+      "score": 364,
+      "author": "dsalzman",
+      "created": "2026-03-07 23:26:26",
+      "created_at": 1772925986000
+    },
+    {
+      "id": 47283665,
+      "title": "UUID package coming to Go standard library",
+      "link": "https://github.com/golang/go/issues/62026",
+      "score": 364,
+      "author": "soypat",
+      "created": "2026-03-07 02:03:21",
+      "created_at": 1772849001000
+    },
+    {
+      "id": 47287344,
+      "title": "Yoghurt delivery women combatting loneliness in Japan",
+      "link": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "score": 350,
+      "author": "ranit",
+      "created": "2026-03-07 13:12:40",
+      "created_at": 1772889160000
     }
   ],
   "code": 200,
