@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-08T01:11:35.169Z"
+    "lastUpdate": "2026-03-08T05:05:08.857Z"
   },
   "data": [
     {
       "id": 47275088,
       "title": "Global warming has accelerated significantly",
       "link": "https://www.researchsquare.com/article/rs-6079807/v1",
-      "score": 1134,
+      "score": 1140,
       "author": "morsch",
       "created": "2026-03-06 14:10:03",
       "created_at": 1772806203000
@@ -19,7 +19,7 @@
       "id": 47278426,
       "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
       "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 995,
+      "score": 998,
       "author": "enraged_camel",
       "created": "2026-03-06 17:46:45",
       "created_at": 1772819205000
@@ -28,7 +28,7 @@
       "id": 47282777,
       "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
       "link": "",
-      "score": 974,
+      "score": 983,
       "author": "shannoncc",
       "created": "2026-03-07 00:05:06",
       "created_at": 1772841906000
@@ -37,7 +37,7 @@
       "id": 47270784,
       "title": "System76 on Age Verification Laws",
       "link": "https://blog.system76.com/post/system76-on-age-verification/",
-      "score": 835,
+      "score": 836,
       "author": "LorenDB",
       "created": "2026-03-06 04:12:26",
       "created_at": 1772770346000
@@ -46,25 +46,16 @@
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org",
-      "score": 629,
+      "score": 634,
       "author": "PaulHoule",
       "created": "2026-03-06 23:59:16",
       "created_at": 1772841556000
     },
     {
-      "id": 47269263,
-      "title": "Where things stand with the Department of War",
-      "link": "https://www.anthropic.com/news/where-stand-department-war",
-      "score": 621,
-      "author": "surprisetalk",
-      "created": "2026-03-06 00:40:41",
-      "created_at": 1772757641000
-    },
-    {
       "id": 47273854,
       "title": "Hardening Firefox with Anthropic's Red Team",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 609,
+      "score": 613,
       "author": "todsacerdoti",
       "created": "2026-03-06 11:53:18",
       "created_at": 1772797998000
@@ -73,7 +64,7 @@
       "id": 47274676,
       "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
       "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 590,
+      "score": 595,
       "author": "Anon84",
       "created": "2026-03-06 13:30:54",
       "created_at": 1772803854000
@@ -82,7 +73,7 @@
       "id": 47275035,
       "title": "US economy unexpectedly sheds 92k jobs in February",
       "link": "https://www.bbc.com/news/articles/cjd98091g28o",
-      "score": 558,
+      "score": 559,
       "author": "smartbit",
       "created": "2026-03-06 14:04:18",
       "created_at": 1772805858000
@@ -91,10 +82,19 @@
       "id": 47283337,
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 422,
+      "score": 428,
       "author": "dnw",
       "created": "2026-03-07 01:17:57",
       "created_at": 1772846277000
+    },
+    {
+      "id": 47285960,
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "score": 419,
+      "author": "askl",
+      "created": "2026-03-07 09:18:40",
+      "created_at": 1772875120000
     }
   ],
   "code": 200,
