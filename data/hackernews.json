@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-08T16:16:16.236Z"
+    "lastUpdate": "2026-03-08T20:14:45.886Z"
   },
   "data": [
     {
       "id": 47282777,
       "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
       "link": "",
-      "score": 1020,
+      "score": 1024,
       "author": "shannoncc",
       "created": "2026-03-07 00:05:06",
       "created_at": 1772841906000
     },
     {
-      "id": 47278426,
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 1005,
-      "author": "enraged_camel",
-      "created": "2026-03-06 17:46:45",
-      "created_at": 1772819205000
-    },
-    {
       "id": 47282736,
       "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
       "link": "https://plasma-bigscreen.org",
-      "score": 649,
+      "score": 653,
       "author": "PaulHoule",
       "created": "2026-03-06 23:59:16",
       "created_at": 1772841556000
@@ -37,7 +28,7 @@
       "id": 47285960,
       "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
       "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "score": 444,
+      "score": 454,
       "author": "askl",
       "created": "2026-03-07 09:18:40",
       "created_at": 1772875120000
@@ -46,16 +37,25 @@
       "id": 47283337,
       "title": "LLMs work best when the user defines their acceptance criteria first",
       "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "score": 437,
+      "score": 441,
       "author": "dnw",
       "created": "2026-03-07 01:17:57",
       "created_at": 1772846277000
     },
     {
+      "id": 47292522,
+      "title": "How to run Qwen 3.5 locally",
+      "link": "https://unsloth.ai/docs/models/qwen3.5",
+      "score": 414,
+      "author": "Curiositry",
+      "created": "2026-03-07 23:32:17",
+      "created_at": 1772926337000
+    },
+    {
       "id": 47286311,
       "title": "Ki Editor - an editor that operates on the AST",
       "link": "https://ki-editor.org/",
-      "score": 407,
+      "score": 413,
       "author": "ravenical",
       "created": "2026-03-07 10:29:13",
       "created_at": 1772879353000
@@ -64,7 +64,7 @@
       "id": 47281593,
       "title": "this css proves me human",
       "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "score": 371,
+      "score": 374,
       "author": "todsacerdoti",
       "created": "2026-03-06 21:52:44",
       "created_at": 1772833964000
@@ -73,28 +73,28 @@
       "id": 47292485,
       "title": "Put the zip code first",
       "link": "https://zipcodefirst.com",
-      "score": 364,
+      "score": 372,
       "author": "dsalzman",
       "created": "2026-03-07 23:26:26",
       "created_at": 1772925986000
     },
     {
-      "id": 47283665,
-      "title": "UUID package coming to Go standard library",
-      "link": "https://github.com/golang/go/issues/62026",
-      "score": 364,
-      "author": "soypat",
-      "created": "2026-03-07 02:03:21",
-      "created_at": 1772849001000
-    },
-    {
       "id": 47287344,
       "title": "Yoghurt delivery women combatting loneliness in Japan",
       "link": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "score": 350,
+      "score": 367,
       "author": "ranit",
       "created": "2026-03-07 13:12:40",
       "created_at": 1772889160000
+    },
+    {
+      "id": 47283665,
+      "title": "UUID package coming to Go standard library",
+      "link": "https://github.com/golang/go/issues/62026",
+      "score": 367,
+      "author": "soypat",
+      "created": "2026-03-07 02:03:21",
+      "created_at": 1772849001000
     }
   ],
   "code": 200,

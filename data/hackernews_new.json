@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-08T16:16:16.636Z"
+    "lastUpdate": "2026-03-08T20:14:46.044Z"
   },
   "data": [
     {
       "id": 47298044,
       "title": "FrameBook",
       "link": "https://fb.edoo.gg",
-      "score": 62,
+      "score": 249,
       "author": "todsacerdoti",
       "created": "2026-03-08 15:21:09",
       "created_at": 1772983269000
     },
     {
-      "id": 47295837,
-      "title": "Notes on Writing WASM",
-      "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 119,
-      "author": "vinhnx",
-      "created": "2026-03-08 09:24:54",
-      "created_at": 1772961894000
+      "id": 47300102,
+      "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+      "link": "https://github.com/BigBodyCobain/Shadowbroker",
+      "score": 33,
+      "author": "vancecookcobxin",
+      "created": "2026-03-08 19:07:33",
+      "created_at": 1772996853000
     },
     {
       "id": 47254896,
       "title": "Why can't you tune your guitar? (2019)",
       "link": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 62,
+      "score": 121,
       "author": "digitallogic",
       "created": "2026-03-04 22:30:27",
       "created_at": 1772663427000
     },
     {
-      "id": 47297091,
-      "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-      "link": "https://github.com/kantord/blogtato",
-      "score": 28,
-      "author": "todsacerdoti",
-      "created": "2026-03-08 13:16:14",
-      "created_at": 1772975774000
-    },
-    {
       "id": 47297919,
-      "title": "Living Human Brain Cells Play Doom on a CL1",
-      "link": "https://corticallabs.com/doom.html",
-      "score": 5,
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "link": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "score": 77,
       "author": "kevinak",
       "created": "2026-03-08 15:07:28",
       "created_at": 1772982448000
     },
     {
-      "id": 47297453,
-      "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
-      "link": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-      "score": 73,
-      "author": "maxloh",
-      "created": "2026-03-08 14:09:09",
-      "created_at": 1772978949000
-    },
-    {
-      "id": 47295537,
-      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-      "link": "https://arxiv.org/abs/2603.03823",
-      "score": 93,
-      "author": "mpweiher",
-      "created": "2026-03-08 08:11:50",
-      "created_at": 1772957510000
-    },
-    {
-      "id": 47297167,
-      "title": "Beagle, a source code management system that stores AST trees",
-      "link": "https://github.com/gritzko/librdx/tree/master/be",
+      "id": 47299505,
+      "title": "WSL Manager",
+      "link": "https://github.com/bostrot/wsl2-distro-manager",
       "score": 19,
-      "author": "strogonoff",
-      "created": "2026-03-08 13:28:26",
-      "created_at": 1772976506000
+      "author": "gballan",
+      "created": "2026-03-08 18:08:36",
+      "created_at": 1772993316000
     },
     {
-      "id": 47247248,
-      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
-      "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-      "score": 68,
-      "author": "surprisetalk",
-      "created": "2026-03-04 13:39:34",
-      "created_at": 1772631574000
+      "id": 47298885,
+      "title": "LibreOffice Writer now supports Markdown",
+      "link": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+      "score": 147,
+      "author": "todsacerdoti",
+      "created": "2026-03-08 17:01:50",
+      "created_at": 1772989310000
     },
     {
-      "id": 47296849,
-      "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-      "link": "https://xcancel.com/theflow0/status/2030011206040256841",
-      "score": 159,
-      "author": "doener",
-      "created": "2026-03-08 12:40:14",
-      "created_at": 1772973614000
+      "id": 47297913,
+      "title": "What if the Apple ][ had run on Field-Sequential?",
+      "link": "https://nicole.express/2026/the-apple-that-wasnt.html",
+      "score": 53,
+      "author": "zdw",
+      "created": "2026-03-08 15:05:40",
+      "created_at": 1772982340000
+    },
+    {
+      "id": 47295837,
+      "title": "Notes on writing Rust-based Wasm",
+      "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 166,
+      "author": "vinhnx",
+      "created": "2026-03-08 09:24:54",
+      "created_at": 1772961894000
+    },
+    {
+      "id": 47300329,
+      "title": "Ask HN: Please restrict new accounts from posting",
+      "link": "",
+      "score": 84,
+      "author": "Oras",
+      "created": "2026-03-08 19:26:59",
+      "created_at": 1772998019000
+    },
+    {
+      "id": 47271338,
+      "title": "A basket of new fruit varieties is coming your way",
+      "link": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
+      "score": 19,
+      "author": "vinni2",
+      "created": "2026-03-06 05:46:28",
+      "created_at": 1772775988000
     }
   ],
   "code": 200,
