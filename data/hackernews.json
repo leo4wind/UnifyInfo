@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-07T20:14:13.743Z"
+    "lastUpdate": "2026-03-08T01:11:35.169Z"
   },
   "data": [
     {
       "id": 47275088,
       "title": "Global warming has accelerated significantly",
       "link": "https://www.researchsquare.com/article/rs-6079807/v1",
-      "score": 1120,
+      "score": 1134,
       "author": "morsch",
       "created": "2026-03-06 14:10:03",
       "created_at": 1772806203000
@@ -19,7 +19,7 @@
       "id": 47278426,
       "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
       "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "score": 980,
+      "score": 995,
       "author": "enraged_camel",
       "created": "2026-03-06 17:46:45",
       "created_at": 1772819205000
@@ -28,7 +28,7 @@
       "id": 47282777,
       "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
       "link": "",
-      "score": 923,
+      "score": 974,
       "author": "shannoncc",
       "created": "2026-03-07 00:05:06",
       "created_at": 1772841906000
@@ -37,10 +37,19 @@
       "id": 47270784,
       "title": "System76 on Age Verification Laws",
       "link": "https://blog.system76.com/post/system76-on-age-verification/",
-      "score": 833,
+      "score": 835,
       "author": "LorenDB",
       "created": "2026-03-06 04:12:26",
       "created_at": 1772770346000
+    },
+    {
+      "id": 47282736,
+      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+      "link": "https://plasma-bigscreen.org",
+      "score": 629,
+      "author": "PaulHoule",
+      "created": "2026-03-06 23:59:16",
+      "created_at": 1772841556000
     },
     {
       "id": 47269263,
@@ -52,19 +61,10 @@
       "created_at": 1772757641000
     },
     {
-      "id": 47282736,
-      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "link": "https://plasma-bigscreen.org",
-      "score": 604,
-      "author": "PaulHoule",
-      "created": "2026-03-06 23:59:16",
-      "created_at": 1772841556000
-    },
-    {
       "id": 47273854,
       "title": "Hardening Firefox with Anthropic's Red Team",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
-      "score": 604,
+      "score": 609,
       "author": "todsacerdoti",
       "created": "2026-03-06 11:53:18",
       "created_at": 1772797998000
@@ -73,7 +73,7 @@
       "id": 47274676,
       "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
       "link": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "score": 584,
+      "score": 590,
       "author": "Anon84",
       "created": "2026-03-06 13:30:54",
       "created_at": 1772803854000
@@ -88,13 +88,13 @@
       "created_at": 1772805858000
     },
     {
-      "id": 47266084,
-      "title": "Pentagon formally labels Anthropic supply-chain risk",
-      "link": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
-      "score": 430,
-      "author": "klausa",
-      "created": "2026-03-05 19:24:35",
-      "created_at": 1772738675000
+      "id": 47283337,
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "score": 422,
+      "author": "dnw",
+      "created": "2026-03-07 01:17:57",
+      "created_at": 1772846277000
     }
   ],
   "code": 200,
