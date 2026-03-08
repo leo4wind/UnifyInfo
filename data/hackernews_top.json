@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-08T08:19:28.491Z"
+    "lastUpdate": "2026-03-08T12:26:44.098Z"
   },
   "data": [
+    {
+      "id": 47295837,
+      "title": "Notes on Writing WASM",
+      "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "score": 38,
+      "author": "vinhnx",
+      "created": "2026-03-08 09:24:54",
+      "created_at": 1772961894000
+    },
     {
       "id": 47295537,
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
       "link": "https://arxiv.org/abs/2603.03823",
-      "score": 4,
+      "score": 64,
       "author": "mpweiher",
       "created": "2026-03-08 08:11:50",
       "created_at": 1772957510000
     },
     {
+      "id": 47247248,
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "link": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "score": 21,
+      "author": "surprisetalk",
+      "created": "2026-03-04 13:39:34",
+      "created_at": 1772631574000
+    },
+    {
+      "id": 47249139,
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "score": 48,
+      "author": "ohjeez",
+      "created": "2026-03-04 15:42:49",
+      "created_at": 1772638969000
+    },
+    {
       "id": 47293119,
       "title": "Cloud VM benchmarks 2026",
       "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-      "score": 194,
+      "score": 264,
       "author": "dkechag",
       "created": "2026-03-08 00:44:32",
       "created_at": 1772930672000
     },
     {
-      "id": 47293415,
-      "title": "\"Warn about PyPy being unmaintained\"",
-      "link": "https://github.com/astral-sh/uv/pull/17643",
-      "score": 140,
-      "author": "networked",
-      "created": "2026-03-08 01:35:21",
-      "created_at": 1772933721000
-    },
-    {
-      "id": 47245061,
-      "title": "From RGB to L*a*b* color space (2024)",
-      "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-      "score": 14,
-      "author": "kqr",
-      "created": "2026-03-04 09:24:13",
-      "created_at": 1772616253000
-    },
-    {
-      "id": 47291292,
-      "title": "CasNum",
-      "link": "https://github.com/0x0mer/CasNum",
-      "score": 271,
-      "author": "aebtebeten",
-      "created": "2026-03-07 20:43:51",
-      "created_at": 1772916231000
-    },
-    {
-      "id": 47293682,
-      "title": "MonoGame: A .NET framework for making cross-platform games",
-      "link": "https://github.com/MonoGame/MonoGame",
-      "score": 61,
-      "author": "azhenley",
-      "created": "2026-03-08 02:16:02",
-      "created_at": 1772936162000
-    },
-    {
       "id": 47292522,
       "title": "How to run Qwen 3.5 locally",
       "link": "https://unsloth.ai/docs/models/qwen3.5",
-      "score": 98,
+      "score": 222,
       "author": "Curiositry",
       "created": "2026-03-07 23:32:17",
       "created_at": 1772926337000
     },
     {
-      "id": 47289311,
-      "title": "A decade of Docker containers",
-      "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "score": 288,
-      "author": "zacwest",
-      "created": "2026-03-07 16:55:18",
-      "created_at": 1772902518000
+      "id": 47296302,
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "score": 46,
+      "author": "rbanffy",
+      "created": "2026-03-08 10:54:32",
+      "created_at": 1772967272000
     },
     {
-      "id": 47271988,
-      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "link": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "score": 194,
-      "author": "theblazehen",
-      "created": "2026-03-06 07:17:48",
-      "created_at": 1772781468000
+      "id": 47295279,
+      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
+      "link": "https://curiosity-telescope.vercel.app/",
+      "score": 41,
+      "author": "big_Brain69",
+      "created": "2026-03-08 07:16:15",
+      "created_at": 1772954175000
     },
     {
-      "id": 47259961,
-      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "link": "https://thecloudlet.github.io/blog/project/emacs-02/",
-      "score": 60,
-      "author": "thecloudlet",
-      "created": "2026-03-05 10:23:15",
-      "created_at": 1772706195000
+      "id": 47293415,
+      "title": "Warn about PyPy being unmaintained",
+      "link": "https://github.com/astral-sh/uv/pull/17643",
+      "score": 222,
+      "author": "networked",
+      "created": "2026-03-08 01:35:21",
+      "created_at": 1772933721000
+    },
+    {
+      "id": 47239955,
+      "title": "The Lobster Programming Language",
+      "link": "https://strlen.com/lobster/",
+      "score": 26,
+      "author": "keyle",
+      "created": "2026-03-03 22:24:54",
+      "created_at": 1772576694000
     }
   ],
   "code": 200,
