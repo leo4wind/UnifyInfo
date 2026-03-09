@@ -3,41 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-09T08:32:45.126Z"
+    "lastUpdate": "2026-03-09T12:36:53.181Z"
   },
   "data": [
     {
       "id": 47305461,
       "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
       "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "score": 114,
+      "score": 256,
       "author": "dryadin",
       "created": "2026-03-09 06:28:02",
       "created_at": 1773037682000
     },
     {
+      "id": 47306655,
+      "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
+      "link": "https://arcade.pirillo.com/fontcrafter.html",
+      "score": 101,
+      "author": "rendx",
+      "created": "2026-03-09 09:25:02",
+      "created_at": 1773048302000
+    },
+    {
+      "id": 47307055,
+      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+      "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+      "score": 168,
+      "author": "robin_reala",
+      "created": "2026-03-09 10:14:59",
+      "created_at": 1773051299000
+    },
+    {
+      "id": 47272531,
+      "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
+      "link": "https://arxiv.org/abs/2603.04782",
+      "score": 38,
+      "author": "runningmike",
+      "created": "2026-03-06 08:41:37",
+      "created_at": 1772786497000
+    },
+    {
       "id": 47301085,
       "title": "Agent Safehouse – macOS-native sandboxing for local agents",
       "link": "https://agent-safehouse.dev/",
-      "score": 549,
+      "score": 638,
       "author": "atombender",
       "created": "2026-03-08 20:30:18",
       "created_at": 1773001818000
     },
     {
-      "id": 47305149,
-      "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
-      "link": "https://github.com/knowsuchagency/mcp2cli",
-      "score": 41,
-      "author": "knowsuchagency",
-      "created": "2026-03-09 05:18:46",
-      "created_at": 1773033526000
-    },
-    {
       "id": 47291876,
       "title": "Microscopes can see video on a laserdisc",
       "link": "https://www.youtube.com/watch?v=qZuR-772cks",
-      "score": 404,
+      "score": 489,
       "author": "zdw",
       "created": "2026-03-07 22:03:37",
       "created_at": 1772921017000
@@ -46,7 +64,7 @@
       "id": 47294582,
       "title": "PCB devboard the size of a USB-C plug",
       "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
-      "score": 154,
+      "score": 198,
       "author": "zachlatta",
       "created": "2026-03-08 05:04:14",
       "created_at": 1772946254000
@@ -55,46 +73,28 @@
       "id": 47303111,
       "title": "Ask HN: What Are You Working On? (March 2026)",
       "link": "",
-      "score": 134,
+      "score": 180,
       "author": "david927",
       "created": "2026-03-09 00:07:18",
       "created_at": 1773014838000
     },
     {
+      "id": 47306334,
+      "title": "We Stopped Using the Mathematics That Works",
+      "link": "https://gfrm.in/posts/why-decision-theory-lost/index.html",
+      "score": 19,
+      "author": "slygent",
+      "created": "2026-03-09 08:45:20",
+      "created_at": 1773045920000
+    },
+    {
       "id": 47260812,
       "title": "Every single board computer I tested in 2025",
       "link": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-      "score": 157,
+      "score": 182,
       "author": "speckx",
       "created": "2026-03-05 12:24:10",
       "created_at": 1772713450000
-    },
-    {
-      "id": 47298044,
-      "title": "FrameBook",
-      "link": "https://fb.edoo.gg",
-      "score": 417,
-      "author": "todsacerdoti",
-      "created": "2026-03-08 15:21:09",
-      "created_at": 1772983269000
-    },
-    {
-      "id": 47300747,
-      "title": "We should revisit literate programming in the agent era",
-      "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "score": 223,
-      "author": "horseradish",
-      "created": "2026-03-08 19:58:15",
-      "created_at": 1772999895000
-    },
-    {
-      "id": 47304886,
-      "title": "The death of social media is the renaissance of RSS (2025)",
-      "link": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-      "score": 104,
-      "author": "jruohonen",
-      "created": "2026-03-09 04:27:59",
-      "created_at": 1773030479000
     }
   ],
   "code": 200,
