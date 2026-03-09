@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-08T20:14:46.044Z"
+    "lastUpdate": "2026-03-09T01:11:11.931Z"
   },
   "data": [
+    {
+      "id": 47301085,
+      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "link": "https://agent-safehouse.dev/",
+      "score": 287,
+      "author": "atombender",
+      "created": "2026-03-08 20:30:18",
+      "created_at": 1773001818000
+    },
+    {
+      "id": 47291876,
+      "title": "Microscopes can see video on a laserdisc",
+      "link": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "score": 214,
+      "author": "zdw",
+      "created": "2026-03-07 22:03:37",
+      "created_at": 1772921017000
+    },
+    {
+      "id": 47294582,
+      "title": "PCB devboard the size of a USB-C plug",
+      "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+      "score": 37,
+      "author": "zachlatta",
+      "created": "2026-03-08 05:04:14",
+      "created_at": 1772946254000
+    },
+    {
+      "id": 47301808,
+      "title": "Blacksky AppView",
+      "link": "https://github.com/blacksky-algorithms/atproto",
+      "score": 84,
+      "author": "Kye",
+      "created": "2026-03-08 21:40:35",
+      "created_at": 1773006035000
+    },
+    {
+      "id": 47303111,
+      "title": "Ask HN: What Are You Working On? (March 2026)",
+      "link": "",
+      "score": 24,
+      "author": "david927",
+      "created": "2026-03-09 00:07:18",
+      "created_at": 1773014838000
+    },
+    {
+      "id": 47300747,
+      "title": "We should revisit literate programming in the agent era",
+      "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+      "score": 112,
+      "author": "horseradish",
+      "created": "2026-03-08 19:58:15",
+      "created_at": 1772999895000
+    },
+    {
+      "id": 47260812,
+      "title": "Every single board computer I tested in 2025",
+      "link": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+      "score": 99,
+      "author": "speckx",
+      "created": "2026-03-05 12:24:10",
+      "created_at": 1772713450000
+    },
+    {
+      "id": 47301241,
+      "title": "Lil Finder Guy",
+      "link": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+      "score": 75,
+      "author": "frizlab",
+      "created": "2026-03-08 20:43:19",
+      "created_at": 1773002599000
+    },
     {
       "id": 47298044,
       "title": "FrameBook",
       "link": "https://fb.edoo.gg",
-      "score": 249,
+      "score": 347,
       "author": "todsacerdoti",
       "created": "2026-03-08 15:21:09",
       "created_at": 1772983269000
     },
     {
-      "id": 47300102,
-      "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-      "link": "https://github.com/BigBodyCobain/Shadowbroker",
-      "score": 33,
-      "author": "vancecookcobxin",
-      "created": "2026-03-08 19:07:33",
-      "created_at": 1772996853000
-    },
-    {
-      "id": 47254896,
-      "title": "Why can't you tune your guitar? (2019)",
-      "link": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-      "score": 121,
-      "author": "digitallogic",
-      "created": "2026-03-04 22:30:27",
-      "created_at": 1772663427000
-    },
-    {
-      "id": 47297919,
-      "title": "Living human brain cells play DOOM on a CL1 [video]",
-      "link": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-      "score": 77,
-      "author": "kevinak",
-      "created": "2026-03-08 15:07:28",
-      "created_at": 1772982448000
-    },
-    {
-      "id": 47299505,
-      "title": "WSL Manager",
-      "link": "https://github.com/bostrot/wsl2-distro-manager",
-      "score": 19,
-      "author": "gballan",
-      "created": "2026-03-08 18:08:36",
-      "created_at": 1772993316000
-    },
-    {
-      "id": 47298885,
-      "title": "LibreOffice Writer now supports Markdown",
-      "link": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "score": 147,
-      "author": "todsacerdoti",
-      "created": "2026-03-08 17:01:50",
-      "created_at": 1772989310000
-    },
-    {
-      "id": 47297913,
-      "title": "What if the Apple ][ had run on Field-Sequential?",
-      "link": "https://nicole.express/2026/the-apple-that-wasnt.html",
-      "score": 53,
-      "author": "zdw",
-      "created": "2026-03-08 15:05:40",
-      "created_at": 1772982340000
-    },
-    {
-      "id": 47295837,
-      "title": "Notes on writing Rust-based Wasm",
-      "link": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "score": 166,
-      "author": "vinhnx",
-      "created": "2026-03-08 09:24:54",
-      "created_at": 1772961894000
-    },
-    {
-      "id": 47300329,
-      "title": "Ask HN: Please restrict new accounts from posting",
-      "link": "",
-      "score": 84,
-      "author": "Oras",
-      "created": "2026-03-08 19:26:59",
-      "created_at": 1772998019000
-    },
-    {
-      "id": 47271338,
-      "title": "A basket of new fruit varieties is coming your way",
-      "link": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
-      "score": 19,
-      "author": "vinni2",
-      "created": "2026-03-06 05:46:28",
-      "created_at": 1772775988000
+      "id": 47302463,
+      "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+      "link": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+      "score": 18,
+      "author": "medbar",
+      "created": "2026-03-08 22:50:55",
+      "created_at": 1773010255000
     }
   ],
   "code": 200,

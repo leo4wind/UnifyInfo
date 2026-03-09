@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-08T20:14:48.696Z"
+    "lastUpdate": "2026-03-09T01:11:14.416Z"
   },
   "data": [
+    {
+      "zqdm": "688781",
+      "zqjc": "视涯科技",
+      "sgdm": "787781",
+      "fxsl": 100000000,
+      "swfxsl": 14000000,
+      "sgsx": 14000,
+      "dgsz": 140000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-16",
+      "zqgbrq": "2026-03-18",
+      "zqjkrq": "2026-03-18",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 65.25,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "微显示整体解决方案提供商"
+    },
+    {
+      "zqdm": "301682",
+      "zqjc": "宏明电子",
+      "sgdm": "301682",
+      "fxsl": 30387340,
+      "swfxsl": 8660000,
+      "sgsx": 8500,
+      "dgsz": 85000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-16",
+      "zqgbrq": "2026-03-18",
+      "zqjkrq": "2026-03-18",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 65.25,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "主要从事以阻容元器件为主的新型电子元器件的研发、生产和销售,致力于向客户提供高性能、高可靠性的电子元器件产品"
+    },
     {
       "zqdm": "920078",
       "zqjc": "族兴新材",
@@ -30,5 +76,5 @@
       "zyyw": "公司致力于有色金属功能粉体材料中微细球形铝粉和铝颜料的应用研究和产品开发"
     }
   ],
-  "total": 1
+  "total": 3
 }
