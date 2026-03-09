@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-09T16:46:10.438Z"
+    "lastUpdate": "2026-03-09T20:21:58.638Z"
   },
   "data": [
     {
+      "id": 47311815,
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "link": "https://felixturner.github.io/hex-map-wfc/article/",
+      "score": 199,
+      "author": "imadr",
+      "created": "2026-03-09 17:02:22",
+      "created_at": 1773075742000
+    },
+    {
+      "id": 47311484,
+      "title": "JSLinux Now Supports x86_64",
+      "link": "https://bellard.org/jslinux/",
+      "score": 114,
+      "author": "TechTechTech",
+      "created": "2026-03-09 16:43:39",
+      "created_at": 1773074619000
+    },
+    {
+      "id": 47312728,
+      "title": "Show HN: The Mog Programming Language",
+      "link": "https://moglang.org",
+      "score": 58,
+      "author": "belisarius222",
+      "created": "2026-03-09 17:57:00",
+      "created_at": 1773079020000
+    },
+    {
+      "id": 47311669,
+      "title": "DARPA's new X-76",
+      "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+      "score": 81,
+      "author": "newer_vienna",
+      "created": "2026-03-09 16:54:31",
+      "created_at": 1773075271000
+    },
+    {
+      "id": 47311657,
+      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+      "link": "",
+      "score": 47,
+      "author": "filipbalucha",
+      "created": "2026-03-09 16:53:52",
+      "created_at": 1773075232000
+    },
+    {
+      "id": 47312329,
+      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+      "link": "https://fixfest.therestartproject.org/",
+      "score": 103,
+      "author": "robtherobber",
+      "created": "2026-03-09 17:34:27",
+      "created_at": 1773077667000
+    },
+    {
       "id": 47310296,
-      "title": "Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram",
+      "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
       "link": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
-      "score": 16,
+      "score": 71,
       "author": "ibobev",
       "created": "2026-03-09 15:23:08",
       "created_at": 1773069788000
     },
     {
+      "id": 47313884,
+      "title": "Bluesky CEO Jay Graber is stepping down",
+      "link": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+      "score": 109,
+      "author": "minimaxir",
+      "created": "2026-03-09 19:09:03",
+      "created_at": 1773083343000
+    },
+    {
+      "id": 47312090,
+      "title": "Florida judge rules red light camera tickets are unconstitutional",
+      "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+      "score": 133,
+      "author": "1970-01-01",
+      "created": "2026-03-09 17:20:29",
+      "created_at": 1773076829000
+    },
+    {
       "id": 47306655,
       "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
       "link": "https://arcade.pirillo.com/fontcrafter.html",
-      "score": 289,
+      "score": 373,
       "author": "rendx",
       "created": "2026-03-09 09:25:02",
       "created_at": 1773048302000
-    },
-    {
-      "id": 47298553,
-      "title": "Flash media longevity testing – 6 years later",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
-      "score": 39,
-      "author": "1970-01-01",
-      "created": "2026-03-08 16:22:24",
-      "created_at": 1772986944000
-    },
-    {
-      "id": 47308278,
-      "title": "Reverse-engineering the UniFi inform protocol",
-      "link": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
-      "score": 74,
-      "author": "baconomatic",
-      "created": "2026-03-09 12:38:46",
-      "created_at": 1773059926000
-    },
-    {
-      "id": 47307055,
-      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-      "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "score": 562,
-      "author": "robin_reala",
-      "created": "2026-03-09 10:14:59",
-      "created_at": 1773051299000
-    },
-    {
-      "id": 47308394,
-      "title": "FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing",
-      "link": "https://vivianvoss.net/blog/capsicum-vs-seccomp",
-      "score": 61,
-      "author": "vermaden",
-      "created": "2026-03-09 12:52:20",
-      "created_at": 1773060740000
-    },
-    {
-      "id": 47310054,
-      "title": "I'm Getting a Whiff of Iain Banks' Culture",
-      "link": "https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/",
-      "score": 26,
-      "author": "ibobev",
-      "created": "2026-03-09 15:03:22",
-      "created_at": 1773068602000
-    },
-    {
-      "id": 47305461,
-      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-      "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "score": 426,
-      "author": "dryadin",
-      "created": "2026-03-09 06:28:02",
-      "created_at": 1773037682000
-    },
-    {
-      "id": 47311077,
-      "title": "US missile hit military base near Iran school, video analysis shows",
-      "link": "https://www.bbc.com/news/articles/cvg548lyjnyo",
-      "score": 37,
-      "author": "johnbarron",
-      "created": "2026-03-09 16:18:32",
-      "created_at": 1773073112000
-    },
-    {
-      "id": 47272531,
-      "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
-      "link": "https://arxiv.org/abs/2603.04782",
-      "score": 85,
-      "author": "runningmike",
-      "created": "2026-03-06 08:41:37",
-      "created_at": 1772786497000
     }
   ],
   "code": 200,
