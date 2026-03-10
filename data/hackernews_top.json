@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-10T16:45:49.378Z"
+    "lastUpdate": "2026-03-10T20:22:35.630Z"
   },
   "data": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 475,
+      "score": 1077,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
     },
     {
+      "id": 47327559,
+      "title": "Agents that run while I sleep",
+      "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "score": 69,
+      "author": "aray07",
+      "created": "2026-03-10 19:09:46",
+      "created_at": 1773169786000
+    },
+    {
+      "id": 47320600,
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "score": 149,
+      "author": "helloplanets",
+      "created": "2026-03-10 08:46:53",
+      "created_at": 1773132413000
+    },
+    {
+      "id": 47326101,
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "link": "https://github.com/RunanywhereAI/rcli",
+      "score": 139,
+      "author": "sanchitmonga22",
+      "created": "2026-03-10 17:14:52",
+      "created_at": 1773162892000
+    },
+    {
+      "id": 47328214,
+      "title": "RISC-V Is Sloooow",
+      "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "score": 9,
+      "author": "todsacerdoti",
+      "created": "2026-03-10 20:11:54",
+      "created_at": 1773173514000
+    },
+    {
+      "id": 47327589,
+      "title": "Widevine retiring its Cloud License Service (CLS)",
+      "link": "https://castlabs.com/blog/widevine-retiring-cloud-license-service/",
+      "score": 30,
+      "author": "dabinat",
+      "created": "2026-03-10 19:12:22",
+      "created_at": 1773169942000
+    },
+    {
+      "id": 47327641,
+      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
+      "link": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+      "score": 28,
+      "author": "naves",
+      "created": "2026-03-10 19:17:26",
+      "created_at": 1773170246000
+    },
+    {
       "id": 47324087,
       "title": "Debian decides not to decide on AI-generated contributions",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "score": 88,
+      "score": 214,
       "author": "jwilk",
       "created": "2026-03-10 14:53:13",
       "created_at": 1773154393000
     },
     {
-      "id": 47322815,
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "link": "https://spectrum.ieee.org/fhe-intel",
-      "score": 127,
-      "author": "sohkamyung",
-      "created": "2026-03-10 13:10:48",
-      "created_at": 1773148248000
+      "id": 47326555,
+      "title": "Billion-Parameter Theories",
+      "link": "https://www.worldgov.org/complexity.html",
+      "score": 66,
+      "author": "seanlinehan",
+      "created": "2026-03-10 17:49:53",
+      "created_at": 1773164993000
     },
     {
-      "id": 47321233,
-      "title": "I put my whole life into a single database",
-      "link": "https://howisfelix.today/",
-      "score": 309,
-      "author": "lukakopajtic",
-      "created": "2026-03-10 10:07:48",
-      "created_at": 1773137268000
-    },
-    {
-      "id": 47324296,
-      "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
-      "link": "",
-      "score": 22,
-      "author": "rosasalberto",
-      "created": "2026-03-10 15:08:05",
-      "created_at": 1773155285000
-    },
-    {
-      "id": 47323105,
-      "title": "Rebasing in Magit",
-      "link": "https://entropicthoughts.com/rebasing-in-magit",
-      "score": 113,
-      "author": "ibobev",
-      "created": "2026-03-10 13:38:39",
-      "created_at": 1773149919000
-    },
-    {
-      "id": 47322887,
-      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
-      "link": "https://dnhkng.github.io/posts/rys/",
-      "score": 73,
-      "author": "dnhkng",
-      "created": "2026-03-10 13:18:55",
-      "created_at": 1773148735000
-    },
-    {
-      "id": 47322635,
-      "title": "Online age-verification tools for child safety are surveilling adults",
-      "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 258,
-      "author": "bilsbie",
-      "created": "2026-03-10 12:55:42",
-      "created_at": 1773147342000
-    },
-    {
-      "id": 47323900,
-      "title": "Meta acquires Moltbook",
-      "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "score": 102,
-      "author": "mmayberry",
-      "created": "2026-03-10 14:38:06",
-      "created_at": 1773153486000
-    },
-    {
-      "id": 47286657,
-      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
-      "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "score": 203,
-      "author": "janandonly",
-      "created": "2026-03-07 11:28:37",
-      "created_at": 1772882917000
+      "id": 47327015,
+      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+      "link": "https://github.com/steelbrain/ffmpeg-over-ip",
+      "score": 37,
+      "author": "steelbrain",
+      "created": "2026-03-10 18:26:39",
+      "created_at": 1773167199000
     }
   ],
   "code": 200,
