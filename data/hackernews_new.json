@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-10T12:36:18.713Z"
+    "lastUpdate": "2026-03-10T16:45:49.787Z"
   },
   "data": [
+    {
+      "id": 47324054,
+      "title": "Tony Hoare has died",
+      "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "score": 475,
+      "author": "speckx",
+      "created": "2026-03-10 14:50:16",
+      "created_at": 1773154216000
+    },
+    {
+      "id": 47324087,
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "score": 88,
+      "author": "jwilk",
+      "created": "2026-03-10 14:53:13",
+      "created_at": 1773154393000
+    },
+    {
+      "id": 47322815,
+      "title": "Intel Demos Chip to Compute with Encrypted Data",
+      "link": "https://spectrum.ieee.org/fhe-intel",
+      "score": 127,
+      "author": "sohkamyung",
+      "created": "2026-03-10 13:10:48",
+      "created_at": 1773148248000
+    },
     {
       "id": 47321233,
       "title": "I put my whole life into a single database",
       "link": "https://howisfelix.today/",
-      "score": 103,
+      "score": 309,
       "author": "lukakopajtic",
       "created": "2026-03-10 10:07:48",
       "created_at": 1773137268000
     },
     {
-      "id": 47320661,
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "score": 201,
-      "author": "pjmlp",
-      "created": "2026-03-10 08:54:53",
-      "created_at": 1773132893000
+      "id": 47324296,
+      "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+      "link": "",
+      "score": 22,
+      "author": "rosasalberto",
+      "created": "2026-03-10 15:08:05",
+      "created_at": 1773155285000
+    },
+    {
+      "id": 47323105,
+      "title": "Rebasing in Magit",
+      "link": "https://entropicthoughts.com/rebasing-in-magit",
+      "score": 113,
+      "author": "ibobev",
+      "created": "2026-03-10 13:38:39",
+      "created_at": 1773149919000
+    },
+    {
+      "id": 47322887,
+      "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+      "link": "https://dnhkng.github.io/posts/rys/",
+      "score": 73,
+      "author": "dnhkng",
+      "created": "2026-03-10 13:18:55",
+      "created_at": 1773148735000
+    },
+    {
+      "id": 47322635,
+      "title": "Online age-verification tools for child safety are surveilling adults",
+      "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+      "score": 258,
+      "author": "bilsbie",
+      "created": "2026-03-10 12:55:42",
+      "created_at": 1773147342000
+    },
+    {
+      "id": 47323900,
+      "title": "Meta acquires Moltbook",
+      "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "score": 102,
+      "author": "mmayberry",
+      "created": "2026-03-10 14:38:06",
+      "created_at": 1773153486000
     },
     {
       "id": 47286657,
-      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
       "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-      "score": 90,
+      "score": 203,
       "author": "janandonly",
       "created": "2026-03-07 11:28:37",
       "created_at": 1772882917000
-    },
-    {
-      "id": 47321760,
-      "title": "Ask HN: Remember Fidonet?",
-      "link": "",
-      "score": 32,
-      "author": "ukkare",
-      "created": "2026-03-10 11:24:00",
-      "created_at": 1773141840000
-    },
-    {
-      "id": 47317616,
-      "title": "Two Years of Emacs Solo",
-      "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "score": 281,
-      "author": "celadevra_",
-      "created": "2026-03-10 00:16:44",
-      "created_at": 1773101804000
-    },
-    {
-      "id": 47279633,
-      "title": "Lotus 1-2-3 on the PC with DOS",
-      "link": "https://stonetools.ghost.io/lotus123-dos/",
-      "score": 121,
-      "author": "TMWNN",
-      "created": "2026-03-06 19:11:24",
-      "created_at": 1772824284000
-    },
-    {
-      "id": 47319620,
-      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-      "link": "https://loger-project.github.io",
-      "score": 76,
-      "author": "helloplanets",
-      "created": "2026-03-10 06:16:06",
-      "created_at": 1773123366000
-    },
-    {
-      "id": 47284461,
-      "title": "Practical Guide to Bare Metal C++",
-      "link": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
-      "score": 18,
-      "author": "ibobev",
-      "created": "2026-03-07 04:22:20",
-      "created_at": 1772857340000
-    },
-    {
-      "id": 47321499,
-      "title": "FreeBSD 14.4-Release Announcement",
-      "link": "https://www.freebsd.org/releases/14.4R/announce/",
-      "score": 12,
-      "author": "vermaden",
-      "created": "2026-03-10 10:45:09",
-      "created_at": 1773139509000
-    },
-    {
-      "id": 47284587,
-      "title": "TCXO Failure Analysis",
-      "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-      "score": 37,
-      "author": "zdw",
-      "created": "2026-03-07 04:49:38",
-      "created_at": 1772858978000
     }
   ],
   "code": 200,
