@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-10T08:29:41.704Z"
+    "lastUpdate": "2026-03-10T12:36:18.552Z"
   },
   "data": [
+    {
+      "id": 47321233,
+      "title": "I put my whole life into a single database",
+      "link": "https://howisfelix.today/",
+      "score": 103,
+      "author": "lukakopajtic",
+      "created": "2026-03-10 10:07:48",
+      "created_at": 1773137268000
+    },
+    {
+      "id": 47320661,
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "score": 201,
+      "author": "pjmlp",
+      "created": "2026-03-10 08:54:53",
+      "created_at": 1773132893000
+    },
+    {
+      "id": 47286657,
+      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "score": 90,
+      "author": "janandonly",
+      "created": "2026-03-07 11:28:37",
+      "created_at": 1772882917000
+    },
+    {
+      "id": 47321760,
+      "title": "Ask HN: Remember Fidonet?",
+      "link": "",
+      "score": 32,
+      "author": "ukkare",
+      "created": "2026-03-10 11:24:00",
+      "created_at": 1773141840000
+    },
     {
       "id": 47317616,
       "title": "Two Years of Emacs Solo",
       "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "score": 219,
+      "score": 281,
       "author": "celadevra_",
       "created": "2026-03-10 00:16:44",
       "created_at": 1773101804000
@@ -19,82 +55,46 @@
       "id": 47279633,
       "title": "Lotus 1-2-3 on the PC with DOS",
       "link": "https://stonetools.ghost.io/lotus123-dos/",
-      "score": 53,
+      "score": 121,
       "author": "TMWNN",
       "created": "2026-03-06 19:11:24",
       "created_at": 1772824284000
     },
     {
-      "id": 47317132,
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 157,
-      "author": "jnord",
-      "created": "2026-03-09 23:22:06",
-      "created_at": 1773098526000
+      "id": 47319620,
+      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+      "link": "https://loger-project.github.io",
+      "score": 76,
+      "author": "helloplanets",
+      "created": "2026-03-10 06:16:06",
+      "created_at": 1773123366000
     },
     {
-      "id": 47302493,
-      "title": "Optimizing Top K in Postgres",
-      "link": "https://www.paradedb.com/blog/optimizing-top-k",
-      "score": 54,
-      "author": "philippemnoel",
-      "created": "2026-03-08 22:54:17",
-      "created_at": 1773010457000
+      "id": 47284461,
+      "title": "Practical Guide to Bare Metal C++",
+      "link": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+      "score": 18,
+      "author": "ibobev",
+      "created": "2026-03-07 04:22:20",
+      "created_at": 1772857340000
     },
     {
-      "id": 47311815,
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "link": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 472,
-      "author": "imadr",
-      "created": "2026-03-09 17:02:22",
-      "created_at": 1773075742000
+      "id": 47321499,
+      "title": "FreeBSD 14.4-Release Announcement",
+      "link": "https://www.freebsd.org/releases/14.4R/announce/",
+      "score": 12,
+      "author": "vermaden",
+      "created": "2026-03-10 10:45:09",
+      "created_at": 1773139509000
     },
     {
-      "id": 47279761,
-      "title": "macOS Tahoe windows have different corner radiuses",
-      "link": "https://lapcatsoftware.com/articles/2026/3/1.html",
-      "score": 77,
-      "author": "robenkleene",
-      "created": "2026-03-06 19:20:18",
-      "created_at": 1772824818000
-    },
-    {
-      "id": 47280654,
-      "title": "Show HN: Remotely use my guitar tuner",
-      "link": "https://realtuner.online/",
-      "score": 178,
-      "author": "smith-kyle",
-      "created": "2026-03-06 20:27:50",
-      "created_at": 1772828870000
-    },
-    {
-      "id": 47318421,
-      "title": "Learnings from paying artists royalties for AI-generated art",
-      "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-      "score": 122,
-      "author": "jenthoven",
-      "created": "2026-03-10 02:24:52",
-      "created_at": 1773109492000
-    },
-    {
-      "id": 47277735,
-      "title": "A useless infinite scroll experiment",
-      "link": "https://futile.ch/en/",
+      "id": 47284587,
+      "title": "TCXO Failure Analysis",
+      "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
       "score": 37,
-      "author": "dolin_ch",
-      "created": "2026-03-06 17:03:39",
-      "created_at": 1772816619000
-    },
-    {
-      "id": 47311484,
-      "title": "JSLinux Now Supports x86_64",
-      "link": "https://bellard.org/jslinux/",
-      "score": 306,
-      "author": "TechTechTech",
-      "created": "2026-03-09 16:43:39",
-      "created_at": 1773074619000
+      "author": "zdw",
+      "created": "2026-03-07 04:49:38",
+      "created_at": 1772858978000
     }
   ],
   "code": 200,
