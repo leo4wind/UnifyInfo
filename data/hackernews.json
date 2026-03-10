@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-10T01:05:41.245Z"
+    "lastUpdate": "2026-03-10T05:05:08.208Z"
   },
   "data": [
     {
       "id": 47307055,
       "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
       "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "score": 852,
+      "score": 908,
       "author": "robin_reala",
       "created": "2026-03-09 10:14:59",
       "created_at": 1773051299000
@@ -19,7 +19,7 @@
       "id": 47301085,
       "title": "Agent Safehouse – macOS-native sandboxing for local agents",
       "link": "https://agent-safehouse.dev/",
-      "score": 783,
+      "score": 789,
       "author": "atombender",
       "created": "2026-03-08 20:30:18",
       "created_at": 1773001818000
@@ -28,7 +28,7 @@
       "id": 47300329,
       "title": "Ask HN: Please restrict new accounts from posting",
       "link": "",
-      "score": 688,
+      "score": 691,
       "author": "Oras",
       "created": "2026-03-08 19:26:59",
       "created_at": 1772998019000
@@ -37,7 +37,7 @@
       "id": 47296547,
       "title": "Ask HN: How to be alone?",
       "link": "",
-      "score": 641,
+      "score": 644,
       "author": "sillysaurusx",
       "created": "2026-03-08 11:41:17",
       "created_at": 1772970077000
@@ -46,7 +46,7 @@
       "id": 47305461,
       "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
       "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "score": 520,
+      "score": 529,
       "author": "dryadin",
       "created": "2026-03-09 06:28:02",
       "created_at": 1773037682000
@@ -55,7 +55,7 @@
       "id": 47298044,
       "title": "FrameBook",
       "link": "https://fb.edoo.gg",
-      "score": 512,
+      "score": 514,
       "author": "todsacerdoti",
       "created": "2026-03-08 15:21:09",
       "created_at": 1772983269000
@@ -64,16 +64,25 @@
       "id": 47306655,
       "title": "FontCrafter: Turn your handwriting into a real font",
       "link": "https://arcade.pirillo.com/fontcrafter.html",
-      "score": 429,
+      "score": 442,
       "author": "rendx",
       "created": "2026-03-09 09:25:02",
       "created_at": 1773048302000
     },
     {
+      "id": 47311815,
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "link": "https://felixturner.github.io/hex-map-wfc/article/",
+      "score": 431,
+      "author": "imadr",
+      "created": "2026-03-09 17:02:22",
+      "created_at": 1773075742000
+    },
+    {
       "id": 47299009,
       "title": "The changing goalposts of AGI and timelines",
       "link": "https://mlumiste.com/general/openai-charter/",
-      "score": 399,
+      "score": 400,
       "author": "skandium",
       "created": "2026-03-08 17:16:38",
       "created_at": 1772990198000
@@ -82,19 +91,10 @@
       "id": 47304831,
       "title": "How the Sriracha guys screwed over their supplier",
       "link": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
-      "score": 386,
+      "score": 393,
       "author": "thunderbong",
       "created": "2026-03-09 04:16:33",
       "created_at": 1773029793000
-    },
-    {
-      "id": 47298885,
-      "title": "LibreOffice Writer now supports Markdown",
-      "link": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "score": 383,
-      "author": "todsacerdoti",
-      "created": "2026-03-08 17:01:50",
-      "created_at": 1772989310000
     }
   ],
   "code": 200,
