@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-09T20:21:58.638Z"
+    "lastUpdate": "2026-03-10T01:05:41.503Z"
   },
   "data": [
     {
       "id": 47311815,
       "title": "Building a Procedural Hex Map with Wave Function Collapse",
       "link": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 199,
+      "score": 375,
       "author": "imadr",
       "created": "2026-03-09 17:02:22",
       "created_at": 1773075742000
     },
     {
+      "id": 47317616,
+      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+      "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "score": 16,
+      "author": "celadevra_",
+      "created": "2026-03-10 00:16:44",
+      "created_at": 1773101804000
+    },
+    {
       "id": 47311484,
       "title": "JSLinux Now Supports x86_64",
       "link": "https://bellard.org/jslinux/",
-      "score": 114,
+      "score": 232,
       "author": "TechTechTech",
       "created": "2026-03-09 16:43:39",
       "created_at": 1773074619000
     },
     {
-      "id": 47312728,
-      "title": "Show HN: The Mog Programming Language",
-      "link": "https://moglang.org",
-      "score": 58,
-      "author": "belisarius222",
-      "created": "2026-03-09 17:57:00",
-      "created_at": 1773079020000
+      "id": 47317739,
+      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
+      "link": "https://scottaaronson.blog/?p=9615",
+      "score": 6,
+      "author": "jhalderm",
+      "created": "2026-03-10 00:35:19",
+      "created_at": 1773102919000
+    },
+    {
+      "id": 47280654,
+      "title": "Show HN: Remotely use my guitar tuner",
+      "link": "https://realtuner.online/",
+      "score": 43,
+      "author": "smith-kyle",
+      "created": "2026-03-06 20:27:50",
+      "created_at": 1772828870000
+    },
+    {
+      "id": 47310160,
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "score": 329,
+      "author": "dahlia",
+      "created": "2026-03-09 15:12:53",
+      "created_at": 1773069173000
+    },
+    {
+      "id": 47315079,
+      "title": "The first airplane fatality",
+      "link": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+      "score": 51,
+      "author": "Hooke",
+      "created": "2026-03-09 20:32:45",
+      "created_at": 1773088365000
     },
     {
       "id": 47311669,
-      "title": "DARPA's new X-76",
+      "title": "DARPA’s new X-76",
       "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "score": 81,
+      "score": 147,
       "author": "newer_vienna",
       "created": "2026-03-09 16:54:31",
       "created_at": 1773075271000
     },
     {
+      "id": 47312728,
+      "title": "Show HN: The Mog Programming Language",
+      "link": "https://moglang.org",
+      "score": 113,
+      "author": "belisarius222",
+      "created": "2026-03-09 17:57:00",
+      "created_at": 1773079020000
+    },
+    {
       "id": 47311657,
       "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
       "link": "",
-      "score": 47,
+      "score": 80,
       "author": "filipbalucha",
       "created": "2026-03-09 16:53:52",
       "created_at": 1773075232000
-    },
-    {
-      "id": 47312329,
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "link": "https://fixfest.therestartproject.org/",
-      "score": 103,
-      "author": "robtherobber",
-      "created": "2026-03-09 17:34:27",
-      "created_at": 1773077667000
-    },
-    {
-      "id": 47310296,
-      "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
-      "link": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
-      "score": 71,
-      "author": "ibobev",
-      "created": "2026-03-09 15:23:08",
-      "created_at": 1773069788000
-    },
-    {
-      "id": 47313884,
-      "title": "Bluesky CEO Jay Graber is stepping down",
-      "link": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
-      "score": 109,
-      "author": "minimaxir",
-      "created": "2026-03-09 19:09:03",
-      "created_at": 1773083343000
-    },
-    {
-      "id": 47312090,
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "score": 133,
-      "author": "1970-01-01",
-      "created": "2026-03-09 17:20:29",
-      "created_at": 1773076829000
-    },
-    {
-      "id": 47306655,
-      "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
-      "link": "https://arcade.pirillo.com/fontcrafter.html",
-      "score": 373,
-      "author": "rendx",
-      "created": "2026-03-09 09:25:02",
-      "created_at": 1773048302000
     }
   ],
   "code": 200,
