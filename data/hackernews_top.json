@@ -3,50 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-11T08:28:57.039Z"
+    "lastUpdate": "2026-03-11T12:35:44.738Z"
   },
   "data": [
     {
-      "id": 47332074,
-      "title": "Create value for others and don’t worry about the returns",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 245,
-      "author": "ppew",
-      "created": "2026-03-11 05:45:49",
-      "created_at": 1773207949000
+      "id": 47291574,
+      "title": "Building a TB-303 from Scratch",
+      "link": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
+      "score": 100,
+      "author": "stagas",
+      "created": "2026-03-07 21:18:11",
+      "created_at": 1772918291000
     },
     {
       "id": 47330836,
       "title": "Zig – Type Resolution Redesign and Language Changes",
       "link": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 177,
+      "score": 286,
       "author": "Retro_Dev",
       "created": "2026-03-11 01:24:47",
       "created_at": 1773192287000
     },
     {
-      "id": 47332649,
-      "title": "I'm going to build my own OpenClaw, with blackjack and bun",
-      "link": "https://github.com/rcarmo/piclaw",
-      "score": 20,
-      "author": "rcarmo",
-      "created": "2026-03-11 07:36:18",
-      "created_at": 1773214578000
-    },
-    {
-      "id": 47332939,
-      "title": "Why does AI tell you to use Terminal so much?",
-      "link": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
-      "score": 4,
-      "author": "ingve",
-      "created": "2026-03-11 08:22:28",
-      "created_at": 1773217348000
+      "id": 47332074,
+      "title": "Create value for others and don’t worry about the returns",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "score": 432,
+      "author": "ppew",
+      "created": "2026-03-11 05:45:49",
+      "created_at": 1773207949000
     },
     {
       "id": 47329605,
       "title": "U+237C ⍼ Is Azimuth",
       "link": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "score": 271,
+      "score": 336,
       "author": "cokernel_hacker",
       "created": "2026-03-10 22:33:45",
       "created_at": 1773182025000
@@ -55,46 +46,55 @@
       "id": 47329557,
       "title": "Cloudflare crawl endpoint",
       "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 275,
+      "score": 342,
       "author": "jeffpalmer",
       "created": "2026-03-10 22:27:15",
       "created_at": 1773181635000
     },
     {
-      "id": 47332054,
-      "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
-      "link": "https://www.hume.ai/blog/opensource-tada",
-      "score": 20,
-      "author": "smusamashah",
-      "created": "2026-03-11 05:42:55",
-      "created_at": 1773207775000
-    },
-    {
       "id": 47295855,
       "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
       "link": "https://github.com/gcv/julia-snail",
-      "score": 55,
+      "score": 94,
       "author": "TheWiggles",
       "created": "2026-03-08 09:27:34",
       "created_at": 1772962054000
     },
     {
-      "id": 47332688,
-      "title": "AutoKernel: Autoresearch for GPU Kernels",
-      "link": "https://github.com/RightNow-AI/autokernel",
-      "score": 10,
-      "author": "frozenseven",
-      "created": "2026-03-11 07:42:10",
-      "created_at": 1773214930000
-    },
-    {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1739,
+      "score": 1845,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
+    },
+    {
+      "id": 47320600,
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "score": 503,
+      "author": "helloplanets",
+      "created": "2026-03-10 08:46:53",
+      "created_at": 1773132413000
+    },
+    {
+      "id": 47332054,
+      "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+      "link": "https://www.hume.ai/blog/opensource-tada",
+      "score": 59,
+      "author": "smusamashah",
+      "created": "2026-03-11 05:42:55",
+      "created_at": 1773207775000
+    },
+    {
+      "id": 47327559,
+      "title": "Agents that run while I sleep",
+      "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "score": 353,
+      "author": "aray07",
+      "created": "2026-03-10 19:09:46",
+      "created_at": 1773169786000
     }
   ],
   "code": 200,
