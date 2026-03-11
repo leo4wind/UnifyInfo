@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-11T01:06:32.891Z"
+    "lastUpdate": "2026-03-11T05:07:02.521Z"
   },
   "data": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1457,
+      "score": 1621,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
@@ -19,16 +19,25 @@
       "id": 47307055,
       "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
       "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "score": 1009,
+      "score": 1013,
       "author": "robin_reala",
       "created": "2026-03-09 10:14:59",
       "created_at": 1773051299000
     },
     {
+      "id": 47322635,
+      "title": "Online age-verification tools for child safety are surveilling adults",
+      "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+      "score": 592,
+      "author": "bilsbie",
+      "created": "2026-03-10 12:55:42",
+      "created_at": 1773147342000
+    },
+    {
       "id": 47311815,
       "title": "Building a Procedural Hex Map with Wave Function Collapse",
       "link": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 560,
+      "score": 562,
       "author": "imadr",
       "created": "2026-03-09 17:02:22",
       "created_at": 1773075742000
@@ -37,7 +46,7 @@
       "id": 47310160,
       "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
       "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "score": 555,
+      "score": 557,
       "author": "dahlia",
       "created": "2026-03-09 15:12:53",
       "created_at": 1773069173000
@@ -46,25 +55,25 @@
       "id": 47305461,
       "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
       "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-      "score": 539,
+      "score": 540,
       "author": "dryadin",
       "created": "2026-03-09 06:28:02",
       "created_at": 1773037682000
     },
     {
-      "id": 47322635,
-      "title": "Online age-verification tools for child safety are surveilling adults",
-      "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 532,
-      "author": "bilsbie",
-      "created": "2026-03-10 12:55:42",
-      "created_at": 1773147342000
+      "id": 47323017,
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+      "score": 501,
+      "author": "ndr42",
+      "created": "2026-03-10 13:31:17",
+      "created_at": 1773149477000
     },
     {
       "id": 47312090,
       "title": "Florida judge rules red light camera tickets are unconstitutional",
       "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "score": 482,
+      "score": 487,
       "author": "1970-01-01",
       "created": "2026-03-09 17:20:29",
       "created_at": 1773076829000
@@ -73,28 +82,19 @@
       "id": 47306655,
       "title": "FontCrafter: Turn your handwriting into a real font",
       "link": "https://arcade.pirillo.com/fontcrafter.html",
-      "score": 465,
+      "score": 470,
       "author": "rendx",
       "created": "2026-03-09 09:25:02",
       "created_at": 1773048302000
     },
     {
-      "id": 47317132,
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 440,
-      "author": "jnord",
-      "created": "2026-03-09 23:22:06",
-      "created_at": 1773098526000
-    },
-    {
-      "id": 47323017,
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "score": 423,
-      "author": "ndr42",
-      "created": "2026-03-10 13:31:17",
-      "created_at": 1773149477000
+      "id": 47323900,
+      "title": "Meta acquires Moltbook",
+      "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "score": 455,
+      "author": "mmayberry",
+      "created": "2026-03-10 14:38:06",
+      "created_at": 1773153486000
     }
   ],
   "code": 200,
