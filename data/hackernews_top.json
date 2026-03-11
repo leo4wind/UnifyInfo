@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-10T20:22:35.630Z"
+    "lastUpdate": "2026-03-11T01:06:33.039Z"
   },
   "data": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1077,
+      "score": 1457,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
     },
     {
+      "id": 47329605,
+      "title": "U+237C ⍼ Is Azimuth",
+      "link": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "score": 109,
+      "author": "cokernel_hacker",
+      "created": "2026-03-10 22:33:45",
+      "created_at": 1773182025000
+    },
+    {
+      "id": 47329557,
+      "title": "Cloudflare Crawl Endpoint",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "score": 93,
+      "author": "jeffpalmer",
+      "created": "2026-03-10 22:27:15",
+      "created_at": 1773181635000
+    },
+    {
       "id": 47327559,
       "title": "Agents that run while I sleep",
       "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 69,
+      "score": 210,
       "author": "aray07",
       "created": "2026-03-10 19:09:46",
       "created_at": 1773169786000
@@ -28,16 +46,25 @@
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 149,
+      "score": 314,
       "author": "helloplanets",
       "created": "2026-03-10 08:46:53",
       "created_at": 1773132413000
     },
     {
+      "id": 47318797,
+      "title": "SSH Secret Menu",
+      "link": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "score": 26,
+      "author": "piccirello",
+      "created": "2026-03-10 03:28:38",
+      "created_at": 1773113318000
+    },
+    {
       "id": 47326101,
       "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
       "link": "https://github.com/RunanywhereAI/rcli",
-      "score": 139,
+      "score": 177,
       "author": "sanchitmonga22",
       "created": "2026-03-10 17:14:52",
       "created_at": 1773162892000
@@ -46,55 +73,28 @@
       "id": 47328214,
       "title": "RISC-V Is Sloooow",
       "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
-      "score": 9,
+      "score": 160,
       "author": "todsacerdoti",
       "created": "2026-03-10 20:11:54",
       "created_at": 1773173514000
     },
     {
-      "id": 47327589,
-      "title": "Widevine retiring its Cloud License Service (CLS)",
-      "link": "https://castlabs.com/blog/widevine-retiring-cloud-license-service/",
-      "score": 30,
-      "author": "dabinat",
-      "created": "2026-03-10 19:12:22",
-      "created_at": 1773169942000
-    },
-    {
-      "id": 47327641,
-      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
-      "link": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
-      "score": 28,
-      "author": "naves",
-      "created": "2026-03-10 19:17:26",
-      "created_at": 1773170246000
+      "id": 47329608,
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "link": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "score": 82,
+      "author": "phony-account",
+      "created": "2026-03-10 22:33:48",
+      "created_at": 1773182028000
     },
     {
       "id": 47324087,
       "title": "Debian decides not to decide on AI-generated contributions",
       "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "score": 214,
+      "score": 272,
       "author": "jwilk",
       "created": "2026-03-10 14:53:13",
       "created_at": 1773154393000
-    },
-    {
-      "id": 47326555,
-      "title": "Billion-Parameter Theories",
-      "link": "https://www.worldgov.org/complexity.html",
-      "score": 66,
-      "author": "seanlinehan",
-      "created": "2026-03-10 17:49:53",
-      "created_at": 1773164993000
-    },
-    {
-      "id": 47327015,
-      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "link": "https://github.com/steelbrain/ffmpeg-over-ip",
-      "score": 37,
-      "author": "steelbrain",
-      "created": "2026-03-10 18:26:39",
-      "created_at": 1773167199000
     }
   ],
   "code": 200,
