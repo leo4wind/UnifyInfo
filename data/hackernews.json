@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-11T16:39:56.574Z"
+    "lastUpdate": "2026-03-11T20:23:57.684Z"
   },
   "data": [
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1938,
+      "score": 1966,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
@@ -19,7 +19,7 @@
       "id": 47322635,
       "title": "Online age-verification tools for child safety are surveilling adults",
       "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 637,
+      "score": 644,
       "author": "bilsbie",
       "created": "2026-03-10 12:55:42",
       "created_at": 1773147342000
@@ -28,7 +28,7 @@
       "id": 47323017,
       "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
       "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "score": 618,
+      "score": 627,
       "author": "ndr42",
       "created": "2026-03-10 13:31:17",
       "created_at": 1773149477000
@@ -37,64 +37,64 @@
       "id": 47332074,
       "title": "Create value for others and don’t worry about the returns",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 592,
+      "score": 626,
       "author": "ppew",
       "created": "2026-03-11 05:45:49",
       "created_at": 1773207949000
     },
     {
-      "id": 47311815,
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "link": "https://felixturner.github.io/hex-map-wfc/article/",
-      "score": 567,
-      "author": "imadr",
-      "created": "2026-03-09 17:02:22",
-      "created_at": 1773075742000
-    },
-    {
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 563,
+      "score": 589,
       "author": "helloplanets",
       "created": "2026-03-10 08:46:53",
       "created_at": 1773132413000
     },
     {
+      "id": 47340079,
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "score": 571,
+      "author": "usefulposter",
+      "created": "2026-03-11 19:29:29",
+      "created_at": 1773257369000
+    },
+    {
       "id": 47323900,
       "title": "Meta acquires Moltbook",
       "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "score": 536,
+      "score": 542,
       "author": "mmayberry",
       "created": "2026-03-10 14:38:06",
       "created_at": 1773153486000
     },
     {
-      "id": 47312090,
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "score": 496,
-      "author": "1970-01-01",
-      "created": "2026-03-09 17:20:29",
-      "created_at": 1773076829000
+      "id": 47335572,
+      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
+      "link": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+      "score": 531,
+      "author": "raldi",
+      "created": "2026-03-11 13:52:01",
+      "created_at": 1773237121000
     },
     {
       "id": 47317132,
       "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
       "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 463,
+      "score": 467,
       "author": "jnord",
       "created": "2026-03-09 23:22:06",
       "created_at": 1773098526000
     },
     {
-      "id": 47321233,
-      "title": "I put my whole life into a single database",
-      "link": "https://howisfelix.today/",
-      "score": 461,
-      "author": "lukakopajtic",
-      "created": "2026-03-10 10:07:48",
-      "created_at": 1773137268000
+      "id": 47329557,
+      "title": "Cloudflare crawl endpoint",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "score": 463,
+      "author": "jeffpalmer",
+      "created": "2026-03-10 22:27:15",
+      "created_at": 1773181635000
     }
   ],
   "code": 200,

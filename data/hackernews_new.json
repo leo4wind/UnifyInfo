@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-11T16:39:58.044Z"
+    "lastUpdate": "2026-03-11T20:23:57.817Z"
   },
   "data": [
     {
+      "id": 47340079,
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "score": 571,
+      "author": "usefulposter",
+      "created": "2026-03-11 19:29:29",
+      "created_at": 1773257369000
+    },
+    {
       "id": 47336989,
-      "title": "Temporal: A 9-year journey to fix time in JavaScript",
+      "title": "Temporal: A nine-year journey to fix time in JavaScript",
       "link": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 75,
+      "score": 349,
       "author": "robpalmer",
       "created": "2026-03-11 15:35:50",
       "created_at": 1773243350000
     },
     {
-      "id": 47335349,
-      "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
-      "link": "https://doi.org/10.1073/pnas.2420092122",
-      "score": 143,
-      "author": "peyton",
-      "created": "2026-03-11 13:32:12",
-      "created_at": 1773235932000
-    },
-    {
-      "id": 47335237,
-      "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
-      "link": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
-      "score": 240,
-      "author": "scrlk",
-      "created": "2026-03-11 13:22:39",
-      "created_at": 1773235359000
-    },
-    {
-      "id": 47334694,
-      "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
-      "link": "https://github.com/microsoft/BitNet",
-      "score": 174,
-      "author": "redm",
-      "created": "2026-03-11 12:27:15",
-      "created_at": 1773232035000
-    },
-    {
-      "id": 47336476,
-      "title": "Wiz joins Google",
-      "link": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "score": 44,
-      "author": "aldarisbm",
-      "created": "2026-03-11 14:58:20",
-      "created_at": 1773241100000
-    },
-    {
       "id": 47331811,
       "title": "Making WebAssembly a first-class language on the Web",
       "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 44,
+      "score": 253,
       "author": "mikece",
       "created": "2026-03-11 04:44:46",
       "created_at": 1773204286000
     },
     {
-      "id": 47337548,
-      "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
-      "link": "https://www.prismvideos.com",
-      "score": 8,
-      "author": "aliu327",
-      "created": "2026-03-11 16:16:12",
-      "created_at": 1773245772000
+      "id": 47335349,
+      "title": "Entities enabling scientific fraud at scale (2025)",
+      "link": "https://doi.org/10.1073/pnas.2420092122",
+      "score": 223,
+      "author": "peyton",
+      "created": "2026-03-11 13:32:12",
+      "created_at": 1773235932000
     },
     {
-      "id": 47336111,
-      "title": "Faster asin() was hiding in plain sight",
-      "link": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "score": 95,
-      "author": "def-pri-pub",
-      "created": "2026-03-11 14:35:53",
-      "created_at": 1773239753000
+      "id": 47334694,
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "link": "https://github.com/microsoft/BitNet",
+      "score": 260,
+      "author": "redm",
+      "created": "2026-03-11 12:27:15",
+      "created_at": 1773232035000
+    },
+    {
+      "id": 47337607,
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "link": "https://sitespy.app",
+      "score": 63,
+      "author": "vkuprin",
+      "created": "2026-03-11 16:21:06",
+      "created_at": 1773246066000
+    },
+    {
+      "id": 47334293,
+      "title": "The MacBook Neo",
+      "link": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "score": 217,
+      "author": "etothet",
+      "created": "2026-03-11 11:37:24",
+      "created_at": 1773229044000
     },
     {
       "id": 47337177,
       "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
       "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "score": 16,
+      "score": 87,
       "author": "tzury",
       "created": "2026-03-11 15:48:29",
       "created_at": 1773244109000
     },
     {
-      "id": 47337659,
-      "title": "Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do",
-      "link": "https://www.sentrial.com/",
-      "score": 3,
-      "author": "anayrshukla",
-      "created": "2026-03-11 16:24:17",
-      "created_at": 1773246257000
+      "id": 47319520,
+      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+      "link": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+      "score": 50,
+      "author": "defrost",
+      "created": "2026-03-10 05:58:56",
+      "created_at": 1773122336000
+    },
+    {
+      "id": 47337249,
+      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+      "link": "https://klausai.com/",
+      "score": 79,
+      "author": "robthompson2018",
+      "created": "2026-03-11 15:54:23",
+      "created_at": 1773244463000
     }
   ],
   "code": 200,
