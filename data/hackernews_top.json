@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-11T12:35:44.738Z"
+    "lastUpdate": "2026-03-11T16:39:57.798Z"
   },
   "data": [
     {
-      "id": 47291574,
-      "title": "Building a TB-303 from Scratch",
-      "link": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "score": 100,
-      "author": "stagas",
-      "created": "2026-03-07 21:18:11",
-      "created_at": 1772918291000
+      "id": 47336989,
+      "title": "Temporal: A 9-year journey to fix time in JavaScript",
+      "link": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "score": 75,
+      "author": "robpalmer",
+      "created": "2026-03-11 15:35:50",
+      "created_at": 1773243350000
     },
     {
-      "id": 47330836,
-      "title": "Zig – Type Resolution Redesign and Language Changes",
-      "link": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 286,
-      "author": "Retro_Dev",
-      "created": "2026-03-11 01:24:47",
-      "created_at": 1773192287000
+      "id": 47335349,
+      "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
+      "link": "https://doi.org/10.1073/pnas.2420092122",
+      "score": 143,
+      "author": "peyton",
+      "created": "2026-03-11 13:32:12",
+      "created_at": 1773235932000
     },
     {
-      "id": 47332074,
-      "title": "Create value for others and don’t worry about the returns",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 432,
-      "author": "ppew",
-      "created": "2026-03-11 05:45:49",
-      "created_at": 1773207949000
+      "id": 47335237,
+      "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
+      "link": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+      "score": 240,
+      "author": "scrlk",
+      "created": "2026-03-11 13:22:39",
+      "created_at": 1773235359000
     },
     {
-      "id": 47329605,
-      "title": "U+237C ⍼ Is Azimuth",
-      "link": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "score": 336,
-      "author": "cokernel_hacker",
-      "created": "2026-03-10 22:33:45",
-      "created_at": 1773182025000
+      "id": 47334694,
+      "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+      "link": "https://github.com/microsoft/BitNet",
+      "score": 174,
+      "author": "redm",
+      "created": "2026-03-11 12:27:15",
+      "created_at": 1773232035000
     },
     {
-      "id": 47329557,
-      "title": "Cloudflare crawl endpoint",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 342,
-      "author": "jeffpalmer",
-      "created": "2026-03-10 22:27:15",
-      "created_at": 1773181635000
+      "id": 47336476,
+      "title": "Wiz joins Google",
+      "link": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "score": 44,
+      "author": "aldarisbm",
+      "created": "2026-03-11 14:58:20",
+      "created_at": 1773241100000
     },
     {
-      "id": 47295855,
-      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-      "link": "https://github.com/gcv/julia-snail",
-      "score": 94,
-      "author": "TheWiggles",
-      "created": "2026-03-08 09:27:34",
-      "created_at": 1772962054000
+      "id": 47331811,
+      "title": "Making WebAssembly a first-class language on the Web",
+      "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "score": 44,
+      "author": "mikece",
+      "created": "2026-03-11 04:44:46",
+      "created_at": 1773204286000
     },
     {
-      "id": 47324054,
-      "title": "Tony Hoare has died",
-      "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1845,
-      "author": "speckx",
-      "created": "2026-03-10 14:50:16",
-      "created_at": 1773154216000
+      "id": 47337548,
+      "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
+      "link": "https://www.prismvideos.com",
+      "score": 8,
+      "author": "aliu327",
+      "created": "2026-03-11 16:16:12",
+      "created_at": 1773245772000
     },
     {
-      "id": 47320600,
-      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 503,
-      "author": "helloplanets",
-      "created": "2026-03-10 08:46:53",
-      "created_at": 1773132413000
+      "id": 47336111,
+      "title": "Faster asin() was hiding in plain sight",
+      "link": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "score": 95,
+      "author": "def-pri-pub",
+      "created": "2026-03-11 14:35:53",
+      "created_at": 1773239753000
     },
     {
-      "id": 47332054,
-      "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
-      "link": "https://www.hume.ai/blog/opensource-tada",
-      "score": 59,
-      "author": "smusamashah",
-      "created": "2026-03-11 05:42:55",
-      "created_at": 1773207775000
+      "id": 47337177,
+      "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+      "link": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+      "score": 16,
+      "author": "tzury",
+      "created": "2026-03-11 15:48:29",
+      "created_at": 1773244109000
     },
     {
-      "id": 47327559,
-      "title": "Agents that run while I sleep",
-      "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 353,
-      "author": "aray07",
-      "created": "2026-03-10 19:09:46",
-      "created_at": 1773169786000
+      "id": 47337659,
+      "title": "Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do",
+      "link": "https://www.sentrial.com/",
+      "score": 3,
+      "author": "anayrshukla",
+      "created": "2026-03-11 16:24:17",
+      "created_at": 1773246257000
     }
   ],
   "code": 200,
