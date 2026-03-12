@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-12T12:35:29.643Z"
+    "lastUpdate": "2026-03-12T16:49:37.109Z"
   },
   "data": [
     {
-      "id": 47349277,
-      "title": "Big Data on the Cheapest MacBook",
-      "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "score": 35,
-      "author": "bcye",
-      "created": "2026-03-12 11:41:14",
-      "created_at": 1773315674000
+      "id": 47350424,
+      "title": "Malus – Clean Room as a Service",
+      "link": "https://malus.sh",
+      "score": 365,
+      "author": "microflash",
+      "created": "2026-03-12 13:42:04",
+      "created_at": 1773322924000
     },
     {
-      "id": 47349334,
-      "title": "Are LLMs not getting better?",
-      "link": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "score": 28,
-      "author": "4diii",
-      "created": "2026-03-12 11:49:05",
-      "created_at": 1773316145000
+      "id": 47352459,
+      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "link": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "score": 46,
+      "author": "coloneltcb",
+      "created": "2026-03-12 15:43:39",
+      "created_at": 1773330219000
+    },
+    {
+      "id": 47350931,
+      "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+      "link": "https://codespeak.dev/",
+      "score": 122,
+      "author": "souvlakee",
+      "created": "2026-03-12 14:22:43",
+      "created_at": 1773325363000
+    },
+    {
+      "id": 47349798,
+      "title": "US banks' exposure to private credit hits $300B (2025)",
+      "link": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
+      "score": 148,
+      "author": "JumpCrisscross",
+      "created": "2026-03-12 12:43:26",
+      "created_at": 1773319406000
     },
     {
       "id": 47348304,
       "title": "Dolphin Progress Release 2603",
       "link": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "score": 63,
+      "score": 210,
       "author": "BitPirate",
       "created": "2026-03-12 09:23:01",
       "created_at": 1773307381000
     },
     {
-      "id": 47347945,
-      "title": "3D-Knitting: The Ultimate Guide",
-      "link": "https://www.oliver-charles.com/pages/3d-knitting",
-      "score": 110,
-      "author": "ChadNauseam",
-      "created": "2026-03-12 08:27:16",
-      "created_at": 1773304036000
+      "id": 47352215,
+      "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
+      "link": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+      "score": 115,
+      "author": "speckx",
+      "created": "2026-03-12 15:30:37",
+      "created_at": 1773329437000
+    },
+    {
+      "id": 47353293,
+      "title": "We will come to regret our every use of AI",
+      "link": "https://libresolutions.network/articles/ai-regret/",
+      "score": 6,
+      "author": "paulnpace",
+      "created": "2026-03-12 16:26:38",
+      "created_at": 1773332798000
+    },
+    {
+      "id": 47353558,
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "link": "https://github.com/onecli/onecli",
+      "score": 3,
+      "author": "guyb3",
+      "created": "2026-03-12 16:41:06",
+      "created_at": 1773333666000
+    },
+    {
+      "id": 47352297,
+      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+      "link": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+      "score": 54,
+      "author": "amarcheschi",
+      "created": "2026-03-12 15:34:41",
+      "created_at": 1773329681000
     },
     {
       "id": 47348192,
       "title": "Avoiding Trigonometry (2013)",
       "link": "https://iquilezles.org/articles/noacos/",
-      "score": 69,
+      "score": 166,
       "author": "WithinReason",
       "created": "2026-03-12 09:06:57",
       "created_at": 1773306417000
-    },
-    {
-      "id": 47344548,
-      "title": "Show HN: s@: decentralized social networking over static sites",
-      "link": "http://satproto.org/",
-      "score": 327,
-      "author": "remywang",
-      "created": "2026-03-12 00:22:19",
-      "created_at": 1773274939000
-    },
-    {
-      "id": 47347362,
-      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
-      "link": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "score": 72,
-      "author": "pabs3",
-      "created": "2026-03-12 06:55:56",
-      "created_at": 1773298556000
-    },
-    {
-      "id": 47336989,
-      "title": "Temporal: The 9-year journey to fix time in JavaScript",
-      "link": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 718,
-      "author": "robpalmer",
-      "created": "2026-03-11 15:35:50",
-      "created_at": 1773243350000
-    },
-    {
-      "id": 47347064,
-      "title": "Returning to Rails in 2026",
-      "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "score": 187,
-      "author": "stanislavb",
-      "created": "2026-03-12 06:06:46",
-      "created_at": 1773295606000
-    },
-    {
-      "id": 47296645,
-      "title": "Printf-Tac-Toe",
-      "link": "https://github.com/carlini/printf-tac-toe",
-      "score": 50,
-      "author": "carlos-menezes",
-      "created": "2026-03-08 12:01:07",
-      "created_at": 1772971267000
     }
   ],
   "code": 200,
