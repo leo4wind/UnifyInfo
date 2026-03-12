@@ -3,23 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-11T20:23:57.684Z"
+    "lastUpdate": "2026-03-12T01:03:32.565Z"
   },
   "data": [
+    {
+      "id": 47340079,
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "score": 2617,
+      "author": "usefulposter",
+      "created": "2026-03-11 19:29:29",
+      "created_at": 1773257369000
+    },
     {
       "id": 47324054,
       "title": "Tony Hoare has died",
       "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "score": 1966,
+      "score": 1984,
       "author": "speckx",
       "created": "2026-03-10 14:50:16",
       "created_at": 1773154216000
     },
     {
+      "id": 47332074,
+      "title": "Create value for others and don’t worry about the returns",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "score": 650,
+      "author": "ppew",
+      "created": "2026-03-11 05:45:49",
+      "created_at": 1773207949000
+    },
+    {
       "id": 47322635,
       "title": "Online age-verification tools for child safety are surveilling adults",
       "link": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-      "score": 644,
+      "score": 648,
       "author": "bilsbie",
       "created": "2026-03-10 12:55:42",
       "created_at": 1773147342000
@@ -28,70 +46,52 @@
       "id": 47323017,
       "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
       "link": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "score": 627,
+      "score": 633,
       "author": "ndr42",
       "created": "2026-03-10 13:31:17",
       "created_at": 1773149477000
     },
     {
-      "id": 47332074,
-      "title": "Create value for others and don’t worry about the returns",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 626,
-      "author": "ppew",
-      "created": "2026-03-11 05:45:49",
-      "created_at": 1773207949000
-    },
-    {
       "id": 47320600,
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
       "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "score": 589,
+      "score": 600,
       "author": "helloplanets",
       "created": "2026-03-10 08:46:53",
       "created_at": 1773132413000
     },
     {
-      "id": 47340079,
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "link": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "score": 571,
-      "author": "usefulposter",
-      "created": "2026-03-11 19:29:29",
-      "created_at": 1773257369000
-    },
-    {
-      "id": 47323900,
-      "title": "Meta acquires Moltbook",
-      "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "score": 542,
-      "author": "mmayberry",
-      "created": "2026-03-10 14:38:06",
-      "created_at": 1773153486000
-    },
-    {
       "id": 47335572,
       "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
       "link": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "score": 531,
+      "score": 570,
       "author": "raldi",
       "created": "2026-03-11 13:52:01",
       "created_at": 1773237121000
     },
     {
-      "id": 47317132,
-      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-      "score": 467,
-      "author": "jnord",
-      "created": "2026-03-09 23:22:06",
-      "created_at": 1773098526000
+      "id": 47323900,
+      "title": "Meta acquires Moltbook",
+      "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "score": 544,
+      "author": "mmayberry",
+      "created": "2026-03-10 14:38:06",
+      "created_at": 1773153486000
+    },
+    {
+      "id": 47336989,
+      "title": "Temporal: A nine-year journey to fix time in JavaScript",
+      "link": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "score": 498,
+      "author": "robpalmer",
+      "created": "2026-03-11 15:35:50",
+      "created_at": 1773243350000
     },
     {
       "id": 47329557,
       "title": "Cloudflare crawl endpoint",
       "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 463,
+      "score": 471,
       "author": "jeffpalmer",
       "created": "2026-03-10 22:27:15",
       "created_at": 1773181635000
