@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-12T16:49:36.781Z"
+    "lastUpdate": "2026-03-12T20:23:31.762Z"
   },
   "data": [
     {
       "id": 47340079,
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "score": 4005,
+      "score": 4075,
       "author": "usefulposter",
       "created": "2026-03-11 19:29:29",
       "created_at": 1773257369000
     },
     {
+      "id": 47350424,
+      "title": "Malus – Clean Room as a Service",
+      "link": "https://malus.sh",
+      "score": 792,
+      "author": "microflash",
+      "created": "2026-03-12 13:42:04",
+      "created_at": 1773322924000
+    },
+    {
       "id": 47336989,
       "title": "Temporal: The 9-year journey to fix time in JavaScript",
       "link": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 751,
+      "score": 758,
       "author": "robpalmer",
       "created": "2026-03-11 15:35:50",
       "created_at": 1773243350000
@@ -28,7 +37,7 @@
       "id": 47332074,
       "title": "Create value for others and don’t worry about the returns",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 692,
+      "score": 695,
       "author": "ppew",
       "created": "2026-03-11 05:45:49",
       "created_at": 1773207949000
@@ -37,7 +46,7 @@
       "id": 47331811,
       "title": "Making WebAssembly a first-class language on the Web",
       "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 620,
+      "score": 628,
       "author": "mikece",
       "created": "2026-03-11 04:44:46",
       "created_at": 1773204286000
@@ -46,7 +55,7 @@
       "id": 47334293,
       "title": "The MacBook Neo",
       "link": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "score": 613,
+      "score": 621,
       "author": "etothet",
       "created": "2026-03-11 11:37:24",
       "created_at": 1773229044000
@@ -55,7 +64,7 @@
       "id": 47335572,
       "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
       "link": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "score": 610,
+      "score": 616,
       "author": "raldi",
       "created": "2026-03-11 13:52:01",
       "created_at": 1773237121000
@@ -64,7 +73,7 @@
       "id": 47329557,
       "title": "Cloudflare crawl endpoint",
       "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 485,
+      "score": 486,
       "author": "jeffpalmer",
       "created": "2026-03-10 22:27:15",
       "created_at": 1773181635000
@@ -73,28 +82,19 @@
       "id": 47333627,
       "title": "How we hacked McKinsey's AI platform",
       "link": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "score": 458,
+      "score": 470,
       "author": "mycroft_4221",
       "created": "2026-03-11 09:59:03",
       "created_at": 1773223143000
     },
     {
-      "id": 47327559,
-      "title": "Agents that run while I sleep",
-      "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "score": 421,
-      "author": "aray07",
-      "created": "2026-03-10 19:09:46",
-      "created_at": 1773169786000
-    },
-    {
-      "id": 47330836,
-      "title": "Type resolution redesign, with language changes to taste",
-      "link": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 397,
-      "author": "Retro_Dev",
-      "created": "2026-03-11 01:24:47",
-      "created_at": 1773192287000
+      "id": 47339164,
+      "title": "I was interviewed by an AI bot for a job",
+      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "score": 400,
+      "author": "speckx",
+      "created": "2026-03-11 18:17:30",
+      "created_at": 1773253050000
     }
   ],
   "code": 200,
