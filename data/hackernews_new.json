@@ -3,14 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-12T08:30:58.490Z"
+    "lastUpdate": "2026-03-12T12:35:29.643Z"
   },
   "data": [
+    {
+      "id": 47349277,
+      "title": "Big Data on the Cheapest MacBook",
+      "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "score": 35,
+      "author": "bcye",
+      "created": "2026-03-12 11:41:14",
+      "created_at": 1773315674000
+    },
+    {
+      "id": 47349334,
+      "title": "Are LLMs not getting better?",
+      "link": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "score": 28,
+      "author": "4diii",
+      "created": "2026-03-12 11:49:05",
+      "created_at": 1773316145000
+    },
+    {
+      "id": 47348304,
+      "title": "Dolphin Progress Release 2603",
+      "link": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+      "score": 63,
+      "author": "BitPirate",
+      "created": "2026-03-12 09:23:01",
+      "created_at": 1773307381000
+    },
+    {
+      "id": 47347945,
+      "title": "3D-Knitting: The Ultimate Guide",
+      "link": "https://www.oliver-charles.com/pages/3d-knitting",
+      "score": 110,
+      "author": "ChadNauseam",
+      "created": "2026-03-12 08:27:16",
+      "created_at": 1773304036000
+    },
+    {
+      "id": 47348192,
+      "title": "Avoiding Trigonometry (2013)",
+      "link": "https://iquilezles.org/articles/noacos/",
+      "score": 69,
+      "author": "WithinReason",
+      "created": "2026-03-12 09:06:57",
+      "created_at": 1773306417000
+    },
     {
       "id": 47344548,
       "title": "Show HN: s@: decentralized social networking over static sites",
       "link": "http://satproto.org/",
-      "score": 241,
+      "score": 327,
       "author": "remywang",
       "created": "2026-03-12 00:22:19",
       "created_at": 1773274939000
@@ -19,7 +64,7 @@
       "id": 47347362,
       "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "link": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "score": 14,
+      "score": 72,
       "author": "pabs3",
       "created": "2026-03-12 06:55:56",
       "created_at": 1773298556000
@@ -28,73 +73,28 @@
       "id": 47336989,
       "title": "Temporal: The 9-year journey to fix time in JavaScript",
       "link": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 655,
+      "score": 718,
       "author": "robpalmer",
       "created": "2026-03-11 15:35:50",
       "created_at": 1773243350000
     },
     {
-      "id": 47310617,
-      "title": "Datahäxan",
-      "link": "https://0dd.company/galleries/witches/7.html",
-      "score": 49,
-      "author": "akkartik",
-      "created": "2026-03-09 15:48:02",
-      "created_at": 1773071282000
-    },
-    {
-      "id": 47331811,
-      "title": "Making WebAssembly a first-class language on the Web",
-      "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 532,
-      "author": "mikece",
-      "created": "2026-03-11 04:44:46",
-      "created_at": 1773204286000
-    },
-    {
-      "id": 47308349,
-      "title": "WebPKI and You",
-      "link": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
-      "score": 36,
-      "author": "aragilar",
-      "created": "2026-03-09 12:47:11",
-      "created_at": 1773060431000
-    },
-    {
-      "id": 47296568,
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "link": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-      "score": 134,
-      "author": "giuliomagnifico",
-      "created": "2026-03-08 11:44:56",
-      "created_at": 1772970296000
-    },
-    {
       "id": 47347064,
       "title": "Returning to Rails in 2026",
       "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "score": 66,
+      "score": 187,
       "author": "stanislavb",
       "created": "2026-03-12 06:06:46",
       "created_at": 1773295606000
     },
     {
-      "id": 47341645,
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "score": 223,
-      "author": "mustaphah",
-      "created": "2026-03-11 20:56:52",
-      "created_at": 1773262612000
-    },
-    {
-      "id": 47339164,
-      "title": "I was interviewed by an AI bot for a job",
-      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "score": 279,
-      "author": "speckx",
-      "created": "2026-03-11 18:17:30",
-      "created_at": 1773253050000
+      "id": 47296645,
+      "title": "Printf-Tac-Toe",
+      "link": "https://github.com/carlini/printf-tac-toe",
+      "score": 50,
+      "author": "carlos-menezes",
+      "created": "2026-03-08 12:01:07",
+      "created_at": 1772971267000
     }
   ],
   "code": 200,
