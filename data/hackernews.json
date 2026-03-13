@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-13T12:34:51.347Z"
+    "lastUpdate": "2026-03-13T16:28:11.420Z"
   },
   "data": [
     {
       "id": 47340079,
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "link": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "score": 4146,
+      "score": 4164,
       "author": "usefulposter",
       "created": "2026-03-11 19:29:29",
       "created_at": 1773257369000
@@ -19,7 +19,7 @@
       "id": 47357042,
       "title": "Shall I implement it? No",
       "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 1346,
+      "score": 1455,
       "author": "breton",
       "created": "2026-03-12 21:01:10",
       "created_at": 1773349270000
@@ -28,10 +28,28 @@
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "link": "https://malus.sh",
-      "score": 1318,
+      "score": 1365,
       "author": "microflash",
       "created": "2026-03-12 13:42:04",
       "created_at": 1773322924000
+    },
+    {
+      "id": 47362528,
+      "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+      "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+      "score": 813,
+      "author": "shaicoleman",
+      "created": "2026-03-13 10:15:56",
+      "created_at": 1773396956000
+    },
+    {
+      "id": 47359744,
+      "title": "“This is not the computer for you”",
+      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "score": 779,
+      "author": "MBCook",
+      "created": "2026-03-13 01:45:49",
+      "created_at": 1773366349000
     },
     {
       "id": 47336989,
@@ -46,55 +64,37 @@
       "id": 47356968,
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 643,
+      "score": 688,
       "author": "rectang",
       "created": "2026-03-12 20:55:51",
       "created_at": 1773348951000
     },
     {
-      "id": 47334293,
-      "title": "The MacBook Neo",
-      "link": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "score": 631,
-      "author": "etothet",
-      "created": "2026-03-11 11:37:24",
-      "created_at": 1773229044000
-    },
-    {
-      "id": 47335572,
-      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-      "link": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "score": 619,
-      "author": "raldi",
-      "created": "2026-03-11 13:52:01",
-      "created_at": 1773237121000
-    },
-    {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 569,
-      "author": "MBCook",
-      "created": "2026-03-13 01:45:49",
-      "created_at": 1773366349000
-    },
-    {
       "id": 47351371,
       "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
       "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 444,
+      "score": 487,
       "author": "colinprince",
       "created": "2026-03-12 14:48:57",
       "created_at": 1773326937000
     },
     {
-      "id": 47339164,
-      "title": "I was interviewed by an AI bot for a job",
-      "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "score": 410,
-      "author": "speckx",
-      "created": "2026-03-11 18:17:30",
-      "created_at": 1773253050000
+      "id": 47360730,
+      "title": "Vite 8.0 Is Out",
+      "link": "https://vite.dev/blog/announcing-vite8",
+      "score": 468,
+      "author": "kothariji",
+      "created": "2026-03-13 04:36:40",
+      "created_at": 1773376600000
+    },
+    {
+      "id": 47349806,
+      "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "link": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+      "score": 415,
+      "author": "JumpCrisscross",
+      "created": "2026-03-12 12:44:45",
+      "created_at": 1773319485000
     }
   ],
   "code": 200,
