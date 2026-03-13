@@ -3,23 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-13T08:28:45.430Z"
+    "lastUpdate": "2026-03-13T12:34:51.499Z"
   },
   "data": [
+    {
+      "id": 47361913,
+      "title": "Bucketsquatting is (finally) dead",
+      "link": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+      "score": 141,
+      "author": "boyter",
+      "created": "2026-03-13 08:31:33",
+      "created_at": 1773390693000
+    },
+    {
+      "id": 47362528,
+      "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+      "link": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+      "score": 247,
+      "author": "shaicoleman",
+      "created": "2026-03-13 10:15:56",
+      "created_at": 1773396956000
+    },
+    {
+      "id": 47363074,
+      "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+      "link": "https://prompt-caching.ai/",
+      "score": 20,
+      "author": "ermis",
+      "created": "2026-03-13 11:38:15",
+      "created_at": 1773401895000
+    },
     {
       "id": 47307124,
       "title": "Willingness to look stupid",
       "link": "https://sharif.io/looking-stupid",
-      "score": 256,
+      "score": 427,
       "author": "Samin100",
       "created": "2026-03-09 10:21:58",
       "created_at": 1773051718000
     },
     {
+      "id": 47362350,
+      "title": "Source code of Swedish e-government services has been leaked",
+      "link": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+      "score": 96,
+      "author": "tavro",
+      "created": "2026-03-13 09:45:30",
+      "created_at": 1773395130000
+    },
+    {
+      "id": 47362613,
+      "title": "TUI Studio – visual terminal UI design tool",
+      "link": "https://tui.studio/",
+      "score": 28,
+      "author": "mipselaer",
+      "created": "2026-03-13 10:32:45",
+      "created_at": 1773397965000
+    },
+    {
       "id": 47348275,
       "title": "Executing programs inside transformers with exponentially faster inference",
       "link": "https://www.percepta.ai/blog/can-llms-be-computers",
-      "score": 43,
+      "score": 156,
       "author": "u1hcw9nx",
       "created": "2026-03-12 09:17:56",
       "created_at": 1773307076000
@@ -28,73 +73,28 @@
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "link": "https://malus.sh",
-      "score": 1228,
+      "score": 1318,
       "author": "microflash",
       "created": "2026-03-12 13:42:04",
       "created_at": 1773322924000
     },
     {
-      "id": 47360730,
-      "title": "Vite 8.0 Is Out",
-      "link": "https://vite.dev/blog/announcing-vite8",
-      "score": 217,
-      "author": "kothariji",
-      "created": "2026-03-13 04:36:40",
-      "created_at": 1773376600000
+      "id": 47325296,
+      "title": "Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)",
+      "link": "https://88mph.fm/",
+      "score": 17,
+      "author": "matteocantiello",
+      "created": "2026-03-10 16:18:40",
+      "created_at": 1773159520000
     },
     {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 364,
-      "author": "MBCook",
-      "created": "2026-03-13 01:45:49",
-      "created_at": 1773366349000
-    },
-    {
-      "id": 47301017,
-      "title": "Prefix sums at gigabytes per second with ARM NEON",
-      "link": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
-      "score": 26,
-      "author": "mfiguiere",
-      "created": "2026-03-08 20:22:26",
-      "created_at": 1773001346000
-    },
-    {
-      "id": 47360383,
-      "title": "Hyperlinks in Terminal Emulators",
-      "link": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
-      "score": 42,
-      "author": "nvahalik",
-      "created": "2026-03-13 03:32:18",
-      "created_at": 1773372738000
-    },
-    {
-      "id": 47354098,
-      "title": "Bubble Sorted Amen Break",
-      "link": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 321,
-      "author": "eieio",
-      "created": "2026-03-12 17:13:56",
-      "created_at": 1773335636000
-    },
-    {
-      "id": 47357042,
-      "title": "Shall I implement it? No",
-      "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 1215,
-      "author": "breton",
-      "created": "2026-03-12 21:01:10",
-      "created_at": 1773349270000
-    },
-    {
-      "id": 47351371,
-      "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
-      "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 400,
-      "author": "colinprince",
-      "created": "2026-03-12 14:48:57",
-      "created_at": 1773326937000
+      "id": 47309397,
+      "title": "Okmain: How to pick an OK main colour of an image",
+      "link": "https://dgroshev.com/blog/okmain/",
+      "score": 44,
+      "author": "dgroshev",
+      "created": "2026-03-09 14:16:53",
+      "created_at": 1773065813000
     }
   ],
   "code": 200,
