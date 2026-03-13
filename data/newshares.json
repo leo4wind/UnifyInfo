@@ -3,9 +3,78 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-12T20:23:34.465Z"
+    "lastUpdate": "2026-03-13T01:09:15.221Z"
   },
   "data": [
+    {
+      "zqdm": "688813",
+      "zqjc": "泰金新能",
+      "sgdm": "787813",
+      "fxsl": 40000000,
+      "swfxsl": 9600000,
+      "sgsx": 9500,
+      "dgsz": 95000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-20",
+      "zqgbrq": "2026-03-24",
+      "zqjkrq": "2026-03-24",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 43.82,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "专注于高端绿色电解成套装备、钛电极以及金属玻璃封接制品的研发、设计、生产及销售"
+    },
+    {
+      "zqdm": "301683",
+      "zqjc": "慧谷新材",
+      "sgdm": "301683",
+      "fxsl": 15779100,
+      "swfxsl": 4023500,
+      "sgsx": 4000,
+      "dgsz": 40000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-20",
+      "zqgbrq": "2026-03-24",
+      "zqjkrq": "2026-03-24",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 35.35,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "功能性树脂和功能性涂层材料的研发、生产和销售"
+    },
+    {
+      "zqdm": "001257",
+      "zqjc": "盛龙股份",
+      "sgdm": "001257",
+      "fxsl": 215000000,
+      "swfxsl": 45150000,
+      "sgsx": 45000,
+      "dgsz": 450000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-20",
+      "zqgbrq": "2026-03-24",
+      "zqjkrq": "2026-03-24",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 40.48,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "重要战略资源钼相关产品的生产、加工、销售业务"
+    },
     {
       "zqdm": "688781",
       "zqjc": "视涯科技",
@@ -99,5 +168,5 @@
       "zyyw": "公司致力于有色金属功能粉体材料中微细球形铝粉和铝颜料的应用研究和产品开发"
     }
   ],
-  "total": 4
+  "total": 7
 }

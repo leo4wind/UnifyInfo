@@ -3,32 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-12T20:23:31.861Z"
+    "lastUpdate": "2026-03-13T01:09:12.619Z"
   },
   "data": [
+    {
+      "id": 47357042,
+      "title": "Shall I implement it? No",
+      "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "score": 742,
+      "author": "breton",
+      "created": "2026-03-12 21:01:10",
+      "created_at": 1773349270000
+    },
+    {
+      "id": 47359136,
+      "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+      "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+      "score": 30,
+      "author": "danso",
+      "created": "2026-03-13 00:17:34",
+      "created_at": 1773361054000
+    },
     {
       "id": 47350424,
       "title": "Malus – Clean Room as a Service",
       "link": "https://malus.sh",
-      "score": 792,
+      "score": 1018,
       "author": "microflash",
       "created": "2026-03-12 13:42:04",
       "created_at": 1773322924000
     },
     {
-      "id": 47356017,
-      "title": "An old photo of a large BBS",
-      "link": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
-      "score": 38,
-      "author": "xbryanx",
-      "created": "2026-03-12 19:41:35",
-      "created_at": 1773344495000
-    },
-    {
       "id": 47354098,
       "title": "Bubble Sorted Amen Break",
       "link": "https://parametricavocado.itch.io/amen-sorting",
-      "score": 156,
+      "score": 255,
       "author": "eieio",
       "created": "2026-03-12 17:13:56",
       "created_at": 1773335636000
@@ -37,7 +46,7 @@
       "id": 47353533,
       "title": "Reversing memory loss via gut-brain communication",
       "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-      "score": 116,
+      "score": 221,
       "author": "mustaphah",
       "created": "2026-03-12 16:38:51",
       "created_at": 1773333531000
@@ -46,55 +55,46 @@
       "id": 47351371,
       "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
       "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
-      "score": 210,
+      "score": 320,
       "author": "colinprince",
       "created": "2026-03-12 14:48:57",
       "created_at": 1773326937000
     },
     {
       "id": 47352459,
-      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
       "link": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "score": 138,
+      "score": 215,
       "author": "coloneltcb",
       "created": "2026-03-12 15:43:39",
       "created_at": 1773330219000
     },
     {
-      "id": 47355410,
-      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-      "link": "https://ionrouter.io",
-      "score": 21,
-      "author": "vshah1016",
-      "created": "2026-03-12 18:52:36",
-      "created_at": 1773341556000
+      "id": 47350407,
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "link": "https://aminrj.com/posts/rag-document-poisoning/",
+      "score": 57,
+      "author": "aminerj",
+      "created": "2026-03-12 13:40:36",
+      "created_at": 1773322836000
     },
     {
-      "id": 47355702,
-      "title": "White House plan to break up iconic U.S. climate lab moves forward",
-      "link": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
-      "score": 94,
-      "author": "robtherobber",
-      "created": "2026-03-12 19:14:21",
-      "created_at": 1773342861000
+      "id": 47356968,
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "score": 366,
+      "author": "rectang",
+      "created": "2026-03-12 20:55:51",
+      "created_at": 1773348951000
     },
     {
-      "id": 47353558,
-      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-      "link": "https://github.com/onecli/onecli",
-      "score": 82,
-      "author": "guyb3",
-      "created": "2026-03-12 16:41:06",
-      "created_at": 1773333666000
-    },
-    {
-      "id": 47299508,
-      "title": "NaN Is Weird",
-      "link": "https://brassnet.biz/blog/nan-is-weird.html",
-      "score": 14,
-      "author": "freediver",
-      "created": "2026-03-08 18:08:38",
-      "created_at": 1772993318000
+      "id": 47309940,
+      "title": "Understanding the Go Runtime: The Scheduler",
+      "link": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+      "score": 11,
+      "author": "valyala",
+      "created": "2026-03-09 14:54:31",
+      "created_at": 1773068071000
     }
   ],
   "code": 200,
