@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-14T12:28:14.169Z"
+    "lastUpdate": "2026-03-14T16:19:24.686Z"
   },
   "data": [
     {
       "id": 47357042,
       "title": "Shall I implement it? No",
       "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-      "score": 1518,
+      "score": 1525,
       "author": "breton",
       "created": "2026-03-12 21:01:10",
       "created_at": 1773349270000
     },
     {
-      "id": 47350424,
-      "title": "Malus – Clean Room as a Service",
-      "link": "https://malus.sh",
-      "score": 1400,
-      "author": "microflash",
-      "created": "2026-03-12 13:42:04",
-      "created_at": 1773322924000
-    },
-    {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "link": "https://www.canirun.ai/",
-      "score": 1252,
+      "score": 1325,
       "author": "ricardbejarano",
       "created": "2026-03-13 12:46:10",
       "created_at": 1773405970000
@@ -37,34 +28,34 @@
       "id": 47362528,
       "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
       "link": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-      "score": 1231,
+      "score": 1249,
       "author": "shaicoleman",
       "created": "2026-03-13 10:15:56",
       "created_at": 1773396956000
     },
     {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 959,
-      "author": "MBCook",
-      "created": "2026-03-13 01:45:49",
-      "created_at": 1773366349000
-    },
-    {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
-      "score": 810,
+      "score": 978,
       "author": "meetpateltech",
       "created": "2026-03-13 17:19:01",
       "created_at": 1773422341000
     },
     {
+      "id": 47359744,
+      "title": "“This is not the computer for you”",
+      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "score": 967,
+      "author": "MBCook",
+      "created": "2026-03-13 01:45:49",
+      "created_at": 1773366349000
+    },
+    {
       "id": 47356968,
       "title": "Innocent woman jailed after being misidentified using AI facial recognition",
       "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-      "score": 725,
+      "score": 728,
       "author": "rectang",
       "created": "2026-03-12 20:55:51",
       "created_at": 1773348951000
@@ -73,7 +64,7 @@
       "id": 47363584,
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 617,
+      "score": 651,
       "author": "johnbarron",
       "created": "2026-03-13 12:31:09",
       "created_at": 1773405069000
@@ -82,7 +73,7 @@
       "id": 47362613,
       "title": "TUI Studio – visual terminal UI design tool",
       "link": "https://tui.studio/",
-      "score": 599,
+      "score": 604,
       "author": "mipselaer",
       "created": "2026-03-13 10:32:45",
       "created_at": 1773397965000
@@ -91,10 +82,19 @@
       "id": 47360730,
       "title": "Vite 8.0 Is Out",
       "link": "https://vite.dev/blog/announcing-vite8",
-      "score": 531,
+      "score": 535,
       "author": "kothariji",
       "created": "2026-03-13 04:36:40",
       "created_at": 1773376600000
+    },
+    {
+      "id": 47366374,
+      "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
+      "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+      "score": 508,
+      "author": "cf100clunk",
+      "created": "2026-03-13 16:13:30",
+      "created_at": 1773418410000
     }
   ],
   "code": 200,

@@ -3,41 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-14T12:28:14.612Z"
+    "lastUpdate": "2026-03-14T16:19:24.970Z"
   },
   "data": [
     {
-      "id": 47375682,
-      "title": "Claude Code's binary reveals silent A/B tests on core features",
-      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "score": 70,
-      "author": "ramoz",
-      "created": "2026-03-14 11:46:29",
-      "created_at": 1773488789000
+      "id": 47376767,
+      "title": "Montana passes Right to Compute act (2025)",
+      "link": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+      "score": 79,
+      "author": "bilsbie",
+      "created": "2026-03-14 13:59:58",
+      "created_at": 1773496798000
     },
     {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
-      "score": 810,
+      "score": 978,
       "author": "meetpateltech",
       "created": "2026-03-13 17:19:01",
       "created_at": 1773422341000
     },
     {
       "id": 47339219,
-      "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+      "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
       "link": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "score": 54,
+      "score": 165,
       "author": "timhh",
       "created": "2026-03-11 18:21:58",
       "created_at": 1773253318000
     },
     {
+      "id": 47327703,
+      "title": "Python: The Optimization Ladder",
+      "link": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
+      "score": 107,
+      "author": "Twirrim",
+      "created": "2026-03-10 19:22:39",
+      "created_at": 1773170559000
+    },
+    {
+      "id": 47367336,
+      "title": "Cookie jars capture American kitsch (2023)",
+      "link": "https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history",
+      "score": 10,
+      "author": "NaOH",
+      "created": "2026-03-13 17:39:35",
+      "created_at": 1773423575000
+    },
+    {
       "id": 47375764,
       "title": "XML Is a Cheap DSL",
       "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "score": 5,
+      "score": 164,
       "author": "y1n0",
       "created": "2026-03-14 11:59:13",
       "created_at": 1773489553000
@@ -46,55 +64,37 @@
       "id": 47374745,
       "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
       "link": "https://github.com/drojaazu/megadev",
-      "score": 19,
+      "score": 75,
       "author": "XzetaU8",
       "created": "2026-03-14 09:04:39",
       "created_at": 1773479079000
     },
     {
-      "id": 47318386,
-      "title": "A Survival Guide to a PhD (2016)",
-      "link": "http://karpathy.github.io/2016/09/07/phd/",
-      "score": 120,
-      "author": "vismit2000",
-      "created": "2026-03-10 02:16:51",
-      "created_at": 1773109011000
+      "id": 47374796,
+      "title": "Starlink Militarization and Its Impact on Global Strategic Stability",
+      "link": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
+      "score": 47,
+      "author": "msuniverse2026",
+      "created": "2026-03-14 09:14:51",
+      "created_at": 1773479691000
     },
     {
-      "id": 47347920,
-      "title": "The Isolation Trap: Erlang",
-      "link": "https://causality.blog/essays/the-isolation-trap/",
-      "score": 69,
-      "author": "enz",
-      "created": "2026-03-12 08:22:32",
-      "created_at": 1773303752000
+      "id": 47340203,
+      "title": "Wired headphone sales are exploding",
+      "link": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+      "score": 288,
+      "author": "billybuckwheat",
+      "created": "2026-03-11 19:37:46",
+      "created_at": 1773257866000
     },
     {
-      "id": 47363584,
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 617,
-      "author": "johnbarron",
-      "created": "2026-03-13 12:31:09",
-      "created_at": 1773405069000
-    },
-    {
-      "id": 47323625,
-      "title": "You gotta think outside the hypercube",
-      "link": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-      "score": 76,
-      "author": "surprisetalk",
-      "created": "2026-03-10 14:18:21",
-      "created_at": 1773152301000
-    },
-    {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "link": "https://channelsurfer.tv",
-      "score": 529,
-      "author": "kilroy123",
-      "created": "2026-03-11 14:34:57",
-      "created_at": 1773239697000
+      "id": 47376848,
+      "title": "Philosoph Jürgen Habermas Gestorben",
+      "link": "https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363",
+      "score": 54,
+      "author": "sebastian_z",
+      "created": "2026-03-14 14:08:18",
+      "created_at": 1773497298000
     }
   ],
   "code": 200,
