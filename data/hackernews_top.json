@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-14T05:06:05.053Z"
+    "lastUpdate": "2026-03-14T08:22:34.902Z"
   },
   "data": [
     {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
-      "score": 460,
+      "score": 620,
       "author": "meetpateltech",
       "created": "2026-03-13 17:19:01",
       "created_at": 1773422341000
     },
     {
-      "id": 47363754,
-      "title": "Can I run AI locally?",
-      "link": "https://www.canirun.ai/",
-      "score": 1061,
-      "author": "ricardbejarano",
-      "created": "2026-03-13 12:46:10",
-      "created_at": 1773405970000
-    },
-    {
-      "id": 47371064,
-      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
-      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 103,
-      "author": "kernelrocks",
-      "created": "2026-03-13 22:52:05",
-      "created_at": 1773442325000
-    },
-    {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "link": "https://channelsurfer.tv",
-      "score": 445,
-      "author": "kilroy123",
-      "created": "2026-03-11 14:34:57",
-      "created_at": 1773239697000
-    },
-    {
-      "id": 47363584,
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 486,
-      "author": "johnbarron",
-      "created": "2026-03-13 12:31:09",
-      "created_at": 1773405069000
-    },
-    {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "link": "https://github.com/TomBadash/MouseControl",
-      "score": 248,
-      "author": "avionics-guy",
-      "created": "2026-03-13 18:42:54",
-      "created_at": 1773427374000
-    },
-    {
-      "id": 47372672,
-      "title": "Optimizing Content for Agents",
-      "link": "https://cra.mr/optimizing-content-for-agents/",
-      "score": 19,
-      "author": "vinhnx",
-      "created": "2026-03-14 02:27:00",
-      "created_at": 1773455220000
-    },
-    {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "link": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 250,
-      "author": "tosh",
-      "created": "2026-03-13 18:34:12",
-      "created_at": 1773426852000
+      "id": 47318386,
+      "title": "A Survival Guide to a PhD (2016)",
+      "link": "http://karpathy.github.io/2016/09/07/phd/",
+      "score": 60,
+      "author": "vismit2000",
+      "created": "2026-03-10 02:16:51",
+      "created_at": 1773109011000
     },
     {
       "id": 47319071,
       "title": "Emacs and Vim in the Age of AI",
       "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "score": 26,
+      "score": 107,
       "author": "psibi",
       "created": "2026-03-10 04:21:32",
       "created_at": 1773116492000
     },
     {
-      "id": 47371922,
-      "title": "Our Experience with I-Ready",
-      "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
-      "score": 48,
-      "author": "barry-cotter",
-      "created": "2026-03-14 00:29:50",
-      "created_at": 1773448190000
+      "id": 47363584,
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 537,
+      "author": "johnbarron",
+      "created": "2026-03-13 12:31:09",
+      "created_at": 1773405069000
+    },
+    {
+      "id": 47323625,
+      "title": "You gotta think outside the hypercube",
+      "link": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+      "score": 31,
+      "author": "surprisetalk",
+      "created": "2026-03-10 14:18:21",
+      "created_at": 1773152301000
+    },
+    {
+      "id": 47336100,
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "link": "https://channelsurfer.tv",
+      "score": 486,
+      "author": "kilroy123",
+      "created": "2026-03-11 14:34:57",
+      "created_at": 1773239697000
+    },
+    {
+      "id": 47371064,
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 120,
+      "author": "kernelrocks",
+      "created": "2026-03-13 22:52:05",
+      "created_at": 1773442325000
+    },
+    {
+      "id": 47368033,
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "link": "https://github.com/TomBadash/MouseControl",
+      "score": 287,
+      "author": "avionics-guy",
+      "created": "2026-03-13 18:42:54",
+      "created_at": 1773427374000
+    },
+    {
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "link": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 275,
+      "author": "tosh",
+      "created": "2026-03-13 18:34:12",
+      "created_at": 1773426852000
+    },
+    {
+      "id": 47339403,
+      "title": "Atari 2600 BASIC Programming (2015)",
+      "link": "https://huguesjohnson.com/programming/atari-2600-basic/",
+      "score": 20,
+      "author": "mondobe",
+      "created": "2026-03-11 18:35:39",
+      "created_at": 1773254139000
     }
   ],
   "code": 200,
