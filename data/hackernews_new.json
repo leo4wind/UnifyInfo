@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-13T20:22:45.246Z"
+    "lastUpdate": "2026-03-14T01:08:51.755Z"
   },
   "data": [
     {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "link": "https://channelsurfer.tv",
-      "score": 222,
-      "author": "kilroy123",
-      "created": "2026-03-11 14:34:57",
-      "created_at": 1773239697000
+      "id": 47367129,
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "link": "https://claude.com/blog/1m-context-ga",
+      "score": 123,
+      "author": "meetpateltech",
+      "created": "2026-03-13 17:19:01",
+      "created_at": 1773422341000
+    },
+    {
+      "id": 47371064,
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 68,
+      "author": "kernelrocks",
+      "created": "2026-03-13 22:52:05",
+      "created_at": 1773442325000
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "link": "https://www.canirun.ai/",
-      "score": 528,
+      "score": 902,
       "author": "ricardbejarano",
       "created": "2026-03-13 12:46:10",
       "created_at": 1773405970000
     },
     {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "link": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 62,
-      "author": "tosh",
-      "created": "2026-03-13 18:34:12",
-      "created_at": 1773426852000
+      "id": 47336100,
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "link": "https://channelsurfer.tv",
+      "score": 398,
+      "author": "kilroy123",
+      "created": "2026-03-11 14:34:57",
+      "created_at": 1773239697000
     },
     {
-      "id": 47368430,
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "score": 13,
-      "author": "eatonphil",
-      "created": "2026-03-13 19:15:06",
-      "created_at": 1773429306000
-    },
-    {
-      "id": 47367526,
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "link": "https://github.com/Compresr-ai/Context-Gateway",
-      "score": 33,
-      "author": "ivzak",
-      "created": "2026-03-13 17:58:22",
-      "created_at": 1773424702000
+      "id": 47368033,
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "link": "https://github.com/TomBadash/MouseControl",
+      "score": 181,
+      "author": "avionics-guy",
+      "created": "2026-03-13 18:42:54",
+      "created_at": 1773427374000
     },
     {
       "id": 47363584,
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 206,
+      "score": 407,
       "author": "johnbarron",
       "created": "2026-03-13 12:31:09",
       "created_at": 1773405069000
     },
     {
-      "id": 47362613,
-      "title": "TUI Studio – visual terminal UI design tool",
-      "link": "https://tui.studio/",
-      "score": 456,
-      "author": "mipselaer",
-      "created": "2026-03-13 10:32:45",
-      "created_at": 1773397965000
-    },
-    {
-      "id": 47364729,
-      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
-      "link": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
-      "score": 94,
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "link": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 195,
       "author": "tosh",
-      "created": "2026-03-13 14:11:36",
-      "created_at": 1773411096000
+      "created": "2026-03-13 18:34:12",
+      "created_at": 1773426852000
     },
     {
-      "id": 47366666,
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 83,
-      "author": "merksittich",
-      "created": "2026-03-13 16:40:42",
-      "created_at": 1773420042000
+      "id": 47310815,
+      "title": "Coding My Handwriting",
+      "link": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+      "score": 11,
+      "author": "bwoah",
+      "created": "2026-03-09 16:01:23",
+      "created_at": 1773072083000
     },
     {
-      "id": 47367568,
-      "title": "Your phone is an entire computer",
-      "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-      "score": 140,
-      "author": "medhir",
-      "created": "2026-03-13 18:02:32",
-      "created_at": 1773424952000
+      "id": 47321579,
+      "title": "OpenTelemetry for Rust Developers",
+      "link": "https://signoz.io/blog/opentelemetry-rust/",
+      "score": 23,
+      "author": "dhruv_ahuja",
+      "created": "2026-03-10 10:57:57",
+      "created_at": 1773140277000
+    },
+    {
+      "id": 47370822,
+      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+      "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+      "score": 113,
+      "author": "e12e",
+      "created": "2026-03-13 22:28:04",
+      "created_at": 1773440884000
     }
   ],
   "code": 200,
