@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-15T12:29:51.020Z"
+    "lastUpdate": "2026-03-15T16:20:40.347Z"
   },
   "data": [
     {
-      "id": 47385935,
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 105,
-      "author": "ZacnyLos",
-      "created": "2026-03-15 10:15:47",
-      "created_at": 1773569747000
+      "id": 47388141,
+      "title": "What makes Intel Optane stand out (2023)",
+      "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 33,
+      "author": "walterbell",
+      "created": "2026-03-15 15:09:41",
+      "created_at": 1773587381000
     },
     {
       "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning",
+      "title": "A Visual Introduction to Machine Learning (2015)",
       "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 67,
+      "score": 191,
       "author": "vismit2000",
       "created": "2026-03-15 10:47:35",
       "created_at": 1773571655000
     },
     {
-      "id": 47386441,
-      "title": "Generating All 32-Bit Primes (Part I)",
-      "link": "https://hnlyman.github.io/pages/prime32_I.html",
-      "score": 11,
-      "author": "hnlyman",
-      "created": "2026-03-15 11:42:01",
-      "created_at": 1773574921000
+      "id": 47387047,
+      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+      "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+      "score": 47,
+      "author": "robinhouston",
+      "created": "2026-03-15 13:08:02",
+      "created_at": 1773580082000
+    },
+    {
+      "id": 47388519,
+      "title": "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
+      "link": "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence",
+      "score": 6,
+      "author": "ohjeez",
+      "created": "2026-03-15 15:45:24",
+      "created_at": 1773589524000
+    },
+    {
+      "id": 47388479,
+      "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
+      "link": "https://firthemouse.github.io/",
+      "score": 5,
+      "author": "FirTheMouse",
+      "created": "2026-03-15 15:40:13",
+      "created_at": 1773589213000
+    },
+    {
+      "id": 47386581,
+      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+      "link": "https://signet.watch",
+      "score": 60,
+      "author": "mapldx",
+      "created": "2026-03-15 12:01:00",
+      "created_at": 1773576060000
+    },
+    {
+      "id": 47386983,
+      "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+      "link": "https://octetta.github.io/k-synth/",
+      "score": 30,
+      "author": "octetta",
+      "created": "2026-03-15 12:58:13",
+      "created_at": 1773579493000
     },
     {
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "link": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 203,
+      "score": 264,
       "author": "cdrnsf",
       "created": "2026-03-15 04:23:43",
       "created_at": 1773548623000
     },
     {
-      "id": 47385272,
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 183,
-      "author": "ingve",
-      "created": "2026-03-15 08:04:55",
-      "created_at": 1773561895000
-    },
-    {
-      "id": 47335325,
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 85,
-      "author": "ibobev",
-      "created": "2026-03-11 13:30:31",
-      "created_at": 1773235831000
-    },
-    {
-      "id": 47384032,
-      "title": "A most elegant TCP hole punching algorithm",
-      "link": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 114,
-      "author": "Uptrenda",
-      "created": "2026-03-15 03:29:17",
-      "created_at": 1773545357000
-    },
-    {
-      "id": 47334668,
-      "title": "Examples for the tcpdump and dig man pages",
-      "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+      "id": 47324478,
+      "title": "Kniterate Notes",
+      "link": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
       "score": 18,
-      "author": "ibobev",
-      "created": "2026-03-11 12:24:09",
-      "created_at": 1773231849000
+      "author": "surprisetalk",
+      "created": "2026-03-10 15:20:27",
+      "created_at": 1773156027000
     },
     {
-      "id": 47383804,
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 114,
-      "author": "tartoran",
-      "created": "2026-03-15 02:48:33",
-      "created_at": 1773542913000
-    },
-    {
-      "id": 47382791,
-      "title": "How kernel anti-cheats work",
-      "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 222,
-      "author": "davikr",
-      "created": "2026-03-15 00:15:10",
-      "created_at": 1773533710000
+      "id": 47386246,
+      "title": "IBM, sonic delay lines, and the history of the 80×24 display",
+      "link": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
+      "score": 45,
+      "author": "rbanffy",
+      "created": "2026-03-15 11:06:45",
+      "created_at": 1773572805000
     }
   ],
   "code": 200,

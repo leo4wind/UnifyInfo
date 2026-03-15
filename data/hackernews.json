@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-15T12:29:50.887Z"
+    "lastUpdate": "2026-03-15T16:20:40.053Z"
   },
   "data": [
-    {
-      "id": 47363754,
-      "title": "Can I run AI locally?",
-      "link": "https://www.canirun.ai/",
-      "score": 1434,
-      "author": "ricardbejarano",
-      "created": "2026-03-13 12:46:10",
-      "created_at": 1773405970000
-    },
     {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
-      "score": 1163,
+      "score": 1177,
       "author": "meetpateltech",
       "created": "2026-03-13 17:19:01",
       "created_at": 1773422341000
@@ -28,25 +19,16 @@
       "id": 47381791,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "link": "https://agelesslinux.org/",
-      "score": 680,
+      "score": 743,
       "author": "nateb2022",
       "created": "2026-03-14 22:10:26",
       "created_at": 1773526226000
     },
     {
-      "id": 47363584,
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 679,
-      "author": "johnbarron",
-      "created": "2026-03-13 12:31:09",
-      "created_at": 1773405069000
-    },
-    {
       "id": 47366374,
       "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
       "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "score": 544,
+      "score": 548,
       "author": "cf100clunk",
       "created": "2026-03-13 16:13:30",
       "created_at": 1773418410000
@@ -55,7 +37,7 @@
       "id": 47366666,
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 505,
+      "score": 511,
       "author": "merksittich",
       "created": "2026-03-13 16:40:42",
       "created_at": 1773420042000
@@ -64,25 +46,16 @@
       "id": 47368033,
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
       "link": "https://github.com/TomBadash/MouseControl",
-      "score": 425,
+      "score": 430,
       "author": "avionics-guy",
       "created": "2026-03-13 18:42:54",
       "created_at": 1773427374000
     },
     {
-      "id": 47363922,
-      "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
-      "link": "https://help.instagram.com/491565145294150",
-      "score": 407,
-      "author": "mindracer",
-      "created": "2026-03-13 13:03:42",
-      "created_at": 1773407022000
-    },
-    {
       "id": 47368135,
       "title": "Digg is gone again",
       "link": "https://digg.com/",
-      "score": 398,
+      "score": 403,
       "author": "hammerbrostime",
       "created": "2026-03-13 18:52:17",
       "created_at": 1773427937000
@@ -91,10 +64,37 @@
       "id": 47367463,
       "title": "John Carmack about open source and anti-AI activists",
       "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-      "score": 360,
+      "score": 363,
       "author": "tzury",
       "created": "2026-03-13 17:51:34",
       "created_at": 1773424294000
+    },
+    {
+      "id": 47367568,
+      "title": "Your phone is an entire computer",
+      "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+      "score": 359,
+      "author": "medhir",
+      "created": "2026-03-13 18:02:32",
+      "created_at": 1773424952000
+    },
+    {
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "link": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 346,
+      "author": "tosh",
+      "created": "2026-03-13 18:34:12",
+      "created_at": 1773426852000
+    },
+    {
+      "id": 47378638,
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "score": 339,
+      "author": "inaros",
+      "created": "2026-03-14 16:58:40",
+      "created_at": 1773507520000
     }
   ],
   "code": 200,
