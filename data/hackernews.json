@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-15T01:20:18.132Z"
+    "lastUpdate": "2026-03-15T05:24:34.700Z"
   },
   "data": [
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "link": "https://www.canirun.ai/",
-      "score": 1400,
+      "score": 1413,
       "author": "ricardbejarano",
       "created": "2026-03-13 12:46:10",
       "created_at": 1773405970000
@@ -19,7 +19,7 @@
       "id": 47362528,
       "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
       "link": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-      "score": 1261,
+      "score": 1263,
       "author": "shaicoleman",
       "created": "2026-03-13 10:15:56",
       "created_at": 1773396956000
@@ -28,25 +28,16 @@
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "link": "https://claude.com/blog/1m-context-ga",
-      "score": 1112,
+      "score": 1141,
       "author": "meetpateltech",
       "created": "2026-03-13 17:19:01",
       "created_at": 1773422341000
     },
     {
-      "id": 47359744,
-      "title": "“This is not the computer for you”",
-      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-      "score": 977,
-      "author": "MBCook",
-      "created": "2026-03-13 01:45:49",
-      "created_at": 1773366349000
-    },
-    {
       "id": 47363584,
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 670,
+      "score": 675,
       "author": "johnbarron",
       "created": "2026-03-13 12:31:09",
       "created_at": 1773405069000
@@ -55,7 +46,7 @@
       "id": 47362613,
       "title": "TUI Studio – visual terminal UI design tool",
       "link": "https://tui.studio/",
-      "score": 618,
+      "score": 620,
       "author": "mipselaer",
       "created": "2026-03-13 10:32:45",
       "created_at": 1773397965000
@@ -64,7 +55,7 @@
       "id": 47360730,
       "title": "Vite 8.0 Is Out",
       "link": "https://vite.dev/blog/announcing-vite8",
-      "score": 543,
+      "score": 544,
       "author": "kothariji",
       "created": "2026-03-13 04:36:40",
       "created_at": 1773376600000
@@ -73,7 +64,7 @@
       "id": 47366374,
       "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
       "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "score": 535,
+      "score": 538,
       "author": "cf100clunk",
       "created": "2026-03-13 16:13:30",
       "created_at": 1773418410000
@@ -82,16 +73,25 @@
       "id": 47366666,
       "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
       "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 496,
+      "score": 500,
       "author": "merksittich",
       "created": "2026-03-13 16:40:42",
       "created_at": 1773420042000
     },
     {
+      "id": 47381791,
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "link": "https://agelesslinux.org/",
+      "score": 467,
+      "author": "nateb2022",
+      "created": "2026-03-14 22:10:26",
+      "created_at": 1773526226000
+    },
+    {
       "id": 47368033,
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
       "link": "https://github.com/TomBadash/MouseControl",
-      "score": 411,
+      "score": 416,
       "author": "avionics-guy",
       "created": "2026-03-13 18:42:54",
       "created_at": 1773427374000
