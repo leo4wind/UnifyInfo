@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-15T08:25:27.641Z"
+    "lastUpdate": "2026-03-15T12:29:51.020Z"
   },
   "data": [
+    {
+      "id": 47385935,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 105,
+      "author": "ZacnyLos",
+      "created": "2026-03-15 10:15:47",
+      "created_at": 1773569747000
+    },
+    {
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning",
+      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 67,
+      "author": "vismit2000",
+      "created": "2026-03-15 10:47:35",
+      "created_at": 1773571655000
+    },
+    {
+      "id": 47386441,
+      "title": "Generating All 32-Bit Primes (Part I)",
+      "link": "https://hnlyman.github.io/pages/prime32_I.html",
+      "score": 11,
+      "author": "hnlyman",
+      "created": "2026-03-15 11:42:01",
+      "created_at": 1773574921000
+    },
     {
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "link": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 119,
+      "score": 203,
       "author": "cdrnsf",
       "created": "2026-03-15 04:23:43",
       "created_at": 1773548623000
     },
     {
+      "id": 47385272,
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "score": 183,
+      "author": "ingve",
+      "created": "2026-03-15 08:04:55",
+      "created_at": 1773561895000
+    },
+    {
       "id": 47335325,
       "title": "Why Mathematica does not simplify sinh(arccosh(x))",
       "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 37,
+      "score": 85,
       "author": "ibobev",
       "created": "2026-03-11 13:30:31",
       "created_at": 1773235831000
     },
     {
-      "id": 47383804,
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 74,
-      "author": "tartoran",
-      "created": "2026-03-15 02:48:33",
-      "created_at": 1773542913000
-    },
-    {
       "id": 47384032,
       "title": "A most elegant TCP hole punching algorithm",
       "link": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 64,
+      "score": 114,
       "author": "Uptrenda",
       "created": "2026-03-15 03:29:17",
       "created_at": 1773545357000
     },
     {
+      "id": 47334668,
+      "title": "Examples for the tcpdump and dig man pages",
+      "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+      "score": 18,
+      "author": "ibobev",
+      "created": "2026-03-11 12:24:09",
+      "created_at": 1773231849000
+    },
+    {
+      "id": 47383804,
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "score": 114,
+      "author": "tartoran",
+      "created": "2026-03-15 02:48:33",
+      "created_at": 1773542913000
+    },
+    {
       "id": 47382791,
       "title": "How kernel anti-cheats work",
       "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 146,
+      "score": 222,
       "author": "davikr",
       "created": "2026-03-15 00:15:10",
       "created_at": 1773533710000
-    },
-    {
-      "id": 47381382,
-      "title": "Show HN: Han – A Korean programming language written in Rust",
-      "link": "https://github.com/xodn348/han",
-      "score": 163,
-      "author": "xodn348",
-      "created": "2026-03-14 21:27:33",
-      "created_at": 1773523653000
-    },
-    {
-      "id": 47381736,
-      "title": "Allow me to get to know you, mistakes and all",
-      "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "score": 119,
-      "author": "sebi_io",
-      "created": "2026-03-14 22:03:47",
-      "created_at": 1773525827000
-    },
-    {
-      "id": 47381791,
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "link": "https://agelesslinux.org/",
-      "score": 575,
-      "author": "nateb2022",
-      "created": "2026-03-14 22:10:26",
-      "created_at": 1773526226000
-    },
-    {
-      "id": 47374924,
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "link": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "score": 65,
-      "author": "picafrost",
-      "created": "2026-03-14 09:38:37",
-      "created_at": 1773481117000
-    },
-    {
-      "id": 47383059,
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "link": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "score": 54,
-      "author": "at2005",
-      "created": "2026-03-15 00:51:55",
-      "created_at": 1773535915000
     }
   ],
   "code": 200,
