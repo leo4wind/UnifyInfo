@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-15T16:20:40.243Z"
+    "lastUpdate": "2026-03-15T20:17:40.265Z"
   },
   "data": [
+    {
+      "id": 47390817,
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 76,
+      "author": "xnx",
+      "created": "2026-03-15 19:12:53",
+      "created_at": 1773601973000
+    },
     {
       "id": 47388141,
       "title": "What makes Intel Optane stand out (2023)",
       "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 33,
+      "score": 127,
       "author": "walterbell",
       "created": "2026-03-15 15:09:41",
       "created_at": 1773587381000
     },
     {
-      "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 191,
-      "author": "vismit2000",
-      "created": "2026-03-15 10:47:35",
-      "created_at": 1773571655000
+      "id": 47388137,
+      "title": "Separating the Wayland compositor and window manager",
+      "link": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 128,
+      "author": "dpassens",
+      "created": "2026-03-15 15:09:24",
+      "created_at": 1773587364000
+    },
+    {
+      "id": 47388531,
+      "title": "In Memoriam: John W. Addison, my PhD advisor",
+      "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+      "score": 51,
+      "author": "herodotus",
+      "created": "2026-03-15 15:46:19",
+      "created_at": 1773589579000
+    },
+    {
+      "id": 47388676,
+      "title": "LLM Architecture Gallery",
+      "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "score": 41,
+      "author": "tzury",
+      "created": "2026-03-15 16:01:09",
+      "created_at": 1773590469000
+    },
+    {
+      "id": 47339463,
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "score": 19,
+      "author": "commotionfever",
+      "created": "2026-03-11 18:39:25",
+      "created_at": 1773254365000
+    },
+    {
+      "id": 47332593,
+      "title": "C++26: The Oxford Variadic Comma",
+      "link": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
+      "score": 59,
+      "author": "ingve",
+      "created": "2026-03-11 07:27:00",
+      "created_at": 1773214020000
     },
     {
       "id": 47387047,
       "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
       "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 47,
+      "score": 149,
       "author": "robinhouston",
       "created": "2026-03-15 13:08:02",
       "created_at": 1773580082000
     },
     {
-      "id": 47388519,
-      "title": "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
-      "link": "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence",
-      "score": 6,
-      "author": "ohjeez",
-      "created": "2026-03-15 15:45:24",
-      "created_at": 1773589524000
+      "id": 47339818,
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "link": "https://kenschutte.com/lima-to-rio-by-bus/",
+      "score": 36,
+      "author": "ks2048",
+      "created": "2026-03-11 19:07:12",
+      "created_at": 1773256032000
     },
     {
-      "id": 47388479,
-      "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-      "link": "https://firthemouse.github.io/",
-      "score": 5,
-      "author": "FirTheMouse",
-      "created": "2026-03-15 15:40:13",
-      "created_at": 1773589213000
-    },
-    {
-      "id": 47386581,
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "link": "https://signet.watch",
-      "score": 60,
-      "author": "mapldx",
-      "created": "2026-03-15 12:01:00",
-      "created_at": 1773576060000
-    },
-    {
-      "id": 47386983,
-      "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-      "link": "https://octetta.github.io/k-synth/",
-      "score": 30,
-      "author": "octetta",
-      "created": "2026-03-15 12:58:13",
-      "created_at": 1773579493000
-    },
-    {
-      "id": 47384352,
-      "title": "Rack-mount hydroponics",
-      "link": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 264,
-      "author": "cdrnsf",
-      "created": "2026-03-15 04:23:43",
-      "created_at": 1773548623000
-    },
-    {
-      "id": 47324478,
-      "title": "Kniterate Notes",
-      "link": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
-      "score": 18,
-      "author": "surprisetalk",
-      "created": "2026-03-10 15:20:27",
-      "created_at": 1773156027000
-    },
-    {
-      "id": 47386246,
-      "title": "IBM, sonic delay lines, and the history of the 80×24 display",
-      "link": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-      "score": 45,
-      "author": "rbanffy",
-      "created": "2026-03-15 11:06:45",
-      "created_at": 1773572805000
+      "id": 47388273,
+      "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+      "link": "https://zzk273.github.io/LATENT/",
+      "score": 70,
+      "author": "danielmorozoff",
+      "created": "2026-03-15 15:21:04",
+      "created_at": 1773588064000
     }
   ],
   "code": 200,

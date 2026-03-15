@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-15T16:20:40.053Z"
+    "lastUpdate": "2026-03-15T20:17:40.096Z"
   },
   "data": [
-    {
-      "id": 47367129,
-      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "link": "https://claude.com/blog/1m-context-ga",
-      "score": 1177,
-      "author": "meetpateltech",
-      "created": "2026-03-13 17:19:01",
-      "created_at": 1773422341000
-    },
     {
       "id": 47381791,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "link": "https://agelesslinux.org/",
-      "score": 743,
+      "score": 787,
       "author": "nateb2022",
       "created": "2026-03-14 22:10:26",
       "created_at": 1773526226000
     },
     {
-      "id": 47366374,
-      "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
-      "link": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-      "score": 548,
-      "author": "cf100clunk",
-      "created": "2026-03-13 16:13:30",
-      "created_at": 1773418410000
-    },
-    {
-      "id": 47366666,
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-      "score": 511,
-      "author": "merksittich",
-      "created": "2026-03-13 16:40:42",
-      "created_at": 1773420042000
-    },
-    {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "link": "https://github.com/TomBadash/MouseControl",
-      "score": 430,
-      "author": "avionics-guy",
-      "created": "2026-03-13 18:42:54",
-      "created_at": 1773427374000
-    },
-    {
-      "id": 47368135,
-      "title": "Digg is gone again",
-      "link": "https://digg.com/",
-      "score": 403,
-      "author": "hammerbrostime",
-      "created": "2026-03-13 18:52:17",
-      "created_at": 1773427937000
-    },
-    {
-      "id": 47367463,
-      "title": "John Carmack about open source and anti-AI activists",
-      "link": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-      "score": 363,
-      "author": "tzury",
-      "created": "2026-03-13 17:51:34",
-      "created_at": 1773424294000
-    },
-    {
-      "id": 47367568,
-      "title": "Your phone is an entire computer",
-      "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-      "score": 359,
-      "author": "medhir",
-      "created": "2026-03-13 18:02:32",
-      "created_at": 1773424952000
-    },
-    {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "link": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 346,
-      "author": "tosh",
-      "created": "2026-03-13 18:34:12",
-      "created_at": 1773426852000
-    },
-    {
       "id": 47378638,
       "title": "What happens when US economic data becomes unreliable",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "score": 339,
+      "score": 347,
       "author": "inaros",
       "created": "2026-03-14 16:58:40",
       "created_at": 1773507520000
+    },
+    {
+      "id": 47385272,
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "score": 341,
+      "author": "ingve",
+      "created": "2026-03-15 08:04:55",
+      "created_at": 1773561895000
+    },
+    {
+      "id": 47371692,
+      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "score": 333,
+      "author": "gostsamo",
+      "created": "2026-03-14 00:02:37",
+      "created_at": 1773446557000
+    },
+    {
+      "id": 47385935,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 328,
+      "author": "ZacnyLos",
+      "created": "2026-03-15 10:15:47",
+      "created_at": 1773569747000
+    },
+    {
+      "id": 47382791,
+      "title": "How kernel anti-cheats work",
+      "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "score": 326,
+      "author": "davikr",
+      "created": "2026-03-15 00:15:10",
+      "created_at": 1773533710000
+    },
+    {
+      "id": 47384352,
+      "title": "Rack-mount hydroponics",
+      "link": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 324,
+      "author": "cdrnsf",
+      "created": "2026-03-15 04:23:43",
+      "created_at": 1773548623000
+    },
+    {
+      "id": 47381736,
+      "title": "Allow me to get to know you, mistakes and all",
+      "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "score": 288,
+      "author": "sebi_io",
+      "created": "2026-03-14 22:03:47",
+      "created_at": 1773525827000
+    },
+    {
+      "id": 47375085,
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+      "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+      "score": 277,
+      "author": "edward",
+      "created": "2026-03-14 10:05:58",
+      "created_at": 1773482758000
+    },
+    {
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 273,
+      "author": "vismit2000",
+      "created": "2026-03-15 10:47:35",
+      "created_at": 1773571655000
     }
   ],
   "code": 200,
