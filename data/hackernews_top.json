@@ -3,23 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-16T08:43:58.594Z"
+    "lastUpdate": "2026-03-16T12:45:19.706Z"
   },
   "data": [
+    {
+      "id": 47397593,
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "link": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 39,
+      "author": "PaulHoule",
+      "created": "2026-03-16 11:25:31",
+      "created_at": 1773660331000
+    },
     {
       "id": 47392084,
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 662,
+      "score": 802,
       "author": "opengrass",
       "created": "2026-03-15 21:22:16",
       "created_at": 1773609736000
     },
     {
+      "id": 47397822,
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "score": 142,
+      "author": "defly",
+      "created": "2026-03-16 12:00:06",
+      "created_at": 1773662406000
+    },
+    {
       "id": 47394022,
       "title": "How I write software with LLMs",
       "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 154,
+      "score": 285,
       "author": "indigodaddy",
       "created": "2026-03-16 01:24:09",
       "created_at": 1773624249000
@@ -28,7 +46,7 @@
       "id": 47390945,
       "title": "The 49MB web page",
       "link": "https://thatshubham.com/blog/news-audit",
-      "score": 511,
+      "score": 631,
       "author": "kermatt",
       "created": "2026-03-15 19:25:18",
       "created_at": 1773602718000
@@ -37,64 +55,37 @@
       "id": 47390817,
       "title": "Chrome DevTools MCP (2025)",
       "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 458,
+      "score": 514,
       "author": "xnx",
       "created": "2026-03-15 19:12:53",
       "created_at": 1773601973000
     },
     {
+      "id": 47348652,
+      "title": "Home Assistant waters my plants",
+      "link": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "score": 78,
+      "author": "finniananderson",
+      "created": "2026-03-12 10:19:14",
+      "created_at": 1773310754000
+    },
+    {
       "id": 47350016,
       "title": "Electric motor scaling laws and inertia in robot actuators",
       "link": "https://robot-daycare.com/posts/actuation_series_1/",
-      "score": 72,
+      "score": 106,
       "author": "o4c",
       "created": "2026-03-12 13:04:35",
       "created_at": 1773320675000
     },
     {
-      "id": 47342185,
-      "title": "Kona EV Hacking",
-      "link": "http://techno-fandom.org/~hobbit/cars/ev/",
-      "score": 25,
-      "author": "AnnikaL",
-      "created": "2026-03-11 21:26:16",
-      "created_at": 1773264376000
-    },
-    {
       "id": 47343902,
       "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
       "link": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
-      "score": 50,
+      "score": 85,
       "author": "jbarrow",
       "created": "2026-03-11 23:24:22",
       "created_at": 1773271462000
-    },
-    {
-      "id": 47388676,
-      "title": "LLM Architecture Gallery",
-      "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 380,
-      "author": "tzury",
-      "created": "2026-03-15 16:01:09",
-      "created_at": 1773590469000
-    },
-    {
-      "id": 47389570,
-      "title": "Stop Sloppypasta",
-      "link": "https://stopsloppypasta.ai/",
-      "score": 291,
-      "author": "namnnumbr",
-      "created": "2026-03-15 17:25:00",
-      "created_at": 1773595500000
-    },
-    {
-      "id": 47391803,
-      "title": "LLMs can be exhausting",
-      "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "score": 196,
-      "author": "tjohnell",
-      "created": "2026-03-15 20:56:21",
-      "created_at": 1773608181000
     }
   ],
   "code": 200,
