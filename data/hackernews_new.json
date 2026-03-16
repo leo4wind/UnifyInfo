@@ -3,50 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-15T20:17:40.337Z"
+    "lastUpdate": "2026-03-16T01:20:16.423Z"
   },
   "data": [
     {
+      "id": 47392084,
+      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "score": 278,
+      "author": "opengrass",
+      "created": "2026-03-15 21:22:16",
+      "created_at": 1773609736000
+    },
+    {
       "id": 47390817,
-      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "title": "Chrome DevTools MCP",
       "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 76,
+      "score": 313,
       "author": "xnx",
       "created": "2026-03-15 19:12:53",
       "created_at": 1773601973000
     },
     {
-      "id": 47388141,
-      "title": "What makes Intel Optane stand out (2023)",
-      "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 127,
-      "author": "walterbell",
-      "created": "2026-03-15 15:09:41",
-      "created_at": 1773587381000
+      "id": 47390945,
+      "title": "The 49MB web page",
+      "link": "https://thatshubham.com/blog/news-audit",
+      "score": 280,
+      "author": "kermatt",
+      "created": "2026-03-15 19:25:18",
+      "created_at": 1773602718000
     },
     {
-      "id": 47388137,
-      "title": "Separating the Wayland compositor and window manager",
-      "link": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 128,
-      "author": "dpassens",
-      "created": "2026-03-15 15:09:24",
-      "created_at": 1773587364000
-    },
-    {
-      "id": 47388531,
-      "title": "In Memoriam: John W. Addison, my PhD advisor",
-      "link": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
-      "score": 51,
-      "author": "herodotus",
-      "created": "2026-03-15 15:46:19",
-      "created_at": 1773589579000
+      "id": 47393619,
+      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+      "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+      "score": 33,
+      "author": "anjel",
+      "created": "2026-03-16 00:22:48",
+      "created_at": 1773620568000
     },
     {
       "id": 47388676,
       "title": "LLM Architecture Gallery",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 41,
+      "score": 224,
       "author": "tzury",
       "created": "2026-03-15 16:01:09",
       "created_at": 1773590469000
@@ -55,46 +55,46 @@
       "id": 47339463,
       "title": "//go:fix inline and the source-level inliner",
       "link": "https://go.dev/blog/inliner",
-      "score": 19,
+      "score": 111,
       "author": "commotionfever",
       "created": "2026-03-11 18:39:25",
       "created_at": 1773254365000
     },
     {
-      "id": 47332593,
-      "title": "C++26: The Oxford Variadic Comma",
-      "link": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
-      "score": 59,
-      "author": "ingve",
-      "created": "2026-03-11 07:27:00",
-      "created_at": 1773214020000
+      "id": 47392547,
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "score": 34,
+      "author": "zdw",
+      "created": "2026-03-15 22:15:50",
+      "created_at": 1773612950000
     },
     {
-      "id": 47387047,
-      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "link": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 149,
-      "author": "robinhouston",
-      "created": "2026-03-15 13:08:02",
-      "created_at": 1773580082000
+      "id": 47388137,
+      "title": "Separating the Wayland compositor and window manager",
+      "link": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 214,
+      "author": "dpassens",
+      "created": "2026-03-15 15:09:24",
+      "created_at": 1773587364000
     },
     {
-      "id": 47339818,
-      "title": "Bus travel from Lima to Rio de Janeiro",
-      "link": "https://kenschutte.com/lima-to-rio-by-bus/",
-      "score": 36,
-      "author": "ks2048",
-      "created": "2026-03-11 19:07:12",
-      "created_at": 1773256032000
+      "id": 47350763,
+      "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+      "link": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+      "score": 14,
+      "author": "surprisetalk",
+      "created": "2026-03-12 14:10:56",
+      "created_at": 1773324656000
     },
     {
-      "id": 47388273,
-      "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-      "link": "https://zzk273.github.io/LATENT/",
-      "score": 70,
-      "author": "danielmorozoff",
-      "created": "2026-03-15 15:21:04",
-      "created_at": 1773588064000
+      "id": 47388141,
+      "title": "What makes Intel Optane stand out (2023)",
+      "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 173,
+      "author": "walterbell",
+      "created": "2026-03-15 15:09:41",
+      "created_at": 1773587381000
     }
   ],
   "code": 200,

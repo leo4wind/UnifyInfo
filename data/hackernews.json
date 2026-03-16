@@ -3,59 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-15T20:17:40.096Z"
+    "lastUpdate": "2026-03-16T01:20:16.157Z"
   },
   "data": [
     {
       "id": 47381791,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "link": "https://agelesslinux.org/",
-      "score": 787,
+      "score": 797,
       "author": "nateb2022",
       "created": "2026-03-14 22:10:26",
       "created_at": 1773526226000
     },
     {
-      "id": 47378638,
-      "title": "What happens when US economic data becomes unreliable",
-      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "score": 347,
-      "author": "inaros",
-      "created": "2026-03-14 16:58:40",
-      "created_at": 1773507520000
-    },
-    {
-      "id": 47385272,
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 341,
-      "author": "ingve",
-      "created": "2026-03-15 08:04:55",
-      "created_at": 1773561895000
-    },
-    {
-      "id": 47371692,
-      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-      "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "score": 333,
-      "author": "gostsamo",
-      "created": "2026-03-14 00:02:37",
-      "created_at": 1773446557000
-    },
-    {
       "id": 47385935,
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 328,
+      "score": 379,
       "author": "ZacnyLos",
       "created": "2026-03-15 10:15:47",
       "created_at": 1773569747000
     },
     {
+      "id": 47385272,
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "score": 350,
+      "author": "ingve",
+      "created": "2026-03-15 08:04:55",
+      "created_at": 1773561895000
+    },
+    {
+      "id": 47378638,
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "score": 350,
+      "author": "inaros",
+      "created": "2026-03-14 16:58:40",
+      "created_at": 1773507520000
+    },
+    {
       "id": 47382791,
       "title": "How kernel anti-cheats work",
       "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 326,
+      "score": 341,
       "author": "davikr",
       "created": "2026-03-15 00:15:10",
       "created_at": 1773533710000
@@ -64,16 +55,34 @@
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "link": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 324,
+      "score": 329,
       "author": "cdrnsf",
       "created": "2026-03-15 04:23:43",
       "created_at": 1773548623000
     },
     {
+      "id": 47390817,
+      "title": "Chrome DevTools MCP",
+      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 313,
+      "author": "xnx",
+      "created": "2026-03-15 19:12:53",
+      "created_at": 1773601973000
+    },
+    {
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 313,
+      "author": "vismit2000",
+      "created": "2026-03-15 10:47:35",
+      "created_at": 1773571655000
+    },
+    {
       "id": 47381736,
       "title": "Allow me to get to know you, mistakes and all",
       "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "score": 288,
+      "score": 300,
       "author": "sebi_io",
       "created": "2026-03-14 22:03:47",
       "created_at": 1773525827000
@@ -82,19 +91,10 @@
       "id": 47375085,
       "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
       "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "score": 277,
+      "score": 281,
       "author": "edward",
       "created": "2026-03-14 10:05:58",
       "created_at": 1773482758000
-    },
-    {
-      "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 273,
-      "author": "vismit2000",
-      "created": "2026-03-15 10:47:35",
-      "created_at": 1773571655000
     }
   ],
   "code": 200,
