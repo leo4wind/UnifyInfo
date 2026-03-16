@@ -3,23 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-16T01:20:16.157Z"
+    "lastUpdate": "2026-03-16T05:45:02.109Z"
   },
   "data": [
     {
       "id": 47381791,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "link": "https://agelesslinux.org/",
-      "score": 797,
+      "score": 805,
       "author": "nateb2022",
       "created": "2026-03-14 22:10:26",
       "created_at": 1773526226000
     },
     {
+      "id": 47392084,
+      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "score": 550,
+      "author": "opengrass",
+      "created": "2026-03-15 21:22:16",
+      "created_at": 1773609736000
+    },
+    {
+      "id": 47390817,
+      "title": "Chrome DevTools MCP (2025)",
+      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 418,
+      "author": "xnx",
+      "created": "2026-03-15 19:12:53",
+      "created_at": 1773601973000
+    },
+    {
+      "id": 47390945,
+      "title": "The 49MB web page",
+      "link": "https://thatshubham.com/blog/news-audit",
+      "score": 401,
+      "author": "kermatt",
+      "created": "2026-03-15 19:25:18",
+      "created_at": 1773602718000
+    },
+    {
       "id": 47385935,
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 379,
+      "score": 389,
       "author": "ZacnyLos",
       "created": "2026-03-15 10:15:47",
       "created_at": 1773569747000
@@ -28,7 +55,7 @@
       "id": 47385272,
       "title": "The Appalling Stupidity of Spotify's AI DJ",
       "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 350,
+      "score": 354,
       "author": "ingve",
       "created": "2026-03-15 08:04:55",
       "created_at": 1773561895000
@@ -37,7 +64,7 @@
       "id": 47378638,
       "title": "What happens when US economic data becomes unreliable",
       "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-      "score": 350,
+      "score": 352,
       "author": "inaros",
       "created": "2026-03-14 16:58:40",
       "created_at": 1773507520000
@@ -46,55 +73,28 @@
       "id": 47382791,
       "title": "How kernel anti-cheats work",
       "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 341,
+      "score": 343,
       "author": "davikr",
       "created": "2026-03-15 00:15:10",
       "created_at": 1773533710000
     },
     {
-      "id": 47384352,
-      "title": "Rack-mount hydroponics",
-      "link": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 329,
-      "author": "cdrnsf",
-      "created": "2026-03-15 04:23:43",
-      "created_at": 1773548623000
-    },
-    {
-      "id": 47390817,
-      "title": "Chrome DevTools MCP",
-      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 313,
-      "author": "xnx",
-      "created": "2026-03-15 19:12:53",
-      "created_at": 1773601973000
-    },
-    {
       "id": 47386116,
       "title": "A Visual Introduction to Machine Learning (2015)",
       "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 313,
+      "score": 341,
       "author": "vismit2000",
       "created": "2026-03-15 10:47:35",
       "created_at": 1773571655000
     },
     {
-      "id": 47381736,
-      "title": "Allow me to get to know you, mistakes and all",
-      "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "score": 300,
-      "author": "sebi_io",
-      "created": "2026-03-14 22:03:47",
-      "created_at": 1773525827000
-    },
-    {
-      "id": 47375085,
-      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-      "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-      "score": 281,
-      "author": "edward",
-      "created": "2026-03-14 10:05:58",
-      "created_at": 1773482758000
+      "id": 47384352,
+      "title": "Rack-mount hydroponics",
+      "link": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 333,
+      "author": "cdrnsf",
+      "created": "2026-03-15 04:23:43",
+      "created_at": 1773548623000
     }
   ],
   "code": 200,

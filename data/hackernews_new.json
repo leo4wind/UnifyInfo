@@ -3,23 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-16T01:20:16.423Z"
+    "lastUpdate": "2026-03-16T05:45:02.379Z"
   },
   "data": [
     {
       "id": 47392084,
       "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
       "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 278,
+      "score": 550,
       "author": "opengrass",
       "created": "2026-03-15 21:22:16",
       "created_at": 1773609736000
     },
     {
       "id": 47390817,
-      "title": "Chrome DevTools MCP",
+      "title": "Chrome DevTools MCP (2025)",
       "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 313,
+      "score": 418,
       "author": "xnx",
       "created": "2026-03-15 19:12:53",
       "created_at": 1773601973000
@@ -28,73 +28,73 @@
       "id": 47390945,
       "title": "The 49MB web page",
       "link": "https://thatshubham.com/blog/news-audit",
-      "score": 280,
+      "score": 401,
       "author": "kermatt",
       "created": "2026-03-15 19:25:18",
       "created_at": 1773602718000
     },
     {
-      "id": 47393619,
-      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
-      "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "score": 33,
-      "author": "anjel",
-      "created": "2026-03-16 00:22:48",
-      "created_at": 1773620568000
+      "id": 47350016,
+      "title": "Electric motor scaling laws and inertia in robot actuators",
+      "link": "https://robot-daycare.com/posts/actuation_series_1/",
+      "score": 31,
+      "author": "o4c",
+      "created": "2026-03-12 13:04:35",
+      "created_at": 1773320675000
+    },
+    {
+      "id": 47394022,
+      "title": "How I write software with LLMs",
+      "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "score": 60,
+      "author": "indigodaddy",
+      "created": "2026-03-16 01:24:09",
+      "created_at": 1773624249000
+    },
+    {
+      "id": 47391803,
+      "title": "LLMs can be exhausting",
+      "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "score": 146,
+      "author": "tjohnell",
+      "created": "2026-03-15 20:56:21",
+      "created_at": 1773608181000
     },
     {
       "id": 47388676,
       "title": "LLM Architecture Gallery",
       "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 224,
+      "score": 318,
       "author": "tzury",
       "created": "2026-03-15 16:01:09",
       "created_at": 1773590469000
     },
     {
-      "id": 47339463,
-      "title": "//go:fix inline and the source-level inliner",
-      "link": "https://go.dev/blog/inliner",
-      "score": 111,
-      "author": "commotionfever",
-      "created": "2026-03-11 18:39:25",
-      "created_at": 1773254365000
+      "id": 47389570,
+      "title": "Stop Sloppypasta",
+      "link": "https://stopsloppypasta.ai/",
+      "score": 208,
+      "author": "namnnumbr",
+      "created": "2026-03-15 17:25:00",
+      "created_at": 1773595500000
     },
     {
-      "id": 47392547,
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-      "score": 34,
-      "author": "zdw",
-      "created": "2026-03-15 22:15:50",
-      "created_at": 1773612950000
+      "id": 47343902,
+      "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
+      "link": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+      "score": 24,
+      "author": "jbarrow",
+      "created": "2026-03-11 23:24:22",
+      "created_at": 1773271462000
     },
     {
-      "id": 47388137,
-      "title": "Separating the Wayland compositor and window manager",
-      "link": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 214,
-      "author": "dpassens",
-      "created": "2026-03-15 15:09:24",
-      "created_at": 1773587364000
-    },
-    {
-      "id": 47350763,
-      "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
-      "link": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
-      "score": 14,
-      "author": "surprisetalk",
-      "created": "2026-03-12 14:10:56",
-      "created_at": 1773324656000
-    },
-    {
-      "id": 47388141,
-      "title": "What makes Intel Optane stand out (2023)",
-      "link": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 173,
-      "author": "walterbell",
-      "created": "2026-03-15 15:09:41",
-      "created_at": 1773587381000
+      "id": 47385011,
+      "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "link": "https://github.com/jtsylve/spice-crypt",
+      "score": 20,
+      "author": "luu",
+      "created": "2026-03-15 07:11:32",
+      "created_at": 1773558692000
     }
   ],
   "code": 200,
