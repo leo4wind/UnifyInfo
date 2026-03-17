@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-17T16:55:26.171Z"
+    "lastUpdate": "2026-03-17T20:29:14.063Z"
   },
   "data": [
     {
-      "id": 47400089,
-      "title": "Give Django your time and money, not your tokens",
-      "link": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "score": 225,
-      "author": "dcreager",
-      "created": "2026-03-16 15:12:50",
-      "created_at": 1773673970000
-    },
-    {
-      "id": 47410542,
-      "title": "Kagi Small Web",
-      "link": "https://kagi.com/smallweb/",
-      "score": 524,
-      "author": "trueduke",
-      "created": "2026-03-17 09:53:53",
-      "created_at": 1773741233000
-    },
-    {
-      "id": 47412726,
-      "title": "OpenSUSE Kalpa",
-      "link": "https://kalpadesktop.org/",
-      "score": 68,
-      "author": "ogogmad",
-      "created": "2026-03-17 13:54:17",
-      "created_at": 1773755657000
-    },
-    {
-      "id": 47413525,
-      "title": "FFmpeg 8.1",
-      "link": "https://ffmpeg.org/index.html#pr8.1",
-      "score": 138,
-      "author": "gyan",
-      "created": "2026-03-17 14:51:57",
-      "created_at": 1773759117000
-    },
-    {
-      "id": 47364337,
-      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
-      "link": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-      "score": 89,
-      "author": "mariuz",
-      "created": "2026-03-13 13:40:21",
-      "created_at": 1773409221000
-    },
-    {
-      "id": 47414291,
-      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-      "link": "https://github.com/antflydb/antfly",
-      "score": 25,
-      "author": "kingcauchy",
-      "created": "2026-03-17 15:45:15",
-      "created_at": 1773762315000
-    },
-    {
-      "id": 47412015,
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "link": "https://www.Bracketmadness.ai",
-      "score": 14,
-      "author": "bwade818",
-      "created": "2026-03-17 12:56:24",
-      "created_at": 1773752184000
+      "id": 47416736,
+      "title": "A Decade of Slug",
+      "link": "https://terathon.com/blog/decade-slug.html",
+      "score": 118,
+      "author": "mwkaufma",
+      "created": "2026-03-17 18:59:50",
+      "created_at": 1773773990000
     },
     {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 82,
+      "score": 365,
       "author": "crtasm",
       "created": "2026-03-17 15:16:29",
       "created_at": 1773760589000
     },
     {
-      "id": 47358958,
-      "title": "Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers",
-      "link": "https://www.osti.gov/biblio/3013883",
-      "score": 42,
-      "author": "matt_d",
-      "created": "2026-03-12 23:55:07",
-      "created_at": 1773359707000
+      "id": 47416486,
+      "title": "Python 3.15's JIT is now back on track",
+      "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "score": 39,
+      "author": "guidoiaquinti",
+      "created": "2026-03-17 18:37:27",
+      "created_at": 1773772647000
     },
     {
-      "id": 47366616,
-      "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
-      "link": "https://brianmoore.com/fontsmuggler/",
-      "score": 99,
-      "author": "lanewinfield",
-      "created": "2026-03-13 16:35:44",
-      "created_at": 1773419744000
+      "id": 47410542,
+      "title": "Kagi Small Web",
+      "link": "https://kagi.com/smallweb/",
+      "score": 623,
+      "author": "trueduke",
+      "created": "2026-03-17 09:53:53",
+      "created_at": 1773741233000
+    },
+    {
+      "id": 47368425,
+      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+      "link": "https://www.youtube.com/watch?v=3Ploi723hg4",
+      "score": 39,
+      "author": "yincrash",
+      "created": "2026-03-13 19:14:46",
+      "created_at": 1773429286000
+    },
+    {
+      "id": 47413195,
+      "title": "Node.js needs a virtual file system",
+      "link": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "score": 152,
+      "author": "voctor",
+      "created": "2026-03-17 14:28:37",
+      "created_at": 1773757717000
+    },
+    {
+      "id": 47397367,
+      "title": "Toward automated verification of unreviewed AI-generated code",
+      "link": "https://peterlavigne.com/writing/verifying-ai-generated-code",
+      "score": 46,
+      "author": "peterlavigne",
+      "created": "2026-03-16 10:52:33",
+      "created_at": 1773658353000
+    },
+    {
+      "id": 47414440,
+      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
+      "link": "https://theasc.com/articles/the-secret-agent-cinematography",
+      "score": 67,
+      "author": "tambourine_man",
+      "created": "2026-03-17 15:56:09",
+      "created_at": 1773762969000
+    },
+    {
+      "id": 47416548,
+      "title": "Java 26 is here, and with it a solid foundation for the future",
+      "link": "https://hanno.codes/2026/03/17/java-26-is-here/",
+      "score": 57,
+      "author": "mfiguiere",
+      "created": "2026-03-17 18:44:09",
+      "created_at": 1773773049000
+    },
+    {
+      "id": 47412726,
+      "title": "OpenSUSE Kalpa",
+      "link": "https://kalpadesktop.org/",
+      "score": 96,
+      "author": "ogogmad",
+      "created": "2026-03-17 13:54:17",
+      "created_at": 1773755657000
     }
   ],
   "code": 200,
