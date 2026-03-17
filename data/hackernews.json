@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-17T08:39:06.744Z"
+    "lastUpdate": "2026-03-17T12:44:21.609Z"
   },
   "data": [
     {
       "id": 47397822,
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
       "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "score": 1474,
+      "score": 1526,
       "author": "defly",
       "created": "2026-03-16 12:00:06",
       "created_at": 1773662406000
@@ -19,7 +19,7 @@
       "id": 47402950,
       "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
       "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "score": 1078,
+      "score": 1131,
       "author": "tartoran",
       "created": "2026-03-16 18:38:14",
       "created_at": 1773686294000
@@ -28,16 +28,25 @@
       "id": 47392084,
       "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
       "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 984,
+      "score": 987,
       "author": "opengrass",
       "created": "2026-03-15 21:22:16",
       "created_at": 1773609736000
     },
     {
+      "id": 47408703,
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "score": 804,
+      "author": "smitec",
+      "created": "2026-03-17 04:39:42",
+      "created_at": 1773722382000
+    },
+    {
       "id": 47390945,
       "title": "The 49MB web page",
       "link": "https://thatshubham.com/blog/news-audit",
-      "score": 789,
+      "score": 791,
       "author": "kermatt",
       "created": "2026-03-15 19:25:18",
       "created_at": 1773602718000
@@ -46,55 +55,46 @@
       "id": 47397593,
       "title": "Corruption erodes social trust more in democracies than in autocracies",
       "link": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "score": 700,
+      "score": 714,
       "author": "PaulHoule",
       "created": "2026-03-16 11:25:31",
       "created_at": 1773660331000
     },
     {
-      "id": 47389570,
-      "title": "Stop Sloppypasta",
-      "link": "https://stopsloppypasta.ai/",
-      "score": 630,
-      "author": "namnnumbr",
-      "created": "2026-03-15 17:25:00",
-      "created_at": 1773595500000
-    },
-    {
       "id": 47397797,
       "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
       "link": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "score": 623,
+      "score": 640,
       "author": "vrganj",
       "created": "2026-03-16 11:57:33",
       "created_at": 1773662253000
     },
     {
-      "id": 47390817,
-      "title": "Chrome DevTools MCP (2025)",
-      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 584,
-      "author": "xnx",
-      "created": "2026-03-15 19:12:53",
-      "created_at": 1773601973000
+      "id": 47389570,
+      "title": "Stop Sloppypasta",
+      "link": "https://stopsloppypasta.ai/",
+      "score": 636,
+      "author": "namnnumbr",
+      "created": "2026-03-15 17:25:00",
+      "created_at": 1773595500000
     },
     {
       "id": 47406779,
       "title": "US SEC preparing to scrap quarterly reporting requirement",
       "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 564,
+      "score": 614,
       "author": "djoldman",
       "created": "2026-03-17 00:02:35",
       "created_at": 1773705755000
     },
     {
-      "id": 47388676,
-      "title": "LLM Architecture Gallery",
-      "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 561,
-      "author": "tzury",
-      "created": "2026-03-15 16:01:09",
-      "created_at": 1773590469000
+      "id": 47404796,
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "link": "https://mistral.ai/news/leanstral",
+      "score": 609,
+      "author": "Poudlardo",
+      "created": "2026-03-16 20:59:40",
+      "created_at": 1773694780000
     }
   ],
   "code": 200,

@@ -3,14 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-17T08:39:07.023Z"
+    "lastUpdate": "2026-03-17T12:44:21.745Z"
   },
   "data": [
+    {
+      "id": 47410542,
+      "title": "Kagi Small Web",
+      "link": "https://kagi.com/smallweb/",
+      "score": 249,
+      "author": "trueduke",
+      "created": "2026-03-17 09:53:53",
+      "created_at": 1773741233000
+    },
+    {
+      "id": 47408703,
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "score": 804,
+      "author": "smitec",
+      "created": "2026-03-17 04:39:42",
+      "created_at": 1773722382000
+    },
+    {
+      "id": 47410870,
+      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+      "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+      "score": 247,
+      "author": "doener",
+      "created": "2026-03-17 10:39:48",
+      "created_at": 1773743988000
+    },
+    {
+      "id": 47410532,
+      "title": "Building a Shell",
+      "link": "https://healeycodes.com/building-a-shell",
+      "score": 58,
+      "author": "ingve",
+      "created": "2026-03-17 09:52:34",
+      "created_at": 1773741154000
+    },
     {
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "link": "https://mistral.ai/news/leanstral",
-      "score": 492,
+      "score": 609,
       "author": "Poudlardo",
       "created": "2026-03-16 20:59:40",
       "created_at": 1773694780000
@@ -19,82 +55,46 @@
       "id": 47366435,
       "title": "The unlikely story of Teardown Multiplayer",
       "link": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 41,
+      "score": 135,
       "author": "lairv",
       "created": "2026-03-13 16:20:00",
       "created_at": 1773418800000
     },
     {
-      "id": 47402640,
-      "title": "Meta’s renewed commitment to jemalloc",
-      "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 429,
-      "author": "hahahacorn",
-      "created": "2026-03-16 18:12:32",
-      "created_at": 1773684752000
+      "id": 47366616,
+      "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
+      "link": "https://brianmoore.com/fontsmuggler/",
+      "score": 21,
+      "author": "lanewinfield",
+      "created": "2026-03-13 16:35:44",
+      "created_at": 1773419744000
     },
     {
-      "id": 47401879,
-      "title": "The “small web” is bigger than you might think",
-      "link": "https://kevinboone.me/small_web_is_big.html",
-      "score": 409,
-      "author": "speckx",
-      "created": "2026-03-16 17:17:57",
-      "created_at": 1773681477000
+      "id": 47409885,
+      "title": "Reverse-engineering Viktor and making it Open Source",
+      "link": "https://matijacniacki.com/blog/openviktor",
+      "score": 50,
+      "author": "zggf",
+      "created": "2026-03-17 08:15:34",
+      "created_at": 1773735334000
     },
     {
-      "id": 47401809,
-      "title": "The American Healthcare Conundrum",
-      "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 331,
-      "author": "rexroad",
-      "created": "2026-03-16 17:13:27",
-      "created_at": 1773681207000
+      "id": 47352578,
+      "title": "What CI looks like at a 100-person team (PostHog)",
+      "link": "https://www.mendral.com/blog/ci-at-scale",
+      "score": 40,
+      "author": "shad42",
+      "created": "2026-03-12 15:50:09",
+      "created_at": 1773330609000
     },
     {
-      "id": 47408205,
-      "title": "Every layer of review makes you 10x slower",
-      "link": "https://apenwarr.ca/log/20260316",
-      "score": 197,
-      "author": "greyface-",
-      "created": "2026-03-17 03:20:36",
-      "created_at": 1773717636000
-    },
-    {
-      "id": 47360293,
-      "title": "Gitana 18: the new flying Ultim trimaran",
-      "link": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
-      "score": 25,
-      "author": "divbzero",
-      "created": "2026-03-13 03:16:08",
-      "created_at": 1773371768000
-    },
-    {
-      "id": 47406779,
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 564,
-      "author": "djoldman",
-      "created": "2026-03-17 00:02:35",
-      "created_at": 1773705755000
-    },
-    {
-      "id": 47363133,
-      "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
-      "link": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
-      "score": 72,
-      "author": "Anon84",
-      "created": "2026-03-13 11:44:27",
-      "created_at": 1773402267000
-    },
-    {
-      "id": 47367298,
-      "title": "Pyodide: a Python distribution based on WebAssembly",
-      "link": "https://github.com/pyodide/pyodide",
-      "score": 63,
-      "author": "tosh",
-      "created": "2026-03-13 17:34:45",
-      "created_at": 1773423285000
+      "id": 47368660,
+      "title": "Gummy Geometry",
+      "link": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
+      "score": 24,
+      "author": "memalign",
+      "created": "2026-03-13 19:31:56",
+      "created_at": 1773430316000
     }
   ],
   "code": 200,
