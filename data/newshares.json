@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-17T01:11:32.748Z"
+    "lastUpdate": "2026-03-17T08:39:10.163Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-03-24",
       "ssrq": null,
       "syl": null,
-      "hysyl": 43.57,
+      "hysyl": 43.47,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,7 +45,7 @@
       "zqjkrq": "2026-03-24",
       "ssrq": null,
       "syl": null,
-      "hysyl": 35.62,
+      "hysyl": 35.59,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -68,12 +68,35 @@
       "zqjkrq": "2026-03-24",
       "ssrq": null,
       "syl": null,
-      "hysyl": 40.32,
+      "hysyl": 40.07,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "重要战略资源钼相关产品的生产、加工、销售业务"
+    },
+    {
+      "zqdm": "920069",
+      "zqjc": "普昂医疗",
+      "sgdm": "920069",
+      "fxsl": 10582800,
+      "swfxsl": 9524520,
+      "sgsx": 476200,
+      "dgsz": 4762000,
+      "fxjg": 18.38,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-18",
+      "zqgbrq": "2026-03-23",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.53,
+      "hysyl": 43.57,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "专业从事糖尿病护理、通用给药输注、微创介入类医疗器械的研发、生产和销售"
     },
     {
       "zqdm": "920188",
@@ -103,7 +126,7 @@
       "zqjc": "视涯科技",
       "sgdm": "787781",
       "fxsl": 100000000,
-      "swfxsl": 14000000,
+      "swfxsl": 21385500,
       "sgsx": 14000,
       "dgsz": 140000,
       "fxjg": 22.68,
@@ -115,7 +138,7 @@
       "ssrq": null,
       "syl": null,
       "hysyl": 65.25,
-      "wszql": null,
+      "wszql": 0.03537587,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -126,7 +149,7 @@
       "zqjc": "宏明电子",
       "sgdm": "301682",
       "fxsl": 30387340,
-      "swfxsl": 8660000,
+      "swfxsl": 14737500,
       "sgsx": 8500,
       "dgsz": 85000,
       "fxjg": 69.66,
@@ -138,7 +161,7 @@
       "ssrq": null,
       "syl": 33.61,
       "hysyl": 65.16,
-      "wszql": null,
+      "wszql": 0.0163030223,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -168,5 +191,5 @@
       "zyyw": "功能性高分子发泡材料的研发、制造和销售"
     }
   ],
-  "total": 7
+  "total": 8
 }
