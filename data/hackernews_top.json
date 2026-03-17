@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-17T12:44:21.726Z"
+    "lastUpdate": "2026-03-17T16:55:26.171Z"
   },
   "data": [
+    {
+      "id": 47400089,
+      "title": "Give Django your time and money, not your tokens",
+      "link": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
+      "score": 225,
+      "author": "dcreager",
+      "created": "2026-03-16 15:12:50",
+      "created_at": 1773673970000
+    },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "link": "https://kagi.com/smallweb/",
-      "score": 249,
+      "score": 524,
       "author": "trueduke",
       "created": "2026-03-17 09:53:53",
       "created_at": 1773741233000
     },
     {
-      "id": 47408703,
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 804,
-      "author": "smitec",
-      "created": "2026-03-17 04:39:42",
-      "created_at": 1773722382000
+      "id": 47412726,
+      "title": "OpenSUSE Kalpa",
+      "link": "https://kalpadesktop.org/",
+      "score": 68,
+      "author": "ogogmad",
+      "created": "2026-03-17 13:54:17",
+      "created_at": 1773755657000
     },
     {
-      "id": 47410870,
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "score": 247,
-      "author": "doener",
-      "created": "2026-03-17 10:39:48",
-      "created_at": 1773743988000
+      "id": 47413525,
+      "title": "FFmpeg 8.1",
+      "link": "https://ffmpeg.org/index.html#pr8.1",
+      "score": 138,
+      "author": "gyan",
+      "created": "2026-03-17 14:51:57",
+      "created_at": 1773759117000
     },
     {
-      "id": 47410532,
-      "title": "Building a Shell",
-      "link": "https://healeycodes.com/building-a-shell",
-      "score": 58,
-      "author": "ingve",
-      "created": "2026-03-17 09:52:34",
-      "created_at": 1773741154000
+      "id": 47364337,
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "link": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "score": 89,
+      "author": "mariuz",
+      "created": "2026-03-13 13:40:21",
+      "created_at": 1773409221000
     },
     {
-      "id": 47404796,
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "link": "https://mistral.ai/news/leanstral",
-      "score": 609,
-      "author": "Poudlardo",
-      "created": "2026-03-16 20:59:40",
-      "created_at": 1773694780000
+      "id": 47414291,
+      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+      "link": "https://github.com/antflydb/antfly",
+      "score": 25,
+      "author": "kingcauchy",
+      "created": "2026-03-17 15:45:15",
+      "created_at": 1773762315000
     },
     {
-      "id": 47366435,
-      "title": "The unlikely story of Teardown Multiplayer",
-      "link": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 135,
-      "author": "lairv",
-      "created": "2026-03-13 16:20:00",
-      "created_at": 1773418800000
+      "id": 47412015,
+      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+      "link": "https://www.Bracketmadness.ai",
+      "score": 14,
+      "author": "bwade818",
+      "created": "2026-03-17 12:56:24",
+      "created_at": 1773752184000
+    },
+    {
+      "id": 47413876,
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 82,
+      "author": "crtasm",
+      "created": "2026-03-17 15:16:29",
+      "created_at": 1773760589000
+    },
+    {
+      "id": 47358958,
+      "title": "Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers",
+      "link": "https://www.osti.gov/biblio/3013883",
+      "score": 42,
+      "author": "matt_d",
+      "created": "2026-03-12 23:55:07",
+      "created_at": 1773359707000
     },
     {
       "id": 47366616,
       "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
       "link": "https://brianmoore.com/fontsmuggler/",
-      "score": 21,
+      "score": 99,
       "author": "lanewinfield",
       "created": "2026-03-13 16:35:44",
       "created_at": 1773419744000
-    },
-    {
-      "id": 47409885,
-      "title": "Reverse-engineering Viktor and making it Open Source",
-      "link": "https://matijacniacki.com/blog/openviktor",
-      "score": 50,
-      "author": "zggf",
-      "created": "2026-03-17 08:15:34",
-      "created_at": 1773735334000
-    },
-    {
-      "id": 47352578,
-      "title": "What CI looks like at a 100-person team (PostHog)",
-      "link": "https://www.mendral.com/blog/ci-at-scale",
-      "score": 40,
-      "author": "shad42",
-      "created": "2026-03-12 15:50:09",
-      "created_at": 1773330609000
-    },
-    {
-      "id": 47368660,
-      "title": "Gummy Geometry",
-      "link": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
-      "score": 24,
-      "author": "memalign",
-      "created": "2026-03-13 19:31:56",
-      "created_at": 1773430316000
     }
   ],
   "code": 200,
