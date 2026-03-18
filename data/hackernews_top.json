@@ -3,23 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-18T08:36:28.366Z"
+    "lastUpdate": "2026-03-18T12:44:47.379Z"
   },
   "data": [
+    {
+      "id": 47423647,
+      "title": "Rob Pike's 5 Rules of Programming",
+      "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 212,
+      "author": "vismit2000",
+      "created": "2026-03-18 09:59:54",
+      "created_at": 1773827994000
+    },
+    {
+      "id": 47424458,
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+      "score": 28,
+      "author": "surprisetalk",
+      "created": "2026-03-18 11:44:44",
+      "created_at": 1773834284000
+    },
     {
       "id": 47372367,
       "title": "JPEG Compression",
       "link": "https://www.sophielwang.com/blog/jpeg",
-      "score": 116,
+      "score": 265,
       "author": "vinhnx",
       "created": "2026-03-14 01:31:48",
       "created_at": 1773451908000
     },
     {
+      "id": 47422942,
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "link": "https://nightingale.cafe/",
+      "score": 119,
+      "author": "rzzzzru",
+      "created": "2026-03-18 08:06:24",
+      "created_at": 1773821184000
+    },
+    {
+      "id": 47367601,
+      "title": "Pandas Exercises for Data Analysis (Interactive)",
+      "link": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
+      "score": 11,
+      "author": "selva86",
+      "created": "2026-03-13 18:05:23",
+      "created_at": 1773425123000
+    },
+    {
       "id": 47389696,
       "title": "Write up of my homebrew CPU build",
       "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 32,
+      "score": 105,
       "author": "wwarren",
       "created": "2026-03-15 17:36:48",
       "created_at": 1773596208000
@@ -28,16 +64,25 @@
       "id": 47418295,
       "title": "Mistral AI Releases Forge",
       "link": "https://mistral.ai/news/forge",
-      "score": 395,
+      "score": 554,
       "author": "pember",
       "created": "2026-03-17 21:04:26",
       "created_at": 1773781466000
     },
     {
+      "id": 47393324,
+      "title": "How the Eon Team Produced a Virtual Embodied Fly",
+      "link": "https://eon.systems/updates/embodied-brain-emulation",
+      "score": 37,
+      "author": "LopRabbit",
+      "created": "2026-03-15 23:44:34",
+      "created_at": 1773618274000
+    },
+    {
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 582,
+      "score": 648,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
@@ -46,46 +91,10 @@
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 656,
+      "score": 712,
       "author": "crtasm",
       "created": "2026-03-17 15:16:29",
       "created_at": 1773760589000
-    },
-    {
-      "id": 47422228,
-      "title": "Celebrating Tony Hoare's mark on computer science",
-      "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 8,
-      "author": "benhoyt",
-      "created": "2026-03-18 06:31:14",
-      "created_at": 1773815474000
-    },
-    {
-      "id": 47416486,
-      "title": "Python 3.15's JIT is now back on track",
-      "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 364,
-      "author": "guidoiaquinti",
-      "created": "2026-03-17 18:37:27",
-      "created_at": 1773772647000
-    },
-    {
-      "id": 47409222,
-      "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-      "link": "https://oseifert.ch/blog/building-pgit",
-      "score": 20,
-      "author": "ImGajeed76",
-      "created": "2026-03-17 06:11:17",
-      "created_at": 1773727877000
-    },
-    {
-      "id": 47369883,
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "link": "https://openhardware.directory",
-      "score": 201,
-      "author": "iosifnicolae2",
-      "created": "2026-03-13 21:04:35",
-      "created_at": 1773435875000
     }
   ],
   "code": 200,
