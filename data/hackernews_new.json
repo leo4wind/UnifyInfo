@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-18T05:21:56.961Z"
+    "lastUpdate": "2026-03-18T08:36:28.465Z"
   },
   "data": [
     {
-      "id": 47369883,
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "link": "https://openhardware.directory",
-      "score": 115,
-      "author": "iosifnicolae2",
-      "created": "2026-03-13 21:04:35",
-      "created_at": 1773435875000
+      "id": 47372367,
+      "title": "JPEG Compression",
+      "link": "https://www.sophielwang.com/blog/jpeg",
+      "score": 116,
+      "author": "vinhnx",
+      "created": "2026-03-14 01:31:48",
+      "created_at": 1773451908000
+    },
+    {
+      "id": 47389696,
+      "title": "Write up of my homebrew CPU build",
+      "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+      "score": 32,
+      "author": "wwarren",
+      "created": "2026-03-15 17:36:48",
+      "created_at": 1773596208000
+    },
+    {
+      "id": 47418295,
+      "title": "Mistral AI Releases Forge",
+      "link": "https://mistral.ai/news/forge",
+      "score": 395,
+      "author": "pember",
+      "created": "2026-03-17 21:04:26",
+      "created_at": 1773781466000
     },
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 514,
+      "score": 582,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
@@ -28,73 +46,46 @@
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 606,
+      "score": 656,
       "author": "crtasm",
       "created": "2026-03-17 15:16:29",
       "created_at": 1773760589000
     },
     {
+      "id": 47422228,
+      "title": "Celebrating Tony Hoare's mark on computer science",
+      "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+      "score": 8,
+      "author": "benhoyt",
+      "created": "2026-03-18 06:31:14",
+      "created_at": 1773815474000
+    },
+    {
       "id": 47416486,
       "title": "Python 3.15's JIT is now back on track",
       "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 319,
+      "score": 364,
       "author": "guidoiaquinti",
       "created": "2026-03-17 18:37:27",
       "created_at": 1773772647000
     },
     {
-      "id": 47418295,
-      "title": "Mistral AI Releases Forge",
-      "link": "https://mistral.ai/news/forge",
-      "score": 227,
-      "author": "pember",
-      "created": "2026-03-17 21:04:26",
-      "created_at": 1773781466000
+      "id": 47409222,
+      "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+      "link": "https://oseifert.ch/blog/building-pgit",
+      "score": 20,
+      "author": "ImGajeed76",
+      "created": "2026-03-17 06:11:17",
+      "created_at": 1773727877000
     },
     {
-      "id": 47421442,
-      "title": "Have a Fucking Website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 29,
-      "author": "asukachikaru",
-      "created": "2026-03-18 03:53:42",
-      "created_at": 1773806022000
-    },
-    {
-      "id": 47417804,
-      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "link": "https://github.com/gsd-build/get-shit-done",
-      "score": 257,
-      "author": "stefankuehnel",
-      "created": "2026-03-17 20:23:39",
-      "created_at": 1773779019000
-    },
-    {
-      "id": 47420432,
-      "title": "The pleasures of poor product design",
-      "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 56,
-      "author": "NaOH",
-      "created": "2026-03-18 01:00:45",
-      "created_at": 1773795645000
-    },
-    {
-      "id": 47412569,
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "link": "https://github.com/adammiribyan/zeroboot",
-      "score": 94,
-      "author": "adammiribyan",
-      "created": "2026-03-17 13:43:44",
-      "created_at": 1773755024000
-    },
-    {
-      "id": 47384653,
-      "title": "Leviathan",
-      "link": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
-      "score": 14,
-      "author": "mrwh",
-      "created": "2026-03-15 05:46:35",
-      "created_at": 1773553595000
+      "id": 47369883,
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "link": "https://openhardware.directory",
+      "score": 201,
+      "author": "iosifnicolae2",
+      "created": "2026-03-13 21:04:35",
+      "created_at": 1773435875000
     }
   ],
   "code": 200,

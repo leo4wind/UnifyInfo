@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-17T20:29:16.955Z"
+    "lastUpdate": "2026-03-18T08:36:37.987Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-03-24",
       "ssrq": null,
       "syl": null,
-      "hysyl": 43.47,
+      "hysyl": 43.33,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -68,7 +68,7 @@
       "zqjkrq": "2026-03-24",
       "ssrq": null,
       "syl": null,
-      "hysyl": 40.07,
+      "hysyl": 39.85,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -166,30 +166,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "主要从事以阻容元器件为主的新型电子元器件的研发、生产和销售,致力于向客户提供高性能、高可靠性的电子元器件产品"
-    },
-    {
-      "zqdm": "920028",
-      "zqjc": "新恒泰",
-      "sgdm": "920028",
-      "fxsl": 41090000,
-      "swfxsl": 36981000,
-      "sgsx": 1849000,
-      "dgsz": 18490000,
-      "fxjg": 9.4,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-03-11",
-      "zqgbrq": "2026-03-16",
-      "zqjkrq": null,
-      "ssrq": null,
-      "syl": 14.99,
-      "hysyl": 28.56,
-      "wszql": 0.03743867,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "功能性高分子发泡材料的研发、制造和销售"
     }
   ],
-  "total": 8
+  "total": 7
 }
