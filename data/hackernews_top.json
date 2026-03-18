@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-18T12:44:47.379Z"
+    "lastUpdate": "2026-03-18T16:49:57.041Z"
   },
   "data": [
     {
+      "id": 47426932,
+      "title": "Death to Scroll Fade",
+      "link": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "score": 94,
+      "author": "PaulHoule",
+      "created": "2026-03-18 15:23:58",
+      "created_at": 1773847438000
+    },
+    {
+      "id": 47427388,
+      "title": "A tiny, decentralised tool to explore the small web",
+      "link": "https://codeberg.org/susam/wander",
+      "score": 33,
+      "author": "carte_blanche",
+      "created": "2026-03-18 15:57:48",
+      "created_at": 1773849468000
+    },
+    {
       "id": 47423647,
-      "title": "Rob Pike's 5 Rules of Programming",
+      "title": "Rob Pike's Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 212,
+      "score": 553,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
     },
     {
-      "id": 47424458,
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "score": 28,
-      "author": "surprisetalk",
-      "created": "2026-03-18 11:44:44",
-      "created_at": 1773834284000
+      "id": 47427017,
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "link": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "score": 41,
+      "author": "ozgune",
+      "created": "2026-03-18 15:30:07",
+      "created_at": 1773847807000
     },
     {
-      "id": 47372367,
-      "title": "JPEG Compression",
-      "link": "https://www.sophielwang.com/blog/jpeg",
-      "score": 265,
-      "author": "vinhnx",
-      "created": "2026-03-14 01:31:48",
-      "created_at": 1773451908000
+      "id": 47427027,
+      "title": "Nvidia NemoClaw",
+      "link": "https://github.com/NVIDIA/NemoClaw",
+      "score": 30,
+      "author": "hmokiguess",
+      "created": "2026-03-18 15:31:07",
+      "created_at": 1773847867000
+    },
+    {
+      "id": 47426936,
+      "title": "Machine Payments Protocol (MPP)",
+      "link": "https://stripe.com/blog/machine-payments-protocol",
+      "score": 49,
+      "author": "bpierre",
+      "created": "2026-03-18 15:24:12",
+      "created_at": 1773847452000
+    },
+    {
+      "id": 47427290,
+      "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
+      "link": "https://susam.net/wander/",
+      "score": 18,
+      "author": "oystersareyum",
+      "created": "2026-03-18 15:49:52",
+      "created_at": 1773848992000
     },
     {
       "id": 47422942,
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "link": "https://nightingale.cafe/",
-      "score": 119,
+      "score": 364,
       "author": "rzzzzru",
       "created": "2026-03-18 08:06:24",
       "created_at": 1773821184000
     },
     {
+      "id": 47426057,
+      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+      "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "score": 201,
+      "author": "hn_acker",
+      "created": "2026-03-18 14:14:02",
+      "created_at": 1773843242000
+    },
+    {
       "id": 47367601,
       "title": "Pandas Exercises for Data Analysis (Interactive)",
       "link": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-      "score": 11,
+      "score": 111,
       "author": "selva86",
       "created": "2026-03-13 18:05:23",
       "created_at": 1773425123000
-    },
-    {
-      "id": 47389696,
-      "title": "Write up of my homebrew CPU build",
-      "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 105,
-      "author": "wwarren",
-      "created": "2026-03-15 17:36:48",
-      "created_at": 1773596208000
-    },
-    {
-      "id": 47418295,
-      "title": "Mistral AI Releases Forge",
-      "link": "https://mistral.ai/news/forge",
-      "score": 554,
-      "author": "pember",
-      "created": "2026-03-17 21:04:26",
-      "created_at": 1773781466000
-    },
-    {
-      "id": 47393324,
-      "title": "How the Eon Team Produced a Virtual Embodied Fly",
-      "link": "https://eon.systems/updates/embodied-brain-emulation",
-      "score": 37,
-      "author": "LopRabbit",
-      "created": "2026-03-15 23:44:34",
-      "created_at": 1773618274000
-    },
-    {
-      "id": 47416736,
-      "title": "A Decade of Slug",
-      "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 648,
-      "author": "mwkaufma",
-      "created": "2026-03-17 18:59:50",
-      "created_at": 1773773990000
-    },
-    {
-      "id": 47413876,
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 712,
-      "author": "crtasm",
-      "created": "2026-03-17 15:16:29",
-      "created_at": 1773760589000
     }
   ],
   "code": 200,

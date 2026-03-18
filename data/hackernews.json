@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-18T12:44:47.197Z"
+    "lastUpdate": "2026-03-18T16:49:56.790Z"
   },
   "data": [
-    {
-      "id": 47397822,
-      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "link": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "score": 1591,
-      "author": "defly",
-      "created": "2026-03-16 12:00:06",
-      "created_at": 1773662406000
-    },
     {
       "id": 47408703,
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 1377,
+      "score": 1400,
       "author": "smitec",
       "created": "2026-03-17 04:39:42",
       "created_at": 1773722382000
@@ -28,7 +19,7 @@
       "id": 47402950,
       "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
       "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "score": 1225,
+      "score": 1229,
       "author": "tartoran",
       "created": "2026-03-16 18:38:14",
       "created_at": 1773686294000
@@ -37,7 +28,7 @@
       "id": 47410870,
       "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
       "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "score": 871,
+      "score": 880,
       "author": "doener",
       "created": "2026-03-17 10:39:48",
       "created_at": 1773743988000
@@ -46,7 +37,7 @@
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "link": "https://mistral.ai/news/leanstral",
-      "score": 763,
+      "score": 768,
       "author": "Poudlardo",
       "created": "2026-03-16 20:59:40",
       "created_at": 1773694780000
@@ -55,46 +46,55 @@
       "id": 47410542,
       "title": "Kagi Small Web",
       "link": "https://kagi.com/smallweb/",
-      "score": 753,
+      "score": 760,
       "author": "trueduke",
       "created": "2026-03-17 09:53:53",
       "created_at": 1773741233000
     },
     {
-      "id": 47406779,
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 743,
-      "author": "djoldman",
-      "created": "2026-03-17 00:02:35",
-      "created_at": 1773705755000
-    },
-    {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 712,
+      "score": 757,
       "author": "crtasm",
       "created": "2026-03-17 15:16:29",
       "created_at": 1773760589000
     },
     {
-      "id": 47397797,
-      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-      "link": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "score": 669,
-      "author": "vrganj",
-      "created": "2026-03-16 11:57:33",
-      "created_at": 1773662253000
+      "id": 47406779,
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "score": 744,
+      "author": "djoldman",
+      "created": "2026-03-17 00:02:35",
+      "created_at": 1773705755000
+    },
+    {
+      "id": 47421442,
+      "title": "Have a fucking website",
+      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "score": 742,
+      "author": "asukachikaru",
+      "created": "2026-03-18 03:53:42",
+      "created_at": 1773806022000
     },
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 648,
+      "score": 700,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
+    },
+    {
+      "id": 47418295,
+      "title": "Mistral AI Releases Forge",
+      "link": "https://mistral.ai/news/forge",
+      "score": 657,
+      "author": "pember",
+      "created": "2026-03-17 21:04:26",
+      "created_at": 1773781466000
     }
   ],
   "code": 200,
