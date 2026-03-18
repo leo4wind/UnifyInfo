@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-17T20:29:14.063Z"
+    "lastUpdate": "2026-03-18T01:15:34.867Z"
   },
   "data": [
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 118,
+      "score": 391,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
     },
     {
-      "id": 47413876,
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 365,
-      "author": "crtasm",
-      "created": "2026-03-17 15:16:29",
-      "created_at": 1773760589000
-    },
-    {
       "id": 47416486,
       "title": "Python 3.15's JIT is now back on track",
       "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 39,
+      "score": 256,
       "author": "guidoiaquinti",
       "created": "2026-03-17 18:37:27",
       "created_at": 1773772647000
     },
     {
+      "id": 47417804,
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "link": "https://github.com/gsd-build/get-shit-done",
+      "score": 175,
+      "author": "stefankuehnel",
+      "created": "2026-03-17 20:23:39",
+      "created_at": 1773779019000
+    },
+    {
+      "id": 47413876,
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 512,
+      "author": "crtasm",
+      "created": "2026-03-17 15:16:29",
+      "created_at": 1773760589000
+    },
+    {
+      "id": 47418295,
+      "title": "Mistral AI Releases Forge",
+      "link": "https://mistral.ai/news/forge",
+      "score": 108,
+      "author": "pember",
+      "created": "2026-03-17 21:04:26",
+      "created_at": 1773781466000
+    },
+    {
+      "id": 47412569,
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "link": "https://github.com/adammiribyan/zeroboot",
+      "score": 21,
+      "author": "adammiribyan",
+      "created": "2026-03-17 13:43:44",
+      "created_at": 1773755024000
+    },
+    {
+      "id": 47417335,
+      "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+      "link": "",
+      "score": 26,
+      "author": "rheamalhotra1",
+      "created": "2026-03-17 19:46:29",
+      "created_at": 1773776789000
+    },
+    {
       "id": 47410542,
       "title": "Kagi Small Web",
       "link": "https://kagi.com/smallweb/",
-      "score": 623,
+      "score": 701,
       "author": "trueduke",
       "created": "2026-03-17 09:53:53",
       "created_at": 1773741233000
     },
     {
+      "id": 47371404,
+      "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+      "link": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+      "score": 14,
+      "author": "hhs",
+      "created": "2026-03-13 23:30:08",
+      "created_at": 1773444608000
+    },
+    {
       "id": 47368425,
       "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
       "link": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 39,
+      "score": 159,
       "author": "yincrash",
       "created": "2026-03-13 19:14:46",
       "created_at": 1773429286000
-    },
-    {
-      "id": 47413195,
-      "title": "Node.js needs a virtual file system",
-      "link": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 152,
-      "author": "voctor",
-      "created": "2026-03-17 14:28:37",
-      "created_at": 1773757717000
-    },
-    {
-      "id": 47397367,
-      "title": "Toward automated verification of unreviewed AI-generated code",
-      "link": "https://peterlavigne.com/writing/verifying-ai-generated-code",
-      "score": 46,
-      "author": "peterlavigne",
-      "created": "2026-03-16 10:52:33",
-      "created_at": 1773658353000
-    },
-    {
-      "id": 47414440,
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "link": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "score": 67,
-      "author": "tambourine_man",
-      "created": "2026-03-17 15:56:09",
-      "created_at": 1773762969000
-    },
-    {
-      "id": 47416548,
-      "title": "Java 26 is here, and with it a solid foundation for the future",
-      "link": "https://hanno.codes/2026/03/17/java-26-is-here/",
-      "score": 57,
-      "author": "mfiguiere",
-      "created": "2026-03-17 18:44:09",
-      "created_at": 1773773049000
-    },
-    {
-      "id": 47412726,
-      "title": "OpenSUSE Kalpa",
-      "link": "https://kalpadesktop.org/",
-      "score": 96,
-      "author": "ogogmad",
-      "created": "2026-03-17 13:54:17",
-      "created_at": 1773755657000
     }
   ],
   "code": 200,
