@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-19T16:45:37.917Z"
+    "lastUpdate": "2026-03-19T20:31:56.055Z"
   },
   "data": [
+    {
+      "id": 47444748,
+      "title": "Anthropic takes legal action against OpenCode",
+      "link": "https://github.com/anomalyco/opencode/pull/18186",
+      "score": 126,
+      "author": "_squared_",
+      "created": "2026-03-19 19:37:26",
+      "created_at": 1773949046000
+    },
     {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "link": "https://astral.sh/blog/openai",
-      "score": 666,
+      "score": 993,
       "author": "ibraheemdev",
       "created": "2026-03-19 13:05:50",
       "created_at": 1773925550000
     },
     {
+      "id": 47442834,
+      "title": "An update on Steam / GOG changes for OpenTTD",
+      "link": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+      "score": 185,
+      "author": "jandeboevrie",
+      "created": "2026-03-19 17:27:17",
+      "created_at": 1773941237000
+    },
+    {
       "id": 47441546,
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "link": "https://github.com/KittenML/KittenTTS",
-      "score": 34,
+      "score": 190,
       "author": "rohan_joshi",
       "created": "2026-03-19 15:56:06",
       "created_at": 1773935766000
     },
     {
-      "id": 47439320,
-      "title": "OpenBSD: PF queues break the 4 Gbps barrier",
-      "link": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-      "score": 97,
-      "author": "defrost",
-      "created": "2026-03-19 13:43:26",
-      "created_at": 1773927806000
+      "id": 47443588,
+      "title": "Noq: n0's new QUIC implementation in Rust",
+      "link": "https://www.iroh.computer/blog/noq-announcement",
+      "score": 79,
+      "author": "od0",
+      "created": "2026-03-19 18:17:15",
+      "created_at": 1773944235000
     },
     {
-      "id": 47438675,
-      "title": "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
-      "link": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-      "score": 139,
-      "author": "speckx",
-      "created": "2026-03-19 13:02:35",
-      "created_at": 1773925355000
+      "id": 47406160,
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "score": 92,
+      "author": "PaulHoule",
+      "created": "2026-03-16 22:56:13",
+      "created_at": 1773701773000
     },
     {
-      "id": 47440759,
-      "title": "macOS 26 breaks custom DNS settings including .internal",
-      "link": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-      "score": 112,
-      "author": "adamamyl",
-      "created": "2026-03-19 15:06:58",
-      "created_at": 1773932818000
+      "id": 47442690,
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 125,
+      "author": "0xedb",
+      "created": "2026-03-19 17:16:04",
+      "created_at": 1773940564000
     },
     {
-      "id": 47440284,
-      "title": "The Shape of Inequalities",
-      "link": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
-      "score": 37,
-      "author": "nomemory",
-      "created": "2026-03-19 14:37:27",
-      "created_at": 1773931047000
+      "id": 47444072,
+      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "link": "https://qlabs.sh/10x",
+      "score": 33,
+      "author": "sdpmas",
+      "created": "2026-03-19 18:51:25",
+      "created_at": 1773946285000
     },
     {
-      "id": 47439718,
-      "title": "Consensus Board Game",
-      "link": "https://matklad.github.io/2026/03/19/consensus-board-game.html",
-      "score": 46,
-      "author": "surprisetalk",
-      "created": "2026-03-19 14:06:39",
-      "created_at": 1773929199000
+      "id": 47442435,
+      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+      "link": "https://blog.skypilot.co/scaling-autoresearch/",
+      "score": 61,
+      "author": "hopechong",
+      "created": "2026-03-19 16:55:45",
+      "created_at": 1773939345000
     },
     {
-      "id": 47436950,
-      "title": "Afroman found not liable in defamation case",
-      "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 799,
-      "author": "antonymoose",
-      "created": "2026-03-19 09:51:56",
-      "created_at": 1773913916000
-    },
-    {
-      "id": 47440309,
-      "title": "Hyper-optimized reverse geocoding API",
-      "link": "https://github.com/traccar/traccar-geocoder",
-      "score": 19,
-      "author": "tananaev",
-      "created": "2026-03-19 14:38:51",
-      "created_at": 1773931131000
-    },
-    {
-      "id": 47388293,
-      "title": "Pretraining Language Models via Neural Cellular Automata",
-      "link": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
-      "score": 67,
-      "author": "shmublu",
-      "created": "2026-03-15 15:23:26",
-      "created_at": 1773588206000
+      "id": 47444460,
+      "title": "From Oscilloscope to Wireshark: A UDP Story",
+      "link": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+      "score": 16,
+      "author": "ofrzeta",
+      "created": "2026-03-19 19:18:25",
+      "created_at": 1773947905000
     }
   ],
   "code": 200,
