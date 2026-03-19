@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-19T01:15:08.470Z"
+    "lastUpdate": "2026-03-19T05:18:55.836Z"
   },
   "data": [
     {
       "id": 47408703,
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 1424,
+      "score": 1431,
       "author": "smitec",
       "created": "2026-03-17 04:39:42",
       "created_at": 1773722382000
@@ -19,34 +19,34 @@
       "id": 47410870,
       "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
       "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "score": 894,
+      "score": 897,
       "author": "doener",
       "created": "2026-03-17 10:39:48",
       "created_at": 1773743988000
     },
     {
-      "id": 47421442,
-      "title": "Have a fucking website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 845,
-      "author": "asukachikaru",
-      "created": "2026-03-18 03:53:42",
-      "created_at": 1773806022000
-    },
-    {
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 834,
+      "score": 892,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
     },
     {
+      "id": 47421442,
+      "title": "Have a fucking website",
+      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "score": 869,
+      "author": "asukachikaru",
+      "created": "2026-03-18 03:53:42",
+      "created_at": 1773806022000
+    },
+    {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 775,
+      "score": 782,
       "author": "crtasm",
       "created": "2026-03-17 15:16:29",
       "created_at": 1773760589000
@@ -55,7 +55,7 @@
       "id": 47410542,
       "title": "Kagi Small Web",
       "link": "https://kagi.com/smallweb/",
-      "score": 768,
+      "score": 769,
       "author": "trueduke",
       "created": "2026-03-17 09:53:53",
       "created_at": 1773741233000
@@ -64,7 +64,7 @@
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 725,
+      "score": 728,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
@@ -73,28 +73,28 @@
       "id": 47418295,
       "title": "Mistral AI Releases Forge",
       "link": "https://mistral.ai/news/forge",
-      "score": 703,
+      "score": 708,
       "author": "pember",
       "created": "2026-03-17 21:04:26",
       "created_at": 1773781466000
     },
     {
-      "id": 47408205,
-      "title": "Every layer of review makes you 10x slower",
-      "link": "https://apenwarr.ca/log/20260316",
-      "score": 559,
-      "author": "greyface-",
-      "created": "2026-03-17 03:20:36",
-      "created_at": 1773717636000
-    },
-    {
       "id": 47422942,
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "link": "https://nightingale.cafe/",
-      "score": 494,
+      "score": 532,
       "author": "rzzzzru",
       "created": "2026-03-18 08:06:24",
       "created_at": 1773821184000
+    },
+    {
+      "id": 47416486,
+      "title": "Python 3.15's JIT is now back on track",
+      "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "score": 474,
+      "author": "guidoiaquinti",
+      "created": "2026-03-17 18:37:27",
+      "created_at": 1773772647000
     }
   ],
   "code": 200,

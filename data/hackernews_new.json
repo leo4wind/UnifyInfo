@@ -3,50 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-19T01:15:08.878Z"
+    "lastUpdate": "2026-03-19T05:18:56.113Z"
   },
   "data": [
+    {
+      "id": 47434047,
+      "title": "A sufficiently detailed spec is code",
+      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "score": 79,
+      "author": "signa11",
+      "created": "2026-03-19 02:23:17",
+      "created_at": 1773886997000
+    },
+    {
+      "id": 47434024,
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "link": "https://rjcorwin.github.io/cook/",
+      "score": 95,
+      "author": "staticvar",
+      "created": "2026-03-19 02:20:34",
+      "created_at": 1773886834000
+    },
     {
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 130,
+      "score": 434,
       "author": "matthest",
       "created": "2026-03-19 00:15:39",
       "created_at": 1773879339000
     },
     {
-      "id": 47431237,
-      "title": "Warranty Void If Regenerated",
-      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 180,
-      "author": "Stwerner",
-      "created": "2026-03-18 20:45:54",
-      "created_at": 1773866754000
-    },
-    {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 125,
+      "score": 224,
       "author": "mmastrac",
       "created": "2026-03-15 15:59:09",
       "created_at": 1773590349000
     },
     {
-      "id": 47431671,
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "link": "https://github.com/alainnothere/llm-circuit-finder",
-      "score": 37,
-      "author": "xlayn",
-      "created": "2026-03-18 21:31:12",
-      "created_at": 1773869472000
+      "id": 47431237,
+      "title": "Warranty Void If Regenerated",
+      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 250,
+      "author": "Stwerner",
+      "created": "2026-03-18 20:45:54",
+      "created_at": 1773866754000
+    },
+    {
+      "id": 47433265,
+      "title": "Autoresearch for SAT Solvers",
+      "link": "https://github.com/iliazintchenko/agent-sat",
+      "score": 79,
+      "author": "chaisan",
+      "created": "2026-03-19 00:40:32",
+      "created_at": 1773880832000
     },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "link": "https://openrocket.info/",
-      "score": 389,
+      "score": 467,
       "author": "zeristor",
       "created": "2026-03-15 12:20:14",
       "created_at": 1773577214000
@@ -55,46 +73,28 @@
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 834,
+      "score": 892,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
     },
     {
-      "id": 47422759,
-      "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "link": "https://susam.net/wander/",
-      "score": 193,
-      "author": "susam",
-      "created": "2026-03-18 07:43:13",
-      "created_at": 1773819793000
+      "id": 47432915,
+      "title": "RX – a new random-access JSON alternative",
+      "link": "https://github.com/creationix/rx",
+      "score": 46,
+      "author": "creationix",
+      "created": "2026-03-18 23:58:05",
+      "created_at": 1773878285000
     },
     {
-      "id": 47401489,
-      "title": "The math that explains why bell curves are everywhere",
-      "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "score": 47,
-      "author": "ibobev",
-      "created": "2026-03-16 16:51:32",
-      "created_at": 1773679892000
-    },
-    {
-      "id": 47427027,
-      "title": "Nvidia NemoClaw",
-      "link": "https://github.com/NVIDIA/NemoClaw",
-      "score": 232,
-      "author": "hmokiguess",
-      "created": "2026-03-18 15:31:07",
-      "created_at": 1773847867000
-    },
-    {
-      "id": 47431930,
-      "title": "What’s on HTTP?",
-      "link": "https://whatsonhttp.com/",
-      "score": 25,
-      "author": "elixx",
-      "created": "2026-03-18 21:57:58",
-      "created_at": 1773871078000
+      "id": 47434311,
+      "title": "We Have Learned Nothing",
+      "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "score": 13,
+      "author": "lukestevens",
+      "created": "2026-03-19 02:53:37",
+      "created_at": 1773888817000
     }
   ],
   "code": 200,
