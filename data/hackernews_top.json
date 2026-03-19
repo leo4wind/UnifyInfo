@@ -3,41 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-19T05:18:56.050Z"
+    "lastUpdate": "2026-03-19T08:30:32.852Z"
   },
   "data": [
-    {
-      "id": 47434047,
-      "title": "A sufficiently detailed spec is code",
-      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 79,
-      "author": "signa11",
-      "created": "2026-03-19 02:23:17",
-      "created_at": 1773886997000
-    },
     {
       "id": 47434024,
       "title": "Cook: A simple CLI for orchestrating Claude Code",
       "link": "https://rjcorwin.github.io/cook/",
-      "score": 95,
+      "score": 162,
       "author": "staticvar",
       "created": "2026-03-19 02:20:34",
       "created_at": 1773886834000
     },
     {
-      "id": 47433058,
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 434,
-      "author": "matthest",
-      "created": "2026-03-19 00:15:39",
-      "created_at": 1773879339000
+      "id": 47434732,
+      "title": "Conway's Game of Life, in real life",
+      "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "score": 70,
+      "author": "surprisetalk",
+      "created": "2026-03-19 03:55:03",
+      "created_at": 1773892503000
     },
     {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 224,
+      "score": 293,
       "author": "mmastrac",
       "created": "2026-03-15 15:59:09",
       "created_at": 1773590349000
@@ -46,55 +37,64 @@
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 250,
+      "score": 307,
       "author": "Stwerner",
       "created": "2026-03-18 20:45:54",
       "created_at": 1773866754000
     },
     {
-      "id": 47433265,
-      "title": "Autoresearch for SAT Solvers",
-      "link": "https://github.com/iliazintchenko/agent-sat",
-      "score": 79,
-      "author": "chaisan",
-      "created": "2026-03-19 00:40:32",
-      "created_at": 1773880832000
-    },
-    {
       "id": 47386703,
       "title": "OpenRocket",
       "link": "https://openrocket.info/",
-      "score": 467,
+      "score": 526,
       "author": "zeristor",
       "created": "2026-03-15 12:20:14",
       "created_at": 1773577214000
     },
     {
-      "id": 47423647,
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 892,
-      "author": "vismit2000",
-      "created": "2026-03-18 09:59:54",
-      "created_at": 1773827994000
+      "id": 47434047,
+      "title": "A sufficiently detailed spec is code",
+      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "score": 307,
+      "author": "signa11",
+      "created": "2026-03-19 02:23:17",
+      "created_at": 1773886997000
     },
     {
-      "id": 47432915,
-      "title": "RX – a new random-access JSON alternative",
-      "link": "https://github.com/creationix/rx",
-      "score": 46,
-      "author": "creationix",
-      "created": "2026-03-18 23:58:05",
-      "created_at": 1773878285000
+      "id": 47433265,
+      "title": "Autoresearch for SAT Solvers",
+      "link": "https://github.com/iliazintchenko/agent-sat",
+      "score": 113,
+      "author": "chaisan",
+      "created": "2026-03-19 00:40:32",
+      "created_at": 1773880832000
     },
     {
       "id": 47434311,
       "title": "We Have Learned Nothing",
       "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-      "score": 13,
+      "score": 48,
       "author": "lukestevens",
       "created": "2026-03-19 02:53:37",
       "created_at": 1773888817000
+    },
+    {
+      "id": 47385439,
+      "title": "LotusNotes",
+      "link": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "score": 62,
+      "author": "TMWNN",
+      "created": "2026-03-15 08:40:59",
+      "created_at": 1773564059000
+    },
+    {
+      "id": 47433058,
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "score": 501,
+      "author": "matthest",
+      "created": "2026-03-19 00:15:39",
+      "created_at": 1773879339000
     }
   ],
   "code": 200,
