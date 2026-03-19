@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-19T12:38:32.595Z"
+    "lastUpdate": "2026-03-19T16:45:37.791Z"
   },
   "data": [
     {
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 943,
+      "score": 950,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
@@ -19,25 +19,25 @@
       "id": 47421442,
       "title": "Have a fucking website",
       "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 889,
+      "score": 896,
       "author": "asukachikaru",
       "created": "2026-03-18 03:53:42",
       "created_at": 1773806022000
     },
     {
-      "id": 47413876,
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 788,
-      "author": "crtasm",
-      "created": "2026-03-17 15:16:29",
-      "created_at": 1773760589000
+      "id": 47436950,
+      "title": "Afroman found not liable in defamation case",
+      "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 799,
+      "author": "antonymoose",
+      "created": "2026-03-19 09:51:56",
+      "created_at": 1773913916000
     },
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "link": "https://terathon.com/blog/decade-slug.html",
-      "score": 736,
+      "score": 738,
       "author": "mwkaufma",
       "created": "2026-03-17 18:59:50",
       "created_at": 1773773990000
@@ -46,7 +46,7 @@
       "id": 47418295,
       "title": "Mistral AI Releases Forge",
       "link": "https://mistral.ai/news/forge",
-      "score": 716,
+      "score": 717,
       "author": "pember",
       "created": "2026-03-17 21:04:26",
       "created_at": 1773781466000
@@ -55,46 +55,46 @@
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 608,
+      "score": 710,
       "author": "matthest",
       "created": "2026-03-19 00:15:39",
       "created_at": 1773879339000
     },
     {
+      "id": 47438723,
+      "title": "Astral to Join OpenAI",
+      "link": "https://astral.sh/blog/openai",
+      "score": 666,
+      "author": "ibraheemdev",
+      "created": "2026-03-19 13:05:50",
+      "created_at": 1773925550000
+    },
+    {
       "id": 47422942,
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "link": "https://nightingale.cafe/",
-      "score": 554,
+      "score": 561,
       "author": "rzzzzru",
       "created": "2026-03-18 08:06:24",
       "created_at": 1773821184000
     },
     {
-      "id": 47416486,
-      "title": "Python 3.15's JIT is now back on track",
-      "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 475,
-      "author": "guidoiaquinti",
-      "created": "2026-03-17 18:37:27",
-      "created_at": 1773772647000
+      "id": 47434047,
+      "title": "A sufficiently detailed spec is code",
+      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "score": 525,
+      "author": "signa11",
+      "created": "2026-03-19 02:23:17",
+      "created_at": 1773886997000
     },
     {
       "id": 47430797,
       "title": "FBI is buying location data to track US citizens, director confirms",
       "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "score": 467,
+      "score": 484,
       "author": "jbegley",
       "created": "2026-03-18 20:09:52",
       "created_at": 1773864592000
-    },
-    {
-      "id": 47426057,
-      "title": "Despite doubts, federal cyber experts approved Microsoft cloud service",
-      "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 466,
-      "author": "hn_acker",
-      "created": "2026-03-18 14:14:02",
-      "created_at": 1773843242000
     }
   ],
   "code": 200,

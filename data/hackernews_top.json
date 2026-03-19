@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-19T12:38:32.755Z"
+    "lastUpdate": "2026-03-19T16:45:37.902Z"
   },
   "data": [
     {
+      "id": 47438723,
+      "title": "Astral to Join OpenAI",
+      "link": "https://astral.sh/blog/openai",
+      "score": 666,
+      "author": "ibraheemdev",
+      "created": "2026-03-19 13:05:50",
+      "created_at": 1773925550000
+    },
+    {
+      "id": 47441546,
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "link": "https://github.com/KittenML/KittenTTS",
+      "score": 34,
+      "author": "rohan_joshi",
+      "created": "2026-03-19 15:56:06",
+      "created_at": 1773935766000
+    },
+    {
+      "id": 47439320,
+      "title": "OpenBSD: PF queues break the 4 Gbps barrier",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260319125859",
+      "score": 97,
+      "author": "defrost",
+      "created": "2026-03-19 13:43:26",
+      "created_at": 1773927806000
+    },
+    {
+      "id": 47438675,
+      "title": "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
+      "link": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
+      "score": 139,
+      "author": "speckx",
+      "created": "2026-03-19 13:02:35",
+      "created_at": 1773925355000
+    },
+    {
+      "id": 47440759,
+      "title": "macOS 26 breaks custom DNS settings including .internal",
+      "link": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+      "score": 112,
+      "author": "adamamyl",
+      "created": "2026-03-19 15:06:58",
+      "created_at": 1773932818000
+    },
+    {
+      "id": 47440284,
+      "title": "The Shape of Inequalities",
+      "link": "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/",
+      "score": 37,
+      "author": "nomemory",
+      "created": "2026-03-19 14:37:27",
+      "created_at": 1773931047000
+    },
+    {
+      "id": 47439718,
+      "title": "Consensus Board Game",
+      "link": "https://matklad.github.io/2026/03/19/consensus-board-game.html",
+      "score": 46,
+      "author": "surprisetalk",
+      "created": "2026-03-19 14:06:39",
+      "created_at": 1773929199000
+    },
+    {
       "id": 47436950,
-      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+      "title": "Afroman found not liable in defamation case",
       "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 143,
+      "score": 799,
       "author": "antonymoose",
       "created": "2026-03-19 09:51:56",
       "created_at": 1773913916000
     },
     {
-      "id": 47434732,
-      "title": "Conway's Game of Life, in real life",
-      "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "score": 191,
-      "author": "surprisetalk",
-      "created": "2026-03-19 03:55:03",
-      "created_at": 1773892503000
-    },
-    {
-      "id": 47437101,
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-      "score": 103,
-      "author": "sergdigon",
-      "created": "2026-03-19 10:17:46",
-      "created_at": 1773915466000
-    },
-    {
-      "id": 47388658,
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 377,
-      "author": "mmastrac",
-      "created": "2026-03-15 15:59:09",
-      "created_at": 1773590349000
-    },
-    {
-      "id": 47431237,
-      "title": "Warranty Void If Regenerated",
-      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 398,
-      "author": "Stwerner",
-      "created": "2026-03-18 20:45:54",
-      "created_at": 1773866754000
-    },
-    {
-      "id": 47437782,
-      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
-      "link": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
-      "score": 187,
-      "author": "mariuz",
-      "created": "2026-03-19 11:49:37",
-      "created_at": 1773920977000
-    },
-    {
-      "id": 47386703,
-      "title": "OpenRocket",
-      "link": "https://openrocket.info/",
-      "score": 605,
-      "author": "zeristor",
-      "created": "2026-03-15 12:20:14",
-      "created_at": 1773577214000
-    },
-    {
-      "id": 47413475,
-      "title": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
-      "link": "https://ir.cwi.nl/pub/5998/5998D.pdf",
-      "score": 43,
-      "author": "ivanbelenky",
-      "created": "2026-03-17 14:48:01",
-      "created_at": 1773758881000
+      "id": 47440309,
+      "title": "Hyper-optimized reverse geocoding API",
+      "link": "https://github.com/traccar/traccar-geocoder",
+      "score": 19,
+      "author": "tananaev",
+      "created": "2026-03-19 14:38:51",
+      "created_at": 1773931131000
     },
     {
       "id": 47388293,
       "title": "Pretraining Language Models via Neural Cellular Automata",
       "link": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
-      "score": 7,
+      "score": 67,
       "author": "shmublu",
       "created": "2026-03-15 15:23:26",
       "created_at": 1773588206000
-    },
-    {
-      "id": 47433058,
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 608,
-      "author": "matthest",
-      "created": "2026-03-19 00:15:39",
-      "created_at": 1773879339000
     }
   ],
   "code": 200,
