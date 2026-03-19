@@ -3,32 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-19T08:30:32.914Z"
+    "lastUpdate": "2026-03-19T12:38:32.805Z"
   },
   "data": [
     {
-      "id": 47434024,
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "link": "https://rjcorwin.github.io/cook/",
-      "score": 162,
-      "author": "staticvar",
-      "created": "2026-03-19 02:20:34",
-      "created_at": 1773886834000
+      "id": 47436950,
+      "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+      "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 143,
+      "author": "antonymoose",
+      "created": "2026-03-19 09:51:56",
+      "created_at": 1773913916000
     },
     {
       "id": 47434732,
       "title": "Conway's Game of Life, in real life",
       "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "score": 70,
+      "score": 191,
       "author": "surprisetalk",
       "created": "2026-03-19 03:55:03",
       "created_at": 1773892503000
     },
     {
+      "id": 47437101,
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "score": 103,
+      "author": "sergdigon",
+      "created": "2026-03-19 10:17:46",
+      "created_at": 1773915466000
+    },
+    {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 293,
+      "score": 377,
       "author": "mmastrac",
       "created": "2026-03-15 15:59:09",
       "created_at": 1773590349000
@@ -37,61 +46,52 @@
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 307,
+      "score": 398,
       "author": "Stwerner",
       "created": "2026-03-18 20:45:54",
       "created_at": 1773866754000
     },
     {
+      "id": 47437782,
+      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
+      "link": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
+      "score": 187,
+      "author": "mariuz",
+      "created": "2026-03-19 11:49:37",
+      "created_at": 1773920977000
+    },
+    {
       "id": 47386703,
       "title": "OpenRocket",
       "link": "https://openrocket.info/",
-      "score": 526,
+      "score": 605,
       "author": "zeristor",
       "created": "2026-03-15 12:20:14",
       "created_at": 1773577214000
     },
     {
-      "id": 47434047,
-      "title": "A sufficiently detailed spec is code",
-      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 307,
-      "author": "signa11",
-      "created": "2026-03-19 02:23:17",
-      "created_at": 1773886997000
+      "id": 47413475,
+      "title": "Stdwin: Standard window interface by Guido Van Rossum [pdf]",
+      "link": "https://ir.cwi.nl/pub/5998/5998D.pdf",
+      "score": 43,
+      "author": "ivanbelenky",
+      "created": "2026-03-17 14:48:01",
+      "created_at": 1773758881000
     },
     {
-      "id": 47433265,
-      "title": "Autoresearch for SAT Solvers",
-      "link": "https://github.com/iliazintchenko/agent-sat",
-      "score": 113,
-      "author": "chaisan",
-      "created": "2026-03-19 00:40:32",
-      "created_at": 1773880832000
-    },
-    {
-      "id": 47434311,
-      "title": "We Have Learned Nothing",
-      "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
-      "score": 48,
-      "author": "lukestevens",
-      "created": "2026-03-19 02:53:37",
-      "created_at": 1773888817000
-    },
-    {
-      "id": 47385439,
-      "title": "LotusNotes",
-      "link": "https://computer.rip/2026-03-14-lotusnotes.html",
-      "score": 62,
-      "author": "TMWNN",
-      "created": "2026-03-15 08:40:59",
-      "created_at": 1773564059000
+      "id": 47388293,
+      "title": "Pretraining Language Models via Neural Cellular Automata",
+      "link": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+      "score": 7,
+      "author": "shmublu",
+      "created": "2026-03-15 15:23:26",
+      "created_at": 1773588206000
     },
     {
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 501,
+      "score": 608,
       "author": "matthest",
       "created": "2026-03-19 00:15:39",
       "created_at": 1773879339000
