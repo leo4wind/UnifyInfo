@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-18T20:25:35.810Z"
+    "lastUpdate": "2026-03-19T01:15:08.878Z"
   },
   "data": [
+    {
+      "id": 47433058,
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "score": 130,
+      "author": "matthest",
+      "created": "2026-03-19 00:15:39",
+      "created_at": 1773879339000
+    },
+    {
+      "id": 47431237,
+      "title": "Warranty Void If Regenerated",
+      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 180,
+      "author": "Stwerner",
+      "created": "2026-03-18 20:45:54",
+      "created_at": 1773866754000
+    },
+    {
+      "id": 47388658,
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "score": 125,
+      "author": "mmastrac",
+      "created": "2026-03-15 15:59:09",
+      "created_at": 1773590349000
+    },
+    {
+      "id": 47431671,
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "link": "https://github.com/alainnothere/llm-circuit-finder",
+      "score": 37,
+      "author": "xlayn",
+      "created": "2026-03-18 21:31:12",
+      "created_at": 1773869472000
+    },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "link": "https://openrocket.info/",
-      "score": 191,
+      "score": 389,
       "author": "zeristor",
       "created": "2026-03-15 12:20:14",
       "created_at": 1773577214000
     },
     {
       "id": 47423647,
-      "title": "Rob Pike's Rules of Programming (1989)",
+      "title": "Rob Pike’s Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 719,
+      "score": 834,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
     },
     {
-      "id": 47378781,
-      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
-      "link": "https://huggingface.co/datasets/open-index/hacker-news",
-      "score": 171,
-      "author": "tamnd",
-      "created": "2026-03-14 17:12:03",
-      "created_at": 1773508323000
-    },
-    {
       "id": 47422759,
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "link": "https://susam.net/wander/",
-      "score": 52,
+      "score": 193,
       "author": "susam",
       "created": "2026-03-18 07:43:13",
       "created_at": 1773819793000
     },
     {
-      "id": 47423694,
-      "title": "2025 Turing award given for quantum information science",
-      "link": "https://awards.acm.org/about/2025-turing",
-      "score": 53,
-      "author": "srvmshr",
-      "created": "2026-03-18 10:10:01",
-      "created_at": 1773828601000
+      "id": 47401489,
+      "title": "The math that explains why bell curves are everywhere",
+      "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "score": 47,
+      "author": "ibobev",
+      "created": "2026-03-16 16:51:32",
+      "created_at": 1773679892000
     },
     {
-      "id": 47429988,
-      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
-      "link": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-      "score": 17,
-      "author": "verelo",
-      "created": "2026-03-18 19:01:54",
-      "created_at": 1773860514000
+      "id": 47427027,
+      "title": "Nvidia NemoClaw",
+      "link": "https://github.com/NVIDIA/NemoClaw",
+      "score": 232,
+      "author": "hmokiguess",
+      "created": "2026-03-18 15:31:07",
+      "created_at": 1773847867000
     },
     {
-      "id": 47380714,
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "link": "https://mlbenchmarks.org/00-preface.html",
-      "score": 19,
-      "author": "jxmorris12",
-      "created": "2026-03-14 20:15:03",
-      "created_at": 1773519303000
-    },
-    {
-      "id": 47385260,
-      "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
-      "link": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
-      "score": 11,
-      "author": "joozio",
-      "created": "2026-03-15 08:03:44",
-      "created_at": 1773561824000
-    },
-    {
-      "id": 47428541,
-      "title": "AI coding is gambling",
-      "link": "https://notes.visaint.space/ai-coding-is-gambling/",
-      "score": 217,
-      "author": "speckx",
-      "created": "2026-03-18 17:22:02",
-      "created_at": 1773854522000
-    },
-    {
-      "id": 47422942,
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "link": "https://nightingale.cafe/",
-      "score": 423,
-      "author": "rzzzzru",
-      "created": "2026-03-18 08:06:24",
-      "created_at": 1773821184000
+      "id": 47431930,
+      "title": "What’s on HTTP?",
+      "link": "https://whatsonhttp.com/",
+      "score": 25,
+      "author": "elixx",
+      "created": "2026-03-18 21:57:58",
+      "created_at": 1773871078000
     }
   ],
   "code": 200,
