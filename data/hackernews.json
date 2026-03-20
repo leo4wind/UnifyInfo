@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-20T12:35:14.614Z"
+    "lastUpdate": "2026-03-20T16:31:06.282Z"
   },
   "data": [
     {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "link": "https://astral.sh/blog/openai",
-      "score": 1396,
+      "score": 1419,
       "author": "ibraheemdev",
       "created": "2026-03-19 13:05:50",
       "created_at": 1773925550000
@@ -19,7 +19,7 @@
       "id": 47436950,
       "title": "Afroman found not liable in defamation case",
       "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 1173,
+      "score": 1194,
       "author": "antonymoose",
       "created": "2026-03-19 09:51:56",
       "created_at": 1773913916000
@@ -28,7 +28,7 @@
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 923,
+      "score": 1064,
       "author": "0xedb",
       "created": "2026-03-19 17:16:04",
       "created_at": 1773940564000
@@ -37,7 +37,7 @@
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 793,
+      "score": 797,
       "author": "matthest",
       "created": "2026-03-19 00:15:39",
       "created_at": 1773879339000
@@ -46,16 +46,34 @@
       "id": 47434047,
       "title": "A sufficiently detailed spec is code",
       "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 611,
+      "score": 617,
       "author": "signa11",
       "created": "2026-03-19 02:23:17",
       "created_at": 1773886997000
     },
     {
+      "id": 47454341,
+      "title": "I'm OK being left behind, thanks",
+      "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
+      "score": 605,
+      "author": "coinfused",
+      "created": "2026-03-20 13:38:56",
+      "created_at": 1774013936000
+    },
+    {
+      "id": 47450478,
+      "title": "ArXiv declares independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "score": 583,
+      "author": "bookstore-romeo",
+      "created": "2026-03-20 04:24:11",
+      "created_at": 1773980651000
+    },
+    {
       "id": 47437655,
       "title": "“Your frustration is the product”",
       "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "score": 544,
+      "score": 557,
       "author": "llm_nerd",
       "created": "2026-03-19 11:34:24",
       "created_at": 1773920064000
@@ -64,34 +82,16 @@
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 509,
+      "score": 510,
       "author": "Stwerner",
       "created": "2026-03-18 20:45:54",
       "created_at": 1773866754000
     },
     {
-      "id": 47430797,
-      "title": "FBI is buying location data to track US citizens, director confirms",
-      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "score": 500,
-      "author": "jbegley",
-      "created": "2026-03-18 20:09:52",
-      "created_at": 1773864592000
-    },
-    {
-      "id": 47426057,
-      "title": "Despite doubts, federal cyber experts approved Microsoft cloud service",
-      "link": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 483,
-      "author": "hn_acker",
-      "created": "2026-03-18 14:14:02",
-      "created_at": 1773843242000
-    },
-    {
       "id": 47441546,
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "link": "https://github.com/KittenML/KittenTTS",
-      "score": 465,
+      "score": 505,
       "author": "rohan_joshi",
       "created": "2026-03-19 15:56:06",
       "created_at": 1773935766000
