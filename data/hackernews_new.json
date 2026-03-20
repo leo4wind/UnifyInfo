@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-20T08:29:44.325Z"
+    "lastUpdate": "2026-03-20T12:35:14.971Z"
   },
   "data": [
     {
       "id": 47450478,
       "title": "ArXiv Declares Independence from Cornell",
       "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 210,
+      "score": 395,
       "author": "bookstore-romeo",
       "created": "2026-03-20 04:24:11",
       "created_at": 1773980651000
     },
     {
-      "id": 47403905,
-      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
-      "link": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 69,
-      "author": "m463",
-      "created": "2026-03-16 19:49:20",
-      "created_at": 1773690560000
+      "id": 47452955,
+      "title": "Entso-E final report on Iberian 2025 blackout",
+      "link": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+      "score": 31,
+      "author": "Rygian",
+      "created": "2026-03-20 11:03:27",
+      "created_at": 1774004607000
+    },
+    {
+      "id": 47409055,
+      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "link": "https://arxiv.org/abs/2603.09229",
+      "score": 54,
+      "author": "matt_d",
+      "created": "2026-03-17 05:38:26",
+      "created_at": 1773725906000
+    },
+    {
+      "id": 47452399,
+      "title": "The Soul of a Pedicab Driver",
+      "link": "https://www.sheldonbrown.com/pedicab.html",
+      "score": 39,
+      "author": "haritha-j",
+      "created": "2026-03-20 09:40:56",
+      "created_at": 1773999656000
+    },
+    {
+      "id": 47452828,
+      "title": "3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs",
+      "link": "https://thecoolingreport.com/intel.html",
+      "score": 35,
+      "author": "jackdilusso",
+      "created": "2026-03-20 10:46:15",
+      "created_at": 1774003575000
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 757,
+      "score": 923,
       "author": "0xedb",
       "created": "2026-03-19 17:16:04",
       "created_at": 1773940564000
     },
     {
-      "id": 47448524,
-      "title": "Push events into a running session with channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "score": 319,
-      "author": "jasonjmcghee",
-      "created": "2026-03-20 00:22:08",
-      "created_at": 1773966128000
+      "id": 47413879,
+      "title": "Drawvg Filter for FFmpeg",
+      "link": "https://ayosec.github.io/ffmpeg-drawvg/",
+      "score": 90,
+      "author": "nolta",
+      "created": "2026-03-17 15:16:39",
+      "created_at": 1773760599000
+    },
+    {
+      "id": 47397372,
+      "title": "Just Put It on a Map",
+      "link": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
+      "score": 23,
+      "author": "surprisetalk",
+      "created": "2026-03-16 10:53:10",
+      "created_at": 1773658390000
     },
     {
       "id": 47448994,
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 125,
+      "score": 182,
       "author": "nyxgeek",
       "created": "2026-03-20 01:09:45",
       "created_at": 1773968985000
     },
     {
-      "id": 47396593,
-      "title": "Building a Reader for the Smallest Hard Drive",
-      "link": "https://www.willwhang.dev/Reading-MK4001MTD/",
-      "score": 22,
-      "author": "voctor",
-      "created": "2026-03-16 09:04:43",
-      "created_at": 1773651883000
-    },
-    {
       "id": 47448566,
       "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
       "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 129,
+      "score": 174,
       "author": "robotnikman",
       "created": "2026-03-20 00:26:47",
       "created_at": 1773966407000
-    },
-    {
-      "id": 47445599,
-      "title": "Cockpit is a web-based graphical interface for servers",
-      "link": "https://github.com/cockpit-project/cockpit",
-      "score": 248,
-      "author": "modinfo",
-      "created": "2026-03-19 20:33:02",
-      "created_at": 1773952382000
-    },
-    {
-      "id": 47406160,
-      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-      "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 346,
-      "author": "PaulHoule",
-      "created": "2026-03-16 22:56:13",
-      "created_at": 1773701773000
-    },
-    {
-      "id": 47416972,
-      "title": "How the Turner twins are mythbusting modern technical apparel",
-      "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 206,
-      "author": "greedo",
-      "created": "2026-03-17 19:19:44",
-      "created_at": 1773775184000
     }
   ],
   "code": 200,
