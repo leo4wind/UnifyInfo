@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-19T20:28:53.128Z"
+    "lastUpdate": "2026-03-20T01:11:02.935Z"
   },
   "data": [
-    {
-      "id": 47436950,
-      "title": "Afroman found not liable in defamation case",
-      "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 993,
-      "author": "antonymoose",
-      "created": "2026-03-19 09:51:56",
-      "created_at": 1773913916000
-    },
     {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "link": "https://astral.sh/blog/openai",
-      "score": 993,
+      "score": 1206,
       "author": "ibraheemdev",
       "created": "2026-03-19 13:05:50",
       "created_at": 1773925550000
     },
     {
+      "id": 47436950,
+      "title": "Afroman found not liable in defamation case",
+      "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "score": 1095,
+      "author": "antonymoose",
+      "created": "2026-03-19 09:51:56",
+      "created_at": 1773913916000
+    },
+    {
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 959,
+      "score": 967,
       "author": "vismit2000",
       "created": "2026-03-18 09:59:54",
       "created_at": 1773827994000
@@ -37,7 +37,7 @@
       "id": 47421442,
       "title": "Have a fucking website",
       "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 909,
+      "score": 919,
       "author": "asukachikaru",
       "created": "2026-03-18 03:53:42",
       "created_at": 1773806022000
@@ -46,25 +46,16 @@
       "id": 47433058,
       "title": "Austin’s surge of new housing construction drove down rents",
       "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 758,
+      "score": 773,
       "author": "matthest",
       "created": "2026-03-19 00:15:39",
       "created_at": 1773879339000
     },
     {
-      "id": 47418295,
-      "title": "Mistral AI Releases Forge",
-      "link": "https://mistral.ai/news/forge",
-      "score": 717,
-      "author": "pember",
-      "created": "2026-03-17 21:04:26",
-      "created_at": 1773781466000
-    },
-    {
       "id": 47434047,
       "title": "A sufficiently detailed spec is code",
       "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 571,
+      "score": 590,
       "author": "signa11",
       "created": "2026-03-19 02:23:17",
       "created_at": 1773886997000
@@ -73,28 +64,37 @@
       "id": 47422942,
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "link": "https://nightingale.cafe/",
-      "score": 565,
+      "score": 574,
       "author": "rzzzzru",
       "created": "2026-03-18 08:06:24",
       "created_at": 1773821184000
     },
     {
+      "id": 47431237,
+      "title": "Warranty Void If Regenerated",
+      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 502,
+      "author": "Stwerner",
+      "created": "2026-03-18 20:45:54",
+      "created_at": 1773866754000
+    },
+    {
       "id": 47430797,
       "title": "FBI is buying location data to track US citizens, director confirms",
       "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "score": 493,
+      "score": 497,
       "author": "jbegley",
       "created": "2026-03-18 20:09:52",
       "created_at": 1773864592000
     },
     {
-      "id": 47431237,
-      "title": "Warranty Void If Regenerated",
-      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 490,
-      "author": "Stwerner",
-      "created": "2026-03-18 20:45:54",
-      "created_at": 1773866754000
+      "id": 47442690,
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 478,
+      "author": "0xedb",
+      "created": "2026-03-19 17:16:04",
+      "created_at": 1773940564000
     }
   ],
   "code": 200,

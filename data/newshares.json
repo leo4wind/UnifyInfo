@@ -3,9 +3,55 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-19T20:31:58.902Z"
+    "lastUpdate": "2026-03-20T01:11:06.442Z"
   },
   "data": [
+    {
+      "zqdm": "603459",
+      "zqjc": "红板科技",
+      "sgdm": "732459",
+      "fxsl": 100000000,
+      "swfxsl": 21000000,
+      "sgsx": 21000,
+      "dgsz": 210000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-27",
+      "zqgbrq": "2026-03-31",
+      "zqjkrq": "2026-03-31",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 64.97,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司专注于印制电路板的研发、生产和销售"
+    },
+    {
+      "zqdm": "301696",
+      "zqjc": "三瑞智能",
+      "sgdm": "301696",
+      "fxsl": 40010000,
+      "swfxsl": 6401500,
+      "sgsx": 6000,
+      "dgsz": 60000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-27",
+      "zqgbrq": "2026-03-31",
+      "zqjkrq": "2026-03-31",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 29.27,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "无人机电动动力系统及机器人动力系统的研发、生产和销售,并积极布局电动垂直起降飞行器(eVTOL)动力系统产品"
+    },
     {
       "zqdm": "688813",
       "zqjc": "泰金新能",
@@ -168,5 +214,5 @@
       "zyyw": "主要从事以阻容元器件为主的新型电子元器件的研发、生产和销售,致力于向客户提供高性能、高可靠性的电子元器件产品"
     }
   ],
-  "total": 7
+  "total": 9
 }
