@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-20T01:11:06.442Z"
+    "lastUpdate": "2026-03-20T08:29:50.651Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-03-31",
       "ssrq": null,
       "syl": null,
-      "hysyl": 64.97,
+      "hysyl": 64.86,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -51,6 +51,29 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "无人机电动动力系统及机器人动力系统的研发、生产和销售,并积极布局电动垂直起降飞行器(eVTOL)动力系统产品"
+    },
+    {
+      "zqdm": "920055",
+      "zqjc": "隆源股份",
+      "sgdm": "920055",
+      "fxsl": 17000000,
+      "swfxsl": 15300000,
+      "sgsx": 765000,
+      "dgsz": 7650000,
+      "fxjg": 24.7,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-23",
+      "zqgbrq": "2026-03-26",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 29.78,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "公司专业从事铝合金精密压铸件的研发、生产与销售"
     },
     {
       "zqdm": "688813",
@@ -214,5 +237,5 @@
       "zyyw": "主要从事以阻容元器件为主的新型电子元器件的研发、生产和销售,致力于向客户提供高性能、高可靠性的电子元器件产品"
     }
   ],
-  "total": 9
+  "total": 10
 }

@@ -3,41 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-20T05:11:54.857Z"
+    "lastUpdate": "2026-03-20T08:29:44.278Z"
   },
   "data": [
     {
-      "id": 47448524,
-      "title": "Push events into a running session with channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "score": 260,
-      "author": "jasonjmcghee",
-      "created": "2026-03-20 00:22:08",
-      "created_at": 1773966128000
+      "id": 47450478,
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "score": 210,
+      "author": "bookstore-romeo",
+      "created": "2026-03-20 04:24:11",
+      "created_at": 1773980651000
+    },
+    {
+      "id": 47403905,
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "link": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 69,
+      "author": "m463",
+      "created": "2026-03-16 19:49:20",
+      "created_at": 1773690560000
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 629,
+      "score": 757,
       "author": "0xedb",
       "created": "2026-03-19 17:16:04",
       "created_at": 1773940564000
     },
     {
+      "id": 47448524,
+      "title": "Push events into a running session with channels",
+      "link": "https://code.claude.com/docs/en/channels",
+      "score": 319,
+      "author": "jasonjmcghee",
+      "created": "2026-03-20 00:22:08",
+      "created_at": 1773966128000
+    },
+    {
       "id": 47448994,
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 78,
+      "score": 125,
       "author": "nyxgeek",
       "created": "2026-03-20 01:09:45",
       "created_at": 1773968985000
     },
     {
+      "id": 47396593,
+      "title": "Building a Reader for the Smallest Hard Drive",
+      "link": "https://www.willwhang.dev/Reading-MK4001MTD/",
+      "score": 22,
+      "author": "voctor",
+      "created": "2026-03-16 09:04:43",
+      "created_at": 1773651883000
+    },
+    {
       "id": 47448566,
       "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
       "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 95,
+      "score": 129,
       "author": "robotnikman",
       "created": "2026-03-20 00:26:47",
       "created_at": 1773966407000
@@ -46,55 +73,28 @@
       "id": 47445599,
       "title": "Cockpit is a web-based graphical interface for servers",
       "link": "https://github.com/cockpit-project/cockpit",
-      "score": 211,
+      "score": 248,
       "author": "modinfo",
       "created": "2026-03-19 20:33:02",
       "created_at": 1773952382000
     },
     {
-      "id": 47416972,
-      "title": "How the Turner twins are mythbusting modern technical apparel",
-      "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 163,
-      "author": "greedo",
-      "created": "2026-03-17 19:19:44",
-      "created_at": 1773775184000
-    },
-    {
       "id": 47406160,
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 281,
+      "score": 346,
       "author": "PaulHoule",
       "created": "2026-03-16 22:56:13",
       "created_at": 1773701773000
     },
     {
-      "id": 47441546,
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "link": "https://github.com/KittenML/KittenTTS",
-      "score": 365,
-      "author": "rohan_joshi",
-      "created": "2026-03-19 15:56:06",
-      "created_at": 1773935766000
-    },
-    {
-      "id": 47443588,
-      "title": "Noq: n0's new QUIC implementation in Rust",
-      "link": "https://www.iroh.computer/blog/noq-announcement",
-      "score": 173,
-      "author": "od0",
-      "created": "2026-03-19 18:17:15",
-      "created_at": 1773944235000
-    },
-    {
-      "id": 47440430,
-      "title": "4Chan mocks £520k fine for UK online safety breaches",
-      "link": "https://www.bbc.com/news/articles/c624330lg1ko",
-      "score": 310,
-      "author": "mosura",
-      "created": "2026-03-19 14:46:25",
-      "created_at": 1773931585000
+      "id": 47416972,
+      "title": "How the Turner twins are mythbusting modern technical apparel",
+      "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+      "score": 206,
+      "author": "greedo",
+      "created": "2026-03-17 19:19:44",
+      "created_at": 1773775184000
     }
   ],
   "code": 200,
