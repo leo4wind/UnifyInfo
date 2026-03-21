@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-20T20:21:00.271Z"
+    "lastUpdate": "2026-03-21T01:06:32.258Z"
   },
   "data": [
+    {
+      "id": 47460525,
+      "title": "OpenCode – The open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "score": 381,
+      "author": "rbanffy",
+      "created": "2026-03-20 21:03:52",
+      "created_at": 1774040632000
+    },
+    {
+      "id": 47459296,
+      "title": "Our commitment to Windows quality",
+      "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "score": 378,
+      "author": "hadrien01",
+      "created": "2026-03-20 19:16:13",
+      "created_at": 1774034173000
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 89,
+      "author": "zahlekhan",
+      "created": "2026-03-20 21:48:06",
+      "created_at": 1774043286000
+    },
+    {
+      "id": 47461378,
+      "title": "Ghostling",
+      "link": "https://github.com/ghostty-org/ghostling",
+      "score": 63,
+      "author": "bjornroberg",
+      "created": "2026-03-20 22:11:37",
+      "created_at": 1774044697000
+    },
+    {
+      "id": 47462483,
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "score": 16,
+      "author": "teleforce",
+      "created": "2026-03-20 23:57:22",
+      "created_at": 1774051042000
+    },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 324,
+      "score": 461,
       "author": "MrDresden",
       "created": "2026-03-20 13:01:56",
       "created_at": 1774011716000
     },
     {
-      "id": 47450478,
-      "title": "ArXiv declares independence from Cornell",
-      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 677,
-      "author": "bookstore-romeo",
-      "created": "2026-03-20 04:24:11",
-      "created_at": 1773980651000
-    },
-    {
-      "id": 47410871,
-      "title": "VisiCalc Reconstructed",
-      "link": "https://zserge.com/posts/visicalc/",
-      "score": 126,
-      "author": "ingve",
-      "created": "2026-03-17 10:39:55",
-      "created_at": 1773743995000
-    },
-    {
-      "id": 47416543,
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "link": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 223,
-      "author": "michaefe",
-      "created": "2026-03-17 18:43:53",
-      "created_at": 1773773033000
+      "id": 47425257,
+      "title": "Lent and Lisp",
+      "link": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "score": 11,
+      "author": "surprisetalk",
+      "created": "2026-03-18 13:00:39",
+      "created_at": 1773838839000
     },
     {
       "id": 47458595,
       "title": "Attention Residuals",
       "link": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 31,
+      "score": 115,
       "author": "GaggiX",
       "created": "2026-03-20 18:23:41",
       "created_at": 1774031021000
     },
     {
-      "id": 47424592,
-      "title": "Parallel Perl – autoparallelizing interpreter with JIT",
-      "link": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "score": 70,
-      "author": "bmn__",
-      "created": "2026-03-18 11:59:05",
-      "created_at": 1773835145000
+      "id": 47438169,
+      "title": "An FAQ on Reinforcement Learning Environments",
+      "link": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "score": 17,
+      "author": "dcre",
+      "created": "2026-03-19 12:24:46",
+      "created_at": 1773923086000
     },
     {
-      "id": 47457472,
-      "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
-      "link": "",
-      "score": 23,
-      "author": "vincko",
-      "created": "2026-03-20 17:05:38",
-      "created_at": 1774026338000
-    },
-    {
-      "id": 47444319,
-      "title": "Delve – Fake Compliance as a Service",
-      "link": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 338,
-      "author": "freddykruger",
-      "created": "2026-03-19 19:08:02",
-      "created_at": 1773947282000
-    },
-    {
-      "id": 47452955,
-      "title": "Entso-E final report on Iberian 2025 blackout",
-      "link": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 152,
-      "author": "Rygian",
-      "created": "2026-03-20 11:03:27",
-      "created_at": 1774004607000
-    },
-    {
-      "id": 47453947,
-      "title": "The Social Smolnet",
-      "link": "https://ploum.net/2026-03-20-social-smolnet.html",
-      "score": 82,
-      "author": "aebtebeten",
-      "created": "2026-03-20 13:02:19",
-      "created_at": 1774011739000
+      "id": 47416543,
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "link": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "score": 284,
+      "author": "michaefe",
+      "created": "2026-03-17 18:43:53",
+      "created_at": 1773773033000
     }
   ],
   "code": 200,
