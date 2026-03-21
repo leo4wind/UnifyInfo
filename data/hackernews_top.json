@@ -3,23 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-21T16:17:18.181Z"
+    "lastUpdate": "2026-03-21T20:14:52.239Z"
   },
   "data": [
     {
-      "id": 47467746,
-      "title": "404 Deno CEO not found",
-      "link": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-      "score": 59,
-      "author": "WhyNotHugo",
-      "created": "2026-03-21 15:10:54",
-      "created_at": 1774105854000
-    },
-    {
       "id": 47467537,
-      "title": "Some Things Just Take Time",
+      "title": "Some things just take time",
       "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 28,
+      "score": 320,
       "author": "vaylian",
       "created": "2026-03-21 14:46:56",
       "created_at": 1774104416000
@@ -28,73 +19,82 @@
       "id": 47467567,
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "link": "https://grafeo.dev/",
-      "score": 28,
+      "score": 125,
       "author": "0x1997",
       "created": "2026-03-21 14:50:18",
       "created_at": 1774104618000
     },
     {
+      "id": 47435028,
+      "title": "How Invisalign became the biggest user of 3D printers",
+      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+      "score": 79,
+      "author": "mikhael",
+      "created": "2026-03-19 04:40:59",
+      "created_at": 1773895259000
+    },
+    {
+      "id": 47470773,
+      "title": "Tinybox- offline AI device 120B parameters",
+      "link": "https://tinygrad.org/#tinybox",
+      "score": 5,
+      "author": "albelfio",
+      "created": "2026-03-21 20:08:37",
+      "created_at": 1774123717000
+    },
+    {
+      "id": 47411110,
+      "title": "The seven hour explosion nobody could explain",
+      "link": "https://phys.org/news/2026-03-hour-explosion.html",
+      "score": 23,
+      "author": "mellosouls",
+      "created": "2026-03-17 11:14:23",
+      "created_at": 1773746063000
+    },
+    {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
-      "score": 1059,
+      "score": 1154,
       "author": "rbanffy",
       "created": "2026-03-20 21:03:52",
       "created_at": 1774040632000
     },
     {
-      "id": 47468209,
-      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
-      "link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
-      "score": 12,
-      "author": "akyuu",
-      "created": "2026-03-21 15:59:42",
-      "created_at": 1774108782000
+      "id": 47469949,
+      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "link": "https://github.com/pagel-s/termcraft",
+      "score": 9,
+      "author": "sebosch",
+      "created": "2026-03-21 18:42:38",
+      "created_at": 1774118558000
+    },
+    {
+      "id": 47431625,
+      "title": "ZJIT removes redundant object loads and stores",
+      "link": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+      "score": 53,
+      "author": "tekknolagi",
+      "created": "2026-03-18 21:26:23",
+      "created_at": 1773869183000
+    },
+    {
+      "id": 47467913,
+      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "score": 41,
+      "author": "Anon84",
+      "created": "2026-03-21 15:30:29",
+      "created_at": 1774107029000
     },
     {
       "id": 47421749,
       "title": "Meta's Omnilingual MT for 1,600 Languages",
       "link": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 68,
+      "score": 101,
       "author": "j0e1",
       "created": "2026-03-18 05:00:18",
       "created_at": 1773810018000
-    },
-    {
-      "id": 47419391,
-      "title": "Mamba-3",
-      "link": "https://www.together.ai/blog/mamba-3",
-      "score": 218,
-      "author": "matt_d",
-      "created": "2026-03-17 22:45:12",
-      "created_at": 1773787512000
-    },
-    {
-      "id": 47460452,
-      "title": "A Japanese glossary of chopsticks faux pas (2022)",
-      "link": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 376,
-      "author": "cainxinth",
-      "created": "2026-03-20 20:54:57",
-      "created_at": 1774040097000
-    },
-    {
-      "id": 47463547,
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 165,
-      "author": "vinhnx",
-      "created": "2026-03-21 02:47:13",
-      "created_at": 1774061233000
-    },
-    {
-      "id": 47428544,
-      "title": "How HN: Ironkernel – Python expressions, Rust parallel",
-      "link": "https://github.com/YuminosukeSato/ironkernel",
-      "score": 23,
-      "author": "acc_10000",
-      "created": "2026-03-18 17:22:04",
-      "created_at": 1773854524000
     }
   ],
   "code": 200,

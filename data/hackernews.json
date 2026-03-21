@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-21T16:17:18.022Z"
+    "lastUpdate": "2026-03-21T20:14:52.147Z"
   },
   "data": [
-    {
-      "id": 47442690,
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 1163,
-      "author": "0xedb",
-      "created": "2026-03-19 17:16:04",
-      "created_at": 1773940564000
-    },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
-      "score": 1059,
+      "score": 1154,
       "author": "rbanffy",
       "created": "2026-03-20 21:03:52",
       "created_at": 1774040632000
@@ -28,7 +19,7 @@
       "id": 47454341,
       "title": "I'm OK being left behind, thanks",
       "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
-      "score": 916,
+      "score": 935,
       "author": "coinfused",
       "created": "2026-03-20 13:38:56",
       "created_at": 1774013936000
@@ -37,25 +28,16 @@
       "id": 47450478,
       "title": "ArXiv declares independence from Cornell",
       "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 779,
+      "score": 787,
       "author": "bookstore-romeo",
       "created": "2026-03-20 04:24:11",
       "created_at": 1773980651000
     },
     {
-      "id": 47444319,
-      "title": "Delve – Fake Compliance as a Service",
-      "link": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 744,
-      "author": "freddykruger",
-      "created": "2026-03-19 19:08:02",
-      "created_at": 1773947282000
-    },
-    {
       "id": 47454782,
       "title": "Chuck Norris has died",
       "link": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-      "score": 736,
+      "score": 740,
       "author": "mp3il",
       "created": "2026-03-20 14:09:58",
       "created_at": 1774015798000
@@ -64,7 +46,7 @@
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 604,
+      "score": 612,
       "author": "MrDresden",
       "created": "2026-03-20 13:01:56",
       "created_at": 1774011716000
@@ -73,28 +55,46 @@
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 580,
+      "score": 598,
       "author": "hadrien01",
       "created": "2026-03-20 19:16:13",
       "created_at": 1774034173000
     },
     {
-      "id": 47441546,
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "link": "https://github.com/KittenML/KittenTTS",
-      "score": 543,
-      "author": "rohan_joshi",
-      "created": "2026-03-19 15:56:06",
-      "created_at": 1773935766000
-    },
-    {
       "id": 47444748,
       "title": "Anthropic takes legal action against OpenCode",
       "link": "https://github.com/anomalyco/opencode/pull/18186",
-      "score": 470,
+      "score": 472,
       "author": "_squared_",
       "created": "2026-03-19 19:37:26",
       "created_at": 1773949046000
+    },
+    {
+      "id": 47464818,
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+      "score": 425,
+      "author": "pabs3",
+      "created": "2026-03-21 07:30:16",
+      "created_at": 1774078216000
+    },
+    {
+      "id": 47460452,
+      "title": "A Japanese glossary of chopsticks faux pas (2022)",
+      "link": "https://www.nippon.com/en/japan-data/h01362/",
+      "score": 419,
+      "author": "cainxinth",
+      "created": "2026-03-20 20:54:57",
+      "created_at": 1774040097000
+    },
+    {
+      "id": 47448524,
+      "title": "Push events into a running session with channels",
+      "link": "https://code.claude.com/docs/en/channels",
+      "score": 396,
+      "author": "jasonjmcghee",
+      "created": "2026-03-20 00:22:08",
+      "created_at": 1773966128000
     }
   ],
   "code": 200,
