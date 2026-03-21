@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-21T12:26:37.945Z"
+    "lastUpdate": "2026-03-21T16:17:18.022Z"
   },
   "data": [
-    {
-      "id": 47438723,
-      "title": "Astral to Join OpenAI",
-      "link": "https://astral.sh/blog/openai",
-      "score": 1457,
-      "author": "ibraheemdev",
-      "created": "2026-03-19 13:05:50",
-      "created_at": 1773925550000
-    },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 1157,
+      "score": 1163,
       "author": "0xedb",
       "created": "2026-03-19 17:16:04",
       "created_at": 1773940564000
@@ -28,7 +19,7 @@
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
-      "score": 888,
+      "score": 1059,
       "author": "rbanffy",
       "created": "2026-03-20 21:03:52",
       "created_at": 1774040632000
@@ -37,7 +28,7 @@
       "id": 47454341,
       "title": "I'm OK being left behind, thanks",
       "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
-      "score": 877,
+      "score": 916,
       "author": "coinfused",
       "created": "2026-03-20 13:38:56",
       "created_at": 1774013936000
@@ -46,43 +37,34 @@
       "id": 47450478,
       "title": "ArXiv declares independence from Cornell",
       "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 765,
+      "score": 779,
       "author": "bookstore-romeo",
       "created": "2026-03-20 04:24:11",
       "created_at": 1773980651000
     },
     {
-      "id": 47454782,
-      "title": "Chuck Norris has died",
-      "link": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-      "score": 725,
-      "author": "mp3il",
-      "created": "2026-03-20 14:09:58",
-      "created_at": 1774015798000
-    },
-    {
       "id": 47444319,
       "title": "Delve – Fake Compliance as a Service",
       "link": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-      "score": 719,
+      "score": 744,
       "author": "freddykruger",
       "created": "2026-03-19 19:08:02",
       "created_at": 1773947282000
     },
     {
-      "id": 47437655,
-      "title": "“Your frustration is the product”",
-      "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "score": 589,
-      "author": "llm_nerd",
-      "created": "2026-03-19 11:34:24",
-      "created_at": 1773920064000
+      "id": 47454782,
+      "title": "Chuck Norris has died",
+      "link": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
+      "score": 736,
+      "author": "mp3il",
+      "created": "2026-03-20 14:09:58",
+      "created_at": 1774015798000
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 579,
+      "score": 604,
       "author": "MrDresden",
       "created": "2026-03-20 13:01:56",
       "created_at": 1774011716000
@@ -91,10 +73,28 @@
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 549,
+      "score": 580,
       "author": "hadrien01",
       "created": "2026-03-20 19:16:13",
       "created_at": 1774034173000
+    },
+    {
+      "id": 47441546,
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "link": "https://github.com/KittenML/KittenTTS",
+      "score": 543,
+      "author": "rohan_joshi",
+      "created": "2026-03-19 15:56:06",
+      "created_at": 1773935766000
+    },
+    {
+      "id": 47444748,
+      "title": "Anthropic takes legal action against OpenCode",
+      "link": "https://github.com/anomalyco/opencode/pull/18186",
+      "score": 470,
+      "author": "_squared_",
+      "created": "2026-03-19 19:37:26",
+      "created_at": 1773949046000
     }
   ],
   "code": 200,

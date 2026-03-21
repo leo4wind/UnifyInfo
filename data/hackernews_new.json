@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-21T12:26:38.069Z"
+    "lastUpdate": "2026-03-21T16:17:18.273Z"
   },
   "data": [
+    {
+      "id": 47467746,
+      "title": "404 Deno CEO not found",
+      "link": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+      "score": 59,
+      "author": "WhyNotHugo",
+      "created": "2026-03-21 15:10:54",
+      "created_at": 1774105854000
+    },
+    {
+      "id": 47467537,
+      "title": "Some Things Just Take Time",
+      "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 28,
+      "author": "vaylian",
+      "created": "2026-03-21 14:46:56",
+      "created_at": 1774104416000
+    },
+    {
+      "id": 47467567,
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "score": 28,
+      "author": "0x1997",
+      "created": "2026-03-21 14:50:18",
+      "created_at": 1774104618000
+    },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
-      "score": 888,
+      "score": 1059,
       "author": "rbanffy",
       "created": "2026-03-20 21:03:52",
       "created_at": 1774040632000
     },
     {
+      "id": 47468209,
+      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
+      "link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
+      "score": 12,
+      "author": "akyuu",
+      "created": "2026-03-21 15:59:42",
+      "created_at": 1774108782000
+    },
+    {
+      "id": 47421749,
+      "title": "Meta's Omnilingual MT for 1,600 Languages",
+      "link": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
+      "score": 68,
+      "author": "j0e1",
+      "created": "2026-03-18 05:00:18",
+      "created_at": 1773810018000
+    },
+    {
       "id": 47419391,
       "title": "Mamba-3",
       "link": "https://www.together.ai/blog/mamba-3",
-      "score": 157,
+      "score": 218,
       "author": "matt_d",
       "created": "2026-03-17 22:45:12",
       "created_at": 1773787512000
     },
     {
-      "id": 47465824,
-      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "link": "https://blog.atuin.sh/atuin-v18-13/",
-      "score": 33,
-      "author": "cenanozen",
-      "created": "2026-03-21 10:35:20",
-      "created_at": 1774089320000
-    },
-    {
-      "id": 47463547,
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 111,
-      "author": "vinhnx",
-      "created": "2026-03-21 02:47:13",
-      "created_at": 1774061233000
-    },
-    {
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas (2022)",
       "link": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 302,
+      "score": 376,
       "author": "cainxinth",
       "created": "2026-03-20 20:54:57",
       "created_at": 1774040097000
     },
     {
-      "id": 47455138,
-      "title": "Molly Guard",
-      "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 123,
-      "author": "surprisetalk",
-      "created": "2026-03-20 14:33:41",
-      "created_at": 1774017221000
+      "id": 47463547,
+      "title": "FFmpeg 101 (2024)",
+      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+      "score": 165,
+      "author": "vinhnx",
+      "created": "2026-03-21 02:47:13",
+      "created_at": 1774061233000
     },
     {
-      "id": 47435081,
-      "title": "Fujifilm X RAW STUDIO webapp clone",
-      "link": "https://github.com/eggricesoy/filmkit",
-      "score": 76,
-      "author": "notcodingtoday",
-      "created": "2026-03-19 04:49:33",
-      "created_at": 1773895773000
-    },
-    {
-      "id": 47414356,
-      "title": "We give every user SQL access to a shared ClickHouse cluster",
-      "link": "https://trigger.dev/blog/how-trql-works",
-      "score": 15,
-      "author": "eallam",
-      "created": "2026-03-17 15:50:03",
-      "created_at": 1773762603000
-    },
-    {
-      "id": 47461378,
-      "title": "Ghostling",
-      "link": "https://github.com/ghostty-org/ghostling",
-      "score": 238,
-      "author": "bjornroberg",
-      "created": "2026-03-20 22:11:37",
-      "created_at": 1774044697000
-    },
-    {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-      "link": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 234,
-      "author": "zahlekhan",
-      "created": "2026-03-20 21:48:06",
-      "created_at": 1774043286000
+      "id": 47428544,
+      "title": "How HN: Ironkernel – Python expressions, Rust parallel",
+      "link": "https://github.com/YuminosukeSato/ironkernel",
+      "score": 23,
+      "author": "acc_10000",
+      "created": "2026-03-18 17:22:04",
+      "created_at": 1773854524000
     }
   ],
   "code": 200,
