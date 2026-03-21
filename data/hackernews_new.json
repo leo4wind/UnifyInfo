@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-21T05:01:39.604Z"
+    "lastUpdate": "2026-03-21T08:20:16.060Z"
   },
   "data": [
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "link": "https://opencode.ai/",
-      "score": 574,
+      "score": 717,
       "author": "rbanffy",
       "created": "2026-03-20 21:03:52",
       "created_at": 1774040632000
     },
     {
+      "id": 47419391,
+      "title": "Mamba-3",
+      "link": "https://www.together.ai/blog/mamba-3",
+      "score": 87,
+      "author": "matt_d",
+      "created": "2026-03-17 22:45:12",
+      "created_at": 1773787512000
+    },
+    {
       "id": 47455138,
       "title": "Molly Guard",
       "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 35,
+      "score": 83,
       "author": "surprisetalk",
       "created": "2026-03-20 14:33:41",
       "created_at": 1774017221000
     },
     {
+      "id": 47463547,
+      "title": "FFmpeg 101 (2024)",
+      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+      "score": 50,
+      "author": "vinhnx",
+      "created": "2026-03-21 02:47:13",
+      "created_at": 1774061233000
+    },
+    {
       "id": 47461094,
       "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
       "link": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 144,
+      "score": 191,
       "author": "zahlekhan",
       "created": "2026-03-20 21:48:06",
       "created_at": 1774043286000
     },
     {
-      "id": 47453942,
-      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 514,
-      "author": "MrDresden",
-      "created": "2026-03-20 13:01:56",
-      "created_at": 1774011716000
-    },
-    {
-      "id": 47461378,
-      "title": "Ghostling",
-      "link": "https://github.com/ghostty-org/ghostling",
-      "score": 146,
-      "author": "bjornroberg",
-      "created": "2026-03-20 22:11:37",
-      "created_at": 1774044697000
+      "id": 47435081,
+      "title": "Fujifilm X RAW STUDIO webapp clone",
+      "link": "https://github.com/eggricesoy/filmkit",
+      "score": 25,
+      "author": "notcodingtoday",
+      "created": "2026-03-19 04:49:33",
+      "created_at": 1773895773000
     },
     {
       "id": 47460452,
       "title": "A Japanese glossary of chopsticks faux pas",
       "link": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 182,
+      "score": 237,
       "author": "cainxinth",
       "created": "2026-03-20 20:54:57",
       "created_at": 1774040097000
     },
     {
+      "id": 47461378,
+      "title": "Ghostling",
+      "link": "https://github.com/ghostty-org/ghostling",
+      "score": 188,
+      "author": "bjornroberg",
+      "created": "2026-03-20 22:11:37",
+      "created_at": 1774044697000
+    },
+    {
       "id": 47462483,
       "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
       "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-      "score": 51,
+      "score": 81,
       "author": "teleforce",
       "created": "2026-03-20 23:57:22",
       "created_at": 1774051042000
     },
     {
-      "id": 47428132,
-      "title": "The Ugliest Airplane: An Appreciation",
-      "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-      "score": 36,
-      "author": "randycupertino",
-      "created": "2026-03-18 16:52:58",
-      "created_at": 1773852778000
-    },
-    {
       "id": 47431653,
       "title": "A look at content scrambling in DVDs",
       "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-      "score": 7,
+      "score": 38,
       "author": "rvnx",
       "created": "2026-03-18 21:29:14",
       "created_at": 1773869354000
-    },
-    {
-      "id": 47458595,
-      "title": "Attention Residuals",
-      "link": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 142,
-      "author": "GaggiX",
-      "created": "2026-03-20 18:23:41",
-      "created_at": 1774031021000
     }
   ],
   "code": 200,
