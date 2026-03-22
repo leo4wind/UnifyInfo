@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-21T20:14:52.239Z"
+    "lastUpdate": "2026-03-22T01:14:51.381Z"
   },
   "data": [
     {
-      "id": 47467537,
-      "title": "Some things just take time",
-      "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 320,
-      "author": "vaylian",
-      "created": "2026-03-21 14:46:56",
-      "created_at": 1774104416000
-    },
-    {
-      "id": 47467567,
-      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
-      "link": "https://grafeo.dev/",
-      "score": 125,
-      "author": "0x1997",
-      "created": "2026-03-21 14:50:18",
-      "created_at": 1774104618000
-    },
-    {
-      "id": 47435028,
-      "title": "How Invisalign became the biggest user of 3D printers",
-      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-      "score": 79,
-      "author": "mikhael",
-      "created": "2026-03-19 04:40:59",
-      "created_at": 1773895259000
-    },
-    {
       "id": 47470773,
-      "title": "Tinybox- offline AI device 120B parameters",
+      "title": "Tinybox – Offline AI device 120B parameters",
       "link": "https://tinygrad.org/#tinybox",
-      "score": 5,
+      "score": 284,
       "author": "albelfio",
       "created": "2026-03-21 20:08:37",
       "created_at": 1774123717000
     },
     {
-      "id": 47411110,
-      "title": "The seven hour explosion nobody could explain",
-      "link": "https://phys.org/news/2026-03-hour-explosion.html",
-      "score": 23,
-      "author": "mellosouls",
-      "created": "2026-03-17 11:14:23",
-      "created_at": 1773746063000
+      "id": 47471601,
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "link": "https://tooscut.app/",
+      "score": 117,
+      "author": "mohebifar",
+      "created": "2026-03-21 21:27:50",
+      "created_at": 1774128470000
     },
     {
-      "id": 47460525,
-      "title": "OpenCode – Open source AI coding agent",
-      "link": "https://opencode.ai/",
-      "score": 1154,
-      "author": "rbanffy",
-      "created": "2026-03-20 21:03:52",
-      "created_at": 1774040632000
+      "id": 47473086,
+      "title": "Profiling Hacker News users based on their comments",
+      "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+      "score": 38,
+      "author": "simonw",
+      "created": "2026-03-22 00:30:19",
+      "created_at": 1774139419000
     },
     {
-      "id": 47469949,
-      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
-      "link": "https://github.com/pagel-s/termcraft",
-      "score": 9,
-      "author": "sebosch",
-      "created": "2026-03-21 18:42:38",
-      "created_at": 1774118558000
+      "id": 47467537,
+      "title": "Some things just take time",
+      "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 494,
+      "author": "vaylian",
+      "created": "2026-03-21 14:46:56",
+      "created_at": 1774104416000
     },
     {
-      "id": 47431625,
-      "title": "ZJIT removes redundant object loads and stores",
-      "link": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-      "score": 53,
-      "author": "tekknolagi",
-      "created": "2026-03-18 21:26:23",
-      "created_at": 1773869183000
+      "id": 47457570,
+      "title": "Boomloom: Think with your hands",
+      "link": "https://www.theboomloom.com",
+      "score": 35,
+      "author": "rasengan0",
+      "created": "2026-03-20 17:13:28",
+      "created_at": 1774026808000
     },
     {
-      "id": 47467913,
-      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "score": 41,
-      "author": "Anon84",
-      "created": "2026-03-21 15:30:29",
-      "created_at": 1774107029000
+      "id": 47470991,
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "score": 454,
+      "author": "smartmic",
+      "created": "2026-03-21 20:32:20",
+      "created_at": 1774125140000
     },
     {
-      "id": 47421749,
-      "title": "Meta's Omnilingual MT for 1,600 Languages",
-      "link": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 101,
-      "author": "j0e1",
-      "created": "2026-03-18 05:00:18",
-      "created_at": 1773810018000
+      "id": 47450142,
+      "title": "Trivy ecosystem supply chain briefly compromised",
+      "link": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "score": 14,
+      "author": "batch12",
+      "created": "2026-03-20 03:30:07",
+      "created_at": 1773977407000
+    },
+    {
+      "id": 47471943,
+      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "score": 32,
+      "author": "hacker_13",
+      "created": "2026-03-21 22:03:05",
+      "created_at": 1774130585000
+    },
+    {
+      "id": 47428953,
+      "title": "Bayesian statistics for confused data scientists",
+      "link": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "score": 39,
+      "author": "speckx",
+      "created": "2026-03-18 17:52:18",
+      "created_at": 1773856338000
+    },
+    {
+      "id": 47467567,
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "score": 184,
+      "author": "0x1997",
+      "created": "2026-03-21 14:50:18",
+      "created_at": 1774104618000
     }
   ],
   "code": 200,
