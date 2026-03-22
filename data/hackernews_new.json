@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-22T08:22:30.352Z"
+    "lastUpdate": "2026-03-22T12:28:26.222Z"
   },
   "data": [
+    {
+      "id": 47475686,
+      "title": "Hormuz Minesweeper – Are you tired of winning?",
+      "link": "https://hormuz.pythonic.ninja/",
+      "score": 278,
+      "author": "PythonicNinja",
+      "created": "2026-03-22 09:00:37",
+      "created_at": 1774170037000
+    },
+    {
+      "id": 47476422,
+      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "link": "https://github.com/danveloper/flash-moe",
+      "score": 37,
+      "author": "mft_",
+      "created": "2026-03-22 11:30:03",
+      "created_at": 1774179003000
+    },
+    {
+      "id": 47427224,
+      "title": "25 Years of Eggs",
+      "link": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
+      "score": 68,
+      "author": "avyfain",
+      "created": "2026-03-18 15:44:08",
+      "created_at": 1773848648000
+    },
     {
       "id": 47473718,
       "title": "The three pillars of JavaScript bloat",
       "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 196,
+      "score": 354,
       "author": "onlyspaceghost",
       "created": "2026-03-22 02:04:31",
       "created_at": 1774145071000
     },
     {
-      "id": 47470773,
-      "title": "Tinybox – A powerful computer for deep learning",
-      "link": "https://tinygrad.org/#tinybox",
-      "score": 466,
-      "author": "albelfio",
-      "created": "2026-03-21 20:08:37",
-      "created_at": 1774123717000
-    },
-    {
-      "id": 47475155,
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "link": "https://zenodo.org/records/18976656",
-      "score": 7,
-      "author": "rayanpal_",
-      "created": "2026-03-22 07:07:15",
-      "created_at": 1774163235000
+      "id": 47476707,
+      "title": "How We Synchronized Editing for Rec Room's Multiplayer Scripting System",
+      "link": "https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system",
+      "score": 4,
+      "author": "tyleo",
+      "created": "2026-03-22 12:14:06",
+      "created_at": 1774181646000
     },
     {
       "id": 47444909,
       "title": "My first patch to the Linux kernel",
       "link": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "score": 23,
+      "score": 134,
       "author": "pooladkhay",
       "created": "2026-03-19 19:51:07",
       "created_at": 1773949867000
     },
     {
+      "id": 47470773,
+      "title": "Tinybox – A powerful computer for deep learning",
+      "link": "https://tinygrad.org/#tinybox",
+      "score": 517,
+      "author": "albelfio",
+      "created": "2026-03-21 20:08:37",
+      "created_at": 1774123717000
+    },
+    {
       "id": 47467537,
       "title": "Some things just take time",
       "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 650,
+      "score": 743,
       "author": "vaylian",
       "created": "2026-03-21 14:46:56",
       "created_at": 1774104416000
     },
     {
+      "id": 47475155,
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "link": "https://zenodo.org/records/18976656",
+      "score": 33,
+      "author": "rayanpal_",
+      "created": "2026-03-22 07:07:15",
+      "created_at": 1774163235000
+    },
+    {
       "id": 47473279,
       "title": "Chest Fridge (2009)",
       "link": "https://mtbest.net/chest-fridge/",
-      "score": 88,
+      "score": 131,
       "author": "wolfi1",
       "created": "2026-03-22 01:02:10",
       "created_at": 1774141330000
-    },
-    {
-      "id": 47471601,
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "link": "https://tooscut.app/",
-      "score": 241,
-      "author": "mohebifar",
-      "created": "2026-03-21 21:27:50",
-      "created_at": 1774128470000
-    },
-    {
-      "id": 47471801,
-      "title": "Floci – A free, open-source local AWS emulator",
-      "link": "https://github.com/hectorvent/floci",
-      "score": 163,
-      "author": "shaicoleman",
-      "created": "2026-03-21 21:49:15",
-      "created_at": 1774129755000
-    },
-    {
-      "id": 47474255,
-      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-      "link": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 122,
-      "author": "winkelmann",
-      "created": "2026-03-22 03:43:51",
-      "created_at": 1774151031000
-    },
-    {
-      "id": 47432789,
-      "title": "Linking Smaller Haskell Binaries",
-      "link": "https://brandon.si/code/linking-smaller-haskell-binaries/",
-      "score": 5,
-      "author": "PaulHoule",
-      "created": "2026-03-18 23:41:38",
-      "created_at": 1773877298000
     }
   ],
   "code": 200,
