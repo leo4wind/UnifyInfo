@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-23T08:43:16.615Z"
+    "lastUpdate": "2026-03-23T12:41:09.975Z"
   },
   "data": [
+    {
+      "id": 47487436,
+      "title": "Migrating to the EU",
+      "link": "https://rz01.org/eu-migration/",
+      "score": 258,
+      "author": "exitnode",
+      "created": "2026-03-23 10:17:32",
+      "created_at": 1774261052000
+    },
+    {
+      "id": 47488015,
+      "title": "Attractive students no longer receive better results as classes moved online",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+      "score": 54,
+      "author": "jdthedisciple",
+      "created": "2026-03-23 11:31:19",
+      "created_at": 1774265479000
+    },
     {
       "id": 47486726,
       "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
       "link": "https://indieweb.org/POSSE",
-      "score": 13,
+      "score": 189,
       "author": "tosh",
       "created": "2026-03-23 08:29:27",
       "created_at": 1774254567000
     },
     {
+      "id": 47487584,
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "link": "https://www.theregister.com/2026/02/10/github_outages/",
+      "score": 90,
+      "author": "richtr",
+      "created": "2026-03-23 10:39:39",
+      "created_at": 1774262379000
+    },
+    {
       "id": 47480507,
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 588,
+      "score": 665,
       "author": "JumpCrisscross",
       "created": "2026-03-22 18:23:40",
       "created_at": 1774203820000
     },
     {
-      "id": 47453462,
-      "title": "Can you get root with only a cigarette lighter? (2024)",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html",
-      "score": 59,
-      "author": "HeliumHydride",
-      "created": "2026-03-20 12:11:35",
-      "created_at": 1774008695000
+      "id": 47458248,
+      "title": "General Motors Is Assisting with the Restoration of a Rare EV1",
+      "link": "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/",
+      "score": 18,
+      "author": "betacollector64",
+      "created": "2026-03-20 17:59:35",
+      "created_at": 1774029575000
+    },
+    {
+      "id": 47444812,
+      "title": "Walmart: ChatGPT checkout converted 3x worse than website",
+      "link": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+      "score": 144,
+      "author": "speckx",
+      "created": "2026-03-19 19:42:35",
+      "created_at": 1773949355000
+    },
+    {
+      "id": 47436592,
+      "title": "Bombadil: Property-based testing for web UIs by Antithesis",
+      "link": "https://github.com/antithesishq/bombadil",
+      "score": 7,
+      "author": "Klaster_1",
+      "created": "2026-03-19 08:53:36",
+      "created_at": 1773910416000
     },
     {
       "id": 47454647,
       "title": "Tin Can, a 'landline' for kids",
       "link": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
-      "score": 123,
+      "score": 181,
       "author": "tejohnso",
       "created": "2026-03-20 14:02:14",
       "created_at": 1774015334000
     },
     {
-      "id": 47486680,
-      "title": "Show HN: The King Wen Permutation: [52, 10, 2]",
-      "link": "https://gzw1987-bit.github.io/iching-math/",
-      "score": 4,
-      "author": "gezhengwen",
-      "created": "2026-03-23 08:21:57",
-      "created_at": 1774254117000
-    },
-    {
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 362,
+      "score": 420,
       "author": "mariuz",
       "created": "2026-03-22 19:02:43",
       "created_at": 1774206163000
-    },
-    {
-      "id": 47454127,
-      "title": "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
-      "link": "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies",
-      "score": 50,
-      "author": "andrenotgiant",
-      "created": "2026-03-20 13:21:51",
-      "created_at": 1774012911000
-    },
-    {
-      "id": 47478401,
-      "title": "The future of version control",
-      "link": "https://bramcohen.com/p/manyana",
-      "score": 515,
-      "author": "c17r",
-      "created": "2026-03-22 15:16:28",
-      "created_at": 1774192588000
-    },
-    {
-      "id": 47486135,
-      "title": "AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",
-      "link": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
-      "score": 8,
-      "author": "choubao",
-      "created": "2026-03-23 06:42:39",
-      "created_at": 1774248159000
-    },
-    {
-      "id": 47476315,
-      "title": "Reports of code's death are greatly exaggerated",
-      "link": "https://stevekrouse.com/precision",
-      "score": 393,
-      "author": "stevekrouse",
-      "created": "2026-03-22 11:09:34",
-      "created_at": 1774177774000
     }
   ],
   "code": 200,
