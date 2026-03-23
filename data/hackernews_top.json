@@ -3,23 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-23T01:15:56.403Z"
+    "lastUpdate": "2026-03-23T05:26:07.134Z"
   },
   "data": [
-    {
-      "id": 47484208,
-      "title": "Department of State advises Americans worldwide to exercise increased caution",
-      "link": "https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html",
-      "score": 13,
-      "author": "supernova215",
-      "created": "2026-03-23 01:02:56",
-      "created_at": 1774227776000
-    },
     {
       "id": 47480507,
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 305,
+      "score": 445,
       "author": "JumpCrisscross",
       "created": "2026-03-22 18:23:40",
       "created_at": 1774203820000
@@ -28,16 +19,25 @@
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 172,
+      "score": 295,
       "author": "mariuz",
       "created": "2026-03-22 19:02:43",
       "created_at": 1774206163000
     },
     {
+      "id": 47454647,
+      "title": "Tin Can, a 'landline' for kids",
+      "link": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+      "score": 56,
+      "author": "tejohnso",
+      "created": "2026-03-20 14:02:14",
+      "created_at": 1774015334000
+    },
+    {
       "id": 47478401,
       "title": "The future of version control",
       "link": "https://bramcohen.com/p/manyana",
-      "score": 397,
+      "score": 474,
       "author": "c17r",
       "created": "2026-03-22 15:16:28",
       "created_at": 1774192588000
@@ -46,52 +46,43 @@
       "id": 47476315,
       "title": "Reports of code's death are greatly exaggerated",
       "link": "https://stevekrouse.com/precision",
-      "score": 233,
+      "score": 332,
       "author": "stevekrouse",
       "created": "2026-03-22 11:09:34",
       "created_at": 1774177774000
     },
     {
+      "id": 47483830,
+      "title": "Migrating the American Express Payment Network, Twice",
+      "link": "https://americanexpress.io/migrating-the-payments-network-twice/",
+      "score": 52,
+      "author": "madflojo",
+      "created": "2026-03-23 00:15:10",
+      "created_at": 1774224910000
+    },
+    {
       "id": 47479751,
       "title": "Why I love NixOS",
       "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "score": 189,
+      "score": 256,
       "author": "birkey",
       "created": "2026-03-22 17:17:06",
       "created_at": 1774199826000
     },
     {
-      "id": 47425874,
-      "title": "LLMs predict my coffee",
-      "link": "https://dynomight.net/coffee/",
-      "score": 67,
-      "author": "surprisetalk",
-      "created": "2026-03-18 13:56:37",
-      "created_at": 1773842197000
-    },
-    {
-      "id": 47435127,
-      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
-      "link": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-      "score": 17,
-      "author": "davidklemke",
-      "created": "2026-03-19 04:56:25",
-      "created_at": 1773896185000
-    },
-    {
-      "id": 47482217,
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 201,
-      "author": "nothrowaways",
-      "created": "2026-03-22 21:14:11",
-      "created_at": 1774214051000
+      "id": 47484227,
+      "title": "Intuitions for Tranformer Circuits",
+      "link": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+      "score": 35,
+      "author": "cjamsonhn",
+      "created": "2026-03-23 01:06:35",
+      "created_at": 1774227995000
     },
     {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "link": "https://www.projectnomad.us",
-      "score": 357,
+      "score": 399,
       "author": "jensgk",
       "created": "2026-03-22 12:28:38",
       "created_at": 1774182518000
