@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-22T20:15:20.516Z"
+    "lastUpdate": "2026-03-23T01:15:56.267Z"
   },
   "data": [
-    {
-      "id": 47460525,
-      "title": "OpenCode – Open source AI coding agent",
-      "link": "https://opencode.ai/",
-      "score": 1236,
-      "author": "rbanffy",
-      "created": "2026-03-20 21:03:52",
-      "created_at": 1774040632000
-    },
     {
       "id": 47467537,
       "title": "Some things just take time",
       "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 803,
+      "score": 813,
       "author": "vaylian",
       "created": "2026-03-21 14:46:56",
       "created_at": 1774104416000
@@ -28,25 +19,16 @@
       "id": 47470991,
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 799,
+      "score": 811,
       "author": "smartmic",
       "created": "2026-03-21 20:32:20",
       "created_at": 1774125140000
     },
     {
-      "id": 47459296,
-      "title": "Our commitment to Windows quality",
-      "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 629,
-      "author": "hadrien01",
-      "created": "2026-03-20 19:16:13",
-      "created_at": 1774034173000
-    },
-    {
       "id": 47475686,
       "title": "Hormuz Minesweeper – Are you tired of winning?",
       "link": "https://hormuz.pythonic.ninja/",
-      "score": 582,
+      "score": 615,
       "author": "PythonicNinja",
       "created": "2026-03-22 09:00:37",
       "created_at": 1774170037000
@@ -55,7 +37,7 @@
       "id": 47470773,
       "title": "Tinybox – A powerful computer for deep learning",
       "link": "https://tinygrad.org/#tinybox",
-      "score": 568,
+      "score": 574,
       "author": "albelfio",
       "created": "2026-03-21 20:08:37",
       "created_at": 1774123717000
@@ -64,37 +46,55 @@
       "id": 47464818,
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 544,
+      "score": 552,
       "author": "pabs3",
       "created": "2026-03-21 07:30:16",
       "created_at": 1774078216000
     },
     {
-      "id": 47460452,
-      "title": "A Japanese glossary of chopsticks faux pas (2022)",
-      "link": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 480,
-      "author": "cainxinth",
-      "created": "2026-03-20 20:54:57",
-      "created_at": 1774040097000
-    },
-    {
       "id": 47473718,
       "title": "The three pillars of JavaScript bloat",
       "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 431,
+      "score": 444,
       "author": "onlyspaceghost",
       "created": "2026-03-22 02:04:31",
       "created_at": 1774145071000
     },
     {
+      "id": 47478401,
+      "title": "The future of version control",
+      "link": "https://bramcohen.com/p/manyana",
+      "score": 397,
+      "author": "c17r",
+      "created": "2026-03-22 15:16:28",
+      "created_at": 1774192588000
+    },
+    {
       "id": 47464134,
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 389,
+      "score": 393,
       "author": "akersten",
       "created": "2026-03-21 05:06:11",
       "created_at": 1774069571000
+    },
+    {
+      "id": 47474255,
+      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+      "score": 372,
+      "author": "winkelmann",
+      "created": "2026-03-22 03:43:51",
+      "created_at": 1774151031000
+    },
+    {
+      "id": 47476821,
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "link": "https://www.projectnomad.us",
+      "score": 357,
+      "author": "jensgk",
+      "created": "2026-03-22 12:28:38",
+      "created_at": 1774182518000
     }
   ],
   "code": 200,
