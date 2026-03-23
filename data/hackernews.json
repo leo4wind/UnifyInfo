@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-23T05:26:07.009Z"
+    "lastUpdate": "2026-03-23T08:43:16.512Z"
   },
   "data": [
     {
       "id": 47467537,
       "title": "Some things just take time",
       "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 815,
+      "score": 819,
       "author": "vaylian",
       "created": "2026-03-21 14:46:56",
       "created_at": 1774104416000
@@ -19,7 +19,7 @@
       "id": 47470991,
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 813,
+      "score": 817,
       "author": "smartmic",
       "created": "2026-03-21 20:32:20",
       "created_at": 1774125140000
@@ -28,34 +28,34 @@
       "id": 47475686,
       "title": "Hormuz Minesweeper – Are you tired of winning?",
       "link": "https://hormuz.pythonic.ninja/",
-      "score": 623,
+      "score": 628,
       "author": "PythonicNinja",
       "created": "2026-03-22 09:00:37",
       "created_at": 1774170037000
     },
     {
+      "id": 47480507,
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 588,
+      "author": "JumpCrisscross",
+      "created": "2026-03-22 18:23:40",
+      "created_at": 1774203820000
+    },
+    {
       "id": 47470773,
       "title": "Tinybox – A powerful computer for deep learning",
       "link": "https://tinygrad.org/#tinybox",
-      "score": 577,
+      "score": 581,
       "author": "albelfio",
       "created": "2026-03-21 20:08:37",
       "created_at": 1774123717000
     },
     {
-      "id": 47464818,
-      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
-      "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 555,
-      "author": "pabs3",
-      "created": "2026-03-21 07:30:16",
-      "created_at": 1774078216000
-    },
-    {
       "id": 47478401,
       "title": "The future of version control",
       "link": "https://bramcohen.com/p/manyana",
-      "score": 474,
+      "score": 515,
       "author": "c17r",
       "created": "2026-03-22 15:16:28",
       "created_at": 1774192588000
@@ -64,37 +64,37 @@
       "id": 47473718,
       "title": "The three pillars of JavaScript bloat",
       "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 457,
+      "score": 462,
       "author": "onlyspaceghost",
       "created": "2026-03-22 02:04:31",
       "created_at": 1774145071000
     },
     {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 445,
-      "author": "JumpCrisscross",
-      "created": "2026-03-22 18:23:40",
-      "created_at": 1774203820000
-    },
-    {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "link": "https://www.projectnomad.us",
-      "score": 399,
+      "score": 439,
       "author": "jensgk",
       "created": "2026-03-22 12:28:38",
       "created_at": 1774182518000
     },
     {
-      "id": 47464134,
-      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 394,
-      "author": "akersten",
-      "created": "2026-03-21 05:06:11",
-      "created_at": 1774069571000
+      "id": 47475938,
+      "title": "Windows native app development is a mess",
+      "link": "https://domenic.me/windows-native-dev/",
+      "score": 415,
+      "author": "domenicd",
+      "created": "2026-03-22 09:57:31",
+      "created_at": 1774173451000
+    },
+    {
+      "id": 47482217,
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "score": 393,
+      "author": "nothrowaways",
+      "created": "2026-03-22 21:14:11",
+      "created_at": 1774214051000
     }
   ],
   "code": 200,
