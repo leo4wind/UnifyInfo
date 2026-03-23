@@ -3,32 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-23T12:41:09.975Z"
+    "lastUpdate": "2026-03-23T16:45:18.512Z"
   },
   "data": [
+    {
+      "id": 47491496,
+      "title": "Is it a pint?",
+      "link": "https://isitapint.com/",
+      "score": 38,
+      "author": "cainxinth",
+      "created": "2026-03-23 16:13:40",
+      "created_at": 1774282420000
+    },
+    {
+      "id": 47491414,
+      "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
+      "link": "https://github.com/jer-irl/threadprocs",
+      "score": 13,
+      "author": "jer-irl",
+      "created": "2026-03-23 16:08:01",
+      "created_at": 1774282081000
+    },
+    {
+      "id": 47490070,
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "link": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 105,
+      "author": "anemll",
+      "created": "2026-03-23 14:30:10",
+      "created_at": 1774276210000
+    },
+    {
+      "id": 47436592,
+      "title": "Bombadil: Property-based testing for web UIs",
+      "link": "https://github.com/antithesishq/bombadil",
+      "score": 151,
+      "author": "Klaster_1",
+      "created": "2026-03-19 08:53:36",
+      "created_at": 1773910416000
+    },
+    {
+      "id": 47490365,
+      "title": "If DSPy is so great, why isn't anyone using it?",
+      "link": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+      "score": 112,
+      "author": "sbpayne",
+      "created": "2026-03-23 14:52:52",
+      "created_at": 1774277572000
+    },
+    {
+      "id": 47437005,
+      "title": "An unsolicited guide to being a researcher [pdf]",
+      "link": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+      "score": 80,
+      "author": "sebg",
+      "created": "2026-03-19 10:00:42",
+      "created_at": 1773914442000
+    },
+    {
+      "id": 47490816,
+      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+      "link": "https://www.cyber.mil/stigs/downloads",
+      "score": 48,
+      "author": "Eduard",
+      "created": "2026-03-23 15:25:04",
+      "created_at": 1774279504000
+    },
     {
       "id": 47487436,
       "title": "Migrating to the EU",
       "link": "https://rz01.org/eu-migration/",
-      "score": 258,
+      "score": 608,
       "author": "exitnode",
       "created": "2026-03-23 10:17:32",
       "created_at": 1774261052000
     },
     {
-      "id": 47488015,
-      "title": "Attractive students no longer receive better results as classes moved online",
-      "link": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
-      "score": 54,
-      "author": "jdthedisciple",
-      "created": "2026-03-23 11:31:19",
-      "created_at": 1774265479000
-    },
-    {
       "id": 47486726,
       "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
       "link": "https://indieweb.org/POSSE",
-      "score": 189,
+      "score": 335,
       "author": "tosh",
       "created": "2026-03-23 08:29:27",
       "created_at": 1774254567000
@@ -37,64 +91,10 @@
       "id": 47487584,
       "title": "GitHub appears to be struggling with measly three nines availability",
       "link": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 90,
+      "score": 312,
       "author": "richtr",
       "created": "2026-03-23 10:39:39",
       "created_at": 1774262379000
-    },
-    {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 665,
-      "author": "JumpCrisscross",
-      "created": "2026-03-22 18:23:40",
-      "created_at": 1774203820000
-    },
-    {
-      "id": 47458248,
-      "title": "General Motors Is Assisting with the Restoration of a Rare EV1",
-      "link": "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/",
-      "score": 18,
-      "author": "betacollector64",
-      "created": "2026-03-20 17:59:35",
-      "created_at": 1774029575000
-    },
-    {
-      "id": 47444812,
-      "title": "Walmart: ChatGPT checkout converted 3x worse than website",
-      "link": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
-      "score": 144,
-      "author": "speckx",
-      "created": "2026-03-19 19:42:35",
-      "created_at": 1773949355000
-    },
-    {
-      "id": 47436592,
-      "title": "Bombadil: Property-based testing for web UIs by Antithesis",
-      "link": "https://github.com/antithesishq/bombadil",
-      "score": 7,
-      "author": "Klaster_1",
-      "created": "2026-03-19 08:53:36",
-      "created_at": 1773910416000
-    },
-    {
-      "id": 47454647,
-      "title": "Tin Can, a 'landline' for kids",
-      "link": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
-      "score": 181,
-      "author": "tejohnso",
-      "created": "2026-03-20 14:02:14",
-      "created_at": 1774015334000
-    },
-    {
-      "id": 47480886,
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 420,
-      "author": "mariuz",
-      "created": "2026-03-22 19:02:43",
-      "created_at": 1774206163000
     }
   ],
   "code": 200,
