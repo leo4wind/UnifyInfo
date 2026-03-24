@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-24T05:19:12.211Z"
+    "lastUpdate": "2026-03-24T08:39:09.637Z"
   },
   "data": [
     {
-      "id": 47497757,
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "score": 188,
-      "author": "in-silico",
-      "created": "2026-03-24 01:53:09",
-      "created_at": 1774317189000
+      "id": 47488686,
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "link": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "score": 99,
+      "author": "jackhogan11",
+      "created": "2026-03-23 12:42:00",
+      "created_at": 1774269720000
     },
     {
-      "id": 47498509,
-      "title": "Box of Secrets: Discreetly modding an apartment intercom with Matter",
-      "link": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 18,
-      "author": "swq115",
-      "created": "2026-03-24 04:11:46",
-      "created_at": 1774325506000
+      "id": 47498924,
+      "title": "Log File Viewer for the Terminal",
+      "link": "https://lnav.org/",
+      "score": 81,
+      "author": "wiradikusuma",
+      "created": "2026-03-24 05:32:53",
+      "created_at": 1774330373000
+    },
+    {
+      "id": 47499672,
+      "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+      "link": "https://proofshot.argil.io/",
+      "score": 8,
+      "author": "jberthom",
+      "created": "2026-03-24 07:46:46",
+      "created_at": 1774338406000
+    },
+    {
+      "id": 47469744,
+      "title": "BIO – The Bao I/O Co-Processor",
+      "link": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
+      "score": 32,
+      "author": "hasheddan",
+      "created": "2026-03-21 18:21:01",
+      "created_at": 1774117261000
     },
     {
       "id": 47493460,
       "title": "Autoresearch on an old research idea",
       "link": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 320,
+      "score": 351,
       "author": "ykumards",
       "created": "2026-03-23 18:40:58",
       "created_at": 1774291258000
     },
     {
-      "id": 47495344,
-      "title": "FCC updates covered list to include foreign-made consumer routers",
-      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 254,
-      "author": "moonka",
-      "created": "2026-03-23 21:28:02",
-      "created_at": 1774301282000
-    },
-    {
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "link": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 535,
+      "score": 595,
       "author": "anemll",
       "created": "2026-03-23 14:30:10",
       "created_at": 1774276210000
     },
     {
-      "id": 47453398,
-      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "link": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-      "score": 50,
-      "author": "pseudolus",
-      "created": "2026-03-20 12:02:00",
-      "created_at": 1774008120000
+      "id": 47497757,
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "score": 316,
+      "author": "in-silico",
+      "created": "2026-03-24 01:53:09",
+      "created_at": 1774317189000
     },
     {
-      "id": 47491466,
-      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-      "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "score": 100,
-      "author": "peteski22",
-      "created": "2026-03-23 16:11:03",
-      "created_at": 1774282263000
-    },
-    {
-      "id": 47429393,
-      "title": "Abusing Customizable Selects",
-      "link": "https://css-tricks.com/abusing-customizable-selects/",
-      "score": 67,
-      "author": "speckx",
-      "created": "2026-03-18 18:23:10",
-      "created_at": 1773858190000
+      "id": 47495344,
+      "title": "FCC updates covered list to include foreign-made consumer routers",
+      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 302,
+      "author": "moonka",
+      "created": "2026-03-23 21:28:02",
+      "created_at": 1774301282000
     },
     {
       "id": 47444387,
       "title": "Gerd Faltings, who proved the Mordell conjecture, wins the Abel Prize",
       "link": "https://www.scientificamerican.com/article/gerd-faltings-mathematician-who-proved-the-mordell-conjecture-wins-the-abel/",
-      "score": 10,
+      "score": 28,
       "author": "digital55",
       "created": "2026-03-19 19:12:36",
       "created_at": 1773947556000
     },
     {
-      "id": 47495719,
-      "title": "The Resolv hack: How one compromised key printed $23M",
-      "link": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-      "score": 74,
-      "author": "timbowhite",
-      "created": "2026-03-23 22:01:15",
-      "created_at": 1774303275000
+      "id": 47491466,
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "score": 135,
+      "author": "peteski22",
+      "created": "2026-03-23 16:11:03",
+      "created_at": 1774282263000
     }
   ],
   "code": 200,
