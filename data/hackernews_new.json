@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-24T16:51:47.077Z"
+    "lastUpdate": "2026-03-24T20:31:21.927Z"
   },
   "data": [
     {
-      "id": 47501729,
-      "title": "LiteLLM Python package compromised by supply-chain attack",
-      "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 535,
-      "author": "theanonymousone",
-      "created": "2026-03-24 12:36:20",
-      "created_at": 1774355780000
+      "id": 47503810,
+      "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+      "link": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+      "score": 121,
+      "author": "doughnutstracks",
+      "created": "2026-03-24 15:09:30",
+      "created_at": 1774364970000
     },
     {
-      "id": 47504615,
-      "title": "No Terms. No Conditions",
-      "link": "https://notermsnoconditions.com",
-      "score": 58,
-      "author": "bayneri",
-      "created": "2026-03-24 15:58:04",
-      "created_at": 1774367884000
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 171,
+      "author": "RealityVoid",
+      "created": "2026-03-24 17:30:42",
+      "created_at": 1774373442000
     },
     {
-      "id": 47504094,
-      "title": "Hypothesis, Antithesis, Synthesis",
-      "link": "https://antithesis.com/blog/2026/hegel/",
-      "score": 56,
-      "author": "alpaylan",
-      "created": "2026-03-24 15:28:17",
-      "created_at": 1774366097000
+      "id": 47504112,
+      "title": "Apple Business",
+      "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 291,
+      "author": "soheilpro",
+      "created": "2026-03-24 15:29:41",
+      "created_at": 1774366181000
     },
     {
       "id": 47504695,
-      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "link": "https://github.com/t8/hypura",
-      "score": 22,
+      "score": 159,
       "author": "tatef",
       "created": "2026-03-24 16:02:22",
       "created_at": 1774368142000
     },
     {
-      "id": 47503965,
-      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "link": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "score": 126,
-      "author": "m_fayer",
-      "created": "2026-03-24 15:19:19",
-      "created_at": 1774365559000
+      "id": 47501426,
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "link": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 234,
+      "author": "dot_treo",
+      "created": "2026-03-24 12:06:29",
+      "created_at": 1774353989000
     },
     {
-      "id": 47504498,
-      "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
-      "link": "https://github.com/wolfssl/wolfguard",
+      "id": 47507150,
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "score": 234,
+      "author": "felineflock",
+      "created": "2026-03-24 18:34:52",
+      "created_at": 1774377292000
+    },
+    {
+      "id": 47506641,
+      "title": "ARM AGI CPU: Specs and SKUs",
+      "link": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+      "score": 74,
+      "author": "HeyMeco",
+      "created": "2026-03-24 17:59:16",
+      "created_at": 1774375156000
+    },
+    {
+      "id": 47504094,
+      "title": "Hypothesis, Antithesis, synthesis",
+      "link": "https://antithesis.com/blog/2026/hegel/",
+      "score": 145,
+      "author": "alpaylan",
+      "created": "2026-03-24 15:28:17",
+      "created_at": 1774366097000
+    },
+    {
+      "id": 47505144,
+      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+      "link": "https://www.emailmd.dev/",
+      "score": 102,
+      "author": "dancablam",
+      "created": "2026-03-24 16:26:00",
+      "created_at": 1774369560000
+    },
+    {
+      "id": 47508149,
+      "title": "Welcome to FastMCP",
+      "link": "https://gofastmcp.com/getting-started/welcome",
       "score": 10,
-      "author": "789c789c789c",
-      "created": "2026-03-24 15:51:55",
-      "created_at": 1774367515000
-    },
-    {
-      "id": 47503617,
-      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-      "link": "https://github.com/ssrajadh/sentrysearch",
-      "score": 31,
-      "author": "sohamrj",
-      "created": "2026-03-24 14:58:27",
-      "created_at": 1774364307000
-    },
-    {
-      "id": 47501211,
-      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
-      "link": "https://nanobrew.trilok.ai/",
-      "score": 83,
-      "author": "syrusakbary",
-      "created": "2026-03-24 11:40:21",
-      "created_at": 1774352421000
-    },
-    {
-      "id": 47477525,
-      "title": "Testing the Swift C compatibility with Raylib (+WASM)",
-      "link": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
-      "score": 17,
-      "author": "LucidLynx",
-      "created": "2026-03-22 13:47:57",
-      "created_at": 1774187277000
-    },
-    {
-      "id": 47500335,
-      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 715,
-      "author": "h0ek",
-      "created": "2026-03-24 09:36:29",
-      "created_at": 1774344989000
+      "author": "Anon84",
+      "created": "2026-03-24 19:53:51",
+      "created_at": 1774382031000
     }
   ],
   "code": 200,
