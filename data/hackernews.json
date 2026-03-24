@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-23T20:28:32.095Z"
+    "lastUpdate": "2026-03-24T01:08:29.001Z"
   },
   "data": [
-    {
-      "id": 47470991,
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 827,
-      "author": "smartmic",
-      "created": "2026-03-21 20:32:20",
-      "created_at": 1774125140000
-    },
-    {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 795,
-      "author": "JumpCrisscross",
-      "created": "2026-03-22 18:23:40",
-      "created_at": 1774203820000
-    },
     {
       "id": 47487436,
       "title": "Migrating to the EU",
       "link": "https://rz01.org/eu-migration/",
-      "score": 750,
+      "score": 824,
       "author": "exitnode",
       "created": "2026-03-23 10:17:32",
       "created_at": 1774261052000
     },
     {
+      "id": 47480507,
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 811,
+      "author": "JumpCrisscross",
+      "created": "2026-03-22 18:23:40",
+      "created_at": 1774203820000
+    },
+    {
       "id": 47475686,
       "title": "Hormuz Minesweeper – Are you tired of winning?",
       "link": "https://hormuz.pythonic.ninja/",
-      "score": 646,
+      "score": 647,
       "author": "PythonicNinja",
       "created": "2026-03-22 09:00:37",
       "created_at": 1774170037000
@@ -46,34 +37,16 @@
       "id": 47478401,
       "title": "The future of version control",
       "link": "https://bramcohen.com/p/manyana",
-      "score": 637,
+      "score": 642,
       "author": "c17r",
       "created": "2026-03-22 15:16:28",
       "created_at": 1774192588000
     },
     {
-      "id": 47470773,
-      "title": "Tinybox – A powerful computer for deep learning",
-      "link": "https://tinygrad.org/#tinybox",
-      "score": 586,
-      "author": "albelfio",
-      "created": "2026-03-21 20:08:37",
-      "created_at": 1774123717000
-    },
-    {
-      "id": 47476821,
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "link": "https://www.projectnomad.us",
-      "score": 569,
-      "author": "jensgk",
-      "created": "2026-03-22 12:28:38",
-      "created_at": 1774182518000
-    },
-    {
       "id": 47482217,
       "title": "GrapheneOS will remain usable by anyone without requiring personal information",
       "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 568,
+      "score": 585,
       "author": "nothrowaways",
       "created": "2026-03-22 21:14:11",
       "created_at": 1774214051000
@@ -82,19 +55,46 @@
       "id": 47476315,
       "title": "Reports of code's death are greatly exaggerated",
       "link": "https://stevekrouse.com/precision",
-      "score": 561,
+      "score": 578,
       "author": "stevekrouse",
       "created": "2026-03-22 11:09:34",
       "created_at": 1774177774000
     },
     {
+      "id": 47476821,
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "link": "https://www.projectnomad.us",
+      "score": 575,
+      "author": "jensgk",
+      "created": "2026-03-22 12:28:38",
+      "created_at": 1774182518000
+    },
+    {
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 546,
+      "score": 567,
       "author": "mariuz",
       "created": "2026-03-22 19:02:43",
       "created_at": 1774206163000
+    },
+    {
+      "id": 47490070,
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "link": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 474,
+      "author": "anemll",
+      "created": "2026-03-23 14:30:10",
+      "created_at": 1774276210000
+    },
+    {
+      "id": 47473718,
+      "title": "The three pillars of JavaScript bloat",
+      "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "score": 472,
+      "author": "onlyspaceghost",
+      "created": "2026-03-22 02:04:31",
+      "created_at": 1774145071000
     }
   ],
   "code": 200,

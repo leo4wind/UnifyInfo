@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-23T20:28:32.284Z"
+    "lastUpdate": "2026-03-24T01:08:29.212Z"
   },
   "data": [
+    {
+      "id": 47496221,
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "link": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "score": 106,
+      "author": "justsomehnguy",
+      "created": "2026-03-23 22:52:35",
+      "created_at": 1774306355000
+    },
+    {
+      "id": 47495344,
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 146,
+      "author": "moonka",
+      "created": "2026-03-23 21:28:02",
+      "created_at": 1774301282000
+    },
     {
       "id": 47493460,
       "title": "Autoresearch on an old research idea",
       "link": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 125,
+      "score": 261,
       "author": "ykumards",
       "created": "2026-03-23 18:40:58",
       "created_at": 1774291258000
@@ -19,82 +37,64 @@
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "link": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 343,
+      "score": 474,
       "author": "anemll",
       "created": "2026-03-23 14:30:10",
       "created_at": 1774276210000
     },
     {
+      "id": 47467719,
+      "title": "Ju Ci: The Art of Repairing Porcelain",
+      "link": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "score": 46,
+      "author": "lawrenceyan",
+      "created": "2026-03-21 15:07:29",
+      "created_at": 1774105649000
+    },
+    {
+      "id": 47491466,
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "score": 50,
+      "author": "peteski22",
+      "created": "2026-03-23 16:11:03",
+      "created_at": 1774282263000
+    },
+    {
+      "id": 47496089,
+      "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+      "link": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+      "score": 23,
+      "author": "zdw",
+      "created": "2026-03-23 22:37:15",
+      "created_at": 1774305435000
+    },
+    {
+      "id": 47495527,
+      "title": "Claude Code Cheat Sheet",
+      "link": "https://cc.storyfox.cz",
+      "score": 126,
+      "author": "phasE89",
+      "created": "2026-03-23 21:44:20",
+      "created_at": 1774302260000
+    },
+    {
       "id": 47493657,
       "title": "Local Stack Archived their GitHub repo and requires an account to run",
       "link": "https://github.com/localstack/localstack",
-      "score": 48,
+      "score": 151,
       "author": "ecshafer",
       "created": "2026-03-23 18:57:08",
       "created_at": 1774292228000
     },
     {
-      "id": 47475888,
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "score": 108,
-      "author": "jicea",
-      "created": "2026-03-22 09:45:14",
-      "created_at": 1774172714000
-    },
-    {
       "id": 47443903,
       "title": "Finding all regex matches has always been O(n²)",
       "link": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "score": 69,
+      "score": 151,
       "author": "lalitmaganti",
       "created": "2026-03-19 18:40:02",
       "created_at": 1773945602000
-    },
-    {
-      "id": 47493194,
-      "title": "AI Risks \"Hypernormal\" Science",
-      "link": "https://www.asimov.press/p/ai-science",
-      "score": 21,
-      "author": "mailyk",
-      "created": "2026-03-23 18:19:05",
-      "created_at": 1774289945000
-    },
-    {
-      "id": 47459363,
-      "title": "BIO: The Bao I/O Coprocessor",
-      "link": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
-      "score": 74,
-      "author": "zdw",
-      "created": "2026-03-20 19:20:49",
-      "created_at": 1774034449000
-    },
-    {
-      "id": 47492599,
-      "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
-      "link": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
-      "score": 201,
-      "author": "lode",
-      "created": "2026-03-23 17:35:38",
-      "created_at": 1774287338000
-    },
-    {
-      "id": 47490816,
-      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
-      "link": "https://www.cyber.mil/stigs/downloads",
-      "score": 138,
-      "author": "Eduard",
-      "created": "2026-03-23 15:25:04",
-      "created_at": 1774279504000
-    },
-    {
-      "id": 47436592,
-      "title": "Bombadil: Property-based testing for web UIs",
-      "link": "https://github.com/antithesishq/bombadil",
-      "score": 203,
-      "author": "Klaster_1",
-      "created": "2026-03-19 08:53:36",
-      "created_at": 1773910416000
     }
   ],
   "code": 200,
