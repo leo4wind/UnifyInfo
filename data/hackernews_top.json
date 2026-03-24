@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-24T12:45:18.216Z"
+    "lastUpdate": "2026-03-24T16:51:46.929Z"
   },
   "data": [
+    {
+      "id": 47501729,
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "link": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 535,
+      "author": "theanonymousone",
+      "created": "2026-03-24 12:36:20",
+      "created_at": 1774355780000
+    },
+    {
+      "id": 47504615,
+      "title": "No Terms. No Conditions",
+      "link": "https://notermsnoconditions.com",
+      "score": 58,
+      "author": "bayneri",
+      "created": "2026-03-24 15:58:04",
+      "created_at": 1774367884000
+    },
+    {
+      "id": 47504094,
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "link": "https://antithesis.com/blog/2026/hegel/",
+      "score": 56,
+      "author": "alpaylan",
+      "created": "2026-03-24 15:28:17",
+      "created_at": 1774366097000
+    },
+    {
+      "id": 47504695,
+      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "link": "https://github.com/t8/hypura",
+      "score": 22,
+      "author": "tatef",
+      "created": "2026-03-24 16:02:22",
+      "created_at": 1774368142000
+    },
+    {
+      "id": 47503965,
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "link": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "score": 126,
+      "author": "m_fayer",
+      "created": "2026-03-24 15:19:19",
+      "created_at": 1774365559000
+    },
+    {
+      "id": 47504498,
+      "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
+      "link": "https://github.com/wolfssl/wolfguard",
+      "score": 10,
+      "author": "789c789c789c",
+      "created": "2026-03-24 15:51:55",
+      "created_at": 1774367515000
+    },
+    {
+      "id": 47503617,
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "link": "https://github.com/ssrajadh/sentrysearch",
+      "score": 31,
+      "author": "sohamrj",
+      "created": "2026-03-24 14:58:27",
+      "created_at": 1774364307000
+    },
+    {
+      "id": 47501211,
+      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+      "link": "https://nanobrew.trilok.ai/",
+      "score": 83,
+      "author": "syrusakbary",
+      "created": "2026-03-24 11:40:21",
+      "created_at": 1774352421000
+    },
+    {
+      "id": 47477525,
+      "title": "Testing the Swift C compatibility with Raylib (+WASM)",
+      "link": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
+      "score": 17,
+      "author": "LucidLynx",
+      "created": "2026-03-22 13:47:57",
+      "created_at": 1774187277000
+    },
     {
       "id": 47500335,
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 337,
+      "score": 715,
       "author": "h0ek",
       "created": "2026-03-24 09:36:29",
       "created_at": 1774344989000
-    },
-    {
-      "id": 47499721,
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "link": "https://www.web-rewind.com",
-      "score": 101,
-      "author": "thushanfernando",
-      "created": "2026-03-24 07:54:02",
-      "created_at": 1774338842000
-    },
-    {
-      "id": 47499245,
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "link": "https://burntsushi.net/ripgrep/",
-      "score": 118,
-      "author": "jxmorris12",
-      "created": "2026-03-24 06:31:39",
-      "created_at": 1774333899000
-    },
-    {
-      "id": 47488686,
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "link": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 187,
-      "author": "jackhogan11",
-      "created": "2026-03-23 12:42:00",
-      "created_at": 1774269720000
-    },
-    {
-      "id": 47498924,
-      "title": "Log File Viewer for the Terminal",
-      "link": "https://lnav.org/",
-      "score": 203,
-      "author": "wiradikusuma",
-      "created": "2026-03-24 05:32:53",
-      "created_at": 1774330373000
-    },
-    {
-      "id": 47500746,
-      "title": "Debunking Zswap and Zram Myths",
-      "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 32,
-      "author": "javierhonduco",
-      "created": "2026-03-24 10:39:21",
-      "created_at": 1774348761000
-    },
-    {
-      "id": 47500522,
-      "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
-      "link": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
-      "score": 23,
-      "author": "astralbijection",
-      "created": "2026-03-24 10:06:02",
-      "created_at": 1774346762000
-    },
-    {
-      "id": 47467543,
-      "title": "MSA: Memory Sparse Attention",
-      "link": "https://github.com/EverMind-AI/MSA",
-      "score": 33,
-      "author": "chaosprint",
-      "created": "2026-03-21 14:47:58",
-      "created_at": 1774104478000
-    },
-    {
-      "id": 47490070,
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "link": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 646,
-      "author": "anemll",
-      "created": "2026-03-23 14:30:10",
-      "created_at": 1774276210000
-    },
-    {
-      "id": 47469744,
-      "title": "BIO – The Bao I/O Co-Processor",
-      "link": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "score": 55,
-      "author": "hasheddan",
-      "created": "2026-03-21 18:21:01",
-      "created_at": 1774117261000
     }
   ],
   "code": 200,
