@@ -3,95 +3,95 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-25T16:53:20.454Z"
+    "lastUpdate": "2026-03-25T20:28:40.010Z"
   },
   "data": [
     {
-      "id": 47516650,
-      "title": "Local LLM App by Ente",
-      "link": "https://ente.com/blog/ensu/",
-      "score": 216,
-      "author": "matthiaswh",
-      "created": "2026-03-25 12:49:14",
-      "created_at": 1774442954000
+      "id": 47521876,
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "score": 46,
+      "author": "zdw",
+      "created": "2026-03-25 19:14:42",
+      "created_at": 1774466082000
+    },
+    {
+      "id": 47521150,
+      "title": "ARC-AGI-3",
+      "link": "https://arcprize.org/arc-agi/3",
+      "score": 77,
+      "author": "lairv",
+      "created": "2026-03-25 18:16:03",
+      "created_at": 1774462563000
     },
     {
       "id": 47477873,
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "link": "https://rpastro.square.site/s/stories/phm",
-      "score": 306,
+      "score": 566,
       "author": "wallflower",
       "created": "2026-03-22 14:28:06",
       "created_at": 1774189686000
     },
     {
-      "id": 47517539,
-      "title": "Thoughts on Slowing the Fuck Down",
-      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 80,
-      "author": "jdkoeck",
-      "created": "2026-03-25 14:07:14",
-      "created_at": 1774447634000
+      "id": 47516650,
+      "title": "Ensu – Ente’s Local LLM app",
+      "link": "https://ente.com/blog/ensu/",
+      "score": 298,
+      "author": "matthiaswh",
+      "created": "2026-03-25 12:49:14",
+      "created_at": 1774442954000
     },
     {
-      "id": 47519519,
-      "title": "Slovenian officials catch Israeli firm Black Cube trying to manipulate vote",
-      "link": "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a",
-      "score": 59,
-      "author": "cramsession",
-      "created": "2026-03-25 16:24:15",
-      "created_at": 1774455855000
-    },
-    {
-      "id": 47518785,
-      "title": "Sony V. Cox Decision Reversed",
-      "link": "https://supreme.justia.com/cases/federal/us/607/24-171/",
-      "score": 22,
-      "author": "rileymichael",
-      "created": "2026-03-25 15:34:02",
-      "created_at": 1774452842000
+      "id": 47521799,
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "score": 92,
+      "author": "prefork",
+      "created": "2026-03-25 19:09:16",
+      "created_at": 1774465756000
     },
     {
       "id": 47519295,
       "title": "Quantization from the Ground Up",
       "link": "https://ngrok.com/blog/quantization",
-      "score": 12,
+      "score": 104,
       "author": "samwho",
       "created": "2026-03-25 16:06:34",
       "created_at": 1774454794000
     },
     {
+      "id": 47517539,
+      "title": "Thoughts on slowing the fuck down",
+      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 455,
+      "author": "jdkoeck",
+      "created": "2026-03-25 14:07:14",
+      "created_at": 1774447634000
+    },
+    {
       "id": 47513475,
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 373,
+      "score": 437,
       "author": "ray__",
       "created": "2026-03-25 05:00:54",
       "created_at": 1774414854000
     },
     {
-      "id": 47518171,
-      "title": "Antimatter has been transported for the first time",
-      "link": "https://www.nature.com/articles/d41586-026-00950-w",
-      "score": 118,
-      "author": "leephillips",
-      "created": "2026-03-25 14:56:28",
-      "created_at": 1774450588000
-    },
-    {
-      "id": 47519308,
-      "title": "A Eulogy for Vim",
-      "link": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html",
-      "score": 56,
-      "author": "mtts",
-      "created": "2026-03-25 16:07:12",
-      "created_at": 1774454832000
+      "id": 47521787,
+      "title": "Ball Pit",
+      "link": "https://codepen.io/mrdoob_/full/NPRwLZd",
+      "score": 42,
+      "author": "memalign",
+      "created": "2026-03-25 19:08:38",
+      "created_at": 1774465718000
     },
     {
       "id": 47508246,
       "title": "Goodbye to Sora",
       "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 956,
+      "score": 1030,
       "author": "mikeocool",
       "created": "2026-03-24 20:01:05",
       "created_at": 1774382465000
