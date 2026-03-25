@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-25T12:42:17.598Z"
+    "lastUpdate": "2026-03-25T16:53:20.787Z"
   },
   "data": [
     {
-      "id": 47514916,
-      "title": "Meta told to pay $375M for misleading users over child safety",
-      "link": "https://www.bbc.com/news/articles/cql75dn07n2o",
-      "score": 150,
-      "author": "testrun",
-      "created": "2026-03-25 08:52:50",
-      "created_at": 1774428770000
+      "id": 47516650,
+      "title": "Local LLM App by Ente",
+      "link": "https://ente.com/blog/ensu/",
+      "score": 216,
+      "author": "matthiaswh",
+      "created": "2026-03-25 12:49:14",
+      "created_at": 1774442954000
+    },
+    {
+      "id": 47477873,
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "link": "https://rpastro.square.site/s/stories/phm",
+      "score": 306,
+      "author": "wallflower",
+      "created": "2026-03-22 14:28:06",
+      "created_at": 1774189686000
+    },
+    {
+      "id": 47517539,
+      "title": "Thoughts on Slowing the Fuck Down",
+      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 80,
+      "author": "jdkoeck",
+      "created": "2026-03-25 14:07:14",
+      "created_at": 1774447634000
+    },
+    {
+      "id": 47519519,
+      "title": "Slovenian officials catch Israeli firm Black Cube trying to manipulate vote",
+      "link": "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a",
+      "score": 59,
+      "author": "cramsession",
+      "created": "2026-03-25 16:24:15",
+      "created_at": 1774455855000
+    },
+    {
+      "id": 47518785,
+      "title": "Sony V. Cox Decision Reversed",
+      "link": "https://supreme.justia.com/cases/federal/us/607/24-171/",
+      "score": 22,
+      "author": "rileymichael",
+      "created": "2026-03-25 15:34:02",
+      "created_at": 1774452842000
+    },
+    {
+      "id": 47519295,
+      "title": "Quantization from the Ground Up",
+      "link": "https://ngrok.com/blog/quantization",
+      "score": 12,
+      "author": "samwho",
+      "created": "2026-03-25 16:06:34",
+      "created_at": 1774454794000
     },
     {
       "id": 47513475,
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 234,
+      "score": 373,
       "author": "ray__",
       "created": "2026-03-25 05:00:54",
       "created_at": 1774414854000
     },
     {
-      "id": 47472566,
-      "title": "Looking at Unity made me understand the point of C++ coroutines",
-      "link": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
-      "score": 58,
-      "author": "ingve",
-      "created": "2026-03-21 23:19:28",
-      "created_at": 1774135168000
+      "id": 47518171,
+      "title": "Antimatter has been transported for the first time",
+      "link": "https://www.nature.com/articles/d41586-026-00950-w",
+      "score": 118,
+      "author": "leephillips",
+      "created": "2026-03-25 14:56:28",
+      "created_at": 1774450588000
+    },
+    {
+      "id": 47519308,
+      "title": "A Eulogy for Vim",
+      "link": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html",
+      "score": 56,
+      "author": "mtts",
+      "created": "2026-03-25 16:07:12",
+      "created_at": 1774454832000
     },
     {
       "id": 47508246,
       "title": "Goodbye to Sora",
       "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 801,
+      "score": 956,
       "author": "mikeocool",
       "created": "2026-03-24 20:01:05",
       "created_at": 1774382465000
-    },
-    {
-      "id": 47512816,
-      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-      "link": "https://v-os.dev",
-      "score": 188,
-      "author": "felixding",
-      "created": "2026-03-25 03:17:06",
-      "created_at": 1774408626000
-    },
-    {
-      "id": 47511589,
-      "title": "Flighty Airports",
-      "link": "https://flighty.com/airports",
-      "score": 361,
-      "author": "skogstokig",
-      "created": "2026-03-25 00:29:45",
-      "created_at": 1774398585000
-    },
-    {
-      "id": 47506713,
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 459,
-      "author": "Heff",
-      "created": "2026-03-24 18:03:48",
-      "created_at": 1774375428000
-    },
-    {
-      "id": 47501426,
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 740,
-      "author": "dot_treo",
-      "created": "2026-03-24 12:06:29",
-      "created_at": 1774353989000
-    },
-    {
-      "id": 47511703,
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-      "link": "https://spectrum.ieee.org/data-center-dc",
-      "score": 173,
-      "author": "jnord",
-      "created": "2026-03-25 00:44:55",
-      "created_at": 1774399495000
-    },
-    {
-      "id": 47515502,
-      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-      "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-      "score": 74,
-      "author": "dabinat",
-      "created": "2026-03-25 10:28:49",
-      "created_at": 1774434529000
     }
   ],
   "code": 200,
