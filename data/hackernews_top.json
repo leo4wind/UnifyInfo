@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-24T20:31:21.757Z"
+    "lastUpdate": "2026-03-25T01:13:45.333Z"
   },
   "data": [
     {
-      "id": 47503810,
-      "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
-      "link": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
-      "score": 121,
-      "author": "doughnutstracks",
-      "created": "2026-03-24 15:09:30",
-      "created_at": 1774364970000
+      "id": 47509571,
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "score": 180,
+      "author": "tezclarke",
+      "created": "2026-03-24 21:24:33",
+      "created_at": 1774387473000
     },
     {
-      "id": 47506251,
-      "title": "Arm AGI CPU",
-      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 171,
-      "author": "RealityVoid",
-      "created": "2026-03-24 17:30:42",
-      "created_at": 1774373442000
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 320,
+      "author": "mikeocool",
+      "created": "2026-03-24 20:01:05",
+      "created_at": 1774382465000
+    },
+    {
+      "id": 47506713,
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "score": 188,
+      "author": "Heff",
+      "created": "2026-03-24 18:03:48",
+      "created_at": 1774375428000
+    },
+    {
+      "id": 47511589,
+      "title": "Flighty Airports",
+      "link": "https://flighty.com/airports",
+      "score": 26,
+      "author": "skogstokig",
+      "created": "2026-03-25 00:29:45",
+      "created_at": 1774398585000
+    },
+    {
+      "id": 47511703,
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "link": "https://spectrum.ieee.org/data-center-dc",
+      "score": 10,
+      "author": "jnord",
+      "created": "2026-03-25 00:44:55",
+      "created_at": 1774399495000
     },
     {
       "id": 47504112,
       "title": "Apple Business",
       "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 291,
+      "score": 511,
       "author": "soheilpro",
       "created": "2026-03-24 15:29:41",
       "created_at": 1774366181000
     },
     {
-      "id": 47504695,
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "link": "https://github.com/t8/hypura",
-      "score": 159,
-      "author": "tatef",
-      "created": "2026-03-24 16:02:22",
-      "created_at": 1774368142000
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 270,
+      "author": "RealityVoid",
+      "created": "2026-03-24 17:30:42",
+      "created_at": 1774373442000
     },
     {
       "id": 47501426,
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 234,
+      "score": 475,
       "author": "dot_treo",
       "created": "2026-03-24 12:06:29",
       "created_at": 1774353989000
     },
     {
-      "id": 47507150,
-      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 234,
-      "author": "felineflock",
-      "created": "2026-03-24 18:34:52",
-      "created_at": 1774377292000
+      "id": 47511208,
+      "title": "A Compiler Writing Journey",
+      "link": "https://github.com/DoctorWkt/acwj",
+      "score": 19,
+      "author": "ibobev",
+      "created": "2026-03-24 23:44:47",
+      "created_at": 1774395887000
     },
     {
-      "id": 47506641,
-      "title": "ARM AGI CPU: Specs and SKUs",
-      "link": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
-      "score": 74,
-      "author": "HeyMeco",
-      "created": "2026-03-24 17:59:16",
-      "created_at": 1774375156000
-    },
-    {
-      "id": 47504094,
-      "title": "Hypothesis, Antithesis, synthesis",
-      "link": "https://antithesis.com/blog/2026/hegel/",
-      "score": 145,
-      "author": "alpaylan",
-      "created": "2026-03-24 15:28:17",
-      "created_at": 1774366097000
-    },
-    {
-      "id": 47505144,
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "link": "https://www.emailmd.dev/",
-      "score": 102,
-      "author": "dancablam",
-      "created": "2026-03-24 16:26:00",
-      "created_at": 1774369560000
-    },
-    {
-      "id": 47508149,
-      "title": "Welcome to FastMCP",
-      "link": "https://gofastmcp.com/getting-started/welcome",
-      "score": 10,
-      "author": "Anon84",
-      "created": "2026-03-24 19:53:51",
-      "created_at": 1774382031000
+      "id": 47472120,
+      "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+      "link": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
+      "score": 12,
+      "author": "tintinnabula",
+      "created": "2026-03-21 22:20:25",
+      "created_at": 1774131625000
     }
   ],
   "code": 200,

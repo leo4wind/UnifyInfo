@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-24T20:31:21.668Z"
+    "lastUpdate": "2026-03-25T01:13:45.241Z"
   },
   "data": [
-    {
-      "id": 47487436,
-      "title": "Migrating to the EU",
-      "link": "https://rz01.org/eu-migration/",
-      "score": 893,
-      "author": "exitnode",
-      "created": "2026-03-23 10:17:32",
-      "created_at": 1774261052000
-    },
     {
       "id": 47500335,
       "title": "Microsoft's \"fix\" for Windows 11",
       "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 853,
+      "score": 915,
       "author": "h0ek",
       "created": "2026-03-24 09:36:29",
       "created_at": 1774344989000
     },
     {
+      "id": 47487436,
+      "title": "Migrating to the EU",
+      "link": "https://rz01.org/eu-migration/",
+      "score": 894,
+      "author": "exitnode",
+      "created": "2026-03-23 10:17:32",
+      "created_at": 1774261052000
+    },
+    {
       "id": 47501729,
       "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 709,
+      "score": 719,
       "author": "theanonymousone",
       "created": "2026-03-24 12:36:20",
       "created_at": 1774355780000
@@ -37,64 +37,64 @@
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "link": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 692,
+      "score": 697,
       "author": "anemll",
       "created": "2026-03-23 14:30:10",
       "created_at": 1774276210000
     },
     {
+      "id": 47507150,
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "score": 650,
+      "author": "felineflock",
+      "created": "2026-03-24 18:34:52",
+      "created_at": 1774377292000
+    },
+    {
       "id": 47495527,
       "title": "Claude Code Cheat Sheet",
       "link": "https://cc.storyfox.cz",
-      "score": 606,
+      "score": 626,
       "author": "phasE89",
       "created": "2026-03-23 21:44:20",
       "created_at": 1774302260000
     },
     {
-      "id": 47482217,
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 604,
-      "author": "nothrowaways",
-      "created": "2026-03-22 21:14:11",
-      "created_at": 1774214051000
+      "id": 47504112,
+      "title": "Apple Business",
+      "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 511,
+      "author": "soheilpro",
+      "created": "2026-03-24 15:29:41",
+      "created_at": 1774366181000
+    },
+    {
+      "id": 47508745,
+      "title": "Is anybody else bored of talking about AI?",
+      "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "score": 495,
+      "author": "jakelsaunders94",
+      "created": "2026-03-24 20:31:08",
+      "created_at": 1774384268000
+    },
+    {
+      "id": 47501426,
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "link": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 475,
+      "author": "dot_treo",
+      "created": "2026-03-24 12:06:29",
+      "created_at": 1774353989000
     },
     {
       "id": 47495344,
       "title": "FCC updates covered list to include foreign-made consumer routers",
       "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "score": 463,
+      "score": 471,
       "author": "moonka",
       "created": "2026-03-23 21:28:02",
       "created_at": 1774301282000
-    },
-    {
-      "id": 47487584,
-      "title": "GitHub appears to be struggling with measly three nines availability",
-      "link": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 463,
-      "author": "richtr",
-      "created": "2026-03-23 10:39:39",
-      "created_at": 1774262379000
-    },
-    {
-      "id": 47492599,
-      "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
-      "link": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
-      "score": 434,
-      "author": "lode",
-      "created": "2026-03-23 17:35:38",
-      "created_at": 1774287338000
-    },
-    {
-      "id": 47486386,
-      "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
-      "link": "https://www.bbc.com/news/articles/cy01g522ww4o",
-      "score": 416,
-      "author": "mememememememo",
-      "created": "2026-03-23 07:24:19",
-      "created_at": 1774250659000
     }
   ],
   "code": 200,
