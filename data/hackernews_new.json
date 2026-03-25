@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-25T01:13:45.365Z"
+    "lastUpdate": "2026-03-25T05:19:10.265Z"
   },
   "data": [
-    {
-      "id": 47509571,
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "score": 180,
-      "author": "tezclarke",
-      "created": "2026-03-24 21:24:33",
-      "created_at": 1774387473000
-    },
-    {
-      "id": 47508246,
-      "title": "Goodbye to Sora",
-      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 320,
-      "author": "mikeocool",
-      "created": "2026-03-24 20:01:05",
-      "created_at": 1774382465000
-    },
-    {
-      "id": 47506713,
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 188,
-      "author": "Heff",
-      "created": "2026-03-24 18:03:48",
-      "created_at": 1774375428000
-    },
     {
       "id": 47511589,
       "title": "Flighty Airports",
       "link": "https://flighty.com/airports",
-      "score": 26,
+      "score": 193,
       "author": "skogstokig",
       "created": "2026-03-25 00:29:45",
       "created_at": 1774398585000
     },
     {
-      "id": 47511703,
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-      "link": "https://spectrum.ieee.org/data-center-dc",
-      "score": 10,
-      "author": "jnord",
-      "created": "2026-03-25 00:44:55",
-      "created_at": 1774399495000
+      "id": 47512816,
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "link": "https://v-os.dev",
+      "score": 30,
+      "author": "felixding",
+      "created": "2026-03-25 03:17:06",
+      "created_at": 1774408626000
+    },
+    {
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 531,
+      "author": "mikeocool",
+      "created": "2026-03-24 20:01:05",
+      "created_at": 1774382465000
+    },
+    {
+      "id": 47512891,
+      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+      "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+      "score": 21,
+      "author": "cigrainger",
+      "created": "2026-03-25 03:28:04",
+      "created_at": 1774409284000
+    },
+    {
+      "id": 47506713,
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "score": 286,
+      "author": "Heff",
+      "created": "2026-03-24 18:03:48",
+      "created_at": 1774375428000
+    },
+    {
+      "id": 47509571,
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "score": 239,
+      "author": "tezclarke",
+      "created": "2026-03-24 21:24:33",
+      "created_at": 1774387473000
     },
     {
       "id": 47504112,
       "title": "Apple Business",
       "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 511,
+      "score": 563,
       "author": "soheilpro",
       "created": "2026-03-24 15:29:41",
       "created_at": 1774366181000
     },
     {
-      "id": 47506251,
-      "title": "Arm AGI CPU",
-      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 270,
-      "author": "RealityVoid",
-      "created": "2026-03-24 17:30:42",
-      "created_at": 1774373442000
-    },
-    {
       "id": 47501426,
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 475,
+      "score": 571,
       "author": "dot_treo",
       "created": "2026-03-24 12:06:29",
       "created_at": 1774353989000
     },
     {
-      "id": 47511208,
-      "title": "A Compiler Writing Journey",
-      "link": "https://github.com/DoctorWkt/acwj",
-      "score": 19,
-      "author": "ibobev",
-      "created": "2026-03-24 23:44:47",
-      "created_at": 1774395887000
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 309,
+      "author": "RealityVoid",
+      "created": "2026-03-24 17:30:42",
+      "created_at": 1774373442000
     },
     {
-      "id": 47472120,
-      "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
-      "link": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
-      "score": 12,
-      "author": "tintinnabula",
-      "created": "2026-03-21 22:20:25",
-      "created_at": 1774131625000
+      "id": 47501825,
+      "title": "Why did the chicken cross the road?",
+      "link": "https://taylor.town/other-side",
+      "score": 7,
+      "author": "surprisetalk",
+      "created": "2026-03-24 12:46:22",
+      "created_at": 1774356382000
     }
   ],
   "code": 200,
