@@ -3,41 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-25T08:37:54.501Z"
+    "lastUpdate": "2026-03-25T12:42:17.346Z"
   },
   "data": [
-    {
-      "id": 47500335,
-      "title": "Microsoft's \"fix\" for Windows 11",
-      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 970,
-      "author": "h0ek",
-      "created": "2026-03-24 09:36:29",
-      "created_at": 1774344989000
-    },
-    {
-      "id": 47487436,
-      "title": "Migrating to the EU",
-      "link": "https://rz01.org/eu-migration/",
-      "score": 902,
-      "author": "exitnode",
-      "created": "2026-03-23 10:17:32",
-      "created_at": 1774261052000
-    },
     {
       "id": 47507150,
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 893,
+      "score": 1021,
       "author": "felineflock",
       "created": "2026-03-24 18:34:52",
       "created_at": 1774377292000
     },
     {
+      "id": 47500335,
+      "title": "Microsoft's \"fix\" for Windows 11",
+      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "score": 986,
+      "author": "h0ek",
+      "created": "2026-03-24 09:36:29",
+      "created_at": 1774344989000
+    },
+    {
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 801,
+      "author": "mikeocool",
+      "created": "2026-03-24 20:01:05",
+      "created_at": 1774382465000
+    },
+    {
+      "id": 47501426,
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "link": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 740,
+      "author": "dot_treo",
+      "created": "2026-03-24 12:06:29",
+      "created_at": 1774353989000
+    },
+    {
       "id": 47501729,
       "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 724,
+      "score": 728,
       "author": "theanonymousone",
       "created": "2026-03-24 12:36:20",
       "created_at": 1774355780000
@@ -52,37 +61,10 @@
       "created_at": 1774276210000
     },
     {
-      "id": 47508246,
-      "title": "Goodbye to Sora",
-      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 671,
-      "author": "mikeocool",
-      "created": "2026-03-24 20:01:05",
-      "created_at": 1774382465000
-    },
-    {
-      "id": 47501426,
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 647,
-      "author": "dot_treo",
-      "created": "2026-03-24 12:06:29",
-      "created_at": 1774353989000
-    },
-    {
-      "id": 47495527,
-      "title": "Claude Code Cheat Sheet",
-      "link": "https://cc.storyfox.cz",
-      "score": 642,
-      "author": "phasE89",
-      "created": "2026-03-23 21:44:20",
-      "created_at": 1774302260000
-    },
-    {
       "id": 47508745,
       "title": "Is anybody else bored of talking about AI?",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-      "score": 637,
+      "score": 664,
       "author": "jakelsaunders94",
       "created": "2026-03-24 20:31:08",
       "created_at": 1774384268000
@@ -91,10 +73,28 @@
       "id": 47504112,
       "title": "Apple Business",
       "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 616,
+      "score": 658,
       "author": "soheilpro",
       "created": "2026-03-24 15:29:41",
       "created_at": 1774366181000
+    },
+    {
+      "id": 47495527,
+      "title": "Claude Code Cheat Sheet",
+      "link": "https://cc.storyfox.cz",
+      "score": 654,
+      "author": "phasE89",
+      "created": "2026-03-23 21:44:20",
+      "created_at": 1774302260000
+    },
+    {
+      "id": 47504060,
+      "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
+      "link": "https://www.bbc.com/news/articles/cg547ljepvzo",
+      "score": 496,
+      "author": "psim1",
+      "created": "2026-03-24 15:25:52",
+      "created_at": 1774365952000
     }
   ],
   "code": 200,

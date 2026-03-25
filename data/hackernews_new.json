@@ -3,23 +3,50 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-25T08:37:57.182Z"
+    "lastUpdate": "2026-03-25T12:42:17.598Z"
   },
   "data": [
+    {
+      "id": 47514916,
+      "title": "Meta told to pay $375M for misleading users over child safety",
+      "link": "https://www.bbc.com/news/articles/cql75dn07n2o",
+      "score": 150,
+      "author": "testrun",
+      "created": "2026-03-25 08:52:50",
+      "created_at": 1774428770000
+    },
     {
       "id": 47513475,
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
       "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 127,
+      "score": 234,
       "author": "ray__",
       "created": "2026-03-25 05:00:54",
       "created_at": 1774414854000
     },
     {
+      "id": 47472566,
+      "title": "Looking at Unity made me understand the point of C++ coroutines",
+      "link": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
+      "score": 58,
+      "author": "ingve",
+      "created": "2026-03-21 23:19:28",
+      "created_at": 1774135168000
+    },
+    {
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 801,
+      "author": "mikeocool",
+      "created": "2026-03-24 20:01:05",
+      "created_at": 1774382465000
+    },
+    {
       "id": 47512816,
       "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
       "link": "https://v-os.dev",
-      "score": 118,
+      "score": 188,
       "author": "felixding",
       "created": "2026-03-25 03:17:06",
       "created_at": 1774408626000
@@ -28,34 +55,16 @@
       "id": 47511589,
       "title": "Flighty Airports",
       "link": "https://flighty.com/airports",
-      "score": 294,
+      "score": 361,
       "author": "skogstokig",
       "created": "2026-03-25 00:29:45",
       "created_at": 1774398585000
     },
     {
-      "id": 47508246,
-      "title": "Goodbye to Sora",
-      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 671,
-      "author": "mikeocool",
-      "created": "2026-03-24 20:01:05",
-      "created_at": 1774382465000
-    },
-    {
-      "id": 47514603,
-      "title": "I Forked Httpx",
-      "link": "https://tildeweb.nl/~michiel/httpxyz.html",
-      "score": 10,
-      "author": "roywashere",
-      "created": "2026-03-25 08:05:17",
-      "created_at": 1774425917000
-    },
-    {
       "id": 47506713,
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 381,
+      "score": 459,
       "author": "Heff",
       "created": "2026-03-24 18:03:48",
       "created_at": 1774375428000
@@ -64,37 +73,28 @@
       "id": 47501426,
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 647,
+      "score": 740,
       "author": "dot_treo",
       "created": "2026-03-24 12:06:29",
       "created_at": 1774353989000
     },
     {
-      "id": 47504112,
-      "title": "Apple Business",
-      "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 616,
-      "author": "soheilpro",
-      "created": "2026-03-24 15:29:41",
-      "created_at": 1774366181000
+      "id": 47511703,
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "link": "https://spectrum.ieee.org/data-center-dc",
+      "score": 173,
+      "author": "jnord",
+      "created": "2026-03-25 00:44:55",
+      "created_at": 1774399495000
     },
     {
-      "id": 47509571,
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "score": 285,
-      "author": "tezclarke",
-      "created": "2026-03-24 21:24:33",
-      "created_at": 1774387473000
-    },
-    {
-      "id": 47506251,
-      "title": "Arm AGI CPU",
-      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 337,
-      "author": "RealityVoid",
-      "created": "2026-03-24 17:30:42",
-      "created_at": 1774373442000
+      "id": 47515502,
+      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+      "score": 74,
+      "author": "dabinat",
+      "created": "2026-03-25 10:28:49",
+      "created_at": 1774434529000
     }
   ],
   "code": 200,
