@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-26T01:19:32.286Z"
+    "lastUpdate": "2026-03-26T05:27:48.317Z"
   },
   "data": [
     {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 312,
+      "score": 487,
       "author": "driesdep",
       "created": "2026-03-25 21:11:57",
       "created_at": 1774473117000
@@ -19,43 +19,61 @@
       "id": 47521150,
       "title": "ARC-AGI-3",
       "link": "https://arcprize.org/arc-agi/3",
-      "score": 243,
+      "score": 317,
       "author": "lairv",
       "created": "2026-03-25 18:16:03",
       "created_at": 1774462563000
     },
     {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "link": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 678,
-      "author": "MrBruh",
-      "created": "2026-03-25 20:27:03",
-      "created_at": 1774470423000
-    },
-    {
-      "id": 47517606,
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "link": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 90,
-      "author": "Brajeshwar",
-      "created": "2026-03-25 14:12:04",
-      "created_at": 1774447924000
-    },
-    {
       "id": 47477873,
       "title": "My astrophotography in the movie Project Hail Mary",
       "link": "https://rpastro.square.site/s/stories/phm",
-      "score": 685,
+      "score": 773,
       "author": "wallflower",
       "created": "2026-03-22 14:28:06",
       "created_at": 1774189686000
     },
     {
+      "id": 47525378,
+      "title": "False claims in a widely-cited paper",
+      "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "score": 206,
+      "author": "qsi",
+      "created": "2026-03-26 00:46:31",
+      "created_at": 1774485991000
+    },
+    {
+      "id": 47517606,
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "link": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "score": 129,
+      "author": "Brajeshwar",
+      "created": "2026-03-25 14:12:04",
+      "created_at": 1774447924000
+    },
+    {
+      "id": 47478599,
+      "title": "Two studies in compiler optimisations",
+      "link": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+      "score": 41,
+      "author": "hmpc",
+      "created": "2026-03-22 15:34:44",
+      "created_at": 1774193684000
+    },
+    {
+      "id": 47522709,
+      "title": "The EU still wants to scan  your private messages and photos",
+      "link": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 863,
+      "author": "MrBruh",
+      "created": "2026-03-25 20:27:03",
+      "created_at": 1774470423000
+    },
+    {
       "id": 47521157,
       "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
       "link": "https://www.claudescode.dev/?window=since_launch",
-      "score": 177,
+      "score": 225,
       "author": "louiereederson",
       "created": "2026-03-25 18:16:40",
       "created_at": 1774462600000
@@ -64,37 +82,19 @@
       "id": 47483286,
       "title": "My DIY FPGA board can run Quake II",
       "link": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
-      "score": 50,
+      "score": 98,
       "author": "sznio",
       "created": "2026-03-22 23:06:57",
       "created_at": 1774220817000
     },
     {
-      "id": 47518281,
-      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-      "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-      "score": 269,
-      "author": "oj2828",
-      "created": "2026-03-25 15:02:56",
-      "created_at": 1774450976000
-    },
-    {
-      "id": 47521876,
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
-      "score": 274,
-      "author": "zdw",
-      "created": "2026-03-25 19:14:42",
-      "created_at": 1774466082000
-    },
-    {
-      "id": 47519295,
-      "title": "Quantization from the Ground Up",
-      "link": "https://ngrok.com/blog/quantization",
-      "score": 187,
-      "author": "samwho",
-      "created": "2026-03-25 16:06:34",
-      "created_at": 1774454794000
+      "id": 47526486,
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "link": "https://github.com/lightfeed/extractor",
+      "score": 11,
+      "author": "andrew_zhong",
+      "created": "2026-03-26 03:55:52",
+      "created_at": 1774497352000
     }
   ],
   "code": 200,
