@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-26T12:50:39.126Z"
+    "lastUpdate": "2026-03-26T16:52:28.306Z"
   },
   "data": [
+    {
+      "id": 47530330,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "link": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 270,
+      "author": "jslakro",
+      "created": "2026-03-26 13:38:25",
+      "created_at": 1774532305000
+    },
+    {
+      "id": 47531967,
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "score": 46,
+      "author": "Fibonar",
+      "created": "2026-03-26 15:48:40",
+      "created_at": 1774540120000
+    },
     {
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "link": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 368,
+      "score": 630,
       "author": "jrmyphlmn",
       "created": "2026-03-25 19:41:51",
       "created_at": 1774467711000
     },
     {
-      "id": 47527590,
-      "title": "Swift 6.3",
-      "link": "https://www.swift.org/blog/swift-6.3-released/",
-      "score": 137,
-      "author": "ingve",
-      "created": "2026-03-26 07:27:11",
-      "created_at": 1774510031000
-    },
-    {
-      "id": 47499356,
-      "title": "From zero to a RAG system: successes and failures",
-      "link": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-      "score": 70,
-      "author": "andros",
-      "created": "2026-03-24 06:53:30",
-      "created_at": 1774335210000
-    },
-    {
-      "id": 47523330,
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 685,
-      "author": "driesdep",
-      "created": "2026-03-25 21:11:57",
-      "created_at": 1774473117000
-    },
-    {
-      "id": 47526478,
-      "title": "Obsolete Sounds",
-      "link": "https://citiesandmemory.com/obsolete-sounds/",
-      "score": 80,
-      "author": "benbreen",
-      "created": "2026-03-26 03:54:27",
-      "created_at": 1774497267000
+      "id": 47532339,
+      "title": "OpenTelemetry Profiles Enters Public Alpha",
+      "link": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+      "score": 11,
+      "author": "tanelpoder",
+      "created": "2026-03-26 16:14:56",
+      "created_at": 1774541696000
     },
     {
       "id": 47529646,
       "title": "European Parliament decided that Chat Control 1.0 must stop",
       "link": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-      "score": 18,
+      "score": 498,
       "author": "lemoncookiechip",
       "created": "2026-03-26 12:30:59",
       "created_at": 1774528259000
     },
     {
+      "id": 47531184,
+      "title": "Cory Doctorow: Interoperability Can Save the Open Web",
+      "link": "https://spectrum.ieee.org/doctorow-interoperability",
+      "score": 106,
+      "author": "janandonly",
+      "created": "2026-03-26 14:51:17",
+      "created_at": 1774536677000
+    },
+    {
+      "id": 47499356,
+      "title": "From zero to a RAG system: successes and failures",
+      "link": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 197,
+      "author": "andros",
+      "created": "2026-03-24 06:53:30",
+      "created_at": 1774335210000
+    },
+    {
       "id": 47529534,
       "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
       "link": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
-      "score": 20,
+      "score": 287,
       "author": "1vuio0pswjnm7",
       "created": "2026-03-26 12:15:33",
       "created_at": 1774527333000
     },
     {
-      "id": 47528605,
-      "title": "LibreOffice and the Art of Overreacting",
-      "link": "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/",
-      "score": 72,
-      "author": "bundie",
-      "created": "2026-03-26 10:13:38",
-      "created_at": 1774520018000
+      "id": 47529609,
+      "title": "End of \"Chat Control\": EU Parliament Stops Mass Surveillance in Voting Thriller",
+      "link": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+      "score": 283,
+      "author": "amarcheschi",
+      "created": "2026-03-26 12:24:36",
+      "created_at": 1774527876000
     },
     {
-      "id": 47525243,
-      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
-      "link": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
-      "score": 194,
-      "author": "zdw",
-      "created": "2026-03-26 00:28:38",
-      "created_at": 1774484918000
-    },
-    {
-      "id": 47521150,
-      "title": "ARC-AGI-3",
-      "link": "https://arcprize.org/arc-agi/3",
-      "score": 426,
-      "author": "lairv",
-      "created": "2026-03-25 18:16:03",
-      "created_at": 1774462563000
+      "id": 47489620,
+      "title": "My home network observes bedtime with OpenBSD and pf",
+      "link": "https://ratfactor.com/openbsd/pf-gateway-bedtime",
+      "score": 45,
+      "author": "ibobev",
+      "created": "2026-03-23 13:56:54",
+      "created_at": 1774274214000
     }
   ],
   "code": 200,
