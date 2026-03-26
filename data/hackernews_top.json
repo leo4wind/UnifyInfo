@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-26T05:27:48.290Z"
+    "lastUpdate": "2026-03-26T08:42:39.035Z"
   },
   "data": [
+    {
+      "id": 47522173,
+      "title": "Personal Encyclopedias",
+      "link": "https://whoami.wiki/blog/personal-encyclopedias",
+      "score": 58,
+      "author": "jrmyphlmn",
+      "created": "2026-03-25 19:41:51",
+      "created_at": 1774467711000
+    },
     {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 487,
+      "score": 597,
       "author": "driesdep",
       "created": "2026-03-25 21:11:57",
       "created_at": 1774473117000
@@ -19,43 +28,43 @@
       "id": 47521150,
       "title": "ARC-AGI-3",
       "link": "https://arcprize.org/arc-agi/3",
-      "score": 317,
+      "score": 377,
       "author": "lairv",
       "created": "2026-03-25 18:16:03",
       "created_at": 1774462563000
     },
     {
-      "id": 47477873,
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "link": "https://rpastro.square.site/s/stories/phm",
-      "score": 773,
-      "author": "wallflower",
-      "created": "2026-03-22 14:28:06",
-      "created_at": 1774189686000
-    },
-    {
-      "id": 47525378,
-      "title": "False claims in a widely-cited paper",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-      "score": 206,
-      "author": "qsi",
-      "created": "2026-03-26 00:46:31",
-      "created_at": 1774485991000
-    },
-    {
       "id": 47517606,
       "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
       "link": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 129,
+      "score": 156,
       "author": "Brajeshwar",
       "created": "2026-03-25 14:12:04",
       "created_at": 1774447924000
     },
     {
+      "id": 47473673,
+      "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
+      "link": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
+      "score": 101,
+      "author": "c420",
+      "created": "2026-03-22 01:58:23",
+      "created_at": 1774144703000
+    },
+    {
+      "id": 47483286,
+      "title": "My DIY FPGA board can run Quake II",
+      "link": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+      "score": 140,
+      "author": "sznio",
+      "created": "2026-03-22 23:06:57",
+      "created_at": 1774220817000
+    },
+    {
       "id": 47478599,
       "title": "Two studies in compiler optimisations",
       "link": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
-      "score": 41,
+      "score": 70,
       "author": "hmpc",
       "created": "2026-03-22 15:34:44",
       "created_at": 1774193684000
@@ -64,7 +73,7 @@
       "id": 47522709,
       "title": "The EU still wants to scan  your private messages and photos",
       "link": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 863,
+      "score": 1077,
       "author": "MrBruh",
       "created": "2026-03-25 20:27:03",
       "created_at": 1774470423000
@@ -73,28 +82,10 @@
       "id": 47521157,
       "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
       "link": "https://www.claudescode.dev/?window=since_launch",
-      "score": 225,
+      "score": 271,
       "author": "louiereederson",
       "created": "2026-03-25 18:16:40",
       "created_at": 1774462600000
-    },
-    {
-      "id": 47483286,
-      "title": "My DIY FPGA board can run Quake II",
-      "link": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
-      "score": 98,
-      "author": "sznio",
-      "created": "2026-03-22 23:06:57",
-      "created_at": 1774220817000
-    },
-    {
-      "id": 47526486,
-      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "link": "https://github.com/lightfeed/extractor",
-      "score": 11,
-      "author": "andrew_zhong",
-      "created": "2026-03-26 03:55:52",
-      "created_at": 1774497352000
     }
   ],
   "code": 200,
