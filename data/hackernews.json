@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-26T08:42:38.766Z"
+    "lastUpdate": "2026-03-26T12:50:38.803Z"
   },
   "data": [
+    {
+      "id": 47522709,
+      "title": "The EU still wants to scan  your private messages and photos",
+      "link": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 1281,
+      "author": "MrBruh",
+      "created": "2026-03-25 20:27:03",
+      "created_at": 1774470423000
+    },
     {
       "id": 47507150,
       "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
       "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 1235,
+      "score": 1245,
       "author": "felineflock",
       "created": "2026-03-24 18:34:52",
       "created_at": 1774377292000
@@ -19,46 +28,28 @@
       "id": 47508246,
       "title": "Goodbye to Sora",
       "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 1097,
+      "score": 1100,
       "author": "mikeocool",
       "created": "2026-03-24 20:01:05",
       "created_at": 1774382465000
     },
     {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "link": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 1077,
-      "author": "MrBruh",
-      "created": "2026-03-25 20:27:03",
-      "created_at": 1774470423000
-    },
-    {
-      "id": 47500335,
-      "title": "Microsoft's \"fix\" for Windows 11",
-      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 1025,
-      "author": "h0ek",
-      "created": "2026-03-24 09:36:29",
-      "created_at": 1774344989000
+      "id": 47517539,
+      "title": "Thoughts on slowing the fuck down",
+      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 918,
+      "author": "jdkoeck",
+      "created": "2026-03-25 14:07:14",
+      "created_at": 1774447634000
     },
     {
       "id": 47501426,
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
       "link": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 911,
+      "score": 916,
       "author": "dot_treo",
       "created": "2026-03-24 12:06:29",
       "created_at": 1774353989000
-    },
-    {
-      "id": 47517539,
-      "title": "Thoughts on slowing the fuck down",
-      "link": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 828,
-      "author": "jdkoeck",
-      "created": "2026-03-25 14:07:14",
-      "created_at": 1774447634000
     },
     {
       "id": 47501729,
@@ -73,7 +64,7 @@
       "id": 47508745,
       "title": "Is anybody else bored of talking about AI?",
       "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-      "score": 725,
+      "score": 726,
       "author": "jakelsaunders94",
       "created": "2026-03-24 20:31:08",
       "created_at": 1774384268000
@@ -82,16 +73,25 @@
       "id": 47504112,
       "title": "Apple Business",
       "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 723,
+      "score": 724,
       "author": "soheilpro",
       "created": "2026-03-24 15:29:41",
       "created_at": 1774366181000
     },
     {
+      "id": 47523330,
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "score": 685,
+      "author": "driesdep",
+      "created": "2026-03-25 21:11:57",
+      "created_at": 1774473117000
+    },
+    {
       "id": 47506713,
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
       "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-      "score": 624,
+      "score": 627,
       "author": "Heff",
       "created": "2026-03-24 18:03:48",
       "created_at": 1774375428000

@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-26T08:42:39.035Z"
+    "lastUpdate": "2026-03-26T12:50:39.126Z"
   },
   "data": [
     {
       "id": 47522173,
       "title": "Personal Encyclopedias",
       "link": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 58,
+      "score": 368,
       "author": "jrmyphlmn",
       "created": "2026-03-25 19:41:51",
       "created_at": 1774467711000
     },
     {
+      "id": 47527590,
+      "title": "Swift 6.3",
+      "link": "https://www.swift.org/blog/swift-6.3-released/",
+      "score": 137,
+      "author": "ingve",
+      "created": "2026-03-26 07:27:11",
+      "created_at": 1774510031000
+    },
+    {
+      "id": 47499356,
+      "title": "From zero to a RAG system: successes and failures",
+      "link": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 70,
+      "author": "andros",
+      "created": "2026-03-24 06:53:30",
+      "created_at": 1774335210000
+    },
+    {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 597,
+      "score": 685,
       "author": "driesdep",
       "created": "2026-03-25 21:11:57",
       "created_at": 1774473117000
     },
     {
+      "id": 47526478,
+      "title": "Obsolete Sounds",
+      "link": "https://citiesandmemory.com/obsolete-sounds/",
+      "score": 80,
+      "author": "benbreen",
+      "created": "2026-03-26 03:54:27",
+      "created_at": 1774497267000
+    },
+    {
+      "id": 47529646,
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "link": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "score": 18,
+      "author": "lemoncookiechip",
+      "created": "2026-03-26 12:30:59",
+      "created_at": 1774528259000
+    },
+    {
+      "id": 47529534,
+      "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+      "link": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "score": 20,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-03-26 12:15:33",
+      "created_at": 1774527333000
+    },
+    {
+      "id": 47528605,
+      "title": "LibreOffice and the Art of Overreacting",
+      "link": "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/",
+      "score": 72,
+      "author": "bundie",
+      "created": "2026-03-26 10:13:38",
+      "created_at": 1774520018000
+    },
+    {
+      "id": 47525243,
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "link": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "score": 194,
+      "author": "zdw",
+      "created": "2026-03-26 00:28:38",
+      "created_at": 1774484918000
+    },
+    {
       "id": 47521150,
       "title": "ARC-AGI-3",
       "link": "https://arcprize.org/arc-agi/3",
-      "score": 377,
+      "score": 426,
       "author": "lairv",
       "created": "2026-03-25 18:16:03",
       "created_at": 1774462563000
-    },
-    {
-      "id": 47517606,
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "link": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 156,
-      "author": "Brajeshwar",
-      "created": "2026-03-25 14:12:04",
-      "created_at": 1774447924000
-    },
-    {
-      "id": 47473673,
-      "title": "The truth that haunts the Ramones: 'They sold more T-shirts than records'",
-      "link": "https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html",
-      "score": 101,
-      "author": "c420",
-      "created": "2026-03-22 01:58:23",
-      "created_at": 1774144703000
-    },
-    {
-      "id": 47483286,
-      "title": "My DIY FPGA board can run Quake II",
-      "link": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
-      "score": 140,
-      "author": "sznio",
-      "created": "2026-03-22 23:06:57",
-      "created_at": 1774220817000
-    },
-    {
-      "id": 47478599,
-      "title": "Two studies in compiler optimisations",
-      "link": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
-      "score": 70,
-      "author": "hmpc",
-      "created": "2026-03-22 15:34:44",
-      "created_at": 1774193684000
-    },
-    {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "link": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 1077,
-      "author": "MrBruh",
-      "created": "2026-03-25 20:27:03",
-      "created_at": 1774470423000
-    },
-    {
-      "id": 47521157,
-      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-      "link": "https://www.claudescode.dev/?window=since_launch",
-      "score": 271,
-      "author": "louiereederson",
-      "created": "2026-03-25 18:16:40",
-      "created_at": 1774462600000
     }
   ],
   "code": 200,
