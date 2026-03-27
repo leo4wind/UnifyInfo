@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-27T05:28:20.000Z"
+    "lastUpdate": "2026-03-27T08:39:40.952Z"
   },
   "data": [
     {
@@ -22,12 +22,35 @@
       "zqjkrq": "2026-04-08",
       "ssrq": null,
       "syl": null,
-      "hysyl": 63.98,
+      "hysyl": 63.65,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "数据中心企业级SSD产品的研发和销售"
+    },
+    {
+      "zqdm": "920181",
+      "zqjc": "赛英电子",
+      "sgdm": "920181",
+      "fxsl": 10800000,
+      "swfxsl": 9720000,
+      "sgsx": 486000,
+      "dgsz": 4860000,
+      "fxjg": 28,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-03-30",
+      "zqgbrq": "2026-04-02",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 13.79,
+      "hysyl": 29.27,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "陶瓷管壳和封装散热基板等功率半导体器件关键部件的研发、制造和销售"
     },
     {
       "zqdm": "688811",
@@ -37,14 +60,14 @@
       "swfxsl": 18260500,
       "sgsx": 18000,
       "dgsz": 180000,
-      "fxjg": null,
+      "fxjg": 6.41,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-03-30",
       "zqgbrq": "2026-04-01",
       "zqjkrq": "2026-04-01",
       "ssrq": null,
-      "syl": null,
+      "syl": 58.09,
       "hysyl": 36.24,
       "wszql": null,
       "yzbsl": 0,
@@ -145,5 +168,5 @@
       "zyyw": "公司专业从事铝合金精密压铸件的研发、生产与销售"
     }
   ],
-  "total": 6
+  "total": 7
 }
