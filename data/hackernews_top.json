@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-27T08:39:36.691Z"
+    "lastUpdate": "2026-03-27T12:39:19.301Z"
   },
   "data": [
+    {
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 186,
+      "author": "LucidLynx",
+      "created": "2026-03-27 10:10:41",
+      "created_at": 1774606241000
+    },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "link": "https://micahkepe.com/blog/jsongrep/",
-      "score": 39,
+      "score": 184,
       "author": "pistolario",
       "created": "2026-03-27 07:12:26",
       "created_at": 1774595546000
@@ -19,82 +28,73 @@
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 119,
+      "score": 176,
       "author": "iBelieve",
       "created": "2026-03-27 04:47:15",
       "created_at": 1774586835000
     },
     {
-      "id": 47539767,
-      "title": "The European AllSky7 fireball network",
-      "link": "https://www.allsky7.net/#archive",
-      "score": 28,
-      "author": "marklit",
-      "created": "2026-03-27 07:00:49",
-      "created_at": 1774594849000
-    },
-    {
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 327,
+      "score": 443,
       "author": "bentocorp",
       "created": "2026-03-26 21:04:50",
       "created_at": 1774559090000
     },
     {
+      "id": 47539767,
+      "title": "The European AllSky7 fireball network",
+      "link": "https://www.allsky7.net/#archive",
+      "score": 70,
+      "author": "marklit",
+      "created": "2026-03-27 07:00:49",
+      "created_at": 1774594849000
+    },
+    {
       "id": 47518960,
       "title": "Why so many control rooms were seafoam green (2025)",
       "link": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 782,
+      "score": 867,
       "author": "Amorymeltzer",
       "created": "2026-03-25 15:46:29",
       "created_at": 1774453589000
     },
     {
-      "id": 47490871,
-      "title": "21,864 Yugoslavian .yu Domains",
-      "link": "https://jacobfilipp.com/yu/",
-      "score": 17,
-      "author": "speckx",
-      "created": "2026-03-23 15:30:23",
-      "created_at": 1774279823000
+      "id": 47493246,
+      "title": "Everything old is new again: memory optimization",
+      "link": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "score": 66,
+      "author": "ibobev",
+      "created": "2026-03-23 18:22:33",
+      "created_at": 1774290153000
+    },
+    {
+      "id": 47500337,
+      "title": "Local Bernstein theory, and lower bounds for Lebesgue constants",
+      "link": "https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/",
+      "score": 13,
+      "author": "jjgreen",
+      "created": "2026-03-24 09:36:45",
+      "created_at": 1774345005000
     },
     {
       "id": 47536761,
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
       "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 225,
+      "score": 275,
       "author": "j0rg3",
       "created": "2026-03-26 22:41:25",
       "created_at": 1774564885000
     },
     {
-      "id": 47492894,
-      "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
-      "link": "https://library.oapen.org//handle/20.500.12657/53344",
-      "score": 37,
-      "author": "the-mitr",
-      "created": "2026-03-23 17:56:31",
-      "created_at": 1774288591000
-    },
-    {
-      "id": 47490705,
-      "title": "DOOM Over DNS",
-      "link": "https://github.com/resumex/doom-over-dns",
-      "score": 264,
-      "author": "Venn1",
-      "created": "2026-03-23 15:17:38",
-      "created_at": 1774279058000
-    },
-    {
-      "id": 47538078,
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "link": "https://www.symbolica.ai/blog/arc-agi-3",
-      "score": 82,
-      "author": "lairv",
-      "created": "2026-03-27 01:32:10",
-      "created_at": 1774575130000
+      "id": 47484295,
+      "title": "QRV Operating System: QNX on RISC-V",
+      "link": "https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html",
+      "score": 19,
+      "author": "chrsw",
+      "created": "2026-03-23 01:16:03",
+      "created_at": 1774228563000
     }
   ],
   "code": 200,
