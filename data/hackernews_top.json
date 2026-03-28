@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-28T12:32:08.383Z"
+    "lastUpdate": "2026-03-28T16:21:32.345Z"
   },
   "data": [
-    {
-      "id": 47553185,
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "link": "https://github.com/J-x-Z/cocoa-way",
-      "score": 90,
-      "author": "OJFord",
-      "created": "2026-03-28 10:06:13",
-      "created_at": 1774692373000
-    },
     {
       "id": 47553798,
       "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
       "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 32,
+      "score": 484,
       "author": "enriquelop",
       "created": "2026-03-28 12:01:27",
       "created_at": 1774699287000
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 13,
-      "author": "msephton",
-      "created": "2026-03-28 11:49:28",
-      "created_at": 1774698568000
-    },
-    {
-      "id": 47552562,
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "score": 134,
-      "author": "TORcicada",
-      "created": "2026-03-28 08:06:19",
-      "created_at": 1774685179000
+      "id": 47554773,
+      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 198,
+      "author": "oldfrenchfries",
+      "created": "2026-03-28 14:08:33",
+      "created_at": 1774706913000
     },
     {
       "id": 47553484,
       "title": "Britain today generating 90%+ of electricity from renewables",
       "link": "https://grid.iamkate.com/",
-      "score": 10,
+      "score": 306,
       "author": "rwmj",
       "created": "2026-03-28 11:06:44",
       "created_at": 1774696004000
     },
     {
-      "id": 47550282,
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "score": 407,
-      "author": "mazieres",
-      "created": "2026-03-28 00:39:54",
-      "created_at": 1774658394000
+      "id": 47553717,
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "score": 167,
+      "author": "msephton",
+      "created": "2026-03-28 11:49:28",
+      "created_at": 1774698568000
     },
     {
-      "id": 47550878,
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 198,
-      "author": "zdw",
-      "created": "2026-03-28 02:17:04",
-      "created_at": 1774664224000
+      "id": 47553185,
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "link": "https://github.com/J-x-Z/cocoa-way",
+      "score": 194,
+      "author": "OJFord",
+      "created": "2026-03-28 10:06:13",
+      "created_at": 1774692373000
     },
     {
-      "id": 47547009,
-      "title": "Make macOS consistently bad unironically",
-      "link": "https://lr0.org/blog/p/macos/",
-      "score": 435,
-      "author": "speckx",
-      "created": "2026-03-27 19:15:19",
-      "created_at": 1774638919000
+      "id": 47555636,
+      "title": "Show HN: Free, in-browser PDF editor",
+      "link": "https://breezepdf.com/?v=2",
+      "score": 13,
+      "author": "philjohnson",
+      "created": "2026-03-28 15:44:58",
+      "created_at": 1774712698000
     },
     {
-      "id": 47518568,
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "link": "https://github.com/dbrll/ATTN-11",
-      "score": 19,
-      "author": "rahen",
-      "created": "2026-03-25 15:20:08",
-      "created_at": 1774452008000
+      "id": 47555556,
+      "title": "I decompiled the White House's new app",
+      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 30,
+      "author": "amarcheschi",
+      "created": "2026-03-28 15:37:17",
+      "created_at": 1774712237000
+    },
+    {
+      "id": 47515652,
+      "title": "C++26: A User-Friednly assert() macro",
+      "link": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
+      "score": 18,
+      "author": "jandeboevrie",
+      "created": "2026-03-25 10:51:48",
+      "created_at": 1774435908000
+    },
+    {
+      "id": 47552562,
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 205,
+      "author": "TORcicada",
+      "created": "2026-03-28 08:06:19",
+      "created_at": 1774685179000
+    },
+    {
+      "id": 47555090,
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "link": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "score": 85,
+      "author": "Brajeshwar",
+      "created": "2026-03-28 14:49:25",
+      "created_at": 1774709365000
     }
   ],
   "code": 200,
