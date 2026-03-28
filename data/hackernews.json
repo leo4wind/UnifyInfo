@@ -3,50 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-27T20:26:47.663Z"
+    "lastUpdate": "2026-03-28T01:12:56.375Z"
   },
   "data": [
-    {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "link": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 1438,
-      "author": "MrBruh",
-      "created": "2026-03-25 20:27:03",
-      "created_at": 1774470423000
-    },
-    {
-      "id": 47523330,
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 939,
-      "author": "driesdep",
-      "created": "2026-03-25 21:11:57",
-      "created_at": 1774473117000
-    },
     {
       "id": 47534848,
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
       "link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 863,
+      "score": 872,
       "author": "mmcclure",
       "created": "2026-03-26 19:48:05",
       "created_at": 1774554485000
     },
     {
-      "id": 47522173,
-      "title": "Personal Encyclopedias",
-      "link": "https://whoami.wiki/blog/personal-encyclopedias",
-      "score": 862,
-      "author": "jrmyphlmn",
-      "created": "2026-03-25 19:41:51",
-      "created_at": 1774467711000
-    },
-    {
       "id": 47529609,
       "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
       "link": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "score": 652,
+      "score": 654,
       "author": "amarcheschi",
       "created": "2026-03-26 12:24:36",
       "created_at": 1774527876000
@@ -55,7 +28,7 @@
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 614,
+      "score": 624,
       "author": "bentocorp",
       "created": "2026-03-26 21:04:50",
       "created_at": 1774559090000
@@ -64,19 +37,37 @@
       "id": 47525243,
       "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
       "link": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
-      "score": 611,
+      "score": 617,
       "author": "zdw",
       "created": "2026-03-26 00:28:38",
       "created_at": 1774484918000
     },
     {
+      "id": 47548243,
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "link": "",
+      "score": 615,
+      "author": "vmg12",
+      "created": "2026-03-27 21:04:51",
+      "created_at": 1774645491000
+    },
+    {
       "id": 47530330,
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "link": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 608,
+      "score": 611,
       "author": "jslakro",
       "created": "2026-03-26 13:38:25",
       "created_at": 1774532305000
+    },
+    {
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 565,
+      "author": "LucidLynx",
+      "created": "2026-03-27 10:10:41",
+      "created_at": 1774606241000
     },
     {
       "id": 47529646,
@@ -88,13 +79,22 @@
       "created_at": 1774528259000
     },
     {
-      "id": 47540833,
-      "title": "Hold on to Your Hardware",
-      "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 507,
-      "author": "LucidLynx",
-      "created": "2026-03-27 10:10:41",
-      "created_at": 1774606241000
+      "id": 47542057,
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "link": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "score": 519,
+      "author": "robin_reala",
+      "created": "2026-03-27 12:46:49",
+      "created_at": 1774615609000
+    },
+    {
+      "id": 47542695,
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "score": 501,
+      "author": "breve",
+      "created": "2026-03-27 13:54:35",
+      "created_at": 1774619675000
     }
   ],
   "code": 200,

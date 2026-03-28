@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-27T20:26:47.792Z"
+    "lastUpdate": "2026-03-28T01:12:56.534Z"
   },
   "data": [
     {
       "id": 47547009,
       "title": "Make macOS consistently bad (unironically)",
       "link": "https://lr0.org/blog/p/macos/",
-      "score": 90,
+      "score": 285,
       "author": "speckx",
       "created": "2026-03-27 19:15:19",
       "created_at": 1774638919000
     },
     {
+      "id": 47532770,
+      "title": "Improving Composer through real-time RL",
+      "link": "https://cursor.com/blog/real-time-rl-for-composer",
+      "score": 42,
+      "author": "ingve",
+      "created": "2026-03-26 16:48:12",
+      "created_at": 1774543692000
+    },
+    {
+      "id": 47549160,
+      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "link": "https://twitchroulette.net/",
+      "score": 42,
+      "author": "ellg",
+      "created": "2026-03-27 22:22:20",
+      "created_at": 1774650140000
+    },
+    {
+      "id": 47548013,
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "link": "https://github.com/davidmonterocrespo24/velxio",
+      "score": 84,
+      "author": "dmcrespo",
+      "created": "2026-03-27 20:44:33",
+      "created_at": 1774644273000
+    },
+    {
+      "id": 47547508,
+      "title": "ISBN Visualization",
+      "link": "https://annas-archive.gd/isbn-visualization?",
+      "score": 89,
+      "author": "Cider9986",
+      "created": "2026-03-27 20:02:05",
+      "created_at": 1774641725000
+    },
+    {
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 273,
+      "score": 360,
       "author": "freedomben",
       "created": "2026-03-27 14:35:45",
       "created_at": 1774622145000
     },
     {
-      "id": 47542644,
-      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
-      "link": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 154,
-      "author": "8organicbits",
-      "created": "2026-03-27 13:49:51",
-      "created_at": 1774619391000
-    },
-    {
-      "id": 47540388,
-      "title": "Telnyx package compromised on PyPI",
-      "link": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-      "score": 21,
-      "author": "ramimac",
-      "created": "2026-03-27 08:57:02",
-      "created_at": 1774601822000
-    },
-    {
       "id": 47498571,
       "title": "Nashville library launches Memory Lab for digitizing home movies",
       "link": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-      "score": 27,
+      "score": 97,
       "author": "toomuchtodo",
       "created": "2026-03-24 04:22:15",
       "created_at": 1774326135000
     },
     {
-      "id": 47493677,
-      "title": "Explore the Hidden World of Sand",
-      "link": "https://magnifiedsand.com/",
-      "score": 125,
-      "author": "RAAx707",
-      "created": "2026-03-23 18:59:03",
-      "created_at": 1774292343000
+      "id": 47495245,
+      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "link": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
+      "score": 116,
+      "author": "robotnikman",
+      "created": "2026-03-23 21:18:53",
+      "created_at": 1774300733000
     },
     {
-      "id": 47547686,
-      "title": "The telnyx packages on PyPI have been compromised",
-      "link": "https://lwn.net/Articles/1065059/",
-      "score": 4,
-      "author": "amcclure",
-      "created": "2026-03-27 20:17:13",
-      "created_at": 1774642633000
+      "id": 47540388,
+      "title": "Telnyx package compromised on PyPI",
+      "link": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+      "score": 83,
+      "author": "ramimac",
+      "created": "2026-03-27 08:57:02",
+      "created_at": 1774601822000
     },
     {
-      "id": 47533709,
-      "title": "Building FireStriker: Making Civic Tech Free",
-      "link": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
-      "score": 48,
-      "author": "noleary",
-      "created": "2026-03-26 18:03:43",
-      "created_at": 1774548223000
-    },
-    {
-      "id": 47543943,
-      "title": "Desk for people who work at home with a cat",
-      "link": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 252,
-      "author": "zdw",
-      "created": "2026-03-27 15:31:20",
-      "created_at": 1774625480000
-    },
-    {
-      "id": 47545748,
-      "title": "Some uncomfortable truths about AI coding agents",
-      "link": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
-      "score": 27,
-      "author": "borealis-dev",
-      "created": "2026-03-27 17:32:48",
-      "created_at": 1774632768000
+      "id": 47548670,
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "score": 158,
+      "author": "sebastian_z",
+      "created": "2026-03-27 21:41:41",
+      "created_at": 1774647701000
     }
   ],
   "code": 200,
