@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-28T05:17:17.808Z"
+    "lastUpdate": "2026-03-28T08:27:31.058Z"
   },
   "data": [
     {
       "id": 47550282,
-      "title": "Don't YOLO your file system",
+      "title": "Go hard on agents, not on your filesystem",
       "link": "https://jai.scs.stanford.edu/",
-      "score": 171,
+      "score": 300,
       "author": "mazieres",
       "created": "2026-03-28 00:39:54",
       "created_at": 1774658394000
@@ -19,25 +19,61 @@
       "id": 47550878,
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "score": 78,
+      "score": 139,
       "author": "zdw",
       "created": "2026-03-28 02:17:04",
       "created_at": 1774664224000
     },
     {
+      "id": 47552562,
+      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+      "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "score": 6,
+      "author": "TORcicada",
+      "created": "2026-03-28 08:06:19",
+      "created_at": 1774685179000
+    },
+    {
       "id": 47547009,
       "title": "Make macOS consistently bad unironically",
       "link": "https://lr0.org/blog/p/macos/",
-      "score": 349,
+      "score": 388,
       "author": "speckx",
       "created": "2026-03-27 19:15:19",
       "created_at": 1774638919000
     },
     {
+      "id": 47532717,
+      "title": "Trust Signals as Sparklines for Hacker News",
+      "link": "https://hn-trustspark.com/",
+      "score": 19,
+      "author": "solaire_oa",
+      "created": "2026-03-26 16:43:33",
+      "created_at": 1774543413000
+    },
+    {
+      "id": 47520599,
+      "title": "The bee that everyone wants to save",
+      "link": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
+      "score": 79,
+      "author": "nivethan",
+      "created": "2026-03-25 17:35:16",
+      "created_at": 1774460116000
+    },
+    {
+      "id": 47515783,
+      "title": ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
+      "link": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+      "score": 35,
+      "author": "abadar",
+      "created": "2026-03-25 11:09:21",
+      "created_at": 1774436961000
+    },
+    {
       "id": 47495245,
       "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
       "link": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
-      "score": 172,
+      "score": 221,
       "author": "robotnikman",
       "created": "2026-03-23 21:18:53",
       "created_at": 1774300733000
@@ -46,55 +82,19 @@
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 418,
+      "score": 475,
       "author": "freedomben",
       "created": "2026-03-27 14:35:45",
       "created_at": 1774622145000
     },
     {
-      "id": 47549160,
-      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-      "link": "https://twitchroulette.net/",
-      "score": 76,
-      "author": "ellg",
-      "created": "2026-03-27 22:22:20",
-      "created_at": 1774650140000
-    },
-    {
       "id": 47498571,
       "title": "Nashville library launches Memory Lab for digitizing home movies",
       "link": "https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies",
-      "score": 124,
+      "score": 145,
       "author": "toomuchtodo",
       "created": "2026-03-24 04:22:15",
       "created_at": 1774326135000
-    },
-    {
-      "id": 47548013,
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "link": "https://github.com/davidmonterocrespo24/velxio",
-      "score": 111,
-      "author": "dmcrespo",
-      "created": "2026-03-27 20:44:33",
-      "created_at": 1774644273000
-    },
-    {
-      "id": 47520599,
-      "title": "The Bee That Everyone Wants to Save",
-      "link": "https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/",
-      "score": 16,
-      "author": "nivethan",
-      "created": "2026-03-25 17:35:16",
-      "created_at": 1774460116000
-    },
-    {
-      "id": 47551254,
-      "title": "The future of text layout is not CSS",
-      "link": "https://chenglou.me/pretext/editorial-engine/",
-      "score": 9,
-      "author": "skeptrune",
-      "created": "2026-03-28 03:19:34",
-      "created_at": 1774667974000
     }
   ],
   "code": 200,
