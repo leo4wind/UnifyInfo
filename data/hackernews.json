@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-28T08:27:30.879Z"
+    "lastUpdate": "2026-03-28T12:32:08.185Z"
   },
   "data": [
     {
       "id": 47534848,
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
       "link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "score": 886,
+      "score": 890,
       "author": "mmcclure",
       "created": "2026-03-26 19:48:05",
       "created_at": 1774554485000
@@ -19,16 +19,25 @@
       "id": 47548243,
       "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
       "link": "",
-      "score": 664,
+      "score": 681,
       "author": "vmg12",
       "created": "2026-03-27 21:04:51",
       "created_at": 1774645491000
     },
     {
+      "id": 47542695,
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "score": 681,
+      "author": "breve",
+      "created": "2026-03-27 13:54:35",
+      "created_at": 1774619675000
+    },
+    {
       "id": 47529609,
       "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
       "link": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "score": 661,
+      "score": 669,
       "author": "amarcheschi",
       "created": "2026-03-26 12:24:36",
       "created_at": 1774527876000
@@ -37,25 +46,16 @@
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 636,
+      "score": 641,
       "author": "bentocorp",
       "created": "2026-03-26 21:04:50",
       "created_at": 1774559090000
     },
     {
-      "id": 47542695,
-      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 623,
-      "author": "breve",
-      "created": "2026-03-27 13:54:35",
-      "created_at": 1774619675000
-    },
-    {
       "id": 47530330,
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "link": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 619,
+      "score": 627,
       "author": "jslakro",
       "created": "2026-03-26 13:38:25",
       "created_at": 1774532305000
@@ -64,7 +64,7 @@
       "id": 47540833,
       "title": "Hold on to Your Hardware",
       "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 608,
+      "score": 619,
       "author": "LucidLynx",
       "created": "2026-03-27 10:10:41",
       "created_at": 1774606241000
@@ -82,7 +82,7 @@
       "id": 47542057,
       "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
       "link": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 545,
+      "score": 557,
       "author": "robin_reala",
       "created": "2026-03-27 12:46:49",
       "created_at": 1774615609000
@@ -91,7 +91,7 @@
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 475,
+      "score": 511,
       "author": "freedomben",
       "created": "2026-03-27 14:35:45",
       "created_at": 1774622145000
