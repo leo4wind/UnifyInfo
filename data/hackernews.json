@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-29T01:22:38.253Z"
+    "lastUpdate": "2026-03-29T05:30:16.906Z"
   },
   "data": [
+    {
+      "id": 47556729,
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "link": "https://sytse.com/cancer/",
+      "score": 834,
+      "author": "bob_theslob646",
+      "created": "2026-03-28 17:39:49",
+      "created_at": 1774719589000
+    },
     {
       "id": 47542695,
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 737,
+      "score": 741,
       "author": "breve",
       "created": "2026-03-27 13:54:35",
       "created_at": 1774619675000
@@ -19,25 +28,16 @@
       "id": 47548243,
       "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
       "link": "",
-      "score": 710,
+      "score": 713,
       "author": "vmg12",
       "created": "2026-03-27 21:04:51",
       "created_at": 1774645491000
     },
     {
-      "id": 47556729,
-      "title": "Founder of GitLab battles cancer by founding companies",
-      "link": "https://sytse.com/cancer/",
-      "score": 692,
-      "author": "bob_theslob646",
-      "created": "2026-03-28 17:39:49",
-      "created_at": 1774719589000
-    },
-    {
       "id": 47553798,
       "title": "Spanish legislation as a Git repo",
       "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 691,
+      "score": 706,
       "author": "enriquelop",
       "created": "2026-03-28 12:01:27",
       "created_at": 1774699287000
@@ -46,7 +46,7 @@
       "id": 47540833,
       "title": "Hold on to Your Hardware",
       "link": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 637,
+      "score": 639,
       "author": "LucidLynx",
       "created": "2026-03-27 10:10:41",
       "created_at": 1774606241000
@@ -55,7 +55,7 @@
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 594,
+      "score": 596,
       "author": "freedomben",
       "created": "2026-03-27 14:35:45",
       "created_at": 1774622145000
@@ -64,10 +64,19 @@
       "id": 47550282,
       "title": "Go hard on agents, not on your filesystem",
       "link": "https://jai.scs.stanford.edu/",
-      "score": 580,
+      "score": 588,
       "author": "mazieres",
       "created": "2026-03-28 00:39:54",
       "created_at": 1774658394000
+    },
+    {
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 580,
+      "author": "oldfrenchfries",
+      "created": "2026-03-28 14:08:33",
+      "created_at": 1774706913000
     },
     {
       "id": 47542057,
@@ -79,19 +88,10 @@
       "created_at": 1774615609000
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 519,
-      "author": "oldfrenchfries",
-      "created": "2026-03-28 14:08:33",
-      "created_at": 1774706913000
-    },
-    {
       "id": 47547009,
       "title": "Make macOS consistently bad unironically",
       "link": "https://lr0.org/blog/p/macos/",
-      "score": 517,
+      "score": 521,
       "author": "speckx",
       "created": "2026-03-27 19:15:19",
       "created_at": 1774638919000
