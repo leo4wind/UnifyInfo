@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-28T20:18:31.937Z"
+    "lastUpdate": "2026-03-29T01:22:38.535Z"
   },
   "data": [
+    {
+      "id": 47558997,
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "score": 113,
+      "author": "_____k",
+      "created": "2026-03-28 23:29:04",
+      "created_at": 1774740544000
+    },
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 309,
+      "score": 692,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
     },
     {
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 174,
+      "author": "msephton",
+      "created": "2026-03-28 20:39:01",
+      "created_at": 1774730341000
+    },
+    {
+      "id": 47543186,
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "score": 36,
+      "author": "rbanffy",
+      "created": "2026-03-27 14:39:51",
+      "created_at": 1774622391000
+    },
+    {
       "id": 47557166,
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "link": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 60,
+      "score": 143,
       "author": "mean_mistreater",
       "created": "2026-03-28 18:38:59",
       "created_at": 1774723139000
     },
     {
-      "id": 47556359,
-      "title": "Linux is an interpreter",
-      "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 95,
-      "author": "frizlab",
-      "created": "2026-03-28 16:59:34",
-      "created_at": 1774717174000
-    },
-    {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 416,
+      "score": 519,
       "author": "oldfrenchfries",
       "created": "2026-03-28 14:08:33",
       "created_at": 1774706913000
     },
     {
-      "id": 47555556,
-      "title": "I decompiled the White House's new app",
-      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 234,
-      "author": "amarcheschi",
-      "created": "2026-03-28 15:37:17",
-      "created_at": 1774712237000
+      "id": 47535863,
+      "title": "Joining databases across teams without copying data or running servers",
+      "link": "https://datahike.io/notes/collaborate-without-infrastructure/",
+      "score": 13,
+      "author": "whilo",
+      "created": "2026-03-26 21:16:03",
+      "created_at": 1774559763000
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 277,
-      "author": "msephton",
-      "created": "2026-03-28 11:49:28",
-      "created_at": 1774698568000
+      "id": 47557185,
+      "title": "The first 40 months of the AI era",
+      "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "score": 107,
+      "author": "jpmitchell",
+      "created": "2026-03-28 18:42:08",
+      "created_at": 1774723328000
     },
     {
-      "id": 47556267,
-      "title": "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
-      "link": "https://androwish.org/home/wiki?name=undroidwish",
-      "score": 30,
-      "author": "smartmic",
-      "created": "2026-03-28 16:49:46",
-      "created_at": 1774716586000
+      "id": 47556359,
+      "title": "Linux is an interpreter",
+      "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "score": 161,
+      "author": "frizlab",
+      "created": "2026-03-28 16:59:34",
+      "created_at": 1774717174000
     },
     {
-      "id": 47553185,
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "link": "https://github.com/J-x-Z/cocoa-way",
-      "score": 256,
-      "author": "OJFord",
-      "created": "2026-03-28 10:06:13",
-      "created_at": 1774692373000
-    },
-    {
-      "id": 47553798,
-      "title": "Spanish legislation as a Git repo",
-      "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 633,
-      "author": "enriquelop",
-      "created": "2026-03-28 12:01:27",
-      "created_at": 1774699287000
-    },
-    {
-      "id": 47508710,
-      "title": "Detecting file changes on macOS with kqueue",
-      "link": "https://www.vegardstikbakke.com/kqueue/",
-      "score": 26,
-      "author": "benhoyt",
-      "created": "2026-03-24 20:29:44",
-      "created_at": 1774384184000
+      "id": 47506889,
+      "title": "Meta Partners with Arm to Develop New Class of Data Center Silicon",
+      "link": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+      "score": 34,
+      "author": "eatonphil",
+      "created": "2026-03-24 18:17:19",
+      "created_at": 1774376239000
     }
   ],
   "code": 200,
