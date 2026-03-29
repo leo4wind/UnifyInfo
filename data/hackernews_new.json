@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-29T08:29:04.900Z"
+    "lastUpdate": "2026-03-29T12:31:45.737Z"
   },
   "data": [
+    {
+      "id": 47561711,
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 75,
+      "author": "giuliomagnifico",
+      "created": "2026-03-29 09:46:58",
+      "created_at": 1774777618000
+    },
+    {
+      "id": 47562288,
+      "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+      "link": "https://sheetninja.io",
+      "score": 26,
+      "author": "sxa001",
+      "created": "2026-03-29 11:42:31",
+      "created_at": 1774784551000
+    },
+    {
+      "id": 47561819,
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "link": "https://github.com/austin-weeks/miasma",
+      "score": 31,
+      "author": "LucidLynx",
+      "created": "2026-03-29 10:10:12",
+      "created_at": 1774779012000
+    },
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 965,
+      "score": 1136,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
     },
     {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 306,
-      "author": "msephton",
-      "created": "2026-03-28 20:39:01",
-      "created_at": 1774730341000
+      "id": 47524778,
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "link": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "score": 99,
+      "author": "birdculture",
+      "created": "2026-03-25 23:35:47",
+      "created_at": 1774481747000
     },
     {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 629,
+      "score": 673,
       "author": "oldfrenchfries",
       "created": "2026-03-28 14:08:33",
       "created_at": 1774706913000
     },
     {
-      "id": 47560981,
-      "title": "The road to electric – in charts and data [UK]",
-      "link": "https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/",
-      "score": 9,
-      "author": "zeristor",
-      "created": "2026-03-29 07:00:48",
-      "created_at": 1774767648000
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 383,
+      "author": "msephton",
+      "created": "2026-03-28 20:39:01",
+      "created_at": 1774730341000
     },
     {
-      "id": 47559481,
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "link": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 113,
-      "author": "bookofjoe",
-      "created": "2026-03-29 00:53:30",
-      "created_at": 1774745610000
+      "id": 47533324,
+      "title": "Siclair Microvision (1977)",
+      "link": "https://r-type.org/articles/art-452.htm",
+      "score": 20,
+      "author": "joebig",
+      "created": "2026-03-26 17:33:25",
+      "created_at": 1774546405000
     },
     {
-      "id": 47536306,
-      "title": "The ANSI art \"telecomics\" of the 1992 election",
-      "link": "https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/",
-      "score": 34,
-      "author": "Kirkman14",
-      "created": "2026-03-26 21:54:18",
-      "created_at": 1774562058000
+      "id": 47541969,
+      "title": "I turned my Kindle into my own personal newspaper",
+      "link": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
+      "score": 56,
+      "author": "rpgbr",
+      "created": "2026-03-27 12:36:21",
+      "created_at": 1774614981000
     },
     {
-      "id": 47528853,
-      "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
-      "link": "https://github.com/ben-j-c/verilog2factorio",
-      "score": 62,
-      "author": "signa11",
-      "created": "2026-03-26 10:47:36",
-      "created_at": 1774522056000
-    },
-    {
-      "id": 47543186,
-      "title": "OpenBSD on Motorola 88000 Processors",
-      "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
-      "score": 86,
-      "author": "rbanffy",
-      "created": "2026-03-27 14:39:51",
-      "created_at": 1774622391000
-    },
-    {
-      "id": 47557166,
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "link": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 198,
-      "author": "mean_mistreater",
-      "created": "2026-03-28 18:38:59",
-      "created_at": 1774723139000
-    },
-    {
-      "id": 47555556,
-      "title": "I decompiled the White House's new app",
-      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 496,
-      "author": "amarcheschi",
-      "created": "2026-03-28 15:37:17",
-      "created_at": 1774712237000
+      "id": 47561496,
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "link": "https://github.com/1st1/lat.md",
+      "score": 30,
+      "author": "doppp",
+      "created": "2026-03-29 08:59:52",
+      "created_at": 1774774792000
     }
   ],
   "code": 200,
