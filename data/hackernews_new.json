@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-29T12:31:45.737Z"
+    "lastUpdate": "2026-03-29T16:23:37.941Z"
   },
   "data": [
+    {
+      "id": 47563655,
+      "title": "Say No to Palantir in Europe",
+      "link": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+      "score": 223,
+      "author": "Betelbuddy",
+      "created": "2026-03-29 14:51:20",
+      "created_at": 1774795880000
+    },
     {
       "id": 47561711,
       "title": "Overestimation of microplastics potentially caused by scientists' gloves",
       "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 75,
+      "score": 350,
       "author": "giuliomagnifico",
       "created": "2026-03-29 09:46:58",
       "created_at": 1774777618000
     },
     {
-      "id": 47562288,
-      "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
-      "link": "https://sheetninja.io",
-      "score": 26,
-      "author": "sxa001",
-      "created": "2026-03-29 11:42:31",
-      "created_at": 1774784551000
-    },
-    {
       "id": 47561819,
       "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
       "link": "https://github.com/austin-weeks/miasma",
-      "score": 31,
+      "score": 177,
       "author": "LucidLynx",
       "created": "2026-03-29 10:10:12",
       "created_at": 1774779012000
     },
     {
+      "id": 47564246,
+      "title": "Stop Publishing Garbage Data, It's Embarrassing",
+      "link": "https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/",
+      "score": 10,
+      "author": "hermitcrab",
+      "created": "2026-03-29 15:54:27",
+      "created_at": 1774799667000
+    },
+    {
+      "id": 47563384,
+      "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "score": 85,
+      "author": "ourmandave",
+      "created": "2026-03-29 14:20:23",
+      "created_at": 1774794023000
+    },
+    {
+      "id": 47563921,
+      "title": "App that shows real-time lightning on Earth is showing bombings in Middle East",
+      "link": "https://maps.blitzortung.org/",
+      "score": 15,
+      "author": "0ut0flin3",
+      "created": "2026-03-29 15:22:21",
+      "created_at": 1774797741000
+    },
+    {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 1136,
+      "score": 1252,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
     },
     {
+      "id": 47561489,
+      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "link": "",
+      "score": 243,
+      "author": "hrncode",
+      "created": "2026-03-29 08:58:24",
+      "created_at": 1774774704000
+    },
+    {
       "id": 47524778,
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "link": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 99,
+      "score": 182,
       "author": "birdculture",
       "created": "2026-03-25 23:35:47",
       "created_at": 1774481747000
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 673,
-      "author": "oldfrenchfries",
-      "created": "2026-03-28 14:08:33",
-      "created_at": 1774706913000
-    },
-    {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 383,
-      "author": "msephton",
-      "created": "2026-03-28 20:39:01",
-      "created_at": 1774730341000
-    },
-    {
-      "id": 47533324,
-      "title": "Siclair Microvision (1977)",
-      "link": "https://r-type.org/articles/art-452.htm",
-      "score": 20,
-      "author": "joebig",
-      "created": "2026-03-26 17:33:25",
-      "created_at": 1774546405000
-    },
-    {
-      "id": 47541969,
-      "title": "I turned my Kindle into my own personal newspaper",
-      "link": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
-      "score": 56,
-      "author": "rpgbr",
-      "created": "2026-03-27 12:36:21",
-      "created_at": 1774614981000
-    },
-    {
-      "id": 47561496,
-      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-      "link": "https://github.com/1st1/lat.md",
-      "score": 30,
-      "author": "doppp",
-      "created": "2026-03-29 08:59:52",
-      "created_at": 1774774792000
+      "id": 47510005,
+      "title": "Show HN: Create a full language server in Go with 3.17 spec support",
+      "link": "https://github.com/owenrumney/go-lsp",
+      "score": 47,
+      "author": "rumno0",
+      "created": "2026-03-24 21:56:07",
+      "created_at": 1774389367000
     }
   ],
   "code": 200,
