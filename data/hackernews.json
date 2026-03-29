@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-29T05:30:16.906Z"
+    "lastUpdate": "2026-03-29T08:29:04.505Z"
   },
   "data": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 834,
+      "score": 965,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
@@ -19,28 +19,28 @@
       "id": 47542695,
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "score": 741,
+      "score": 744,
       "author": "breve",
       "created": "2026-03-27 13:54:35",
       "created_at": 1774619675000
     },
     {
-      "id": 47548243,
-      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-      "link": "",
-      "score": 713,
-      "author": "vmg12",
-      "created": "2026-03-27 21:04:51",
-      "created_at": 1774645491000
-    },
-    {
       "id": 47553798,
       "title": "Spanish legislation as a Git repo",
       "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 706,
+      "score": 726,
       "author": "enriquelop",
       "created": "2026-03-28 12:01:27",
       "created_at": 1774699287000
+    },
+    {
+      "id": 47548243,
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "link": "",
+      "score": 717,
+      "author": "vmg12",
+      "created": "2026-03-27 21:04:51",
+      "created_at": 1774645491000
     },
     {
       "id": 47540833,
@@ -52,10 +52,19 @@
       "created_at": 1774606241000
     },
     {
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 629,
+      "author": "oldfrenchfries",
+      "created": "2026-03-28 14:08:33",
+      "created_at": 1774706913000
+    },
+    {
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 596,
+      "score": 598,
       "author": "freedomben",
       "created": "2026-03-27 14:35:45",
       "created_at": 1774622145000
@@ -64,25 +73,16 @@
       "id": 47550282,
       "title": "Go hard on agents, not on your filesystem",
       "link": "https://jai.scs.stanford.edu/",
-      "score": 588,
+      "score": 594,
       "author": "mazieres",
       "created": "2026-03-28 00:39:54",
       "created_at": 1774658394000
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 580,
-      "author": "oldfrenchfries",
-      "created": "2026-03-28 14:08:33",
-      "created_at": 1774706913000
-    },
-    {
       "id": 47542057,
       "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
       "link": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 572,
+      "score": 573,
       "author": "robin_reala",
       "created": "2026-03-27 12:46:49",
       "created_at": 1774615609000
