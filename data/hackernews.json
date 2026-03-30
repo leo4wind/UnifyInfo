@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-30T01:23:15.124Z"
+    "lastUpdate": "2026-03-30T05:53:57.403Z"
   },
   "data": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 1333,
+      "score": 1348,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
@@ -19,7 +19,7 @@
       "id": 47553798,
       "title": "Spanish legislation as a Git repo",
       "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 793,
+      "score": 794,
       "author": "enriquelop",
       "created": "2026-03-28 12:01:27",
       "created_at": 1774699287000
@@ -28,43 +28,34 @@
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 760,
+      "score": 762,
       "author": "oldfrenchfries",
       "created": "2026-03-28 14:08:33",
       "created_at": 1774706913000
     },
     {
-      "id": 47555556,
-      "title": "I decompiled the White House's new app",
-      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 626,
-      "author": "amarcheschi",
-      "created": "2026-03-28 15:37:17",
-      "created_at": 1774712237000
-    },
-    {
-      "id": 47550282,
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "score": 615,
-      "author": "mazieres",
-      "created": "2026-03-28 00:39:54",
-      "created_at": 1774658394000
-    },
-    {
       "id": 47561489,
       "title": "LinkedIn uses 2.4 GB RAM across two tabs",
       "link": "",
-      "score": 604,
+      "score": 684,
       "author": "hrncode",
       "created": "2026-03-29 08:58:24",
       "created_at": 1774774704000
     },
     {
+      "id": 47555556,
+      "title": "I decompiled the White House's new app",
+      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 629,
+      "author": "amarcheschi",
+      "created": "2026-03-28 15:37:17",
+      "created_at": 1774712237000
+    },
+    {
       "id": 47563655,
       "title": "Say No to Palantir in Europe",
       "link": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-      "score": 524,
+      "score": 536,
       "author": "Betelbuddy",
       "created": "2026-03-29 14:51:20",
       "created_at": 1774795880000
@@ -73,7 +64,7 @@
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 503,
+      "score": 534,
       "author": "giuliomagnifico",
       "created": "2026-03-29 09:46:58",
       "created_at": 1774777618000
@@ -82,19 +73,28 @@
       "id": 47557960,
       "title": "CSS is DOOMed",
       "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 475,
+      "score": 479,
       "author": "msephton",
       "created": "2026-03-28 20:39:01",
       "created_at": 1774730341000
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 447,
-      "author": "msephton",
-      "created": "2026-03-28 11:49:28",
-      "created_at": 1774698568000
+      "id": 47564421,
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "score": 459,
+      "author": "speckx",
+      "created": "2026-03-29 16:12:22",
+      "created_at": 1774800742000
+    },
+    {
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 455,
+      "author": "alberto-m",
+      "created": "2026-03-29 20:21:05",
+      "created_at": 1774815665000
     }
   ],
   "code": 200,
