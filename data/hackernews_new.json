@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-30T16:45:19.685Z"
+    "lastUpdate": "2026-03-30T20:34:34.793Z"
   },
   "data": [
+    {
+      "id": 47577761,
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 151,
+      "author": "speckx",
+      "created": "2026-03-30 18:16:00",
+      "created_at": 1774894560000
+    },
+    {
+      "id": 47573519,
+      "title": "Do your own writing",
+      "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 151,
+      "author": "karimf",
+      "created": "2026-03-30 12:39:56",
+      "created_at": 1774874396000
+    },
+    {
+      "id": 47579085,
+      "title": "We Hid a Free Trip to Switzerland in Our Privacy Policy. Someone Found It",
+      "link": "https://www.cape.co/blog/easter-egg-in-privacy-policy",
+      "score": 20,
+      "author": "bwoah",
+      "created": "2026-03-30 20:05:13",
+      "created_at": 1774901113000
+    },
     {
       "id": 47574034,
       "title": "How to turn anything into a router",
       "link": "https://nbailey.ca/post/router/",
-      "score": 247,
+      "score": 477,
       "author": "yabones",
       "created": "2026-03-30 13:28:54",
       "created_at": 1774877334000
     },
     {
+      "id": 47578572,
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "link": "https://anishathalye.com/macbook-touchscreen/",
+      "score": 38,
+      "author": "HughParry",
+      "created": "2026-03-30 19:22:33",
+      "created_at": 1774898553000
+    },
+    {
       "id": 47573887,
-      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "title": "Bird brains (2023)",
       "link": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 173,
+      "score": 262,
       "author": "DiffTheEnder",
       "created": "2026-03-30 13:14:27",
       "created_at": 1774876467000
     },
     {
-      "id": 47575403,
-      "title": "CodingFont: A game to help you pick a coding font",
-      "link": "https://www.codingfont.com/",
-      "score": 51,
-      "author": "nvahalik",
-      "created": "2026-03-30 15:16:35",
-      "created_at": 1774883795000
+      "id": 47549824,
+      "title": "Cherri – programming language that compiles to an Apple Shortuct",
+      "link": "https://github.com/electrikmilk/cherri",
+      "score": 156,
+      "author": "mihau",
+      "created": "2026-03-27 23:39:44",
+      "created_at": 1774654784000
     },
     {
-      "id": 47575950,
-      "title": "Bitwarden Integrates with OneCLI Agent Vault",
-      "link": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
+      "id": 47576055,
+      "title": "OCR for construction documents does not work, we fixed it",
+      "link": "https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors",
+      "score": 79,
+      "author": "wcisco17",
+      "created": "2026-03-30 16:05:46",
+      "created_at": 1774886746000
+    },
+    {
+      "id": 47578464,
+      "title": "William Blake, Remote by the Sea",
+      "link": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea",
       "score": 19,
-      "author": "sudo_chmod",
-      "created": "2026-03-30 15:59:01",
-      "created_at": 1774886341000
+      "author": "occurrence",
+      "created": "2026-03-30 19:13:05",
+      "created_at": 1774897985000
     },
     {
-      "id": 47575212,
-      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
-      "link": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-      "score": 178,
-      "author": "bundie",
-      "created": "2026-03-30 15:00:28",
-      "created_at": 1774882828000
-    },
-    {
-      "id": 47567242,
-      "title": "Build123d: A Python CAD programming library",
-      "link": "https://github.com/gumyr/build123d",
-      "score": 33,
-      "author": "Ivoah",
-      "created": "2026-03-29 20:58:22",
-      "created_at": 1774817902000
-    },
-    {
-      "id": 47572771,
-      "title": "Mathematical methods and human thought in the age of AI",
-      "link": "https://arxiv.org/abs/2603.26524",
-      "score": 137,
-      "author": "zaikunzhang",
-      "created": "2026-03-30 11:05:37",
-      "created_at": 1774868737000
-    },
-    {
-      "id": 47575089,
-      "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
-      "link": "https://eco3min.fr/en/us-inflation-is-not-linear/",
-      "score": 119,
-      "author": "latentframe",
-      "created": "2026-03-30 14:49:58",
-      "created_at": 1774882198000
-    },
-    {
-      "id": 47566865,
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 878,
-      "author": "alberto-m",
-      "created": "2026-03-29 20:21:05",
-      "created_at": 1774815665000
-    },
-    {
-      "id": 47575616,
-      "title": "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
-      "link": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-      "score": 49,
-      "author": "gnabgib",
-      "created": "2026-03-30 15:32:37",
-      "created_at": 1774884757000
+      "id": 47556063,
+      "title": "Seeing Like a Spreadsheet",
+      "link": "https://davidoks.blog/p/how-the-spreadsheet-reshaped-america",
+      "score": 26,
+      "author": "paulpauper",
+      "created": "2026-03-28 16:28:32",
+      "created_at": 1774715312000
     }
   ],
   "code": 200,
