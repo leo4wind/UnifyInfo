@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-30T05:53:57.403Z"
+    "lastUpdate": "2026-03-30T09:02:49.082Z"
   },
   "data": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "link": "https://sytse.com/cancer/",
-      "score": 1348,
+      "score": 1356,
       "author": "bob_theslob646",
       "created": "2026-03-28 17:39:49",
       "created_at": 1774719589000
@@ -19,7 +19,7 @@
       "id": 47553798,
       "title": "Spanish legislation as a Git repo",
       "link": "https://github.com/EnriqueLop/legalize-es",
-      "score": 794,
+      "score": 799,
       "author": "enriquelop",
       "created": "2026-03-28 12:01:27",
       "created_at": 1774699287000
@@ -28,7 +28,7 @@
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 762,
+      "score": 770,
       "author": "oldfrenchfries",
       "created": "2026-03-28 14:08:33",
       "created_at": 1774706913000
@@ -37,7 +37,7 @@
       "id": 47561489,
       "title": "LinkedIn uses 2.4 GB RAM across two tabs",
       "link": "",
-      "score": 684,
+      "score": 719,
       "author": "hrncode",
       "created": "2026-03-29 08:58:24",
       "created_at": 1774774704000
@@ -46,16 +46,25 @@
       "id": 47555556,
       "title": "I decompiled the White House's new app",
       "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 629,
+      "score": 632,
       "author": "amarcheschi",
       "created": "2026-03-28 15:37:17",
       "created_at": 1774712237000
     },
     {
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 612,
+      "author": "alberto-m",
+      "created": "2026-03-29 20:21:05",
+      "created_at": 1774815665000
+    },
+    {
       "id": 47563655,
       "title": "Say No to Palantir in Europe",
       "link": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-      "score": 536,
+      "score": 551,
       "author": "Betelbuddy",
       "created": "2026-03-29 14:51:20",
       "created_at": 1774795880000
@@ -64,37 +73,28 @@
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 534,
+      "score": 541,
       "author": "giuliomagnifico",
       "created": "2026-03-29 09:46:58",
       "created_at": 1774777618000
     },
     {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 479,
-      "author": "msephton",
-      "created": "2026-03-28 20:39:01",
-      "created_at": 1774730341000
-    },
-    {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 459,
+      "score": 521,
       "author": "speckx",
       "created": "2026-03-29 16:12:22",
       "created_at": 1774800742000
     },
     {
-      "id": 47566865,
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 455,
-      "author": "alberto-m",
-      "created": "2026-03-29 20:21:05",
-      "created_at": 1774815665000
+      "id": 47570269,
+      "title": "Copilot edited an ad into my PR",
+      "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "score": 493,
+      "author": "pavo-etc",
+      "created": "2026-03-30 04:04:31",
+      "created_at": 1774843471000
     }
   ],
   "code": 200,
