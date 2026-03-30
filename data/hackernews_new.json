@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-30T09:02:49.433Z"
+    "lastUpdate": "2026-03-30T12:53:33.902Z"
   },
   "data": [
+    {
+      "id": 47573420,
+      "title": "How the AI Bubble Bursts",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "score": 29,
+      "author": "martinvol",
+      "created": "2026-03-30 12:28:36",
+      "created_at": 1774873716000
+    },
+    {
+      "id": 47572771,
+      "title": "Mathematical methods and human thought in the age of AI",
+      "link": "https://arxiv.org/abs/2603.26524",
+      "score": 34,
+      "author": "zaikunzhang",
+      "created": "2026-03-30 11:05:37",
+      "created_at": 1774868737000
+    },
     {
       "id": 47570666,
       "title": "The curious case of retro demo scene graphics",
       "link": "https://www.datagubbe.se/aipixels/",
-      "score": 136,
+      "score": 234,
       "author": "zdw",
       "created": "2026-03-30 05:27:18",
       "created_at": 1774848438000
@@ -19,7 +37,7 @@
       "id": 47571376,
       "title": "I use excalidraw to manage my diagrams for my blog",
       "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "score": 36,
+      "score": 123,
       "author": "mlysk",
       "created": "2026-03-30 07:17:06",
       "created_at": 1774855026000
@@ -28,16 +46,34 @@
       "id": 47566865,
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 612,
+      "score": 750,
       "author": "alberto-m",
       "created": "2026-03-29 20:21:05",
       "created_at": 1774815665000
     },
     {
+      "id": 47572910,
+      "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
+      "link": "https://www.mgrunwald.com/ghostmoon/",
+      "score": 55,
+      "author": "mgrunwald_",
+      "created": "2026-03-30 11:25:50",
+      "created_at": 1774869950000
+    },
+    {
+      "id": 47518264,
+      "title": "Comprehensive C++ Hashmap Benchmarks (2022)",
+      "link": "https://martin.ankerl.com/2022/08/27/hashmap-bench-01/",
+      "score": 14,
+      "author": "klaussilveira",
+      "created": "2026-03-25 15:01:59",
+      "created_at": 1774450919000
+    },
+    {
       "id": 47571495,
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "score": 20,
+      "score": 71,
       "author": "sebzuddas",
       "created": "2026-03-30 07:34:04",
       "created_at": 1774856044000
@@ -46,7 +82,7 @@
       "id": 47570435,
       "title": "VHDL's Crown Jewel",
       "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "score": 49,
+      "score": 84,
       "author": "cokernel_hacker",
       "created": "2026-03-30 04:39:15",
       "created_at": 1774845555000
@@ -55,46 +91,10 @@
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 521,
+      "score": 583,
       "author": "speckx",
       "created": "2026-03-29 16:12:22",
       "created_at": 1774800742000
-    },
-    {
-      "id": 47570269,
-      "title": "Copilot edited an ad into my PR",
-      "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "score": 493,
-      "author": "pavo-etc",
-      "created": "2026-03-30 04:04:31",
-      "created_at": 1774843471000
-    },
-    {
-      "id": 47545607,
-      "title": "15 Years of Forking",
-      "link": "https://www.waterfox.com/blog/15-years-of-forking/",
-      "score": 160,
-      "author": "MrAlex94",
-      "created": "2026-03-27 17:22:11",
-      "created_at": 1774632131000
-    },
-    {
-      "id": 47568028,
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "score": 168,
-      "author": "rogueleaderr",
-      "created": "2026-03-29 22:21:34",
-      "created_at": 1774822894000
-    },
-    {
-      "id": 47565365,
-      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
-      "link": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "score": 227,
-      "author": "pjmlp",
-      "created": "2026-03-29 17:46:12",
-      "created_at": 1774806372000
     }
   ],
   "code": 200,
