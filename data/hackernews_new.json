@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-30T12:53:33.902Z"
+    "lastUpdate": "2026-03-30T16:45:19.685Z"
   },
   "data": [
     {
-      "id": 47573420,
-      "title": "How the AI Bubble Bursts",
-      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-      "score": 29,
-      "author": "martinvol",
-      "created": "2026-03-30 12:28:36",
-      "created_at": 1774873716000
+      "id": 47574034,
+      "title": "How to turn anything into a router",
+      "link": "https://nbailey.ca/post/router/",
+      "score": 247,
+      "author": "yabones",
+      "created": "2026-03-30 13:28:54",
+      "created_at": 1774877334000
+    },
+    {
+      "id": 47573887,
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "link": "https://www.dhanishsemar.com/writing/bird-brains",
+      "score": 173,
+      "author": "DiffTheEnder",
+      "created": "2026-03-30 13:14:27",
+      "created_at": 1774876467000
+    },
+    {
+      "id": 47575403,
+      "title": "CodingFont: A game to help you pick a coding font",
+      "link": "https://www.codingfont.com/",
+      "score": 51,
+      "author": "nvahalik",
+      "created": "2026-03-30 15:16:35",
+      "created_at": 1774883795000
+    },
+    {
+      "id": 47575950,
+      "title": "Bitwarden Integrates with OneCLI Agent Vault",
+      "link": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
+      "score": 19,
+      "author": "sudo_chmod",
+      "created": "2026-03-30 15:59:01",
+      "created_at": 1774886341000
+    },
+    {
+      "id": 47575212,
+      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
+      "link": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+      "score": 178,
+      "author": "bundie",
+      "created": "2026-03-30 15:00:28",
+      "created_at": 1774882828000
+    },
+    {
+      "id": 47567242,
+      "title": "Build123d: A Python CAD programming library",
+      "link": "https://github.com/gumyr/build123d",
+      "score": 33,
+      "author": "Ivoah",
+      "created": "2026-03-29 20:58:22",
+      "created_at": 1774817902000
     },
     {
       "id": 47572771,
       "title": "Mathematical methods and human thought in the age of AI",
       "link": "https://arxiv.org/abs/2603.26524",
-      "score": 34,
+      "score": 137,
       "author": "zaikunzhang",
       "created": "2026-03-30 11:05:37",
       "created_at": 1774868737000
     },
     {
-      "id": 47570666,
-      "title": "The curious case of retro demo scene graphics",
-      "link": "https://www.datagubbe.se/aipixels/",
-      "score": 234,
-      "author": "zdw",
-      "created": "2026-03-30 05:27:18",
-      "created_at": 1774848438000
-    },
-    {
-      "id": 47571376,
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "score": 123,
-      "author": "mlysk",
-      "created": "2026-03-30 07:17:06",
-      "created_at": 1774855026000
+      "id": 47575089,
+      "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
+      "link": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+      "score": 119,
+      "author": "latentframe",
+      "created": "2026-03-30 14:49:58",
+      "created_at": 1774882198000
     },
     {
       "id": 47566865,
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 750,
+      "score": 878,
       "author": "alberto-m",
       "created": "2026-03-29 20:21:05",
       "created_at": 1774815665000
     },
     {
-      "id": 47572910,
-      "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
-      "link": "https://www.mgrunwald.com/ghostmoon/",
-      "score": 55,
-      "author": "mgrunwald_",
-      "created": "2026-03-30 11:25:50",
-      "created_at": 1774869950000
-    },
-    {
-      "id": 47518264,
-      "title": "Comprehensive C++ Hashmap Benchmarks (2022)",
-      "link": "https://martin.ankerl.com/2022/08/27/hashmap-bench-01/",
-      "score": 14,
-      "author": "klaussilveira",
-      "created": "2026-03-25 15:01:59",
-      "created_at": 1774450919000
-    },
-    {
-      "id": 47571495,
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "score": 71,
-      "author": "sebzuddas",
-      "created": "2026-03-30 07:34:04",
-      "created_at": 1774856044000
-    },
-    {
-      "id": 47570435,
-      "title": "VHDL's Crown Jewel",
-      "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "score": 84,
-      "author": "cokernel_hacker",
-      "created": "2026-03-30 04:39:15",
-      "created_at": 1774845555000
-    },
-    {
-      "id": 47564421,
-      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 583,
-      "author": "speckx",
-      "created": "2026-03-29 16:12:22",
-      "created_at": 1774800742000
+      "id": 47575616,
+      "title": "FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data",
+      "link": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+      "score": 49,
+      "author": "gnabgib",
+      "created": "2026-03-30 15:32:37",
+      "created_at": 1774884757000
     }
   ],
   "code": 200,
