@@ -3,50 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-31T05:40:21.818Z"
+    "lastUpdate": "2026-03-31T08:45:16.977Z"
   },
   "data": [
     {
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 334,
+      "score": 700,
       "author": "mtud",
       "created": "2026-03-31 02:54:17",
       "created_at": 1774925657000
     },
     {
-      "id": 47581701,
-      "title": "Universal Claude.md – cut Claude output tokens",
-      "link": "https://github.com/drona23/claude-token-efficient",
-      "score": 222,
-      "author": "killme2008",
-      "created": "2026-03-31 01:23:34",
-      "created_at": 1774920214000
-    },
-    {
-      "id": 47582043,
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 146,
-      "author": "idlewords",
-      "created": "2026-03-31 02:23:50",
-      "created_at": 1774923830000
-    },
-    {
       "id": 47582482,
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "link": "https://ollama.com/blog/mlx",
-      "score": 76,
+      "score": 216,
       "author": "redundantly",
       "created": "2026-03-31 03:40:45",
       "created_at": 1774928445000
     },
     {
+      "id": 47582043,
+      "title": "Artemis II is not safe to fly",
+      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 286,
+      "author": "idlewords",
+      "created": "2026-03-31 02:23:50",
+      "created_at": 1774923830000
+    },
+    {
+      "id": 47581701,
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "link": "https://github.com/drona23/claude-token-efficient",
+      "score": 285,
+      "author": "killme2008",
+      "created": "2026-03-31 01:23:34",
+      "created_at": 1774920214000
+    },
+    {
       "id": 47583045,
       "title": "Google's 200M-parameter time-series foundation model with 16k context",
       "link": "https://github.com/google-research/timesfm",
-      "score": 7,
+      "score": 99,
       "author": "codepawl",
       "created": "2026-03-31 05:21:59",
       "created_at": 1774934519000
@@ -55,7 +55,7 @@
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 504,
+      "score": 557,
       "author": "speckx",
       "created": "2026-03-30 18:16:00",
       "created_at": 1774894560000
@@ -64,37 +64,28 @@
       "id": 47573519,
       "title": "Do your own writing",
       "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 449,
+      "score": 521,
       "author": "karimf",
       "created": "2026-03-30 12:39:56",
       "created_at": 1774874396000
     },
     {
-      "id": 47580297,
-      "title": "Android Developer Verification",
-      "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 196,
-      "author": "ingve",
-      "created": "2026-03-30 22:05:21",
-      "created_at": 1774908321000
-    },
-    {
       "id": 47532891,
       "title": "Clojure: The Documentary, official trailer [video]",
       "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "score": 103,
+      "score": 176,
       "author": "fogus",
       "created": "2026-03-26 17:00:54",
       "created_at": 1774544454000
     },
     {
-      "id": 47578572,
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "link": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 263,
-      "author": "HughParry",
-      "created": "2026-03-30 19:22:33",
-      "created_at": 1774898553000
+      "id": 47572162,
+      "title": "We're Pausing Asimov Press",
+      "link": "https://www.asimov.press/p/pause",
+      "score": 18,
+      "author": "bookofjoe",
+      "created": "2026-03-30 09:18:47",
+      "created_at": 1774862327000
     }
   ],
   "code": 200,

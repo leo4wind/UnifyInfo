@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-31T05:40:25.615Z"
+    "lastUpdate": "2026-03-31T08:45:21.688Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-04-09",
       "ssrq": null,
       "syl": null,
-      "hysyl": 63.36,
+      "hysyl": 63.25,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,12 +45,35 @@
       "zqjkrq": "2026-04-08",
       "ssrq": null,
       "syl": null,
-      "hysyl": 63.36,
+      "hysyl": 63.25,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "数据中心企业级SSD产品的研发和销售"
+    },
+    {
+      "zqdm": "920012",
+      "zqjc": "创达新材",
+      "sgdm": "920012",
+      "fxsl": 12329345,
+      "swfxsl": 11096411,
+      "sgsx": 554800,
+      "dgsz": 5548000,
+      "fxjg": 19.58,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-01",
+      "zqgbrq": "2026-04-07",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 63.36,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "高性能热固性复合材料的研发、生产和销售,同时提供电子行业洁净室工程领域环氧工程材料及服务"
     },
     {
       "zqdm": "920181",
@@ -80,7 +103,7 @@
       "zqjc": "有研复材",
       "sgdm": "787811",
       "fxsl": 130435137,
-      "swfxsl": 18260500,
+      "swfxsl": 28184000,
       "sgsx": 18000,
       "dgsz": 180000,
       "fxjg": 6.41,
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 58.09,
       "hysyl": 36.24,
-      "wszql": null,
+      "wszql": 0.03128599,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -168,5 +191,5 @@
       "zyyw": "公司专业从事微特电机的研发、生产和销售,产品广泛应用于以吸尘器为主的清洁电器领域"
     }
   ],
-  "total": 7
+  "total": 8
 }
