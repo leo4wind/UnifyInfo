@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-31T16:47:38.060Z"
+    "lastUpdate": "2026-03-31T20:33:24.079Z"
   },
   "data": [
     {
-      "id": 47582220,
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1514,
-      "author": "mtud",
-      "created": "2026-03-31 02:54:17",
-      "created_at": 1774925657000
+      "id": 47591928,
+      "title": "GitHub's Historic Uptime",
+      "link": "https://damrnelson.github.io/github-historical-uptime/",
+      "score": 204,
+      "author": "todsacerdoti",
+      "created": "2026-03-31 19:01:29",
+      "created_at": 1774983689000
     },
     {
-      "id": 47586614,
-      "title": "Open source CAD in the browser (Solvespace)",
-      "link": "https://solvespace.com/webver.pl",
-      "score": 134,
-      "author": "phkahler",
-      "created": "2026-03-31 12:50:23",
-      "created_at": 1774961423000
-    },
-    {
-      "id": 47588349,
-      "title": "GitHub Monaspace Case Study",
-      "link": "https://lettermatic.com/custom/monaspace-case-study",
-      "score": 39,
-      "author": "homebrewer",
-      "created": "2026-03-31 15:01:35",
-      "created_at": 1774969295000
-    },
-    {
-      "id": 47589818,
-      "title": "Cohere Transcribe: Speech Recognition",
-      "link": "https://cohere.com/blog/transcribe",
-      "score": 10,
-      "author": "gmays",
-      "created": "2026-03-31 16:27:02",
-      "created_at": 1774974422000
-    },
-    {
-      "id": 47587935,
-      "title": "Oracle slashes 30k jobs",
-      "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 492,
-      "author": "pje",
-      "created": "2026-03-31 14:30:48",
-      "created_at": 1774967448000
-    },
-    {
-      "id": 47582482,
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "link": "https://ollama.com/blog/mlx",
-      "score": 522,
-      "author": "redundantly",
-      "created": "2026-03-31 03:40:45",
-      "created_at": 1774928445000
-    },
-    {
-      "id": 47582043,
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 687,
-      "author": "idlewords",
-      "created": "2026-03-31 02:23:50",
-      "created_at": 1774923830000
+      "id": 47586778,
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 288,
+      "author": "alex000kim",
+      "created": "2026-03-31 13:04:30",
+      "created_at": 1774962270000
     },
     {
       "id": 47584540,
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1119,
+      "score": 1696,
       "author": "treexs",
       "created": "2026-03-31 09:00:40",
       "created_at": 1774947640000
     },
     {
-      "id": 47585974,
-      "title": "Combinators",
-      "link": "https://tinyapl.rubenverg.com/docs/info/combinators",
-      "score": 80,
-      "author": "tosh",
-      "created": "2026-03-31 11:49:03",
-      "created_at": 1774957743000
+      "id": 47589818,
+      "title": "Cohere Transcribe: Speech Recognition",
+      "link": "https://cohere.com/blog/transcribe",
+      "score": 112,
+      "author": "gmays",
+      "created": "2026-03-31 16:27:02",
+      "created_at": 1774974422000
     },
     {
-      "id": 47589011,
-      "title": "Italy blocks US use of Sicily air base for Middle East war",
-      "link": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
-      "score": 98,
-      "author": "prmph",
-      "created": "2026-03-31 15:39:45",
-      "created_at": 1774971585000
+      "id": 47587953,
+      "title": "Slop is not necessarily the future",
+      "link": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 99,
+      "author": "dakshgupta",
+      "created": "2026-03-31 14:32:26",
+      "created_at": 1774967546000
+    },
+    {
+      "id": 47589856,
+      "title": "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
+      "link": "https://github.com/timescale/pg_textsearch",
+      "score": 36,
+      "author": "tjgreen",
+      "created": "2026-03-31 16:29:52",
+      "created_at": 1774974592000
+    },
+    {
+      "id": 47586614,
+      "title": "Open source CAD in the browser (Solvespace)",
+      "link": "https://solvespace.com/webver.pl",
+      "score": 231,
+      "author": "phkahler",
+      "created": "2026-03-31 12:50:23",
+      "created_at": 1774961423000
+    },
+    {
+      "id": 47592755,
+      "title": "Accelerating the Next Phase of AI",
+      "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 15,
+      "author": "surprisetalk",
+      "created": "2026-03-31 20:07:30",
+      "created_at": 1774987650000
+    },
+    {
+      "id": 47550433,
+      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+      "link": "https://github.com/ericlewis/libpo32",
+      "score": 28,
+      "author": "ericlewis",
+      "created": "2026-03-28 01:04:56",
+      "created_at": 1774659896000
+    },
+    {
+      "id": 47591104,
+      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+      "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+      "score": 146,
+      "author": "whiteboardr",
+      "created": "2026-03-31 17:55:04",
+      "created_at": 1774979704000
     }
   ],
   "code": 200,
