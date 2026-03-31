@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-31T01:20:21.196Z"
+    "lastUpdate": "2026-03-31T05:40:21.836Z"
   },
   "data": [
+    {
+      "id": 47582220,
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 334,
+      "author": "mtud",
+      "created": "2026-03-31 02:54:17",
+      "created_at": 1774925657000
+    },
+    {
+      "id": 47581701,
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "link": "https://github.com/drona23/claude-token-efficient",
+      "score": 222,
+      "author": "killme2008",
+      "created": "2026-03-31 01:23:34",
+      "created_at": 1774920214000
+    },
+    {
+      "id": 47582043,
+      "title": "Artemis II is not safe to fly",
+      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 146,
+      "author": "idlewords",
+      "created": "2026-03-31 02:23:50",
+      "created_at": 1774923830000
+    },
+    {
+      "id": 47582482,
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "link": "https://ollama.com/blog/mlx",
+      "score": 76,
+      "author": "redundantly",
+      "created": "2026-03-31 03:40:45",
+      "created_at": 1774928445000
+    },
+    {
+      "id": 47583045,
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "link": "https://github.com/google-research/timesfm",
+      "score": 7,
+      "author": "codepawl",
+      "created": "2026-03-31 05:21:59",
+      "created_at": 1774934519000
+    },
     {
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 398,
+      "score": 504,
       "author": "speckx",
       "created": "2026-03-30 18:16:00",
       "created_at": 1774894560000
     },
     {
-      "id": 47580297,
-      "title": "Android Developer Verification",
-      "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 125,
-      "author": "ingve",
-      "created": "2026-03-30 22:05:21",
-      "created_at": 1774908321000
-    },
-    {
       "id": 47573519,
       "title": "Do your own writing",
       "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 348,
+      "score": 449,
       "author": "karimf",
       "created": "2026-03-30 12:39:56",
       "created_at": 1774874396000
     },
     {
+      "id": 47580297,
+      "title": "Android Developer Verification",
+      "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "score": 196,
+      "author": "ingve",
+      "created": "2026-03-30 22:05:21",
+      "created_at": 1774908321000
+    },
+    {
+      "id": 47532891,
+      "title": "Clojure: The Documentary, official trailer [video]",
+      "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "score": 103,
+      "author": "fogus",
+      "created": "2026-03-26 17:00:54",
+      "created_at": 1774544454000
+    },
+    {
       "id": 47578572,
       "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
       "link": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 187,
+      "score": 263,
       "author": "HughParry",
       "created": "2026-03-30 19:22:33",
       "created_at": 1774898553000
-    },
-    {
-      "id": 47579229,
-      "title": "Learn Claude Code by doing, not reading",
-      "link": "https://claude.nagdy.me/",
-      "score": 136,
-      "author": "taubek",
-      "created": "2026-03-30 20:19:43",
-      "created_at": 1774901983000
-    },
-    {
-      "id": 47574034,
-      "title": "How to turn anything into a router",
-      "link": "https://nbailey.ca/post/router/",
-      "score": 578,
-      "author": "yabones",
-      "created": "2026-03-30 13:28:54",
-      "created_at": 1774877334000
-    },
-    {
-      "id": 47547843,
-      "title": "Agents of Chaos",
-      "link": "https://agentsofchaos.baulab.info/report.html",
-      "score": 66,
-      "author": "luu",
-      "created": "2026-03-27 20:30:05",
-      "created_at": 1774643405000
-    },
-    {
-      "id": 47573887,
-      "title": "Bird brains (2023)",
-      "link": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 292,
-      "author": "DiffTheEnder",
-      "created": "2026-03-30 13:14:27",
-      "created_at": 1774876467000
-    },
-    {
-      "id": 47549824,
-      "title": "Cherri – programming language that compiles to an Apple Shortuct",
-      "link": "https://github.com/electrikmilk/cherri",
-      "score": 248,
-      "author": "mihau",
-      "created": "2026-03-27 23:39:44",
-      "created_at": 1774654784000
-    },
-    {
-      "id": 47578741,
-      "title": "Why I'm betting on ATProto (and why you should, too)",
-      "link": "https://brittanyellich.com/atproto/",
-      "score": 55,
-      "author": "speckx",
-      "created": "2026-03-30 19:37:45",
-      "created_at": 1774899465000
     }
   ],
   "code": 200,
