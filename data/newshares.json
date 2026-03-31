@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-30T20:34:38.276Z"
+    "lastUpdate": "2026-03-31T01:20:24.635Z"
   },
   "data": [
+    {
+      "zqdm": "603293",
+      "zqjc": "埃泰克",
+      "sgdm": "732293",
+      "fxsl": 44772665,
+      "swfxsl": 14327000,
+      "sgsx": 14000,
+      "dgsz": 140000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-07",
+      "zqgbrq": "2026-04-09",
+      "zqjkrq": "2026-04-09",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 63.36,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "从事汽车电子产品的研发、生产及销售,同时为客户提供汽车电子EMS和技术开发服务"
+    },
     {
       "zqdm": "301666",
       "zqjc": "大普微",
@@ -145,5 +168,5 @@
       "zyyw": "公司专业从事微特电机的研发、生产和销售,产品广泛应用于以吸尘器为主的清洁电器领域"
     }
   ],
-  "total": 6
+  "total": 7
 }

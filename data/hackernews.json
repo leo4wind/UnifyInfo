@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-30T20:34:34.517Z"
+    "lastUpdate": "2026-03-31T01:20:20.990Z"
   },
   "data": [
     {
       "id": 47570269,
       "title": "Copilot edited an ad into my PR",
       "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "score": 1388,
+      "score": 1454,
       "author": "pavo-etc",
       "created": "2026-03-30 04:04:31",
       "created_at": 1774843471000
@@ -19,7 +19,7 @@
       "id": 47566865,
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
       "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 928,
+      "score": 939,
       "author": "alberto-m",
       "created": "2026-03-29 20:21:05",
       "created_at": 1774815665000
@@ -28,7 +28,7 @@
       "id": 47561489,
       "title": "LinkedIn uses 2.4 GB RAM across two tabs",
       "link": "",
-      "score": 759,
+      "score": 768,
       "author": "hrncode",
       "created": "2026-03-29 08:58:24",
       "created_at": 1774774704000
@@ -37,7 +37,7 @@
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "link": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 657,
+      "score": 664,
       "author": "speckx",
       "created": "2026-03-29 16:12:22",
       "created_at": 1774800742000
@@ -46,16 +46,25 @@
       "id": 47563655,
       "title": "Say No to Palantir in Europe",
       "link": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-      "score": 591,
+      "score": 595,
       "author": "Betelbuddy",
       "created": "2026-03-29 14:51:20",
       "created_at": 1774795880000
     },
     {
+      "id": 47574034,
+      "title": "How to turn anything into a router",
+      "link": "https://nbailey.ca/post/router/",
+      "score": 578,
+      "author": "yabones",
+      "created": "2026-03-30 13:28:54",
+      "created_at": 1774877334000
+    },
+    {
       "id": 47561711,
       "title": "Nitrile and latex gloves may cause overestimation of microplastics",
       "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 560,
+      "score": 562,
       "author": "giuliomagnifico",
       "created": "2026-03-29 09:46:58",
       "created_at": 1774777618000
@@ -64,37 +73,28 @@
       "id": 47566442,
       "title": "The Cognitive Dark Forest",
       "link": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "score": 532,
+      "score": 538,
       "author": "kaycebasques",
       "created": "2026-03-29 19:36:21",
       "created_at": 1774812981000
     },
     {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 497,
-      "author": "msephton",
-      "created": "2026-03-28 20:39:01",
-      "created_at": 1774730341000
-    },
-    {
-      "id": 47574034,
-      "title": "How to turn anything into a router",
-      "link": "https://nbailey.ca/post/router/",
-      "score": 477,
-      "author": "yabones",
-      "created": "2026-03-30 13:28:54",
-      "created_at": 1774877334000
-    },
-    {
       "id": 47563384,
       "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
       "link": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-      "score": 428,
+      "score": 431,
       "author": "ourmandave",
       "created": "2026-03-29 14:20:23",
       "created_at": 1774794023000
+    },
+    {
+      "id": 47577761,
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 398,
+      "author": "speckx",
+      "created": "2026-03-30 18:16:00",
+      "created_at": 1774894560000
     }
   ],
   "code": 200,
