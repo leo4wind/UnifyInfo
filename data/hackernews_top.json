@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-03-31T08:45:16.977Z"
+    "lastUpdate": "2026-03-31T12:52:27.516Z"
   },
   "data": [
     {
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 700,
+      "score": 1088,
       "author": "mtud",
       "created": "2026-03-31 02:54:17",
       "created_at": 1774925657000
@@ -19,7 +19,7 @@
       "id": 47582482,
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "link": "https://ollama.com/blog/mlx",
-      "score": 216,
+      "score": 372,
       "author": "redundantly",
       "created": "2026-03-31 03:40:45",
       "created_at": 1774928445000
@@ -28,16 +28,34 @@
       "id": 47582043,
       "title": "Artemis II is not safe to fly",
       "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 286,
+      "score": 458,
       "author": "idlewords",
       "created": "2026-03-31 02:23:50",
       "created_at": 1774923830000
     },
     {
+      "id": 47584540,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 489,
+      "author": "treexs",
+      "created": "2026-03-31 09:00:40",
+      "created_at": 1774947640000
+    },
+    {
+      "id": 47555273,
+      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
+      "link": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
+      "score": 40,
+      "author": "lentoutcry",
+      "created": "2026-03-28 15:08:22",
+      "created_at": 1774710502000
+    },
+    {
       "id": 47581701,
       "title": "Universal Claude.md – cut Claude output tokens",
       "link": "https://github.com/drona23/claude-token-efficient",
-      "score": 285,
+      "score": 351,
       "author": "killme2008",
       "created": "2026-03-31 01:23:34",
       "created_at": 1774920214000
@@ -46,7 +64,7 @@
       "id": 47583045,
       "title": "Google's 200M-parameter time-series foundation model with 16k context",
       "link": "https://github.com/google-research/timesfm",
-      "score": 99,
+      "score": 168,
       "author": "codepawl",
       "created": "2026-03-31 05:21:59",
       "created_at": 1774934519000
@@ -55,37 +73,28 @@
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 557,
+      "score": 588,
       "author": "speckx",
       "created": "2026-03-30 18:16:00",
       "created_at": 1774894560000
     },
     {
-      "id": 47573519,
-      "title": "Do your own writing",
-      "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 521,
-      "author": "karimf",
-      "created": "2026-03-30 12:39:56",
-      "created_at": 1774874396000
+      "id": 47585008,
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "link": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "score": 34,
+      "author": "adulion",
+      "created": "2026-03-31 10:02:34",
+      "created_at": 1774951354000
     },
     {
-      "id": 47532891,
-      "title": "Clojure: The Documentary, official trailer [video]",
-      "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-      "score": 176,
-      "author": "fogus",
-      "created": "2026-03-26 17:00:54",
-      "created_at": 1774544454000
-    },
-    {
-      "id": 47572162,
-      "title": "We're Pausing Asimov Press",
-      "link": "https://www.asimov.press/p/pause",
-      "score": 18,
-      "author": "bookofjoe",
-      "created": "2026-03-30 09:18:47",
-      "created_at": 1774862327000
+      "id": 47586018,
+      "title": "U.S. stocks are set to deliver their worst quarter in nearly four years",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea",
+      "score": 29,
+      "author": "giuliomagnifico",
+      "created": "2026-03-31 11:53:04",
+      "created_at": 1774957984000
     }
   ],
   "code": 200,
