@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-01T16:43:30.134Z"
+    "lastUpdate": "2026-04-01T20:34:43.639Z"
   },
   "data": [
+    {
+      "id": 47605677,
+      "title": "You're still signing data structures the wrong way",
+      "link": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 20,
+      "author": "malgorithms",
+      "created": "2026-04-01 19:52:00",
+      "created_at": 1775073120000
+    },
+    {
+      "id": 47565307,
+      "title": "Windows 95 defenses against installers that overwrite a file with an older one",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+      "score": 37,
+      "author": "michelangelo",
+      "created": "2026-03-29 17:38:43",
+      "created_at": 1774805923000
+    },
     {
       "id": 47602832,
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
       "link": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 49,
+      "score": 346,
       "author": "elithrar",
       "created": "2026-04-01 16:14:38",
       "created_at": 1775060078000
@@ -19,82 +37,64 @@
       "id": 47601859,
       "title": "Ask HN: Who is hiring? (April 2026)",
       "link": "",
-      "score": 31,
+      "score": 141,
       "author": "whoishiring",
       "created": "2026-04-01 15:01:36",
       "created_at": 1775055696000
+    },
+    {
+      "id": 47604354,
+      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
+      "link": "https://github.com/SharpAI/SwiftLM",
+      "score": 64,
+      "author": "aegis_camera",
+      "created": "2026-04-01 18:06:00",
+      "created_at": 1775066760000
+    },
+    {
+      "id": 47603737,
+      "title": "AI for American-produced cement and concrete",
+      "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 99,
+      "author": "latchkey",
+      "created": "2026-04-01 17:17:24",
+      "created_at": 1775063844000
+    },
+    {
+      "id": 47557921,
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "link": "https://github.com/hauntsaninja/git_bayesect",
+      "score": 60,
+      "author": "hauntsaninja",
+      "created": "2026-03-28 20:32:01",
+      "created_at": 1774729921000
     },
     {
       "id": 47602879,
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "link": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 17,
+      "score": 97,
       "author": "skysniper",
       "created": "2026-04-01 16:17:35",
       "created_at": 1775060255000
     },
     {
-      "id": 47601858,
-      "title": "Ask HN: Who wants to be hired? (April 2026)",
-      "link": "",
-      "score": 17,
-      "author": "whoishiring",
-      "created": "2026-04-01 15:01:36",
-      "created_at": 1775055696000
+      "id": 47565350,
+      "title": "An Introduction to Writing Systems and Unicode",
+      "link": "https://r12a.github.io/scripts/tutorial/part2",
+      "score": 35,
+      "author": "mariuz",
+      "created": "2026-03-29 17:43:52",
+      "created_at": 1774806232000
     },
     {
-      "id": 47597935,
-      "title": "CERN levels up with new superconducting karts",
-      "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 309,
-      "author": "fnands",
-      "created": "2026-04-01 07:27:13",
-      "created_at": 1775028433000
-    },
-    {
-      "id": 47600382,
-      "title": "Is BGP safe yet?",
-      "link": "https://isbgpsafeyet.com/",
-      "score": 164,
-      "author": "janandonly",
-      "created": "2026-04-01 13:10:29",
-      "created_at": 1775049029000
-    },
-    {
-      "id": 47602986,
-      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
-      "link": "https://github.com/simple10/agents-observe",
-      "score": 5,
-      "author": "simple10",
-      "created": "2026-04-01 16:24:28",
-      "created_at": 1775060668000
-    },
-    {
-      "id": 47539945,
-      "title": "Consider the Greenland Shark (2020)",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
-      "score": 57,
-      "author": "mooreds",
-      "created": "2026-03-27 07:39:40",
-      "created_at": 1774597180000
-    },
-    {
-      "id": 47573450,
-      "title": "Intuiting Pratt Parsing",
-      "link": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 104,
-      "author": "signa11",
-      "created": "2026-03-30 12:31:52",
-      "created_at": 1774873912000
-    },
-    {
-      "id": 47599956,
-      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
-      "link": "https://sycamore.dev",
-      "score": 73,
-      "author": "lukechu10",
-      "created": "2026-04-01 12:30:18",
-      "created_at": 1775046618000
+      "id": 47574871,
+      "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
+      "link": "https://github.com/afshinm/zerobox",
+      "score": 60,
+      "author": "afshinmeh",
+      "created": "2026-03-30 14:32:36",
+      "created_at": 1774881156000
     }
   ],
   "code": 200,
