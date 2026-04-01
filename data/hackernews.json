@@ -3,77 +3,77 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-03-31T20:33:23.924Z"
+    "lastUpdate": "2026-04-01T01:27:34.295Z"
   },
   "data": [
-    {
-      "id": 47582220,
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1707,
-      "author": "mtud",
-      "created": "2026-03-31 02:54:17",
-      "created_at": 1774925657000
-    },
     {
       "id": 47584540,
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1696,
+      "score": 1884,
       "author": "treexs",
       "created": "2026-03-31 09:00:40",
       "created_at": 1774947640000
     },
     {
+      "id": 47582220,
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 1777,
+      "author": "mtud",
+      "created": "2026-03-31 02:54:17",
+      "created_at": 1774925657000
+    },
+    {
       "id": 47570269,
       "title": "Copilot edited an ad into my PR",
       "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-      "score": 1569,
+      "score": 1577,
       "author": "pavo-etc",
       "created": "2026-03-30 04:04:31",
       "created_at": 1774843471000
     },
     {
-      "id": 47566865,
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 966,
-      "author": "alberto-m",
-      "created": "2026-03-29 20:21:05",
-      "created_at": 1774815665000
-    },
-    {
-      "id": 47582043,
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 774,
-      "author": "idlewords",
-      "created": "2026-03-31 02:23:50",
-      "created_at": 1774923830000
-    },
-    {
       "id": 47587935,
       "title": "Oracle slashes 30k jobs",
       "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 755,
+      "score": 828,
       "author": "pje",
       "created": "2026-03-31 14:30:48",
       "created_at": 1774967448000
     },
     {
+      "id": 47582043,
+      "title": "Artemis II is not safe to fly",
+      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 804,
+      "author": "idlewords",
+      "created": "2026-03-31 02:23:50",
+      "created_at": 1774923830000
+    },
+    {
       "id": 47574034,
       "title": "How to turn anything into a router",
       "link": "https://nbailey.ca/post/router/",
-      "score": 753,
+      "score": 761,
       "author": "yabones",
       "created": "2026-03-30 13:28:54",
       "created_at": 1774877334000
     },
     {
+      "id": 47586778,
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 749,
+      "author": "alex000kim",
+      "created": "2026-03-31 13:04:30",
+      "created_at": 1774962270000
+    },
+    {
       "id": 47573519,
       "title": "Do your own writing",
       "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 706,
+      "score": 715,
       "author": "karimf",
       "created": "2026-03-30 12:39:56",
       "created_at": 1774874396000
@@ -82,7 +82,7 @@
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 654,
+      "score": 659,
       "author": "speckx",
       "created": "2026-03-30 18:16:00",
       "created_at": 1774894560000
@@ -91,7 +91,7 @@
       "id": 47582482,
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "link": "https://ollama.com/blog/mlx",
-      "score": 591,
+      "score": 606,
       "author": "redundantly",
       "created": "2026-03-31 03:40:45",
       "created_at": 1774928445000

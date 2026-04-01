@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-03-31T20:33:24.175Z"
+    "lastUpdate": "2026-04-01T01:27:34.947Z"
   },
   "data": [
-    {
-      "id": 47591928,
-      "title": "GitHub's Historic Uptime",
-      "link": "https://damrnelson.github.io/github-historical-uptime/",
-      "score": 204,
-      "author": "todsacerdoti",
-      "created": "2026-03-31 19:01:29",
-      "created_at": 1774983689000
-    },
     {
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 288,
+      "score": 749,
       "author": "alex000kim",
       "created": "2026-03-31 13:04:30",
       "created_at": 1774962270000
     },
     {
-      "id": 47584540,
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1696,
-      "author": "treexs",
-      "created": "2026-03-31 09:00:40",
-      "created_at": 1774947640000
+      "id": 47541733,
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "link": "https://arxiv.org/abs/2602.04118",
+      "score": 41,
+      "author": "sorenjan",
+      "created": "2026-03-27 12:11:12",
+      "created_at": 1774613472000
     },
     {
-      "id": 47589818,
-      "title": "Cohere Transcribe: Speech Recognition",
-      "link": "https://cohere.com/blog/transcribe",
-      "score": 112,
-      "author": "gmays",
-      "created": "2026-03-31 16:27:02",
-      "created_at": 1774974422000
+      "id": 47593285,
+      "title": "Ministack (Replacement for LocalStack)",
+      "link": "https://ministack.org/",
+      "score": 133,
+      "author": "kerblang",
+      "created": "2026-03-31 20:48:15",
+      "created_at": 1774990095000
     },
     {
-      "id": 47587953,
-      "title": "Slop is not necessarily the future",
-      "link": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 99,
-      "author": "dakshgupta",
-      "created": "2026-03-31 14:32:26",
-      "created_at": 1774967546000
+      "id": 47593556,
+      "title": "A dot a day keeps the clutter away",
+      "link": "https://scottlawsonbc.com/post/dot-system",
+      "score": 121,
+      "author": "scottlawson",
+      "created": "2026-03-31 21:15:01",
+      "created_at": 1774991701000
     },
     {
-      "id": 47589856,
-      "title": "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
-      "link": "https://github.com/timescale/pg_textsearch",
-      "score": 36,
-      "author": "tjgreen",
-      "created": "2026-03-31 16:29:52",
-      "created_at": 1774974592000
-    },
-    {
-      "id": 47586614,
-      "title": "Open source CAD in the browser (Solvespace)",
-      "link": "https://solvespace.com/webver.pl",
-      "score": 231,
-      "author": "phkahler",
-      "created": "2026-03-31 12:50:23",
-      "created_at": 1774961423000
+      "id": 47557171,
+      "title": "TruffleRuby",
+      "link": "https://chrisseaton.com/truffleruby/",
+      "score": 16,
+      "author": "tosh",
+      "created": "2026-03-28 18:39:39",
+      "created_at": 1774723179000
     },
     {
       "id": 47592755,
-      "title": "Accelerating the Next Phase of AI",
-      "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 15,
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 317,
       "author": "surprisetalk",
       "created": "2026-03-31 20:07:30",
       "created_at": 1774987650000
     },
     {
-      "id": 47550433,
-      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-      "link": "https://github.com/ericlewis/libpo32",
-      "score": 28,
-      "author": "ericlewis",
-      "created": "2026-03-28 01:04:56",
-      "created_at": 1774659896000
+      "id": 47593422,
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "link": "https://prismml.com/",
+      "score": 80,
+      "author": "PrismML",
+      "created": "2026-03-31 21:01:18",
+      "created_at": 1774990878000
     },
     {
-      "id": 47591104,
-      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-      "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-      "score": 146,
-      "author": "whiteboardr",
-      "created": "2026-03-31 17:55:04",
-      "created_at": 1774979704000
+      "id": 47549128,
+      "title": "4D Doom",
+      "link": "https://github.com/danieldugas/HYPERHELL",
+      "score": 118,
+      "author": "chronolitus",
+      "created": "2026-03-27 22:19:34",
+      "created_at": 1774649974000
+    },
+    {
+      "id": 47587953,
+      "title": "Slop is not necessarily the future",
+      "link": "https://www.greptile.com/blog/ai-slopware-future",
+      "score": 173,
+      "author": "dakshgupta",
+      "created": "2026-03-31 14:32:26",
+      "created_at": 1774967546000
+    },
+    {
+      "id": 47586614,
+      "title": "Open source CAD in the browser (Solvespace)",
+      "link": "https://solvespace.com/webver.pl",
+      "score": 281,
+      "author": "phkahler",
+      "created": "2026-03-31 12:50:23",
+      "created_at": 1774961423000
     }
   ],
   "code": 200,
