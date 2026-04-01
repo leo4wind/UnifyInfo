@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-01T08:53:59.541Z"
+    "lastUpdate": "2026-04-01T12:54:29.699Z"
   },
   "data": [
     {
       "id": 47584540,
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1980,
+      "score": 2001,
       "author": "treexs",
       "created": "2026-03-31 09:00:40",
       "created_at": 1774947640000
@@ -19,7 +19,7 @@
       "id": 47582220,
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1836,
+      "score": 1864,
       "author": "mtud",
       "created": "2026-03-31 02:54:17",
       "created_at": 1774925657000
@@ -28,7 +28,7 @@
       "id": 47586778,
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1154,
+      "score": 1236,
       "author": "alex000kim",
       "created": "2026-03-31 13:04:30",
       "created_at": 1774962270000
@@ -37,7 +37,7 @@
       "id": 47587935,
       "title": "Oracle slashes 30k jobs",
       "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 868,
+      "score": 877,
       "author": "pje",
       "created": "2026-03-31 14:30:48",
       "created_at": 1774967448000
@@ -46,7 +46,7 @@
       "id": 47582043,
       "title": "Artemis II is not safe to fly",
       "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "score": 834,
+      "score": 843,
       "author": "idlewords",
       "created": "2026-03-31 02:23:50",
       "created_at": 1774923830000
@@ -55,7 +55,7 @@
       "id": 47574034,
       "title": "How to turn anything into a router",
       "link": "https://nbailey.ca/post/router/",
-      "score": 765,
+      "score": 766,
       "author": "yabones",
       "created": "2026-03-30 13:28:54",
       "created_at": 1774877334000
@@ -64,7 +64,7 @@
       "id": 47573519,
       "title": "Do your own writing",
       "link": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 724,
+      "score": 732,
       "author": "karimf",
       "created": "2026-03-30 12:39:56",
       "created_at": 1774874396000
@@ -73,7 +73,7 @@
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 666,
+      "score": 668,
       "author": "speckx",
       "created": "2026-03-30 18:16:00",
       "created_at": 1774894560000
@@ -82,19 +82,19 @@
       "id": 47582482,
       "title": "Ollama is now powered by MLX on Apple Silicon in preview",
       "link": "https://ollama.com/blog/mlx",
-      "score": 618,
+      "score": 621,
       "author": "redundantly",
       "created": "2026-03-31 03:40:45",
       "created_at": 1774928445000
     },
     {
-      "id": 47582984,
-      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "link": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "score": 581,
-      "author": "_____k",
-      "created": "2026-03-31 05:11:24",
-      "created_at": 1774933884000
+      "id": 47597085,
+      "title": "Claude Code Unpacked : A visual guide",
+      "link": "https://ccunpacked.dev/",
+      "score": 617,
+      "author": "autocracy101",
+      "created": "2026-04-01 05:15:37",
+      "created_at": 1775020537000
     }
   ],
   "code": 200,

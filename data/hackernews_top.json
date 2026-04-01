@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-01T08:53:59.639Z"
+    "lastUpdate": "2026-04-01T12:54:29.785Z"
   },
   "data": [
     {
       "id": 47597085,
       "title": "Claude Code Unpacked : A visual guide",
       "link": "https://ccunpacked.dev/",
-      "score": 326,
+      "score": 617,
       "author": "autocracy101",
       "created": "2026-04-01 05:15:37",
       "created_at": 1775020537000
@@ -19,82 +19,73 @@
       "id": 47597935,
       "title": "CERN levels up with new superconducting karts",
       "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 64,
+      "score": 198,
       "author": "fnands",
       "created": "2026-04-01 07:27:13",
       "created_at": 1775028433000
     },
     {
+      "id": 47598511,
+      "title": "I Quit. The Clankers Won",
+      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "score": 90,
+      "author": "domysee",
+      "created": "2026-04-01 09:00:34",
+      "created_at": 1775034034000
+    },
+    {
+      "id": 47573450,
+      "title": "Intuiting Pratt Parsing",
+      "link": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+      "score": 50,
+      "author": "signa11",
+      "created": "2026-03-30 12:31:52",
+      "created_at": 1774873912000
+    },
+    {
       "id": 47571183,
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
       "link": "https://github.com/yannick-cw/korb",
-      "score": 41,
+      "score": 122,
       "author": "wazHFsRy",
       "created": "2026-03-30 06:45:58",
       "created_at": 1774853158000
     },
     {
-      "id": 47595572,
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 132,
-      "author": "Hooke",
-      "created": "2026-04-01 01:12:12",
-      "created_at": 1775005932000
-    },
-    {
-      "id": 47558101,
-      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-      "link": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "score": 53,
-      "author": "ingve",
-      "created": "2026-03-28 21:04:06",
-      "created_at": 1774731846000
-    },
-    {
-      "id": 47541733,
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "link": "https://arxiv.org/abs/2602.04118",
-      "score": 165,
-      "author": "sorenjan",
-      "created": "2026-03-27 12:11:12",
-      "created_at": 1774613472000
-    },
-    {
-      "id": 47593422,
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "link": "https://prismml.com/",
-      "score": 238,
-      "author": "PrismML",
-      "created": "2026-03-31 21:01:18",
-      "created_at": 1774990878000
+      "id": 47597119,
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "link": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 92,
+      "author": "ishqdehlvi",
+      "created": "2026-04-01 05:21:48",
+      "created_at": 1775020908000
     },
     {
       "id": 47593556,
       "title": "A dot a day keeps the clutter away",
       "link": "https://scottlawsonbc.com/post/dot-system",
-      "score": 300,
+      "score": 386,
       "author": "scottlawson",
       "created": "2026-03-31 21:15:01",
       "created_at": 1774991701000
     },
     {
-      "id": 47557171,
-      "title": "TruffleRuby",
-      "link": "https://chrisseaton.com/truffleruby/",
-      "score": 121,
-      "author": "tosh",
-      "created": "2026-03-28 18:39:39",
-      "created_at": 1774723179000
+      "id": 47562961,
+      "title": "Chess in SQL",
+      "link": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "score": 88,
+      "author": "upmostly",
+      "created": "2026-03-29 13:25:16",
+      "created_at": 1774790716000
     },
     {
-      "id": 47593285,
-      "title": "MiniStack (replacement for LocalStack)",
-      "link": "https://ministack.org/",
-      "score": 214,
-      "author": "kerblang",
-      "created": "2026-03-31 20:48:15",
-      "created_at": 1774990095000
+      "id": 47593422,
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "link": "https://prismml.com/",
+      "score": 306,
+      "author": "PrismML",
+      "created": "2026-03-31 21:01:18",
+      "created_at": 1774990878000
     }
   ],
   "code": 200,
