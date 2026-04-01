@@ -3,68 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-01T05:50:13.740Z"
+    "lastUpdate": "2026-04-01T08:53:59.639Z"
   },
   "data": [
     {
       "id": 47597085,
       "title": "Claude Code Unpacked : A visual guide",
       "link": "https://ccunpacked.dev/",
-      "score": 18,
+      "score": 326,
       "author": "autocracy101",
       "created": "2026-04-01 05:15:37",
       "created_at": 1775020537000
     },
     {
-      "id": 47586778,
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1049,
-      "author": "alex000kim",
-      "created": "2026-03-31 13:04:30",
-      "created_at": 1774962270000
+      "id": 47597935,
+      "title": "CERN levels up with new superconducting karts",
+      "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "score": 64,
+      "author": "fnands",
+      "created": "2026-04-01 07:27:13",
+      "created_at": 1775028433000
+    },
+    {
+      "id": 47571183,
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "link": "https://github.com/yannick-cw/korb",
+      "score": 41,
+      "author": "wazHFsRy",
+      "created": "2026-03-30 06:45:58",
+      "created_at": 1774853158000
     },
     {
       "id": 47595572,
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 82,
+      "score": 132,
       "author": "Hooke",
       "created": "2026-04-01 01:12:12",
       "created_at": 1775005932000
     },
     {
-      "id": 47541733,
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "link": "https://arxiv.org/abs/2602.04118",
-      "score": 133,
-      "author": "sorenjan",
-      "created": "2026-03-27 12:11:12",
-      "created_at": 1774613472000
-    },
-    {
       "id": 47558101,
       "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
       "link": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "score": 24,
+      "score": 53,
       "author": "ingve",
       "created": "2026-03-28 21:04:06",
       "created_at": 1774731846000
     },
     {
-      "id": 47557171,
-      "title": "TruffleRuby",
-      "link": "https://chrisseaton.com/truffleruby/",
-      "score": 92,
-      "author": "tosh",
-      "created": "2026-03-28 18:39:39",
-      "created_at": 1774723179000
+      "id": 47541733,
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "link": "https://arxiv.org/abs/2602.04118",
+      "score": 165,
+      "author": "sorenjan",
+      "created": "2026-03-27 12:11:12",
+      "created_at": 1774613472000
     },
     {
       "id": 47593422,
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
       "link": "https://prismml.com/",
-      "score": 179,
+      "score": 238,
       "author": "PrismML",
       "created": "2026-03-31 21:01:18",
       "created_at": 1774990878000
@@ -73,28 +73,28 @@
       "id": 47593556,
       "title": "A dot a day keeps the clutter away",
       "link": "https://scottlawsonbc.com/post/dot-system",
-      "score": 235,
+      "score": 300,
       "author": "scottlawson",
       "created": "2026-03-31 21:15:01",
       "created_at": 1774991701000
     },
     {
+      "id": 47557171,
+      "title": "TruffleRuby",
+      "link": "https://chrisseaton.com/truffleruby/",
+      "score": 121,
+      "author": "tosh",
+      "created": "2026-03-28 18:39:39",
+      "created_at": 1774723179000
+    },
+    {
       "id": 47593285,
-      "title": "Ministack (Replacement for LocalStack)",
+      "title": "MiniStack (replacement for LocalStack)",
       "link": "https://ministack.org/",
-      "score": 181,
+      "score": 214,
       "author": "kerblang",
       "created": "2026-03-31 20:48:15",
       "created_at": 1774990095000
-    },
-    {
-      "id": 47592755,
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 397,
-      "author": "surprisetalk",
-      "created": "2026-03-31 20:07:30",
-      "created_at": 1774987650000
     }
   ],
   "code": 200,
