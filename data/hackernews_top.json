@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-01T12:54:29.785Z"
+    "lastUpdate": "2026-04-01T16:43:29.880Z"
   },
   "data": [
     {
-      "id": 47597085,
-      "title": "Claude Code Unpacked : A visual guide",
-      "link": "https://ccunpacked.dev/",
-      "score": 617,
-      "author": "autocracy101",
-      "created": "2026-04-01 05:15:37",
-      "created_at": 1775020537000
+      "id": 47602832,
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "link": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 49,
+      "author": "elithrar",
+      "created": "2026-04-01 16:14:38",
+      "created_at": 1775060078000
+    },
+    {
+      "id": 47601859,
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "link": "",
+      "score": 31,
+      "author": "whoishiring",
+      "created": "2026-04-01 15:01:36",
+      "created_at": 1775055696000
+    },
+    {
+      "id": 47602879,
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "link": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "score": 17,
+      "author": "skysniper",
+      "created": "2026-04-01 16:17:35",
+      "created_at": 1775060255000
+    },
+    {
+      "id": 47601858,
+      "title": "Ask HN: Who wants to be hired? (April 2026)",
+      "link": "",
+      "score": 17,
+      "author": "whoishiring",
+      "created": "2026-04-01 15:01:36",
+      "created_at": 1775055696000
     },
     {
       "id": 47597935,
       "title": "CERN levels up with new superconducting karts",
       "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 198,
+      "score": 309,
       "author": "fnands",
       "created": "2026-04-01 07:27:13",
       "created_at": 1775028433000
     },
     {
-      "id": 47598511,
-      "title": "I Quit. The Clankers Won",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 90,
-      "author": "domysee",
-      "created": "2026-04-01 09:00:34",
-      "created_at": 1775034034000
+      "id": 47600382,
+      "title": "Is BGP safe yet?",
+      "link": "https://isbgpsafeyet.com/",
+      "score": 164,
+      "author": "janandonly",
+      "created": "2026-04-01 13:10:29",
+      "created_at": 1775049029000
+    },
+    {
+      "id": 47602986,
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "link": "https://github.com/simple10/agents-observe",
+      "score": 5,
+      "author": "simple10",
+      "created": "2026-04-01 16:24:28",
+      "created_at": 1775060668000
+    },
+    {
+      "id": 47539945,
+      "title": "Consider the Greenland Shark (2020)",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
+      "score": 57,
+      "author": "mooreds",
+      "created": "2026-03-27 07:39:40",
+      "created_at": 1774597180000
     },
     {
       "id": 47573450,
       "title": "Intuiting Pratt Parsing",
       "link": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "score": 50,
+      "score": 104,
       "author": "signa11",
       "created": "2026-03-30 12:31:52",
       "created_at": 1774873912000
     },
     {
-      "id": 47571183,
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "link": "https://github.com/yannick-cw/korb",
-      "score": 122,
-      "author": "wazHFsRy",
-      "created": "2026-03-30 06:45:58",
-      "created_at": 1774853158000
-    },
-    {
-      "id": 47597119,
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "link": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 92,
-      "author": "ishqdehlvi",
-      "created": "2026-04-01 05:21:48",
-      "created_at": 1775020908000
-    },
-    {
-      "id": 47593556,
-      "title": "A dot a day keeps the clutter away",
-      "link": "https://scottlawsonbc.com/post/dot-system",
-      "score": 386,
-      "author": "scottlawson",
-      "created": "2026-03-31 21:15:01",
-      "created_at": 1774991701000
-    },
-    {
-      "id": 47562961,
-      "title": "Chess in SQL",
-      "link": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "score": 88,
-      "author": "upmostly",
-      "created": "2026-03-29 13:25:16",
-      "created_at": 1774790716000
-    },
-    {
-      "id": 47593422,
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "link": "https://prismml.com/",
-      "score": 306,
-      "author": "PrismML",
-      "created": "2026-03-31 21:01:18",
-      "created_at": 1774990878000
+      "id": 47599956,
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "link": "https://sycamore.dev",
+      "score": 73,
+      "author": "lukechu10",
+      "created": "2026-04-01 12:30:18",
+      "created_at": 1775046618000
     }
   ],
   "code": 200,
