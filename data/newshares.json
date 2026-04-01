@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-03-31T20:33:28.125Z"
+    "lastUpdate": "2026-04-01T05:50:17.612Z"
   },
   "data": [
+    {
+      "zqdm": "301513",
+      "zqjc": "尚水智能",
+      "sgdm": "301513",
+      "fxsl": 25000000,
+      "swfxsl": 6000000,
+      "sgsx": 6000,
+      "dgsz": 60000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-08",
+      "zqgbrq": "2026-04-10",
+      "zqjkrq": "2026-04-10",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 41.71,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "微纳粉体处理、粉液精密计量、粉液混合分散、功能薄膜制备等核心工艺"
+    },
     {
       "zqdm": "603293",
       "zqjc": "埃泰克",
@@ -166,29 +189,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "无人机电动动力系统及机器人动力系统的研发、生产和销售,并积极布局电动垂直起降飞行器(eVTOL)动力系统产品"
-    },
-    {
-      "zqdm": "920011",
-      "zqjc": "晨光电机",
-      "sgdm": "920011",
-      "fxsl": 20666667,
-      "swfxsl": 18600001,
-      "sgsx": 930000,
-      "dgsz": 9300000,
-      "fxjg": 15.5,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-03-25",
-      "zqgbrq": "2026-03-30",
-      "zqjkrq": null,
-      "ssrq": null,
-      "syl": 14.96,
-      "hysyl": 29.28,
-      "wszql": 0.03215365,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "公司专业从事微特电机的研发、生产和销售,产品广泛应用于以吸尘器为主的清洁电器领域"
     }
   ],
   "total": 8
