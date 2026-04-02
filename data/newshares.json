@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-01T20:34:46.625Z"
+    "lastUpdate": "2026-04-02T05:27:17.746Z"
   },
   "data": [
+    {
+      "zqdm": "688820",
+      "zqjc": "盛合晶微",
+      "sgdm": "787820",
+      "fxsl": 255466162,
+      "swfxsl": 35765000,
+      "sgsx": 35500,
+      "dgsz": 355000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-09",
+      "zqgbrq": "2026-04-13",
+      "zqjkrq": "2026-04-13",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 63.1,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "支持各类高性能芯片,尤其是图形处理器(GPU)、中央处理器(CPU)、人工智能芯片等,通过超越摩尔定律(MorethanMoore)的异构集成方式,实现高算力、高带宽、低功耗等的全面性能提升"
+    },
     {
       "zqdm": "301513",
       "zqjc": "尚水智能",
@@ -191,5 +214,5 @@
       "zyyw": "无人机电动动力系统及机器人动力系统的研发、生产和销售,并积极布局电动垂直起降飞行器(eVTOL)动力系统产品"
     }
   ],
-  "total": 8
+  "total": 9
 }
