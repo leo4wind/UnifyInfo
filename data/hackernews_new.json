@@ -3,86 +3,95 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-02T08:44:02.756Z"
+    "lastUpdate": "2026-04-02T12:47:51.498Z"
   },
   "data": [
     {
-      "id": 47603657,
-      "title": "Live: Artemis II Launch Day Updates",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 901,
-      "author": "apitman",
-      "created": "2026-04-01 17:11:31",
-      "created_at": 1775063491000
+      "id": 47611721,
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "link": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "score": 135,
+      "author": "bonzini",
+      "created": "2026-04-02 08:48:44",
+      "created_at": 1775119724000
+    },
+    {
+      "id": 47612724,
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "link": "https://lemonade-server.ai",
+      "score": 36,
+      "author": "AbuAssar",
+      "created": "2026-04-02 11:04:51",
+      "created_at": 1775127891000
+    },
+    {
+      "id": 47613078,
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "link": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "score": 22,
+      "author": "lode",
+      "created": "2026-04-02 11:40:41",
+      "created_at": 1775130041000
+    },
+    {
+      "id": 47612601,
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "link": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "score": 169,
+      "author": "novaRom",
+      "created": "2026-04-02 10:50:00",
+      "created_at": 1775127000000
     },
     {
       "id": 47611481,
       "title": "Bringing Clojure programming to Enterprise (2021)",
       "link": "https://blogit.michelin.io/clojure-programming/",
-      "score": 4,
+      "score": 93,
       "author": "smartmic",
       "created": "2026-04-02 08:19:11",
       "created_at": 1775117951000
     },
     {
+      "id": 47611921,
+      "title": "Significant Raise of Reports",
+      "link": "https://lwn.net/Articles/1065620/",
+      "score": 56,
+      "author": "stratos123",
+      "created": "2026-04-02 09:14:18",
+      "created_at": 1775121258000
+    },
+    {
+      "id": 47582987,
+      "title": "Gone (Almost) Phishin'",
+      "link": "https://ma.tt/2026/03/gone-almost-phishin/",
+      "score": 71,
+      "author": "luu",
+      "created": "2026-03-31 05:11:39",
+      "created_at": 1774933899000
+    },
+    {
       "id": 47609694,
       "title": "Email obfuscation: What works in 2026?",
       "link": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 93,
+      "score": 189,
       "author": "jaden",
       "created": "2026-04-02 03:35:33",
       "created_at": 1775100933000
     },
     {
-      "id": 47609564,
-      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 311,
-      "author": "hkmaxpro",
-      "created": "2026-04-02 03:12:24",
-      "created_at": 1775099544000
-    },
-    {
-      "id": 47608495,
-      "title": "Quantum computing bombshells that are not April Fools",
-      "link": "https://scottaaronson.blog/?p=9665",
-      "score": 152,
-      "author": "Strilanc",
-      "created": "2026-04-02 00:24:43",
-      "created_at": 1775089483000
-    },
-    {
-      "id": 47611500,
-      "title": "Should AI have the right to say 'No' to its owner?",
-      "link": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
-      "score": 3,
-      "author": "Jang-woo",
-      "created": "2026-04-02 08:21:35",
-      "created_at": 1775118095000
-    },
-    {
-      "id": 47602832,
-      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "link": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 555,
-      "author": "elithrar",
-      "created": "2026-04-01 16:14:38",
-      "created_at": 1775060078000
-    },
-    {
-      "id": 47608058,
-      "title": "A new C++ back end for ocamlc",
-      "link": "https://github.com/ocaml/ocaml/pull/14701",
-      "score": 172,
-      "author": "glittershark",
-      "created": "2026-04-01 23:35:02",
-      "created_at": 1775086502000
+      "id": 47540441,
+      "title": "Reinventing the Pull Request",
+      "link": "https://lubeno.dev/blog/reinventing-the-pull-request",
+      "score": 23,
+      "author": "bkolobara",
+      "created": "2026-03-27 09:04:29",
+      "created_at": 1774602269000
     },
     {
       "id": 47596739,
       "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
       "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "score": 31,
+      "score": 80,
       "author": "jackson-mcd",
       "created": "2026-04-01 04:14:41",
       "created_at": 1775016881000
