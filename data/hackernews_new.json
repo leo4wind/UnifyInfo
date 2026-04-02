@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-02T12:47:51.498Z"
+    "lastUpdate": "2026-04-02T16:44:57.686Z"
   },
   "data": [
     {
-      "id": 47611721,
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "link": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 135,
-      "author": "bonzini",
-      "created": "2026-04-02 08:48:44",
-      "created_at": 1775119724000
+      "id": 47616361,
+      "title": "Google releases Gemma 4 open models",
+      "link": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 148,
+      "author": "jeffmcjunkin",
+      "created": "2026-04-02 16:10:54",
+      "created_at": 1775146254000
+    },
+    {
+      "id": 47613981,
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "link": "https://browsergate.eu/",
+      "score": 949,
+      "author": "digitalWestie",
+      "created": "2026-04-02 13:09:09",
+      "created_at": 1775135349000
+    },
+    {
+      "id": 47615002,
+      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "link": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 177,
+      "author": "pretext",
+      "created": "2026-04-02 14:28:52",
+      "created_at": 1775140132000
+    },
+    {
+      "id": 47615434,
+      "title": "Delve allegedly forked an open-source tool and sold it as its own",
+      "link": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "score": 91,
+      "author": "nickvec",
+      "created": "2026-04-02 15:03:08",
+      "created_at": 1775142188000
     },
     {
       "id": 47612724,
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "link": "https://lemonade-server.ai",
-      "score": 36,
+      "score": 252,
       "author": "AbuAssar",
       "created": "2026-04-02 11:04:51",
       "created_at": 1775127891000
     },
     {
+      "id": 47616622,
+      "title": "EmDash: A Fresh Take on CMS",
+      "link": "https://maciekpalmowski.dev/blog/emdash-a-fresh-take-on-cms/",
+      "score": 7,
+      "author": "taubek",
+      "created": "2026-04-02 16:27:23",
+      "created_at": 1775147243000
+    },
+    {
       "id": 47613078,
       "title": "Inside Nepal's Fake Rescue Racket",
       "link": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "score": 22,
+      "score": 161,
       "author": "lode",
       "created": "2026-04-02 11:40:41",
       "created_at": 1775130041000
     },
     {
-      "id": 47612601,
-      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "link": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 169,
-      "author": "novaRom",
-      "created": "2026-04-02 10:50:00",
-      "created_at": 1775127000000
+      "id": 47611721,
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "link": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "score": 217,
+      "author": "bonzini",
+      "created": "2026-04-02 08:48:44",
+      "created_at": 1775119724000
     },
     {
-      "id": 47611481,
-      "title": "Bringing Clojure programming to Enterprise (2021)",
-      "link": "https://blogit.michelin.io/clojure-programming/",
-      "score": 93,
-      "author": "smartmic",
-      "created": "2026-04-02 08:19:11",
-      "created_at": 1775117951000
+      "id": 47615449,
+      "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+      "link": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+      "score": 88,
+      "author": "speckx",
+      "created": "2026-04-02 15:04:44",
+      "created_at": 1775142284000
     },
     {
       "id": 47611921,
       "title": "Significant Raise of Reports",
       "link": "https://lwn.net/Articles/1065620/",
-      "score": 56,
+      "score": 173,
       "author": "stratos123",
       "created": "2026-04-02 09:14:18",
       "created_at": 1775121258000
-    },
-    {
-      "id": 47582987,
-      "title": "Gone (Almost) Phishin'",
-      "link": "https://ma.tt/2026/03/gone-almost-phishin/",
-      "score": 71,
-      "author": "luu",
-      "created": "2026-03-31 05:11:39",
-      "created_at": 1774933899000
-    },
-    {
-      "id": 47609694,
-      "title": "Email obfuscation: What works in 2026?",
-      "link": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 189,
-      "author": "jaden",
-      "created": "2026-04-02 03:35:33",
-      "created_at": 1775100933000
-    },
-    {
-      "id": 47540441,
-      "title": "Reinventing the Pull Request",
-      "link": "https://lubeno.dev/blog/reinventing-the-pull-request",
-      "score": 23,
-      "author": "bkolobara",
-      "created": "2026-03-27 09:04:29",
-      "created_at": 1774602269000
-    },
-    {
-      "id": 47596739,
-      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "score": 80,
-      "author": "jackson-mcd",
-      "created": "2026-04-01 04:14:41",
-      "created_at": 1775016881000
     }
   ],
   "code": 200,

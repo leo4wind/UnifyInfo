@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-02T12:47:51.208Z"
+    "lastUpdate": "2026-04-02T16:44:57.411Z"
   },
   "data": [
-    {
-      "id": 47586778,
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1351,
-      "author": "alex000kim",
-      "created": "2026-03-31 13:04:30",
-      "created_at": 1774962270000
-    },
     {
       "id": 47597085,
       "title": "Claude Code Unpacked : A visual guide",
       "link": "https://ccunpacked.dev/",
-      "score": 1064,
+      "score": 1076,
       "author": "autocracy101",
       "created": "2026-04-01 05:15:37",
       "created_at": 1775020537000
@@ -28,70 +19,79 @@
       "id": 47603657,
       "title": "Artemis II Launch Day Updates",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 973,
+      "score": 1028,
       "author": "apitman",
       "created": "2026-04-01 17:11:31",
       "created_at": 1775063491000
     },
     {
-      "id": 47587935,
-      "title": "Oracle slashes 30k jobs",
-      "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 907,
-      "author": "pje",
-      "created": "2026-03-31 14:30:48",
-      "created_at": 1774967448000
+      "id": 47613981,
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "link": "https://browsergate.eu/",
+      "score": 949,
+      "author": "digitalWestie",
+      "created": "2026-04-02 13:09:09",
+      "created_at": 1775135349000
     },
     {
       "id": 47602832,
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "link": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 600,
+      "score": 647,
       "author": "elithrar",
       "created": "2026-04-01 16:14:38",
       "created_at": 1775060078000
     },
     {
-      "id": 47587866,
-      "title": "Microsoft: Copilot is for entertainment purposes only",
-      "link": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-      "score": 571,
-      "author": "lpcvoid",
-      "created": "2026-03-31 14:25:37",
-      "created_at": 1774967137000
-    },
-    {
-      "id": 47593556,
-      "title": "A dot a day keeps the clutter away",
-      "link": "https://scottlawsonbc.com/post/dot-system",
-      "score": 559,
-      "author": "scottlawson",
-      "created": "2026-03-31 21:15:01",
-      "created_at": 1774991701000
+      "id": 47609564,
+      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "score": 632,
+      "author": "hkmaxpro",
+      "created": "2026-04-02 03:12:24",
+      "created_at": 1775099544000
     },
     {
       "id": 47606840,
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 521,
+      "score": 579,
       "author": "ingve",
       "created": "2026-04-01 21:36:41",
       "created_at": 1775079401000
     },
     {
+      "id": 47593556,
+      "title": "A dot a day keeps the clutter away",
+      "link": "https://scottlawsonbc.com/post/dot-system",
+      "score": 567,
+      "author": "scottlawson",
+      "created": "2026-03-31 21:15:01",
+      "created_at": 1774991701000
+    },
+    {
       "id": 47592755,
       "title": "OpenAI closes funding round at an $852B valuation",
       "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "score": 520,
+      "score": 522,
       "author": "surprisetalk",
       "created": "2026-03-31 20:07:30",
       "created_at": 1774987650000
     },
     {
+      "id": 47612601,
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "link": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "score": 505,
+      "author": "novaRom",
+      "created": "2026-04-02 10:50:00",
+      "created_at": 1775127000000
+    },
+    {
       "id": 47591928,
       "title": "GitHub's Historic Uptime",
       "link": "https://damrnelson.github.io/github-historical-uptime/",
-      "score": 486,
+      "score": 490,
       "author": "todsacerdoti",
       "created": "2026-03-31 19:01:29",
       "created_at": 1774983689000
