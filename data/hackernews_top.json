@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-03T16:28:25.513Z"
+    "lastUpdate": "2026-04-03T20:24:27.515Z"
   },
   "data": [
+    {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "link": "https://www.inaturalist.org/",
+      "score": 212,
+      "author": "bookofjoe",
+      "created": "2026-04-03 17:22:20",
+      "created_at": 1775236940000
+    },
     {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "link": "https://text.blogosphere.app/",
-      "score": 298,
+      "score": 543,
       "author": "ramkarthikk",
       "created": "2026-04-03 12:33:45",
       "created_at": 1775219625000
     },
     {
-      "id": 47626462,
-      "title": "Big-Endian Testing with QEMU",
-      "link": "https://www.hanshq.net/big-endian-qemu.html",
-      "score": 40,
-      "author": "jandeboevrie",
-      "created": "2026-04-03 13:28:58",
-      "created_at": 1775222938000
+      "id": 47618223,
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "score": 131,
+      "author": "denssumesh",
+      "created": "2026-04-02 18:24:29",
+      "created_at": 1775154269000
+    },
+    {
+      "id": 47630576,
+      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "link": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+      "score": 24,
+      "author": "uticus",
+      "created": "2026-04-03 18:54:11",
+      "created_at": 1775242451000
+    },
+    {
+      "id": 47630893,
+      "title": "Age Verification on Systemd and Flatpak",
+      "link": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+      "score": 36,
+      "author": "londonanon",
+      "created": "2026-04-03 19:17:28",
+      "created_at": 1775243848000
+    },
+    {
+      "id": 47631118,
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 12,
+      "author": "andsoitis",
+      "created": "2026-04-03 19:35:02",
+      "created_at": 1775244902000
+    },
+    {
+      "id": 47629116,
+      "title": "Go on Embedded Systems and WebAssembly",
+      "link": "https://tinygo.org/",
+      "score": 69,
+      "author": "uticus",
+      "created": "2026-04-03 16:57:09",
+      "created_at": 1775235429000
     },
     {
       "id": 47567222,
       "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "link": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 173,
+      "score": 332,
       "author": "chalmovsky",
       "created": "2026-03-29 20:55:46",
       "created_at": 1774817746000
     },
     {
-      "id": 47627056,
-      "title": "Marc Andreessen is wrong about introspection",
-      "link": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
-      "score": 228,
-      "author": "surprisetalk",
-      "created": "2026-04-03 14:29:12",
-      "created_at": 1775226552000
+      "id": 47630592,
+      "title": "Async Python Is Secretly Deterministic",
+      "link": "https://www.dbos.dev/blog/async-python-is-secretly-deterministic",
+      "score": 23,
+      "author": "KraftyOne",
+      "created": "2026-04-03 18:55:12",
+      "created_at": 1775242512000
     },
     {
-      "id": 47624731,
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "link": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "score": 184,
-      "author": "greenstevester",
-      "created": "2026-04-03 09:35:16",
-      "created_at": 1775208916000
-    },
-    {
-      "id": 47560967,
-      "title": "A Recipe for Steganogravy",
-      "link": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
-      "score": 64,
-      "author": "tbrockman",
-      "created": "2026-03-29 06:56:45",
-      "created_at": 1774767405000
-    },
-    {
-      "id": 47627061,
-      "title": "Solar and batteries can power the world",
-      "link": "https://nworbmot.org/blog/solar-battery-world.html",
-      "score": 153,
-      "author": "edent",
-      "created": "2026-04-03 14:29:26",
-      "created_at": 1775226566000
-    },
-    {
-      "id": 47597159,
-      "title": "Improving my focus by giving up my big monitor",
-      "link": "https://ounapuu.ee/posts/2026/04/01/focus/",
-      "score": 27,
-      "author": "Fudgel",
-      "created": "2026-04-01 05:28:59",
-      "created_at": 1775021339000
-    },
-    {
-      "id": 47624645,
-      "title": "Show HN: Apfel – The free AI already on your Mac",
-      "link": "https://apfel.franzai.com",
-      "score": 472,
-      "author": "franze",
-      "created": "2026-04-03 09:15:34",
-      "created_at": 1775207734000
-    },
-    {
-      "id": 47616242,
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 1040,
-      "author": "axelriet",
-      "created": "2026-04-02 16:00:27",
-      "created_at": 1775145627000
+      "id": 47628326,
+      "title": "F-15E jet shot down over Iran",
+      "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "score": 174,
+      "author": "tjwds",
+      "created": "2026-04-03 16:00:44",
+      "created_at": 1775232044000
     }
   ],
   "code": 200,

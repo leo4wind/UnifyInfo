@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-03T16:28:25.288Z"
+    "lastUpdate": "2026-04-03T20:24:27.406Z"
   },
   "data": [
     {
       "id": 47613981,
       "title": "LinkedIn is searching your browser extensions",
       "link": "https://browsergate.eu/",
-      "score": 1831,
+      "score": 1842,
       "author": "digitalWestie",
       "created": "2026-04-02 13:09:09",
       "created_at": 1775135349000
@@ -19,25 +19,16 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1665,
+      "score": 1703,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
     },
     {
-      "id": 47603657,
-      "title": "Artemis II Launch Day Updates",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 1084,
-      "author": "apitman",
-      "created": "2026-04-01 17:11:31",
-      "created_at": 1775063491000
-    },
-    {
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 1040,
+      "score": 1139,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
@@ -46,7 +37,7 @@
       "id": 47612601,
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "link": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 878,
+      "score": 886,
       "author": "novaRom",
       "created": "2026-04-02 10:50:00",
       "created_at": 1775127000000
@@ -55,46 +46,55 @@
       "id": 47609564,
       "title": "Steam on Linux Use Skyrocketed Above 5% in March",
       "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 754,
+      "score": 759,
       "author": "hkmaxpro",
       "created": "2026-04-02 03:12:24",
       "created_at": 1775099544000
     },
     {
-      "id": 47602832,
-      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "link": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 676,
-      "author": "elithrar",
-      "created": "2026-04-01 16:14:38",
-      "created_at": 1775060078000
-    },
-    {
       "id": 47606840,
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 616,
+      "score": 619,
       "author": "ingve",
       "created": "2026-04-01 21:36:41",
       "created_at": 1775079401000
     },
     {
+      "id": 47624645,
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "link": "https://apfel.franzai.com",
+      "score": 589,
+      "author": "franze",
+      "created": "2026-04-03 09:15:34",
+      "created_at": 1775207734000
+    },
+    {
       "id": 47615002,
       "title": "Qwen3.6-Plus: Towards real world agents",
       "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 567,
+      "score": 571,
       "author": "pretext",
       "created": "2026-04-02 14:28:52",
       "created_at": 1775140132000
     },
     {
-      "id": 47612724,
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "link": "https://lemonade-server.ai",
-      "score": 538,
-      "author": "AbuAssar",
-      "created": "2026-04-02 11:04:51",
-      "created_at": 1775127891000
+      "id": 47625952,
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "link": "https://text.blogosphere.app/",
+      "score": 543,
+      "author": "ramkarthikk",
+      "created": "2026-04-03 12:33:45",
+      "created_at": 1775219625000
+    },
+    {
+      "id": 47618189,
+      "title": "Tailscale's new macOS home",
+      "link": "https://tailscale.com/blog/macos-notch-escape",
+      "score": 542,
+      "author": "tosh",
+      "created": "2026-04-02 18:22:03",
+      "created_at": 1775154123000
     }
   ],
   "code": 200,
