@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-03T01:19:58.942Z"
+    "lastUpdate": "2026-04-03T05:28:28.478Z"
   },
   "data": [
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1119,
+      "score": 1278,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -19,43 +19,70 @@
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 264,
+      "score": 522,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
     },
     {
+      "id": 47598413,
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "score": 82,
+      "author": "gaigalas",
+      "created": "2026-04-01 08:41:49",
+      "created_at": 1775032909000
+    },
+    {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "link": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 310,
+      "score": 386,
       "author": "tosh",
       "created": "2026-04-02 18:22:03",
       "created_at": 1775154123000
     },
     {
-      "id": 47609356,
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 129,
-      "author": "1659447091",
-      "created": "2026-04-02 02:37:12",
-      "created_at": 1775097432000
+      "id": 47562214,
+      "title": "Free stuff makes us irrational",
+      "link": "https://thehustle.co/why-free-stuff-makes-us-irrational",
+      "score": 27,
+      "author": "Anon84",
+      "created": "2026-03-29 11:25:18",
+      "created_at": 1774783518000
     },
     {
       "id": 47618084,
       "title": "Cursor 3",
       "link": "https://cursor.com/blog/cursor-3",
-      "score": 276,
+      "score": 343,
       "author": "adamfeldman",
       "created": "2026-04-02 18:13:41",
       "created_at": 1775153621000
     },
     {
+      "id": 47609356,
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "score": 188,
+      "author": "1659447091",
+      "created": "2026-04-02 02:37:12",
+      "created_at": 1775097432000
+    },
+    {
+      "id": 47560959,
+      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+      "link": "https://thottingal.in/blog/2026/03/29/home-maker/",
+      "score": 12,
+      "author": "sthottingal",
+      "created": "2026-03-29 06:56:04",
+      "created_at": 1774767364000
+    },
+    {
       "id": 47615002,
       "title": "Qwen3.6-Plus: Towards real world agents",
       "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 424,
+      "score": 476,
       "author": "pretext",
       "created": "2026-04-02 14:28:52",
       "created_at": 1775140132000
@@ -64,37 +91,10 @@
       "id": 47617415,
       "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
       "link": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "score": 151,
+      "score": 207,
       "author": "sedev",
       "created": "2026-04-02 17:29:03",
       "created_at": 1775150943000
-    },
-    {
-      "id": 47618176,
-      "title": "George Goble has died",
-      "link": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "score": 106,
-      "author": "finaard",
-      "created": "2026-04-02 18:21:08",
-      "created_at": 1775154068000
-    },
-    {
-      "id": 47612724,
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "link": "https://lemonade-server.ai",
-      "score": 439,
-      "author": "AbuAssar",
-      "created": "2026-04-02 11:04:51",
-      "created_at": 1775127891000
-    },
-    {
-      "id": 47618221,
-      "title": "The Australian government has announced gambling advertising reforms",
-      "link": "https://www.bbc.com/news/articles/c62492e925lo",
-      "score": 94,
-      "author": "gostsamo",
-      "created": "2026-04-02 18:24:12",
-      "created_at": 1775154252000
     }
   ],
   "code": 200,
