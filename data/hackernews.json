@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-03T08:41:37.803Z"
+    "lastUpdate": "2026-04-03T12:39:01.933Z"
   },
   "data": [
     {
       "id": 47613981,
       "title": "LinkedIn is searching your browser extensions",
       "link": "https://browsergate.eu/",
-      "score": 1708,
+      "score": 1782,
       "author": "digitalWestie",
       "created": "2026-04-02 13:09:09",
       "created_at": 1775135349000
@@ -19,7 +19,7 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1429,
+      "score": 1559,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -34,10 +34,19 @@
       "created_at": 1775063491000
     },
     {
+      "id": 47616242,
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "score": 887,
+      "author": "axelriet",
+      "created": "2026-04-02 16:00:27",
+      "created_at": 1775145627000
+    },
+    {
       "id": 47612601,
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "link": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 832,
+      "score": 866,
       "author": "novaRom",
       "created": "2026-04-02 10:50:00",
       "created_at": 1775127000000
@@ -46,25 +55,16 @@
       "id": 47609564,
       "title": "Steam on Linux Use Skyrocketed Above 5% in March",
       "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 735,
+      "score": 745,
       "author": "hkmaxpro",
       "created": "2026-04-02 03:12:24",
       "created_at": 1775099544000
     },
     {
-      "id": 47616242,
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 719,
-      "author": "axelriet",
-      "created": "2026-04-02 16:00:27",
-      "created_at": 1775145627000
-    },
-    {
       "id": 47602832,
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "link": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 668,
+      "score": 670,
       "author": "elithrar",
       "created": "2026-04-01 16:14:38",
       "created_at": 1775060078000
@@ -73,7 +73,7 @@
       "id": 47606840,
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 610,
+      "score": 614,
       "author": "ingve",
       "created": "2026-04-01 21:36:41",
       "created_at": 1775079401000
@@ -82,7 +82,7 @@
       "id": 47615002,
       "title": "Qwen3.6-Plus: Towards real world agents",
       "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 514,
+      "score": 550,
       "author": "pretext",
       "created": "2026-04-02 14:28:52",
       "created_at": 1775140132000
@@ -91,7 +91,7 @@
       "id": 47612724,
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "link": "https://lemonade-server.ai",
-      "score": 513,
+      "score": 525,
       "author": "AbuAssar",
       "created": "2026-04-02 11:04:51",
       "created_at": 1775127891000

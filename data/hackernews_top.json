@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-03T08:41:37.998Z"
+    "lastUpdate": "2026-04-03T12:39:02.121Z"
   },
   "data": [
+    {
+      "id": 47624645,
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "link": "https://apfel.franzai.com",
+      "score": 187,
+      "author": "franze",
+      "created": "2026-04-03 09:15:34",
+      "created_at": 1775207734000
+    },
+    {
+      "id": 47624741,
+      "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+      "link": "https://only-eu.eu/en/",
+      "score": 308,
+      "author": "madman_dev",
+      "created": "2026-04-03 09:37:24",
+      "created_at": 1775209044000
+    },
+    {
+      "id": 47624731,
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "link": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "score": 65,
+      "author": "greenstevester",
+      "created": "2026-04-03 09:35:16",
+      "created_at": 1775208916000
+    },
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1429,
+      "score": 1559,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -19,82 +46,55 @@
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 719,
+      "score": 887,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
     },
     {
-      "id": 47562455,
-      "title": "The True Shape of Io's Steeple Mountain",
-      "link": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "score": 35,
-      "author": "carlosjobim",
-      "created": "2026-03-29 12:07:24",
-      "created_at": 1774786044000
-    },
-    {
-      "id": 47618189,
-      "title": "Tailscale's new macOS home",
-      "link": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 445,
-      "author": "tosh",
-      "created": "2026-04-02 18:22:03",
-      "created_at": 1775154123000
-    },
-    {
-      "id": 47618084,
-      "title": "Cursor 3",
-      "link": "https://cursor.com/blog/cursor-3",
-      "score": 400,
-      "author": "adamfeldman",
-      "created": "2026-04-02 18:13:41",
-      "created_at": 1775153621000
-    },
-    {
-      "id": 47598413,
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "score": 115,
-      "author": "gaigalas",
-      "created": "2026-04-01 08:41:49",
-      "created_at": 1775032909000
-    },
-    {
-      "id": 47609356,
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 238,
-      "author": "1659447091",
-      "created": "2026-04-02 02:37:12",
-      "created_at": 1775097432000
-    },
-    {
       "id": 47561678,
       "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
       "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
-      "score": 9,
+      "score": 84,
       "author": "topspin",
       "created": "2026-03-29 09:39:23",
       "created_at": 1774777163000
     },
     {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 514,
-      "author": "pretext",
-      "created": "2026-04-02 14:28:52",
-      "created_at": 1775140132000
+      "id": 47624736,
+      "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+      "link": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+      "score": 119,
+      "author": "chrisjj",
+      "created": "2026-04-03 09:36:33",
+      "created_at": 1775208993000
     },
     {
-      "id": 47561913,
-      "title": "Vector Meson Dominance",
-      "link": "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/",
-      "score": 30,
-      "author": "chmaynard",
-      "created": "2026-03-29 10:28:04",
-      "created_at": 1774780084000
+      "id": 47561426,
+      "title": "What Category Theory Teaches Us About DataFrames",
+      "link": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
+      "score": 49,
+      "author": "mchav",
+      "created": "2026-03-29 08:44:25",
+      "created_at": 1774773865000
+    },
+    {
+      "id": 47567222,
+      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+      "link": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
+      "score": 17,
+      "author": "chalmovsky",
+      "created": "2026-03-29 20:55:46",
+      "created_at": 1774817746000
+    },
+    {
+      "id": 47625244,
+      "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+      "link": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+      "score": 57,
+      "author": "nickslaughter02",
+      "created": "2026-04-03 10:58:51",
+      "created_at": 1775213931000
     }
   ],
   "code": 200,
