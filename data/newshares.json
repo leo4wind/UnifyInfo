@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-02T20:25:05.052Z"
+    "lastUpdate": "2026-04-03T01:20:01.988Z"
   },
   "data": [
+    {
+      "zqdm": "001312",
+      "zqjc": "福恩股份",
+      "sgdm": "001312",
+      "fxsl": 58333334,
+      "swfxsl": 23333000,
+      "sgsx": 23000,
+      "dgsz": 230000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-10",
+      "zqgbrq": "2026-04-14",
+      "zqjkrq": "2026-04-14",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 27.82,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "以可持续发展为核心的全球生态环保面料供应商,从事生态环保面料的研发、生产和销售"
+    },
     {
       "zqdm": "688820",
       "zqjc": "盛合晶微",
@@ -166,53 +189,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "金属复合材料及制品、特种有色金属合金制品的研发、生产和销售"
-    },
-    {
-      "zqdm": "603459",
-      "zqjc": "红板科技",
-      "sgdm": "732459",
-      "fxsl": 100000000,
-      "swfxsl": 53746500,
-      "sgsx": 21000,
-      "dgsz": 210000,
-      "fxjg": 17.7,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-03-27",
-      "zqgbrq": "2026-03-31",
-      "zqjkrq": "2026-03-31",
-      "ssrq": null,
-      "syl": 25.6,
-      "hysyl": 64.2,
-      "wszql": 0.03502211,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "公司专注于印制电路板的研发、生产和销售"
-    },
-    {
-      "zqdm": "301696",
-      "zqjc": "三瑞智能",
-      "sgdm": "301696",
-      "fxsl": 40010000,
-      "swfxsl": 12803500,
-      "sgsx": 6000,
-      "dgsz": 60000,
-      "fxjg": 24.68,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-03-27",
-      "zqgbrq": "2026-03-31",
-      "zqjkrq": "2026-03-31",
-      "ssrq": null,
-      "syl": 30.8,
-      "hysyl": 29.25,
-      "wszql": 0.0189052876,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "无人机电动动力系统及机器人动力系统的研发、生产和销售,并积极布局电动垂直起降飞行器(eVTOL)动力系统产品"
     }
   ],
-  "total": 9
+  "total": 8
 }
