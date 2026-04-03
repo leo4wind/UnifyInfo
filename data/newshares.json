@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-03T05:28:32.037Z"
+    "lastUpdate": "2026-04-03T08:41:41.977Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-04-14",
       "ssrq": null,
       "syl": null,
-      "hysyl": 27.82,
+      "hysyl": 27.72,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -45,7 +45,7 @@
       "zqjkrq": "2026-04-13",
       "ssrq": null,
       "syl": null,
-      "hysyl": 63.04,
+      "hysyl": 62.76,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -76,6 +76,29 @@
       "zyyw": "微纳粉体处理、粉液精密计量、粉液混合分散、功能薄膜制备等核心工艺"
     },
     {
+      "zqdm": "920177",
+      "zqjc": "恒道科技",
+      "sgdm": "920177",
+      "fxsl": 13080000,
+      "swfxsl": 11772000,
+      "sgsx": 588600,
+      "dgsz": 5886000,
+      "fxjg": 21.8,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-07",
+      "zqgbrq": "2026-04-10",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 41.56,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "注塑模具热流道系统及相关部件的研发、设计、生产和销售"
+    },
+    {
       "zqdm": "603293",
       "zqjc": "埃泰克",
       "sgdm": "732293",
@@ -83,14 +106,14 @@
       "swfxsl": 14327000,
       "sgsx": 14000,
       "dgsz": 140000,
-      "fxjg": null,
+      "fxjg": 33.49,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-04-07",
       "zqgbrq": "2026-04-09",
       "zqjkrq": "2026-04-09",
       "ssrq": null,
-      "syl": null,
+      "syl": 29.71,
       "hysyl": 63.04,
       "wszql": null,
       "yzbsl": 0,
@@ -191,5 +214,5 @@
       "zyyw": "金属复合材料及制品、特种有色金属合金制品的研发、生产和销售"
     }
   ],
-  "total": 8
+  "total": 9
 }

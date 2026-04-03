@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-03T05:28:28.499Z"
+    "lastUpdate": "2026-04-03T08:41:38.062Z"
   },
   "data": [
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1278,
+      "score": 1429,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -19,82 +19,82 @@
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 522,
+      "score": 719,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
     },
     {
-      "id": 47598413,
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "score": 82,
-      "author": "gaigalas",
-      "created": "2026-04-01 08:41:49",
-      "created_at": 1775032909000
+      "id": 47562455,
+      "title": "The True Shape of Io's Steeple Mountain",
+      "link": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "score": 35,
+      "author": "carlosjobim",
+      "created": "2026-03-29 12:07:24",
+      "created_at": 1774786044000
     },
     {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "link": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 386,
+      "score": 445,
       "author": "tosh",
       "created": "2026-04-02 18:22:03",
       "created_at": 1775154123000
     },
     {
-      "id": 47562214,
-      "title": "Free stuff makes us irrational",
-      "link": "https://thehustle.co/why-free-stuff-makes-us-irrational",
-      "score": 27,
-      "author": "Anon84",
-      "created": "2026-03-29 11:25:18",
-      "created_at": 1774783518000
-    },
-    {
       "id": 47618084,
       "title": "Cursor 3",
       "link": "https://cursor.com/blog/cursor-3",
-      "score": 343,
+      "score": 400,
       "author": "adamfeldman",
       "created": "2026-04-02 18:13:41",
       "created_at": 1775153621000
     },
     {
+      "id": 47598413,
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "link": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "score": 115,
+      "author": "gaigalas",
+      "created": "2026-04-01 08:41:49",
+      "created_at": 1775032909000
+    },
+    {
       "id": 47609356,
       "title": "Artemis II's toilet is a moon mission milestone",
       "link": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 188,
+      "score": 238,
       "author": "1659447091",
       "created": "2026-04-02 02:37:12",
       "created_at": 1775097432000
     },
     {
-      "id": 47560959,
-      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-      "link": "https://thottingal.in/blog/2026/03/29/home-maker/",
-      "score": 12,
-      "author": "sthottingal",
-      "created": "2026-03-29 06:56:04",
-      "created_at": 1774767364000
+      "id": 47561678,
+      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "link": "https://www.espressif.com/en/news/ESP32_S31_Release",
+      "score": 9,
+      "author": "topspin",
+      "created": "2026-03-29 09:39:23",
+      "created_at": 1774777163000
     },
     {
       "id": 47615002,
       "title": "Qwen3.6-Plus: Towards real world agents",
       "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 476,
+      "score": 514,
       "author": "pretext",
       "created": "2026-04-02 14:28:52",
       "created_at": 1775140132000
     },
     {
-      "id": 47617415,
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "link": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "score": 207,
-      "author": "sedev",
-      "created": "2026-04-02 17:29:03",
-      "created_at": 1775150943000
+      "id": 47561913,
+      "title": "Vector Meson Dominance",
+      "link": "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/",
+      "score": 30,
+      "author": "chmaynard",
+      "created": "2026-03-29 10:28:04",
+      "created_at": 1774780084000
     }
   ],
   "code": 200,
