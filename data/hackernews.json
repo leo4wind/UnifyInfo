@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-04T12:31:53.716Z"
+    "lastUpdate": "2026-04-04T16:22:55.229Z"
   },
   "data": [
-    {
-      "id": 47613981,
-      "title": "LinkedIn is searching your browser extensions",
-      "link": "https://browsergate.eu/",
-      "score": 1866,
-      "author": "digitalWestie",
-      "created": "2026-04-02 13:09:09",
-      "created_at": 1775135349000
-    },
     {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1741,
+      "score": 1748,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -28,7 +19,7 @@
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 1204,
+      "score": 1222,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
@@ -37,7 +28,7 @@
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 822,
+      "score": 911,
       "author": "andsoitis",
       "created": "2026-04-03 19:35:02",
       "created_at": 1775244902000
@@ -46,7 +37,7 @@
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "link": "",
-      "score": 797,
+      "score": 896,
       "author": "firloop",
       "created": "2026-04-03 22:55:24",
       "created_at": 1775256924000
@@ -55,7 +46,7 @@
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "link": "https://text.blogosphere.app/",
-      "score": 721,
+      "score": 730,
       "author": "ramkarthikk",
       "created": "2026-04-03 12:33:45",
       "created_at": 1775219625000
@@ -64,25 +55,25 @@
       "id": 47624645,
       "title": "Show HN: Apfel – The free AI already on your Mac",
       "link": "https://apfel.franzai.com",
-      "score": 684,
+      "score": 695,
       "author": "franze",
       "created": "2026-04-03 09:15:34",
       "created_at": 1775207734000
     },
     {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 579,
-      "author": "pretext",
-      "created": "2026-04-02 14:28:52",
-      "created_at": 1775140132000
+      "id": 47628326,
+      "title": "F-15E jet shot down over Iran",
+      "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "score": 562,
+      "author": "tjwds",
+      "created": "2026-04-03 16:00:44",
+      "created_at": 1775232044000
     },
     {
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "link": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 556,
+      "score": 557,
       "author": "tosh",
       "created": "2026-04-02 18:22:03",
       "created_at": 1775154123000
@@ -91,10 +82,19 @@
       "id": 47618084,
       "title": "Cursor 3",
       "link": "https://cursor.com/blog/cursor-3",
-      "score": 527,
+      "score": 531,
       "author": "adamfeldman",
       "created": "2026-04-02 18:13:41",
       "created_at": 1775153621000
+    },
+    {
+      "id": 47631732,
+      "title": "Oracle files H-1B visa petitions amid mass layoffs",
+      "link": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "score": 496,
+      "author": "kklisura",
+      "created": "2026-04-03 20:21:23",
+      "created_at": 1775247683000
     }
   ],
   "code": 200,
