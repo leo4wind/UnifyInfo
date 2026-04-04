@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-04T01:14:31.397Z"
+    "lastUpdate": "2026-04-04T05:17:13.973Z"
   },
   "data": [
     {
       "id": 47613981,
       "title": "LinkedIn is searching your browser extensions",
       "link": "https://browsergate.eu/",
-      "score": 1855,
+      "score": 1859,
       "author": "digitalWestie",
       "created": "2026-04-02 13:09:09",
       "created_at": 1775135349000
@@ -19,7 +19,7 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "link": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1721,
+      "score": 1730,
       "author": "jeffmcjunkin",
       "created": "2026-04-02 16:10:54",
       "created_at": 1775146254000
@@ -28,7 +28,7 @@
       "id": 47616242,
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 1169,
+      "score": 1184,
       "author": "axelriet",
       "created": "2026-04-02 16:00:27",
       "created_at": 1775145627000
@@ -43,19 +43,10 @@
       "created_at": 1775127000000
     },
     {
-      "id": 47609564,
-      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "link": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 766,
-      "author": "hkmaxpro",
-      "created": "2026-04-02 03:12:24",
-      "created_at": 1775099544000
-    },
-    {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "link": "https://text.blogosphere.app/",
-      "score": 646,
+      "score": 693,
       "author": "ramkarthikk",
       "created": "2026-04-03 12:33:45",
       "created_at": 1775219625000
@@ -64,16 +55,25 @@
       "id": 47624645,
       "title": "Show HN: Apfel – The free AI already on your Mac",
       "link": "https://apfel.franzai.com",
-      "score": 645,
+      "score": 658,
       "author": "franze",
       "created": "2026-04-03 09:15:34",
       "created_at": 1775207734000
     },
     {
+      "id": 47631118,
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 615,
+      "author": "andsoitis",
+      "created": "2026-04-03 19:35:02",
+      "created_at": 1775244902000
+    },
+    {
       "id": 47615002,
       "title": "Qwen3.6-Plus: Towards real world agents",
       "link": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 573,
+      "score": 574,
       "author": "pretext",
       "created": "2026-04-02 14:28:52",
       "created_at": 1775140132000
@@ -82,7 +82,7 @@
       "id": 47618189,
       "title": "Tailscale's new macOS home",
       "link": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 548,
+      "score": 550,
       "author": "tosh",
       "created": "2026-04-02 18:22:03",
       "created_at": 1775154123000
@@ -91,7 +91,7 @@
       "id": 47612724,
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "link": "https://lemonade-server.ai",
-      "score": 546,
+      "score": 549,
       "author": "AbuAssar",
       "created": "2026-04-02 11:04:51",
       "created_at": 1775127891000
