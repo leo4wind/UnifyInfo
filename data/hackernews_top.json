@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-04T08:29:27.623Z"
+    "lastUpdate": "2026-04-04T12:31:54.216Z"
   },
   "data": [
+    {
+      "id": 47637757,
+      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "link": "https://arxiv.org/abs/2604.01193",
+      "score": 107,
+      "author": "Anon84",
+      "created": "2026-04-04 10:26:21",
+      "created_at": 1775298381000
+    },
     {
       "id": 47633396,
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "link": "",
-      "score": 617,
+      "score": 797,
       "author": "firloop",
       "created": "2026-04-03 22:55:24",
       "created_at": 1775256924000
     },
     {
+      "id": 47638075,
+      "title": "The CMS is dead. Long live the CMS",
+      "link": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "score": 10,
+      "author": "taubek",
+      "created": "2026-04-04 11:24:30",
+      "created_at": 1775301870000
+    },
+    {
+      "id": 47637287,
+      "title": "Some Unusual Trees",
+      "link": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "score": 59,
+      "author": "simplegeek",
+      "created": "2026-04-04 09:04:19",
+      "created_at": 1775293459000
+    },
+    {
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 722,
+      "score": 822,
       "author": "andsoitis",
       "created": "2026-04-03 19:35:02",
       "created_at": 1775244902000
     },
     {
-      "id": 47636435,
-      "title": "Emotion concepts and their function in a large language model",
-      "link": "https://www.anthropic.com/research/emotion-concepts-function",
-      "score": 35,
-      "author": "dnw",
-      "created": "2026-04-04 06:30:25",
-      "created_at": 1775284225000
-    },
-    {
-      "id": 47634690,
-      "title": "Delve removed from Y Combinator",
-      "link": "https://www.ycombinator.com/companies/delve",
-      "score": 268,
-      "author": "carabiner",
-      "created": "2026-04-04 01:37:02",
-      "created_at": 1775266622000
+      "id": 47638047,
+      "title": "Tesla Is Sitting on a Record 50k Unsold EVs",
+      "link": "https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/",
+      "score": 38,
+      "author": "vrganj",
+      "created": "2026-04-04 11:19:55",
+      "created_at": 1775301595000
     },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "link": "https://www.inaturalist.org/",
-      "score": 407,
+      "score": 451,
       "author": "bookofjoe",
       "created": "2026-04-03 17:22:20",
       "created_at": 1775236940000
     },
     {
-      "id": 47585469,
-      "title": "Herbie: Automatically improve imprecise floating point formulas",
-      "link": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-      "score": 106,
-      "author": "summarity",
-      "created": "2026-03-31 10:53:52",
-      "created_at": 1774954432000
-    },
-    {
       "id": 47628608,
       "title": "OpenClaw privilege escalation vulnerability",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 354,
+      "score": 415,
       "author": "kykeonaut",
       "created": "2026-04-03 16:21:32",
       "created_at": 1775233292000
     },
     {
-      "id": 47633131,
-      "title": "Run Linux containers on Android, no root required",
-      "link": "https://github.com/ExTV/Podroid",
-      "score": 101,
-      "author": "politelemon",
-      "created": "2026-04-03 22:23:55",
-      "created_at": 1775255035000
-    },
-    {
-      "id": 47586885,
-      "title": "What changes when you turn a Linux box into a router",
-      "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 161,
-      "author": "0o_MrPatrick_o0",
-      "created": "2026-03-31 13:13:20",
-      "created_at": 1774962800000
-    },
-    {
-      "id": 47597159,
-      "title": "Improving my focus by giving up my big monitor",
-      "link": "https://ounapuu.ee/posts/2026/04/01/focus/",
-      "score": 77,
-      "author": "Fudgel",
-      "created": "2026-04-01 05:28:59",
-      "created_at": 1775021339000
+      "id": 47585469,
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "link": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "score": 141,
+      "author": "summarity",
+      "created": "2026-03-31 10:53:52",
+      "created_at": 1774954432000
     }
   ],
   "code": 200,
