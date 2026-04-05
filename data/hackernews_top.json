@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-05T08:32:21.755Z"
+    "lastUpdate": "2026-04-05T12:34:01.995Z"
   },
   "data": [
     {
-      "id": 47640728,
-      "title": "Show HN: A game where you build a GPU",
-      "link": "https://jaso1024.com/mvidia/",
-      "score": 689,
-      "author": "Jaso1024",
-      "created": "2026-04-04 16:45:54",
-      "created_at": 1775321154000
+      "id": 47647788,
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "score": 104,
+      "author": "zaikunzhang",
+      "created": "2026-04-05 09:57:25",
+      "created_at": 1775383045000
     },
     {
-      "id": 47645432,
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 137,
-      "author": "luu",
-      "created": "2026-04-05 01:54:29",
-      "created_at": 1775354069000
-    },
-    {
-      "id": 47595695,
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "link": "https://github.com/siddharthvaddem/openscreen",
-      "score": 253,
-      "author": "jskopek",
-      "created": "2026-04-01 01:31:46",
-      "created_at": 1775007106000
-    },
-    {
-      "id": 47644406,
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 202,
-      "author": "DyslexicAtheist",
-      "created": "2026-04-04 22:57:44",
-      "created_at": 1775343464000
-    },
-    {
-      "id": 47640875,
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 170,
-      "author": "tamnd",
-      "created": "2026-04-04 16:57:45",
-      "created_at": 1775321865000
-    },
-    {
-      "id": 47598835,
-      "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
-      "link": "https://github.com/squadette/rubysyn/blob/master/README.md",
-      "score": 34,
-      "author": "petalmind",
-      "created": "2026-04-01 09:54:18",
-      "created_at": 1775037258000
-    },
-    {
-      "id": 47587089,
-      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
-      "link": "https://zml.ai/posts/zml-smi/",
-      "score": 38,
-      "author": "steeve",
-      "created": "2026-03-31 13:29:53",
-      "created_at": 1774963793000
-    },
-    {
-      "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 607,
-      "author": "gpi",
-      "created": "2026-04-04 19:39:43",
-      "created_at": 1775331583000
-    },
-    {
-      "id": 47613118,
-      "title": "Show HN: I built a small app for FSI German Course",
-      "link": "https://detawk.com/",
-      "score": 25,
-      "author": "syedmsawaid",
-      "created": "2026-04-02 11:44:01",
-      "created_at": 1775130241000
+      "id": 47647455,
+      "title": "Talk like caveman",
+      "link": "https://github.com/JuliusBrussee/caveman",
+      "score": 151,
+      "author": "tosh",
+      "created": "2026-04-05 08:56:18",
+      "created_at": 1775379378000
     },
     {
       "id": 47646843,
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "link": "https://lisette.run/",
-      "score": 13,
+      "score": 115,
       "author": "jspdown",
       "created": "2026-04-05 06:57:19",
       "created_at": 1775372239000
+    },
+    {
+      "id": 47640728,
+      "title": "Show HN: A game where you build a GPU",
+      "link": "https://jaso1024.com/mvidia/",
+      "score": 803,
+      "author": "Jaso1024",
+      "created": "2026-04-04 16:45:54",
+      "created_at": 1775321154000
+    },
+    {
+      "id": 47648452,
+      "title": "Ubuntu now requires more RAM than Windows 11",
+      "link": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+      "score": 32,
+      "author": "jnord",
+      "created": "2026-04-05 11:57:25",
+      "created_at": 1775390245000
+    },
+    {
+      "id": 47644406,
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "score": 357,
+      "author": "DyslexicAtheist",
+      "created": "2026-04-04 22:57:44",
+      "created_at": 1775343464000
+    },
+    {
+      "id": 47595695,
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "score": 340,
+      "author": "jskopek",
+      "created": "2026-04-01 01:31:46",
+      "created_at": 1775007106000
+    },
+    {
+      "id": 47645432,
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "score": 173,
+      "author": "luu",
+      "created": "2026-04-05 01:54:29",
+      "created_at": 1775354069000
+    },
+    {
+      "id": 47590230,
+      "title": "Costco sued for seeking refunds on tariffs customers paid",
+      "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+      "score": 32,
+      "author": "AdmiralAsshat",
+      "created": "2026-03-31 16:55:16",
+      "created_at": 1774976116000
     }
   ],
   "code": 200,
