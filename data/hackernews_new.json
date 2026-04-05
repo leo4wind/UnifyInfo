@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-05T12:34:02.035Z"
+    "lastUpdate": "2026-04-05T16:24:38.441Z"
   },
   "data": [
     {
-      "id": 47647788,
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 104,
-      "author": "zaikunzhang",
-      "created": "2026-04-05 09:57:25",
-      "created_at": 1775383045000
+      "id": 47649721,
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "score": 96,
+      "author": "mooreds",
+      "created": "2026-04-05 14:18:12",
+      "created_at": 1775398692000
+    },
+    {
+      "id": 47648828,
+      "title": "Eight years of wanting, three months of building with AI",
+      "link": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 158,
+      "author": "brilee",
+      "created": "2026-04-05 12:43:47",
+      "created_at": 1775393027000
     },
     {
       "id": 47647455,
-      "title": "Talk like caveman",
+      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
       "link": "https://github.com/JuliusBrussee/caveman",
-      "score": 151,
+      "score": 360,
       "author": "tosh",
       "created": "2026-04-05 08:56:18",
       "created_at": 1775379378000
     },
     {
+      "id": 47649113,
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "score": 147,
+      "author": "Growtika",
+      "created": "2026-04-05 13:14:36",
+      "created_at": 1775394876000
+    },
+    {
+      "id": 47649117,
+      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+      "link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "score": 268,
+      "author": "m_km",
+      "created": "2026-04-05 13:14:38",
+      "created_at": 1775394878000
+    },
+    {
+      "id": 47612331,
+      "title": "Baby's Second Garbage Collector",
+      "link": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+      "score": 14,
+      "author": "matheusmoreira",
+      "created": "2026-04-02 10:11:16",
+      "created_at": 1775124676000
+    },
+    {
       "id": 47646843,
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "link": "https://lisette.run/",
-      "score": 115,
+      "score": 187,
       "author": "jspdown",
       "created": "2026-04-05 06:57:19",
       "created_at": 1775372239000
     },
     {
+      "id": 47648048,
+      "title": "Friendica – A Decentralized Social Network",
+      "link": "https://friendi.ca/",
+      "score": 58,
+      "author": "janandonly",
+      "created": "2026-04-05 10:41:06",
+      "created_at": 1775385666000
+    },
+    {
+      "id": 47647788,
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "score": 538,
+      "author": "zaikunzhang",
+      "created": "2026-04-05 09:57:25",
+      "created_at": 1775383045000
+    },
+    {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "link": "https://jaso1024.com/mvidia/",
-      "score": 803,
+      "score": 861,
       "author": "Jaso1024",
       "created": "2026-04-04 16:45:54",
       "created_at": 1775321154000
-    },
-    {
-      "id": 47648452,
-      "title": "Ubuntu now requires more RAM than Windows 11",
-      "link": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
-      "score": 32,
-      "author": "jnord",
-      "created": "2026-04-05 11:57:25",
-      "created_at": 1775390245000
-    },
-    {
-      "id": 47644406,
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 357,
-      "author": "DyslexicAtheist",
-      "created": "2026-04-04 22:57:44",
-      "created_at": 1775343464000
-    },
-    {
-      "id": 47595695,
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "link": "https://github.com/siddharthvaddem/openscreen",
-      "score": 340,
-      "author": "jskopek",
-      "created": "2026-04-01 01:31:46",
-      "created_at": 1775007106000
-    },
-    {
-      "id": 47645432,
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 173,
-      "author": "luu",
-      "created": "2026-04-05 01:54:29",
-      "created_at": 1775354069000
-    },
-    {
-      "id": 47590230,
-      "title": "Costco sued for seeking refunds on tariffs customers paid",
-      "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-      "score": 32,
-      "author": "AdmiralAsshat",
-      "created": "2026-03-31 16:55:16",
-      "created_at": 1774976116000
     }
   ],
   "code": 200,
