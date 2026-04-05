@@ -3,95 +3,95 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-04T20:18:19.370Z"
+    "lastUpdate": "2026-04-05T01:23:12.913Z"
   },
   "data": [
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "link": "https://jaso1024.com/mvidia/",
-      "score": 280,
+      "score": 494,
       "author": "Jaso1024",
       "created": "2026-04-04 16:45:54",
       "created_at": 1775321154000
     },
     {
-      "id": 47641615,
-      "title": "Sopwith",
-      "link": "http://www.sopwith.org/",
-      "score": 44,
-      "author": "elvis70",
-      "created": "2026-04-04 18:06:24",
-      "created_at": 1775325984000
+      "id": 47645037,
+      "title": "Shooting down ideas is not a skill",
+      "link": "https://scottlawsonbc.com/post/shooting-down-ideas",
+      "score": 52,
+      "author": "zdw",
+      "created": "2026-04-05 00:42:42",
+      "created_at": 1775349762000
     },
     {
-      "id": 47637757,
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "link": "https://arxiv.org/abs/2604.01193",
-      "score": 430,
-      "author": "Anon84",
-      "created": "2026-04-04 10:26:21",
-      "created_at": 1775298381000
+      "id": 47595695,
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "link": "https://github.com/siddharthvaddem/openscreen",
+      "score": 85,
+      "author": "jskopek",
+      "created": "2026-04-01 01:31:46",
+      "created_at": 1775007106000
     },
     {
       "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'? I mapped every one",
+      "title": "How many products does Microsoft have named 'Copilot'?",
       "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 17,
+      "score": 397,
       "author": "gpi",
       "created": "2026-04-04 19:39:43",
       "created_at": 1775331583000
     },
     {
-      "id": 47639567,
-      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-      "link": "https://github.com/teamchong/turboquant-wasm",
-      "score": 87,
-      "author": "teamchong",
-      "created": "2026-04-04 14:53:16",
-      "created_at": 1775314396000
+      "id": 47640875,
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "score": 52,
+      "author": "tamnd",
+      "created": "2026-04-04 16:57:45",
+      "created_at": 1775321865000
     },
     {
-      "id": 47640380,
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "link": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "score": 201,
-      "author": "naves",
-      "created": "2026-04-04 16:16:10",
-      "created_at": 1775319370000
+      "id": 47644566,
+      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+      "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+      "score": 18,
+      "author": "mooreds",
+      "created": "2026-04-04 23:18:54",
+      "created_at": 1775344734000
     },
     {
-      "id": 47633396,
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "link": "",
-      "score": 985,
-      "author": "firloop",
-      "created": "2026-04-03 22:55:24",
-      "created_at": 1775256924000
+      "id": 47644864,
+      "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
+      "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "score": 69,
+      "author": "crcastle",
+      "created": "2026-04-05 00:13:55",
+      "created_at": 1775348035000
     },
     {
-      "id": 47641255,
-      "title": "Plague Ships",
-      "link": "https://www.afloat.com.au/feature/plague-ships/",
-      "score": 20,
-      "author": "bryanrasmussen",
-      "created": "2026-04-04 17:33:21",
-      "created_at": 1775324001000
+      "id": 47637757,
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "link": "https://arxiv.org/abs/2604.01193",
+      "score": 544,
+      "author": "Anon84",
+      "created": "2026-04-04 10:26:21",
+      "created_at": 1775298381000
     },
     {
-      "id": 47639524,
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "link": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 533,
-      "author": "macleginn",
-      "created": "2026-04-04 14:48:26",
-      "created_at": 1775314106000
+      "id": 47614532,
+      "title": "Ruckus: Racket for iOS",
+      "link": "https://ruckus.defn.io/",
+      "score": 69,
+      "author": "nsm",
+      "created": "2026-04-02 13:54:12",
+      "created_at": 1775138052000
     },
     {
       "id": 47639779,
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "link": "https://sllm.cloud",
-      "score": 68,
+      "score": 124,
       "author": "jrandolf",
       "created": "2026-04-04 15:18:58",
       "created_at": 1775315938000
