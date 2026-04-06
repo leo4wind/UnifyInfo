@@ -3,9 +3,16 @@
     "name": "Ars Technica",
     "description": "科技新闻和评测",
     "url": "https://arstechnica.com/feed/",
-    "lastUpdate": "2026-04-06T09:00:03.613Z"
+    "lastUpdate": "2026-04-06T12:45:29.255Z"
   },
   "items": [
+    {
+      "title": "What Memento reveals about human nature, 25 years later",
+      "link": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
+      "description": "",
+      "pubDate": "Mon, 06 Apr 2026 12:26:49 +0000",
+      "timestamp": 1775478409000
+    },
     {
       "title": "CBP facility codes sure seem to have leaked via online flashcards",
       "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
@@ -138,13 +145,6 @@
       "description": "",
       "pubDate": "Thu, 02 Apr 2026 18:00:58 +0000",
       "timestamp": 1775152858000
-    },
-    {
-      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-      "description": "",
-      "pubDate": "Thu, 02 Apr 2026 17:00:11 +0000",
-      "timestamp": 1775149211000
     }
   ],
   "total": 20
