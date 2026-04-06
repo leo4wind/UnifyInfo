@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-06T12:45:44.577Z"
+    "lastUpdate": "2026-04-06T16:35:52.277Z"
   },
   "data": [
     {
-      "id": 47659109,
-      "title": "Age Verification as Mass Surveillance Infrastructure",
-      "link": "https://tboteproject.com/surveillancefindings/",
-      "score": 229,
-      "author": "rurban",
-      "created": "2026-04-06 10:33:02",
-      "created_at": 1775471582000
+      "id": 47661439,
+      "title": "I Won't Download Your App. The Web Version Is A-OK",
+      "link": "https://www.0xsid.com/blog/wont-download-your-app",
+      "score": 427,
+      "author": "ssiddharth",
+      "created": "2026-04-06 14:31:29",
+      "created_at": 1775485889000
+    },
+    {
+      "id": 47660954,
+      "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "score": 118,
+      "author": "Bender",
+      "created": "2026-04-06 13:52:37",
+      "created_at": 1775483557000
+    },
+    {
+      "id": 47662658,
+      "title": "sc-im Spreadsheets in Your Terminal",
+      "link": "https://github.com/andmarti1424/sc-im",
+      "score": 18,
+      "author": "m-hodges",
+      "created": "2026-04-06 16:00:29",
+      "created_at": 1775491229000
+    },
+    {
+      "id": 47660853,
+      "title": "Book Review: There Is No Antimemetics Division",
+      "link": "https://www.stephendiehl.com/posts/no_antimimetics/",
+      "score": 73,
+      "author": "ibobev",
+      "created": "2026-04-06 13:44:01",
+      "created_at": 1775483041000
+    },
+    {
+      "id": 47660925,
+      "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+      "link": "https://github.com/anthropics/claude-code/issues/42796",
+      "score": 108,
+      "author": "StanAngeloff",
+      "created": "2026-04-06 13:50:35",
+      "created_at": 1775483435000
+    },
+    {
+      "id": 47662857,
+      "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
+      "link": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
+      "score": 37,
+      "author": "josephcsible",
+      "created": "2026-04-06 16:15:41",
+      "created_at": 1775492141000
+    },
+    {
+      "id": 47660286,
+      "title": "What Being Ripped Off Taught Me",
+      "link": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+      "score": 188,
+      "author": "doctorhandshake",
+      "created": "2026-04-06 12:53:41",
+      "created_at": 1775480021000
+    },
+    {
+      "id": 47662234,
+      "title": "A Cryptography Engineer's Perspective on Quantum Computing Timelines",
+      "link": "https://words.filippo.io/crqc-timeline/",
+      "score": 10,
+      "author": "thadt",
+      "created": "2026-04-06 15:31:20",
+      "created_at": 1775489480000
     },
     {
       "id": 47655408,
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "link": "https://github.com/arman-bd/guppylm",
-      "score": 594,
+      "score": 744,
       "author": "armanified",
       "created": "2026-04-06 00:20:12",
       "created_at": 1775434812000
     },
     {
-      "id": 47658146,
-      "title": "France pulls last gold held in US for $15B gain",
-      "link": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "score": 245,
-      "author": "teleforce",
-      "created": "2026-04-06 08:03:43",
-      "created_at": 1775462623000
-    },
-    {
-      "id": 47652561,
-      "title": "Gemma 4 on iPhone",
-      "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 698,
-      "author": "janandonly",
-      "created": "2026-04-05 18:45:53",
-      "created_at": 1775414753000
-    },
-    {
       "id": 47651703,
       "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
       "link": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "score": 557,
+      "score": 698,
       "author": "naves",
       "created": "2026-04-05 17:27:41",
       "created_at": 1775410061000
-    },
-    {
-      "id": 47656622,
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "link": "https://moonrf.com/",
-      "score": 140,
-      "author": "hillcrestenigma",
-      "created": "2026-04-06 03:22:42",
-      "created_at": 1775445762000
-    },
-    {
-      "id": 47659461,
-      "title": "The Intelligence Failure in Iran",
-      "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
-      "score": 32,
-      "author": "JumpCrisscross",
-      "created": "2026-04-06 11:21:35",
-      "created_at": 1775474495000
-    },
-    {
-      "id": 47652007,
-      "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-      "link": "https://github.com/fikrikarim/parlor",
-      "score": 134,
-      "author": "karimf",
-      "created": "2026-04-05 17:53:19",
-      "created_at": 1775411599000
-    },
-    {
-      "id": 47656501,
-      "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
-      "link": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-      "score": 159,
-      "author": "keepamovin",
-      "created": "2026-04-06 03:03:22",
-      "created_at": 1775444602000
-    },
-    {
-      "id": 47613827,
-      "title": "One ant for $220: The new frontier of wildlife trafficking",
-      "link": "https://www.bbc.com/news/articles/cg4g44zv37qo",
-      "score": 61,
-      "author": "gmays",
-      "created": "2026-04-02 12:55:56",
-      "created_at": 1775134556000
     }
   ],
   "code": 200,
