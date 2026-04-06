@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-05T20:21:18.113Z"
+    "lastUpdate": "2026-04-06T01:23:41.883Z"
   },
   "data": [
-    {
-      "id": 47633396,
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "link": "",
-      "score": 1067,
-      "author": "firloop",
-      "created": "2026-04-03 22:55:24",
-      "created_at": 1775256924000
-    },
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 1054,
-      "author": "andsoitis",
-      "created": "2026-04-03 19:35:02",
-      "created_at": 1775244902000
-    },
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "link": "https://jaso1024.com/mvidia/",
-      "score": 881,
+      "score": 895,
       "author": "Jaso1024",
       "created": "2026-04-04 16:45:54",
       "created_at": 1775321154000
@@ -37,64 +19,82 @@
       "id": 47639524,
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "link": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 830,
+      "score": 836,
       "author": "macleginn",
       "created": "2026-04-04 14:48:26",
       "created_at": 1775314106000
     },
     {
-      "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 777,
-      "author": "gpi",
-      "created": "2026-04-04 19:39:43",
-      "created_at": 1775331583000
-    },
-    {
       "id": 47647788,
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 718,
+      "score": 818,
       "author": "zaikunzhang",
       "created": "2026-04-05 09:57:25",
       "created_at": 1775383045000
     },
     {
-      "id": 47637757,
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "link": "https://arxiv.org/abs/2604.01193",
-      "score": 632,
-      "author": "Anon84",
-      "created": "2026-04-04 10:26:21",
-      "created_at": 1775298381000
+      "id": 47642569,
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "score": 788,
+      "author": "gpi",
+      "created": "2026-04-04 19:39:43",
+      "created_at": 1775331583000
     },
     {
       "id": 47647455,
       "title": "Caveman: Why use many token when few token do trick",
       "link": "https://github.com/JuliusBrussee/caveman",
-      "score": 556,
+      "score": 692,
       "author": "tosh",
       "created": "2026-04-05 08:56:18",
       "created_at": 1775379378000
     },
     {
-      "id": 47633947,
-      "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-      "link": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-      "score": 541,
-      "author": "detaro",
-      "created": "2026-04-03 23:56:32",
-      "created_at": 1775260592000
+      "id": 47637757,
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "link": "https://arxiv.org/abs/2604.01193",
+      "score": 636,
+      "author": "Anon84",
+      "created": "2026-04-04 10:26:21",
+      "created_at": 1775298381000
+    },
+    {
+      "id": 47648828,
+      "title": "Eight years of wanting, three months of building with AI",
+      "link": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 604,
+      "author": "brilee",
+      "created": "2026-04-05 12:43:47",
+      "created_at": 1775393027000
     },
     {
       "id": 47644406,
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 520,
+      "score": 536,
       "author": "DyslexicAtheist",
       "created": "2026-04-04 22:57:44",
       "created_at": 1775343464000
+    },
+    {
+      "id": 47634690,
+      "title": "Delve removed from Y Combinator",
+      "link": "https://www.ycombinator.com/companies/delve",
+      "score": 496,
+      "author": "carabiner",
+      "created": "2026-04-04 01:37:02",
+      "created_at": 1775266622000
+    },
+    {
+      "id": 47640380,
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "link": "https://twitter.com/__tinygrad__/status/2039213719155310736",
+      "score": 494,
+      "author": "naves",
+      "created": "2026-04-04 16:16:10",
+      "created_at": 1775319370000
     }
   ],
   "code": 200,
