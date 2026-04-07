@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-06T20:28:27.935Z"
+    "lastUpdate": "2026-04-07T01:21:24.370Z"
   },
   "data": [
     {
       "id": 47647788,
       "title": "The threat is comfortable drift toward not understanding what you're doing",
       "link": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "score": 937,
+      "score": 948,
       "author": "zaikunzhang",
       "created": "2026-04-05 09:57:25",
       "created_at": 1775383045000
@@ -19,7 +19,7 @@
       "id": 47648828,
       "title": "Eight years of wanting, three months of building with AI",
       "link": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 903,
+      "score": 914,
       "author": "brilee",
       "created": "2026-04-05 12:43:47",
       "created_at": 1775393027000
@@ -28,43 +28,52 @@
       "id": 47647455,
       "title": "Caveman: Why use many token when few token do trick",
       "link": "https://github.com/JuliusBrussee/caveman",
-      "score": 842,
+      "score": 854,
       "author": "tosh",
       "created": "2026-04-05 08:56:18",
       "created_at": 1775379378000
     },
     {
-      "id": 47652561,
-      "title": "Gemma 4 on iPhone",
-      "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 825,
-      "author": "janandonly",
-      "created": "2026-04-05 18:45:53",
-      "created_at": 1775414753000
-    },
-    {
       "id": 47655408,
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "link": "https://github.com/arman-bd/guppylm",
-      "score": 808,
+      "score": 841,
       "author": "armanified",
       "created": "2026-04-06 00:20:12",
       "created_at": 1775434812000
     },
     {
-      "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "id": 47652561,
+      "title": "Gemma 4 on iPhone",
+      "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "score": 839,
+      "author": "janandonly",
+      "created": "2026-04-05 18:45:53",
+      "created_at": 1775414753000
+    },
+    {
+      "id": 47661439,
+      "title": "I won't download your app. The web version is a-ok",
+      "link": "https://www.0xsid.com/blog/wont-download-your-app",
+      "score": 818,
+      "author": "ssiddharth",
+      "created": "2026-04-06 14:31:29",
+      "created_at": 1775485889000
+    },
+    {
+      "id": 47659135,
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "link": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
       "score": 801,
-      "author": "gpi",
-      "created": "2026-04-04 19:39:43",
-      "created_at": 1775331583000
+      "author": "adrianhon",
+      "created": "2026-04-06 10:36:57",
+      "created_at": 1775471817000
     },
     {
       "id": 47651703,
       "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
       "link": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "score": 749,
+      "score": 771,
       "author": "naves",
       "created": "2026-04-05 17:27:41",
       "created_at": 1775410061000
@@ -73,28 +82,19 @@
       "id": 47652400,
       "title": "Why Switzerland has 25 Gbit internet and America doesn't",
       "link": "https://sschueller.github.io/posts/the-free-market-lie/",
-      "score": 735,
+      "score": 753,
       "author": "sschueller",
       "created": "2026-04-05 18:29:47",
       "created_at": 1775413787000
     },
     {
-      "id": 47661439,
-      "title": "I won't download your app. The web version is a-ok",
-      "link": "https://www.0xsid.com/blog/wont-download-your-app",
-      "score": 728,
-      "author": "ssiddharth",
-      "created": "2026-04-06 14:31:29",
-      "created_at": 1775485889000
-    },
-    {
-      "id": 47644406,
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 565,
-      "author": "DyslexicAtheist",
-      "created": "2026-04-04 22:57:44",
-      "created_at": 1775343464000
+      "id": 47660925,
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "link": "https://github.com/anthropics/claude-code/issues/42796",
+      "score": 741,
+      "author": "StanAngeloff",
+      "created": "2026-04-06 13:50:35",
+      "created_at": 1775483435000
     }
   ],
   "code": 200,

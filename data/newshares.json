@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-06T20:28:32.070Z"
+    "lastUpdate": "2026-04-07T01:21:27.897Z"
   },
   "data": [
+    {
+      "zqdm": "688808",
+      "zqjc": "联讯仪器",
+      "sgdm": "787808",
+      "fxsl": 25666667,
+      "swfxsl": 6160000,
+      "sgsx": 6000,
+      "dgsz": 60000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-14",
+      "zqgbrq": "2026-04-16",
+      "zqjkrq": "2026-04-16",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 42.38,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "电子测量仪器和半导体测试设备的研发、制造、销售及服务"
+    },
     {
       "zqdm": "001312",
       "zqjc": "福恩股份",
@@ -168,5 +191,5 @@
       "zyyw": "高性能热固性复合材料的研发、生产和销售,同时提供电子行业洁净室工程领域环氧工程材料及服务"
     }
   ],
-  "total": 7
+  "total": 8
 }
