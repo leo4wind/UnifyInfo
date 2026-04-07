@@ -3,50 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-07T01:21:24.531Z"
+    "lastUpdate": "2026-04-07T05:42:35.444Z"
   },
   "data": [
     {
-      "id": 47668727,
-      "title": "After 20 years I turned off Google Adsense for my websites",
-      "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
-      "score": 85,
-      "author": "datadrivenangel",
-      "created": "2026-04-06 23:23:28",
-      "created_at": 1775517808000
-    },
-    {
-      "id": 47667717,
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "score": 111,
-      "author": "l1n",
-      "created": "2026-04-06 21:52:08",
-      "created_at": 1775512328000
+      "id": 47669337,
+      "title": "Solod – A Subset of Go That Translates to C",
+      "link": "https://github.com/solod-dev/solod",
+      "score": 79,
+      "author": "TheWiggles",
+      "created": "2026-04-07 00:48:01",
+      "created_at": 1775522881000
     },
     {
       "id": 47666024,
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "link": "https://github.com/matthartman/ghost-pepper",
-      "score": 220,
+      "score": 319,
       "author": "MattHart88",
       "created": "2026-04-06 19:50:16",
       "created_at": 1775505016000
     },
     {
-      "id": 47659135,
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "link": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "score": 801,
-      "author": "adrianhon",
-      "created": "2026-04-06 10:36:57",
-      "created_at": 1775471817000
-    },
-    {
       "id": 47663147,
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "link": "https://www.freestyle.sh/",
-      "score": 199,
+      "score": 241,
       "author": "benswerd",
       "created": "2026-04-06 16:32:11",
       "created_at": 1775493131000
@@ -55,46 +37,64 @@
       "id": 47662234,
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "link": "https://words.filippo.io/crqc-timeline/",
-      "score": 319,
+      "score": 409,
       "author": "thadt",
       "created": "2026-04-06 15:31:20",
       "created_at": 1775489480000
     },
     {
+      "id": 47660925,
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "link": "https://github.com/anthropics/claude-code/issues/42796",
+      "score": 909,
+      "author": "StanAngeloff",
+      "created": "2026-04-06 13:50:35",
+      "created_at": 1775483435000
+    },
+    {
+      "id": 47659135,
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "link": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "score": 1153,
+      "author": "adrianhon",
+      "created": "2026-04-06 10:36:57",
+      "created_at": 1775471817000
+    },
+    {
+      "id": 47660954,
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "score": 281,
+      "author": "Bender",
+      "created": "2026-04-06 13:52:37",
+      "created_at": 1775483557000
+    },
+    {
       "id": 47662945,
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
       "link": "https://www.govauctions.app/",
-      "score": 209,
+      "score": 257,
       "author": "player_piano",
       "created": "2026-04-06 16:21:46",
       "created_at": 1775492506000
     },
     {
-      "id": 47667672,
-      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "link": "https://github.com/kitfunso/hippo-memory",
-      "score": 43,
-      "author": "kitfunso",
-      "created": "2026-04-06 21:49:34",
-      "created_at": 1775512174000
+      "id": 47627998,
+      "title": "VOID: Video Object and Interaction Deletion",
+      "link": "https://github.com/Netflix/void-model",
+      "score": 126,
+      "author": "bobsoap",
+      "created": "2026-04-03 15:38:53",
+      "created_at": 1775230733000
     },
     {
-      "id": 47627595,
-      "title": "Porting Go's strings package to C",
-      "link": "https://antonz.org/porting-go-strings/",
-      "score": 21,
-      "author": "ingve",
-      "created": "2026-04-03 15:12:45",
-      "created_at": 1775229165000
-    },
-    {
-      "id": 47660925,
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "link": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 741,
-      "author": "StanAngeloff",
-      "created": "2026-04-06 13:50:35",
-      "created_at": 1775483435000
+      "id": 47667717,
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "score": 205,
+      "author": "l1n",
+      "created": "2026-04-06 21:52:08",
+      "created_at": 1775512328000
     }
   ],
   "code": 200,
