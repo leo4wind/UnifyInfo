@@ -3,59 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-08T16:51:06.297Z"
+    "lastUpdate": "2026-04-08T20:32:59.613Z"
   },
   "data": [
-    {
-      "id": 47679121,
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "link": "https://www.anthropic.com/glasswing",
-      "score": 1445,
-      "author": "Ryan5453",
-      "created": "2026-04-07 18:09:34",
-      "created_at": 1775585374000
-    },
     {
       "id": 47687273,
       "title": "Git commands I run before reading any code",
       "link": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1117,
+      "score": 1503,
       "author": "grepsedawk",
       "created": "2026-04-08 08:53:42",
       "created_at": 1775638422000
     },
     {
-      "id": 47676509,
-      "title": "Lunar Flyby",
-      "link": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 893,
-      "author": "kipi",
-      "created": "2026-04-07 15:03:18",
-      "created_at": 1775574198000
+      "id": 47679121,
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "link": "https://www.anthropic.com/glasswing",
+      "score": 1470,
+      "author": "Ryan5453",
+      "created": "2026-04-07 18:09:34",
+      "created_at": 1775585374000
     },
     {
       "id": 47686549,
       "title": "Veracrypt project update",
       "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 818,
+      "score": 1004,
       "author": "super256",
       "created": "2026-04-08 07:23:39",
       "created_at": 1775633019000
     },
     {
+      "id": 47676509,
+      "title": "Lunar Flyby",
+      "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "score": 917,
+      "author": "kipi",
+      "created": "2026-04-07 15:03:18",
+      "created_at": 1775574198000
+    },
+    {
       "id": 47679258,
       "title": "System Card: Claude Mythos Preview [pdf]",
       "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 794,
+      "score": 814,
       "author": "be7a",
       "created": "2026-04-07 18:18:36",
       "created_at": 1775585916000
     },
     {
+      "id": 47691730,
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "score": 813,
+      "author": "blkhp19",
+      "created": "2026-04-08 15:40:00",
+      "created_at": 1775662800000
+    },
+    {
       "id": 47673360,
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "link": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 766,
+      "score": 770,
       "author": "sam-bee",
       "created": "2026-04-07 11:07:44",
       "created_at": 1775560064000
@@ -64,25 +73,16 @@
       "id": 47672818,
       "title": "Are We Idiocracy Yet?",
       "link": "https://idiocracy.wtf/",
-      "score": 615,
+      "score": 618,
       "author": "jdiiufccuskal",
       "created": "2026-04-07 09:57:39",
       "created_at": 1775555859000
     },
     {
-      "id": 47664912,
-      "title": "The cult of vibe coding is dogfooding run amok",
-      "link": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-      "score": 612,
-      "author": "drob518",
-      "created": "2026-04-06 18:31:03",
-      "created_at": 1775500263000
-    },
-    {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "link": "https://z.ai/blog/glm-5.1",
-      "score": 593,
+      "score": 607,
       "author": "zixuanlimit",
       "created": "2026-04-07 16:32:15",
       "created_at": 1775579535000
@@ -91,7 +91,7 @@
       "id": 47682276,
       "title": "US and Iran agree to provisional ceasefire",
       "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "score": 567,
+      "score": 586,
       "author": "g-b-r",
       "created": "2026-04-07 22:41:02",
       "created_at": 1775601662000
