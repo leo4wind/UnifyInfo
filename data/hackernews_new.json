@@ -3,14 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-08T08:51:50.436Z"
+    "lastUpdate": "2026-04-08T12:56:41.593Z"
   },
   "data": [
+    {
+      "id": 47687273,
+      "title": "Git commands I run before reading any code",
+      "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "score": 451,
+      "author": "grepsedawk",
+      "created": "2026-04-08 08:53:42",
+      "created_at": 1775638422000
+    },
+    {
+      "id": 47686549,
+      "title": "Veracrypt project update",
+      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "score": 496,
+      "author": "super256",
+      "created": "2026-04-08 07:23:39",
+      "created_at": 1775633019000
+    },
+    {
+      "id": 47687533,
+      "title": "I've sold out",
+      "link": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+      "score": 154,
+      "author": "doppp",
+      "created": "2026-04-08 09:21:38",
+      "created_at": 1775640098000
+    },
     {
       "id": 47685739,
       "title": "Revision Demoparty 2026: Razor1911 [video]",
       "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 100,
+      "score": 233,
       "author": "tetrisgm",
       "created": "2026-04-08 05:34:08",
       "created_at": 1775626448000
@@ -19,82 +46,55 @@
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "link": "https://www.anthropic.com/glasswing",
-      "score": 1256,
+      "score": 1351,
       "author": "Ryan5453",
       "created": "2026-04-07 18:09:34",
       "created_at": 1775585374000
     },
     {
+      "id": 47689174,
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "link": "https://arxiv.org/abs/2604.05091",
+      "score": 9,
+      "author": "chrsw",
+      "created": "2026-04-08 12:19:00",
+      "created_at": 1775650740000
+    },
+    {
+      "id": 47675446,
+      "title": "Audio Reactive LED Strips Are Diabolically Hard",
+      "link": "https://scottlawsonbc.com/post/audio-led",
+      "score": 41,
+      "author": "surprisetalk",
+      "created": "2026-04-07 13:55:14",
+      "created_at": 1775570114000
+    },
+    {
+      "id": 47645717,
+      "title": "Explore union types in C# 15",
+      "link": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
+      "score": 42,
+      "author": "0x00C0FFEE",
+      "created": "2026-04-05 02:53:07",
+      "created_at": 1775357587000
+    },
+    {
       "id": 47676509,
       "title": "Lunar Flyby",
       "link": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 700,
+      "score": 793,
       "author": "kipi",
       "created": "2026-04-07 15:03:18",
       "created_at": 1775574198000
     },
     {
-      "id": 47686549,
-      "title": "Veracrypt Project Update",
-      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 66,
-      "author": "super256",
-      "created": "2026-04-08 07:23:39",
-      "created_at": 1775633019000
-    },
-    {
-      "id": 47685945,
-      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
-      "link": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-      "score": 53,
-      "author": "bundie",
-      "created": "2026-04-08 06:01:00",
-      "created_at": 1775628060000
-    },
-    {
-      "id": 47684514,
-      "title": "Protect your shed",
-      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "score": 140,
-      "author": "baely",
-      "created": "2026-04-08 03:03:33",
-      "created_at": 1775617413000
-    },
-    {
-      "id": 47679258,
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 673,
-      "author": "be7a",
-      "created": "2026-04-07 18:18:36",
-      "created_at": 1775585916000
-    },
-    {
-      "id": 47622436,
-      "title": "Slightly safer vibecoding by adopting old hacker habits",
-      "link": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
-      "score": 97,
-      "author": "transpute",
-      "created": "2026-04-03 01:53:15",
-      "created_at": 1775181195000
-    },
-    {
-      "id": 47634422,
-      "title": "Native Americans had dice 12k years ago",
-      "link": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
-      "score": 59,
-      "author": "delichon",
-      "created": "2026-04-04 00:59:08",
-      "created_at": 1775264348000
-    },
-    {
-      "id": 47677853,
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "link": "https://z.ai/blog/glm-5.1",
-      "score": 522,
-      "author": "zixuanlimit",
-      "created": "2026-04-07 16:32:15",
-      "created_at": 1775579535000
+      "id": 47657204,
+      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
+      "link": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
+      "score": 50,
+      "author": "indraneelpatil",
+      "created": "2026-04-06 05:08:20",
+      "created_at": 1775452100000
     }
   ],
   "code": 200,
