@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-08T05:42:56.100Z"
+    "lastUpdate": "2026-04-08T08:51:53.499Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-04-16",
       "ssrq": null,
       "syl": null,
-      "hysyl": 42.38,
+      "hysyl": 42.08,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -53,6 +53,29 @@
       "zyyw": "以可持续发展为核心的全球生态环保面料供应商,从事生态环保面料的研发、生产和销售"
     },
     {
+      "zqdm": "920191",
+      "zqjc": "瑞尔竞达",
+      "sgdm": "920191",
+      "fxsl": 44350000,
+      "swfxsl": 39915000,
+      "sgsx": 1995700,
+      "dgsz": 19957000,
+      "fxjg": 7.71,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-09",
+      "zqgbrq": "2026-04-14",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 39.14,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "炼铁高炉高效、长寿、节能、绿色、环保等技术与所需耐火材料的研发、生产和销售"
+    },
+    {
       "zqdm": "688820",
       "zqjc": "盛合晶微",
       "sgdm": "787820",
@@ -60,14 +83,14 @@
       "swfxsl": 35765000,
       "sgsx": 35500,
       "dgsz": 355000,
-      "fxjg": null,
+      "fxjg": 19.68,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-04-09",
       "zqgbrq": "2026-04-13",
       "zqjkrq": "2026-04-13",
       "ssrq": null,
-      "syl": null,
+      "syl": 195.62,
       "hysyl": 62.61,
       "wszql": null,
       "yzbsl": 0,
@@ -126,7 +149,7 @@
       "zqjc": "埃泰克",
       "sgdm": "732293",
       "fxsl": 44772665,
-      "swfxsl": 14327000,
+      "swfxsl": 28654500,
       "sgsx": 14000,
       "dgsz": 140000,
       "fxjg": 33.49,
@@ -138,7 +161,7 @@
       "ssrq": null,
       "syl": 29.71,
       "hysyl": 63.04,
-      "wszql": null,
+      "wszql": 0.0247164,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -168,5 +191,5 @@
       "zyyw": "数据中心企业级SSD产品的研发和销售"
     }
   ],
-  "total": 7
+  "total": 8
 }
