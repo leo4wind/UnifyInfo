@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-07T20:35:28.070Z"
+    "lastUpdate": "2026-04-08T01:22:12.419Z"
   },
   "data": [
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "link": "https://www.anthropic.com/glasswing",
-      "score": 445,
+      "score": 876,
       "author": "Ryan5453",
       "created": "2026-04-07 18:09:34",
       "created_at": 1775585374000
     },
     {
+      "id": 47676509,
+      "title": "Lunar Flyby",
+      "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "score": 341,
+      "author": "kipi",
+      "created": "2026-04-07 15:03:18",
+      "created_at": 1775574198000
+    },
+    {
+      "id": 47682276,
+      "title": "US and Iran agree to provisional ceasefire",
+      "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "score": 123,
+      "author": "g-b-r",
+      "created": "2026-04-07 22:41:02",
+      "created_at": 1775601662000
+    },
+    {
       "id": 47679258,
       "title": "System Card: Claude Mythos Preview [pdf]",
       "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 291,
+      "score": 528,
       "author": "be7a",
       "created": "2026-04-07 18:18:36",
       "created_at": 1775585916000
     },
     {
-      "id": 47680404,
-      "title": "S3 Files and the changing face of S3",
-      "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 55,
-      "author": "werner",
-      "created": "2026-04-07 19:44:01",
-      "created_at": 1775591041000
-    },
-    {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "link": "https://z.ai/blog/glm-5.1",
-      "score": 294,
+      "score": 408,
       "author": "zixuanlimit",
       "created": "2026-04-07 16:32:15",
       "created_at": 1775579535000
     },
     {
+      "id": 47650887,
+      "title": "How to get better at guitar",
+      "link": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "score": 182,
+      "author": "jwworth",
+      "created": "2026-04-05 16:14:12",
+      "created_at": 1775405652000
+    },
+    {
+      "id": 47680404,
+      "title": "S3 Files",
+      "link": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "score": 184,
+      "author": "werner",
+      "created": "2026-04-07 19:44:01",
+      "created_at": 1775591041000
+    },
+    {
       "id": 47678573,
-      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
       "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 171,
+      "score": 277,
       "author": "speckx",
       "created": "2026-04-07 17:23:43",
       "created_at": 1775582623000
     },
     {
-      "id": 47680309,
-      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
-      "link": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "score": 35,
-      "author": "MediaSquirrel",
-      "created": "2026-04-07 19:37:05",
-      "created_at": 1775590625000
-    },
-    {
       "id": 47657268,
       "title": "A truck driver spent 20 years making a scale model of every building in NYC",
       "link": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "score": 124,
+      "score": 243,
       "author": "1659447091",
       "created": "2026-04-06 05:22:24",
       "created_at": 1775452944000
     },
     {
-      "id": 47673360,
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "link": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 633,
-      "author": "sam-bee",
-      "created": "2026-04-07 11:07:44",
-      "created_at": 1775560064000
-    },
-    {
-      "id": 47677885,
-      "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
-      "link": "https://printervention.app/details",
-      "score": 101,
-      "author": "gmac",
-      "created": "2026-04-07 16:33:57",
-      "created_at": 1775579637000
-    },
-    {
-      "id": 47675625,
-      "title": "Cloudflare targets 2029 for full post-quantum security",
-      "link": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 208,
-      "author": "ilreb",
-      "created": "2026-04-07 14:07:34",
-      "created_at": 1775570854000
+      "id": 47681112,
+      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+      "link": "https://middle-earth-interactive-map.web.app/",
+      "score": 75,
+      "author": "frasermarlow",
+      "created": "2026-04-07 20:42:37",
+      "created_at": 1775594557000
     }
   ],
   "code": 200,
