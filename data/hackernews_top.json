@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-08T20:33:00.480Z"
+    "lastUpdate": "2026-04-09T01:12:50.035Z"
   },
   "data": [
     {
       "id": 47691730,
       "title": "I ported Mac OS X to the Nintendo Wii",
       "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 813,
+      "score": 1220,
       "author": "blkhp19",
       "created": "2026-04-08 15:40:00",
       "created_at": 1775662800000
     },
     {
-      "id": 47693679,
-      "title": "I've been waiting over a month for Anthropic support to respond",
-      "link": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "score": 138,
-      "author": "nickvec",
-      "created": "2026-04-08 17:44:25",
-      "created_at": 1775670265000
-    },
-    {
-      "id": 47687273,
-      "title": "Git commands I run before reading any code",
-      "link": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1503,
-      "author": "grepsedawk",
-      "created": "2026-04-08 08:53:42",
-      "created_at": 1775638422000
+      "id": 47697870,
+      "title": "LittleSnitch for Linux",
+      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "score": 49,
+      "author": "pluc",
+      "created": "2026-04-09 00:26:08",
+      "created_at": 1775694368000
     },
     {
       "id": 47695012,
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "link": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 33,
+      "score": 173,
       "author": "WerWolv",
       "created": "2026-04-08 19:23:34",
       "created_at": 1775676214000
     },
     {
+      "id": 47687273,
+      "title": "Git commands I run before reading any code",
+      "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "score": 1783,
+      "author": "grepsedawk",
+      "created": "2026-04-08 08:53:42",
+      "created_at": 1775638422000
+    },
+    {
       "id": 47693153,
       "title": "Understanding the Kalman filter with a simple radar example",
       "link": "https://kalmanfilter.net",
-      "score": 100,
+      "score": 209,
       "author": "alex_be",
       "created": "2026-04-08 17:11:46",
       "created_at": 1775668306000
     },
     {
-      "id": 47692043,
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 173,
-      "author": "chabons",
-      "created": "2026-04-08 16:01:32",
-      "created_at": 1775664092000
-    },
-    {
       "id": 47688678,
       "title": "They're made out of meat (1991)",
       "link": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "score": 295,
+      "score": 404,
       "author": "surprisetalk",
       "created": "2026-04-08 11:20:50",
       "created_at": 1775647250000
     },
     {
-      "id": 47686549,
-      "title": "Veracrypt project update",
-      "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 1004,
-      "author": "super256",
-      "created": "2026-04-08 07:23:39",
-      "created_at": 1775633019000
-    },
-    {
-      "id": 47689648,
-      "title": "ML promises to be profoundly weird",
-      "link": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "score": 264,
-      "author": "pabs3",
-      "created": "2026-04-08 13:06:33",
-      "created_at": 1775653593000
+      "id": 47692043,
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "score": 258,
+      "author": "chabons",
+      "created": "2026-04-08 16:01:32",
+      "created_at": 1775664092000
     },
     {
       "id": 47694983,
       "title": "Expanding Swift's IDE Support",
       "link": "https://swift.org/blog/expanding-swift-ide-support/",
-      "score": 18,
+      "score": 74,
       "author": "frizlab",
       "created": "2026-04-08 19:21:41",
       "created_at": 1775676101000
+    },
+    {
+      "id": 47689648,
+      "title": "ML promises to be profoundly weird",
+      "link": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+      "score": 365,
+      "author": "pabs3",
+      "created": "2026-04-08 13:06:33",
+      "created_at": 1775653593000
+    },
+    {
+      "id": 47687248,
+      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "score": 522,
+      "author": "ra",
+      "created": "2026-04-08 08:50:37",
+      "created_at": 1775638237000
     }
   ],
   "code": 200,
