@@ -3,59 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-09T01:12:50.035Z"
+    "lastUpdate": "2026-04-09T05:44:00.771Z"
   },
   "data": [
-    {
-      "id": 47691730,
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1220,
-      "author": "blkhp19",
-      "created": "2026-04-08 15:40:00",
-      "created_at": 1775662800000
-    },
     {
       "id": 47697870,
       "title": "LittleSnitch for Linux",
       "link": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 49,
+      "score": 403,
       "author": "pluc",
       "created": "2026-04-09 00:26:08",
       "created_at": 1775694368000
     },
     {
+      "id": 47699181,
+      "title": "Open Source Security at Astral",
+      "link": "https://astral.sh/blog/open-source-security-at-astral",
+      "score": 62,
+      "author": "vinhnx",
+      "created": "2026-04-09 04:11:55",
+      "created_at": 1775707915000
+    },
+    {
+      "id": 47691730,
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "score": 1413,
+      "author": "blkhp19",
+      "created": "2026-04-08 15:40:00",
+      "created_at": 1775662800000
+    },
+    {
+      "id": 47666639,
+      "title": "The Importance of Being Idle",
+      "link": "https://theamericanscholar.org/the-importance-of-being-idle/",
+      "score": 91,
+      "author": "Caiero",
+      "created": "2026-04-06 20:33:03",
+      "created_at": 1775507583000
+    },
+    {
       "id": 47695012,
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "link": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 173,
+      "score": 247,
       "author": "WerWolv",
       "created": "2026-04-08 19:23:34",
       "created_at": 1775676214000
     },
     {
-      "id": 47687273,
-      "title": "Git commands I run before reading any code",
-      "link": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1783,
-      "author": "grepsedawk",
-      "created": "2026-04-08 08:53:42",
-      "created_at": 1775638422000
-    },
-    {
       "id": 47693153,
       "title": "Understanding the Kalman filter with a simple radar example",
       "link": "https://kalmanfilter.net",
-      "score": 209,
+      "score": 290,
       "author": "alex_be",
       "created": "2026-04-08 17:11:46",
       "created_at": 1775668306000
     },
     {
+      "id": 47678690,
+      "title": "Six (and a half) intuitions for KL divergence",
+      "link": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+      "score": 50,
+      "author": "jxmorris12",
+      "created": "2026-04-07 17:34:13",
+      "created_at": 1775583253000
+    },
+    {
       "id": 47688678,
       "title": "They're made out of meat (1991)",
       "link": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-      "score": 404,
+      "score": 469,
       "author": "surprisetalk",
       "created": "2026-04-08 11:20:50",
       "created_at": 1775647250000
@@ -64,37 +82,19 @@
       "id": 47692043,
       "title": "Muse Spark: Scaling towards personal superintelligence",
       "link": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 258,
+      "score": 309,
       "author": "chabons",
       "created": "2026-04-08 16:01:32",
       "created_at": 1775664092000
     },
     {
-      "id": 47694983,
-      "title": "Expanding Swift's IDE Support",
-      "link": "https://swift.org/blog/expanding-swift-ide-support/",
-      "score": 74,
-      "author": "frizlab",
-      "created": "2026-04-08 19:21:41",
-      "created_at": 1775676101000
-    },
-    {
-      "id": 47689648,
-      "title": "ML promises to be profoundly weird",
-      "link": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-      "score": 365,
-      "author": "pabs3",
-      "created": "2026-04-08 13:06:33",
-      "created_at": 1775653593000
-    },
-    {
-      "id": 47687248,
-      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-      "link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "score": 522,
-      "author": "ra",
-      "created": "2026-04-08 08:50:37",
-      "created_at": 1775638237000
+      "id": 47643852,
+      "title": "Map Gesture Controls - Control maps with your hands",
+      "link": "https://sanderdesnaijer.github.io/map-gesture-controls/",
+      "score": 12,
+      "author": "hebelehubele",
+      "created": "2026-04-04 21:50:53",
+      "created_at": 1775339453000
     }
   ],
   "code": 200,
