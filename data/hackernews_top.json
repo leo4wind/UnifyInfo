@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-09T12:58:30.192Z"
+    "lastUpdate": "2026-04-09T16:56:35.718Z"
   },
   "data": [
+    {
+      "id": 47705952,
+      "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+      "link": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
+      "score": 48,
+      "author": "frm88",
+      "created": "2026-04-09 16:46:11",
+      "created_at": 1775753171000
+    },
+    {
+      "id": 47704881,
+      "title": "Vercel Claude Code plugin wants to read your prompt",
+      "link": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "score": 144,
+      "author": "akshay2603",
+      "created": "2026-04-09 15:17:27",
+      "created_at": 1775747847000
+    },
+    {
+      "id": 47703419,
+      "title": "Meta removes ads for social media addiction litigation",
+      "link": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+      "score": 301,
+      "author": "giuliomagnifico",
+      "created": "2026-04-09 13:23:50",
+      "created_at": 1775741030000
+    },
     {
       "id": 47697870,
       "title": "LittleSnitch for Linux",
       "link": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 914,
+      "score": 1154,
       "author": "pluc",
       "created": "2026-04-09 00:26:08",
       "created_at": 1775694368000
     },
     {
-      "id": 47702196,
-      "title": "Show HN: CSS Studio. Design by hand, code by agent",
-      "link": "https://cssstudio.ai",
-      "score": 32,
-      "author": "SirHound",
-      "created": "2026-04-09 11:23:31",
-      "created_at": 1775733811000
+      "id": 47705413,
+      "title": "I built a Cargo-like build tool for C/C++",
+      "link": "https://github.com/randerson112/craft",
+      "score": 13,
+      "author": "randerson_112",
+      "created": "2026-04-09 16:04:54",
+      "created_at": 1775750694000
     },
     {
-      "id": 47691730,
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1684,
-      "author": "blkhp19",
-      "created": "2026-04-08 15:40:00",
-      "created_at": 1775662800000
+      "id": 47702541,
+      "title": "A WebGPU Implementation of Augmented Vertex Block Descent",
+      "link": "https://github.com/jure/webphysics",
+      "score": 71,
+      "author": "juretriglav",
+      "created": "2026-04-09 12:01:31",
+      "created_at": 1775736091000
     },
     {
-      "id": 47700388,
-      "title": "Help Keep Thunderbird Alive",
-      "link": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "score": 205,
-      "author": "playfultones",
-      "created": "2026-04-09 07:27:25",
-      "created_at": 1775719645000
-    },
-    {
-      "id": 47701572,
-      "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-      "link": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-      "score": 44,
-      "author": "eigenspace",
-      "created": "2026-04-09 10:10:19",
-      "created_at": 1775729419000
-    },
-    {
-      "id": 47701100,
-      "title": "Creating the Futurescape for the Fifth Element [2019]",
-      "link": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
-      "score": 59,
-      "author": "nixass",
-      "created": "2026-04-09 09:11:37",
-      "created_at": 1775725897000
-    },
-    {
-      "id": 47702647,
-      "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
-      "link": "https://www.relvy.ai",
-      "score": 6,
-      "author": "behat",
-      "created": "2026-04-09 12:11:56",
-      "created_at": 1775736716000
+      "id": 47701148,
+      "title": "FreeBSD Laptop Compatibility: Top Laptops to Use with FreeBSD",
+      "link": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+      "score": 119,
+      "author": "fork-bomber",
+      "created": "2026-04-09 09:17:25",
+      "created_at": 1775726245000
     },
     {
       "id": 47685644,
       "title": "Introduction to Nintendo DS Programming",
       "link": "https://www.patater.com/files/projects/manual/manual.html",
-      "score": 33,
+      "score": 120,
       "author": "medbar",
       "created": "2026-04-08 05:22:42",
       "created_at": 1775625762000
     },
     {
-      "id": 47699181,
-      "title": "Open Source Security at Astral",
-      "link": "https://astral.sh/blog/open-source-security-at-astral",
-      "score": 237,
-      "author": "vinhnx",
-      "created": "2026-04-09 04:11:55",
-      "created_at": 1775707915000
+      "id": 47661977,
+      "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
+      "link": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
+      "score": 11,
+      "author": "prismatic",
+      "created": "2026-04-06 15:11:45",
+      "created_at": 1775488305000
     },
     {
-      "id": 47702791,
-      "title": "Show HN: 41 years sea surface temperature anomalies",
-      "link": "https://ssta.willhelps.org",
-      "score": 8,
-      "author": "willmeyers",
-      "created": "2026-04-09 12:25:57",
-      "created_at": 1775737557000
+      "id": 47700972,
+      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "link": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+      "score": 127,
+      "author": "kisamoto",
+      "created": "2026-04-09 08:55:18",
+      "created_at": 1775724918000
     }
   ],
   "code": 200,
