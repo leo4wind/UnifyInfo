@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-10T16:39:49.741Z"
+    "lastUpdate": "2026-04-10T20:24:28.646Z"
   },
   "data": [
-    {
-      "id": 47719602,
-      "title": "You can't trust macOS Privacy and Security settings",
-      "link": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "score": 112,
-      "author": "zdw",
-      "created": "2026-04-10 15:28:24",
-      "created_at": 1775834904000
-    },
-    {
-      "id": 47719942,
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 64,
-      "author": "zx2c4",
-      "created": "2026-04-10 15:49:52",
-      "created_at": 1775836192000
-    },
     {
       "id": 47719740,
       "title": "1D Chess",
       "link": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 74,
+      "score": 376,
       "author": "burnt-resistor",
       "created": "2026-04-10 15:37:28",
       "created_at": 1775835448000
     },
     {
-      "id": 47719274,
-      "title": "Helium Is Hard to Replace",
-      "link": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "score": 64,
-      "author": "JumpCrisscross",
-      "created": "2026-04-10 15:06:51",
-      "created_at": 1775833611000
+      "id": 47722333,
+      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 45,
+      "author": "neversaydie",
+      "created": "2026-04-10 19:10:22",
+      "created_at": 1775848222000
     },
     {
-      "id": 47717847,
-      "title": "CPU-Z and HWMonitor compromised",
-      "link": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-      "score": 46,
-      "author": "pashadee",
-      "created": "2026-04-10 13:29:20",
-      "created_at": 1775827760000
-    },
-    {
-      "id": 47719975,
-      "title": "Bluesky April 2026 Outage Post-Mortem",
-      "link": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
-      "score": 16,
-      "author": "jcalabro",
-      "created": "2026-04-10 15:51:41",
-      "created_at": 1775836301000
+      "id": 47719942,
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "score": 276,
+      "author": "zx2c4",
+      "created": "2026-04-10 15:49:52",
+      "created_at": 1775836192000
     },
     {
       "id": 47720419,
       "title": "Industrial design files for Keychron keyboards and mice",
       "link": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 15,
+      "score": 184,
       "author": "stingraycharles",
       "created": "2026-04-10 16:22:26",
       "created_at": 1775838146000
     },
     {
-      "id": 47718470,
-      "title": "Code is run more than read (2023)",
-      "link": "https://olano.dev/blog/code-is-run-more-than-read/",
-      "score": 83,
-      "author": "facundo_olano",
-      "created": "2026-04-10 14:12:48",
-      "created_at": 1775830368000
+      "id": 47722262,
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "score": 29,
+      "author": "ibobev",
+      "created": "2026-04-10 19:03:39",
+      "created_at": 1775847819000
     },
     {
-      "id": 47676174,
-      "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-      "link": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
-      "score": 72,
-      "author": "JackeJR",
-      "created": "2026-04-07 14:41:08",
-      "created_at": 1775572868000
+      "id": 47721997,
+      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "link": "https://fluidcad.io/",
+      "score": 42,
+      "author": "maouida",
+      "created": "2026-04-10 18:39:19",
+      "created_at": 1775846359000
     },
     {
-      "id": 47669923,
-      "title": "Clojure on Fennel Part One: Persistent Data Structures",
-      "link": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
-      "score": 28,
-      "author": "roxolotl",
-      "created": "2026-04-07 02:09:45",
-      "created_at": 1775527785000
+      "id": 47719274,
+      "title": "Helium Is Hard to Replace",
+      "link": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "score": 177,
+      "author": "JumpCrisscross",
+      "created": "2026-04-10 15:06:51",
+      "created_at": 1775833611000
+    },
+    {
+      "id": 47721946,
+      "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+      "link": "https://github.com/callumlocke/json-formatter",
+      "score": 45,
+      "author": "jkl5xx",
+      "created": "2026-04-10 18:34:55",
+      "created_at": 1775846095000
+    },
+    {
+      "id": 47721953,
+      "title": "AI assistance when contributing to the Linux kernel",
+      "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "score": 39,
+      "author": "hmokiguess",
+      "created": "2026-04-10 18:35:21",
+      "created_at": 1775846121000
+    },
+    {
+      "id": 47720418,
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "link": "https://twill.ai",
+      "score": 23,
+      "author": "danoandco",
+      "created": "2026-04-10 16:22:13",
+      "created_at": 1775838133000
     }
   ],
   "code": 200,

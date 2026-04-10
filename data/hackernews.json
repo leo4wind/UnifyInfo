@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-10T16:39:49.191Z"
+    "lastUpdate": "2026-04-10T20:24:28.552Z"
   },
   "data": [
-    {
-      "id": 47691730,
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1882,
-      "author": "blkhp19",
-      "created": "2026-04-08 15:40:00",
-      "created_at": 1775662800000
-    },
     {
       "id": 47706268,
       "title": "EFF is leaving X",
       "link": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "score": 1370,
+      "score": 1385,
       "author": "gregsadetsky",
       "created": "2026-04-09 17:08:04",
       "created_at": 1775754484000
@@ -28,7 +19,7 @@
       "id": 47697870,
       "title": "LittleSnitch for Linux",
       "link": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 1334,
+      "score": 1341,
       "author": "pluc",
       "created": "2026-04-09 00:26:08",
       "created_at": 1775694368000
@@ -37,7 +28,7 @@
       "id": 47716043,
       "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
       "link": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "score": 776,
+      "score": 804,
       "author": "embedding-shape",
       "created": "2026-04-10 10:37:33",
       "created_at": 1775817453000
@@ -46,7 +37,7 @@
       "id": 47703419,
       "title": "Meta removes ads for social media addiction litigation",
       "link": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-      "score": 609,
+      "score": 617,
       "author": "giuliomagnifico",
       "created": "2026-04-09 13:23:50",
       "created_at": 1775741030000
@@ -55,34 +46,43 @@
       "id": 47708818,
       "title": "Native Instant Space Switching on macOS",
       "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 593,
+      "score": 616,
       "author": "PaulHoule",
       "created": "2026-04-09 19:48:26",
       "created_at": 1775764106000
     },
     {
-      "id": 47700388,
-      "title": "Help Keep Thunderbird Alive",
-      "link": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "score": 556,
-      "author": "playfultones",
-      "created": "2026-04-09 07:27:25",
-      "created_at": 1775719645000
-    },
-    {
       "id": 47704804,
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 538,
+      "score": 580,
       "author": "speckx",
       "created": "2026-04-09 15:12:40",
       "created_at": 1775747560000
     },
     {
+      "id": 47700388,
+      "title": "Help Keep Thunderbird Alive",
+      "link": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "score": 565,
+      "author": "playfultones",
+      "created": "2026-04-09 07:27:25",
+      "created_at": 1775719645000
+    },
+    {
+      "id": 47716490,
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "link": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "score": 511,
+      "author": "01-_-",
+      "created": "2026-04-10 11:29:04",
+      "created_at": 1775820544000
+    },
+    {
       "id": 47696562,
       "title": "Show HN: Is Hormuz open yet?",
       "link": "https://www.ishormuzopenyet.com/",
-      "score": 467,
+      "score": 474,
       "author": "anonfunction",
       "created": "2026-04-08 21:33:06",
       "created_at": 1775683986000
@@ -91,7 +91,7 @@
       "id": 47705952,
       "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
       "link": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
-      "score": 451,
+      "score": 457,
       "author": "frm88",
       "created": "2026-04-09 16:46:11",
       "created_at": 1775753171000
