@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-10T05:52:46.948Z"
+    "lastUpdate": "2026-04-10T08:59:01.804Z"
   },
   "data": [
-    {
-      "id": 47712222,
-      "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-      "link": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
-      "score": 156,
-      "author": "josephcsible",
-      "created": "2026-04-10 00:50:43",
-      "created_at": 1775782243000
-    },
     {
       "id": 47704804,
       "title": "How NASA built Artemis II’s fault-tolerant computer",
       "link": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 224,
+      "score": 346,
       "author": "speckx",
       "created": "2026-04-09 15:12:40",
       "created_at": 1775747560000
     },
     {
+      "id": 47712718,
+      "title": "I still prefer MCP over skills",
+      "link": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "score": 142,
+      "author": "gmays",
+      "created": "2026-04-10 02:01:48",
+      "created_at": 1775786508000
+    },
+    {
       "id": 47708818,
       "title": "Native Instant Space Switching on macOS",
       "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 413,
+      "score": 483,
       "author": "PaulHoule",
       "created": "2026-04-09 19:48:26",
       "created_at": 1775764106000
     },
     {
-      "id": 47713113,
-      "title": "The Raft Consensus Algorithm Explained Through \"Mean Girls\"",
-      "link": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-      "score": 36,
-      "author": "vermilingua",
-      "created": "2026-04-10 03:03:14",
-      "created_at": 1775790194000
+      "id": 47712656,
+      "title": "We've raised $17M to build what comes after Git",
+      "link": "https://blog.gitbutler.com/series-a",
+      "score": 110,
+      "author": "ellieh",
+      "created": "2026-04-10 01:52:58",
+      "created_at": 1775785978000
     },
     {
       "id": 47675906,
       "title": "Generative art over the years",
       "link": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "score": 79,
+      "score": 137,
       "author": "evakhoury",
       "created": "2026-04-07 14:25:23",
       "created_at": 1775571923000
     },
     {
-      "id": 47675731,
-      "title": "Principles of Mechanical Sympathy",
-      "link": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-      "score": 27,
-      "author": "zdw",
-      "created": "2026-04-07 14:13:59",
-      "created_at": 1775571239000
+      "id": 47665890,
+      "title": "War on Raze",
+      "link": "https://gist.github.com/chrispsn/af6844b80687462814fc39d4b97399a6",
+      "score": 6,
+      "author": "tosh",
+      "created": "2026-04-06 19:40:57",
+      "created_at": 1775504457000
     },
     {
-      "id": 47709158,
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "link": "https://charcuterie.elastiq.ch/",
-      "score": 181,
-      "author": "rickcarlino",
-      "created": "2026-04-09 20:12:07",
-      "created_at": 1775765527000
-    },
-    {
-      "id": 47713584,
-      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
-      "link": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
-      "score": 55,
-      "author": "mellosouls",
-      "created": "2026-04-10 04:17:28",
-      "created_at": 1775794648000
+      "id": 47715088,
+      "title": "Zero-build privacy policies with Astro",
+      "link": "https://www.openpolicy.sh/blog/no-build-astro",
+      "score": 4,
+      "author": "jamie_davenport",
+      "created": "2026-04-10 08:13:38",
+      "created_at": 1775808818000
     },
     {
       "id": 47680005,
       "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
       "link": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "score": 124,
+      "score": 204,
       "author": "surprisetalk",
       "created": "2026-04-07 19:14:32",
       "created_at": 1775589272000
+    },
+    {
+      "id": 47709158,
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "link": "https://charcuterie.elastiq.ch/",
+      "score": 219,
+      "author": "rickcarlino",
+      "created": "2026-04-09 20:12:07",
+      "created_at": 1775765527000
+    },
+    {
+      "id": 47713495,
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "score": 28,
+      "author": "joko42",
+      "created": "2026-04-10 04:04:57",
+      "created_at": 1775793897000
     }
   ],
   "code": 200,

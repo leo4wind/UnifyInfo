@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-10T05:52:50.934Z"
+    "lastUpdate": "2026-04-10T08:59:04.917Z"
   },
   "data": [
     {
@@ -22,12 +22,35 @@
       "zqjkrq": "2026-04-16",
       "ssrq": null,
       "syl": null,
-      "hysyl": 42.1,
+      "hysyl": 41.99,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "电子测量仪器和半导体测试设备的研发、制造、销售及服务"
+    },
+    {
+      "zqdm": "920125",
+      "zqjc": "鸿仕达",
+      "sgdm": "920125",
+      "fxsl": 13500000,
+      "swfxsl": 12150000,
+      "sgsx": 607500,
+      "dgsz": 6075000,
+      "fxjg": 16.57,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-13",
+      "zqgbrq": "2026-04-16",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 40.88,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "智能自动化设备、智能柔性生产线、配件及耗材等产品的研发、生产与销售"
     },
     {
       "zqdm": "001312",
@@ -80,7 +103,7 @@
       "zqjc": "盛合晶微",
       "sgdm": "787820",
       "fxsl": 255466162,
-      "swfxsl": 35765000,
+      "swfxsl": 54373000,
       "sgsx": 35500,
       "dgsz": 355000,
       "fxjg": 19.68,
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 195.62,
       "hysyl": 62.61,
-      "wszql": null,
+      "wszql": 0.03682856,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -138,7 +161,7 @@
       "ssrq": null,
       "syl": 14.99,
       "hysyl": 41.56,
-      "wszql": null,
+      "wszql": 0.0316421,
       "yzbsl": null,
       "zf": null,
       "yqhl": null,
@@ -168,5 +191,5 @@
       "zyyw": "从事汽车电子产品的研发、生产及销售,同时为客户提供汽车电子EMS和技术开发服务"
     }
   ],
-  "total": 7
+  "total": 8
 }
