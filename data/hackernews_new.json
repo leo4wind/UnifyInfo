@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-11T05:21:28.697Z"
+    "lastUpdate": "2026-04-11T08:31:01.052Z"
   },
   "data": [
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "link": "https://kentwalters.com/posts/corners/",
-      "score": 571,
+      "score": 739,
       "author": "normanvalentine",
       "created": "2026-04-10 22:16:40",
       "created_at": 1775859400000
     },
     {
-      "id": 47725583,
-      "title": "Artemis II safely splashes down",
-      "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 653,
-      "author": "areoform",
-      "created": "2026-04-11 00:10:51",
-      "created_at": 1775866251000
+      "id": 47698455,
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "link": "https://playstarfling.com",
+      "score": 122,
+      "author": "iceberger2001",
+      "created": "2026-04-09 01:52:47",
+      "created_at": 1775699567000
     },
     {
       "id": 47719740,
       "title": "1D Chess",
       "link": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 732,
+      "score": 788,
       "author": "burnt-resistor",
       "created": "2026-04-10 15:37:28",
       "created_at": 1775835448000
     },
     {
-      "id": 47722333,
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 281,
-      "author": "neversaydie",
-      "created": "2026-04-10 19:10:22",
-      "created_at": 1775848222000
+      "id": 47725583,
+      "title": "Artemis II safely splashes down",
+      "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "score": 838,
+      "author": "areoform",
+      "created": "2026-04-11 00:10:51",
+      "created_at": 1775866251000
     },
     {
       "id": 47724118,
       "title": "Installing every* Firefox extension",
       "link": "https://jack.cab/blog/every-firefox-extension",
-      "score": 248,
+      "score": 359,
       "author": "RohanAdwankar",
       "created": "2026-04-10 21:56:33",
       "created_at": 1775858193000
     },
     {
-      "id": 47698111,
-      "title": "Bevy game development tutorials and in-depth resources",
-      "link": "https://taintedcoders.com/",
-      "score": 42,
-      "author": "GenericCanadian",
-      "created": "2026-04-09 00:58:47",
-      "created_at": 1775696327000
+      "id": 47722333,
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 321,
+      "author": "neversaydie",
+      "created": "2026-04-10 19:10:22",
+      "created_at": 1775848222000
+    },
+    {
+      "id": 47687443,
+      "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
+      "link": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
+      "score": 27,
+      "author": "geox",
+      "created": "2026-04-08 09:11:10",
+      "created_at": 1775639470000
+    },
+    {
+      "id": 47727711,
+      "title": "20 years on AWS and never not my job",
+      "link": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "score": 123,
+      "author": "cperciva",
+      "created": "2026-04-11 05:31:10",
+      "created_at": 1775885470000
+    },
+    {
+      "id": 47727575,
+      "title": "Great at gaming? US air traffic control wants you to apply",
+      "link": "https://www.bbc.com/news/articles/ce84rvx0e6do",
+      "score": 26,
+      "author": "1659447091",
+      "created": "2026-04-11 05:04:17",
+      "created_at": 1775883857000
     },
     {
       "id": 47719942,
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 430,
+      "score": 462,
       "author": "zx2c4",
       "created": "2026-04-10 15:49:52",
       "created_at": 1775836192000
-    },
-    {
-      "id": 47721953,
-      "title": "AI assistance when contributing to the Linux kernel",
-      "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-      "score": 239,
-      "author": "hmokiguess",
-      "created": "2026-04-10 18:35:21",
-      "created_at": 1775846121000
-    },
-    {
-      "id": 47720419,
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "link": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 340,
-      "author": "stingraycharles",
-      "created": "2026-04-10 16:22:26",
-      "created_at": 1775838146000
-    },
-    {
-      "id": 47685984,
-      "title": "Investigating Split Locks on x86-64",
-      "link": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
-      "score": 39,
-      "author": "ingve",
-      "created": "2026-04-08 06:06:19",
-      "created_at": 1775628379000
     }
   ],
   "code": 200,
