@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-12T01:26:45.317Z"
+    "lastUpdate": "2026-04-12T05:49:03.078Z"
   },
   "data": [
+    {
+      "id": 47735535,
+      "title": "The End of Eleventy",
+      "link": "https://brennan.day/the-end-of-eleventy/",
+      "score": 101,
+      "author": "ValentineC",
+      "created": "2026-04-12 01:55:48",
+      "created_at": 1775958948000
+    },
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 819,
+      "score": 951,
       "author": "dominicq",
       "created": "2026-04-11 16:47:28",
       "created_at": 1775926048000
     },
     {
-      "id": 47733971,
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 141,
-      "author": "krackers",
-      "created": "2026-04-11 20:58:48",
-      "created_at": 1775941128000
+      "id": 47736172,
+      "title": "The Brainrot Industrial Complex",
+      "link": "https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex",
+      "score": 21,
+      "author": "jibone",
+      "created": "2026-04-12 04:31:13",
+      "created_at": 1775968273000
     },
     {
-      "id": 47733561,
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "link": "https://zenodo.org/records/19513269",
-      "score": 137,
-      "author": "iliatoli",
-      "created": "2026-04-11 20:08:46",
-      "created_at": 1775938126000
+      "id": 47736298,
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "link": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "score": 37,
+      "author": "Jimmc414",
+      "created": "2026-04-12 05:08:03",
+      "created_at": 1775970483000
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 208,
+      "score": 312,
       "author": "Anon84",
       "created": "2026-04-11 19:15:56",
       "created_at": 1775934956000
     },
     {
+      "id": 47673171,
+      "title": "How Complex is my Code?",
+      "link": "https://philodev.one/posts/2026-04-code-complexity/",
+      "score": 78,
+      "author": "speckx",
+      "created": "2026-04-07 10:44:55",
+      "created_at": 1775558695000
+    },
+    {
+      "id": 47735927,
+      "title": "Excellence Is a Habit",
+      "link": "https://www.flyingbarron.com/2026/04/excellence-is-habit.html",
+      "score": 25,
+      "author": "mooreds",
+      "created": "2026-04-12 03:34:13",
+      "created_at": 1775964853000
+    },
+    {
+      "id": 47733561,
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "link": "https://zenodo.org/records/19513269",
+      "score": 183,
+      "author": "iliatoli",
+      "created": "2026-04-11 20:08:46",
+      "created_at": 1775938126000
+    },
+    {
       "id": 47733521,
       "title": "Dark Castle",
       "link": "https://darkcastle.co.uk/",
-      "score": 115,
+      "score": 161,
       "author": "evo_9",
       "created": "2026-04-11 20:01:59",
       "created_at": 1775937719000
     },
     {
-      "id": 47672941,
-      "title": "Pijul a FOSS distributed version control system",
-      "link": "https://pijul.org/",
-      "score": 78,
-      "author": "kouosi",
-      "created": "2026-04-07 10:16:38",
-      "created_at": 1775556998000
-    },
-    {
-      "id": 47731506,
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "link": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 194,
-      "author": "zdw",
-      "created": "2026-04-11 15:39:19",
-      "created_at": 1775921959000
-    },
-    {
-      "id": 47732697,
-      "title": "How to build a `Git diff` driver",
-      "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 76,
-      "author": "zdw",
-      "created": "2026-04-11 18:07:49",
-      "created_at": 1775930869000
-    },
-    {
-      "id": 47730194,
-      "title": "Cirrus Labs to join OpenAI",
-      "link": "https://cirruslabs.org/",
-      "score": 233,
-      "author": "seekdeep",
-      "created": "2026-04-11 13:01:34",
-      "created_at": 1775912494000
-    },
-    {
-      "id": 47693559,
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "link": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 167,
-      "author": "codetheweb",
-      "created": "2026-04-08 17:36:19",
-      "created_at": 1775669779000
+      "id": 47733971,
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 176,
+      "author": "krackers",
+      "created": "2026-04-11 20:58:48",
+      "created_at": 1775941128000
     }
   ],
   "code": 200,
