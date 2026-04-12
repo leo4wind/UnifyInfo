@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-12T08:37:04.758Z"
+    "lastUpdate": "2026-04-12T12:37:35.693Z"
   },
   "data": [
     {
-      "id": 47732020,
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1057,
-      "author": "dominicq",
-      "created": "2026-04-11 16:47:28",
-      "created_at": 1775926048000
+      "id": 47738094,
+      "title": "JVM Options Explorer",
+      "link": "https://chriswhocodes.com/vm-options-explorer.html",
+      "score": 43,
+      "author": "0x54MUR41",
+      "created": "2026-04-12 10:29:26",
+      "created_at": 1775989766000
     },
     {
-      "id": 47736555,
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 112,
-      "author": "tradertef",
-      "created": "2026-04-12 06:00:00",
-      "created_at": 1775973600000
+      "id": 47706423,
+      "title": "An Interview with Pat Gelsinger",
+      "link": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+      "score": 59,
+      "author": "zdw",
+      "created": "2026-04-09 17:19:10",
+      "created_at": 1775755150000
     },
     {
-      "id": 47735535,
-      "title": "The End of Eleventy",
-      "link": "https://brennan.day/the-end-of-eleventy/",
-      "score": 149,
-      "author": "ValentineC",
-      "created": "2026-04-12 01:55:48",
-      "created_at": 1775958948000
+      "id": 47675444,
+      "title": "Happy Map",
+      "link": "https://pudding.cool/2026/02/happy-map/",
+      "score": 24,
+      "author": "surprisetalk",
+      "created": "2026-04-07 13:55:11",
+      "created_at": 1775570111000
+    },
+    {
+      "id": 47737376,
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "link": "https://phyphox.org/",
+      "score": 44,
+      "author": "_Microft",
+      "created": "2026-04-12 08:38:11",
+      "created_at": 1775983091000
+    },
+    {
+      "id": 47674910,
+      "title": "The Miller Principle (2007)",
+      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
+      "score": 45,
+      "author": "FelipeCortez",
+      "created": "2026-04-07 13:16:36",
+      "created_at": 1775567796000
+    },
+    {
+      "id": 47737383,
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "link": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "score": 223,
+      "author": "OuterVale",
+      "created": "2026-04-12 08:38:56",
+      "created_at": 1775983136000
     },
     {
       "id": 47672718,
       "title": "Tofolli gates are all you need",
       "link": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 34,
+      "score": 82,
       "author": "ibobev",
       "created": "2026-04-07 09:40:57",
       "created_at": 1775554857000
     },
     {
-      "id": 47736298,
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "link": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 121,
-      "author": "Jimmc414",
-      "created": "2026-04-12 05:08:03",
-      "created_at": 1775970483000
+      "id": 47736555,
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "score": 347,
+      "author": "tradertef",
+      "created": "2026-04-12 06:00:00",
+      "created_at": 1775973600000
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 362,
+      "score": 409,
       "author": "Anon84",
       "created": "2026-04-11 19:15:56",
       "created_at": 1775934956000
     },
     {
-      "id": 47673171,
-      "title": "How Complex is my Code?",
-      "link": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 110,
-      "author": "speckx",
-      "created": "2026-04-07 10:44:55",
-      "created_at": 1775558695000
-    },
-    {
-      "id": 47672714,
-      "title": "Simplest Hash Functions",
-      "link": "https://purplesyringa.moe/blog/simplest-hash-functions/",
-      "score": 38,
-      "author": "ibobev",
-      "created": "2026-04-07 09:40:08",
-      "created_at": 1775554808000
-    },
-    {
-      "id": 47733521,
-      "title": "Dark Castle",
-      "link": "https://darkcastle.co.uk/",
-      "score": 178,
-      "author": "evo_9",
-      "created": "2026-04-11 20:01:59",
-      "created_at": 1775937719000
-    },
-    {
-      "id": 47733561,
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "link": "https://zenodo.org/records/19513269",
-      "score": 208,
-      "author": "iliatoli",
-      "created": "2026-04-11 20:08:46",
-      "created_at": 1775938126000
+      "id": 47738196,
+      "title": "What have been the greatest intellectual achievements? (2017)",
+      "link": "https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html",
+      "score": 25,
+      "author": "o4c",
+      "created": "2026-04-12 10:46:21",
+      "created_at": 1775990781000
     }
   ],
   "code": 200,
