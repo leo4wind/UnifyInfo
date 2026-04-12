@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-11T20:21:05.894Z"
+    "lastUpdate": "2026-04-12T01:26:45.086Z"
   },
   "data": [
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "link": "https://kentwalters.com/posts/corners/",
-      "score": 1243,
+      "score": 1303,
       "author": "normanvalentine",
       "created": "2026-04-10 22:16:40",
       "created_at": 1775859400000
@@ -19,7 +19,7 @@
       "id": 47725583,
       "title": "Artemis II safely splashes down",
       "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 1195,
+      "score": 1241,
       "author": "areoform",
       "created": "2026-04-11 00:10:51",
       "created_at": 1775866251000
@@ -28,7 +28,7 @@
       "id": 47719740,
       "title": "1D Chess",
       "link": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 951,
+      "score": 959,
       "author": "burnt-resistor",
       "created": "2026-04-10 15:37:28",
       "created_at": 1775835448000
@@ -37,43 +37,43 @@
       "id": 47716043,
       "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
       "link": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "score": 847,
+      "score": 850,
       "author": "embedding-shape",
       "created": "2026-04-10 10:37:33",
       "created_at": 1775817453000
     },
     {
-      "id": 47708818,
-      "title": "Native Instant Space Switching on macOS",
-      "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 631,
-      "author": "PaulHoule",
-      "created": "2026-04-09 19:48:26",
-      "created_at": 1775764106000
-    },
-    {
-      "id": 47716490,
-      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-      "link": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "score": 605,
-      "author": "01-_-",
-      "created": "2026-04-10 11:29:04",
-      "created_at": 1775820544000
+      "id": 47732020,
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 819,
+      "author": "dominicq",
+      "created": "2026-04-11 16:47:28",
+      "created_at": 1775926048000
     },
     {
       "id": 47724118,
       "title": "Installing every* Firefox extension",
       "link": "https://jack.cab/blog/every-firefox-extension",
-      "score": 595,
+      "score": 631,
       "author": "RohanAdwankar",
       "created": "2026-04-10 21:56:33",
       "created_at": 1775858193000
     },
     {
+      "id": 47716490,
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "link": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "score": 612,
+      "author": "01-_-",
+      "created": "2026-04-10 11:29:04",
+      "created_at": 1775820544000
+    },
+    {
       "id": 47719486,
       "title": "France to ditch Windows for Linux to reduce reliance on US tech",
       "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-      "score": 586,
+      "score": 591,
       "author": "Teever",
       "created": "2026-04-10 15:20:48",
       "created_at": 1775834448000
@@ -82,19 +82,19 @@
       "id": 47719942,
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 535,
+      "score": 537,
       "author": "zx2c4",
       "created": "2026-04-10 15:49:52",
       "created_at": 1775836192000
     },
     {
-      "id": 47719602,
-      "title": "You can't trust macOS Privacy and Security settings",
-      "link": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "score": 488,
-      "author": "zdw",
-      "created": "2026-04-10 15:28:24",
-      "created_at": 1775834904000
+      "id": 47721953,
+      "title": "AI assistance when contributing to the Linux kernel",
+      "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "score": 495,
+      "author": "hmokiguess",
+      "created": "2026-04-10 18:35:21",
+      "created_at": 1775846121000
     }
   ],
   "code": 200,

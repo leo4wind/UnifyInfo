@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-11T20:21:06.858Z"
+    "lastUpdate": "2026-04-12T01:26:45.317Z"
   },
   "data": [
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 475,
+      "score": 819,
       "author": "dominicq",
       "created": "2026-04-11 16:47:28",
       "created_at": 1775926048000
     },
     {
+      "id": 47733971,
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 141,
+      "author": "krackers",
+      "created": "2026-04-11 20:58:48",
+      "created_at": 1775941128000
+    },
+    {
+      "id": 47733561,
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "link": "https://zenodo.org/records/19513269",
+      "score": 137,
+      "author": "iliatoli",
+      "created": "2026-04-11 20:08:46",
+      "created_at": 1775938126000
+    },
+    {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 42,
+      "score": 208,
       "author": "Anon84",
       "created": "2026-04-11 19:15:56",
       "created_at": 1775934956000
     },
     {
-      "id": 47732697,
-      "title": "How to build a `Git diff` driver",
-      "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 29,
-      "author": "zdw",
-      "created": "2026-04-11 18:07:49",
-      "created_at": 1775930869000
+      "id": 47733521,
+      "title": "Dark Castle",
+      "link": "https://darkcastle.co.uk/",
+      "score": 115,
+      "author": "evo_9",
+      "created": "2026-04-11 20:01:59",
+      "created_at": 1775937719000
+    },
+    {
+      "id": 47672941,
+      "title": "Pijul a FOSS distributed version control system",
+      "link": "https://pijul.org/",
+      "score": 78,
+      "author": "kouosi",
+      "created": "2026-04-07 10:16:38",
+      "created_at": 1775556998000
     },
     {
       "id": 47731506,
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "link": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 129,
+      "score": 194,
       "author": "zdw",
       "created": "2026-04-11 15:39:19",
       "created_at": 1775921959000
     },
     {
+      "id": 47732697,
+      "title": "How to build a `Git diff` driver",
+      "link": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "score": 76,
+      "author": "zdw",
+      "created": "2026-04-11 18:07:49",
+      "created_at": 1775930869000
+    },
+    {
       "id": 47730194,
       "title": "Cirrus Labs to join OpenAI",
       "link": "https://cirruslabs.org/",
-      "score": 197,
+      "score": 233,
       "author": "seekdeep",
       "created": "2026-04-11 13:01:34",
       "created_at": 1775912494000
     },
     {
-      "id": 47712134,
-      "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
-      "link": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
-      "score": 34,
-      "author": "classichasclass",
-      "created": "2026-04-10 00:36:21",
-      "created_at": 1775781381000
-    },
-    {
       "id": 47693559,
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "link": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 122,
+      "score": 167,
       "author": "codetheweb",
       "created": "2026-04-08 17:36:19",
       "created_at": 1775669779000
-    },
-    {
-      "id": 47731838,
-      "title": "Keeping a Postgres Queue Healthy",
-      "link": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "score": 51,
-      "author": "tanelpoder",
-      "created": "2026-04-11 16:24:08",
-      "created_at": 1775924648000
-    },
-    {
-      "id": 47724352,
-      "title": "Filing the corners off my MacBooks",
-      "link": "https://kentwalters.com/posts/corners/",
-      "score": 1243,
-      "author": "normanvalentine",
-      "created": "2026-04-10 22:16:40",
-      "created_at": 1775859400000
-    },
-    {
-      "id": 47733106,
-      "title": "One neat trick to end extreme poverty",
-      "link": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
-      "score": 14,
-      "author": "andsoitis",
-      "created": "2026-04-11 19:01:00",
-      "created_at": 1775934060000
     }
   ],
   "code": 200,
