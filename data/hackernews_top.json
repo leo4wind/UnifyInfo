@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-12T16:26:29.733Z"
+    "lastUpdate": "2026-04-12T20:24:05.655Z"
   },
   "data": [
+    {
+      "id": 47742790,
+      "title": "The Closing of the Frontier",
+      "link": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+      "score": 124,
+      "author": "MindGods",
+      "created": "2026-04-12 18:30:29",
+      "created_at": 1776018629000
+    },
+    {
+      "id": 47743700,
+      "title": "European AI. A playbook to own it. By Mistral",
+      "link": "https://europe.mistral.ai/",
+      "score": 47,
+      "author": "hjouneau",
+      "created": "2026-04-12 19:51:06",
+      "created_at": 1776023466000
+    },
     {
       "id": 47738827,
       "title": "Bring Back Idiomatic Design",
       "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 136,
+      "score": 327,
       "author": "phil294",
       "created": "2026-04-12 12:21:26",
       "created_at": 1775996486000
     },
     {
+      "id": 47702887,
+      "title": "Most people can't juggle one ball",
+      "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "score": 112,
+      "author": "surprisetalk",
+      "created": "2026-04-09 12:35:20",
+      "created_at": 1775738120000
+    },
+    {
+      "id": 47741889,
+      "title": "Show HN: Claudraband – Claude Code for the Power User",
+      "link": "https://github.com/halfwhey/claudraband",
+      "score": 43,
+      "author": "halfwhey",
+      "created": "2026-04-12 16:55:20",
+      "created_at": 1776012920000
+    },
+    {
+      "id": 47742200,
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "link": "https://boringbar.app/",
+      "score": 156,
+      "author": "a-ve",
+      "created": "2026-04-12 17:25:44",
+      "created_at": 1776014744000
+    },
+    {
+      "id": 47719490,
+      "title": "I gave every train in New York an instrument",
+      "link": "https://www.trainjazz.com/",
+      "score": 120,
+      "author": "joshuawolk",
+      "created": "2026-04-10 15:21:07",
+      "created_at": 1775834467000
+    },
+    {
+      "id": 47741701,
+      "title": "DIY Soft Drinks",
+      "link": "https://blinry.org/diy-soft-drinks/",
+      "score": 55,
+      "author": "_Microft",
+      "created": "2026-04-12 16:38:43",
+      "created_at": 1776011923000
+    },
+    {
       "id": 47739174,
       "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
       "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 62,
+      "score": 128,
       "author": "Rochus",
       "created": "2026-04-12 13:06:44",
       "created_at": 1775999204000
     },
     {
-      "id": 47739313,
-      "title": "Seven countries now generate 100% of their electricity from renewable energy",
-      "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 193,
-      "author": "mpweiher",
-      "created": "2026-04-12 13:21:39",
-      "created_at": 1776000099000
-    },
-    {
-      "id": 47738094,
-      "title": "JVM Options Explorer",
-      "link": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 113,
-      "author": "0x54MUR41",
-      "created": "2026-04-12 10:29:26",
-      "created_at": 1775989766000
-    },
-    {
-      "id": 47738883,
-      "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
-      "link": "",
-      "score": 224,
-      "author": "littlecranky67",
-      "created": "2026-04-12 12:28:57",
-      "created_at": 1775996937000
-    },
-    {
-      "id": 47740315,
-      "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
-      "link": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
-      "score": 17,
-      "author": "wallflower",
-      "created": "2026-04-12 14:43:23",
-      "created_at": 1776005003000
-    },
-    {
-      "id": 47737563,
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "link": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "score": 252,
-      "author": "gHeadphone",
-      "created": "2026-04-12 09:16:35",
-      "created_at": 1775985395000
-    },
-    {
-      "id": 47737376,
-      "title": "Phyphox – Physical Experiments Using a Smartphone",
-      "link": "https://phyphox.org/",
-      "score": 111,
-      "author": "_Microft",
-      "created": "2026-04-12 08:38:11",
-      "created_at": 1775983091000
-    },
-    {
-      "id": 47736476,
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "link": "https://github.com/anthropics/claude-code/issues/46829",
-      "score": 283,
-      "author": "lsdmtme",
-      "created": "2026-04-12 05:45:52",
-      "created_at": 1775972752000
-    },
-    {
-      "id": 47675444,
-      "title": "Happy Map",
-      "link": "https://pudding.cool/2026/02/happy-map/",
-      "score": 109,
-      "author": "surprisetalk",
-      "created": "2026-04-07 13:55:11",
-      "created_at": 1775570111000
+      "id": 47743628,
+      "title": "The Peril of Laziness Lost",
+      "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "score": 15,
+      "author": "gpm",
+      "created": "2026-04-12 19:44:40",
+      "created_at": 1776023080000
     }
   ],
   "code": 200,
