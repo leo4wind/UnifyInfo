@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-13T16:53:18.836Z"
+    "lastUpdate": "2026-04-13T20:41:50.979Z"
   },
   "data": [
+    {
+      "id": 47755629,
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "score": 363,
+      "author": "speckx",
+      "created": "2026-04-13 17:54:39",
+      "created_at": 1776102879000
+    },
     {
       "id": 47753472,
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 108,
+      "score": 298,
       "author": "m-hodges",
       "created": "2026-04-13 15:31:06",
       "created_at": 1776094266000
     },
     {
-      "id": 47753689,
-      "title": "Building a CLI for All of Cloudflare",
-      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 66,
-      "author": "soheilpro",
-      "created": "2026-04-13 15:44:02",
-      "created_at": 1776095042000
-    },
-    {
-      "id": 47750872,
-      "title": "Servo is now available on crates.io",
-      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 253,
-      "author": "ffin",
-      "created": "2026-04-13 12:12:22",
-      "created_at": 1776082342000
-    },
-    {
       "id": 47754379,
       "title": "The Future of Everything Is Lies, I Guess: Safety",
       "link": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "score": 24,
+      "score": 222,
       "author": "aphyr",
       "created": "2026-04-13 16:23:09",
       "created_at": 1776097389000
     },
     {
-      "id": 47752819,
-      "title": "Make Tmux Pretty and Usable",
-      "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 131,
-      "author": "speckx",
-      "created": "2026-04-13 14:48:55",
-      "created_at": 1776091735000
+      "id": 47756321,
+      "title": "How to make Firefox builds 17% faster",
+      "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "score": 62,
+      "author": "mbitsnbites",
+      "created": "2026-04-13 18:50:08",
+      "created_at": 1776106208000
     },
     {
-      "id": 47754606,
-      "title": "The Rational Conclusion of Doomerism Is Violence",
-      "link": "https://www.campbellramble.ai/p/the-rational-conclusion",
-      "score": 5,
-      "author": "thedudeabides5",
-      "created": "2026-04-13 16:37:10",
-      "created_at": 1776098230000
+      "id": 47753689,
+      "title": "Building a CLI for All of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "score": 198,
+      "author": "soheilpro",
+      "created": "2026-04-13 15:44:02",
+      "created_at": 1776095042000
     },
     {
-      "id": 47746610,
-      "title": "All elementary functions from a single binary operator",
-      "link": "https://arxiv.org/abs/2603.21852",
-      "score": 695,
-      "author": "pizza",
-      "created": "2026-04-13 01:49:32",
-      "created_at": 1776044972000
+      "id": 47729694,
+      "title": "An Introduction to Obsidian",
+      "link": "https://bryanhogan.com/blog/obsidian-introduction",
+      "score": 34,
+      "author": "bryanhogan",
+      "created": "2026-04-11 11:35:02",
+      "created_at": 1775907302000
     },
     {
-      "id": 47751621,
-      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
-      "link": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-      "score": 33,
-      "author": "mfilion",
-      "created": "2026-04-13 13:23:50",
-      "created_at": 1776086630000
+      "id": 47750872,
+      "title": "Servo is now available on crates.io",
+      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "score": 350,
+      "author": "ffin",
+      "created": "2026-04-13 12:12:22",
+      "created_at": 1776082342000
     },
     {
-      "id": 47752466,
-      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "link": "https://spectrum.ieee.org/mems-photonics",
-      "score": 18,
-      "author": "bookofjoe",
-      "created": "2026-04-13 14:26:02",
-      "created_at": 1776090362000
+      "id": 47756569,
+      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+      "link": "https://www.ithihasas.in",
+      "score": 39,
+      "author": "cvrajeesh",
+      "created": "2026-04-13 19:10:07",
+      "created_at": 1776107407000
     },
     {
-      "id": 47751936,
-      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-      "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-      "score": 128,
-      "author": "bundie",
-      "created": "2026-04-13 13:48:24",
-      "created_at": 1776088104000
+      "id": 47756036,
+      "title": "Visualizing CPU Pipelining (2024)",
+      "link": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+      "score": 22,
+      "author": "flipacholas",
+      "created": "2026-04-13 18:26:40",
+      "created_at": 1776104800000
+    },
+    {
+      "id": 47743728,
+      "title": "Tracking down a 25% Regression on LLVM RISC-V",
+      "link": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
+      "score": 63,
+      "author": "luu",
+      "created": "2026-04-12 19:52:58",
+      "created_at": 1776023578000
     }
   ],
   "code": 200,
