@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-13T13:00:06.228Z"
+    "lastUpdate": "2026-04-13T16:53:18.836Z"
   },
   "data": [
     {
-      "id": 47750669,
-      "title": "Android now stops you sharing your location in photos",
-      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "score": 76,
-      "author": "edent",
-      "created": "2026-04-13 11:48:15",
-      "created_at": 1776080895000
+      "id": 47753472,
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "score": 108,
+      "author": "m-hodges",
+      "created": "2026-04-13 15:31:06",
+      "created_at": 1776094266000
+    },
+    {
+      "id": 47753689,
+      "title": "Building a CLI for All of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "score": 66,
+      "author": "soheilpro",
+      "created": "2026-04-13 15:44:02",
+      "created_at": 1776095042000
+    },
+    {
+      "id": 47750872,
+      "title": "Servo is now available on crates.io",
+      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "score": 253,
+      "author": "ffin",
+      "created": "2026-04-13 12:12:22",
+      "created_at": 1776082342000
+    },
+    {
+      "id": 47754379,
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "link": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+      "score": 24,
+      "author": "aphyr",
+      "created": "2026-04-13 16:23:09",
+      "created_at": 1776097389000
+    },
+    {
+      "id": 47752819,
+      "title": "Make Tmux Pretty and Usable",
+      "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "score": 131,
+      "author": "speckx",
+      "created": "2026-04-13 14:48:55",
+      "created_at": 1776091735000
+    },
+    {
+      "id": 47754606,
+      "title": "The Rational Conclusion of Doomerism Is Violence",
+      "link": "https://www.campbellramble.ai/p/the-rational-conclusion",
+      "score": 5,
+      "author": "thedudeabides5",
+      "created": "2026-04-13 16:37:10",
+      "created_at": 1776098230000
     },
     {
       "id": 47746610,
       "title": "All elementary functions from a single binary operator",
       "link": "https://arxiv.org/abs/2603.21852",
-      "score": 557,
+      "score": 695,
       "author": "pizza",
       "created": "2026-04-13 01:49:32",
       "created_at": 1776044972000
     },
     {
-      "id": 47751029,
-      "title": "I went to America's worst national parks so you don't have to",
-      "link": "https://substack.com/home/post/p-193626949",
-      "score": 31,
-      "author": "surprisetalk",
-      "created": "2026-04-13 12:29:35",
-      "created_at": 1776083375000
+      "id": 47751621,
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "score": 33,
+      "author": "mfilion",
+      "created": "2026-04-13 13:23:50",
+      "created_at": 1776086630000
     },
     {
-      "id": 47751032,
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-      "score": 11,
-      "author": "surprisetalk",
-      "created": "2026-04-13 12:29:39",
-      "created_at": 1776083379000
+      "id": 47752466,
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "link": "https://spectrum.ieee.org/mems-photonics",
+      "score": 18,
+      "author": "bookofjoe",
+      "created": "2026-04-13 14:26:02",
+      "created_at": 1776090362000
     },
     {
-      "id": 47748064,
-      "title": "The economics of software teams: Why most engineering orgs are flying blind",
-      "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "score": 226,
-      "author": "kiyanwang",
-      "created": "2026-04-13 05:45:32",
-      "created_at": 1776059132000
-    },
-    {
-      "id": 47750259,
-      "title": "Point Cloud Allemansrätten",
-      "link": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
-      "score": 12,
-      "author": "ColinWright",
-      "created": "2026-04-13 10:55:10",
-      "created_at": 1776077710000
-    },
-    {
-      "id": 47745284,
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 204,
-      "author": "mindcrime",
-      "created": "2026-04-12 22:38:45",
-      "created_at": 1776033525000
-    },
-    {
-      "id": 47741701,
-      "title": "DIY Soft Drinks",
-      "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 533,
-      "author": "_Microft",
-      "created": "2026-04-12 16:38:43",
-      "created_at": 1776011923000
-    },
-    {
-      "id": 47750821,
-      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-      "score": 9,
-      "author": "iamnothere",
-      "created": "2026-04-13 12:05:35",
-      "created_at": 1776081935000
-    },
-    {
-      "id": 47738827,
-      "title": "Bring Back Idiomatic Design (2023)",
-      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 587,
-      "author": "phil294",
-      "created": "2026-04-12 12:21:26",
-      "created_at": 1775996486000
+      "id": 47751936,
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "score": 128,
+      "author": "bundie",
+      "created": "2026-04-13 13:48:24",
+      "created_at": 1776088104000
     }
   ],
   "code": 200,

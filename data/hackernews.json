@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-13T13:00:06.127Z"
+    "lastUpdate": "2026-04-13T16:53:18.580Z"
   },
   "data": [
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1251,
+      "score": 1262,
       "author": "dominicq",
       "created": "2026-04-11 16:47:28",
       "created_at": 1775926048000
@@ -19,7 +19,7 @@
       "id": 47738883,
       "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "link": "",
-      "score": 991,
+      "score": 1066,
       "author": "littlecranky67",
       "created": "2026-04-12 12:28:57",
       "created_at": 1775996937000
@@ -28,7 +28,7 @@
       "id": 47736555,
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 896,
+      "score": 910,
       "author": "tradertef",
       "created": "2026-04-12 06:00:00",
       "created_at": 1775973600000
@@ -37,16 +37,25 @@
       "id": 47739260,
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "link": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 692,
+      "score": 706,
       "author": "cmaster11",
       "created": "2026-04-12 13:15:31",
       "created_at": 1775999731000
     },
     {
+      "id": 47746610,
+      "title": "All elementary functions from a single binary operator",
+      "link": "https://arxiv.org/abs/2603.21852",
+      "score": 695,
+      "author": "pizza",
+      "created": "2026-04-13 01:49:32",
+      "created_at": 1776044972000
+    },
+    {
       "id": 47739313,
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 606,
+      "score": 638,
       "author": "mpweiher",
       "created": "2026-04-12 13:21:39",
       "created_at": 1776000099000
@@ -55,43 +64,34 @@
       "id": 47738827,
       "title": "Bring Back Idiomatic Design (2023)",
       "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 587,
+      "score": 637,
       "author": "phil294",
       "created": "2026-04-12 12:21:26",
       "created_at": 1775996486000
     },
     {
-      "id": 47746610,
-      "title": "All elementary functions from a single binary operator",
-      "link": "https://arxiv.org/abs/2603.21852",
-      "score": 557,
-      "author": "pizza",
-      "created": "2026-04-13 01:49:32",
-      "created_at": 1776044972000
-    },
-    {
-      "id": 47733217,
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 540,
-      "author": "Anon84",
-      "created": "2026-04-11 19:15:56",
-      "created_at": 1775934956000
-    },
-    {
       "id": 47741701,
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 533,
+      "score": 621,
       "author": "_Microft",
       "created": "2026-04-12 16:38:43",
       "created_at": 1776011923000
     },
     {
+      "id": 47733217,
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 559,
+      "author": "Anon84",
+      "created": "2026-04-11 19:15:56",
+      "created_at": 1775934956000
+    },
+    {
       "id": 47736476,
       "title": "Anthropic downgraded cache TTL on March 6th",
       "link": "https://github.com/anthropics/claude-code/issues/46829",
-      "score": 521,
+      "score": 531,
       "author": "lsdmtme",
       "created": "2026-04-12 05:45:52",
       "created_at": 1775972752000
