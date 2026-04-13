@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-12T20:24:05.466Z"
+    "lastUpdate": "2026-04-13T01:29:05.805Z"
   },
   "data": [
-    {
-      "id": 47724352,
-      "title": "Filing the corners off my MacBooks",
-      "link": "https://kentwalters.com/posts/corners/",
-      "score": 1355,
-      "author": "normanvalentine",
-      "created": "2026-04-10 22:16:40",
-      "created_at": 1775859400000
-    },
-    {
-      "id": 47725583,
-      "title": "Artemis II safely splashes down",
-      "link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 1265,
-      "author": "areoform",
-      "created": "2026-04-11 00:10:51",
-      "created_at": 1775866251000
-    },
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1219,
+      "score": 1230,
       "author": "dominicq",
       "created": "2026-04-11 16:47:28",
       "created_at": 1775926048000
@@ -37,25 +19,16 @@
       "id": 47736555,
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 724,
+      "score": 816,
       "author": "tradertef",
       "created": "2026-04-12 06:00:00",
       "created_at": 1775973600000
     },
     {
-      "id": 47724118,
-      "title": "Installing every* Firefox extension",
-      "link": "https://jack.cab/blog/every-firefox-extension",
-      "score": 665,
-      "author": "RohanAdwankar",
-      "created": "2026-04-10 21:56:33",
-      "created_at": 1775858193000
-    },
-    {
       "id": 47738883,
       "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
       "link": "",
-      "score": 503,
+      "score": 664,
       "author": "littlecranky67",
       "created": "2026-04-12 12:28:57",
       "created_at": 1775996937000
@@ -64,16 +37,34 @@
       "id": 47739260,
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "link": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 486,
+      "score": 515,
       "author": "cmaster11",
       "created": "2026-04-12 13:15:31",
       "created_at": 1775999731000
     },
     {
+      "id": 47733217,
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 492,
+      "author": "Anon84",
+      "created": "2026-04-11 19:15:56",
+      "created_at": 1775934956000
+    },
+    {
+      "id": 47739313,
+      "title": "Seven countries now generate 100% of their electricity from renewable energy",
+      "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "score": 486,
+      "author": "mpweiher",
+      "created": "2026-04-12 13:21:39",
+      "created_at": 1776000099000
+    },
+    {
       "id": 47728653,
       "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
       "link": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "score": 477,
+      "score": 483,
       "author": "pabs3",
       "created": "2026-04-11 08:25:14",
       "created_at": 1775895914000
@@ -82,19 +73,28 @@
       "id": 47727960,
       "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
       "link": "",
-      "score": 477,
+      "score": 479,
       "author": "vidluther",
       "created": "2026-04-11 06:19:25",
       "created_at": 1775888365000
     },
     {
-      "id": 47733217,
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 474,
-      "author": "Anon84",
-      "created": "2026-04-11 19:15:56",
-      "created_at": 1775934956000
+      "id": 47736476,
+      "title": "Anthropic downgraded cache TTL on March 6th",
+      "link": "https://github.com/anthropics/claude-code/issues/46829",
+      "score": 476,
+      "author": "lsdmtme",
+      "created": "2026-04-12 05:45:52",
+      "created_at": 1775972752000
+    },
+    {
+      "id": 47738827,
+      "title": "Bring Back Idiomatic Design (2023)",
+      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 453,
+      "author": "phil294",
+      "created": "2026-04-12 12:21:26",
+      "created_at": 1775996486000
     }
   ],
   "code": 200,

@@ -3,95 +3,95 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-12T20:24:05.655Z"
+    "lastUpdate": "2026-04-13T01:29:05.961Z"
   },
   "data": [
     {
-      "id": 47742790,
-      "title": "The Closing of the Frontier",
-      "link": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
-      "score": 124,
-      "author": "MindGods",
-      "created": "2026-04-12 18:30:29",
-      "created_at": 1776018629000
-    },
-    {
-      "id": 47743700,
-      "title": "European AI. A playbook to own it. By Mistral",
-      "link": "https://europe.mistral.ai/",
-      "score": 47,
-      "author": "hjouneau",
-      "created": "2026-04-12 19:51:06",
-      "created_at": 1776023466000
-    },
-    {
       "id": 47738827,
-      "title": "Bring Back Idiomatic Design",
+      "title": "Bring Back Idiomatic Design (2023)",
       "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 327,
+      "score": 453,
       "author": "phil294",
       "created": "2026-04-12 12:21:26",
       "created_at": 1775996486000
     },
     {
-      "id": 47702887,
-      "title": "Most people can't juggle one ball",
-      "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 112,
-      "author": "surprisetalk",
-      "created": "2026-04-09 12:35:20",
-      "created_at": 1775738120000
-    },
-    {
-      "id": 47741889,
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "link": "https://github.com/halfwhey/claudraband",
-      "score": 43,
-      "author": "halfwhey",
-      "created": "2026-04-12 16:55:20",
-      "created_at": 1776012920000
-    },
-    {
-      "id": 47742200,
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "link": "https://boringbar.app/",
-      "score": 156,
-      "author": "a-ve",
-      "created": "2026-04-12 17:25:44",
-      "created_at": 1776014744000
-    },
-    {
-      "id": 47719490,
-      "title": "I gave every train in New York an instrument",
-      "link": "https://www.trainjazz.com/",
-      "score": 120,
-      "author": "joshuawolk",
-      "created": "2026-04-10 15:21:07",
-      "created_at": 1775834467000
-    },
-    {
       "id": 47741701,
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 55,
+      "score": 243,
       "author": "_Microft",
       "created": "2026-04-12 16:38:43",
       "created_at": 1776011923000
     },
     {
+      "id": 47741527,
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "link": "",
+      "score": 126,
+      "author": "david927",
+      "created": "2026-04-12 16:24:43",
+      "created_at": 1776011083000
+    },
+    {
+      "id": 47745284,
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "score": 39,
+      "author": "mindcrime",
+      "created": "2026-04-12 22:38:45",
+      "created_at": 1776033525000
+    },
+    {
+      "id": 47702887,
+      "title": "Most people can't juggle one ball",
+      "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "score": 233,
+      "author": "surprisetalk",
+      "created": "2026-04-09 12:35:20",
+      "created_at": 1775738120000
+    },
+    {
+      "id": 47744540,
+      "title": "A Perfectable Programming Language",
+      "link": "https://alok.github.io/lean-pages/perfectable-lean/",
+      "score": 44,
+      "author": "yuppiemephisto",
+      "created": "2026-04-12 21:11:24",
+      "created_at": 1776028284000
+    },
+    {
+      "id": 47719490,
+      "title": "I gave every train in New York an instrument",
+      "link": "https://www.trainjazz.com/",
+      "score": 202,
+      "author": "joshuawolk",
+      "created": "2026-04-10 15:21:07",
+      "created_at": 1775834467000
+    },
+    {
+      "id": 47743730,
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "score": 292,
+      "author": "super256",
+      "created": "2026-04-12 19:53:08",
+      "created_at": 1776023588000
+    },
+    {
       "id": 47739174,
       "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
       "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 128,
+      "score": 162,
       "author": "Rochus",
       "created": "2026-04-12 13:06:44",
       "created_at": 1775999204000
     },
     {
       "id": 47743628,
-      "title": "The Peril of Laziness Lost",
+      "title": "The peril of laziness lost",
       "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 15,
+      "score": 307,
       "author": "gpm",
       "created": "2026-04-12 19:44:40",
       "created_at": 1776023080000
