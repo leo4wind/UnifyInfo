@@ -3,59 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-13T06:08:04.701Z"
+    "lastUpdate": "2026-04-13T09:26:18.348Z"
   },
   "data": [
     {
       "id": 47746610,
       "title": "All elementary functions from a single binary operator",
       "link": "https://arxiv.org/abs/2603.21852",
-      "score": 199,
+      "score": 361,
       "author": "pizza",
       "created": "2026-04-13 01:49:32",
       "created_at": 1776044972000
     },
     {
-      "id": 47747248,
-      "title": "Haunt, the 70s text adventure game, is now playable on a website",
-      "link": "https://haunt.madebywindmill.com",
-      "score": 42,
-      "author": "jscalo",
-      "created": "2026-04-13 03:31:02",
-      "created_at": 1776051062000
+      "id": 47748064,
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "score": 121,
+      "author": "kiyanwang",
+      "created": "2026-04-13 05:45:32",
+      "created_at": 1776059132000
     },
     {
       "id": 47745284,
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 122,
+      "score": 161,
       "author": "mindcrime",
       "created": "2026-04-12 22:38:45",
       "created_at": 1776033525000
     },
     {
-      "id": 47737542,
-      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "link": "https://arxiv.org/abs/2604.07902",
-      "score": 51,
-      "author": "mpweiher",
-      "created": "2026-04-12 09:14:30",
-      "created_at": 1775985270000
-    },
-    {
-      "id": 47742200,
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "link": "https://boringbar.app/",
-      "score": 310,
-      "author": "a-ve",
-      "created": "2026-04-12 17:25:44",
-      "created_at": 1776014744000
-    },
-    {
       "id": 47738827,
       "title": "Bring Back Idiomatic Design (2023)",
       "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 509,
+      "score": 555,
       "author": "phil294",
       "created": "2026-04-12 12:21:26",
       "created_at": 1775996486000
@@ -64,25 +46,43 @@
       "id": 47741701,
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 340,
+      "score": 432,
       "author": "_Microft",
       "created": "2026-04-12 16:38:43",
       "created_at": 1776011923000
     },
     {
+      "id": 47742200,
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "link": "https://boringbar.app/",
+      "score": 365,
+      "author": "a-ve",
+      "created": "2026-04-12 17:25:44",
+      "created_at": 1776014744000
+    },
+    {
+      "id": 47737542,
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "link": "https://arxiv.org/abs/2604.07902",
+      "score": 75,
+      "author": "mpweiher",
+      "created": "2026-04-12 09:14:30",
+      "created_at": 1775985270000
+    },
+    {
       "id": 47741527,
       "title": "Ask HN: What Are You Working On? (April 2026)",
       "link": "",
-      "score": 181,
+      "score": 217,
       "author": "david927",
       "created": "2026-04-12 16:24:43",
       "created_at": 1776011083000
     },
     {
       "id": 47744540,
-      "title": "A Perfectable Programming Language",
+      "title": "A perfectable programming language",
       "link": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "score": 96,
+      "score": 123,
       "author": "yuppiemephisto",
       "created": "2026-04-12 21:11:24",
       "created_at": 1776028284000
@@ -91,7 +91,7 @@
       "id": 47702887,
       "title": "Most people can't juggle one ball",
       "link": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 300,
+      "score": 350,
       "author": "surprisetalk",
       "created": "2026-04-09 12:35:20",
       "created_at": 1775738120000
