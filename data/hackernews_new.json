@@ -3,59 +3,77 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-13T20:41:50.979Z"
+    "lastUpdate": "2026-04-14T01:26:58.786Z"
   },
   "data": [
     {
       "id": 47755629,
-      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 363,
+      "score": 672,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
     },
     {
+      "id": 47759709,
+      "title": "Lean proved this program correct; then I found a bug",
+      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 54,
+      "author": "bumbledraven",
+      "created": "2026-04-14 00:25:08",
+      "created_at": 1776126308000
+    },
+    {
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "score": 403,
+      "author": "ezekg",
+      "created": "2026-04-13 20:36:49",
+      "created_at": 1776112609000
+    },
+    {
+      "id": 47759341,
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "link": "https://github.com/fabienmillet/WiiFin",
+      "score": 39,
+      "author": "throwawayk7h",
+      "created": "2026-04-13 23:33:18",
+      "created_at": 1776123198000
+    },
+    {
       "id": 47753472,
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 298,
+      "score": 353,
       "author": "m-hodges",
       "created": "2026-04-13 15:31:06",
       "created_at": 1776094266000
     },
     {
-      "id": 47754379,
-      "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "link": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "score": 222,
-      "author": "aphyr",
-      "created": "2026-04-13 16:23:09",
-      "created_at": 1776097389000
-    },
-    {
       "id": 47756321,
       "title": "How to make Firefox builds 17% faster",
       "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 62,
+      "score": 133,
       "author": "mbitsnbites",
       "created": "2026-04-13 18:50:08",
       "created_at": 1776106208000
     },
     {
-      "id": 47753689,
-      "title": "Building a CLI for All of Cloudflare",
-      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 198,
-      "author": "soheilpro",
-      "created": "2026-04-13 15:44:02",
-      "created_at": 1776095042000
+      "id": 47756772,
+      "title": "(AMD) Build AI Agents That Run Locally",
+      "link": "https://amd-gaia.ai/docs",
+      "score": 93,
+      "author": "galaxyLogic",
+      "created": "2026-04-13 19:28:41",
+      "created_at": 1776108521000
     },
     {
       "id": 47729694,
       "title": "An Introduction to Obsidian",
       "link": "https://bryanhogan.com/blog/obsidian-introduction",
-      "score": 34,
+      "score": 143,
       "author": "bryanhogan",
       "created": "2026-04-11 11:35:02",
       "created_at": 1775907302000
@@ -64,37 +82,19 @@
       "id": 47750872,
       "title": "Servo is now available on crates.io",
       "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 350,
+      "score": 418,
       "author": "ffin",
       "created": "2026-04-13 12:12:22",
       "created_at": 1776082342000
     },
     {
-      "id": 47756569,
-      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-      "link": "https://www.ithihasas.in",
-      "score": 39,
-      "author": "cvrajeesh",
-      "created": "2026-04-13 19:10:07",
-      "created_at": 1776107407000
-    },
-    {
-      "id": 47756036,
-      "title": "Visualizing CPU Pipelining (2024)",
-      "link": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-      "score": 22,
-      "author": "flipacholas",
-      "created": "2026-04-13 18:26:40",
-      "created_at": 1776104800000
-    },
-    {
-      "id": 47743728,
-      "title": "Tracking down a 25% Regression on LLVM RISC-V",
-      "link": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-      "score": 63,
-      "author": "luu",
-      "created": "2026-04-12 19:52:58",
-      "created_at": 1776023578000
+      "id": 47753689,
+      "title": "Building a CLI for All of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "score": 257,
+      "author": "soheilpro",
+      "created": "2026-04-13 15:44:02",
+      "created_at": 1776095042000
     }
   ],
   "code": 200,
