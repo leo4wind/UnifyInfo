@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-14T13:00:20.925Z"
+    "lastUpdate": "2026-04-14T16:54:33.241Z"
   },
   "data": [
-    {
-      "id": 47738883,
-      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-      "link": "",
-      "score": 1118,
-      "author": "littlecranky67",
-      "created": "2026-04-12 12:28:57",
-      "created_at": 1775996937000
-    },
     {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 1027,
+      "score": 1103,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
     },
     {
-      "id": 47746610,
-      "title": "All elementary functions from a single binary operator",
-      "link": "https://arxiv.org/abs/2603.21852",
-      "score": 821,
-      "author": "pizza",
-      "created": "2026-04-13 01:49:32",
-      "created_at": 1776044972000
-    },
-    {
-      "id": 47757495,
-      "title": "GitHub Stacked PRs",
-      "link": "https://github.github.com/gh-stack/",
-      "score": 767,
-      "author": "ezekg",
-      "created": "2026-04-13 20:36:49",
-      "created_at": 1776112609000
-    },
-    {
-      "id": 47739260,
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "link": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 735,
-      "author": "cmaster11",
-      "created": "2026-04-12 13:15:31",
-      "created_at": 1775999731000
-    },
-    {
       "id": 47760529,
       "title": "DaVinci Resolve – Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 718,
+      "score": 908,
       "author": "thebiblelover7",
       "created": "2026-04-14 02:25:15",
       "created_at": 1776133515000
     },
     {
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "score": 842,
+      "author": "ezekg",
+      "created": "2026-04-13 20:36:49",
+      "created_at": 1776112609000
+    },
+    {
+      "id": 47746610,
+      "title": "All elementary functions from a single binary operator",
+      "link": "https://arxiv.org/abs/2603.21852",
+      "score": 828,
+      "author": "pizza",
+      "created": "2026-04-13 01:49:32",
+      "created_at": 1776044972000
+    },
+    {
       "id": 47741701,
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 712,
+      "score": 720,
       "author": "_Microft",
       "created": "2026-04-12 16:38:43",
       "created_at": 1776011923000
     },
     {
-      "id": 47738827,
-      "title": "Bring Back Idiomatic Design (2023)",
-      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 677,
-      "author": "phil294",
-      "created": "2026-04-12 12:21:26",
-      "created_at": 1775996486000
+      "id": 47760764,
+      "title": "A new spam policy for “back button hijacking”",
+      "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "score": 674,
+      "author": "zdw",
+      "created": "2026-04-14 03:06:27",
+      "created_at": 1776135987000
     },
     {
-      "id": 47739313,
-      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-      "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 656,
-      "author": "mpweiher",
-      "created": "2026-04-12 13:21:39",
-      "created_at": 1776000099000
+      "id": 47762864,
+      "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+      "link": "https://rareese.com/posts/backblaze/",
+      "score": 670,
+      "author": "rrreese",
+      "created": "2026-04-14 08:30:27",
+      "created_at": 1776155427000
     },
     {
       "id": 47743730,
       "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
       "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "score": 514,
+      "score": 518,
       "author": "super256",
       "created": "2026-04-12 19:53:08",
       "created_at": 1776023588000
+    },
+    {
+      "id": 47742200,
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "link": "https://boringbar.app/",
+      "score": 510,
+      "author": "a-ve",
+      "created": "2026-04-12 17:25:44",
+      "created_at": 1776014744000
+    },
+    {
+      "id": 47743628,
+      "title": "The peril of laziness lost",
+      "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "score": 465,
+      "author": "gpm",
+      "created": "2026-04-12 19:44:40",
+      "created_at": 1776023080000
     }
   ],
   "code": 200,

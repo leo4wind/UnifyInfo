@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-14T13:00:21.136Z"
+    "lastUpdate": "2026-04-14T16:54:33.375Z"
   },
   "data": [
     {
-      "id": 47763759,
-      "title": "What is jj and why should I care?",
-      "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-      "score": 93,
-      "author": "tigerlily",
-      "created": "2026-04-14 10:33:39",
-      "created_at": 1776162819000
+      "id": 47765604,
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "score": 200,
+      "author": "jrm-veris",
+      "created": "2026-04-14 13:46:31",
+      "created_at": 1776174391000
+    },
+    {
+      "id": 47767676,
+      "title": "5NF and Database Design",
+      "link": "https://kb.databasedesignbook.com/posts/5nf/",
+      "score": 17,
+      "author": "petalmind",
+      "created": "2026-04-14 16:22:49",
+      "created_at": 1776183769000
     },
     {
       "id": 47760529,
       "title": "DaVinci Resolve – Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 718,
+      "score": 908,
       "author": "thebiblelover7",
       "created": "2026-04-14 02:25:15",
       "created_at": 1776133515000
     },
     {
-      "id": 47764098,
-      "title": "NimConf 2026: Dates Announced, Registrations Open",
-      "link": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
-      "score": 33,
-      "author": "moigagoo",
-      "created": "2026-04-14 11:19:10",
-      "created_at": 1776165550000
-    },
-    {
       "id": 47760764,
       "title": "A new spam policy for “back button hijacking”",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 490,
+      "score": 674,
       "author": "zdw",
       "created": "2026-04-14 03:06:27",
       "created_at": 1776135987000
     },
     {
+      "id": 47758870,
+      "title": "Let's Talk Space Toilets",
+      "link": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+      "score": 14,
+      "author": "zdw",
+      "created": "2026-04-13 22:41:19",
+      "created_at": 1776120079000
+    },
+    {
+      "id": 47766370,
+      "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+      "link": "https://github.com/ginlix-ai/langalpha",
+      "score": 14,
+      "author": "zc2610",
+      "created": "2026-04-14 14:48:46",
+      "created_at": 1776178126000
+    },
+    {
+      "id": 47765374,
+      "title": "Show HN: Kontext CLI – Credential broker for AI coding agents in Go",
+      "link": "https://github.com/kontext-dev/kontext-cli",
+      "score": 30,
+      "author": "mc-serious",
+      "created": "2026-04-14 13:26:53",
+      "created_at": 1776173213000
+    },
+    {
+      "id": 47763759,
+      "title": "jj – the CLI for Jujutsu",
+      "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "score": 364,
+      "author": "tigerlily",
+      "created": "2026-04-14 10:33:39",
+      "created_at": 1776162819000
+    },
+    {
       "id": 47762864,
-      "title": "Backblaze has stopped backing up your data",
+      "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
       "link": "https://rareese.com/posts/backblaze/",
-      "score": 330,
+      "score": 670,
       "author": "rrreese",
       "created": "2026-04-14 08:30:27",
       "created_at": 1776155427000
     },
     {
-      "id": 47755629,
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 1027,
-      "author": "speckx",
-      "created": "2026-04-13 17:54:39",
-      "created_at": 1776102879000
-    },
-    {
-      "id": 47762641,
-      "title": "Introspective Diffusion Language Models",
-      "link": "https://introspective-diffusion.github.io/",
-      "score": 96,
-      "author": "zagwdt",
-      "created": "2026-04-14 07:57:33",
-      "created_at": 1776153453000
-    },
-    {
-      "id": 47757495,
-      "title": "GitHub Stacked PRs",
-      "link": "https://github.github.com/gh-stack/",
-      "score": 767,
-      "author": "ezekg",
-      "created": "2026-04-13 20:36:49",
-      "created_at": 1776112609000
-    },
-    {
-      "id": 47722629,
-      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
-      "link": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
-      "score": 48,
-      "author": "rfarley04",
-      "created": "2026-04-10 19:33:08",
-      "created_at": 1775849588000
-    },
-    {
-      "id": 47764215,
-      "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
-      "link": "",
-      "score": 67,
-      "author": "barratia",
-      "created": "2026-04-14 11:31:19",
-      "created_at": 1776166279000
+      "id": 47766550,
+      "title": "The future of everything is lies, I guess: Work",
+      "link": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+      "score": 145,
+      "author": "aphyr",
+      "created": "2026-04-14 15:00:45",
+      "created_at": 1776178845000
     }
   ],
   "code": 200,
