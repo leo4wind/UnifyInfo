@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-14T09:08:42.892Z"
+    "lastUpdate": "2026-04-14T13:00:21.136Z"
   },
   "data": [
     {
-      "id": 47762901,
-      "title": "An AI Vibe Coding Horror Story",
-      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "score": 30,
-      "author": "teichmann",
-      "created": "2026-04-14 08:35:45",
-      "created_at": 1776155745000
+      "id": 47763759,
+      "title": "What is jj and why should I care?",
+      "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "score": 93,
+      "author": "tigerlily",
+      "created": "2026-04-14 10:33:39",
+      "created_at": 1776162819000
     },
     {
       "id": 47760529,
       "title": "DaVinci Resolve – Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 528,
+      "score": 718,
       "author": "thebiblelover7",
       "created": "2026-04-14 02:25:15",
       "created_at": 1776133515000
     },
     {
+      "id": 47764098,
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "link": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "score": 33,
+      "author": "moigagoo",
+      "created": "2026-04-14 11:19:10",
+      "created_at": 1776165550000
+    },
+    {
       "id": 47760764,
       "title": "A new spam policy for “back button hijacking”",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 325,
+      "score": 490,
       "author": "zdw",
       "created": "2026-04-14 03:06:27",
       "created_at": 1776135987000
     },
     {
-      "id": 47762641,
-      "title": "Introspective Diffusion Language Models",
-      "link": "https://introspective-diffusion.github.io/",
-      "score": 22,
-      "author": "zagwdt",
-      "created": "2026-04-14 07:57:33",
-      "created_at": 1776153453000
+      "id": 47762864,
+      "title": "Backblaze has stopped backing up your data",
+      "link": "https://rareese.com/posts/backblaze/",
+      "score": 330,
+      "author": "rrreese",
+      "created": "2026-04-14 08:30:27",
+      "created_at": 1776155427000
     },
     {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 928,
+      "score": 1027,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
     },
     {
+      "id": 47762641,
+      "title": "Introspective Diffusion Language Models",
+      "link": "https://introspective-diffusion.github.io/",
+      "score": 96,
+      "author": "zagwdt",
+      "created": "2026-04-14 07:57:33",
+      "created_at": 1776153453000
+    },
+    {
       "id": 47757495,
       "title": "GitHub Stacked PRs",
       "link": "https://github.github.com/gh-stack/",
-      "score": 704,
+      "score": 767,
       "author": "ezekg",
       "created": "2026-04-13 20:36:49",
       "created_at": 1776112609000
     },
     {
-      "id": 47761609,
-      "title": "TanStack Start Now Support React Server Components",
-      "link": "https://tanstack.com/blog/react-server-components",
-      "score": 53,
-      "author": "polywock",
-      "created": "2026-04-14 05:28:51",
-      "created_at": 1776144531000
+      "id": 47722629,
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "link": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+      "score": 48,
+      "author": "rfarley04",
+      "created": "2026-04-10 19:33:08",
+      "created_at": 1775849588000
     },
     {
-      "id": 47762060,
-      "title": "The secrets of the Shinkansen",
-      "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "score": 63,
-      "author": "WillDaSilva",
-      "created": "2026-04-14 06:41:01",
-      "created_at": 1776148861000
-    },
-    {
-      "id": 47761997,
-      "title": "Distributed DuckDB Instance",
-      "link": "https://github.com/citguru/openduck",
-      "score": 44,
-      "author": "citguru",
-      "created": "2026-04-14 06:31:44",
-      "created_at": 1776148304000
-    },
-    {
-      "id": 47759709,
-      "title": "Lean proved this program correct; then I found a bug",
-      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 241,
-      "author": "bumbledraven",
-      "created": "2026-04-14 00:25:08",
-      "created_at": 1776126308000
+      "id": 47764215,
+      "title": "Ask HN: I quit my job over weaponized robots to start my own venture",
+      "link": "",
+      "score": 67,
+      "author": "barratia",
+      "created": "2026-04-14 11:31:19",
+      "created_at": 1776166279000
     }
   ],
   "code": 200,
