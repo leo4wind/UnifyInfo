@@ -3,32 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-14T05:54:48.476Z"
+    "lastUpdate": "2026-04-14T09:08:42.892Z"
   },
   "data": [
     {
+      "id": 47762901,
+      "title": "An AI Vibe Coding Horror Story",
+      "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+      "score": 30,
+      "author": "teichmann",
+      "created": "2026-04-14 08:35:45",
+      "created_at": 1776155745000
+    },
+    {
       "id": 47760529,
-      "title": "DaVinci Resolve releases Photo Editor",
+      "title": "DaVinci Resolve – Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 263,
+      "score": 528,
       "author": "thebiblelover7",
       "created": "2026-04-14 02:25:15",
       "created_at": 1776133515000
     },
     {
       "id": 47760764,
-      "title": "A new spam policy for \"back button hijacking\"",
+      "title": "A new spam policy for “back button hijacking”",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 148,
+      "score": 325,
       "author": "zdw",
       "created": "2026-04-14 03:06:27",
       "created_at": 1776135987000
     },
     {
+      "id": 47762641,
+      "title": "Introspective Diffusion Language Models",
+      "link": "https://introspective-diffusion.github.io/",
+      "score": 22,
+      "author": "zagwdt",
+      "created": "2026-04-14 07:57:33",
+      "created_at": 1776153453000
+    },
+    {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 836,
+      "score": 928,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
@@ -37,64 +55,46 @@
       "id": 47757495,
       "title": "GitHub Stacked PRs",
       "link": "https://github.github.com/gh-stack/",
-      "score": 601,
+      "score": 704,
       "author": "ezekg",
       "created": "2026-04-13 20:36:49",
       "created_at": 1776112609000
     },
     {
+      "id": 47761609,
+      "title": "TanStack Start Now Support React Server Components",
+      "link": "https://tanstack.com/blog/react-server-components",
+      "score": 53,
+      "author": "polywock",
+      "created": "2026-04-14 05:28:51",
+      "created_at": 1776144531000
+    },
+    {
+      "id": 47762060,
+      "title": "The secrets of the Shinkansen",
+      "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+      "score": 63,
+      "author": "WillDaSilva",
+      "created": "2026-04-14 06:41:01",
+      "created_at": 1776148861000
+    },
+    {
+      "id": 47761997,
+      "title": "Distributed DuckDB Instance",
+      "link": "https://github.com/citguru/openduck",
+      "score": 44,
+      "author": "citguru",
+      "created": "2026-04-14 06:31:44",
+      "created_at": 1776148304000
+    },
+    {
       "id": 47759709,
       "title": "Lean proved this program correct; then I found a bug",
       "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 184,
+      "score": 241,
       "author": "bumbledraven",
       "created": "2026-04-14 00:25:08",
       "created_at": 1776126308000
-    },
-    {
-      "id": 47760750,
-      "title": "Sometimes powerful people just do dumb shit",
-      "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-      "score": 51,
-      "author": "zdw",
-      "created": "2026-04-14 03:04:20",
-      "created_at": 1776135860000
-    },
-    {
-      "id": 47759341,
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "link": "https://github.com/fabienmillet/WiiFin",
-      "score": 118,
-      "author": "throwawayk7h",
-      "created": "2026-04-13 23:33:18",
-      "created_at": 1776123198000
-    },
-    {
-      "id": 47716805,
-      "title": "Anastasia (1997) live action reference material",
-      "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
-      "score": 13,
-      "author": "hyperific",
-      "created": "2026-04-10 12:03:16",
-      "created_at": 1775822596000
-    },
-    {
-      "id": 47715389,
-      "title": "I shipped a transaction bug, so I built a linter",
-      "link": "https://leonh.fr/posts/go-transaction-linter/",
-      "score": 24,
-      "author": "leonhfr",
-      "created": "2026-04-10 09:01:05",
-      "created_at": 1775811665000
-    },
-    {
-      "id": 47718284,
-      "title": "Design and implementation of DuckDB internals",
-      "link": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "score": 85,
-      "author": "mpweiher",
-      "created": "2026-04-10 13:59:26",
-      "created_at": 1775829566000
     }
   ],
   "code": 200,
