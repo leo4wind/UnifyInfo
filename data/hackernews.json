@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-14T01:26:58.562Z"
+    "lastUpdate": "2026-04-14T05:54:48.189Z"
   },
   "data": [
     {
       "id": 47738883,
       "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
       "link": "",
-      "score": 1104,
+      "score": 1108,
       "author": "littlecranky67",
       "created": "2026-04-12 12:28:57",
       "created_at": 1775996937000
@@ -19,16 +19,25 @@
       "id": 47736555,
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 936,
+      "score": 940,
       "author": "tradertef",
       "created": "2026-04-12 06:00:00",
       "created_at": 1775973600000
     },
     {
+      "id": 47755629,
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "score": 836,
+      "author": "speckx",
+      "created": "2026-04-13 17:54:39",
+      "created_at": 1776102879000
+    },
+    {
       "id": 47746610,
       "title": "All elementary functions from a single binary operator",
       "link": "https://arxiv.org/abs/2603.21852",
-      "score": 796,
+      "score": 810,
       "author": "pizza",
       "created": "2026-04-13 01:49:32",
       "created_at": 1776044972000
@@ -37,7 +46,7 @@
       "id": 47739260,
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "link": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 725,
+      "score": 730,
       "author": "cmaster11",
       "created": "2026-04-12 13:15:31",
       "created_at": 1775999731000
@@ -46,7 +55,7 @@
       "id": 47741701,
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks/",
-      "score": 702,
+      "score": 710,
       "author": "_Microft",
       "created": "2026-04-12 16:38:43",
       "created_at": 1776011923000
@@ -61,40 +70,31 @@
       "created_at": 1775996486000
     },
     {
-      "id": 47755629,
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 672,
-      "author": "speckx",
-      "created": "2026-04-13 17:54:39",
-      "created_at": 1776102879000
-    },
-    {
       "id": 47739313,
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 648,
+      "score": 652,
       "author": "mpweiher",
       "created": "2026-04-12 13:21:39",
       "created_at": 1776000099000
     },
     {
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "score": 601,
+      "author": "ezekg",
+      "created": "2026-04-13 20:36:49",
+      "created_at": 1776112609000
+    },
+    {
       "id": 47736476,
       "title": "Anthropic downgraded cache TTL on March 6th",
       "link": "https://github.com/anthropics/claude-code/issues/46829",
-      "score": 542,
+      "score": 545,
       "author": "lsdmtme",
       "created": "2026-04-12 05:45:52",
       "created_at": 1775972752000
-    },
-    {
-      "id": 47743730,
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "score": 509,
-      "author": "super256",
-      "created": "2026-04-12 19:53:08",
-      "created_at": 1776023588000
     }
   ],
   "code": 200,

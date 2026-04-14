@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-14T01:26:58.786Z"
+    "lastUpdate": "2026-04-14T05:54:48.525Z"
   },
   "data": [
+    {
+      "id": 47760529,
+      "title": "DaVinci Resolve releases Photo Editor",
+      "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 263,
+      "author": "thebiblelover7",
+      "created": "2026-04-14 02:25:15",
+      "created_at": 1776133515000
+    },
+    {
+      "id": 47760764,
+      "title": "A new spam policy for \"back button hijacking\"",
+      "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "score": 148,
+      "author": "zdw",
+      "created": "2026-04-14 03:06:27",
+      "created_at": 1776135987000
+    },
     {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 672,
+      "score": 836,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
     },
     {
-      "id": 47759709,
-      "title": "Lean proved this program correct; then I found a bug",
-      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 54,
-      "author": "bumbledraven",
-      "created": "2026-04-14 00:25:08",
-      "created_at": 1776126308000
-    },
-    {
       "id": 47757495,
       "title": "GitHub Stacked PRs",
       "link": "https://github.github.com/gh-stack/",
-      "score": 403,
+      "score": 601,
       "author": "ezekg",
       "created": "2026-04-13 20:36:49",
       "created_at": 1776112609000
     },
     {
+      "id": 47759709,
+      "title": "Lean proved this program correct; then I found a bug",
+      "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 184,
+      "author": "bumbledraven",
+      "created": "2026-04-14 00:25:08",
+      "created_at": 1776126308000
+    },
+    {
+      "id": 47760750,
+      "title": "Sometimes powerful people just do dumb shit",
+      "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "score": 51,
+      "author": "zdw",
+      "created": "2026-04-14 03:04:20",
+      "created_at": 1776135860000
+    },
+    {
       "id": 47759341,
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
       "link": "https://github.com/fabienmillet/WiiFin",
-      "score": 39,
+      "score": 118,
       "author": "throwawayk7h",
       "created": "2026-04-13 23:33:18",
       "created_at": 1776123198000
     },
     {
-      "id": 47753472,
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 353,
-      "author": "m-hodges",
-      "created": "2026-04-13 15:31:06",
-      "created_at": 1776094266000
+      "id": 47716805,
+      "title": "Anastasia (1997) live action reference material",
+      "link": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "score": 13,
+      "author": "hyperific",
+      "created": "2026-04-10 12:03:16",
+      "created_at": 1775822596000
     },
     {
-      "id": 47756321,
-      "title": "How to make Firefox builds 17% faster",
-      "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "score": 133,
-      "author": "mbitsnbites",
-      "created": "2026-04-13 18:50:08",
-      "created_at": 1776106208000
+      "id": 47715389,
+      "title": "I shipped a transaction bug, so I built a linter",
+      "link": "https://leonh.fr/posts/go-transaction-linter/",
+      "score": 24,
+      "author": "leonhfr",
+      "created": "2026-04-10 09:01:05",
+      "created_at": 1775811665000
     },
     {
-      "id": 47756772,
-      "title": "(AMD) Build AI Agents That Run Locally",
-      "link": "https://amd-gaia.ai/docs",
-      "score": 93,
-      "author": "galaxyLogic",
-      "created": "2026-04-13 19:28:41",
-      "created_at": 1776108521000
-    },
-    {
-      "id": 47729694,
-      "title": "An Introduction to Obsidian",
-      "link": "https://bryanhogan.com/blog/obsidian-introduction",
-      "score": 143,
-      "author": "bryanhogan",
-      "created": "2026-04-11 11:35:02",
-      "created_at": 1775907302000
-    },
-    {
-      "id": 47750872,
-      "title": "Servo is now available on crates.io",
-      "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 418,
-      "author": "ffin",
-      "created": "2026-04-13 12:12:22",
-      "created_at": 1776082342000
-    },
-    {
-      "id": 47753689,
-      "title": "Building a CLI for All of Cloudflare",
-      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 257,
-      "author": "soheilpro",
-      "created": "2026-04-13 15:44:02",
-      "created_at": 1776095042000
+      "id": 47718284,
+      "title": "Design and implementation of DuckDB internals",
+      "link": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "score": 85,
+      "author": "mpweiher",
+      "created": "2026-04-10 13:59:26",
+      "created_at": 1775829566000
     }
   ],
   "code": 200,
