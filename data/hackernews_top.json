@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-15T12:59:46.789Z"
+    "lastUpdate": "2026-04-15T16:52:52.331Z"
   },
   "data": [
+    {
+      "id": 47778475,
+      "title": "God Sleeps in the Minerals",
+      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "score": 245,
+      "author": "speckx",
+      "created": "2026-04-15 13:08:10",
+      "created_at": 1776258490000
+    },
+    {
+      "id": 47780712,
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "link": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "score": 82,
+      "author": "bearsyankees",
+      "created": "2026-04-15 15:43:37",
+      "created_at": 1776267817000
+    },
     {
       "id": 47776796,
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "link": "https://prog21.dadgum.com/30.html",
-      "score": 171,
+      "score": 336,
       "author": "downbad_",
       "created": "2026-04-15 09:41:19",
       "created_at": 1776246079000
@@ -19,73 +37,64 @@
       "id": 47776557,
       "title": "Good Sleep, Good Learning (2012)",
       "link": "https://super-memory.com/articles/sleep.htm",
-      "score": 115,
+      "score": 243,
       "author": "downbad_",
       "created": "2026-04-15 09:11:18",
       "created_at": 1776244278000
     },
     {
+      "id": 47778758,
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "link": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+      "score": 156,
+      "author": "aphyr",
+      "created": "2026-04-15 13:34:11",
+      "created_at": 1776260051000
+    },
+    {
+      "id": 47729507,
+      "title": "How do Wake-On-LAN works",
+      "link": "https://blog.xaner.dev/post/wake-on-lan/",
+      "score": 9,
+      "author": "swq115",
+      "created": "2026-04-11 11:03:58",
+      "created_at": 1775905438000
+    },
+    {
+      "id": 47779094,
+      "title": "Gemini Robotics-ER 1.6",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "score": 109,
+      "author": "markerbrod",
+      "created": "2026-04-15 14:02:31",
+      "created_at": 1776261751000
+    },
+    {
+      "id": 47720926,
+      "title": "Forcing an inversion of control on the SaaS stack",
+      "link": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
+      "score": 14,
+      "author": "shardullavekar",
+      "created": "2026-04-10 17:01:26",
+      "created_at": 1775840486000
+    },
+    {
       "id": 47740840,
       "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
       "link": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "score": 55,
+      "score": 103,
       "author": "vinnyglennon",
       "created": "2026-04-12 15:26:24",
       "created_at": 1776007584000
     },
     {
-      "id": 47774789,
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 187,
-      "author": "snoofydude",
-      "created": "2026-04-15 04:47:00",
-      "created_at": 1776228420000
-    },
-    {
-      "id": 47768133,
-      "title": "Claude Code Routines",
-      "link": "https://code.claude.com/docs/en/routines",
-      "score": 659,
-      "author": "matthieu_bl",
-      "created": "2026-04-14 16:54:33",
-      "created_at": 1776185673000
-    },
-    {
-      "id": 47774971,
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "score": 93,
-      "author": "takumi123",
-      "created": "2026-04-15 05:19:06",
-      "created_at": 1776230346000
-    },
-    {
-      "id": 47708710,
-      "title": "Metro stop is Ancient Rome's new attraction",
-      "link": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
-      "score": 15,
-      "author": "Stevvo",
-      "created": "2026-04-09 19:39:06",
-      "created_at": 1775763546000
-    },
-    {
-      "id": 47776667,
-      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-      "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
-      "score": 91,
-      "author": "birdculture",
-      "created": "2026-04-15 09:24:31",
-      "created_at": 1776245071000
-    },
-    {
-      "id": 47775628,
-      "title": "Wacli – WhatsApp CLI: sync, search, send",
-      "link": "https://github.com/steipete/wacli",
-      "score": 139,
-      "author": "dinakars777",
-      "created": "2026-04-15 07:04:45",
-      "created_at": 1776236685000
+      "id": 47778086,
+      "title": "Do you even need a database?",
+      "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+      "score": 61,
+      "author": "upmostly",
+      "created": "2026-04-15 12:26:11",
+      "created_at": 1776255971000
     }
   ],
   "code": 200,
