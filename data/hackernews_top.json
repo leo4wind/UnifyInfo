@@ -3,89 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-15T09:09:35.059Z"
+    "lastUpdate": "2026-04-15T12:59:46.789Z"
   },
   "data": [
+    {
+      "id": 47776796,
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "link": "https://prog21.dadgum.com/30.html",
+      "score": 171,
+      "author": "downbad_",
+      "created": "2026-04-15 09:41:19",
+      "created_at": 1776246079000
+    },
+    {
+      "id": 47776557,
+      "title": "Good Sleep, Good Learning (2012)",
+      "link": "https://super-memory.com/articles/sleep.htm",
+      "score": 115,
+      "author": "downbad_",
+      "created": "2026-04-15 09:11:18",
+      "created_at": 1776244278000
+    },
+    {
+      "id": 47740840,
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "link": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "score": 55,
+      "author": "vinnyglennon",
+      "created": "2026-04-12 15:26:24",
+      "created_at": 1776007584000
+    },
     {
       "id": 47774789,
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 112,
+      "score": 187,
       "author": "snoofydude",
       "created": "2026-04-15 04:47:00",
       "created_at": 1776228420000
     },
     {
-      "id": 47739278,
-      "title": "My adventure in designing API keys",
-      "link": "https://vjay15.github.io/blog/apikeys/",
-      "score": 51,
-      "author": "vjay15",
-      "created": "2026-04-12 13:17:45",
-      "created_at": 1775999865000
-    },
-    {
       "id": 47768133,
       "title": "Claude Code Routines",
       "link": "https://code.claude.com/docs/en/routines",
-      "score": 601,
+      "score": 659,
       "author": "matthieu_bl",
       "created": "2026-04-14 16:54:33",
       "created_at": 1776185673000
     },
     {
+      "id": 47774971,
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "score": 93,
+      "author": "takumi123",
+      "created": "2026-04-15 05:19:06",
+      "created_at": 1776230346000
+    },
+    {
+      "id": 47708710,
+      "title": "Metro stop is Ancient Rome's new attraction",
+      "link": "https://www.bbc.com/travel/article/20260408-a-150-metro-ticket-to-ancient-rome",
+      "score": 15,
+      "author": "Stevvo",
+      "created": "2026-04-09 19:39:06",
+      "created_at": 1775763546000
+    },
+    {
+      "id": 47776667,
+      "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+      "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+      "score": 91,
+      "author": "birdculture",
+      "created": "2026-04-15 09:24:31",
+      "created_at": 1776245071000
+    },
+    {
       "id": 47775628,
       "title": "Wacli – WhatsApp CLI: sync, search, send",
       "link": "https://github.com/steipete/wacli",
-      "score": 79,
+      "score": 139,
       "author": "dinakars777",
       "created": "2026-04-15 07:04:45",
       "created_at": 1776236685000
-    },
-    {
-      "id": 47765604,
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 641,
-      "author": "jrm-veris",
-      "created": "2026-04-14 13:46:31",
-      "created_at": 1776174391000
-    },
-    {
-      "id": 47724571,
-      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-      "link": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-      "score": 159,
-      "author": "major4x",
-      "created": "2026-04-10 22:36:24",
-      "created_at": 1775860584000
-    },
-    {
-      "id": 47775653,
-      "title": "My AI-Assisted Workflow",
-      "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-      "score": 15,
-      "author": "maiobarbero",
-      "created": "2026-04-15 07:08:18",
-      "created_at": 1776236898000
-    },
-    {
-      "id": 47728662,
-      "title": "Picasso’s Guernica (Gigapixel)",
-      "link": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-      "score": 127,
-      "author": "guigar",
-      "created": "2026-04-11 08:27:06",
-      "created_at": 1775896026000
-    },
-    {
-      "id": 47773812,
-      "title": "Dependency cooldowns turn you into a free-rider",
-      "link": "https://calpaterson.com/deps.html",
-      "score": 113,
-      "author": "pabs3",
-      "created": "2026-04-15 02:03:12",
-      "created_at": 1776218592000
     }
   ],
   "code": 200,

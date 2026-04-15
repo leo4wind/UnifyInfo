@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-15T09:09:34.763Z"
+    "lastUpdate": "2026-04-15T12:59:46.609Z"
   },
   "data": [
     {
       "id": 47755629,
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 1162,
+      "score": 1167,
       "author": "speckx",
       "created": "2026-04-13 17:54:39",
       "created_at": 1776102879000
@@ -19,7 +19,7 @@
       "id": 47760529,
       "title": "DaVinci Resolve – Photo",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 1097,
+      "score": 1105,
       "author": "thebiblelover7",
       "created": "2026-04-14 02:25:15",
       "created_at": 1776133515000
@@ -28,73 +28,73 @@
       "id": 47762864,
       "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
       "link": "https://rareese.com/posts/backblaze/",
-      "score": 1066,
+      "score": 1077,
       "author": "rrreese",
       "created": "2026-04-14 08:30:27",
       "created_at": 1776155427000
     },
     {
-      "id": 47757495,
-      "title": "GitHub Stacked PRs",
-      "link": "https://github.github.com/gh-stack/",
-      "score": 877,
-      "author": "ezekg",
-      "created": "2026-04-13 20:36:49",
-      "created_at": 1776112609000
-    },
-    {
       "id": 47760764,
       "title": "A new spam policy for “back button hijacking”",
       "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "score": 872,
+      "score": 884,
       "author": "zdw",
       "created": "2026-04-14 03:06:27",
       "created_at": 1776135987000
     },
     {
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "link": "https://github.github.com/gh-stack/",
+      "score": 880,
+      "author": "ezekg",
+      "created": "2026-04-13 20:36:49",
+      "created_at": 1776112609000
+    },
+    {
       "id": 47772012,
       "title": "Stop Flock",
       "link": "https://stopflock.com",
-      "score": 646,
+      "score": 784,
       "author": "cdrnsf",
       "created": "2026-04-14 21:56:05",
       "created_at": 1776203765000
     },
     {
-      "id": 47765604,
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 641,
-      "author": "jrm-veris",
-      "created": "2026-04-14 13:46:31",
-      "created_at": 1776174391000
-    },
-    {
       "id": 47769796,
       "title": "Tell HN: Fiverr left customer files public and searchable",
       "link": "",
-      "score": 635,
+      "score": 734,
       "author": "morpheuskafka",
       "created": "2026-04-14 18:56:40",
       "created_at": 1776193000000
     },
     {
-      "id": 47768813,
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "link": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "score": 609,
-      "author": "speckx",
-      "created": "2026-04-14 17:47:00",
-      "created_at": 1776188820000
+      "id": 47765604,
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "score": 667,
+      "author": "jrm-veris",
+      "created": "2026-04-14 13:46:31",
+      "created_at": 1776174391000
     },
     {
       "id": 47768133,
       "title": "Claude Code Routines",
       "link": "https://code.claude.com/docs/en/routines",
-      "score": 601,
+      "score": 659,
       "author": "matthieu_bl",
       "created": "2026-04-14 16:54:33",
       "created_at": 1776185673000
+    },
+    {
+      "id": 47768813,
+      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "link": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+      "score": 624,
+      "author": "speckx",
+      "created": "2026-04-14 17:47:00",
+      "created_at": 1776188820000
     }
   ],
   "code": 200,
