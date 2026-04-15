@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-15T16:52:52.388Z"
+    "lastUpdate": "2026-04-15T20:37:52.586Z"
   },
   "data": [
     {
+      "id": 47782570,
+      "title": "Google broke its promise to me – now ICE has my data",
+      "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 637,
+      "author": "Brajeshwar",
+      "created": "2026-04-15 17:44:26",
+      "created_at": 1776275066000
+    },
+    {
       "id": 47778475,
-      "title": "God Sleeps in the Minerals",
+      "title": "God sleeps in the minerals",
       "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 245,
+      "score": 379,
       "author": "speckx",
       "created": "2026-04-15 13:08:10",
       "created_at": 1776258490000
     },
     {
-      "id": 47780712,
-      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
-      "link": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "score": 82,
-      "author": "bearsyankees",
-      "created": "2026-04-15 15:43:37",
-      "created_at": 1776267817000
+      "id": 47783713,
+      "title": "Live Nation Illegally Monopolized Ticketing Market, Jury Finds",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "score": 125,
+      "author": "Alex_Bond",
+      "created": "2026-04-15 19:06:39",
+      "created_at": 1776279999000
+    },
+    {
+      "id": 47784244,
+      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "score": 7,
+      "author": "gregsadetsky",
+      "created": "2026-04-15 19:45:47",
+      "created_at": 1776282347000
+    },
+    {
+      "id": 47738081,
+      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+      "link": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+      "score": 73,
+      "author": "cyclopeanutopia",
+      "created": "2026-04-12 10:27:08",
+      "created_at": 1775989628000
+    },
+    {
+      "id": 47783024,
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "score": 200,
+      "author": "i5heu",
+      "created": "2026-04-15 18:16:50",
+      "created_at": 1776277010000
+    },
+    {
+      "id": 47784045,
+      "title": "Flock employees caught watching kids gymnastic class and pools",
+      "link": "https://substack.com/home/post/p-193593234",
+      "score": 77,
+      "author": "enaaem",
+      "created": "2026-04-15 19:30:52",
+      "created_at": 1776281452000
     },
     {
       "id": 47776796,
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "link": "https://prog21.dadgum.com/30.html",
-      "score": 336,
+      "score": 404,
       "author": "downbad_",
       "created": "2026-04-15 09:41:19",
       "created_at": 1776246079000
     },
     {
-      "id": 47776557,
-      "title": "Good Sleep, Good Learning (2012)",
-      "link": "https://super-memory.com/articles/sleep.htm",
-      "score": 243,
-      "author": "downbad_",
-      "created": "2026-04-15 09:11:18",
-      "created_at": 1776244278000
+      "id": 47780456,
+      "title": "Cal.com is going closed source",
+      "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "score": 106,
+      "author": "Benjamin_Dobell",
+      "created": "2026-04-15 15:26:46",
+      "created_at": 1776266806000
     },
     {
-      "id": 47778758,
-      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
-      "link": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
-      "score": 156,
-      "author": "aphyr",
-      "created": "2026-04-15 13:34:11",
-      "created_at": 1776260051000
-    },
-    {
-      "id": 47729507,
-      "title": "How do Wake-On-LAN works",
-      "link": "https://blog.xaner.dev/post/wake-on-lan/",
-      "score": 9,
-      "author": "swq115",
-      "created": "2026-04-11 11:03:58",
-      "created_at": 1775905438000
-    },
-    {
-      "id": 47779094,
-      "title": "Gemini Robotics-ER 1.6",
-      "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-      "score": 109,
-      "author": "markerbrod",
-      "created": "2026-04-15 14:02:31",
-      "created_at": 1776261751000
-    },
-    {
-      "id": 47720926,
-      "title": "Forcing an inversion of control on the SaaS stack",
-      "link": "https://www.100x.bot/a/client-side-injection-inversion-of-control-saas",
-      "score": 14,
-      "author": "shardullavekar",
-      "created": "2026-04-10 17:01:26",
-      "created_at": 1775840486000
-    },
-    {
-      "id": 47740840,
-      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
-      "link": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "score": 103,
-      "author": "vinnyglennon",
-      "created": "2026-04-12 15:26:24",
-      "created_at": 1776007584000
-    },
-    {
-      "id": 47778086,
-      "title": "Do you even need a database?",
-      "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "score": 61,
-      "author": "upmostly",
-      "created": "2026-04-15 12:26:11",
-      "created_at": 1776255971000
+      "id": 47738420,
+      "title": "Golden eagles' return to English skies gets government backing",
+      "link": "https://www.bbc.co.uk/news/articles/cje4zlxqkqdo",
+      "score": 15,
+      "author": "techterrier",
+      "created": "2026-04-12 11:24:18",
+      "created_at": 1775993058000
     }
   ],
   "code": 200,
