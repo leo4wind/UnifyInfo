@@ -3,50 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-16T17:07:13.631Z"
+    "lastUpdate": "2026-04-16T20:38:34.278Z"
   },
   "data": [
+    {
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 445,
+      "author": "mikeevans",
+      "created": "2026-04-16 17:12:19",
+      "created_at": 1776359539000
+    },
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 685,
+      "score": 1158,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
     },
     {
-      "id": 47794391,
-      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
-      "link": "https://andonlabs.com/blog/andon-market-launch",
-      "score": 70,
-      "author": "lukaspetersson",
-      "created": "2026-04-16 15:13:13",
-      "created_at": 1776352393000
+      "id": 47798258,
+      "title": "German Dog Commands",
+      "link": "https://www.fluentu.com/blog/german/german-dog-commands/",
+      "score": 23,
+      "author": "rolph",
+      "created": "2026-04-16 19:26:03",
+      "created_at": 1776367563000
+    },
+    {
+      "id": 47733059,
+      "title": "PCI Express over Fiber [video]",
+      "link": "https://www.youtube.com/watch?v=XaDa9bBucEI",
+      "score": 80,
+      "author": "mmastrac",
+      "created": "2026-04-11 18:54:58",
+      "created_at": 1775933698000
+    },
+    {
+      "id": 47736331,
+      "title": "TigerBeetle: A Trillion Transactions [video]",
+      "link": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
+      "score": 38,
+      "author": "adityaathalye",
+      "created": "2026-04-12 05:14:52",
+      "created_at": 1775970892000
+    },
+    {
+      "id": 47792538,
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "link": "https://blog.cloudflare.com/ai-platform/",
+      "score": 197,
+      "author": "nikitoci",
+      "created": "2026-04-16 13:17:37",
+      "created_at": 1776345457000
     },
     {
       "id": 47792764,
-      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 470,
+      "score": 731,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
     },
     {
-      "id": 47777894,
-      "title": "IPv6 traffic crosses the 50% mark",
-      "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 658,
-      "author": "Aaronmacaron",
-      "created": "2026-04-15 11:59:49",
-      "created_at": 1776254389000
+      "id": 47796830,
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "score": 123,
+      "author": "simonw",
+      "created": "2026-04-16 17:37:20",
+      "created_at": 1776361040000
     },
     {
       "id": 47794514,
       "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
       "link": "https://www.zatanna.ai/kampala",
-      "score": 26,
+      "score": 52,
       "author": "alexblackwell_",
       "created": "2026-04-16 15:19:54",
       "created_at": 1776352794000
@@ -55,46 +91,10 @@
       "id": 47738520,
       "title": "Put your SSH keys in your TPM chip",
       "link": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
-      "score": 38,
+      "score": 70,
       "author": "type0",
       "created": "2026-04-12 11:38:46",
       "created_at": 1775993926000
-    },
-    {
-      "id": 47792538,
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "link": "https://blog.cloudflare.com/ai-platform/",
-      "score": 106,
-      "author": "nikitoci",
-      "created": "2026-04-16 13:17:37",
-      "created_at": 1776345457000
-    },
-    {
-      "id": 47792718,
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 247,
-      "author": "aphyr",
-      "created": "2026-04-16 13:32:13",
-      "created_at": 1776346333000
-    },
-    {
-      "id": 47792525,
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "link": "https://github.com/SeanFDZ/macmind",
-      "score": 54,
-      "author": "hammer32",
-      "created": "2026-04-16 13:16:29",
-      "created_at": 1776345389000
-    },
-    {
-      "id": 47759035,
-      "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
-      "link": "https://github.com/AgentSeal/codeburn",
-      "score": 8,
-      "author": "agentseal",
-      "created": "2026-04-13 22:57:05",
-      "created_at": 1776121025000
     }
   ],
   "code": 200,

@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-16T17:07:13.506Z"
+    "lastUpdate": "2026-04-16T20:38:34.017Z"
   },
   "data": [
     {
       "id": 47782570,
       "title": "Google broke its promise to me – now ICE has my data",
       "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1631,
+      "score": 1655,
       "author": "Brajeshwar",
       "created": "2026-04-15 17:44:26",
       "created_at": 1776275066000
     },
     {
-      "id": 47772012,
-      "title": "Stop Flock",
-      "link": "https://stopflock.com",
-      "score": 965,
-      "author": "cdrnsf",
-      "created": "2026-04-14 21:56:05",
-      "created_at": 1776203765000
-    },
-    {
-      "id": 47769796,
-      "title": "Tell HN: Fiverr left customer files public and searchable",
-      "link": "",
-      "score": 810,
-      "author": "morpheuskafka",
-      "created": "2026-04-14 18:56:40",
-      "created_at": 1776193000000
-    },
-    {
-      "id": 47768133,
-      "title": "Claude Code Routines",
-      "link": "https://code.claude.com/docs/en/routines",
-      "score": 707,
-      "author": "matthieu_bl",
-      "created": "2026-04-14 16:54:33",
-      "created_at": 1776185673000
-    },
-    {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 685,
+      "score": 1156,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
     },
     {
-      "id": 47768813,
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "link": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "score": 663,
-      "author": "speckx",
-      "created": "2026-04-14 17:47:00",
-      "created_at": 1776188820000
+      "id": 47772012,
+      "title": "Stop Flock",
+      "link": "https://stopflock.com",
+      "score": 970,
+      "author": "cdrnsf",
+      "created": "2026-04-14 21:56:05",
+      "created_at": 1776203765000
+    },
+    {
+      "id": 47792764,
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "score": 731,
+      "author": "cmitsakis",
+      "created": "2026-04-16 13:36:27",
+      "created_at": 1776346587000
     },
     {
       "id": 47777894,
       "title": "IPv6 traffic crosses the 50% mark",
       "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 658,
+      "score": 728,
       "author": "Aaronmacaron",
       "created": "2026-04-15 11:59:49",
       "created_at": 1776254389000
@@ -73,7 +55,7 @@
       "id": 47785738,
       "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
       "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 601,
+      "score": 628,
       "author": "bckygldstn",
       "created": "2026-04-15 21:48:18",
       "created_at": 1776289698000
@@ -82,7 +64,7 @@
       "id": 47783713,
       "title": "Live Nation illegally monopolized ticketing market, jury finds",
       "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "score": 585,
+      "score": 599,
       "author": "Alex_Bond",
       "created": "2026-04-15 19:06:39",
       "created_at": 1776279999000
@@ -91,10 +73,28 @@
       "id": 47788385,
       "title": "The local LLM ecosystem doesn’t need Ollama",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "score": 574,
+      "score": 588,
       "author": "Zetaphor",
       "created": "2026-04-16 03:35:11",
       "created_at": 1776310511000
+    },
+    {
+      "id": 47778475,
+      "title": "God sleeps in the minerals",
+      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "score": 547,
+      "author": "speckx",
+      "created": "2026-04-15 13:08:10",
+      "created_at": 1776258490000
+    },
+    {
+      "id": 47776796,
+      "title": "Want to write a compiler? Just read these two papers (2008)",
+      "link": "https://prog21.dadgum.com/30.html",
+      "score": 497,
+      "author": "downbad_",
+      "created": "2026-04-15 09:41:19",
+      "created_at": 1776246079000
     }
   ],
   "code": 200,
