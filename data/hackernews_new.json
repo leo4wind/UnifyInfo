@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-16T09:08:48.032Z"
+    "lastUpdate": "2026-04-16T13:04:42.066Z"
   },
   "data": [
+    {
+      "id": 47791871,
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "score": 123,
+      "author": "zanbezi",
+      "created": "2026-04-16 12:13:30",
+      "created_at": 1776341610000
+    },
     {
       "id": 47777894,
       "title": "IPv6 traffic crosses the 50% mark",
       "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 178,
+      "score": 452,
       "author": "Aaronmacaron",
       "created": "2026-04-15 11:59:49",
       "created_at": 1776254389000
     },
     {
-      "id": 47788385,
-      "title": "Stop Using Ollama",
-      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "score": 470,
-      "author": "Zetaphor",
-      "created": "2026-04-16 03:35:11",
-      "created_at": 1776310511000
+      "id": 47791855,
+      "title": "Apple accelerates eco progress with highest-ever recycled materials",
+      "link": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+      "score": 13,
+      "author": "salkahfi",
+      "created": "2026-04-16 12:11:17",
+      "created_at": 1776341477000
+    },
+    {
+      "id": 47792026,
+      "title": "Show HN: 48 absurd web projects – one every month",
+      "link": "",
+      "score": 10,
+      "author": "absurdwebsite",
+      "created": "2026-04-16 12:29:33",
+      "created_at": 1776342573000
     },
     {
       "id": 47788542,
       "title": "Darkbloom – Private inference on idle Macs",
       "link": "https://darkbloom.dev",
-      "score": 222,
+      "score": 317,
       "author": "twapi",
       "created": "2026-04-16 04:06:39",
       "created_at": 1776312399000
     },
     {
+      "id": 47791282,
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+      "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+      "score": 29,
+      "author": "Metacelsus",
+      "created": "2026-04-16 10:57:13",
+      "created_at": 1776337033000
+    },
+    {
       "id": 47788424,
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "link": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 136,
+      "score": 219,
       "author": "pabs3",
       "created": "2026-04-16 03:44:38",
       "created_at": 1776311078000
     },
     {
-      "id": 47788473,
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "link": "https://github.com/Nightmare-Eclipse/RedSun",
-      "score": 69,
-      "author": "airhangerf15",
-      "created": "2026-04-16 03:54:21",
-      "created_at": 1776311661000
+      "id": 47791212,
+      "title": "Codex Hacked a Samsung TV",
+      "link": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+      "score": 72,
+      "author": "campuscodi",
+      "created": "2026-04-16 10:44:45",
+      "created_at": 1776336285000
+    },
+    {
+      "id": 47737499,
+      "title": "Modern Microprocessors – A 90-Minute Guide",
+      "link": "https://www.lighterra.com/articles/",
+      "score": 58,
+      "author": "Flex247A",
+      "created": "2026-04-12 09:05:29",
+      "created_at": 1775984729000
     },
     {
       "id": 47769089,
       "title": "Cybersecurity looks like proof of work now",
       "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 395,
+      "score": 477,
       "author": "dbreunig",
       "created": "2026-04-14 18:08:14",
       "created_at": 1776190094000
-    },
-    {
-      "id": 47747770,
-      "title": "The paper computer",
-      "link": "https://jsomers.net/blog/the-paper-computer",
-      "score": 134,
-      "author": "jsomers",
-      "created": "2026-04-13 04:57:48",
-      "created_at": 1776056268000
-    },
-    {
-      "id": 47788818,
-      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "score": 30,
-      "author": "jmarbach",
-      "created": "2026-04-16 05:01:05",
-      "created_at": 1776315665000
-    },
-    {
-      "id": 47788633,
-      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-      "score": 37,
-      "author": "pwim",
-      "created": "2026-04-16 04:22:56",
-      "created_at": 1776313376000
     }
   ],
   "code": 200,
