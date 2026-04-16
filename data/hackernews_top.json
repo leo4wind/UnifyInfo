@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-16T05:55:27.175Z"
+    "lastUpdate": "2026-04-16T09:08:47.936Z"
   },
   "data": [
     {
-      "id": 47788857,
-      "title": "IPv8 Proposal",
-      "link": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
-      "score": 68,
-      "author": "EvanZhouDev",
-      "created": "2026-04-16 05:07:05",
-      "created_at": 1776316025000
+      "id": 47777894,
+      "title": "IPv6 traffic crosses the 50% mark",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "score": 178,
+      "author": "Aaronmacaron",
+      "created": "2026-04-15 11:59:49",
+      "created_at": 1776254389000
+    },
+    {
+      "id": 47788385,
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "score": 470,
+      "author": "Zetaphor",
+      "created": "2026-04-16 03:35:11",
+      "created_at": 1776310511000
     },
     {
       "id": 47788542,
       "title": "Darkbloom – Private inference on idle Macs",
       "link": "https://darkbloom.dev",
-      "score": 81,
+      "score": 222,
       "author": "twapi",
       "created": "2026-04-16 04:06:39",
       "created_at": 1776312399000
     },
     {
-      "id": 47788845,
-      "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
-      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-      "score": 17,
-      "author": "the-mitr",
-      "created": "2026-04-16 05:05:44",
-      "created_at": 1776315944000
-    },
-    {
       "id": 47788424,
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "link": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 45,
+      "score": 136,
       "author": "pabs3",
       "created": "2026-04-16 03:44:38",
       "created_at": 1776311078000
     },
     {
-      "id": 47747770,
-      "title": "The paper computer",
-      "link": "https://jsomers.net/blog/the-paper-computer",
-      "score": 96,
-      "author": "jsomers",
-      "created": "2026-04-13 04:57:48",
-      "created_at": 1776056268000
-    },
-    {
-      "id": 47769089,
-      "title": "Cybersecurity looks like proof of work now",
-      "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 338,
-      "author": "dbreunig",
-      "created": "2026-04-14 18:08:14",
-      "created_at": 1776190094000
-    },
-    {
       "id": 47788473,
       "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
       "link": "https://github.com/Nightmare-Eclipse/RedSun",
-      "score": 28,
+      "score": 69,
       "author": "airhangerf15",
       "created": "2026-04-16 03:54:21",
       "created_at": 1776311661000
     },
     {
-      "id": 47788633,
-      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-      "score": 15,
-      "author": "pwim",
-      "created": "2026-04-16 04:22:56",
-      "created_at": 1776313376000
+      "id": 47769089,
+      "title": "Cybersecurity looks like proof of work now",
+      "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "score": 395,
+      "author": "dbreunig",
+      "created": "2026-04-14 18:08:14",
+      "created_at": 1776190094000
+    },
+    {
+      "id": 47747770,
+      "title": "The paper computer",
+      "link": "https://jsomers.net/blog/the-paper-computer",
+      "score": 134,
+      "author": "jsomers",
+      "created": "2026-04-13 04:57:48",
+      "created_at": 1776056268000
     },
     {
       "id": 47788818,
-      "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
       "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "score": 9,
+      "score": 30,
       "author": "jmarbach",
       "created": "2026-04-16 05:01:05",
       "created_at": 1776315665000
     },
     {
-      "id": 47749548,
-      "title": "Introduction to spherical harmonics for graphics programmers",
-      "link": "https://gpfault.net/posts/sph.html",
-      "score": 66,
-      "author": "luu",
-      "created": "2026-04-13 09:05:45",
-      "created_at": 1776071145000
+      "id": 47788633,
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "score": 37,
+      "author": "pwim",
+      "created": "2026-04-16 04:22:56",
+      "created_at": 1776313376000
     }
   ],
   "code": 200,
