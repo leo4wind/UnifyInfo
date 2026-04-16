@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-15T20:37:52.386Z"
+    "lastUpdate": "2026-04-16T01:29:21.674Z"
   },
   "data": [
+    {
+      "id": 47769089,
+      "title": "Cybersecurity looks like proof of work now",
+      "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "score": 226,
+      "author": "dbreunig",
+      "created": "2026-04-14 18:08:14",
+      "created_at": 1776190094000
+    },
+    {
+      "id": 47786164,
+      "title": "I made a terminal pager",
+      "link": "https://theleo.zone/posts/pager/",
+      "score": 55,
+      "author": "speckx",
+      "created": "2026-04-15 22:27:54",
+      "created_at": 1776292074000
+    },
+    {
+      "id": 47786791,
+      "title": "YouTube now lets you turn off Shorts",
+      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "score": 129,
+      "author": "pentagrama",
+      "created": "2026-04-15 23:36:56",
+      "created_at": 1776296216000
+    },
+    {
+      "id": 47785948,
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+      "link": "https://www.bbc.com/news/technology-39576394",
+      "score": 55,
+      "author": "harambae",
+      "created": "2026-04-15 22:05:44",
+      "created_at": 1776290744000
+    },
     {
       "id": 47782570,
       "title": "Google broke its promise to me – now ICE has my data",
       "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 637,
+      "score": 1086,
       "author": "Brajeshwar",
       "created": "2026-04-15 17:44:26",
       "created_at": 1776275066000
     },
     {
-      "id": 47778475,
-      "title": "God sleeps in the minerals",
-      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 379,
-      "author": "speckx",
-      "created": "2026-04-15 13:08:10",
-      "created_at": 1776258490000
-    },
-    {
-      "id": 47783713,
-      "title": "Live Nation Illegally Monopolized Ticketing Market, Jury Finds",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "score": 125,
-      "author": "Alex_Bond",
-      "created": "2026-04-15 19:06:39",
-      "created_at": 1776279999000
-    },
-    {
-      "id": 47784244,
-      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
-      "score": 7,
-      "author": "gregsadetsky",
-      "created": "2026-04-15 19:45:47",
-      "created_at": 1776282347000
-    },
-    {
-      "id": 47738081,
-      "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
-      "link": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-      "score": 73,
-      "author": "cyclopeanutopia",
-      "created": "2026-04-12 10:27:08",
-      "created_at": 1775989628000
-    },
-    {
-      "id": 47783024,
-      "title": "AI-Assisted Cognition Endangers Human Development",
-      "link": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
-      "score": 200,
-      "author": "i5heu",
-      "created": "2026-04-15 18:16:50",
-      "created_at": 1776277010000
-    },
-    {
-      "id": 47784045,
-      "title": "Flock employees caught watching kids gymnastic class and pools",
-      "link": "https://substack.com/home/post/p-193593234",
-      "score": 77,
-      "author": "enaaem",
-      "created": "2026-04-15 19:30:52",
-      "created_at": 1776281452000
-    },
-    {
-      "id": 47776796,
-      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "link": "https://prog21.dadgum.com/30.html",
-      "score": 404,
-      "author": "downbad_",
-      "created": "2026-04-15 09:41:19",
-      "created_at": 1776246079000
-    },
-    {
       "id": 47780456,
       "title": "Cal.com is going closed source",
       "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 106,
+      "score": 204,
       "author": "Benjamin_Dobell",
       "created": "2026-04-15 15:26:46",
       "created_at": 1776266806000
     },
     {
-      "id": 47738420,
-      "title": "Golden eagles' return to English skies gets government backing",
-      "link": "https://www.bbc.co.uk/news/articles/cje4zlxqkqdo",
-      "score": 15,
-      "author": "techterrier",
-      "created": "2026-04-12 11:24:18",
-      "created_at": 1775993058000
+      "id": 47778475,
+      "title": "God sleeps in the minerals",
+      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "score": 448,
+      "author": "speckx",
+      "created": "2026-04-15 13:08:10",
+      "created_at": 1776258490000
+    },
+    {
+      "id": 47784244,
+      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "score": 79,
+      "author": "gregsadetsky",
+      "created": "2026-04-15 19:45:47",
+      "created_at": 1776282347000
+    },
+    {
+      "id": 47777897,
+      "title": "Retrofitting JIT Compilers into C Interpreters",
+      "link": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+      "score": 33,
+      "author": "ltratt",
+      "created": "2026-04-15 12:00:24",
+      "created_at": 1776254424000
+    },
+    {
+      "id": 47783713,
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "score": 384,
+      "author": "Alex_Bond",
+      "created": "2026-04-15 19:06:39",
+      "created_at": 1776279999000
     }
   ],
   "code": 200,
