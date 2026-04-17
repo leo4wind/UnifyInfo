@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-17T05:58:16.524Z"
+    "lastUpdate": "2026-04-17T09:07:48.481Z"
   },
   "data": [
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1620,
+      "score": 1734,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
@@ -19,82 +19,82 @@
       "id": 47796469,
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 785,
+      "score": 860,
       "author": "mikeevans",
       "created": "2026-04-16 17:12:19",
       "created_at": 1776359539000
     },
     {
-      "id": 47772725,
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "link": "https://cadquery.github.io/",
-      "score": 91,
-      "author": "gregsadetsky",
-      "created": "2026-04-14 23:20:39",
-      "created_at": 1776208839000
+      "id": 47803844,
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "link": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "score": 4,
+      "author": "mpweiher",
+      "created": "2026-04-17 08:51:38",
+      "created_at": 1776415898000
     },
     {
-      "id": 47800033,
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "score": 142,
-      "author": "scaredpelican",
-      "created": "2026-04-16 21:56:37",
-      "created_at": 1776376597000
+      "id": 47803323,
+      "title": "FIM – Linux framebuffer image viewer",
+      "link": "https://www.nongnu.org/fbi-improved/",
+      "score": 27,
+      "author": "Mr_Minderbinder",
+      "created": "2026-04-17 07:20:46",
+      "created_at": 1776410446000
+    },
+    {
+      "id": 47803477,
+      "title": "How to make buffet breakfasts less wasteful",
+      "link": "https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful",
+      "score": 12,
+      "author": "austinallegro",
+      "created": "2026-04-17 07:46:44",
+      "created_at": 1776412004000
     },
     {
       "id": 47755261,
       "title": "A Python Interpreter Written in Python",
       "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "score": 18,
+      "score": 56,
       "author": "xk3",
       "created": "2026-04-13 17:25:50",
       "created_at": 1776101150000
     },
     {
+      "id": 47759436,
+      "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+      "link": "https://chapel-lang.org/blog/posts/30years/",
+      "score": 46,
+      "author": "matt_d",
+      "created": "2026-04-13 23:45:58",
+      "created_at": 1776123958000
+    },
+    {
+      "id": 47772725,
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "link": "https://cadquery.github.io/",
+      "score": 135,
+      "author": "gregsadetsky",
+      "created": "2026-04-14 23:20:39",
+      "created_at": 1776208839000
+    },
+    {
       "id": 47801255,
-      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
       "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "score": 53,
+      "score": 74,
       "author": "_fizz_buzz_",
       "created": "2026-04-17 00:37:47",
       "created_at": 1776386267000
     },
     {
-      "id": 47799573,
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "score": 112,
-      "author": "sebg",
-      "created": "2026-04-16 21:14:02",
-      "created_at": 1776374042000
-    },
-    {
-      "id": 47802312,
-      "title": "Human Accelerated Region 1",
-      "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
-      "score": 11,
-      "author": "apollinaire",
-      "created": "2026-04-17 03:55:54",
-      "created_at": 1776398154000
-    },
-    {
-      "id": 47798345,
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "link": "https://clojure.org/about/documentary",
-      "score": 149,
-      "author": "adityaathalye",
-      "created": "2026-04-16 19:32:18",
-      "created_at": 1776367938000
-    },
-    {
-      "id": 47797665,
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "score": 182,
-      "author": "ingve",
-      "created": "2026-04-16 18:39:59",
-      "created_at": 1776364799000
+      "id": 47800033,
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "score": 167,
+      "author": "scaredpelican",
+      "created": "2026-04-16 21:56:37",
+      "created_at": 1776376597000
     }
   ],
   "code": 200,
