@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-16T20:38:34.017Z"
+    "lastUpdate": "2026-04-17T01:26:47.786Z"
   },
   "data": [
     {
       "id": 47782570,
       "title": "Google broke its promise to me – now ICE has my data",
       "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1655,
+      "score": 1667,
       "author": "Brajeshwar",
       "created": "2026-04-15 17:44:26",
       "created_at": 1776275066000
@@ -19,25 +19,16 @@
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1156,
+      "score": 1455,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
     },
     {
-      "id": 47772012,
-      "title": "Stop Flock",
-      "link": "https://stopflock.com",
-      "score": 970,
-      "author": "cdrnsf",
-      "created": "2026-04-14 21:56:05",
-      "created_at": 1776203765000
-    },
-    {
       "id": 47792764,
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 731,
+      "score": 898,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
@@ -46,16 +37,25 @@
       "id": 47777894,
       "title": "IPv6 traffic crosses the 50% mark",
       "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 728,
+      "score": 768,
       "author": "Aaronmacaron",
       "created": "2026-04-15 11:59:49",
       "created_at": 1776254389000
     },
     {
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 662,
+      "author": "mikeevans",
+      "created": "2026-04-16 17:12:19",
+      "created_at": 1776359539000
+    },
+    {
       "id": 47785738,
       "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
       "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 628,
+      "score": 637,
       "author": "bckygldstn",
       "created": "2026-04-15 21:48:18",
       "created_at": 1776289698000
@@ -64,7 +64,7 @@
       "id": 47783713,
       "title": "Live Nation illegally monopolized ticketing market, jury finds",
       "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "score": 599,
+      "score": 605,
       "author": "Alex_Bond",
       "created": "2026-04-15 19:06:39",
       "created_at": 1776279999000
@@ -73,7 +73,7 @@
       "id": 47788385,
       "title": "The local LLM ecosystem doesn’t need Ollama",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "score": 588,
+      "score": 602,
       "author": "Zetaphor",
       "created": "2026-04-16 03:35:11",
       "created_at": 1776310511000
@@ -82,19 +82,19 @@
       "id": 47778475,
       "title": "God sleeps in the minerals",
       "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 547,
+      "score": 549,
       "author": "speckx",
       "created": "2026-04-15 13:08:10",
       "created_at": 1776258490000
     },
     {
-      "id": 47776796,
-      "title": "Want to write a compiler? Just read these two papers (2008)",
-      "link": "https://prog21.dadgum.com/30.html",
-      "score": 497,
-      "author": "downbad_",
-      "created": "2026-04-15 09:41:19",
-      "created_at": 1776246079000
+      "id": 47792718,
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "score": 501,
+      "author": "aphyr",
+      "created": "2026-04-16 13:32:13",
+      "created_at": 1776346333000
     }
   ],
   "code": 200,

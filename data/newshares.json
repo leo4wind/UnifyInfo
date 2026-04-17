@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-16T20:38:38.143Z"
+    "lastUpdate": "2026-04-17T01:27:12.324Z"
   },
   "data": [
+    {
+      "zqdm": "301531",
+      "zqjc": "春光集团",
+      "sgdm": "301531",
+      "fxsl": 54933340,
+      "swfxsl": 14008000,
+      "sgsx": 14000,
+      "dgsz": 140000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-24",
+      "zqgbrq": "2026-04-28",
+      "zqjkrq": "2026-04-28",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 63.15,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "软磁铁氧体磁粉的研发、生产和销售,并沿产业链发展软磁铁氧体磁心、电子元器件和电源等产品"
+    },
     {
       "zqdm": "920186",
       "zqjc": "中科仪",
@@ -120,29 +143,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "智能自动化设备、智能柔性生产线、配件及耗材等产品的研发、生产与销售"
-    },
-    {
-      "zqdm": "001312",
-      "zqjc": "福恩股份",
-      "sgdm": "001312",
-      "fxsl": 58333334,
-      "swfxsl": 46666500,
-      "sgsx": 23000,
-      "dgsz": 230000,
-      "fxjg": 18.38,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-04-10",
-      "zqgbrq": "2026-04-14",
-      "zqjkrq": "2026-04-14",
-      "ssrq": null,
-      "syl": 16.83,
-      "hysyl": 27.63,
-      "wszql": 0.0228373326,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "以可持续发展为核心的全球生态环保面料供应商,从事生态环保面料的研发、生产和销售"
     }
   ],
   "total": 6

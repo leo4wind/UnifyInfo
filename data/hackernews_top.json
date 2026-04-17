@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-16T20:38:34.186Z"
+    "lastUpdate": "2026-04-17T01:26:47.952Z"
   },
   "data": [
-    {
-      "id": 47796469,
-      "title": "Codex for almost everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 445,
-      "author": "mikeevans",
-      "created": "2026-04-16 17:12:19",
-      "created_at": 1776359539000
-    },
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1158,
+      "score": 1455,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
     },
     {
-      "id": 47798258,
-      "title": "German Dog Commands",
-      "link": "https://www.fluentu.com/blog/german/german-dog-commands/",
-      "score": 23,
-      "author": "rolph",
-      "created": "2026-04-16 19:26:03",
-      "created_at": 1776367563000
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 662,
+      "author": "mikeevans",
+      "created": "2026-04-16 17:12:19",
+      "created_at": 1776359539000
     },
     {
-      "id": 47733059,
-      "title": "PCI Express over Fiber [video]",
-      "link": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "score": 80,
-      "author": "mmastrac",
-      "created": "2026-04-11 18:54:58",
-      "created_at": 1775933698000
+      "id": 47800033,
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "score": 82,
+      "author": "scaredpelican",
+      "created": "2026-04-16 21:56:37",
+      "created_at": 1776376597000
     },
     {
-      "id": 47736331,
-      "title": "TigerBeetle: A Trillion Transactions [video]",
-      "link": "https://www.youtube.com/watch?v=y2_BqkKTbD8",
-      "score": 38,
+      "id": 47799573,
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "score": 75,
+      "author": "sebg",
+      "created": "2026-04-16 21:14:02",
+      "created_at": 1776374042000
+    },
+    {
+      "id": 47798345,
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "link": "https://clojure.org/about/documentary",
+      "score": 101,
       "author": "adityaathalye",
-      "created": "2026-04-12 05:14:52",
-      "created_at": 1775970892000
+      "created": "2026-04-16 19:32:18",
+      "created_at": 1776367938000
     },
     {
-      "id": 47792538,
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "link": "https://blog.cloudflare.com/ai-platform/",
-      "score": 197,
-      "author": "nikitoci",
-      "created": "2026-04-16 13:17:37",
-      "created_at": 1776345457000
+      "id": 47772725,
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "link": "https://cadquery.github.io/",
+      "score": 13,
+      "author": "gregsadetsky",
+      "created": "2026-04-14 23:20:39",
+      "created_at": 1776208839000
+    },
+    {
+      "id": 47797665,
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "score": 114,
+      "author": "ingve",
+      "created": "2026-04-16 18:39:59",
+      "created_at": 1776364799000
+    },
+    {
+      "id": 47800738,
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "score": 78,
+      "author": "evo_9",
+      "created": "2026-04-16 23:15:33",
+      "created_at": 1776381333000
+    },
+    {
+      "id": 47800166,
+      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+      "score": 93,
+      "author": "kmfrk",
+      "created": "2026-04-16 22:08:53",
+      "created_at": 1776377333000
     },
     {
       "id": 47792764,
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 731,
+      "score": 898,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
-    },
-    {
-      "id": 47796830,
-      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-      "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "score": 123,
-      "author": "simonw",
-      "created": "2026-04-16 17:37:20",
-      "created_at": 1776361040000
-    },
-    {
-      "id": 47794514,
-      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-      "link": "https://www.zatanna.ai/kampala",
-      "score": 52,
-      "author": "alexblackwell_",
-      "created": "2026-04-16 15:19:54",
-      "created_at": 1776352794000
-    },
-    {
-      "id": 47738520,
-      "title": "Put your SSH keys in your TPM chip",
-      "link": "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html",
-      "score": 70,
-      "author": "type0",
-      "created": "2026-04-12 11:38:46",
-      "created_at": 1775993926000
     }
   ],
   "code": 200,
