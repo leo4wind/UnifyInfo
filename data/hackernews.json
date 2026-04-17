@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-17T12:55:17.157Z"
+    "lastUpdate": "2026-04-17T16:42:48.444Z"
   },
   "data": [
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1821,
+      "score": 1901,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
@@ -19,7 +19,7 @@
       "id": 47782570,
       "title": "Google broke its promise to me – now ICE has my data",
       "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1681,
+      "score": 1683,
       "author": "Brajeshwar",
       "created": "2026-04-15 17:44:26",
       "created_at": 1776275066000
@@ -28,7 +28,7 @@
       "id": 47792764,
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1153,
+      "score": 1214,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
@@ -37,43 +37,34 @@
       "id": 47796469,
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 916,
+      "score": 959,
       "author": "mikeevans",
       "created": "2026-04-16 17:12:19",
       "created_at": 1776359539000
     },
     {
-      "id": 47777894,
-      "title": "IPv6 traffic crosses the 50% mark",
-      "link": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 795,
-      "author": "Aaronmacaron",
-      "created": "2026-04-15 11:59:49",
-      "created_at": 1776254389000
-    },
-    {
-      "id": 47785738,
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 675,
-      "author": "bckygldstn",
-      "created": "2026-04-15 21:48:18",
-      "created_at": 1776289698000
-    },
-    {
       "id": 47792718,
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 652,
+      "score": 686,
       "author": "aphyr",
       "created": "2026-04-16 13:32:13",
       "created_at": 1776346333000
     },
     {
+      "id": 47785738,
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "score": 684,
+      "author": "bckygldstn",
+      "created": "2026-04-15 21:48:18",
+      "created_at": 1776289698000
+    },
+    {
       "id": 47788385,
       "title": "The local LLM ecosystem doesn’t need Ollama",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "score": 625,
+      "score": 630,
       "author": "Zetaphor",
       "created": "2026-04-16 03:35:11",
       "created_at": 1776310511000
@@ -82,19 +73,28 @@
       "id": 47783713,
       "title": "Live Nation illegally monopolized ticketing market, jury finds",
       "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "score": 612,
+      "score": 616,
       "author": "Alex_Bond",
       "created": "2026-04-15 19:06:39",
       "created_at": 1776279999000
     },
     {
-      "id": 47778475,
-      "title": "God sleeps in the minerals",
-      "link": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "score": 553,
-      "author": "speckx",
-      "created": "2026-04-15 13:08:10",
-      "created_at": 1776258490000
+      "id": 47788542,
+      "title": "Darkbloom – Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "score": 489,
+      "author": "twapi",
+      "created": "2026-04-16 04:06:39",
+      "created_at": 1776312399000
+    },
+    {
+      "id": 47792593,
+      "title": "Cloudflare Email Service",
+      "link": "https://blog.cloudflare.com/email-for-agents/",
+      "score": 446,
+      "author": "jilles",
+      "created": "2026-04-16 13:21:53",
+      "created_at": 1776345713000
     }
   ],
   "code": 200,
