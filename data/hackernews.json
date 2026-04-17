@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-17T16:42:48.444Z"
+    "lastUpdate": "2026-04-17T20:34:48.833Z"
   },
   "data": [
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1901,
+      "score": 1927,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
     },
     {
-      "id": 47782570,
-      "title": "Google broke its promise to me – now ICE has my data",
-      "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1683,
-      "author": "Brajeshwar",
-      "created": "2026-04-15 17:44:26",
-      "created_at": 1776275066000
-    },
-    {
       "id": 47792764,
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1214,
+      "score": 1227,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
@@ -37,7 +28,7 @@
       "id": 47796469,
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 959,
+      "score": 979,
       "author": "mikeevans",
       "created": "2026-04-16 17:12:19",
       "created_at": 1776359539000
@@ -46,7 +37,7 @@
       "id": 47792718,
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 686,
+      "score": 706,
       "author": "aphyr",
       "created": "2026-04-16 13:32:13",
       "created_at": 1776346333000
@@ -55,10 +46,19 @@
       "id": 47785738,
       "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
       "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 684,
+      "score": 689,
       "author": "bckygldstn",
       "created": "2026-04-15 21:48:18",
       "created_at": 1776289698000
+    },
+    {
+      "id": 47806725,
+      "title": "Claude Design",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 636,
+      "author": "meetpateltech",
+      "created": "2026-04-17 15:04:09",
+      "created_at": 1776438249000
     },
     {
       "id": 47788385,
@@ -70,31 +70,31 @@
       "created_at": 1776310511000
     },
     {
-      "id": 47783713,
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "score": 616,
-      "author": "Alex_Bond",
-      "created": "2026-04-15 19:06:39",
-      "created_at": 1776279999000
+      "id": 47804965,
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "link": "https://hex.ooo/library/last_question.html",
+      "score": 531,
+      "author": "ColinWright",
+      "created": "2026-04-17 12:01:19",
+      "created_at": 1776427279000
     },
     {
       "id": 47788542,
       "title": "Darkbloom – Private inference on idle Macs",
       "link": "https://darkbloom.dev",
-      "score": 489,
+      "score": 491,
       "author": "twapi",
       "created": "2026-04-16 04:06:39",
       "created_at": 1776312399000
     },
     {
-      "id": 47792593,
-      "title": "Cloudflare Email Service",
-      "link": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 446,
-      "author": "jilles",
-      "created": "2026-04-16 13:21:53",
-      "created_at": 1776345713000
+      "id": 47806304,
+      "title": "Ban the sale of precise geolocation",
+      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "score": 459,
+      "author": "hn_acker",
+      "created": "2026-04-17 14:25:46",
+      "created_at": 1776435946000
     }
   ],
   "code": 200,

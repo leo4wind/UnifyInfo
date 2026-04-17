@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-17T16:42:48.626Z"
+    "lastUpdate": "2026-04-17T20:34:48.918Z"
   },
   "data": [
     {
       "id": 47806725,
       "title": "Claude Design",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 287,
+      "score": 636,
       "author": "meetpateltech",
       "created": "2026-04-17 15:04:09",
       "created_at": 1776438249000
@@ -19,82 +19,82 @@
       "id": 47807006,
       "title": "Claude Opus 4.7 costs 20–30% more per session",
       "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 91,
+      "score": 421,
       "author": "aray07",
       "created": "2026-04-17 15:29:36",
       "created_at": 1776439776000
     },
     {
-      "id": 47806484,
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "link": "https://www.thehistoryblog.com/archives/75848",
-      "score": 81,
-      "author": "speckx",
-      "created": "2026-04-17 14:41:49",
-      "created_at": 1776436909000
+      "id": 47808913,
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "score": 122,
+      "author": "cybermango",
+      "created": "2026-04-17 18:17:01",
+      "created_at": 1776449821000
+    },
+    {
+      "id": 47808268,
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "link": "https://github.com/smol-machines/smolvm",
+      "score": 120,
+      "author": "binsquare",
+      "created": "2026-04-17 17:18:58",
+      "created_at": 1776446338000
     },
     {
       "id": 47804965,
       "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
-      "score": 400,
+      "score": 531,
       "author": "ColinWright",
       "created": "2026-04-17 12:01:19",
       "created_at": 1776427279000
     },
     {
-      "id": 47806777,
-      "title": "NIST gives up enriching most CVEs",
-      "link": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "score": 52,
-      "author": "mooreds",
-      "created": "2026-04-17 15:09:14",
-      "created_at": 1776438554000
-    },
-    {
-      "id": 47806348,
-      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
-      "link": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-      "score": 63,
-      "author": "zdw",
-      "created": "2026-04-17 14:29:11",
-      "created_at": 1776436151000
-    },
-    {
-      "id": 47806304,
-      "title": "It Is Time to Ban the Sale of Precise Geolocation",
-      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 245,
-      "author": "hn_acker",
-      "created": "2026-04-17 14:25:46",
-      "created_at": 1776435946000
-    },
-    {
-      "id": 47806440,
-      "title": "Iceye Open Data",
-      "link": "https://www.iceye.com/open-data-initiative",
-      "score": 45,
-      "author": "marklit",
-      "created": "2026-04-17 14:37:16",
-      "created_at": 1776436636000
-    },
-    {
       "id": 47807209,
       "title": "NASA Force",
       "link": "https://nasaforce.gov/",
-      "score": 14,
+      "score": 141,
       "author": "LorenDB",
       "created": "2026-04-17 15:47:41",
       "created_at": 1776440861000
     },
     {
-      "id": 47778524,
-      "title": "Designing the Transport Typeface",
-      "link": "https://www.thamesandhudson.com/blogs/all-news-features/designing-the-transport-typeface-margaret-calvert-on-the-making-of-britain-s-road-signs",
-      "score": 16,
+      "id": 47806484,
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "link": "https://www.thehistoryblog.com/archives/75848",
+      "score": 159,
       "author": "speckx",
-      "created": "2026-04-15 13:13:20",
-      "created_at": 1776258800000
+      "created": "2026-04-17 14:41:49",
+      "created_at": 1776436909000
+    },
+    {
+      "id": 47806777,
+      "title": "NIST gives up enriching most CVEs",
+      "link": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "score": 130,
+      "author": "mooreds",
+      "created": "2026-04-17 15:09:14",
+      "created_at": 1776438554000
+    },
+    {
+      "id": 47779049,
+      "title": "I built a 3D printing business and ran it for 8 months",
+      "link": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
+      "score": 28,
+      "author": "wespiser_2018",
+      "created": "2026-04-15 13:59:07",
+      "created_at": 1776261547000
+    },
+    {
+      "id": 47758309,
+      "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
+      "link": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
+      "score": 29,
+      "author": "Cider9986",
+      "created": "2026-04-13 21:51:30",
+      "created_at": 1776117090000
     }
   ],
   "code": 200,
