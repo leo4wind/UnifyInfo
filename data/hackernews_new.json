@@ -3,59 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-17T09:07:48.481Z"
+    "lastUpdate": "2026-04-17T12:55:17.422Z"
   },
   "data": [
     {
-      "id": 47793411,
-      "title": "Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1734,
-      "author": "meetpateltech",
-      "created": "2026-04-16 14:23:50",
-      "created_at": 1776349430000
-    },
-    {
-      "id": 47796469,
-      "title": "Codex for almost everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 860,
-      "author": "mikeevans",
-      "created": "2026-04-16 17:12:19",
-      "created_at": 1776359539000
+      "id": 47804965,
+      "title": "Isaac Asimov: The Last Question",
+      "link": "https://hex.ooo/library/last_question.html",
+      "score": 31,
+      "author": "ColinWright",
+      "created": "2026-04-17 12:01:19",
+      "created_at": 1776427279000
     },
     {
       "id": 47803844,
       "title": "Ada, Its Design, and the Language That Built the Languages",
       "link": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "score": 4,
+      "score": 130,
       "author": "mpweiher",
       "created": "2026-04-17 08:51:38",
       "created_at": 1776415898000
     },
     {
+      "id": 47793411,
+      "title": "Claude Opus 4.7",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1821,
+      "author": "meetpateltech",
+      "created": "2026-04-16 14:23:50",
+      "created_at": 1776349430000
+    },
+    {
       "id": 47803323,
       "title": "FIM – Linux framebuffer image viewer",
       "link": "https://www.nongnu.org/fbi-improved/",
-      "score": 27,
+      "score": 87,
       "author": "Mr_Minderbinder",
       "created": "2026-04-17 07:20:46",
       "created_at": 1776410446000
     },
     {
-      "id": 47803477,
-      "title": "How to make buffet breakfasts less wasteful",
-      "link": "https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful",
-      "score": 12,
-      "author": "austinallegro",
-      "created": "2026-04-17 07:46:44",
-      "created_at": 1776412004000
+      "id": 47754603,
+      "title": "Average Is All You Need",
+      "link": "https://rawquery.dev/blog/average-is-all-you-need",
+      "score": 28,
+      "author": "AlexC04",
+      "created": "2026-04-13 16:36:42",
+      "created_at": 1776098202000
+    },
+    {
+      "id": 47796469,
+      "title": "Codex for almost everything",
+      "link": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 916,
+      "author": "mikeevans",
+      "created": "2026-04-16 17:12:19",
+      "created_at": 1776359539000
+    },
+    {
+      "id": 47804708,
+      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+      "link": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "score": 41,
+      "author": "ZunarJ5",
+      "created": "2026-04-17 11:22:05",
+      "created_at": 1776424925000
+    },
+    {
+      "id": 47772725,
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "link": "https://cadquery.github.io/",
+      "score": 169,
+      "author": "gregsadetsky",
+      "created": "2026-04-14 23:20:39",
+      "created_at": 1776208839000
     },
     {
       "id": 47755261,
       "title": "A Python Interpreter Written in Python",
       "link": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "score": 56,
+      "score": 87,
       "author": "xk3",
       "created": "2026-04-13 17:25:50",
       "created_at": 1776101150000
@@ -64,37 +91,10 @@
       "id": 47759436,
       "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
       "link": "https://chapel-lang.org/blog/posts/30years/",
-      "score": 46,
+      "score": 72,
       "author": "matt_d",
       "created": "2026-04-13 23:45:58",
       "created_at": 1776123958000
-    },
-    {
-      "id": 47772725,
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "link": "https://cadquery.github.io/",
-      "score": 135,
-      "author": "gregsadetsky",
-      "created": "2026-04-14 23:20:39",
-      "created_at": 1776208839000
-    },
-    {
-      "id": 47801255,
-      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-      "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "score": 74,
-      "author": "_fizz_buzz_",
-      "created": "2026-04-17 00:37:47",
-      "created_at": 1776386267000
-    },
-    {
-      "id": 47800033,
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "score": 167,
-      "author": "scaredpelican",
-      "created": "2026-04-16 21:56:37",
-      "created_at": 1776376597000
     }
   ],
   "code": 200,
