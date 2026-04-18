@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-18T12:38:08.335Z"
+    "lastUpdate": "2026-04-18T16:27:33.619Z"
   },
   "data": [
-    {
-      "id": 47793411,
-      "title": "Claude Opus 4.7",
-      "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1942,
-      "author": "meetpateltech",
-      "created": "2026-04-16 14:23:50",
-      "created_at": 1776349430000
-    },
-    {
-      "id": 47792764,
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1246,
-      "author": "cmitsakis",
-      "created": "2026-04-16 13:36:27",
-      "created_at": 1776346587000
-    },
     {
       "id": 47806725,
       "title": "Claude Design",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1082,
+      "score": 1134,
       "author": "meetpateltech",
       "created": "2026-04-17 15:04:09",
       "created_at": 1776438249000
@@ -37,7 +19,7 @@
       "id": 47796469,
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 990,
+      "score": 991,
       "author": "mikeevans",
       "created": "2026-04-16 17:12:19",
       "created_at": 1776359539000
@@ -46,25 +28,16 @@
       "id": 47804965,
       "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
-      "score": 722,
+      "score": 740,
       "author": "ColinWright",
       "created": "2026-04-17 12:01:19",
       "created_at": 1776427279000
     },
     {
-      "id": 47792718,
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 720,
-      "author": "aphyr",
-      "created": "2026-04-16 13:32:13",
-      "created_at": 1776346333000
-    },
-    {
       "id": 47806304,
       "title": "Ban the sale of precise geolocation",
       "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 707,
+      "score": 724,
       "author": "hn_acker",
       "created": "2026-04-17 14:25:46",
       "created_at": 1776435946000
@@ -73,7 +46,7 @@
       "id": 47807006,
       "title": "Measuring Claude 4.7's tokenizer costs",
       "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 626,
+      "score": 659,
       "author": "aray07",
       "created": "2026-04-17 15:29:36",
       "created_at": 1776439776000
@@ -82,19 +55,46 @@
       "id": 47796830,
       "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
       "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "score": 455,
+      "score": 456,
       "author": "simonw",
       "created": "2026-04-16 17:37:20",
       "created_at": 1776361040000
     },
     {
-      "id": 47792593,
-      "title": "Cloudflare Email Service",
-      "link": "https://blog.cloudflare.com/email-for-agents/",
-      "score": 452,
-      "author": "jilles",
-      "created": "2026-04-16 13:21:53",
-      "created_at": 1776345713000
+      "id": 47808913,
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "score": 406,
+      "author": "cybermango",
+      "created": "2026-04-17 18:17:01",
+      "created_at": 1776449821000
+    },
+    {
+      "id": 47808268,
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "link": "https://github.com/smol-machines/smolvm",
+      "score": 396,
+      "author": "binsquare",
+      "created": "2026-04-17 17:18:58",
+      "created_at": 1776446338000
+    },
+    {
+      "id": 47801991,
+      "title": "US Bill Mandates On-Device Age Verification",
+      "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+      "score": 392,
+      "author": "ronsor",
+      "created": "2026-04-17 02:50:02",
+      "created_at": 1776394202000
+    },
+    {
+      "id": 47799120,
+      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+      "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
+      "score": 391,
+      "author": "devonnull",
+      "created": "2026-04-16 20:31:52",
+      "created_at": 1776371512000
     }
   ],
   "code": 200,
