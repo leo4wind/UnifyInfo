@@ -3,32 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-18T05:28:15.499Z"
+    "lastUpdate": "2026-04-18T08:37:37.594Z"
   },
   "data": [
     {
-      "id": 47806725,
-      "title": "Claude Design",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 942,
-      "author": "meetpateltech",
-      "created": "2026-04-17 15:04:09",
-      "created_at": 1776438249000
+      "id": 47813668,
+      "title": "Category Theory Illustrated – Orders",
+      "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "score": 30,
+      "author": "boris_m",
+      "created": "2026-04-18 06:40:47",
+      "created_at": 1776494447000
+    },
+    {
+      "id": 47813566,
+      "title": "Amiga Graphics",
+      "link": "https://amiga.lychesis.net/",
+      "score": 28,
+      "author": "sph",
+      "created": "2026-04-18 06:20:04",
+      "created_at": 1776493204000
     },
     {
       "id": 47812341,
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
       "link": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 31,
+      "score": 138,
       "author": "fouronnes3",
       "created": "2026-04-18 01:15:43",
       "created_at": 1776474943000
     },
     {
+      "id": 47806725,
+      "title": "Claude Design",
+      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 1018,
+      "author": "meetpateltech",
+      "created": "2026-04-17 15:04:09",
+      "created_at": 1776438249000
+    },
+    {
+      "id": 47788207,
+      "title": "The simple geometry behind any road",
+      "link": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
+      "score": 18,
+      "author": "azhenley",
+      "created": "2026-04-16 03:09:50",
+      "created_at": 1776308990000
+    },
+    {
+      "id": 47807006,
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 600,
+      "author": "aray07",
+      "created": "2026-04-17 15:29:36",
+      "created_at": 1776439776000
+    },
+    {
       "id": 47778938,
       "title": "Towards trust in Emacs",
       "link": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "score": 66,
+      "score": 96,
       "author": "eshelyaron",
       "created": "2026-04-15 13:49:15",
       "created_at": 1776260955000
@@ -37,64 +73,28 @@
       "id": 47808913,
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 287,
+      "score": 324,
       "author": "cybermango",
       "created": "2026-04-17 18:17:01",
       "created_at": 1776449821000
     },
     {
-      "id": 47810872,
-      "title": "A simplified model of Fil-C",
-      "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
-      "score": 144,
-      "author": "aw1621107",
-      "created": "2026-04-17 21:38:20",
-      "created_at": 1776461900000
+      "id": 47760135,
+      "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
+      "link": "https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
+      "score": 38,
+      "author": "riteshnoronha16",
+      "created": "2026-04-14 01:26:06",
+      "created_at": 1776129966000
     },
     {
-      "id": 47778922,
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "score": 157,
-      "author": "louiereederson",
-      "created": "2026-04-15 13:47:58",
-      "created_at": 1776260878000
-    },
-    {
-      "id": 47804965,
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "link": "https://hex.ooo/library/last_question.html",
-      "score": 682,
-      "author": "ColinWright",
-      "created": "2026-04-17 12:01:19",
-      "created_at": 1776427279000
-    },
-    {
-      "id": 47807006,
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 572,
-      "author": "aray07",
-      "created": "2026-04-17 15:29:36",
-      "created_at": 1776439776000
-    },
-    {
-      "id": 47808268,
-      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "link": "https://github.com/smol-machines/smolvm",
-      "score": 283,
-      "author": "binsquare",
-      "created": "2026-04-17 17:18:58",
-      "created_at": 1776446338000
-    },
-    {
-      "id": 47806845,
-      "title": "Slop Cop",
-      "link": "https://awnist.com/slop-cop",
-      "score": 131,
-      "author": "ericHosick",
-      "created": "2026-04-17 15:15:24",
-      "created_at": 1776438924000
+      "id": 47807583,
+      "title": "Spending 3 months coding by hand",
+      "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "score": 199,
+      "author": "evakhoury",
+      "created": "2026-04-17 16:19:53",
+      "created_at": 1776442793000
     }
   ],
   "code": 200,
