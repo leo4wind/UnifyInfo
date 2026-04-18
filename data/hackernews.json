@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-17T20:34:48.833Z"
+    "lastUpdate": "2026-04-18T01:20:25.943Z"
   },
   "data": [
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1927,
+      "score": 1934,
       "author": "meetpateltech",
       "created": "2026-04-16 14:23:50",
       "created_at": 1776349430000
@@ -19,7 +19,7 @@
       "id": 47792764,
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "link": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1227,
+      "score": 1236,
       "author": "cmitsakis",
       "created": "2026-04-16 13:36:27",
       "created_at": 1776346587000
@@ -28,43 +28,34 @@
       "id": 47796469,
       "title": "Codex for almost everything",
       "link": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 979,
+      "score": 985,
       "author": "mikeevans",
       "created": "2026-04-16 17:12:19",
       "created_at": 1776359539000
     },
     {
-      "id": 47792718,
-      "title": "The future of everything is lies, I guess: Where do we go from here?",
-      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-      "score": 706,
-      "author": "aphyr",
-      "created": "2026-04-16 13:32:13",
-      "created_at": 1776346333000
-    },
-    {
-      "id": 47785738,
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "score": 689,
-      "author": "bckygldstn",
-      "created": "2026-04-15 21:48:18",
-      "created_at": 1776289698000
-    },
-    {
       "id": 47806725,
       "title": "Claude Design",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 636,
+      "score": 828,
       "author": "meetpateltech",
       "created": "2026-04-17 15:04:09",
       "created_at": 1776438249000
     },
     {
+      "id": 47792718,
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "link": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "score": 712,
+      "author": "aphyr",
+      "created": "2026-04-16 13:32:13",
+      "created_at": 1776346333000
+    },
+    {
       "id": 47788385,
       "title": "The local LLM ecosystem doesn’t need Ollama",
       "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "score": 630,
+      "score": 631,
       "author": "Zetaphor",
       "created": "2026-04-16 03:35:11",
       "created_at": 1776310511000
@@ -73,10 +64,28 @@
       "id": 47804965,
       "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
-      "score": 531,
+      "score": 616,
       "author": "ColinWright",
       "created": "2026-04-17 12:01:19",
       "created_at": 1776427279000
+    },
+    {
+      "id": 47806304,
+      "title": "Ban the sale of precise geolocation",
+      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+      "score": 590,
+      "author": "hn_acker",
+      "created": "2026-04-17 14:25:46",
+      "created_at": 1776435946000
+    },
+    {
+      "id": 47807006,
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 535,
+      "author": "aray07",
+      "created": "2026-04-17 15:29:36",
+      "created_at": 1776439776000
     },
     {
       "id": 47788542,
@@ -86,15 +95,6 @@
       "author": "twapi",
       "created": "2026-04-16 04:06:39",
       "created_at": 1776312399000
-    },
-    {
-      "id": 47806304,
-      "title": "Ban the sale of precise geolocation",
-      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 459,
-      "author": "hn_acker",
-      "created": "2026-04-17 14:25:46",
-      "created_at": 1776435946000
     }
   ],
   "code": 200,
