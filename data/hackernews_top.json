@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-19T01:30:11.511Z"
+    "lastUpdate": "2026-04-19T05:53:01.983Z"
   },
   "data": [
     {
       "id": 47819453,
       "title": "NIST scientists create 'any wavelength' lasers",
       "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 158,
+      "score": 242,
       "author": "rbanffy",
       "created": "2026-04-18 20:54:17",
       "created_at": 1776545657000
@@ -19,82 +19,82 @@
       "id": 47816960,
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "link": "https://tokens.billchambers.me/leaderboard",
-      "score": 420,
+      "score": 479,
       "author": "anabranch",
       "created": "2026-04-18 16:05:43",
       "created_at": 1776528343000
     },
     {
-      "id": 47817132,
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 267,
-      "author": "NelsonMinar",
-      "created": "2026-04-18 16:26:47",
-      "created_at": 1776529607000
-    },
-    {
       "id": 47818485,
       "title": "College instructor turns to typewriters to curb AI-written work",
       "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 121,
+      "score": 219,
       "author": "gnabgib",
       "created": "2026-04-18 19:00:00",
       "created_at": 1776538800000
     },
     {
-      "id": 47779659,
-      "title": "Modern Common Lisp with FSet",
-      "link": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 83,
-      "author": "larve",
-      "created": "2026-04-15 14:38:38",
-      "created_at": 1776263918000
+      "id": 47806021,
+      "title": "What Are Skiplists Good For?",
+      "link": "https://antithesis.com/blog/2026/skiptrees/",
+      "score": 21,
+      "author": "mfiguiere",
+      "created": "2026-04-17 13:57:27",
+      "created_at": 1776434247000
     },
     {
-      "id": 47819369,
-      "title": "Optimizing Ruby Path Methods",
-      "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 50,
-      "author": "weaksauce",
-      "created": "2026-04-18 20:42:29",
-      "created_at": 1776544949000
+      "id": 47791771,
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "link": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "score": 53,
+      "author": "tyleo",
+      "created": "2026-04-16 12:00:00",
+      "created_at": 1776340800000
+    },
+    {
+      "id": 47817132,
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "score": 308,
+      "author": "NelsonMinar",
+      "created": "2026-04-18 16:26:47",
+      "created_at": 1776529607000
+    },
+    {
+      "id": 47783890,
+      "title": "Metatextual Literacy",
+      "link": "https://www.jenn.site/metatextual-literacy/",
+      "score": 14,
+      "author": "dado3212",
+      "created": "2026-04-15 19:18:38",
+      "created_at": 1776280718000
     },
     {
       "id": 47815395,
       "title": "Why Japan has such good railways",
       "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 304,
+      "score": 353,
       "author": "RickJWagner",
       "created": "2026-04-18 12:29:06",
       "created_at": 1776515346000
     },
     {
-      "id": 47815774,
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 676,
-      "author": "yusufusta",
-      "created": "2026-04-18 13:29:04",
-      "created_at": 1776518944000
+      "id": 47820195,
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "score": 57,
+      "author": "agambrahma",
+      "created": "2026-04-18 22:46:13",
+      "created_at": 1776552373000
     },
     {
-      "id": 47818700,
-      "title": "Thoughts and feelings around Claude Design",
-      "link": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 221,
-      "author": "cdrnsf",
-      "created": "2026-04-18 19:19:24",
-      "created_at": 1776539964000
-    },
-    {
-      "id": 47815118,
-      "title": "State of Kdenlive",
-      "link": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 333,
-      "author": "f_r_d",
-      "created": "2026-04-18 11:42:37",
-      "created_at": 1776512557000
+      "id": 47779659,
+      "title": "Modern Common Lisp with FSet",
+      "link": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+      "score": 125,
+      "author": "larve",
+      "created": "2026-04-15 14:38:38",
+      "created_at": 1776263918000
     }
   ],
   "code": 200,
