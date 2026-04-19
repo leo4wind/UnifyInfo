@@ -3,50 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-19T12:36:55.118Z"
+    "lastUpdate": "2026-04-19T16:27:52.685Z"
   },
   "data": [
-    {
-      "id": 47806725,
-      "title": "Claude Design",
-      "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1200,
-      "author": "meetpateltech",
-      "created": "2026-04-17 15:04:09",
-      "created_at": 1776438249000
-    },
     {
       "id": 47815774,
       "title": "Migrating from DigitalOcean to Hetzner",
       "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 805,
+      "score": 845,
       "author": "yusufusta",
       "created": "2026-04-18 13:29:04",
       "created_at": 1776518944000
     },
     {
-      "id": 47804965,
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "link": "https://hex.ooo/library/last_question.html",
-      "score": 764,
-      "author": "ColinWright",
-      "created": "2026-04-17 12:01:19",
-      "created_at": 1776427279000
-    },
-    {
-      "id": 47806304,
-      "title": "Ban the sale of precise geolocation",
-      "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 745,
-      "author": "hn_acker",
-      "created": "2026-04-17 14:25:46",
-      "created_at": 1776435946000
-    },
-    {
       "id": 47807006,
       "title": "Measuring Claude 4.7's tokenizer costs",
       "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 699,
+      "score": 703,
       "author": "aray07",
       "created": "2026-04-17 15:29:36",
       "created_at": 1776439776000
@@ -55,16 +28,25 @@
       "id": 47816960,
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "link": "https://tokens.billchambers.me/leaderboard",
-      "score": 543,
+      "score": 580,
       "author": "anabranch",
       "created": "2026-04-18 16:05:43",
       "created_at": 1776528343000
     },
     {
+      "id": 47815395,
+      "title": "Why Japan has such good railways",
+      "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "score": 480,
+      "author": "RickJWagner",
+      "created": "2026-04-18 12:29:06",
+      "created_at": 1776515346000
+    },
+    {
       "id": 47808268,
       "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "link": "https://github.com/smol-machines/smolvm",
-      "score": 468,
+      "score": 474,
       "author": "binsquare",
       "created": "2026-04-17 17:18:58",
       "created_at": 1776446338000
@@ -73,28 +55,46 @@
       "id": 47808913,
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
       "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 448,
+      "score": 449,
       "author": "cybermango",
       "created": "2026-04-17 18:17:01",
       "created_at": 1776449821000
     },
     {
-      "id": 47815395,
-      "title": "Why Japan has such good railways",
-      "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 440,
-      "author": "RickJWagner",
-      "created": "2026-04-18 12:29:06",
-      "created_at": 1776515346000
-    },
-    {
       "id": 47815118,
       "title": "State of Kdenlive",
       "link": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 415,
+      "score": 441,
       "author": "f_r_d",
       "created": "2026-04-18 11:42:37",
       "created_at": 1776512557000
+    },
+    {
+      "id": 47817132,
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "score": 383,
+      "author": "NelsonMinar",
+      "created": "2026-04-18 16:26:47",
+      "created_at": 1776529607000
+    },
+    {
+      "id": 47818485,
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "score": 378,
+      "author": "gnabgib",
+      "created": "2026-04-18 19:00:00",
+      "created_at": 1776538800000
+    },
+    {
+      "id": 47819453,
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "score": 376,
+      "author": "rbanffy",
+      "created": "2026-04-18 20:54:17",
+      "created_at": 1776545657000
     }
   ],
   "code": 200,
