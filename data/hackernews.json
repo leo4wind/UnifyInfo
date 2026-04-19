@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-18T20:25:21.549Z"
+    "lastUpdate": "2026-04-19T01:30:11.343Z"
   },
   "data": [
     {
       "id": 47806725,
       "title": "Claude Design",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1172,
+      "score": 1185,
       "author": "meetpateltech",
       "created": "2026-04-17 15:04:09",
       "created_at": 1776438249000
@@ -19,7 +19,7 @@
       "id": 47804965,
       "title": "Isaac Asimov: The Last Question (1956)",
       "link": "https://hex.ooo/library/last_question.html",
-      "score": 744,
+      "score": 756,
       "author": "ColinWright",
       "created": "2026-04-17 12:01:19",
       "created_at": 1776427279000
@@ -28,7 +28,7 @@
       "id": 47806304,
       "title": "Ban the sale of precise geolocation",
       "link": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "score": 733,
+      "score": 736,
       "author": "hn_acker",
       "created": "2026-04-17 14:25:46",
       "created_at": 1776435946000
@@ -37,7 +37,7 @@
       "id": 47807006,
       "title": "Measuring Claude 4.7's tokenizer costs",
       "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 679,
+      "score": 686,
       "author": "aray07",
       "created": "2026-04-17 15:29:36",
       "created_at": 1776439776000
@@ -46,55 +46,55 @@
       "id": 47815774,
       "title": "Migrating from DigitalOcean to Hetzner",
       "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 563,
+      "score": 676,
       "author": "yusufusta",
       "created": "2026-04-18 13:29:04",
       "created_at": 1776518944000
     },
     {
-      "id": 47808913,
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 432,
-      "author": "cybermango",
-      "created": "2026-04-17 18:17:01",
-      "created_at": 1776449821000
-    },
-    {
       "id": 47808268,
       "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
       "link": "https://github.com/smol-machines/smolvm",
-      "score": 432,
+      "score": 443,
       "author": "binsquare",
       "created": "2026-04-17 17:18:58",
       "created_at": 1776446338000
     },
     {
+      "id": 47808913,
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "score": 437,
+      "author": "cybermango",
+      "created": "2026-04-17 18:17:01",
+      "created_at": 1776449821000
+    },
+    {
+      "id": 47816960,
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "link": "https://tokens.billchambers.me/leaderboard",
+      "score": 420,
+      "author": "anabranch",
+      "created": "2026-04-18 16:05:43",
+      "created_at": 1776528343000
+    },
+    {
       "id": 47801991,
       "title": "US Bill Mandates On-Device Age Verification",
       "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-      "score": 393,
+      "score": 395,
       "author": "ronsor",
       "created": "2026-04-17 02:50:02",
       "created_at": 1776394202000
     },
     {
-      "id": 47799120,
-      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
-      "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
-      "score": 393,
-      "author": "devonnull",
-      "created": "2026-04-16 20:31:52",
-      "created_at": 1776371512000
-    },
-    {
-      "id": 47800738,
-      "title": "Everything we like is a psyop?",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "score": 338,
-      "author": "evo_9",
-      "created": "2026-04-16 23:15:33",
-      "created_at": 1776381333000
+      "id": 47815118,
+      "title": "State of Kdenlive",
+      "link": "https://kdenlive.org/news/2026/state-2026/",
+      "score": 333,
+      "author": "f_r_d",
+      "created": "2026-04-18 11:42:37",
+      "created_at": 1776512557000
     }
   ],
   "code": 200,
