@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-20T09:47:52.006Z"
+    "lastUpdate": "2026-04-20T13:04:53.412Z"
   },
   "data": [
+    {
+      "id": 47833156,
+      "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
+      "link": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
+      "score": 198,
+      "author": "doener",
+      "created": "2026-04-20 12:12:19",
+      "created_at": 1776687139000
+    },
+    {
+      "id": 47832248,
+      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "score": 79,
+      "author": "Someone",
+      "created": "2026-04-20 10:04:40",
+      "created_at": 1776679480000
+    },
     {
       "id": 47831621,
       "title": "GitHub's Fake Star Economy",
       "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 68,
+      "score": 282,
       "author": "Liriel",
       "created": "2026-04-20 08:26:52",
       "created_at": 1776673612000
     },
     {
-      "id": 47831437,
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "link": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "score": 67,
-      "author": "feigewalnuss",
-      "created": "2026-04-20 07:49:48",
-      "created_at": 1776671388000
-    },
-    {
-      "id": 47819410,
-      "title": "SDF Public Access Unix System",
-      "link": "https://sdf.org/?ssh",
-      "score": 64,
-      "author": "neehao",
-      "created": "2026-04-18 20:48:35",
-      "created_at": 1776545315000
-    },
-    {
       "id": 47810101,
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
       "link": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "score": 47,
+      "score": 92,
       "author": "janandonly",
       "created": "2026-04-17 20:14:30",
       "created_at": 1776456870000
     },
     {
+      "id": 47810531,
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "link": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+      "score": 56,
+      "author": "breve",
+      "created": "2026-04-17 21:03:09",
+      "created_at": 1776459789000
+    },
+    {
+      "id": 47819410,
+      "title": "SDF Public Access Unix System",
+      "link": "https://sdf.org/?ssh",
+      "score": 104,
+      "author": "neehao",
+      "created": "2026-04-18 20:48:35",
+      "created_at": 1776545315000
+    },
+    {
+      "id": 47832222,
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "link": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+      "score": 140,
+      "author": "Palmik",
+      "created": "2026-04-20 10:00:35",
+      "created_at": 1776679235000
+    },
+    {
       "id": 47824463,
       "title": "Vercel April 2026 security incident",
       "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 741,
+      "score": 785,
       "author": "colesantiago",
       "created": "2026-04-19 14:14:38",
       "created_at": 1776608078000
     },
     {
-      "id": 47789087,
-      "title": "Ben Lerner's Big Feelings",
-      "link": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "score": 28,
-      "author": "prismatic",
-      "created": "2026-04-16 05:43:09",
-      "created_at": 1776318189000
+      "id": 47813616,
+      "title": "What if database branching was easy?",
+      "link": "https://xata.io/blog/what-if-database-branching-was-easy",
+      "score": 13,
+      "author": "tee-es-gee",
+      "created": "2026-04-18 06:29:55",
+      "created_at": 1776493795000
     },
     {
       "id": 47829178,
       "title": "Claude Token Counter, now with model comparisons",
       "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-      "score": 109,
+      "score": 145,
       "author": "twapi",
       "created": "2026-04-20 00:56:40",
       "created_at": 1776646600000
-    },
-    {
-      "id": 47830575,
-      "title": "Stripe's Payment APIs: the first 10 years (2020)",
-      "link": "https://stripe.dev/blog/payment-api-design",
-      "score": 45,
-      "author": "tibbar",
-      "created": "2026-04-20 05:05:43",
-      "created_at": 1776661543000
-    },
-    {
-      "id": 47831742,
-      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
-      "link": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
-      "score": 24,
-      "author": "axbyte",
-      "created": "2026-04-20 08:49:22",
-      "created_at": 1776674962000
-    },
-    {
-      "id": 47827259,
-      "title": "Stop trying to engineer your way out of listening to people",
-      "link": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 216,
-      "author": "walterbell",
-      "created": "2026-04-19 20:09:09",
-      "created_at": 1776629349000
     }
   ],
   "code": 200,
