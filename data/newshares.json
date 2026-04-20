@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-19T20:26:13.890Z"
+    "lastUpdate": "2026-04-20T01:29:49.415Z"
   },
   "data": [
+    {
+      "zqdm": "603407",
+      "zqjc": "长裕集团",
+      "sgdm": "732407",
+      "fxsl": 41000000,
+      "swfxsl": 11070000,
+      "sgsx": 11000,
+      "dgsz": 110000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-27",
+      "zqgbrq": "2026-04-29",
+      "zqjkrq": "2026-04-29",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 33.02,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "锆类产品、特种尼龙产品、精细化工产品的研发、生产和销售"
+    },
     {
       "zqdm": "301531",
       "zqjc": "春光集团",
@@ -120,29 +143,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "电子测量仪器和半导体测试设备的研发、制造、销售及服务"
-    },
-    {
-      "zqdm": "920125",
-      "zqjc": "鸿仕达",
-      "sgdm": "920125",
-      "fxsl": 13500000,
-      "swfxsl": 12150000,
-      "sgsx": 607500,
-      "dgsz": 6075000,
-      "fxjg": 16.57,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-04-13",
-      "zqgbrq": "2026-04-16",
-      "zqjkrq": null,
-      "ssrq": null,
-      "syl": 14.99,
-      "hysyl": 40.88,
-      "wszql": 0.02453994,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "智能自动化设备、智能柔性生产线、配件及耗材等产品的研发、生产与销售"
     }
   ],
   "total": 6
