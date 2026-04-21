@@ -3,23 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-21T12:59:36.382Z"
+    "lastUpdate": "2026-04-21T16:47:39.726Z"
   },
   "data": [
+    {
+      "id": 47849854,
+      "title": "Original GrapheneOS responses to WIRED fact checker",
+      "link": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+      "score": 112,
+      "author": "ChrisArchitect",
+      "created": "2026-04-21 15:04:24",
+      "created_at": 1776783864000
+    },
     {
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 138,
+      "score": 485,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
     },
     {
+      "id": 47849592,
+      "title": "As Oceans Warm, Great White Sharks Are Overheating",
+      "link": "https://e360.yale.edu/digest/great-white-sharks-climate",
+      "score": 97,
+      "author": "speckx",
+      "created": "2026-04-21 14:48:55",
+      "created_at": 1776782935000
+    },
+    {
+      "id": 47847324,
+      "title": "Tim Cook's Impeccable Timing",
+      "link": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "score": 173,
+      "author": "hasheddan",
+      "created": "2026-04-21 11:30:03",
+      "created_at": 1776771003000
+    },
+    {
+      "id": 47849097,
+      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "link": "https://github.com/ENTERPILOT/GOModel/",
+      "score": 56,
+      "author": "santiago-pl",
+      "created": "2026-04-21 14:11:53",
+      "created_at": 1776780713000
+    },
+    {
+      "id": 47849315,
+      "title": "Fusion Power Plant Simulator",
+      "link": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "score": 53,
+      "author": "sam",
+      "created": "2026-04-21 14:26:52",
+      "created_at": 1776781612000
+    },
+    {
       "id": 47840219,
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 1955,
+      "score": 2108,
       "author": "schappim",
       "created": "2026-04-20 20:39:32",
       "created_at": 1776717572000
@@ -28,73 +73,28 @@
       "id": 47847558,
       "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
       "link": "https://vidstudio.app/video-editor",
-      "score": 31,
+      "score": 168,
       "author": "kolx",
       "created": "2026-04-21 11:58:16",
       "created_at": 1776772696000
     },
     {
-      "id": 47846946,
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "link": "https://codemix.com/graph",
-      "score": 43,
-      "author": "phpnode",
-      "created": "2026-04-21 10:33:24",
-      "created_at": 1776767604000
+      "id": 47815462,
+      "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
+      "link": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+      "score": 97,
+      "author": "brilee",
+      "created": "2026-04-18 12:41:00",
+      "created_at": 1776516060000
     },
     {
-      "id": 47844269,
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "score": 281,
-      "author": "jmsflknr",
-      "created": "2026-04-21 03:43:03",
-      "created_at": 1776742983000
-    },
-    {
-      "id": 47834689,
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "link": "http://mnt.stanleylieber.com/reform/",
-      "score": 109,
-      "author": "speckx",
-      "created": "2026-04-20 14:14:52",
-      "created_at": 1776694492000
-    },
-    {
-      "id": 47847124,
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "link": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "score": 88,
-      "author": "kirschner",
-      "created": "2026-04-21 10:57:53",
-      "created_at": 1776769073000
-    },
-    {
-      "id": 47844890,
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "score": 62,
-      "author": "1659447091",
-      "created": "2026-04-21 05:27:35",
-      "created_at": 1776749255000
-    },
-    {
-      "id": 47844431,
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "score": 208,
-      "author": "bishwasbh",
-      "created": "2026-04-21 04:12:12",
-      "created_at": 1776744732000
-    },
-    {
-      "id": 47847324,
-      "title": "Tim Cook's Impeccable Timing",
-      "link": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "score": 9,
-      "author": "hasheddan",
-      "created": "2026-04-21 11:30:03",
-      "created_at": 1776771003000
+      "id": 47823365,
+      "title": "Clojure: Transducers",
+      "link": "https://clojure.org/reference/transducers",
+      "score": 32,
+      "author": "tosh",
+      "created": "2026-04-19 10:56:20",
+      "created_at": 1776596180000
     }
   ],
   "code": 200,
