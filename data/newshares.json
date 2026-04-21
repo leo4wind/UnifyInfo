@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-21T05:57:09.303Z"
+    "lastUpdate": "2026-04-21T09:16:50.081Z"
   },
   "data": [
     {
@@ -45,12 +45,35 @@
       "zqjkrq": "2026-04-28",
       "ssrq": null,
       "syl": null,
-      "hysyl": 63.78,
+      "hysyl": 64.29,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "软磁铁氧体磁粉的研发、生产和销售,并沿产业链发展软磁铁氧体磁心、电子元器件和电源等产品"
+    },
+    {
+      "zqdm": "920200",
+      "zqjc": "振宏股份",
+      "sgdm": "920200",
+      "fxsl": 22910000,
+      "swfxsl": 20619000,
+      "sgsx": 1030900,
+      "dgsz": 10309000,
+      "fxjg": 20.58,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-22",
+      "zqgbrq": "2026-04-27",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 45.08,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "锻造风电主轴和其他大型金属锻件的研发、生产和销售"
     },
     {
       "zqdm": "920186",
@@ -80,7 +103,7 @@
       "zqjc": "理奇智能",
       "sgdm": "301599",
       "fxsl": 64740000,
-      "swfxsl": 11005500,
+      "swfxsl": 22659000,
       "sgsx": 11000,
       "dgsz": 110000,
       "fxjg": 13.91,
@@ -92,7 +115,7 @@
       "ssrq": null,
       "syl": 22.7,
       "hysyl": 40.77,
-      "wszql": null,
+      "wszql": 0.0195337522,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
@@ -122,5 +145,5 @@
       "zyyw": "高性能线束装备的研发、生产和销售"
     }
   ],
-  "total": 5
+  "total": 6
 }
