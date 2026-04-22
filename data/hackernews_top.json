@@ -3,14 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-22T09:10:52.148Z"
+    "lastUpdate": "2026-04-22T13:00:41.420Z"
   },
   "data": [
+    {
+      "id": 47861270,
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 280,
+      "author": "sohkamyung",
+      "created": "2026-04-22 09:52:52",
+      "created_at": 1776851572000
+    },
+    {
+      "id": 47862386,
+      "title": "3.4M Solar Panels",
+      "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "score": 57,
+      "author": "marklit",
+      "created": "2026-04-22 12:04:30",
+      "created_at": 1776859470000
+    },
+    {
+      "id": 47862331,
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "link": "https://cli.github.com/telemetry",
+      "score": 60,
+      "author": "ingve",
+      "created": "2026-04-22 11:58:58",
+      "created_at": 1776859138000
+    },
+    {
+      "id": 47862497,
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "score": 17,
+      "author": "xnx",
+      "created": "2026-04-22 12:15:29",
+      "created_at": 1776860129000
+    },
+    {
+      "id": 47861731,
+      "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
+      "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+      "score": 38,
+      "author": "ohduran",
+      "created": "2026-04-22 10:54:49",
+      "created_at": 1776855289000
+    },
+    {
+      "id": 47861087,
+      "title": "How the Heck Does GPS Work?",
+      "link": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "score": 79,
+      "author": "alfanick",
+      "created": "2026-04-22 09:22:05",
+      "created_at": 1776849725000
+    },
     {
       "id": 47842569,
       "title": "Making RAM at Home [video]",
       "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 299,
+      "score": 442,
       "author": "kaipereira",
       "created": "2026-04-20 23:35:06",
       "created_at": 1776728106000
@@ -19,82 +73,28 @@
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 788,
+      "score": 903,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
     },
     {
-      "id": 47823654,
-      "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "link": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
-      "score": 23,
-      "author": "pseudolus",
-      "created": "2026-04-19 11:53:31",
-      "created_at": 1776599611000
+      "id": 47862230,
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "link": "https://lwn.net/Articles/1068928/",
+      "score": 11,
+      "author": "edward",
+      "created": "2026-04-22 11:48:07",
+      "created_at": 1776858487000
     },
     {
-      "id": 47847179,
-      "title": "Laws of Software Engineering",
-      "link": "https://lawsofsoftwareengineering.com",
-      "score": 993,
-      "author": "milanm081",
-      "created": "2026-04-21 11:04:56",
-      "created_at": 1776769496000
-    },
-    {
-      "id": 47835635,
-      "title": "Acetaminophen vs. ibuprofen",
-      "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "score": 344,
-      "author": "nkurz",
-      "created": "2026-04-20 15:21:16",
-      "created_at": 1776698476000
-    },
-    {
-      "id": 47846861,
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "score": 66,
-      "author": "geox",
-      "created": "2026-04-21 10:19:49",
-      "created_at": 1776766789000
-    },
-    {
-      "id": 47821853,
-      "title": "Garbage Collection Without Unsafe Code",
-      "link": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "score": 31,
-      "author": "foota",
-      "created": "2026-04-19 04:41:59",
-      "created_at": 1776573719000
-    },
-    {
-      "id": 47851634,
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 309,
-      "author": "queenelvis",
-      "created": "2026-04-21 17:14:35",
-      "created_at": 1776791675000
-    },
-    {
-      "id": 47855293,
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 570,
-      "author": "dmarcos",
-      "created": "2026-04-21 22:13:18",
-      "created_at": 1776809598000
-    },
-    {
-      "id": 47851885,
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "link": "https://britannica11.org/",
-      "score": 284,
-      "author": "ahaspel",
-      "created": "2026-04-21 17:33:50",
-      "created_at": 1776792830000
+      "id": 47859861,
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "score": 76,
+      "author": "ingve",
+      "created": "2026-04-22 06:38:05",
+      "created_at": 1776839885000
     }
   ],
   "code": 200,
