@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-22T05:54:56.892Z"
+    "lastUpdate": "2026-04-22T09:10:51.116Z"
   },
   "data": [
     {
       "id": 47840219,
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2150,
+      "score": 2151,
       "author": "schappim",
       "created": "2026-04-20 20:39:32",
       "created_at": 1776717572000
@@ -19,7 +19,7 @@
       "id": 47834195,
       "title": "All phones sold in the EU to have replaceable batteries from 2027",
       "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "score": 1421,
+      "score": 1423,
       "author": "ramonga",
       "created": "2026-04-20 13:41:25",
       "created_at": 1776692485000
@@ -28,7 +28,7 @@
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 1100,
+      "score": 1236,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
@@ -37,7 +37,7 @@
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 903,
+      "score": 993,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
@@ -52,10 +52,19 @@
       "created_at": 1776673612000
     },
     {
+      "id": 47852835,
+      "title": "ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 788,
+      "author": "wahnfrieden",
+      "created": "2026-04-21 18:50:00",
+      "created_at": 1776797400000
+    },
+    {
       "id": 47835735,
       "title": "Kimi K2.6: Advancing open-source coding",
       "link": "https://www.kimi.com/blog/kimi-k2-6",
-      "score": 696,
+      "score": 698,
       "author": "meetpateltech",
       "created": "2026-04-20 15:28:13",
       "created_at": 1776698893000
@@ -64,19 +73,10 @@
       "id": 47834565,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 694,
+      "score": 696,
       "author": "mfiguiere",
       "created": "2026-04-20 14:05:34",
       "created_at": 1776693934000
-    },
-    {
-      "id": 47852835,
-      "title": "ChatGPT Images 2.0",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 654,
-      "author": "wahnfrieden",
-      "created": "2026-04-21 18:50:00",
-      "created_at": 1776797400000
     },
     {
       "id": 47837611,
@@ -91,7 +91,7 @@
       "id": 47833247,
       "title": "Atlassian enables default data collection to train AI",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-      "score": 595,
+      "score": 596,
       "author": "kevcampb",
       "created": "2026-04-20 12:23:39",
       "created_at": 1776687819000
