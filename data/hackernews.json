@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-22T01:25:24.902Z"
+    "lastUpdate": "2026-04-22T05:54:56.892Z"
   },
   "data": [
     {
       "id": 47840219,
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2143,
+      "score": 2150,
       "author": "schappim",
       "created": "2026-04-20 20:39:32",
       "created_at": 1776717572000
@@ -19,7 +19,7 @@
       "id": 47834195,
       "title": "All phones sold in the EU to have replaceable batteries from 2027",
       "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "score": 1412,
+      "score": 1421,
       "author": "ramonga",
       "created": "2026-04-20 13:41:25",
       "created_at": 1776692485000
@@ -28,7 +28,7 @@
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 899,
+      "score": 1100,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
@@ -37,7 +37,7 @@
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 817,
+      "score": 903,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
@@ -46,7 +46,7 @@
       "id": 47831621,
       "title": "GitHub's fake star economy",
       "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 791,
+      "score": 794,
       "author": "Liriel",
       "created": "2026-04-20 08:26:52",
       "created_at": 1776673612000
@@ -55,7 +55,7 @@
       "id": 47835735,
       "title": "Kimi K2.6: Advancing open-source coding",
       "link": "https://www.kimi.com/blog/kimi-k2-6",
-      "score": 694,
+      "score": 696,
       "author": "meetpateltech",
       "created": "2026-04-20 15:28:13",
       "created_at": 1776698893000
@@ -64,16 +64,25 @@
       "id": 47834565,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 690,
+      "score": 694,
       "author": "mfiguiere",
       "created": "2026-04-20 14:05:34",
       "created_at": 1776693934000
     },
     {
+      "id": 47852835,
+      "title": "ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 654,
+      "author": "wahnfrieden",
+      "created": "2026-04-21 18:50:00",
+      "created_at": 1776797400000
+    },
+    {
       "id": 47837611,
       "title": "At long last, InfoWars is ours",
       "link": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "score": 619,
+      "score": 622,
       "author": "HotGarbage",
       "created": "2026-04-20 17:23:58",
       "created_at": 1776705838000
@@ -82,21 +91,12 @@
       "id": 47833247,
       "title": "Atlassian enables default data collection to train AI",
       "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-      "score": 590,
+      "score": 595,
       "author": "kevcampb",
       "created": "2026-04-20 12:23:39",
       "created_at": 1776687819000
-    },
-    {
-      "id": 47832222,
-      "title": "NSA is using Anthropic's Mythos despite blacklist",
-      "link": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
-      "score": 476,
-      "author": "Palmik",
-      "created": "2026-04-20 10:00:35",
-      "created_at": 1776679235000
     }
   ],
   "code": 200,
-  "message": "获取成功，开源地址 https://github.com/vikiboss/60s，反馈群 595941841"
+  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，届时公共 API 服务（60s.viki.moe）可能出现中断。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }

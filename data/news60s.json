@@ -3,7 +3,7 @@
     "name": "60秒新闻",
     "description": "每日新闻简讯",
     "url": "https://60s.viki.moe/v2/60s",
-    "lastUpdate": "2026-04-22T01:25:13.233Z"
+    "lastUpdate": "2026-04-22T05:54:40.906Z"
   },
   "data": {
     "date": "2026-04-22",
@@ -34,9 +34,9 @@
     "updated_at": 1776792342000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年三月初六",
-    "api_updated": "2026/04/22 09:23:10",
-    "api_updated_at": 1776820990482
+    "api_updated": "2026/04/22 13:54:40",
+    "api_updated_at": 1776837280893
   },
   "code": 200,
-  "message": "获取成功，开源地址 https://github.com/vikiboss/60s，反馈群 595941841"
+  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，届时公共 API 服务（60s.viki.moe）可能出现中断。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }

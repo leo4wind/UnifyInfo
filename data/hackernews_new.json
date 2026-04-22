@@ -3,100 +3,100 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-22T01:25:25.310Z"
+    "lastUpdate": "2026-04-22T05:54:57.008Z"
   },
   "data": [
+    {
+      "id": 47842569,
+      "title": "Making RAM at Home [video]",
+      "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 147,
+      "author": "kaipereira",
+      "created": "2026-04-20 23:35:06",
+      "created_at": 1776728106000
+    },
     {
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 403,
+      "score": 654,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
     },
     {
+      "id": 47835635,
+      "title": "Acetaminophen vs. ibuprofen",
+      "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "score": 194,
+      "author": "nkurz",
+      "created": "2026-04-20 15:21:16",
+      "created_at": 1776698476000
+    },
+    {
+      "id": 47846861,
+      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+      "link": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+      "score": 45,
+      "author": "geox",
+      "created": "2026-04-21 10:19:49",
+      "created_at": 1776766789000
+    },
+    {
       "id": 47855293,
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 215,
+      "score": 459,
       "author": "dmarcos",
       "created": "2026-04-21 22:13:18",
       "created_at": 1776809598000
     },
     {
+      "id": 47856535,
+      "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+      "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "score": 100,
+      "author": "zdw",
+      "created": "2026-04-21 23:53:45",
+      "created_at": 1776815625000
+    },
+    {
       "id": 47851634,
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 257,
+      "score": 299,
       "author": "queenelvis",
       "created": "2026-04-21 17:14:35",
       "created_at": 1776791675000
     },
     {
-      "id": 47850212,
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "link": "https://www.brex.com/crabtrap",
-      "score": 71,
-      "author": "pedrofranceschi",
-      "created": "2026-04-21 15:29:16",
-      "created_at": 1776785356000
-    },
-    {
-      "id": 47821801,
-      "title": "Windows Server 2025 Runs Better on ARM",
-      "link": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-      "score": 19,
-      "author": "jasoneckert",
-      "created": "2026-04-19 04:28:31",
-      "created_at": 1776572911000
-    },
-    {
-      "id": 47814874,
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "score": 130,
-      "author": "tobr",
-      "created": "2026-04-18 10:53:42",
-      "created_at": 1776509622000
-    },
-    {
-      "id": 47851885,
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "link": "https://britannica11.org/",
-      "score": 212,
-      "author": "ahaspel",
-      "created": "2026-04-21 17:33:50",
-      "created_at": 1776792830000
-    },
-    {
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 817,
+      "score": 903,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
     },
     {
-      "id": 47852177,
-      "title": "Framework Laptop 13 Pro",
-      "link": "https://frame.work/laptop13pro",
-      "score": 899,
-      "author": "Trollmann",
-      "created": "2026-04-21 18:00:34",
-      "created_at": 1776794434000
+      "id": 47851885,
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "link": "https://britannica11.org/",
+      "score": 258,
+      "author": "ahaspel",
+      "created": "2026-04-21 17:33:50",
+      "created_at": 1776792830000
     },
     {
-      "id": 47852155,
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "link": "https://github.com/calcom/cal.diy",
-      "score": 147,
-      "author": "petecooper",
-      "created": "2026-04-21 17:58:21",
-      "created_at": 1776794301000
+      "id": 47835837,
+      "title": "A printing press for biological data",
+      "link": "https://www.owlposting.com/p/the-printing-press-for-biological",
+      "score": 15,
+      "author": "crescit_eundo",
+      "created": "2026-04-20 15:34:45",
+      "created_at": 1776699285000
     }
   ],
   "code": 200,
-  "message": "获取成功，开源地址 https://github.com/vikiboss/60s，反馈群 595941841"
+  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，届时公共 API 服务（60s.viki.moe）可能出现中断。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }
