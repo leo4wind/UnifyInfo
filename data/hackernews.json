@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-22T13:00:41.224Z"
+    "lastUpdate": "2026-04-22T16:48:37.024Z"
   },
   "data": [
     {
       "id": 47840219,
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2156,
+      "score": 2157,
       "author": "schappim",
       "created": "2026-04-20 20:39:32",
       "created_at": 1776717572000
     },
     {
-      "id": 47834195,
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "score": 1427,
-      "author": "ramonga",
-      "created": "2026-04-20 13:41:25",
-      "created_at": 1776692485000
-    },
-    {
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 1357,
+      "score": 1398,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
@@ -37,7 +28,7 @@
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 1080,
+      "score": 1105,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
@@ -46,34 +37,16 @@
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 903,
+      "score": 971,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
     },
     {
-      "id": 47835735,
-      "title": "Kimi K2.6: Advancing open-source coding",
-      "link": "https://www.kimi.com/blog/kimi-k2-6",
-      "score": 698,
-      "author": "meetpateltech",
-      "created": "2026-04-20 15:28:13",
-      "created_at": 1776698893000
-    },
-    {
-      "id": 47834565,
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 697,
-      "author": "mfiguiere",
-      "created": "2026-04-20 14:05:34",
-      "created_at": 1776693934000
-    },
-    {
       "id": 47855293,
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 658,
+      "score": 765,
       "author": "dmarcos",
       "created": "2026-04-21 22:13:18",
       "created_at": 1776809598000
@@ -82,19 +55,46 @@
       "id": 47851948,
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "score": 648,
+      "score": 744,
       "author": "dlx",
       "created": "2026-04-21 17:40:39",
       "created_at": 1776793239000
     },
     {
+      "id": 47861270,
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 647,
+      "author": "sohkamyung",
+      "created": "2026-04-22 09:52:52",
+      "created_at": 1776851572000
+    },
+    {
+      "id": 47854477,
+      "title": "Claude Code to be removed from Anthropic's Pro plan?",
+      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "score": 625,
+      "author": "JamesMcMinn",
+      "created": "2026-04-21 21:03:04",
+      "created_at": 1776805384000
+    },
+    {
       "id": 47837611,
       "title": "At long last, InfoWars is ours",
       "link": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "score": 623,
+      "score": 624,
       "author": "HotGarbage",
       "created": "2026-04-20 17:23:58",
       "created_at": 1776705838000
+    },
+    {
+      "id": 47842569,
+      "title": "Making RAM at Home [video]",
+      "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 523,
+      "author": "kaipereira",
+      "created": "2026-04-20 23:35:06",
+      "created_at": 1776728106000
     }
   ],
   "code": 200,
