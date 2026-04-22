@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-22T16:48:37.024Z"
+    "lastUpdate": "2026-04-22T20:42:19.694Z"
   },
   "data": [
     {
       "id": 47840219,
       "title": "John Ternus to become Apple CEO",
       "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2157,
+      "score": 2161,
       "author": "schappim",
       "created": "2026-04-20 20:39:32",
       "created_at": 1776717572000
@@ -19,7 +19,7 @@
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 1398,
+      "score": 1414,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
@@ -28,7 +28,7 @@
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 1105,
+      "score": 1119,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
@@ -37,16 +37,34 @@
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 971,
+      "score": 994,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
     },
     {
+      "id": 47865868,
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 848,
+      "author": "Kaibeezy",
+      "created": "2026-04-22 16:29:25",
+      "created_at": 1776875365000
+    },
+    {
+      "id": 47861270,
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 798,
+      "author": "sohkamyung",
+      "created": "2026-04-22 09:52:52",
+      "created_at": 1776851572000
+    },
+    {
       "id": 47855293,
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 765,
+      "score": 785,
       "author": "dmarcos",
       "created": "2026-04-21 22:13:18",
       "created_at": 1776809598000
@@ -55,43 +73,25 @@
       "id": 47851948,
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "score": 744,
+      "score": 761,
       "author": "dlx",
       "created": "2026-04-21 17:40:39",
       "created_at": 1776793239000
     },
     {
-      "id": 47861270,
-      "title": "Windows 9x Subsystem for Linux",
-      "link": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 647,
-      "author": "sohkamyung",
-      "created": "2026-04-22 09:52:52",
-      "created_at": 1776851572000
-    },
-    {
       "id": 47854477,
       "title": "Claude Code to be removed from Anthropic's Pro plan?",
       "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "score": 625,
+      "score": 652,
       "author": "JamesMcMinn",
       "created": "2026-04-21 21:03:04",
       "created_at": 1776805384000
     },
     {
-      "id": 47837611,
-      "title": "At long last, InfoWars is ours",
-      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "score": 624,
-      "author": "HotGarbage",
-      "created": "2026-04-20 17:23:58",
-      "created_at": 1776705838000
-    },
-    {
       "id": 47842569,
       "title": "Making RAM at Home [video]",
       "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 523,
+      "score": 574,
       "author": "kaipereira",
       "created": "2026-04-20 23:35:06",
       "created_at": 1776728106000
