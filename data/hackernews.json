@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-22T20:42:19.694Z"
+    "lastUpdate": "2026-04-23T01:43:27.107Z"
   },
   "data": [
-    {
-      "id": 47840219,
-      "title": "John Ternus to become Apple CEO",
-      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2161,
-      "author": "schappim",
-      "created": "2026-04-20 20:39:32",
-      "created_at": 1776717572000
-    },
     {
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 1414,
+      "score": 1429,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
     },
     {
+      "id": 47865868,
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 1301,
+      "author": "Kaibeezy",
+      "created": "2026-04-22 16:29:25",
+      "created_at": 1776875365000
+    },
+    {
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "link": "https://lawsofsoftwareengineering.com",
-      "score": 1119,
+      "score": 1130,
       "author": "milanm081",
       "created": "2026-04-21 11:04:56",
       "created_at": 1776769496000
@@ -37,25 +37,16 @@
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 994,
+      "score": 1003,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
     },
     {
-      "id": 47865868,
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 848,
-      "author": "Kaibeezy",
-      "created": "2026-04-22 16:29:25",
-      "created_at": 1776875365000
-    },
-    {
       "id": 47861270,
       "title": "Windows 9x Subsystem for Linux",
       "link": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 798,
+      "score": 887,
       "author": "sohkamyung",
       "created": "2026-04-22 09:52:52",
       "created_at": 1776851572000
@@ -64,7 +55,7 @@
       "id": 47855293,
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 785,
+      "score": 792,
       "author": "dmarcos",
       "created": "2026-04-21 22:13:18",
       "created_at": 1776809598000
@@ -73,28 +64,37 @@
       "id": 47851948,
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "score": 761,
+      "score": 770,
       "author": "dlx",
       "created": "2026-04-21 17:40:39",
       "created_at": 1776793239000
     },
     {
+      "id": 47863217,
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 685,
+      "author": "mfiguiere",
+      "created": "2026-04-22 13:19:58",
+      "created_at": 1776863998000
+    },
+    {
       "id": 47854477,
       "title": "Claude Code to be removed from Anthropic's Pro plan?",
       "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "score": 652,
+      "score": 661,
       "author": "JamesMcMinn",
       "created": "2026-04-21 21:03:04",
       "created_at": 1776805384000
     },
     {
-      "id": 47842569,
-      "title": "Making RAM at Home [video]",
-      "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 574,
-      "author": "kaipereira",
-      "created": "2026-04-20 23:35:06",
-      "created_at": 1776728106000
+      "id": 47844269,
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "link": "https://docs.openclaw.ai/providers/anthropic",
+      "score": 499,
+      "author": "jmsflknr",
+      "created": "2026-04-21 03:43:03",
+      "created_at": 1776742983000
     }
   ],
   "code": 200,
