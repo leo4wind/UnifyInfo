@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-23T12:59:44.314Z"
+    "lastUpdate": "2026-04-23T17:09:42.505Z"
   },
   "data": [
     {
-      "id": 47874814,
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
-      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "score": 58,
-      "author": "mentalgear",
-      "created": "2026-04-23 12:12:03",
-      "created_at": 1776946323000
+      "id": 47877366,
+      "title": "France confirms data breach at government agency that manages citizens' IDs",
+      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+      "score": 162,
+      "author": "robtherobber",
+      "created": "2026-04-23 15:59:55",
+      "created_at": 1776959995000
     },
     {
-      "id": 47874647,
-      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
-      "link": "https://github.com/russellromney/honker",
-      "score": 34,
-      "author": "russellthehippo",
-      "created": "2026-04-23 11:53:11",
-      "created_at": 1776945191000
+      "id": 47876043,
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 298,
+      "author": "tosh",
+      "created": "2026-04-23 14:17:08",
+      "created_at": 1776953828000
+    },
+    {
+      "id": 47877644,
+      "title": "Incident with Multple GitHub Services",
+      "link": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+      "score": 42,
+      "author": "bwannasek",
+      "created": "2026-04-23 16:21:55",
+      "created_at": 1776961315000
     },
     {
       "id": 47872324,
       "title": "I am building a cloud",
       "link": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 547,
+      "score": 809,
       "author": "bumbledraven",
       "created": "2026-04-23 04:44:19",
       "created_at": 1776919459000
     },
     {
-      "id": 47865868,
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1879,
-      "author": "Kaibeezy",
-      "created": "2026-04-22 16:29:25",
-      "created_at": 1776875365000
+      "id": 47874647,
+      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "link": "https://github.com/russellromney/honker",
+      "score": 153,
+      "author": "russellthehippo",
+      "created": "2026-04-23 11:53:11",
+      "created_at": 1776945191000
     },
     {
-      "id": 47874631,
-      "title": "Sneaky spam in conversational replies to blog posts",
-      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "score": 24,
-      "author": "ColinWright",
-      "created": "2026-04-23 11:50:25",
-      "created_at": 1776945025000
+      "id": 47846307,
+      "title": "A DIY Watch You Can Actually Wear",
+      "link": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
+      "score": 32,
+      "author": "sarusso",
+      "created": "2026-04-21 08:52:33",
+      "created_at": 1776761553000
     },
     {
       "id": 47846688,
       "title": "Your hex editor should color-code bytes",
       "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 193,
+      "score": 378,
       "author": "tobr",
       "created": "2026-04-21 09:52:09",
       "created_at": 1776765129000
     },
     {
+      "id": 47865868,
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 2034,
+      "author": "Kaibeezy",
+      "created": "2026-04-22 16:29:25",
+      "created_at": 1776875365000
+    },
+    {
       "id": 47868867,
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 657,
+      "score": 772,
       "author": "cdrnsf",
       "created": "2026-04-22 20:27:31",
       "created_at": 1776889651000
     },
     {
-      "id": 47873694,
-      "title": "Writing a C Compiler, in Zig",
-      "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 37,
-      "author": "tosh",
-      "created": "2026-04-23 09:20:47",
-      "created_at": 1776936047000
-    },
-    {
-      "id": 47866697,
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 768,
-      "author": "danpinto",
-      "created": "2026-04-22 17:35:03",
-      "created_at": 1776879303000
+      "id": 47876647,
+      "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+      "link": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+      "score": 91,
+      "author": "greedo",
+      "created": "2026-04-23 15:08:54",
+      "created_at": 1776956934000
     }
   ],
   "code": 200,

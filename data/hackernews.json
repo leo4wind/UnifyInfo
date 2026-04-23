@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-23T12:59:44.076Z"
+    "lastUpdate": "2026-04-23T17:09:42.284Z"
   },
   "data": [
     {
       "id": 47865868,
       "title": "Alberta startup sells no-tech tractors for half price",
       "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1879,
+      "score": 2034,
       "author": "Kaibeezy",
       "created": "2026-04-22 16:29:25",
       "created_at": 1776875365000
@@ -19,7 +19,7 @@
       "id": 47852177,
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "score": 1443,
+      "score": 1449,
       "author": "Trollmann",
       "created": "2026-04-21 18:00:34",
       "created_at": 1776794434000
@@ -28,7 +28,7 @@
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 1016,
+      "score": 1023,
       "author": "wahnfrieden",
       "created": "2026-04-21 18:50:00",
       "created_at": 1776797400000
@@ -37,7 +37,7 @@
       "id": 47861270,
       "title": "Windows 9x Subsystem for Linux",
       "link": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 966,
+      "score": 976,
       "author": "sohkamyung",
       "created": "2026-04-22 09:52:52",
       "created_at": 1776851572000
@@ -46,16 +46,34 @@
       "id": 47863217,
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "link": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 884,
+      "score": 919,
       "author": "mfiguiere",
       "created": "2026-04-22 13:19:58",
       "created_at": 1776863998000
     },
     {
+      "id": 47866697,
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "score": 850,
+      "author": "danpinto",
+      "created": "2026-04-22 17:35:03",
+      "created_at": 1776879303000
+    },
+    {
+      "id": 47872324,
+      "title": "I am building a cloud",
+      "link": "https://crawshaw.io/blog/building-a-cloud",
+      "score": 809,
+      "author": "bumbledraven",
+      "created": "2026-04-23 04:44:19",
+      "created_at": 1776919459000
+    },
+    {
       "id": 47855293,
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 805,
+      "score": 807,
       "author": "dmarcos",
       "created": "2026-04-21 22:13:18",
       "created_at": 1776809598000
@@ -64,34 +82,16 @@
       "id": 47851948,
       "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "score": 783,
+      "score": 786,
       "author": "dlx",
       "created": "2026-04-21 17:40:39",
       "created_at": 1776793239000
     },
     {
-      "id": 47866697,
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 768,
-      "author": "danpinto",
-      "created": "2026-04-22 17:35:03",
-      "created_at": 1776879303000
-    },
-    {
-      "id": 47854477,
-      "title": "Claude Code to be removed from Anthropic's Pro plan?",
-      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "score": 669,
-      "author": "JamesMcMinn",
-      "created": "2026-04-21 21:03:04",
-      "created_at": 1776805384000
-    },
-    {
       "id": 47868867,
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 657,
+      "score": 772,
       "author": "cdrnsf",
       "created": "2026-04-22 20:27:31",
       "created_at": 1776889651000
