@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-23T17:09:42.557Z"
+    "lastUpdate": "2026-04-23T20:42:58.718Z"
   },
   "data": [
     {
-      "id": 47877366,
-      "title": "France confirms data breach at government agency that manages citizens' IDs",
-      "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-      "score": 162,
-      "author": "robtherobber",
-      "created": "2026-04-23 15:59:55",
-      "created_at": 1776959995000
+      "id": 47879092,
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "score": 721,
+      "author": "rd",
+      "created": "2026-04-23 18:01:39",
+      "created_at": 1776967299000
+    },
+    {
+      "id": 47880189,
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "score": 83,
+      "author": "codezero",
+      "created": "2026-04-23 19:09:40",
+      "created_at": 1776971380000
     },
     {
       "id": 47876043,
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "link": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 298,
+      "score": 485,
       "author": "tosh",
       "created": "2026-04-23 14:17:08",
       "created_at": 1776953828000
     },
     {
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 380,
+      "author": "mfiguiere",
+      "created": "2026-04-23 17:48:38",
+      "created_at": 1776966518000
+    },
+    {
+      "id": 47880697,
+      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+      "link": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+      "score": 37,
+      "author": "CGMthrowaway",
+      "created": "2026-04-23 19:43:08",
+      "created_at": 1776973388000
+    },
+    {
+      "id": 47881198,
+      "title": "Using the internet like it's 1999",
+      "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "score": 16,
+      "author": "joshuablais",
+      "created": "2026-04-23 20:14:29",
+      "created_at": 1776975269000
+    },
+    {
+      "id": 47879986,
+      "title": "Meta to cut 10% of jobs, or 8k employees",
+      "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "score": 263,
+      "author": "Vaslo",
+      "created": "2026-04-23 18:55:32",
+      "created_at": 1776970532000
+    },
+    {
+      "id": 47878117,
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "link": "https://blog.meshcore.io/2026/04/23/the-split",
+      "score": 79,
+      "author": "wielebny",
+      "created": "2026-04-23 16:55:13",
+      "created_at": 1776963313000
+    },
+    {
+      "id": 47878633,
+      "title": "Palantir employees are starting to wonder if they're the bad guys",
+      "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "score": 374,
+      "author": "pavel_lishin",
+      "created": "2026-04-23 17:30:05",
+      "created_at": 1776965405000
+    },
+    {
       "id": 47877644,
-      "title": "Incident with Multple GitHub Services",
+      "title": "Incident with multple GitHub services",
       "link": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "score": 42,
+      "score": 141,
       "author": "bwannasek",
       "created": "2026-04-23 16:21:55",
       "created_at": 1776961315000
-    },
-    {
-      "id": 47872324,
-      "title": "I am building a cloud",
-      "link": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 809,
-      "author": "bumbledraven",
-      "created": "2026-04-23 04:44:19",
-      "created_at": 1776919459000
-    },
-    {
-      "id": 47874647,
-      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
-      "link": "https://github.com/russellromney/honker",
-      "score": 153,
-      "author": "russellthehippo",
-      "created": "2026-04-23 11:53:11",
-      "created_at": 1776945191000
-    },
-    {
-      "id": 47846307,
-      "title": "A DIY Watch You Can Actually Wear",
-      "link": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "score": 32,
-      "author": "sarusso",
-      "created": "2026-04-21 08:52:33",
-      "created_at": 1776761553000
-    },
-    {
-      "id": 47846688,
-      "title": "Your hex editor should color-code bytes",
-      "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 378,
-      "author": "tobr",
-      "created": "2026-04-21 09:52:09",
-      "created_at": 1776765129000
-    },
-    {
-      "id": 47865868,
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2034,
-      "author": "Kaibeezy",
-      "created": "2026-04-22 16:29:25",
-      "created_at": 1776875365000
-    },
-    {
-      "id": 47868867,
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 772,
-      "author": "cdrnsf",
-      "created": "2026-04-22 20:27:31",
-      "created_at": 1776889651000
-    },
-    {
-      "id": 47876647,
-      "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
-      "link": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
-      "score": 91,
-      "author": "greedo",
-      "created": "2026-04-23 15:08:54",
-      "created_at": 1776956934000
     }
   ],
   "code": 200,
