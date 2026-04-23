@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-23T09:17:30.800Z"
+    "lastUpdate": "2026-04-23T12:59:44.314Z"
   },
   "data": [
+    {
+      "id": 47874814,
+      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "score": 58,
+      "author": "mentalgear",
+      "created": "2026-04-23 12:12:03",
+      "created_at": 1776946323000
+    },
+    {
+      "id": 47874647,
+      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "link": "https://github.com/russellromney/honker",
+      "score": 34,
+      "author": "russellthehippo",
+      "created": "2026-04-23 11:53:11",
+      "created_at": 1776945191000
+    },
     {
       "id": 47872324,
       "title": "I am building a cloud",
       "link": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 314,
+      "score": 547,
       "author": "bumbledraven",
       "created": "2026-04-23 04:44:19",
       "created_at": 1776919459000
@@ -19,82 +37,55 @@
       "id": 47865868,
       "title": "Alberta startup sells no-tech tractors for half price",
       "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1746,
+      "score": 1879,
       "author": "Kaibeezy",
       "created": "2026-04-22 16:29:25",
       "created_at": 1776875365000
     },
     {
-      "id": 47868867,
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 585,
-      "author": "cdrnsf",
-      "created": "2026-04-22 20:27:31",
-      "created_at": 1776889651000
+      "id": 47874631,
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "score": 24,
+      "author": "ColinWright",
+      "created": "2026-04-23 11:50:25",
+      "created_at": 1776945025000
     },
     {
       "id": 47846688,
       "title": "Your hex editor should color-code bytes",
       "link": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 47,
+      "score": 193,
       "author": "tobr",
       "created": "2026-04-21 09:52:09",
       "created_at": 1776765129000
     },
     {
+      "id": 47868867,
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "score": 657,
+      "author": "cdrnsf",
+      "created": "2026-04-22 20:27:31",
+      "created_at": 1776889651000
+    },
+    {
+      "id": 47873694,
+      "title": "Writing a C Compiler, in Zig",
+      "link": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+      "score": 37,
+      "author": "tosh",
+      "created": "2026-04-23 09:20:47",
+      "created_at": 1776936047000
+    },
+    {
       "id": 47866697,
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 683,
+      "score": 768,
       "author": "danpinto",
       "created": "2026-04-22 17:35:03",
       "created_at": 1776879303000
-    },
-    {
-      "id": 47824943,
-      "title": "5x5 Pixel font for tiny screens",
-      "link": "https://maurycyz.com/projects/mcufont/",
-      "score": 602,
-      "author": "zdw",
-      "created": "2026-04-19 15:19:28",
-      "created_at": 1776611968000
-    },
-    {
-      "id": 47872452,
-      "title": "Ars Technica: Our newsroom AI policy",
-      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 45,
-      "author": "zdw",
-      "created": "2026-04-23 05:14:05",
-      "created_at": 1776921245000
-    },
-    {
-      "id": 47843434,
-      "title": "The Onion to Take over InfoWars",
-      "link": "https://www.nytimes.com/2026/04/20/business/infowars-alex-jones-the-onion.html",
-      "score": 149,
-      "author": "lxm",
-      "created": "2026-04-21 01:23:23",
-      "created_at": 1776734603000
-    },
-    {
-      "id": 47846718,
-      "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
-      "link": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 70,
-      "author": "Prof_Sigmund",
-      "created": "2026-04-21 09:55:49",
-      "created_at": 1776765349000
-    },
-    {
-      "id": 47866913,
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "link": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 360,
-      "author": "pella",
-      "created": "2026-04-22 17:51:17",
-      "created_at": 1776880277000
     }
   ],
   "code": 200,
