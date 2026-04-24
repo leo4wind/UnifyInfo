@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-23T20:42:58.718Z"
+    "lastUpdate": "2026-04-24T01:30:05.764Z"
   },
   "data": [
     {
       "id": 47879092,
       "title": "GPT-5.5",
       "link": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 721,
+      "score": 1069,
       "author": "rd",
       "created": "2026-04-23 18:01:39",
       "created_at": 1776967299000
     },
     {
-      "id": 47880189,
-      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "score": 83,
-      "author": "codezero",
-      "created": "2026-04-23 19:09:40",
-      "created_at": 1776971380000
-    },
-    {
       "id": 47876043,
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "link": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 485,
+      "score": 637,
       "author": "tosh",
       "created": "2026-04-23 14:17:08",
       "created_at": 1776953828000
     },
     {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 380,
-      "author": "mfiguiere",
-      "created": "2026-04-23 17:48:38",
-      "created_at": 1776966518000
+      "id": 47882697,
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "score": 88,
+      "author": "lucaronin",
+      "created": "2026-04-23 22:01:59",
+      "created_at": 1776981719000
     },
     {
-      "id": 47880697,
-      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-      "link": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
-      "score": 37,
-      "author": "CGMthrowaway",
-      "created": "2026-04-23 19:43:08",
-      "created_at": 1776973388000
-    },
-    {
-      "id": 47881198,
-      "title": "Using the internet like it's 1999",
-      "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "score": 16,
-      "author": "joshuablais",
-      "created": "2026-04-23 20:14:29",
-      "created_at": 1776975269000
-    },
-    {
-      "id": 47879986,
-      "title": "Meta to cut 10% of jobs, or 8k employees",
-      "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 263,
-      "author": "Vaslo",
-      "created": "2026-04-23 18:55:32",
-      "created_at": 1776970532000
+      "id": 47883108,
+      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+      "link": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "score": 195,
+      "author": "paulpauper",
+      "created": "2026-04-23 22:37:01",
+      "created_at": 1776983821000
     },
     {
       "id": 47878117,
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "link": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 79,
+      "score": 150,
       "author": "wielebny",
       "created": "2026-04-23 16:55:13",
       "created_at": 1776963313000
     },
     {
+      "id": 47881786,
+      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "score": 49,
+      "author": "mji",
+      "created": "2026-04-23 20:53:27",
+      "created_at": 1776977607000
+    },
+    {
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 565,
+      "author": "mfiguiere",
+      "created": "2026-04-23 17:48:38",
+      "created_at": 1776966518000
+    },
+    {
+      "id": 47872324,
+      "title": "I am building a cloud",
+      "link": "https://crawshaw.io/blog/building-a-cloud",
+      "score": 988,
+      "author": "bumbledraven",
+      "created": "2026-04-23 04:44:19",
+      "created_at": 1776919459000
+    },
+    {
+      "id": 47865822,
+      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+      "link": "https://github.com/Infisical/agent-vault",
+      "score": 67,
+      "author": "dangtony98",
+      "created": "2026-04-22 16:25:28",
+      "created_at": 1776875128000
+    },
+    {
       "id": 47878633,
       "title": "Palantir employees are starting to wonder if they're the bad guys",
       "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "score": 374,
+      "score": 724,
       "author": "pavel_lishin",
       "created": "2026-04-23 17:30:05",
       "created_at": 1776965405000
-    },
-    {
-      "id": 47877644,
-      "title": "Incident with multple GitHub services",
-      "link": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "score": 141,
-      "author": "bwannasek",
-      "created": "2026-04-23 16:21:55",
-      "created_at": 1776961315000
     }
   ],
   "code": 200,
