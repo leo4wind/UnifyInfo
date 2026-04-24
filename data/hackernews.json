@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-24T06:02:12.823Z"
+    "lastUpdate": "2026-04-24T09:21:52.314Z"
   },
   "data": [
     {
       "id": 47865868,
       "title": "Alberta startup sells no-tech tractors for half price",
       "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2173,
+      "score": 2190,
       "author": "Kaibeezy",
       "created": "2026-04-22 16:29:25",
       "created_at": 1776875365000
@@ -19,7 +19,7 @@
       "id": 47879092,
       "title": "GPT-5.5",
       "link": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1242,
+      "score": 1362,
       "author": "rd",
       "created": "2026-04-23 18:01:39",
       "created_at": 1776967299000
@@ -28,7 +28,7 @@
       "id": 47872324,
       "title": "I am building a cloud",
       "link": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 1042,
+      "score": 1063,
       "author": "bumbledraven",
       "created": "2026-04-23 04:44:19",
       "created_at": 1776919459000
@@ -37,7 +37,7 @@
       "id": 47861270,
       "title": "Windows 9x Subsystem for Linux",
       "link": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 992,
+      "score": 994,
       "author": "sohkamyung",
       "created": "2026-04-22 09:52:52",
       "created_at": 1776851572000
@@ -46,7 +46,7 @@
       "id": 47863217,
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "link": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 951,
+      "score": 957,
       "author": "mfiguiere",
       "created": "2026-04-22 13:19:58",
       "created_at": 1776863998000
@@ -55,16 +55,25 @@
       "id": 47866697,
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 904,
+      "score": 906,
       "author": "danpinto",
       "created": "2026-04-22 17:35:03",
       "created_at": 1776879303000
     },
     {
+      "id": 47884971,
+      "title": "DeepSeek v4",
+      "link": "https://api-docs.deepseek.com/",
+      "score": 905,
+      "author": "impact_sy",
+      "created": "2026-04-24 03:01:21",
+      "created_at": 1776999681000
+    },
+    {
       "id": 47868867,
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 855,
+      "score": 857,
       "author": "cdrnsf",
       "created": "2026-04-22 20:27:31",
       "created_at": 1776889651000
@@ -73,7 +82,7 @@
       "id": 47878633,
       "title": "Palantir employees are starting to wonder if they're the bad guys",
       "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "score": 815,
+      "score": 845,
       "author": "pavel_lishin",
       "created": "2026-04-23 17:30:05",
       "created_at": 1776965405000
@@ -82,19 +91,10 @@
       "id": 47876043,
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "link": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 711,
+      "score": 750,
       "author": "tosh",
       "created": "2026-04-23 14:17:08",
       "created_at": 1776953828000
-    },
-    {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 641,
-      "author": "mfiguiere",
-      "created": "2026-04-23 17:48:38",
-      "created_at": 1776966518000
     }
   ],
   "code": 200,

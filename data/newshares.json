@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-24T06:02:16.363Z"
+    "lastUpdate": "2026-04-24T09:22:12.088Z"
   },
   "data": [
+    {
+      "zqdm": "920178",
+      "zqjc": "锐翔智能",
+      "sgdm": "920178",
+      "fxsl": 13746180,
+      "swfxsl": 12371562,
+      "sgsx": 618500,
+      "dgsz": 6185000,
+      "fxjg": 29.47,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-04-27",
+      "zqgbrq": "2026-04-30",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 41.25,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "智能制造装备的研发设计、生产、销售"
+    },
     {
       "zqdm": "603407",
       "zqjc": "长裕集团",
@@ -14,15 +37,15 @@
       "swfxsl": 11070000,
       "sgsx": 11000,
       "dgsz": 110000,
-      "fxjg": null,
+      "fxjg": 13.86,
       "zxj": 0,
       "srspj": null,
       "sgrq": "2026-04-27",
       "zqgbrq": "2026-04-29",
       "zqjkrq": "2026-04-29",
       "ssrq": null,
-      "syl": null,
-      "hysyl": 33.1,
+      "syl": 23,
+      "hysyl": 33.94,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -122,5 +145,5 @@
       "zyyw": "专注于物料自动配料、分散乳化、混合搅拌等物料自动化处理领域,提供专业的物料智能处理系统整体解决方案"
     }
   ],
-  "total": 5
+  "total": 6
 }
