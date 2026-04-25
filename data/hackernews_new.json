@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-25T12:38:33.598Z"
+    "lastUpdate": "2026-04-25T16:30:23.258Z"
   },
   "data": [
+    {
+      "id": 47863570,
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 252,
+      "author": "stephen-hill",
+      "created": "2026-04-22 13:46:23",
+      "created_at": 1776865583000
+    },
+    {
+      "id": 47901734,
+      "title": "GPT 5.5 biosafety bounty",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "score": 36,
+      "author": "Murfalo",
+      "created": "2026-04-25 14:17:31",
+      "created_at": 1777126651000
+    },
     {
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 269,
+      "score": 400,
       "author": "calcifer",
       "created": "2026-04-25 05:56:12",
       "created_at": 1777096572000
     },
     {
+      "id": 47900398,
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "link": "https://github.com/MartinGalway/C64_music",
+      "score": 88,
+      "author": "ingve",
+      "created": "2026-04-25 10:46:14",
+      "created_at": 1777113974000
+    },
+    {
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 636,
+      "score": 718,
       "author": "elffjs",
       "created": "2026-04-24 16:04:41",
       "created_at": 1777046681000
     },
     {
-      "id": 47857563,
-      "title": "How to Implement an FPS Counter",
-      "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-      "score": 51,
-      "author": "vplesko",
-      "created": "2026-04-22 01:31:17",
-      "created_at": 1776821477000
+      "id": 47869042,
+      "title": "Insights into firewood use by early Middle Pleistocene hominins",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
+      "score": 14,
+      "author": "wslh",
+      "created": "2026-04-22 20:42:06",
+      "created_at": 1776890526000
     },
     {
-      "id": 47862541,
-      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-      "link": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 86,
-      "author": "arkadiuss",
-      "created": "2026-04-22 12:20:01",
-      "created_at": 1776860401000
+      "id": 47874613,
+      "title": "Commenting and Approving Pull Requests",
+      "link": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
+      "score": 41,
+      "author": "jwworth",
+      "created": "2026-04-23 11:47:46",
+      "created_at": 1776944866000
     },
     {
-      "id": 47899844,
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "link": "https://github.com/nex-crm/wuphf",
-      "score": 104,
-      "author": "najmuzzaman",
-      "created": "2026-04-25 08:53:53",
-      "created_at": 1777107233000
+      "id": 47900506,
+      "title": "Lambda Calculus Benchmark for AI",
+      "link": "https://victortaelin.github.io/lambench/",
+      "score": 72,
+      "author": "marvinborner",
+      "created": "2026-04-25 11:16:23",
+      "created_at": 1777115783000
     },
     {
-      "id": 47900440,
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "link": "https://github.com/nakagami/grdpwasm",
-      "score": 9,
-      "author": "mariuz",
-      "created": "2026-04-25 10:59:29",
-      "created_at": 1777114769000
+      "id": 47870439,
+      "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
+      "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
+      "score": 19,
+      "author": "bookofjoe",
+      "created": "2026-04-22 23:07:47",
+      "created_at": 1776899267000
     },
     {
-      "id": 47858294,
-      "title": "Humpback whales are forming super-groups",
-      "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 136,
-      "author": "andsoitis",
-      "created": "2026-04-22 02:55:49",
-      "created_at": 1776826549000
-    },
-    {
-      "id": 47897681,
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 133,
-      "author": "rbanffy",
-      "created": "2026-04-25 01:03:09",
-      "created_at": 1777078989000
-    },
-    {
-      "id": 47897647,
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 200,
-      "author": "pigeons",
-      "created": "2026-04-25 00:58:38",
-      "created_at": 1777078718000
-    },
-    {
-      "id": 47858939,
-      "title": "Paraloid B-72",
-      "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 212,
-      "author": "Ariarule",
-      "created": "2026-04-22 04:17:07",
-      "created_at": 1776831427000
+      "id": 47892655,
+      "title": "Which one is more important: more parameters or more computation? (2021)",
+      "link": "https://parl.ai/projects/params_vs_compute/",
+      "score": 6,
+      "author": "jxmorris12",
+      "created": "2026-04-24 16:44:57",
+      "created_at": 1777049097000
     }
   ],
   "code": 200,
