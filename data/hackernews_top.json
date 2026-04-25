@@ -3,32 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-25T05:43:14.061Z"
+    "lastUpdate": "2026-04-25T08:40:54.028Z"
   },
   "data": [
+    {
+      "id": 47899053,
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 106,
+      "author": "calcifer",
+      "created": "2026-04-25 05:56:12",
+      "created_at": 1777096572000
+    },
     {
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 467,
+      "score": 564,
       "author": "elffjs",
       "created": "2026-04-24 16:04:41",
       "created_at": 1777046681000
     },
     {
-      "id": 47898597,
-      "title": "Turbo Vision 2.0 – a modern port",
-      "link": "https://github.com/magiblot/tvision",
-      "score": 28,
-      "author": "andsoitis",
-      "created": "2026-04-25 04:18:01",
-      "created_at": 1777090681000
+      "id": 47862541,
+      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+      "link": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "score": 47,
+      "author": "arkadiuss",
+      "created": "2026-04-22 12:20:01",
+      "created_at": 1776860401000
     },
     {
       "id": 47858939,
       "title": "Paraloid B-72",
       "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 112,
+      "score": 171,
       "author": "Ariarule",
       "created": "2026-04-22 04:17:07",
       "created_at": 1776831427000
@@ -37,64 +46,55 @@
       "id": 47858294,
       "title": "Humpback whales are forming super-groups",
       "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 63,
+      "score": 97,
       "author": "andsoitis",
       "created": "2026-04-22 02:55:49",
       "created_at": 1776826549000
     },
     {
-      "id": 47862541,
-      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-      "link": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 10,
-      "author": "arkadiuss",
-      "created": "2026-04-22 12:20:01",
-      "created_at": 1776860401000
+      "id": 47897681,
+      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "score": 78,
+      "author": "rbanffy",
+      "created": "2026-04-25 01:03:09",
+      "created_at": 1777078989000
     },
     {
       "id": 47894747,
       "title": "My audio interface has SSH enabled by default",
       "link": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 201,
+      "score": 235,
       "author": "hhh",
       "created": "2026-04-24 19:30:46",
       "created_at": 1777059046000
     },
     {
-      "id": 47897647,
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 92,
-      "author": "pigeons",
-      "created": "2026-04-25 00:58:38",
-      "created_at": 1777078718000
-    },
-    {
-      "id": 47864056,
-      "title": "Iliad fragment found in Roman-era mummy",
-      "link": "https://www.thehistoryblog.com/archives/75877",
-      "score": 153,
-      "author": "wise_blood",
-      "created": "2026-04-22 14:18:35",
-      "created_at": 1776867515000
-    },
-    {
       "id": 47890799,
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 392,
+      "score": 422,
       "author": "alcazar",
       "created": "2026-04-24 14:28:52",
       "created_at": 1777040932000
     },
     {
-      "id": 47897681,
-      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
-      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 35,
-      "author": "rbanffy",
-      "created": "2026-04-25 01:03:09",
-      "created_at": 1777078989000
+      "id": 47865283,
+      "title": "A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
+      "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+      "score": 9,
+      "author": "defrost",
+      "created": "2026-04-22 15:46:12",
+      "created_at": 1776872772000
+    },
+    {
+      "id": 47897647,
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "score": 138,
+      "author": "pigeons",
+      "created": "2026-04-25 00:58:38",
+      "created_at": 1777078718000
     }
   ],
   "code": 200,
