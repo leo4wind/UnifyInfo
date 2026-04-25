@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-25T08:40:54.060Z"
+    "lastUpdate": "2026-04-25T12:38:33.598Z"
   },
   "data": [
     {
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 106,
+      "score": 269,
       "author": "calcifer",
       "created": "2026-04-25 05:56:12",
       "created_at": 1777096572000
@@ -19,82 +19,82 @@
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 564,
+      "score": 636,
       "author": "elffjs",
       "created": "2026-04-24 16:04:41",
       "created_at": 1777046681000
     },
     {
+      "id": 47857563,
+      "title": "How to Implement an FPS Counter",
+      "link": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+      "score": 51,
+      "author": "vplesko",
+      "created": "2026-04-22 01:31:17",
+      "created_at": 1776821477000
+    },
+    {
       "id": 47862541,
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "link": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 47,
+      "score": 86,
       "author": "arkadiuss",
       "created": "2026-04-22 12:20:01",
       "created_at": 1776860401000
     },
     {
-      "id": 47858939,
-      "title": "Paraloid B-72",
-      "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 171,
-      "author": "Ariarule",
-      "created": "2026-04-22 04:17:07",
-      "created_at": 1776831427000
+      "id": 47899844,
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "link": "https://github.com/nex-crm/wuphf",
+      "score": 104,
+      "author": "najmuzzaman",
+      "created": "2026-04-25 08:53:53",
+      "created_at": 1777107233000
+    },
+    {
+      "id": 47900440,
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "link": "https://github.com/nakagami/grdpwasm",
+      "score": 9,
+      "author": "mariuz",
+      "created": "2026-04-25 10:59:29",
+      "created_at": 1777114769000
     },
     {
       "id": 47858294,
       "title": "Humpback whales are forming super-groups",
       "link": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 97,
+      "score": 136,
       "author": "andsoitis",
       "created": "2026-04-22 02:55:49",
       "created_at": 1776826549000
     },
     {
       "id": 47897681,
-      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "title": "Plain text has been around for decades and it’s here to stay",
       "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 78,
+      "score": 133,
       "author": "rbanffy",
       "created": "2026-04-25 01:03:09",
       "created_at": 1777078989000
     },
     {
-      "id": 47894747,
-      "title": "My audio interface has SSH enabled by default",
-      "link": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 235,
-      "author": "hhh",
-      "created": "2026-04-24 19:30:46",
-      "created_at": 1777059046000
-    },
-    {
-      "id": 47890799,
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 422,
-      "author": "alcazar",
-      "created": "2026-04-24 14:28:52",
-      "created_at": 1777040932000
-    },
-    {
-      "id": 47865283,
-      "title": "A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
-      "link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
-      "score": 9,
-      "author": "defrost",
-      "created": "2026-04-22 15:46:12",
-      "created_at": 1776872772000
-    },
-    {
       "id": 47897647,
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 138,
+      "score": 200,
       "author": "pigeons",
       "created": "2026-04-25 00:58:38",
       "created_at": 1777078718000
+    },
+    {
+      "id": 47858939,
+      "title": "Paraloid B-72",
+      "link": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "score": 212,
+      "author": "Ariarule",
+      "created": "2026-04-22 04:17:07",
+      "created_at": 1776831427000
     }
   ],
   "code": 200,
