@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-25T16:30:23.258Z"
+    "lastUpdate": "2026-04-25T20:27:41.427Z"
   },
   "data": [
     {
       "id": 47863570,
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
       "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 252,
+      "score": 438,
       "author": "stephen-hill",
       "created": "2026-04-22 13:46:23",
       "created_at": 1776865583000
     },
     {
-      "id": 47901734,
-      "title": "GPT 5.5 biosafety bounty",
-      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "score": 36,
-      "author": "Murfalo",
-      "created": "2026-04-25 14:17:31",
-      "created_at": 1777126651000
+      "id": 47860198,
+      "title": "The Free Universal Construction Kit",
+      "link": "https://fffff.at/free-universal-construction-kit/",
+      "score": 128,
+      "author": "robinhouston",
+      "created": "2026-04-22 07:20:23",
+      "created_at": 1776842423000
     },
     {
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 400,
+      "score": 480,
       "author": "calcifer",
       "created": "2026-04-25 05:56:12",
       "created_at": 1777096572000
     },
     {
+      "id": 47902525,
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "score": 40,
+      "author": "speckx",
+      "created": "2026-04-25 16:11:50",
+      "created_at": 1777133510000
+    },
+    {
       "id": 47900398,
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "link": "https://github.com/MartinGalway/C64_music",
-      "score": 88,
+      "score": 134,
       "author": "ingve",
       "created": "2026-04-25 10:46:14",
       "created_at": 1777113974000
     },
     {
-      "id": 47892074,
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 718,
-      "author": "elffjs",
-      "created": "2026-04-24 16:04:41",
-      "created_at": 1777046681000
-    },
-    {
-      "id": 47869042,
-      "title": "Insights into firewood use by early Middle Pleistocene hominins",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "score": 14,
-      "author": "wslh",
-      "created": "2026-04-22 20:42:06",
-      "created_at": 1776890526000
-    },
-    {
-      "id": 47874613,
-      "title": "Commenting and Approving Pull Requests",
-      "link": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
-      "score": 41,
-      "author": "jwworth",
-      "created": "2026-04-23 11:47:46",
-      "created_at": 1776944866000
-    },
-    {
-      "id": 47900506,
-      "title": "Lambda Calculus Benchmark for AI",
-      "link": "https://victortaelin.github.io/lambench/",
-      "score": 72,
-      "author": "marvinborner",
-      "created": "2026-04-25 11:16:23",
-      "created_at": 1777115783000
-    },
-    {
-      "id": 47870439,
-      "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
-      "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-      "score": 19,
-      "author": "bookofjoe",
-      "created": "2026-04-22 23:07:47",
-      "created_at": 1776899267000
+      "id": 47841141,
+      "title": "Desmond Morris has died",
+      "link": "https://www.bbc.com/news/articles/c51y797v200o",
+      "score": 55,
+      "author": "martey",
+      "created": "2026-04-20 21:32:47",
+      "created_at": 1776720767000
     },
     {
       "id": 47892655,
       "title": "Which one is more important: more parameters or more computation? (2021)",
       "link": "https://parl.ai/projects/params_vs_compute/",
-      "score": 6,
+      "score": 30,
       "author": "jxmorris12",
       "created": "2026-04-24 16:44:57",
       "created_at": 1777049097000
+    },
+    {
+      "id": 47903690,
+      "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+      "link": "https://getkloak.io/",
+      "score": 10,
+      "author": "neo2006",
+      "created": "2026-04-25 19:03:01",
+      "created_at": 1777143781000
+    },
+    {
+      "id": 47900478,
+      "title": "Discret 11, the French TV encryption of the 80s",
+      "link": "https://fabiensanglard.net/discret11/",
+      "score": 107,
+      "author": "adunk",
+      "created": "2026-04-25 11:10:41",
+      "created_at": 1777115441000
+    },
+    {
+      "id": 47903471,
+      "title": "AI agents that argue with each other to improve decisions",
+      "link": "https://github.com/rockcat/HATS",
+      "score": 11,
+      "author": "rockcat12",
+      "created": "2026-04-25 18:30:12",
+      "created_at": 1777141812000
     }
   ],
   "code": 200,
