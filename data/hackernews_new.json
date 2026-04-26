@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-25T20:27:41.427Z"
+    "lastUpdate": "2026-04-26T01:44:13.830Z"
   },
   "data": [
     {
-      "id": 47863570,
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 438,
-      "author": "stephen-hill",
-      "created": "2026-04-22 13:46:23",
-      "created_at": 1776865583000
+      "id": 47905984,
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 56,
+      "author": "chiefalchemist",
+      "created": "2026-04-26 00:12:47",
+      "created_at": 1777162367000
+    },
+    {
+      "id": 47904876,
+      "title": "USB Cheat Sheet (2022)",
+      "link": "https://fabiensanglard.net/usbcheat/index.html",
+      "score": 157,
+      "author": "gwerbret",
+      "created": "2026-04-25 21:51:18",
+      "created_at": 1777153878000
     },
     {
       "id": 47860198,
       "title": "The Free Universal Construction Kit",
       "link": "https://fffff.at/free-universal-construction-kit/",
-      "score": 128,
+      "score": 271,
       "author": "robinhouston",
       "created": "2026-04-22 07:20:23",
       "created_at": 1776842423000
     },
     {
-      "id": 47899053,
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 480,
-      "author": "calcifer",
-      "created": "2026-04-25 05:56:12",
-      "created_at": 1777096572000
+      "id": 47905837,
+      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+      "link": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+      "score": 29,
+      "author": "gz09",
+      "created": "2026-04-25 23:53:40",
+      "created_at": 1777161220000
+    },
+    {
+      "id": 47870901,
+      "title": "OpenAI Privacy Filter",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "score": 82,
+      "author": "tanelpoder",
+      "created": "2026-04-23 00:14:55",
+      "created_at": 1776903295000
+    },
+    {
+      "id": 47863570,
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 523,
+      "author": "stephen-hill",
+      "created": "2026-04-22 13:46:23",
+      "created_at": 1776865583000
     },
     {
       "id": 47902525,
       "title": "Using coding assistance tools to revive projects you never were going to finish",
       "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-      "score": 40,
+      "score": 176,
       "author": "speckx",
       "created": "2026-04-25 16:11:50",
       "created_at": 1777133510000
     },
     {
-      "id": 47900398,
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "link": "https://github.com/MartinGalway/C64_music",
-      "score": 134,
-      "author": "ingve",
-      "created": "2026-04-25 10:46:14",
-      "created_at": 1777113974000
+      "id": 47903945,
+      "title": "America's Geothermal Breakthrough",
+      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "score": 65,
+      "author": "sleepyguy",
+      "created": "2026-04-25 19:38:55",
+      "created_at": 1777145935000
     },
     {
-      "id": 47841141,
-      "title": "Desmond Morris has died",
-      "link": "https://www.bbc.com/news/articles/c51y797v200o",
-      "score": 55,
-      "author": "martey",
-      "created": "2026-04-20 21:32:47",
-      "created_at": 1776720767000
+      "id": 47875597,
+      "title": "Optimizing Datalog for the GPU",
+      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
+      "score": 15,
+      "author": "tosh",
+      "created": "2026-04-23 13:34:47",
+      "created_at": 1776951287000
     },
     {
-      "id": 47892655,
-      "title": "Which one is more important: more parameters or more computation? (2021)",
-      "link": "https://parl.ai/projects/params_vs_compute/",
-      "score": 30,
-      "author": "jxmorris12",
-      "created": "2026-04-24 16:44:57",
-      "created_at": 1777049097000
-    },
-    {
-      "id": 47903690,
-      "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-      "link": "https://getkloak.io/",
-      "score": 10,
-      "author": "neo2006",
-      "created": "2026-04-25 19:03:01",
-      "created_at": 1777143781000
-    },
-    {
-      "id": 47900478,
-      "title": "Discret 11, the French TV encryption of the 80s",
-      "link": "https://fabiensanglard.net/discret11/",
-      "score": 107,
-      "author": "adunk",
-      "created": "2026-04-25 11:10:41",
-      "created_at": 1777115441000
-    },
-    {
-      "id": 47903471,
-      "title": "AI agents that argue with each other to improve decisions",
-      "link": "https://github.com/rockcat/HATS",
-      "score": 11,
-      "author": "rockcat12",
-      "created": "2026-04-25 18:30:12",
-      "created_at": 1777141812000
+      "id": 47866127,
+      "title": "The Joy of Folding Bikes",
+      "link": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "score": 79,
+      "author": "pavel_lishin",
+      "created": "2026-04-22 16:50:27",
+      "created_at": 1776876627000
     }
   ],
   "code": 200,
