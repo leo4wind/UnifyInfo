@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-26T06:00:52.314Z"
+    "lastUpdate": "2026-04-26T08:49:07.445Z"
   },
   "data": [
     {
       "id": 47892019,
       "title": "I cancelled Claude: Token issues, declining quality, and poor support",
       "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 941,
+      "score": 946,
       "author": "y42",
       "created": "2026-04-24 15:59:19",
       "created_at": 1777046359000
@@ -19,7 +19,7 @@
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 799,
+      "score": 801,
       "author": "elffjs",
       "created": "2026-04-24 16:04:41",
       "created_at": 1777046681000
@@ -28,7 +28,7 @@
       "id": 47899053,
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 567,
+      "score": 579,
       "author": "calcifer",
       "created": "2026-04-25 05:56:12",
       "created_at": 1777096572000
@@ -37,7 +37,7 @@
       "id": 47890799,
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "link": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 517,
+      "score": 518,
       "author": "alcazar",
       "created": "2026-04-24 14:28:52",
       "created_at": 1777040932000
@@ -46,7 +46,7 @@
       "id": 47905283,
       "title": "Trump fires NSF's oversight board",
       "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-      "score": 425,
+      "score": 450,
       "author": "skullone",
       "created": "2026-04-25 22:39:33",
       "created_at": 1777156773000
@@ -55,7 +55,7 @@
       "id": 47891019,
       "title": "Norway set to become latest country to ban social media for under 16s",
       "link": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "score": 406,
+      "score": 410,
       "author": "1vuio0pswjnm7",
       "created": "2026-04-24 14:45:10",
       "created_at": 1777041910000
@@ -64,7 +64,7 @@
       "id": 47897891,
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 386,
+      "score": 391,
       "author": "nreece",
       "created": "2026-04-25 01:47:33",
       "created_at": 1777081653000
@@ -82,19 +82,19 @@
       "id": 47897647,
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 352,
+      "score": 357,
       "author": "pigeons",
       "created": "2026-04-25 00:58:38",
       "created_at": 1777078718000
     },
     {
-      "id": 47887334,
-      "title": "Spinel: Ruby AOT Native Compiler",
-      "link": "https://github.com/matz/spinel",
-      "score": 345,
-      "author": "dluan",
-      "created": "2026-04-24 08:28:47",
-      "created_at": 1777019327000
+      "id": 47893779,
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "link": "https://arxiv.org/abs/2604.21691",
+      "score": 348,
+      "author": "jamie-simon",
+      "created": "2026-04-24 18:06:05",
+      "created_at": 1777053965000
     }
   ],
   "code": 200,
