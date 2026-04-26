@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-26T12:40:47.355Z"
+    "lastUpdate": "2026-04-26T16:31:05.956Z"
   },
   "data": [
+    {
+      "id": 47911350,
+      "title": "Clay PCB Tutorial",
+      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "score": 30,
+      "author": "j0r0b0",
+      "created": "2026-04-26 16:02:14",
+      "created_at": 1777219334000
+    },
     {
       "id": 47909226,
       "title": "Asahi Linux Progress Linux 7.0",
       "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 39,
+      "score": 368,
       "author": "elisaado",
       "created": "2026-04-26 10:50:32",
       "created_at": 1777200632000
@@ -19,82 +28,73 @@
       "id": 47908833,
       "title": "Statecharts: hierarchical state machines",
       "link": "https://statecharts.dev/",
-      "score": 76,
+      "score": 185,
       "author": "sph",
       "created": "2026-04-26 09:32:22",
       "created_at": 1777195942000
     },
     {
+      "id": 47910388,
+      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "score": 73,
+      "author": "kmdupree",
+      "created": "2026-04-26 13:58:13",
+      "created_at": 1777211893000
+    },
+    {
       "id": 47903126,
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 459,
+      "score": 582,
       "author": "pr337h4m",
       "created": "2026-04-25 17:40:38",
       "created_at": 1777138838000
     },
     {
-      "id": 47905984,
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 276,
-      "author": "chiefalchemist",
-      "created": "2026-04-26 00:12:47",
-      "created_at": 1777162367000
-    },
-    {
-      "id": 47907879,
-      "title": "The West forgot how to make things, now it’s forgetting how to code",
-      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 568,
-      "author": "milkglass",
-      "created": "2026-04-26 06:24:42",
-      "created_at": 1777184682000
+      "id": 47894124,
+      "title": "The Nintendo Switch Switch (2019)",
+      "link": "https://blog.cynthia.re/post/nintendo-switch-ethernet-switch",
+      "score": 46,
+      "author": "zdw",
+      "created": "2026-04-24 18:33:35",
+      "created_at": 1777055615000
     },
     {
       "id": 47876071,
       "title": "Show HN: Turning a Gaussian Splat into a videogame",
       "link": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-      "score": 51,
+      "score": 120,
       "author": "yak32",
       "created": "2026-04-23 14:18:52",
       "created_at": 1776953932000
     },
     {
-      "id": 47906253,
-      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-      "link": "",
-      "score": 332,
-      "author": "_-x-_",
-      "created": "2026-04-26 00:50:56",
-      "created_at": 1777164656000
+      "id": 47897140,
+      "title": "Databases Were Not Designed for This",
+      "link": "https://arpitbhayani.me/blogs/defensive-databases/",
+      "score": 12,
+      "author": "mooreds",
+      "created": "2026-04-24 23:41:38",
+      "created_at": 1777074098000
     },
     {
-      "id": 47904876,
-      "title": "USB Cheat Sheet (2022)",
-      "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 365,
-      "author": "gwerbret",
-      "created": "2026-04-25 21:51:18",
-      "created_at": 1777153878000
+      "id": 47907879,
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 843,
+      "author": "milkglass",
+      "created": "2026-04-26 06:24:42",
+      "created_at": 1777184682000
     },
     {
-      "id": 47907018,
-      "title": "GnuPG – post-quantum crypto landing in mainline",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "score": 91,
-      "author": "zdkaster",
-      "created": "2026-04-26 03:25:02",
-      "created_at": 1777173902000
-    },
-    {
-      "id": 47863103,
-      "title": "Cheating at Tetris",
-      "link": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
-      "score": 13,
-      "author": "t-3",
-      "created": "2026-04-22 13:12:57",
-      "created_at": 1776863577000
+      "id": 47905984,
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 326,
+      "author": "chiefalchemist",
+      "created": "2026-04-26 00:12:47",
+      "created_at": 1777162367000
     }
   ],
   "code": 200,
