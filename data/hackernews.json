@@ -3,59 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-26T16:31:05.867Z"
+    "lastUpdate": "2026-04-26T20:27:22.995Z"
   },
   "data": [
-    {
-      "id": 47892019,
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "link": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 954,
-      "author": "y42",
-      "created": "2026-04-24 15:59:19",
-      "created_at": 1777046359000
-    },
     {
       "id": 47907879,
       "title": "The West forgot how to make things, now it’s forgetting how to code",
       "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 843,
+      "score": 1028,
       "author": "milkglass",
       "created": "2026-04-26 06:24:42",
       "created_at": 1777184682000
     },
     {
-      "id": 47892074,
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 809,
-      "author": "elffjs",
-      "created": "2026-04-24 16:04:41",
-      "created_at": 1777046681000
-    },
-    {
-      "id": 47899053,
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 591,
-      "author": "calcifer",
-      "created": "2026-04-25 05:56:12",
-      "created_at": 1777096572000
-    },
-    {
       "id": 47903126,
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 582,
+      "score": 693,
       "author": "pr337h4m",
       "created": "2026-04-25 17:40:38",
       "created_at": 1777138838000
     },
     {
+      "id": 47899053,
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 598,
+      "author": "calcifer",
+      "created": "2026-04-25 05:56:12",
+      "created_at": 1777096572000
+    },
+    {
+      "id": 47909226,
+      "title": "Asahi Linux Progress Linux 7.0",
+      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 544,
+      "author": "elisaado",
+      "created": "2026-04-26 10:50:32",
+      "created_at": 1777200632000
+    },
+    {
       "id": 47905283,
       "title": "Trump fires NSF's oversight board",
       "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-      "score": 482,
+      "score": 495,
       "author": "skullone",
       "created": "2026-04-25 22:39:33",
       "created_at": 1777156773000
@@ -64,7 +55,7 @@
       "id": 47906253,
       "title": "Tell HN: An app is silently installing itself on my iPhone every day",
       "link": "",
-      "score": 424,
+      "score": 490,
       "author": "_-x-_",
       "created": "2026-04-26 00:50:56",
       "created_at": 1777164656000
@@ -73,7 +64,7 @@
       "id": 47904876,
       "title": "USB Cheat Sheet (2022)",
       "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 420,
+      "score": 469,
       "author": "gwerbret",
       "created": "2026-04-25 21:51:18",
       "created_at": 1777153878000
@@ -82,19 +73,28 @@
       "id": 47897891,
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 398,
+      "score": 404,
       "author": "nreece",
       "created": "2026-04-25 01:47:33",
       "created_at": 1777081653000
     },
     {
-      "id": 47909226,
-      "title": "Asahi Linux Progress Linux 7.0",
-      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 368,
-      "author": "elisaado",
-      "created": "2026-04-26 10:50:32",
-      "created_at": 1777200632000
+      "id": 47905984,
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 379,
+      "author": "chiefalchemist",
+      "created": "2026-04-26 00:12:47",
+      "created_at": 1777162367000
+    },
+    {
+      "id": 47897647,
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "link": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "score": 370,
+      "author": "pigeons",
+      "created": "2026-04-25 00:58:38",
+      "created_at": 1777078718000
     }
   ],
   "code": 200,
