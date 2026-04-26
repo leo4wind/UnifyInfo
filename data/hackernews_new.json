@@ -3,23 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-26T08:49:07.925Z"
+    "lastUpdate": "2026-04-26T12:40:47.650Z"
   },
   "data": [
     {
-      "id": 47907879,
-      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 229,
-      "author": "milkglass",
-      "created": "2026-04-26 06:24:42",
-      "created_at": 1777184682000
+      "id": 47909226,
+      "title": "Asahi Linux Progress Linux 7.0",
+      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 39,
+      "author": "elisaado",
+      "created": "2026-04-26 10:50:32",
+      "created_at": 1777200632000
+    },
+    {
+      "id": 47908833,
+      "title": "Statecharts: hierarchical state machines",
+      "link": "https://statecharts.dev/",
+      "score": 76,
+      "author": "sph",
+      "created": "2026-04-26 09:32:22",
+      "created_at": 1777195942000
     },
     {
       "id": 47903126,
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 345,
+      "score": 459,
       "author": "pr337h4m",
       "created": "2026-04-25 17:40:38",
       "created_at": 1777138838000
@@ -28,25 +37,43 @@
       "id": 47905984,
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 211,
+      "score": 276,
       "author": "chiefalchemist",
       "created": "2026-04-26 00:12:47",
       "created_at": 1777162367000
     },
     {
-      "id": 47908139,
-      "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
-      "link": "https://ciechanow.ski/exposing-floating-point/",
-      "score": 17,
-      "author": "subset",
-      "created": "2026-04-26 07:19:20",
-      "created_at": 1777187960000
+      "id": 47907879,
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 568,
+      "author": "milkglass",
+      "created": "2026-04-26 06:24:42",
+      "created_at": 1777184682000
+    },
+    {
+      "id": 47876071,
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "link": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "score": 51,
+      "author": "yak32",
+      "created": "2026-04-23 14:18:52",
+      "created_at": 1776953932000
+    },
+    {
+      "id": 47906253,
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "link": "",
+      "score": 332,
+      "author": "_-x-_",
+      "created": "2026-04-26 00:50:56",
+      "created_at": 1777164656000
     },
     {
       "id": 47904876,
       "title": "USB Cheat Sheet (2022)",
       "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 296,
+      "score": 365,
       "author": "gwerbret",
       "created": "2026-04-25 21:51:18",
       "created_at": 1777153878000
@@ -55,37 +82,19 @@
       "id": 47907018,
       "title": "GnuPG – post-quantum crypto landing in mainline",
       "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "score": 57,
+      "score": 91,
       "author": "zdkaster",
       "created": "2026-04-26 03:25:02",
       "created_at": 1777173902000
     },
     {
-      "id": 47906253,
-      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-      "link": "",
-      "score": 243,
-      "author": "_-x-_",
-      "created": "2026-04-26 00:50:56",
-      "created_at": 1777164656000
-    },
-    {
-      "id": 47885239,
-      "title": "Mahjong: A Visual Guide",
-      "link": "https://themahjong.guide/",
-      "score": 81,
-      "author": "iamwil",
-      "created": "2026-04-24 03:41:09",
-      "created_at": 1777002069000
-    },
-    {
-      "id": 47898660,
-      "title": "Quirks of Human Anatomy",
-      "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-      "score": 23,
-      "author": "gurjeet",
-      "created": "2026-04-25 04:31:14",
-      "created_at": 1777091474000
+      "id": 47863103,
+      "title": "Cheating at Tetris",
+      "link": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
+      "score": 13,
+      "author": "t-3",
+      "created": "2026-04-22 13:12:57",
+      "created_at": 1776863577000
     }
   ],
   "code": 200,
