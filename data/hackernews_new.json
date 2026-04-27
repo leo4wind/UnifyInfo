@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-27T06:22:07.407Z"
+    "lastUpdate": "2026-04-27T10:05:33.871Z"
   },
   "data": [
     {
       "id": 47875795,
       "title": "Flipdiscs",
       "link": "https://flipdisc.io",
-      "score": 92,
+      "score": 265,
       "author": "skogstokig",
       "created": "2026-04-23 13:54:31",
       "created_at": 1776952471000
@@ -19,16 +19,43 @@
       "id": 47914165,
       "title": "I bought Friendster for $30k – Here's what I'm doing with it",
       "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 633,
+      "score": 810,
       "author": "ca98am79",
       "created": "2026-04-26 20:41:06",
       "created_at": 1777236066000
     },
     {
+      "id": 47909860,
+      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "score": 37,
+      "author": "wslh",
+      "created": "2026-04-26 12:42:11",
+      "created_at": 1777207331000
+    },
+    {
+      "id": 47918961,
+      "title": "It's OK to abandon your side-project (2024)",
+      "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "score": 76,
+      "author": "hisamafahri",
+      "created": "2026-04-27 08:11:16",
+      "created_at": 1777277476000
+    },
+    {
+      "id": 47913650,
+      "title": "AI should elevate your thinking, not replace it",
+      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "score": 500,
+      "author": "koshyjohn",
+      "created": "2026-04-26 20:03:12",
+      "created_at": 1777233792000
+    },
+    {
       "id": 47916890,
       "title": "TurboQuant: A first-principles walkthrough",
       "link": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 82,
+      "score": 156,
       "author": "kweezar",
       "created": "2026-04-27 01:54:32",
       "created_at": 1777254872000
@@ -37,7 +64,7 @@
       "id": 47908051,
       "title": "Self-updating screenshots",
       "link": "https://interblah.net/self-updating-screenshots",
-      "score": 205,
+      "score": 299,
       "author": "bjhess",
       "created": "2026-04-26 07:00:39",
       "created_at": 1777186839000
@@ -46,7 +73,7 @@
       "id": 47917026,
       "title": "The Prompt API",
       "link": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 67,
+      "score": 124,
       "author": "gslin",
       "created": "2026-04-27 02:18:58",
       "created_at": 1777256338000
@@ -55,46 +82,19 @@
       "id": 47903541,
       "title": "Three constraints before I build anything",
       "link": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 145,
+      "score": 214,
       "author": "nervous_north",
       "created": "2026-04-25 18:41:03",
       "created_at": 1777142463000
     },
     {
-      "id": 47913855,
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 210,
-      "author": "dd23",
-      "created": "2026-04-26 20:18:37",
-      "created_at": 1777234717000
-    },
-    {
-      "id": 47918009,
-      "title": "AI can cost more than human workers now",
-      "link": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-      "score": 25,
-      "author": "nreece",
-      "created": "2026-04-27 05:28:39",
-      "created_at": 1777267719000
-    },
-    {
-      "id": 47916909,
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "link": "https://github.com/evanklem/evanflow",
-      "score": 47,
-      "author": "evanklem2004",
-      "created": "2026-04-27 01:56:39",
-      "created_at": 1777254999000
-    },
-    {
-      "id": 47906420,
-      "title": "When the cheap one is the cool one",
-      "link": "https://arun.is/blog/cheap-cool/",
-      "score": 76,
-      "author": "ddrmaxgt37",
-      "created": "2026-04-26 01:25:13",
-      "created_at": 1777166713000
+      "id": 47899989,
+      "title": "Rust Memory Management: Ownership vs. Reference Counting",
+      "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "score": 16,
+      "author": "vinhnx",
+      "created": "2026-04-25 09:20:55",
+      "created_at": 1777108855000
     }
   ],
   "code": 200,
