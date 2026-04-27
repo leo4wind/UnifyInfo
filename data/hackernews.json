@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-27T01:48:06.194Z"
+    "lastUpdate": "2026-04-27T06:22:07.168Z"
   },
   "data": [
     {
       "id": 47907879,
       "title": "The West forgot how to make things, now it’s forgetting how to code",
       "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "score": 1089,
+      "score": 1113,
       "author": "milkglass",
       "created": "2026-04-26 06:24:42",
       "created_at": 1777184682000
@@ -19,34 +19,52 @@
       "id": 47903126,
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 741,
+      "score": 751,
       "author": "pr337h4m",
       "created": "2026-04-25 17:40:38",
       "created_at": 1777138838000
     },
     {
-      "id": 47899053,
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 602,
-      "author": "calcifer",
-      "created": "2026-04-25 05:56:12",
-      "created_at": 1777096572000
+      "id": 47914165,
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 633,
+      "author": "ca98am79",
+      "created": "2026-04-26 20:41:06",
+      "created_at": 1777236066000
     },
     {
       "id": 47909226,
       "title": "Asahi Linux Progress Linux 7.0",
       "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 591,
+      "score": 608,
       "author": "elisaado",
       "created": "2026-04-26 10:50:32",
       "created_at": 1777200632000
     },
     {
+      "id": 47899053,
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 605,
+      "author": "calcifer",
+      "created": "2026-04-25 05:56:12",
+      "created_at": 1777096572000
+    },
+    {
+      "id": 47911524,
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "score": 597,
+      "author": "jeremyccrane",
+      "created": "2026-04-26 16:27:29",
+      "created_at": 1777220849000
+    },
+    {
       "id": 47911780,
       "title": "GoDaddy gave a domain to a stranger without any documentation",
       "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 545,
+      "score": 579,
       "author": "jamesponddotco",
       "created": "2026-04-26 16:57:56",
       "created_at": 1777222676000
@@ -55,7 +73,7 @@
       "id": 47906253,
       "title": "Tell HN: An app is silently installing itself on my iPhone every day",
       "link": "",
-      "score": 533,
+      "score": 541,
       "author": "_-x-_",
       "created": "2026-04-26 00:50:56",
       "created_at": 1777164656000
@@ -64,7 +82,7 @@
       "id": 47905283,
       "title": "Trump fires NSF's oversight board",
       "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-      "score": 497,
+      "score": 503,
       "author": "skullone",
       "created": "2026-04-25 22:39:33",
       "created_at": 1777156773000
@@ -73,28 +91,10 @@
       "id": 47904876,
       "title": "USB Cheat Sheet (2022)",
       "link": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 487,
+      "score": 491,
       "author": "gwerbret",
       "created": "2026-04-25 21:51:18",
       "created_at": 1777153878000
-    },
-    {
-      "id": 47911524,
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 450,
-      "author": "jeremyccrane",
-      "created": "2026-04-26 16:27:29",
-      "created_at": 1777220849000
-    },
-    {
-      "id": 47905984,
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 406,
-      "author": "chiefalchemist",
-      "created": "2026-04-26 00:12:47",
-      "created_at": 1777162367000
     }
   ],
   "code": 200,
