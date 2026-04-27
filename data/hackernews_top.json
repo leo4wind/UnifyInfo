@@ -3,50 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-27T10:05:33.809Z"
+    "lastUpdate": "2026-04-27T13:16:42.688Z"
   },
   "data": [
+    {
+      "id": 47919997,
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "score": 175,
+      "author": "c0l0",
+      "created": "2026-04-27 10:56:34",
+      "created_at": 1777287394000
+    },
+    {
+      "id": 47920787,
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "link": "https://github.com/dirac-run/dirac",
+      "score": 29,
+      "author": "GodelNumbering",
+      "created": "2026-04-27 12:35:55",
+      "created_at": 1777293355000
+    },
+    {
+      "id": 47901433,
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "link": "https://github.com/WeebLabs/DSPi",
+      "score": 96,
+      "author": "BoingBoomTschak",
+      "created": "2026-04-25 13:28:29",
+      "created_at": 1777123709000
+    },
     {
       "id": 47875795,
       "title": "Flipdiscs",
       "link": "https://flipdisc.io",
-      "score": 265,
+      "score": 372,
       "author": "skogstokig",
       "created": "2026-04-23 13:54:31",
       "created_at": 1776952471000
     },
     {
+      "id": 47920074,
+      "title": "Men Who Stare at Walls",
+      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "score": 28,
+      "author": "aselimov3",
+      "created": "2026-04-27 11:08:26",
+      "created_at": 1777288106000
+    },
+    {
       "id": 47914165,
       "title": "I bought Friendster for $30k – Here's what I'm doing with it",
       "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 810,
+      "score": 916,
       "author": "ca98am79",
       "created": "2026-04-26 20:41:06",
       "created_at": 1777236066000
     },
     {
-      "id": 47909860,
-      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-      "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
-      "score": 37,
-      "author": "wslh",
-      "created": "2026-04-26 12:42:11",
-      "created_at": 1777207331000
-    },
-    {
-      "id": 47918961,
-      "title": "It's OK to abandon your side-project (2024)",
-      "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-      "score": 76,
-      "author": "hisamafahri",
-      "created": "2026-04-27 08:11:16",
-      "created_at": 1777277476000
-    },
-    {
       "id": 47913650,
       "title": "AI should elevate your thinking, not replace it",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 500,
+      "score": 620,
       "author": "koshyjohn",
       "created": "2026-04-26 20:03:12",
       "created_at": 1777233792000
@@ -55,7 +73,7 @@
       "id": 47916890,
       "title": "TurboQuant: A first-principles walkthrough",
       "link": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 156,
+      "score": 212,
       "author": "kweezar",
       "created": "2026-04-27 01:54:32",
       "created_at": 1777254872000
@@ -64,37 +82,19 @@
       "id": 47908051,
       "title": "Self-updating screenshots",
       "link": "https://interblah.net/self-updating-screenshots",
-      "score": 299,
+      "score": 365,
       "author": "bjhess",
       "created": "2026-04-26 07:00:39",
       "created_at": 1777186839000
     },
     {
-      "id": 47917026,
-      "title": "The Prompt API",
-      "link": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 124,
-      "author": "gslin",
-      "created": "2026-04-27 02:18:58",
-      "created_at": 1777256338000
-    },
-    {
-      "id": 47903541,
-      "title": "Three constraints before I build anything",
-      "link": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 214,
-      "author": "nervous_north",
-      "created": "2026-04-25 18:41:03",
-      "created_at": 1777142463000
-    },
-    {
-      "id": 47899989,
-      "title": "Rust Memory Management: Ownership vs. Reference Counting",
-      "link": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
-      "score": 16,
-      "author": "vinhnx",
-      "created": "2026-04-25 09:20:55",
-      "created_at": 1777108855000
+      "id": 47910287,
+      "title": "Branimir Lambov from IBM on Cassandra",
+      "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
+      "score": 24,
+      "author": "eatonphil",
+      "created": "2026-04-26 13:45:03",
+      "created_at": 1777211103000
     }
   ],
   "code": 200,
