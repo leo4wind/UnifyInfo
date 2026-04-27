@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-27T13:16:42.688Z"
+    "lastUpdate": "2026-04-27T17:13:54.652Z"
   },
   "data": [
     {
-      "id": 47919997,
-      "title": "Pgbackrest is no longer being maintained",
-      "link": "https://github.com/pgbackrest/pgbackrest",
-      "score": 175,
-      "author": "c0l0",
-      "created": "2026-04-27 10:56:34",
-      "created_at": 1777287394000
+      "id": 47921248,
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 324,
+      "author": "helsinkiandrew",
+      "created": "2026-04-27 13:22:42",
+      "created_at": 1777296162000
+    },
+    {
+      "id": 47922079,
+      "title": "\"Why not just use Lean?\"",
+      "link": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "score": 131,
+      "author": "ibobev",
+      "created": "2026-04-27 14:24:53",
+      "created_at": 1777299893000
+    },
+    {
+      "id": 47922957,
+      "title": "The Woes of Sanitizing SVGs",
+      "link": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "score": 67,
+      "author": "varun_ch",
+      "created": "2026-04-27 15:31:36",
+      "created_at": 1777303896000
+    },
+    {
+      "id": 47919630,
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "link": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 249,
+      "author": "Oravys",
+      "created": "2026-04-27 09:57:10",
+      "created_at": 1777283830000
     },
     {
       "id": 47920787,
       "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
       "link": "https://github.com/dirac-run/dirac",
-      "score": 29,
+      "score": 192,
       "author": "GodelNumbering",
       "created": "2026-04-27 12:35:55",
       "created_at": 1777293355000
     },
     {
+      "id": 47919997,
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "score": 329,
+      "author": "c0l0",
+      "created": "2026-04-27 10:56:34",
+      "created_at": 1777287394000
+    },
+    {
       "id": 47901433,
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
       "link": "https://github.com/WeebLabs/DSPi",
-      "score": 96,
+      "score": 190,
       "author": "BoingBoomTschak",
       "created": "2026-04-25 13:28:29",
       "created_at": 1777123709000
     },
     {
-      "id": 47875795,
-      "title": "Flipdiscs",
-      "link": "https://flipdisc.io",
-      "score": 372,
-      "author": "skogstokig",
-      "created": "2026-04-23 13:54:31",
-      "created_at": 1776952471000
+      "id": 47919733,
+      "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+      "score": 128,
+      "author": "JeanKage",
+      "created": "2026-04-27 10:15:17",
+      "created_at": 1777284917000
     },
     {
-      "id": 47920074,
-      "title": "Men Who Stare at Walls",
-      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 28,
-      "author": "aselimov3",
-      "created": "2026-04-27 11:08:26",
-      "created_at": 1777288106000
+      "id": 47922712,
+      "title": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "link": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "score": 105,
+      "author": "benterix",
+      "created": "2026-04-27 15:12:41",
+      "created_at": 1777302761000
     },
     {
-      "id": 47914165,
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 916,
-      "author": "ca98am79",
-      "created": "2026-04-26 20:41:06",
-      "created_at": 1777236066000
-    },
-    {
-      "id": 47913650,
-      "title": "AI should elevate your thinking, not replace it",
-      "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 620,
-      "author": "koshyjohn",
-      "created": "2026-04-26 20:03:12",
-      "created_at": 1777233792000
-    },
-    {
-      "id": 47916890,
-      "title": "TurboQuant: A first-principles walkthrough",
-      "link": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 212,
-      "author": "kweezar",
-      "created": "2026-04-27 01:54:32",
-      "created_at": 1777254872000
-    },
-    {
-      "id": 47908051,
-      "title": "Self-updating screenshots",
-      "link": "https://interblah.net/self-updating-screenshots",
-      "score": 365,
-      "author": "bjhess",
-      "created": "2026-04-26 07:00:39",
-      "created_at": 1777186839000
-    },
-    {
-      "id": 47910287,
-      "title": "Branimir Lambov from IBM on Cassandra",
-      "link": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
-      "score": 24,
-      "author": "eatonphil",
-      "created": "2026-04-26 13:45:03",
-      "created_at": 1777211103000
+      "id": 47923010,
+      "title": "Apple is dropping AFP/TimeCapsule support in macOS 27",
+      "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "score": 71,
+      "author": "pvtmert",
+      "created": "2026-04-27 15:36:12",
+      "created_at": 1777304172000
     }
   ],
   "code": 200,
