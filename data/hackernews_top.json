@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-26T20:27:23.087Z"
+    "lastUpdate": "2026-04-27T01:48:06.288Z"
   },
   "data": [
     {
-      "id": 47911780,
-      "title": "GoDaddy gave a domain to a stranger without any documentation",
-      "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 344,
-      "author": "jamesponddotco",
-      "created": "2026-04-26 16:57:56",
-      "created_at": 1777222676000
+      "id": 47914165,
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 389,
+      "author": "ca98am79",
+      "created": "2026-04-26 20:41:06",
+      "created_at": 1777236066000
     },
     {
-      "id": 47913641,
-      "title": "If You Stop Hiring Juniors, Your Senior Engineers Own You",
-      "link": "https://evalcode.com/posts/if-you-stop-hiring-juniors-your-seniors-own-you/",
-      "score": 20,
-      "author": "milkglass",
-      "created": "2026-04-26 20:01:59",
-      "created_at": 1777233719000
+      "id": 47908051,
+      "title": "Self-updating screenshots",
+      "link": "https://interblah.net/self-updating-screenshots",
+      "score": 47,
+      "author": "bjhess",
+      "created": "2026-04-26 07:00:39",
+      "created_at": 1777186839000
     },
     {
-      "id": 47911977,
-      "title": "Dillo Browser Release 3.3.0",
-      "link": "https://dillo-browser.org/release/3.3.0/",
-      "score": 94,
-      "author": "rodarima",
-      "created": "2026-04-26 17:18:14",
-      "created_at": 1777223894000
+      "id": 47903541,
+      "title": "Three constraints before I build anything",
+      "link": "https://jordanlord.co.uk/blog/3-constraints/",
+      "score": 34,
+      "author": "nervous_north",
+      "created": "2026-04-25 18:41:03",
+      "created_at": 1777142463000
+    },
+    {
+      "id": 47913855,
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "score": 150,
+      "author": "dd23",
+      "created": "2026-04-26 20:18:37",
+      "created_at": 1777234717000
+    },
+    {
+      "id": 47878231,
+      "title": "Box to save memory in Rust",
+      "link": "https://dystroy.org/blog/box-to-save-memory/",
+      "score": 56,
+      "author": "emschwartz",
+      "created": "2026-04-23 17:02:24",
+      "created_at": 1776963744000
+    },
+    {
+      "id": 47916410,
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "link": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "score": 51,
+      "author": "donsupreme",
+      "created": "2026-04-27 00:34:30",
+      "created_at": 1777250070000
+    },
+    {
+      "id": 47914677,
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "score": 123,
+      "author": "1659447091",
+      "created": "2026-04-26 21:23:20",
+      "created_at": 1777238600000
     },
     {
       "id": 47913650,
-      "title": "A.I. is creating engineers who can't think without it",
+      "title": "AI should elevate your thinking, not replace it",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 58,
+      "score": 280,
       "author": "koshyjohn",
       "created": "2026-04-26 20:03:12",
       "created_at": 1777233792000
     },
     {
-      "id": 47909226,
-      "title": "Asahi Linux Progress Linux 7.0",
-      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 544,
-      "author": "elisaado",
-      "created": "2026-04-26 10:50:32",
-      "created_at": 1777200632000
-    },
-    {
-      "id": 47911524,
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 189,
-      "author": "jeremyccrane",
-      "created": "2026-04-26 16:27:29",
-      "created_at": 1777220849000
-    },
-    {
-      "id": 47911350,
-      "title": "Clay PCB Tutorial",
-      "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 149,
-      "author": "j0r0b0",
-      "created": "2026-04-26 16:02:14",
-      "created_at": 1777219334000
-    },
-    {
       "id": 47910388,
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 181,
+      "score": 248,
       "author": "kmdupree",
       "created": "2026-04-26 13:58:13",
       "created_at": 1777211893000
     },
     {
-      "id": 47911644,
-      "title": "The Visible Zorker: Zork 1",
-      "link": "https://eblong.com/infocom/visi/zork1/",
-      "score": 59,
-      "author": "PLenz",
-      "created": "2026-04-26 16:42:19",
-      "created_at": 1777221739000
-    },
-    {
-      "id": 47911013,
-      "title": "Free Textbook on Engineering Thermodynamics",
-      "link": "https://thermodynamicsbook.com/",
-      "score": 70,
-      "author": "2DcAf",
-      "created": "2026-04-26 15:17:34",
-      "created_at": 1777216654000
+      "id": 47914367,
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "link": "https://github.com/sachitrafa/YourMemory",
+      "score": 57,
+      "author": "SachitRafa",
+      "created": "2026-04-26 20:58:31",
+      "created_at": 1777237111000
     }
   ],
   "code": 200,
