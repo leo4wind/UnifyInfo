@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-28T01:55:25.961Z"
+    "lastUpdate": "2026-04-28T06:23:33.170Z"
   },
   "data": [
-    {
-      "id": 47928554,
-      "title": "New Integrated by Design FreeBSD Book",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "score": 63,
-      "author": "vermaden",
-      "created": "2026-04-27 23:14:26",
-      "created_at": 1777331666000
-    },
-    {
-      "id": 47921248,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 753,
-      "author": "helsinkiandrew",
-      "created": "2026-04-27 13:22:42",
-      "created_at": 1777296162000
-    },
     {
       "id": 47927903,
       "title": "Talkie: a 13B vintage language model from 1930",
       "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 77,
+      "score": 271,
       "author": "jekude",
       "created": "2026-04-27 21:55:48",
       "created_at": 1777326948000
     },
     {
-      "id": 47928885,
-      "title": "Generative AI Vegetarianism",
-      "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-      "score": 28,
-      "author": "marvinborner",
-      "created": "2026-04-28 00:07:39",
-      "created_at": 1777334859000
+      "id": 47921248,
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 833,
+      "author": "helsinkiandrew",
+      "created": "2026-04-27 13:22:42",
+      "created_at": 1777296162000
     },
     {
-      "id": 47929454,
-      "title": "I quit drinking for a year",
-      "link": "https://dynomight.net/drinking/",
-      "score": 11,
-      "author": "webninja",
-      "created": "2026-04-28 01:26:03",
-      "created_at": 1777339563000
-    },
-    {
-      "id": 47906942,
-      "title": "Meetings are forcing functions",
-      "link": "https://www.mooreds.com/wordpress/archives/3734",
-      "score": 37,
-      "author": "zdw",
-      "created": "2026-04-26 03:12:04",
-      "created_at": 1777173124000
-    },
-    {
-      "id": 47927070,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 89,
-      "author": "gnabgib",
-      "created": "2026-04-27 20:44:16",
-      "created_at": 1777322656000
-    },
-    {
-      "id": 47924813,
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "link": "https://github.com/Hanqaqa/Easyduino",
-      "score": 173,
-      "author": "Hanqaqa",
-      "created": "2026-04-27 17:45:02",
-      "created_at": 1777311902000
-    },
-    {
-      "id": 47903439,
-      "title": "The quiet resurgence of RF engineering",
-      "link": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
-      "score": 132,
-      "author": "merlinq",
-      "created": "2026-04-25 18:25:54",
-      "created_at": 1777141554000
+      "id": 47899669,
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "link": "https://github.com/pgcentralfoundation/pgrx",
+      "score": 42,
+      "author": "luu",
+      "created": "2026-04-25 08:16:19",
+      "created_at": 1777104979000
     },
     {
       "id": 47926861,
       "title": "Is my blue your blue?",
       "link": "https://ismy.blue/",
-      "score": 331,
+      "score": 444,
       "author": "theogravity",
       "created": "2026-04-27 20:24:33",
       "created_at": 1777321473000
+    },
+    {
+      "id": 47902269,
+      "title": "Mo RAM, Mo Problems (2025)",
+      "link": "https://fabiensanglard.net/curse/",
+      "score": 91,
+      "author": "blfr",
+      "created": "2026-04-25 15:41:54",
+      "created_at": 1777131714000
+    },
+    {
+      "id": 47930170,
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "link": "https://technology.robbyant.com/lingbot-map",
+      "score": 17,
+      "author": "nateb2022",
+      "created": "2026-04-28 03:27:40",
+      "created_at": 1777346860000
+    },
+    {
+      "id": 47929035,
+      "title": "High Performance Git",
+      "link": "https://gitperf.com/",
+      "score": 83,
+      "author": "gnabgib",
+      "created": "2026-04-28 00:32:04",
+      "created_at": 1777336324000
+    },
+    {
+      "id": 47927070,
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "score": 139,
+      "author": "gnabgib",
+      "created": "2026-04-27 20:44:16",
+      "created_at": 1777322656000
+    },
+    {
+      "id": 47928554,
+      "title": "Integrated by Design",
+      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "score": 91,
+      "author": "vermaden",
+      "created": "2026-04-27 23:14:26",
+      "created_at": 1777331666000
+    },
+    {
+      "id": 47919630,
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "link": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 499,
+      "author": "Oravys",
+      "created": "2026-04-27 09:57:10",
+      "created_at": 1777283830000
     }
   ],
   "code": 200,
