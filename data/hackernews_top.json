@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-28T17:28:57.923Z"
+    "lastUpdate": "2026-04-28T20:58:23.409Z"
   },
   "data": [
     {
-      "id": 47936347,
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
-      "link": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "score": 78,
-      "author": "mmsc",
-      "created": "2026-04-28 16:06:01",
-      "created_at": 1777392361000
+      "id": 47939579,
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 723,
+      "author": "WadeGrimridge",
+      "created": "2026-04-28 19:44:52",
+      "created_at": 1777405492000
     },
     {
-      "id": 47933208,
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "link": "https://github.com/localsend/localsend",
-      "score": 501,
-      "author": "bilsbie",
-      "created": "2026-04-28 11:54:20",
-      "created_at": 1777377260000
+      "id": 47939320,
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 81,
+      "author": "translocator",
+      "created": "2026-04-28 19:24:43",
+      "created_at": 1777404283000
     },
     {
-      "id": 47933236,
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "score": 215,
-      "author": "tosh",
-      "created": "2026-04-28 11:56:04",
-      "created_at": 1777377364000
+      "id": 47939079,
+      "title": "A playable DOOM MCP app",
+      "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 58,
+      "author": "chrisnager",
+      "created": "2026-04-28 19:08:47",
+      "created_at": 1777403327000
     },
     {
-      "id": 47936156,
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "score": 134,
-      "author": "granzymes",
-      "created": "2026-04-28 15:49:22",
-      "created_at": 1777391362000
+      "id": 47937349,
+      "title": "Warp is now Open-Source",
+      "link": "https://github.com/warpdotdev/warp",
+      "score": 104,
+      "author": "doppp",
+      "created": "2026-04-28 17:09:41",
+      "created_at": 1777396181000
     },
     {
-      "id": 47936511,
-      "title": "Laguna XS.2 and M.1",
-      "link": "https://poolside.ai/blog/laguna-a-deeper-dive",
-      "score": 30,
-      "author": "tosh",
-      "created": "2026-04-28 16:17:55",
-      "created_at": 1777393075000
+      "id": 47940389,
+      "title": "I Won a Championship That Doesn't Exist",
+      "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "score": 5,
+      "author": "SEJeff",
+      "created": "2026-04-28 20:38:21",
+      "created_at": 1777408701000
+    },
+    {
+      "id": 47939105,
+      "title": "CJIT: C, Just in Time",
+      "link": "https://dyne.org/cjit/",
+      "score": 40,
+      "author": "smartmic",
+      "created": "2026-04-28 19:10:14",
+      "created_at": 1777403414000
     },
     {
       "id": 47935853,
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
-      "score": 298,
+      "score": 623,
       "author": "doener",
       "created": "2026-04-28 15:21:00",
       "created_at": 1777389660000
     },
     {
-      "id": 47934261,
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "link": "https://www.lumara-space.app/",
-      "score": 92,
-      "author": "beeswaxpat",
-      "created": "2026-04-28 13:25:48",
-      "created_at": 1777382748000
+      "id": 47885644,
+      "title": "Intel Arc Pro B70 Review",
+      "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+      "score": 17,
+      "author": "zdw",
+      "created": "2026-04-24 04:44:49",
+      "created_at": 1777005889000
     },
     {
-      "id": 47936867,
-      "title": "AI's Economics Don't Make Sense",
-      "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-      "score": 57,
-      "author": "spking",
-      "created": "2026-04-28 16:39:53",
-      "created_at": 1777394393000
+      "id": 47936479,
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "score": 143,
+      "author": "bo0tzz",
+      "created": "2026-04-28 16:15:43",
+      "created_at": 1777392943000
     },
     {
-      "id": 47936210,
-      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-      "link": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-      "score": 73,
-      "author": "throw0101c",
-      "created": "2026-04-28 15:54:21",
-      "created_at": 1777391661000
+      "id": 47938184,
+      "title": "Waymo in Portland",
+      "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "score": 182,
+      "author": "xnx",
+      "created": "2026-04-28 18:08:13",
+      "created_at": 1777399693000
     }
   ],
   "code": 200,

@@ -3,7 +3,7 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-28T17:28:57.660Z"
+    "lastUpdate": "2026-04-28T20:58:23.319Z"
   },
   "data": [
     {
@@ -19,7 +19,7 @@
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 951,
+      "score": 959,
       "author": "helsinkiandrew",
       "created": "2026-04-27 13:22:42",
       "created_at": 1777296162000
@@ -28,7 +28,7 @@
       "id": 47913650,
       "title": "AI should elevate your thinking, not replace it",
       "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 846,
+      "score": 848,
       "author": "koshyjohn",
       "created": "2026-04-26 20:03:12",
       "created_at": 1777233792000
@@ -37,25 +37,34 @@
       "id": 47923357,
       "title": "GitHub Copilot is moving to usage-based billing",
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 729,
+      "score": 738,
       "author": "frizlab",
       "created": "2026-04-27 16:03:08",
       "created_at": 1777305788000
     },
     {
-      "id": 47911780,
-      "title": "GoDaddy gave a domain to a stranger without any documentation",
-      "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 678,
-      "author": "jamesponddotco",
-      "created": "2026-04-26 16:57:56",
-      "created_at": 1777222676000
+      "id": 47939579,
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 723,
+      "author": "WadeGrimridge",
+      "created": "2026-04-28 19:44:52",
+      "created_at": 1777405492000
+    },
+    {
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "score": 690,
+      "author": "bilsbie",
+      "created": "2026-04-28 11:54:20",
+      "created_at": 1777377260000
     },
     {
       "id": 47920074,
       "title": "Men who stare at walls",
       "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 674,
+      "score": 686,
       "author": "aselimov3",
       "created": "2026-04-27 11:08:26",
       "created_at": 1777288106000
@@ -64,37 +73,28 @@
       "id": 47926861,
       "title": "Is my blue your blue? (2024)",
       "link": "https://ismy.blue/",
-      "score": 661,
+      "score": 667,
       "author": "theogravity",
       "created": "2026-04-27 20:24:33",
       "created_at": 1777321473000
     },
     {
-      "id": 47919630,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "link": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 580,
-      "author": "Oravys",
-      "created": "2026-04-27 09:57:10",
-      "created_at": 1777283830000
+      "id": 47935853,
+      "title": "Your phone is about to stop being yours",
+      "link": "https://keepandroidopen.org/en/",
+      "score": 623,
+      "author": "doener",
+      "created": "2026-04-28 15:21:00",
+      "created_at": 1777389660000
     },
     {
       "id": 47927903,
       "title": "Talkie: a 13B vintage language model from 1930",
       "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 561,
+      "score": 617,
       "author": "jekude",
       "created": "2026-04-27 21:55:48",
       "created_at": 1777326948000
-    },
-    {
-      "id": 47914350,
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "score": 515,
-      "author": "berkeleyjunk",
-      "created": "2026-04-26 20:56:30",
-      "created_at": 1777236990000
     }
   ],
   "code": 200,
