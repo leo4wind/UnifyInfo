@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-28T10:05:13.162Z"
+    "lastUpdate": "2026-04-28T13:27:18.958Z"
   },
   "data": [
     {
-      "id": 47931035,
-      "title": "GTFOBins",
-      "link": "https://gtfobins.org/",
-      "score": 182,
-      "author": "StefanBatory",
-      "created": "2026-04-28 06:27:39",
-      "created_at": 1777357659000
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "score": 144,
+      "author": "bilsbie",
+      "created": "2026-04-28 11:54:20",
+      "created_at": 1777377260000
     },
     {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 367,
-      "author": "jekude",
-      "created": "2026-04-27 21:55:48",
-      "created_at": 1777326948000
+      "id": 47933236,
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "score": 58,
+      "author": "tosh",
+      "created": "2026-04-28 11:56:04",
+      "created_at": 1777377364000
     },
     {
       "id": 47901064,
       "title": "The World's Most Complex Machine",
       "link": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "score": 34,
+      "score": 152,
       "author": "mellosouls",
       "created": "2026-04-25 12:47:32",
       "created_at": 1777121252000
     },
     {
+      "id": 47927903,
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "score": 455,
+      "author": "jekude",
+      "created": "2026-04-27 21:55:48",
+      "created_at": 1777326948000
+    },
+    {
+      "id": 47933983,
+      "title": "UAE to leave OPEC in blow to oil cartel",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "score": 29,
+      "author": "bazzmt",
+      "created": "2026-04-28 13:02:01",
+      "created_at": 1777381321000
+    },
+    {
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 880,
+      "score": 921,
       "author": "helsinkiandrew",
       "created": "2026-04-27 13:22:42",
       "created_at": 1777296162000
     },
     {
-      "id": 47926861,
-      "title": "Is my blue your blue?",
-      "link": "https://ismy.blue/",
-      "score": 541,
-      "author": "theogravity",
-      "created": "2026-04-27 20:24:33",
-      "created_at": 1777321473000
-    },
-    {
       "id": 47918891,
       "title": "Can You Find the Comet?",
       "link": "https://apod.nasa.gov/apod/ap260427.html",
-      "score": 36,
+      "score": 87,
       "author": "ColinWright",
       "created": "2026-04-27 07:59:37",
       "created_at": 1777276777000
     },
     {
-      "id": 47899669,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "link": "https://github.com/pgcentralfoundation/pgrx",
-      "score": 87,
-      "author": "luu",
-      "created": "2026-04-25 08:16:19",
-      "created_at": 1777104979000
+      "id": 47911675,
+      "title": "The predictable failure of the QDay Prize",
+      "link": "https://algassert.com/post/2601",
+      "score": 16,
+      "author": "firefly284",
+      "created": "2026-04-26 16:45:40",
+      "created_at": 1777221940000
+    },
+    {
+      "id": 47926861,
+      "title": "Is my blue your blue? (2024)",
+      "link": "https://ismy.blue/",
+      "score": 617,
+      "author": "theogravity",
+      "created": "2026-04-27 20:24:33",
+      "created_at": 1777321473000
     },
     {
       "id": 47930493,
       "title": "WASM is not quite a stack machine",
       "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "score": 35,
+      "score": 90,
       "author": "signa11",
       "created": "2026-04-28 04:34:29",
       "created_at": 1777350869000
-    },
-    {
-      "id": 47929035,
-      "title": "High Performance Git",
-      "link": "https://gitperf.com/",
-      "score": 149,
-      "author": "gnabgib",
-      "created": "2026-04-28 00:32:04",
-      "created_at": 1777336324000
-    },
-    {
-      "id": 47902269,
-      "title": "Mo RAM, Mo Problems (2025)",
-      "link": "https://fabiensanglard.net/curse/",
-      "score": 126,
-      "author": "blfr",
-      "created": "2026-04-25 15:41:54",
-      "created_at": 1777131714000
     }
   ],
   "code": 200,
