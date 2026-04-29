@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-29T09:56:41.542Z"
+    "lastUpdate": "2026-04-29T13:21:25.469Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2604,
+      "score": 2873,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
@@ -19,7 +19,7 @@
       "id": 47935853,
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
-      "score": 1374,
+      "score": 1492,
       "author": "doener",
       "created": "2026-04-28 15:21:00",
       "created_at": 1777389660000
@@ -28,7 +28,7 @@
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 968,
+      "score": 969,
       "author": "helsinkiandrew",
       "created": "2026-04-27 13:22:42",
       "created_at": 1777296162000
@@ -37,7 +37,7 @@
       "id": 47933208,
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "link": "https://github.com/localsend/localsend",
-      "score": 850,
+      "score": 874,
       "author": "bilsbie",
       "created": "2026-04-28 11:54:20",
       "created_at": 1777377260000
@@ -46,7 +46,7 @@
       "id": 47923357,
       "title": "GitHub Copilot is moving to usage-based billing",
       "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 753,
+      "score": 755,
       "author": "frizlab",
       "created": "2026-04-27 16:03:08",
       "created_at": 1777305788000
@@ -55,46 +55,46 @@
       "id": 47927903,
       "title": "Talkie: a 13B vintage language model from 1930",
       "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 708,
+      "score": 718,
       "author": "jekude",
       "created": "2026-04-27 21:55:48",
       "created_at": 1777326948000
     },
     {
-      "id": 47920074,
-      "title": "Men who stare at walls",
-      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 695,
-      "author": "aselimov3",
-      "created": "2026-04-27 11:08:26",
-      "created_at": 1777288106000
-    },
-    {
       "id": 47926861,
       "title": "Is my blue your blue? (2024)",
       "link": "https://ismy.blue/",
-      "score": 674,
+      "score": 679,
       "author": "theogravity",
       "created": "2026-04-27 20:24:33",
       "created_at": 1777321473000
     },
     {
-      "id": 47919630,
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "link": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 586,
-      "author": "Oravys",
-      "created": "2026-04-27 09:57:10",
-      "created_at": 1777283830000
-    },
-    {
       "id": 47940921,
       "title": "Before GitHub",
       "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 472,
+      "score": 540,
       "author": "mlex",
       "created": "2026-04-28 21:17:40",
       "created_at": 1777411060000
+    },
+    {
+      "id": 47933983,
+      "title": "UAE to leave OPEC",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "score": 454,
+      "author": "bazzmt",
+      "created": "2026-04-28 13:02:01",
+      "created_at": 1777381321000
+    },
+    {
+      "id": 47932937,
+      "title": "Who owns the code Claude Code wrote?",
+      "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "score": 452,
+      "author": "senaevren",
+      "created": "2026-04-28 11:24:52",
+      "created_at": 1777375492000
     }
   ],
   "code": 200,

@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-29T09:56:41.792Z"
+    "lastUpdate": "2026-04-29T13:21:25.704Z"
   },
   "data": [
-    {
-      "id": 47939579,
-      "title": "Ghostty is leaving GitHub",
-      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2604,
-      "author": "WadeGrimridge",
-      "created": "2026-04-28 19:44:52",
-      "created_at": 1777405492000
-    },
     {
       "id": 47945918,
       "title": "Soft launch of open-source code platform for government",
       "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 24,
+      "score": 264,
       "author": "e12e",
       "created": "2026-04-29 09:14:37",
       "created_at": 1777454077000
     },
     {
+      "id": 47939579,
+      "title": "Ghostty is leaving GitHub",
+      "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 2873,
+      "author": "WadeGrimridge",
+      "created": "2026-04-28 19:44:52",
+      "created_at": 1777405492000
+    },
+    {
+      "id": 47946958,
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "score": 168,
+      "author": "terminalbraid",
+      "created": "2026-04-29 11:42:46",
+      "created_at": 1777462966000
+    },
+    {
+      "id": 47947490,
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "score": 101,
+      "author": "sarusso",
+      "created": "2026-04-29 12:38:50",
+      "created_at": 1777466330000
+    },
+    {
       "id": 47943499,
       "title": "Bugs Rust won't catch",
       "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 293,
+      "score": 408,
       "author": "lwhsiao",
       "created": "2026-04-29 02:19:11",
       "created_at": 1777429151000
     },
     {
-      "id": 47944864,
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 65,
-      "author": "lftherios",
-      "created": "2026-04-29 06:38:44",
-      "created_at": 1777444724000
-    },
-    {
-      "id": 47945522,
-      "title": "Tell HN: An update from the new Tindie team",
-      "link": "",
-      "score": 28,
-      "author": "altairprime",
-      "created": "2026-04-29 08:16:37",
-      "created_at": 1777450597000
-    },
-    {
-      "id": 47942437,
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 341,
-      "author": "lmbbuchodi",
-      "created": "2026-04-28 23:54:14",
-      "created_at": 1777420454000
-    },
-    {
       "id": 47940921,
       "title": "Before GitHub",
       "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 472,
+      "score": 540,
       "author": "mlex",
       "created": "2026-04-28 21:17:40",
       "created_at": 1777411060000
     },
     {
+      "id": 47942437,
+      "title": "How ChatGPT serves ads",
+      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 395,
+      "author": "lmbbuchodi",
+      "created": "2026-04-28 23:54:14",
+      "created_at": 1777420454000
+    },
+    {
+      "id": 47947369,
+      "title": "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
+      "link": "https://github.com/electricant/adblock-rust-manager",
+      "score": 5,
+      "author": "electricant",
+      "created": "2026-04-29 12:24:53",
+      "created_at": 1777465493000
+    },
+    {
       "id": 47945955,
       "title": "Show HN: Rip.so – a graveyard for dead internet things",
       "link": "https://rip.so",
-      "score": 8,
+      "score": 103,
       "author": "bozdemir",
       "created": "2026-04-29 09:21:32",
       "created_at": 1777454492000
-    },
-    {
-      "id": 47935246,
-      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "link": "https://github.com/rocky-data/rocky",
-      "score": 55,
-      "author": "hugocorreia90",
-      "created": "2026-04-28 14:35:59",
-      "created_at": 1777386959000
-    },
-    {
-      "id": 47937380,
-      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "score": 154,
-      "author": "fesens",
-      "created": "2026-04-28 17:12:30",
-      "created_at": 1777396350000
     }
   ],
   "code": 200,
