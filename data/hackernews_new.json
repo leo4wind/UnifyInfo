@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-29T06:16:12.994Z"
+    "lastUpdate": "2026-04-29T09:56:41.792Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2165,
+      "score": 2604,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
     },
     {
+      "id": 47945918,
+      "title": "Soft launch of open-source code platform for government",
+      "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "score": 24,
+      "author": "e12e",
+      "created": "2026-04-29 09:14:37",
+      "created_at": 1777454077000
+    },
+    {
       "id": 47943499,
       "title": "Bugs Rust won't catch",
       "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 120,
+      "score": 293,
       "author": "lwhsiao",
       "created": "2026-04-29 02:19:11",
       "created_at": 1777429151000
     },
     {
-      "id": 47940921,
-      "title": "Before GitHub",
-      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 368,
-      "author": "mlex",
-      "created": "2026-04-28 21:17:40",
-      "created_at": 1777411060000
+      "id": 47944864,
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "score": 65,
+      "author": "lftherios",
+      "created": "2026-04-29 06:38:44",
+      "created_at": 1777444724000
+    },
+    {
+      "id": 47945522,
+      "title": "Tell HN: An update from the new Tindie team",
+      "link": "",
+      "score": 28,
+      "author": "altairprime",
+      "created": "2026-04-29 08:16:37",
+      "created_at": 1777450597000
     },
     {
       "id": 47942437,
       "title": "How ChatGPT serves ads",
       "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 249,
+      "score": 341,
       "author": "lmbbuchodi",
       "created": "2026-04-28 23:54:14",
       "created_at": 1777420454000
     },
     {
+      "id": 47940921,
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 472,
+      "author": "mlex",
+      "created": "2026-04-28 21:17:40",
+      "created_at": 1777411060000
+    },
+    {
+      "id": 47945955,
+      "title": "Show HN: Rip.so – a graveyard for dead internet things",
+      "link": "https://rip.so",
+      "score": 8,
+      "author": "bozdemir",
+      "created": "2026-04-29 09:21:32",
+      "created_at": 1777454492000
+    },
+    {
+      "id": 47935246,
+      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+      "link": "https://github.com/rocky-data/rocky",
+      "score": 55,
+      "author": "hugocorreia90",
+      "created": "2026-04-28 14:35:59",
+      "created_at": 1777386959000
+    },
+    {
       "id": 47937380,
       "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
       "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "score": 76,
+      "score": 154,
       "author": "fesens",
       "created": "2026-04-28 17:12:30",
       "created_at": 1777396350000
-    },
-    {
-      "id": 47926148,
-      "title": "Withnail's Coat and I",
-      "link": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "score": 11,
-      "author": "apollinaire",
-      "created": "2026-04-27 19:27:47",
-      "created_at": 1777318067000
-    },
-    {
-      "id": 47920599,
-      "title": "We still don't have a more precise value for \"Big G\"",
-      "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
-      "score": 32,
-      "author": "rbanffy",
-      "created": "2026-04-27 12:17:19",
-      "created_at": 1777292239000
-    },
-    {
-      "id": 47939320,
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 225,
-      "author": "translocator",
-      "created": "2026-04-28 19:24:43",
-      "created_at": 1777404283000
-    },
-    {
-      "id": 47942492,
-      "title": "Regression: malware reminder on every read still causes subagent refusals",
-      "link": "https://github.com/anthropics/claude-code/issues/49363",
-      "score": 187,
-      "author": "thomashobohm",
-      "created": "2026-04-28 23:59:57",
-      "created_at": 1777420797000
-    },
-    {
-      "id": 47940389,
-      "title": "I won a championship that doesn't exist",
-      "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 119,
-      "author": "SEJeff",
-      "created": "2026-04-28 20:38:21",
-      "created_at": 1777408701000
     }
   ],
   "code": 200,
