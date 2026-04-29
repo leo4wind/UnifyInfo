@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-29T13:21:25.469Z"
+    "lastUpdate": "2026-04-29T17:16:16.882Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2873,
+      "score": 3176,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
@@ -19,52 +19,43 @@
       "id": 47935853,
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
-      "score": 1492,
+      "score": 1585,
       "author": "doener",
       "created": "2026-04-28 15:21:00",
       "created_at": 1777389660000
     },
     {
-      "id": 47921248,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 969,
-      "author": "helsinkiandrew",
-      "created": "2026-04-27 13:22:42",
-      "created_at": 1777296162000
-    },
-    {
       "id": 47933208,
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "link": "https://github.com/localsend/localsend",
-      "score": 874,
+      "score": 885,
       "author": "bilsbie",
       "created": "2026-04-28 11:54:20",
       "created_at": 1777377260000
     },
     {
-      "id": 47923357,
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 755,
-      "author": "frizlab",
-      "created": "2026-04-27 16:03:08",
-      "created_at": 1777305788000
-    },
-    {
       "id": 47927903,
       "title": "Talkie: a 13B vintage language model from 1930",
       "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 718,
+      "score": 735,
       "author": "jekude",
       "created": "2026-04-27 21:55:48",
       "created_at": 1777326948000
     },
     {
+      "id": 47949027,
+      "title": "Zed 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "score": 685,
+      "author": "salkahfi",
+      "created": "2026-04-29 14:34:19",
+      "created_at": 1777473259000
+    },
+    {
       "id": 47926861,
       "title": "Is my blue your blue? (2024)",
       "link": "https://ismy.blue/",
-      "score": 679,
+      "score": 680,
       "author": "theogravity",
       "created": "2026-04-27 20:24:33",
       "created_at": 1777321473000
@@ -73,28 +64,37 @@
       "id": 47940921,
       "title": "Before GitHub",
       "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 540,
+      "score": 604,
       "author": "mlex",
       "created": "2026-04-28 21:17:40",
       "created_at": 1777411060000
     },
     {
-      "id": 47933983,
-      "title": "UAE to leave OPEC",
-      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "score": 454,
-      "author": "bazzmt",
-      "created": "2026-04-28 13:02:01",
-      "created_at": 1777381321000
+      "id": 47943499,
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 525,
+      "author": "lwhsiao",
+      "created": "2026-04-29 02:19:11",
+      "created_at": 1777429151000
     },
     {
       "id": 47932937,
       "title": "Who owns the code Claude Code wrote?",
       "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 452,
+      "score": 517,
       "author": "senaevren",
       "created": "2026-04-28 11:24:52",
       "created_at": 1777375492000
+    },
+    {
+      "id": 47933983,
+      "title": "UAE to leave OPEC",
+      "link": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "score": 472,
+      "author": "bazzmt",
+      "created": "2026-04-28 13:02:01",
+      "created_at": 1777381321000
     }
   ],
   "code": 200,

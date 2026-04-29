@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-29T13:21:25.633Z"
+    "lastUpdate": "2026-04-29T17:16:17.160Z"
   },
   "data": [
+    {
+      "id": 47949027,
+      "title": "Zed 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "score": 685,
+      "author": "salkahfi",
+      "created": "2026-04-29 14:34:19",
+      "created_at": 1777473259000
+    },
+    {
+      "id": 47948603,
+      "title": "Tangled – We need a federation of forges",
+      "link": "https://blog.tangled.org/federation/",
+      "score": 314,
+      "author": "icy",
+      "created": "2026-04-29 14:00:59",
+      "created_at": 1777471259000
+    },
+    {
+      "id": 47949750,
+      "title": "Why AI companies want you to be afraid of them",
+      "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "score": 191,
+      "author": "rolph",
+      "created": "2026-04-29 15:26:01",
+      "created_at": 1777476361000
+    },
+    {
+      "id": 47950510,
+      "title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+      "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 25,
+      "author": "agwa",
+      "created": "2026-04-29 16:16:39",
+      "created_at": 1777479399000
+    },
     {
       "id": 47945918,
       "title": "Soft launch of open-source code platform for government",
       "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 264,
+      "score": 421,
       "author": "e12e",
       "created": "2026-04-29 09:14:37",
       "created_at": 1777454077000
     },
     {
+      "id": 47949585,
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "score": 59,
+      "author": "0xKelsey",
+      "created": "2026-04-29 15:13:44",
+      "created_at": 1777475624000
+    },
+    {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2873,
+      "score": 3176,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
     },
     {
-      "id": 47946958,
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "score": 168,
-      "author": "terminalbraid",
-      "created": "2026-04-29 11:42:46",
-      "created_at": 1777462966000
+      "id": 47950091,
+      "title": "Online age verification is the hill to die on",
+      "link": "https://xcancel.com/GlennMeder/status/2049088498163216560",
+      "score": 158,
+      "author": "Cider9986",
+      "created": "2026-04-29 15:49:57",
+      "created_at": 1777477797000
     },
     {
-      "id": 47947490,
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "score": 101,
-      "author": "sarusso",
-      "created": "2026-04-29 12:38:50",
-      "created_at": 1777466330000
+      "id": 47949204,
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "link": "https://github.com/GliaX/Stethoscope",
+      "score": 41,
+      "author": "0x54MUR41",
+      "created": "2026-04-29 14:47:31",
+      "created_at": 1777474051000
     },
     {
-      "id": 47943499,
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 408,
-      "author": "lwhsiao",
-      "created": "2026-04-29 02:19:11",
-      "created_at": 1777429151000
-    },
-    {
-      "id": 47940921,
-      "title": "Before GitHub",
-      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 540,
-      "author": "mlex",
-      "created": "2026-04-28 21:17:40",
-      "created_at": 1777411060000
-    },
-    {
-      "id": 47942437,
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 395,
-      "author": "lmbbuchodi",
-      "created": "2026-04-28 23:54:14",
-      "created_at": 1777420454000
-    },
-    {
-      "id": 47947369,
-      "title": "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
-      "link": "https://github.com/electricant/adblock-rust-manager",
-      "score": 5,
-      "author": "electricant",
-      "created": "2026-04-29 12:24:53",
-      "created_at": 1777465493000
-    },
-    {
-      "id": 47945955,
-      "title": "Show HN: Rip.so – a graveyard for dead internet things",
-      "link": "https://rip.so",
-      "score": 103,
-      "author": "bozdemir",
-      "created": "2026-04-29 09:21:32",
-      "created_at": 1777454492000
+      "id": 47949642,
+      "title": "Mistral Medium 3.5",
+      "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "score": 176,
+      "author": "meetpateltech",
+      "created": "2026-04-29 15:17:46",
+      "created_at": 1777475866000
     }
   ],
   "code": 200,
