@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-04-28T20:58:26.590Z"
+    "lastUpdate": "2026-04-29T01:58:20.897Z"
   },
   "data": [
+    {
+      "zqdm": "001393",
+      "zqjc": "维通利",
+      "sgdm": "001393",
+      "fxsl": 62333334,
+      "swfxsl": 20445000,
+      "sgsx": 20000,
+      "dgsz": 200000,
+      "fxjg": null,
+      "zxj": 0,
+      "srspj": null,
+      "sgrq": "2026-05-06",
+      "zqgbrq": "2026-05-08",
+      "zqjkrq": "2026-05-08",
+      "ssrq": null,
+      "syl": null,
+      "hysyl": 29.31,
+      "wszql": null,
+      "yzbsl": 0,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "硬连接、柔性连接、触头组件、叠层母排和CCS等系列化电连接产品以及同步分解器等产品的研发、生产和销售"
+    },
     {
       "zqdm": "920178",
       "zqjc": "锐翔智能",
@@ -74,29 +97,6 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "软磁铁氧体磁粉的研发、生产和销售,并沿产业链发展软磁铁氧体磁心、电子元器件和电源等产品"
-    },
-    {
-      "zqdm": "920200",
-      "zqjc": "振宏股份",
-      "sgdm": "920200",
-      "fxsl": 22910000,
-      "swfxsl": 20619000,
-      "sgsx": 1030900,
-      "dgsz": 10309000,
-      "fxjg": 20.58,
-      "zxj": 0,
-      "srspj": null,
-      "sgrq": "2026-04-22",
-      "zqgbrq": "2026-04-27",
-      "zqjkrq": null,
-      "ssrq": null,
-      "syl": 14.99,
-      "hysyl": 45.08,
-      "wszql": 0.04118349,
-      "yzbsl": null,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "锻造风电主轴和其他大型金属锻件的研发、生产和销售"
     }
   ],
   "total": 4

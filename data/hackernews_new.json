@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-28T20:58:23.438Z"
+    "lastUpdate": "2026-04-29T01:58:03.202Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 723,
+      "score": 1691,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
     },
     {
+      "id": 47942437,
+      "title": "ChatGPT serves ads. Here's the full attribution loop",
+      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 135,
+      "author": "lmbbuchodi",
+      "created": "2026-04-28 23:54:14",
+      "created_at": 1777420454000
+    },
+    {
+      "id": 47940921,
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 265,
+      "author": "mlex",
+      "created": "2026-04-28 21:17:40",
+      "created_at": 1777411060000
+    },
+    {
+      "id": 47942492,
+      "title": "Claude system prompt bug wastes user money and bricks managed agents",
+      "link": "https://github.com/anthropics/claude-code/issues/49363",
+      "score": 82,
+      "author": "thomashobohm",
+      "created": "2026-04-28 23:59:57",
+      "created_at": 1777420797000
+    },
+    {
+      "id": 47942903,
+      "title": "We decreased our LLM costs with Opus",
+      "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "score": 21,
+      "author": "shad42",
+      "created": "2026-04-29 00:57:12",
+      "created_at": 1777424232000
+    },
+    {
       "id": 47939320,
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
       "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 81,
+      "score": 179,
       "author": "translocator",
       "created": "2026-04-28 19:24:43",
       "created_at": 1777404283000
     },
     {
-      "id": 47939079,
-      "title": "A playable DOOM MCP app",
-      "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-      "score": 58,
-      "author": "chrisnager",
-      "created": "2026-04-28 19:08:47",
-      "created_at": 1777403327000
-    },
-    {
-      "id": 47937349,
-      "title": "Warp is now Open-Source",
-      "link": "https://github.com/warpdotdev/warp",
-      "score": 104,
-      "author": "doppp",
-      "created": "2026-04-28 17:09:41",
-      "created_at": 1777396181000
+      "id": 47942386,
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "score": 41,
+      "author": "elsewhen",
+      "created": "2026-04-28 23:46:56",
+      "created_at": 1777420016000
     },
     {
       "id": 47940389,
-      "title": "I Won a Championship That Doesn't Exist",
+      "title": "I won a championship that doesn't exist",
       "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 5,
+      "score": 80,
       "author": "SEJeff",
       "created": "2026-04-28 20:38:21",
       "created_at": 1777408701000
     },
     {
-      "id": 47939105,
-      "title": "CJIT: C, Just in Time",
-      "link": "https://dyne.org/cjit/",
-      "score": 40,
-      "author": "smartmic",
-      "created": "2026-04-28 19:10:14",
-      "created_at": 1777403414000
-    },
-    {
-      "id": 47935853,
-      "title": "Your phone is about to stop being yours",
-      "link": "https://keepandroidopen.org/en/",
-      "score": 623,
-      "author": "doener",
-      "created": "2026-04-28 15:21:00",
-      "created_at": 1777389660000
+      "id": 47941590,
+      "title": "Carrot Disclosure: Forgejo",
+      "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+      "score": 99,
+      "author": "bo0tzz",
+      "created": "2026-04-28 22:14:29",
+      "created_at": 1777414469000
     },
     {
       "id": 47885644,
       "title": "Intel Arc Pro B70 Review",
       "link": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-      "score": 17,
+      "score": 112,
       "author": "zdw",
       "created": "2026-04-24 04:44:49",
       "created_at": 1777005889000
-    },
-    {
-      "id": 47936479,
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "score": 143,
-      "author": "bo0tzz",
-      "created": "2026-04-28 16:15:43",
-      "created_at": 1777392943000
-    },
-    {
-      "id": 47938184,
-      "title": "Waymo in Portland",
-      "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
-      "score": 182,
-      "author": "xnx",
-      "created": "2026-04-28 18:08:13",
-      "created_at": 1777399693000
     }
   ],
   "code": 200,
