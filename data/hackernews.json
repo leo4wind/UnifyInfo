@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-29T01:58:02.843Z"
+    "lastUpdate": "2026-04-29T06:16:12.877Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 1691,
+      "score": 2165,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
@@ -19,7 +19,7 @@
       "id": 47935853,
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
-      "score": 986,
+      "score": 1194,
       "author": "doener",
       "created": "2026-04-28 15:21:00",
       "created_at": 1777389660000
@@ -28,34 +28,34 @@
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 965,
+      "score": 966,
       "author": "helsinkiandrew",
       "created": "2026-04-27 13:22:42",
       "created_at": 1777296162000
     },
     {
-      "id": 47923357,
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "score": 747,
-      "author": "frizlab",
-      "created": "2026-04-27 16:03:08",
-      "created_at": 1777305788000
-    },
-    {
       "id": 47933208,
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "link": "https://github.com/localsend/localsend",
-      "score": 739,
+      "score": 783,
       "author": "bilsbie",
       "created": "2026-04-28 11:54:20",
       "created_at": 1777377260000
     },
     {
+      "id": 47923357,
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 749,
+      "author": "frizlab",
+      "created": "2026-04-27 16:03:08",
+      "created_at": 1777305788000
+    },
+    {
       "id": 47920074,
       "title": "Men who stare at walls",
       "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 690,
+      "score": 692,
       "author": "aselimov3",
       "created": "2026-04-27 11:08:26",
       "created_at": 1777288106000
@@ -64,7 +64,7 @@
       "id": 47926861,
       "title": "Is my blue your blue? (2024)",
       "link": "https://ismy.blue/",
-      "score": 672,
+      "score": 674,
       "author": "theogravity",
       "created": "2026-04-27 20:24:33",
       "created_at": 1777321473000
@@ -73,7 +73,7 @@
       "id": 47927903,
       "title": "Talkie: a 13B vintage language model from 1930",
       "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 644,
+      "score": 661,
       "author": "jekude",
       "created": "2026-04-27 21:55:48",
       "created_at": 1777326948000
@@ -91,7 +91,7 @@
       "id": 47919997,
       "title": "Pgbackrest is no longer being maintained",
       "link": "https://github.com/pgbackrest/pgbackrest",
-      "score": 445,
+      "score": 446,
       "author": "c0l0",
       "created": "2026-04-27 10:56:34",
       "created_at": 1777287394000
