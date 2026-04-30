@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-29T20:51:55.043Z"
+    "lastUpdate": "2026-04-30T01:57:08.685Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3283,
+      "score": 3351,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
@@ -19,7 +19,7 @@
       "id": 47935853,
       "title": "Your phone is about to stop being yours",
       "link": "https://keepandroidopen.org/en/",
-      "score": 1616,
+      "score": 1641,
       "author": "doener",
       "created": "2026-04-28 15:21:00",
       "created_at": 1777389660000
@@ -28,73 +28,73 @@
       "id": 47949027,
       "title": "Zed 1.0",
       "link": "https://zed.dev/blog/zed-1-0",
-      "score": 1217,
+      "score": 1530,
       "author": "salkahfi",
       "created": "2026-04-29 14:34:19",
       "created_at": 1777473259000
     },
     {
-      "id": 47933208,
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "link": "https://github.com/localsend/localsend",
-      "score": 891,
-      "author": "bilsbie",
-      "created": "2026-04-28 11:54:20",
-      "created_at": 1777377260000
-    },
-    {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "score": 741,
-      "author": "jekude",
-      "created": "2026-04-27 21:55:48",
-      "created_at": 1777326948000
-    },
-    {
-      "id": 47926861,
-      "title": "Is my blue your blue? (2024)",
-      "link": "https://ismy.blue/",
-      "score": 684,
-      "author": "theogravity",
-      "created": "2026-04-27 20:24:33",
-      "created_at": 1777321473000
-    },
-    {
-      "id": 47940921,
-      "title": "Before GitHub",
-      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 638,
-      "author": "mlex",
-      "created": "2026-04-28 21:17:40",
-      "created_at": 1777411060000
-    },
-    {
-      "id": 47943499,
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 597,
-      "author": "lwhsiao",
-      "created": "2026-04-29 02:19:11",
-      "created_at": 1777429151000
-    },
-    {
       "id": 47952722,
-      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 594,
+      "score": 983,
       "author": "homebrewer",
       "created": "2026-04-29 18:54:31",
       "created_at": 1777488871000
     },
     {
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "score": 899,
+      "author": "bilsbie",
+      "created": "2026-04-28 11:54:20",
+      "created_at": 1777377260000
+    },
+    {
       "id": 47950091,
       "title": "Online age verification is the hill to die on",
       "link": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 537,
+      "score": 757,
       "author": "Cider9986",
       "created": "2026-04-29 15:49:57",
       "created_at": 1777477797000
+    },
+    {
+      "id": 47940921,
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 649,
+      "author": "mlex",
+      "created": "2026-04-28 21:17:40",
+      "created_at": 1777411060000
+    },
+    {
+      "id": 47949939,
+      "title": "Cursor Camp",
+      "link": "https://neal.fun/cursor-camp/",
+      "score": 632,
+      "author": "bpierre",
+      "created": "2026-04-29 15:39:43",
+      "created_at": 1777477183000
+    },
+    {
+      "id": 47943499,
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 627,
+      "author": "lwhsiao",
+      "created": "2026-04-29 02:19:11",
+      "created_at": 1777429151000
+    },
+    {
+      "id": 47952181,
+      "title": "Copy Fail – CVE-2026-31431",
+      "link": "https://copy.fail/",
+      "score": 584,
+      "author": "unsnap_biceps",
+      "created": "2026-04-29 18:13:53",
+      "created_at": 1777486433000
     }
   ],
   "code": 200,
