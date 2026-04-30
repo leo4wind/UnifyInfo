@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-30T17:07:56.532Z"
+    "lastUpdate": "2026-04-30T20:49:51.055Z"
   },
   "data": [
     {
-      "id": 47961319,
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 515,
-      "author": "mpweiher",
-      "created": "2026-04-30 12:17:14",
-      "created_at": 1777551434000
-    },
-    {
-      "id": 47964034,
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 120,
-      "author": "akyuu",
-      "created": "2026-04-30 15:31:40",
-      "created_at": 1777563100000
+      "id": 47967786,
+      "title": "Rivian allows you to disable all internet connectivity",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 48,
+      "author": "Cider9986",
+      "created": "2026-04-30 20:27:22",
+      "created_at": 1777580842000
     },
     {
       "id": 47965060,
-      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 29,
+      "score": 310,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
     },
     {
-      "id": 47962548,
-      "title": "How an Oil Refinery Works",
-      "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 150,
-      "author": "chmaynard",
-      "created": "2026-04-30 13:54:20",
-      "created_at": 1777557260000
-    },
-    {
-      "id": 47963204,
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "link": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 282,
-      "author": "elmean",
-      "created": "2026-04-30 14:36:58",
-      "created_at": 1777559818000
-    },
-    {
       "id": 47964617,
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 16,
+      "score": 244,
       "author": "j12y",
       "created": "2026-04-30 16:09:26",
       "created_at": 1777565366000
     },
     {
-      "id": 47961378,
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "link": "https://bidprowl.com",
-      "score": 157,
-      "author": "scarsam",
-      "created": "2026-04-30 12:24:53",
-      "created_at": 1777551893000
+      "id": 47965108,
+      "title": "CopyFail was not disclosed to Gentoo developer",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 251,
+      "author": "ori_b",
+      "created": "2026-04-30 16:43:47",
+      "created_at": 1777567427000
     },
     {
-      "id": 47963316,
-      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-      "link": "https://honker.dev/",
-      "score": 35,
-      "author": "ferriswil",
-      "created": "2026-04-30 14:43:02",
-      "created_at": 1777560182000
+      "id": 47965503,
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "score": 127,
+      "author": "elvis70",
+      "created": "2026-04-30 17:14:21",
+      "created_at": 1777569261000
     },
     {
-      "id": 47924912,
-      "title": "You can beat the binary search",
-      "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 107,
-      "author": "vok",
-      "created": "2026-04-27 17:52:12",
-      "created_at": 1777312332000
+      "id": 47967262,
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "score": 30,
+      "author": "un-nf",
+      "created": "2026-04-30 19:40:20",
+      "created_at": 1777578020000
     },
     {
-      "id": 47964897,
-      "title": "SatoshiGuesser – Roll for Bitcoin",
-      "link": "https://github.com/Pathos0925/SatoshiGuesser",
-      "score": 24,
-      "author": "ilarum",
-      "created": "2026-04-30 16:29:58",
-      "created_at": 1777566598000
+      "id": 47963204,
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "link": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 718,
+      "author": "elmean",
+      "created": "2026-04-30 14:36:58",
+      "created_at": 1777559818000
+    },
+    {
+      "id": 47961319,
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 673,
+      "author": "mpweiher",
+      "created": "2026-04-30 12:17:14",
+      "created_at": 1777551434000
+    },
+    {
+      "id": 47962548,
+      "title": "How an oil refinery works",
+      "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 251,
+      "author": "chmaynard",
+      "created": "2026-04-30 13:54:20",
+      "created_at": 1777557260000
+    },
+    {
+      "id": 47967289,
+      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+      "score": 102,
+      "author": "kamaraju",
+      "created": "2026-04-30 19:42:33",
+      "created_at": 1777578153000
     }
   ],
   "code": 200,
