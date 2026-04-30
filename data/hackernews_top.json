@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-04-30T13:19:23.915Z"
+    "lastUpdate": "2026-04-30T17:07:56.532Z"
   },
   "data": [
     {
       "id": 47961319,
       "title": "Belgium stops decommissioning nuclear power plants",
       "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 102,
+      "score": 515,
       "author": "mpweiher",
       "created": "2026-04-30 12:17:14",
       "created_at": 1777551434000
     },
     {
-      "id": 47960507,
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 148,
-      "author": "steveharing1",
-      "created": "2026-04-30 10:31:17",
-      "created_at": 1777545077000
+      "id": 47964034,
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 120,
+      "author": "akyuu",
+      "created": "2026-04-30 15:31:40",
+      "created_at": 1777563100000
+    },
+    {
+      "id": 47965060,
+      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 29,
+      "author": "the-mitr",
+      "created": "2026-04-30 16:41:00",
+      "created_at": 1777567260000
+    },
+    {
+      "id": 47962548,
+      "title": "How an Oil Refinery Works",
+      "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 150,
+      "author": "chmaynard",
+      "created": "2026-04-30 13:54:20",
+      "created_at": 1777557260000
+    },
+    {
+      "id": 47963204,
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "link": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 282,
+      "author": "elmean",
+      "created": "2026-04-30 14:36:58",
+      "created_at": 1777559818000
+    },
+    {
+      "id": 47964617,
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 16,
+      "author": "j12y",
+      "created": "2026-04-30 16:09:26",
+      "created_at": 1777565366000
     },
     {
       "id": 47961378,
       "title": "I aggregated 28 US Government auction sites into one search",
       "link": "https://bidprowl.com",
-      "score": 25,
+      "score": 157,
       "author": "scarsam",
       "created": "2026-04-30 12:24:53",
       "created_at": 1777551893000
     },
     {
-      "id": 47959463,
-      "title": "Mozilla's Opposition to Chrome's Prompt API",
-      "link": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 253,
-      "author": "jaffathecake",
-      "created": "2026-04-30 07:43:55",
-      "created_at": 1777535035000
+      "id": 47963316,
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+      "link": "https://honker.dev/",
+      "score": 35,
+      "author": "ferriswil",
+      "created": "2026-04-30 14:43:02",
+      "created_at": 1777560182000
     },
     {
-      "id": 47957688,
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 790,
-      "author": "ilreb",
-      "created": "2026-04-30 03:21:04",
-      "created_at": 1777519264000
+      "id": 47924912,
+      "title": "You can beat the binary search",
+      "link": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "score": 107,
+      "author": "vok",
+      "created": "2026-04-27 17:52:12",
+      "created_at": 1777312332000
     },
     {
-      "id": 47927627,
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "link": "https://www.noctua.at/en/3d-cad-models",
-      "score": 348,
-      "author": "embedding-shape",
-      "created": "2026-04-27 21:35:07",
-      "created_at": 1777325707000
-    },
-    {
-      "id": 47949027,
-      "title": "Zed 1.0",
-      "link": "https://zed.dev/blog/zed-1-0",
-      "score": 1955,
-      "author": "salkahfi",
-      "created": "2026-04-29 14:34:19",
-      "created_at": 1777473259000
-    },
-    {
-      "id": 47957294,
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 405,
-      "author": "lumpa",
-      "created": "2026-04-30 02:15:47",
-      "created_at": 1777515347000
-    },
-    {
-      "id": 47960643,
-      "title": "How to Disable Firefox's New Emoji Picker",
-      "link": "https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/",
-      "score": 19,
-      "author": "embedding-shape",
-      "created": "2026-04-30 10:49:18",
-      "created_at": 1777546158000
-    },
-    {
-      "id": 47952181,
-      "title": "Copy Fail",
-      "link": "https://copy.fail/",
-      "score": 1136,
-      "author": "unsnap_biceps",
-      "created": "2026-04-29 18:13:53",
-      "created_at": 1777486433000
+      "id": 47964897,
+      "title": "SatoshiGuesser – Roll for Bitcoin",
+      "link": "https://github.com/Pathos0925/SatoshiGuesser",
+      "score": 24,
+      "author": "ilarum",
+      "created": "2026-04-30 16:29:58",
+      "created_at": 1777566598000
     }
   ],
   "code": 200,
