@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-04-30T06:21:44.916Z"
+    "lastUpdate": "2026-04-30T09:57:40.167Z"
   },
   "data": [
     {
       "id": 47957688,
       "title": "Where the goblins came from",
       "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 353,
+      "score": 603,
       "author": "ilreb",
       "created": "2026-04-30 03:21:04",
       "created_at": 1777519264000
     },
     {
-      "id": 47957101,
-      "title": "Craig Venter has died",
-      "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 184,
-      "author": "rdl",
-      "created": "2026-04-30 01:44:56",
-      "created_at": 1777513496000
-    },
-    {
-      "id": 47957627,
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "score": 83,
-      "author": "reconnecting",
-      "created": "2026-04-30 03:11:51",
-      "created_at": 1777518711000
-    },
-    {
-      "id": 47949027,
-      "title": "Zed 1.0",
-      "link": "https://zed.dev/blog/zed-1-0",
-      "score": 1715,
-      "author": "salkahfi",
-      "created": "2026-04-29 14:34:19",
-      "created_at": 1777473259000
-    },
-    {
       "id": 47927627,
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "link": "https://www.noctua.at/en/3d-cad-models",
-      "score": 83,
+      "score": 242,
       "author": "embedding-shape",
       "created": "2026-04-27 21:35:07",
       "created_at": 1777325707000
     },
     {
+      "id": 47949027,
+      "title": "Zed 1.0",
+      "link": "https://zed.dev/blog/zed-1-0",
+      "score": 1849,
+      "author": "salkahfi",
+      "created": "2026-04-29 14:34:19",
+      "created_at": 1777473259000
+    },
+    {
       "id": 47957294,
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 119,
+      "score": 278,
       "author": "lumpa",
       "created": "2026-04-30 02:15:47",
       "created_at": 1777515347000
     },
     {
-      "id": 47957624,
-      "title": "Functional programmers need to take a look at Zig",
-      "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-      "score": 56,
-      "author": "xngbuilds",
-      "created": "2026-04-30 03:11:33",
-      "created_at": 1777518693000
-    },
-    {
-      "id": 47957714,
-      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "link": "https://burrito.bio/essays/biology-is-a-burrito",
-      "score": 56,
-      "author": "the-mitr",
-      "created": "2026-04-30 03:24:41",
-      "created_at": 1777519481000
+      "id": 47957101,
+      "title": "Craig Venter has died",
+      "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 232,
+      "author": "rdl",
+      "created": "2026-04-30 01:44:56",
+      "created_at": 1777513496000
     },
     {
       "id": 47952181,
       "title": "Copy Fail",
       "link": "https://copy.fail/",
-      "score": 814,
+      "score": 969,
       "author": "unsnap_biceps",
       "created": "2026-04-29 18:13:53",
       "created_at": 1777486433000
     },
     {
-      "id": 47941931,
-      "title": "London to Calcutta by Bus (2022)",
-      "link": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-      "score": 29,
-      "author": "CGMthrowaway",
-      "created": "2026-04-28 22:52:22",
-      "created_at": 1777416742000
+      "id": 47959463,
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "link": "https://github.com/mozilla/standards-positions/issues/1213",
+      "score": 55,
+      "author": "jaffathecake",
+      "created": "2026-04-30 07:43:55",
+      "created_at": 1777535035000
+    },
+    {
+      "id": 47957714,
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "link": "https://burrito.bio/essays/biology-is-a-burrito",
+      "score": 100,
+      "author": "the-mitr",
+      "created": "2026-04-30 03:24:41",
+      "created_at": 1777519481000
+    },
+    {
+      "id": 47949939,
+      "title": "Cursor Camp",
+      "link": "https://neal.fun/cursor-camp/",
+      "score": 941,
+      "author": "bpierre",
+      "created": "2026-04-29 15:39:43",
+      "created_at": 1777477183000
+    },
+    {
+      "id": 47923429,
+      "title": "\"Parse, don't validate\" through the years with C++",
+      "link": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+      "score": 13,
+      "author": "dwrodri",
+      "created": "2026-04-27 16:08:34",
+      "created_at": 1777306114000
     }
   ],
   "code": 200,
