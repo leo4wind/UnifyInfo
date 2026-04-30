@@ -3,41 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-04-30T01:57:08.685Z"
+    "lastUpdate": "2026-04-30T06:21:44.327Z"
   },
   "data": [
     {
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3351,
+      "score": 3387,
       "author": "WadeGrimridge",
       "created": "2026-04-28 19:44:52",
       "created_at": 1777405492000
     },
     {
-      "id": 47935853,
-      "title": "Your phone is about to stop being yours",
-      "link": "https://keepandroidopen.org/en/",
-      "score": 1641,
-      "author": "doener",
-      "created": "2026-04-28 15:21:00",
-      "created_at": 1777389660000
-    },
-    {
       "id": 47949027,
       "title": "Zed 1.0",
       "link": "https://zed.dev/blog/zed-1-0",
-      "score": 1530,
+      "score": 1715,
       "author": "salkahfi",
       "created": "2026-04-29 14:34:19",
       "created_at": 1777473259000
     },
     {
+      "id": 47935853,
+      "title": "Your phone is about to stop being yours",
+      "link": "https://keepandroidopen.org/en/",
+      "score": 1651,
+      "author": "doener",
+      "created": "2026-04-28 15:21:00",
+      "created_at": 1777389660000
+    },
+    {
       "id": 47952722,
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 983,
+      "score": 1072,
       "author": "homebrewer",
       "created": "2026-04-29 18:54:31",
       "created_at": 1777488871000
@@ -46,7 +46,7 @@
       "id": 47933208,
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
       "link": "https://github.com/localsend/localsend",
-      "score": 899,
+      "score": 900,
       "author": "bilsbie",
       "created": "2026-04-28 11:54:20",
       "created_at": 1777377260000
@@ -55,46 +55,46 @@
       "id": 47950091,
       "title": "Online age verification is the hill to die on",
       "link": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 757,
+      "score": 863,
       "author": "Cider9986",
       "created": "2026-04-29 15:49:57",
       "created_at": 1777477797000
     },
     {
-      "id": 47940921,
-      "title": "Before GitHub",
-      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 649,
-      "author": "mlex",
-      "created": "2026-04-28 21:17:40",
-      "created_at": 1777411060000
-    },
-    {
       "id": 47949939,
       "title": "Cursor Camp",
       "link": "https://neal.fun/cursor-camp/",
-      "score": 632,
+      "score": 820,
       "author": "bpierre",
       "created": "2026-04-29 15:39:43",
       "created_at": 1777477183000
     },
     {
-      "id": 47943499,
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 627,
-      "author": "lwhsiao",
-      "created": "2026-04-29 02:19:11",
-      "created_at": 1777429151000
-    },
-    {
       "id": 47952181,
-      "title": "Copy Fail – CVE-2026-31431",
+      "title": "Copy Fail",
       "link": "https://copy.fail/",
-      "score": 584,
+      "score": 814,
       "author": "unsnap_biceps",
       "created": "2026-04-29 18:13:53",
       "created_at": 1777486433000
+    },
+    {
+      "id": 47940921,
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 651,
+      "author": "mlex",
+      "created": "2026-04-28 21:17:40",
+      "created_at": 1777411060000
+    },
+    {
+      "id": 47943499,
+      "title": "Bugs Rust won't catch",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 642,
+      "author": "lwhsiao",
+      "created": "2026-04-29 02:19:11",
+      "created_at": 1777429151000
     }
   ],
   "code": 200,
