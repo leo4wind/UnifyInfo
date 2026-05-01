@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-01T01:59:07.111Z"
+    "lastUpdate": "2026-05-01T06:30:46.375Z"
   },
   "data": [
-    {
-      "id": 47967786,
-      "title": "Rivian allows you to disable all internet connectivity",
-      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 500,
-      "author": "Cider9986",
-      "created": "2026-04-30 20:27:22",
-      "created_at": 1777580842000
-    },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 429,
+      "score": 530,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
     },
     {
-      "id": 47951295,
-      "title": "Opus 4.7 knows the real Kelsey",
-      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 155,
-      "author": "ilamont",
-      "created": "2026-04-29 17:09:03",
-      "created_at": 1777482543000
-    },
-    {
       "id": 47965108,
-      "title": "CopyFail was not disclosed to distro developers?",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 373,
+      "score": 450,
       "author": "ori_b",
       "created": "2026-04-30 16:43:47",
       "created_at": 1777567427000
     },
     {
+      "id": 47951295,
+      "title": "Opus 4.7 knows the real Kelsey",
+      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 282,
+      "author": "ilamont",
+      "created": "2026-04-29 17:09:03",
+      "created_at": 1777482543000
+    },
+    {
       "id": 47964617,
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 327,
+      "score": 374,
       "author": "j12y",
       "created": "2026-04-30 16:09:26",
       "created_at": 1777565366000
     },
     {
-      "id": 47969288,
-      "title": "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
-      "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 38,
-      "author": "zikani_03",
-      "created": "2026-04-30 22:48:51",
-      "created_at": 1777589331000
+      "id": 47948152,
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "score": 19,
+      "author": "oldnetguy",
+      "created": "2026-04-29 13:28:47",
+      "created_at": 1777469327000
     },
     {
-      "id": 47965503,
-      "title": "I built a Game Boy emulator in F#",
-      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 218,
-      "author": "elvis70",
-      "created": "2026-04-30 17:14:21",
-      "created_at": 1777569261000
+      "id": 47946899,
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "score": 22,
+      "author": "giuliomagnifico",
+      "created": "2026-04-29 11:35:40",
+      "created_at": 1777462540000
     },
     {
       "id": 47942863,
       "title": "Maladaptive Frugality",
       "link": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 14,
+      "score": 69,
       "author": "herbertl",
       "created": "2026-04-29 00:50:15",
       "created_at": 1777423815000
     },
     {
-      "id": 47963204,
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "link": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 960,
-      "author": "elmean",
-      "created": "2026-04-30 14:36:58",
-      "created_at": 1777559818000
+      "id": 47967786,
+      "title": "Can I disable all data collection from my vehicle?",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 585,
+      "author": "Cider9986",
+      "created": "2026-04-30 20:27:22",
+      "created_at": 1777580842000
     },
     {
-      "id": 47962548,
-      "title": "How an oil refinery works",
-      "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 327,
-      "author": "chmaynard",
-      "created": "2026-04-30 13:54:20",
-      "created_at": 1777557260000
+      "id": 47969288,
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "score": 83,
+      "author": "zikani_03",
+      "created": "2026-04-30 22:48:51",
+      "created_at": 1777589331000
+    },
+    {
+      "id": 47970622,
+      "title": "OpenWarp",
+      "link": "https://openwarp.zerx.dev",
+      "score": 67,
+      "author": "zero-lab",
+      "created": "2026-05-01 02:10:46",
+      "created_at": 1777601446000
     }
   ],
   "code": 200,
