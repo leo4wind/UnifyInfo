@@ -3,41 +3,86 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-01T09:24:53.063Z"
+    "lastUpdate": "2026-05-01T12:54:20.570Z"
   },
   "data": [
     {
-      "id": 47936184,
-      "title": "Auto Polo",
-      "link": "https://en.wikipedia.org/wiki/Auto_polo",
-      "score": 32,
-      "author": "canjobear",
-      "created": "2026-04-28 15:51:37",
-      "created_at": 1777391497000
+      "id": 47973376,
+      "title": "Your Website Is Not for You",
+      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 65,
+      "author": "pumbaa",
+      "created": "2026-05-01 11:08:20",
+      "created_at": 1777633700000
     },
     {
-      "id": 47972447,
-      "title": "Grok 4.3",
-      "link": "https://docs.x.ai/developers/models/grok-4.3",
-      "score": 25,
-      "author": "simianwords",
-      "created": "2026-05-01 08:29:31",
-      "created_at": 1777624171000
+      "id": 47973755,
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "link": "https://www.pagetable.com/?p=1854",
+      "score": 15,
+      "author": "ingve",
+      "created": "2026-05-01 11:58:11",
+      "created_at": 1777636691000
+    },
+    {
+      "id": 47972888,
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "link": "",
+      "score": 50,
+      "author": "mayerwin",
+      "created": "2026-05-01 09:52:15",
+      "created_at": 1777629135000
+    },
+    {
+      "id": 47973559,
+      "title": "Show HN: Site Mogging",
+      "link": "https://sitemogging.com",
+      "score": 12,
+      "author": "jilles",
+      "created": "2026-05-01 11:32:48",
+      "created_at": 1777635168000
+    },
+    {
+      "id": 47973378,
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "score": 66,
+      "author": "andruby",
+      "created": "2026-05-01 11:08:32",
+      "created_at": 1777633712000
     },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 589,
+      "score": 632,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
     },
     {
+      "id": 47972511,
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "link": "https://github.com/darrylmorley/whatcable",
+      "score": 176,
+      "author": "sleepingNomad",
+      "created": "2026-05-01 08:43:45",
+      "created_at": 1777625025000
+    },
+    {
+      "id": 47972447,
+      "title": "Grok 4.3",
+      "link": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 156,
+      "author": "simianwords",
+      "created": "2026-05-01 08:29:31",
+      "created_at": 1777624171000
+    },
+    {
       "id": 47946899,
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 58,
+      "score": 96,
       "author": "giuliomagnifico",
       "created": "2026-04-29 11:35:40",
       "created_at": 1777462540000
@@ -46,55 +91,10 @@
       "id": 47965108,
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 496,
+      "score": 532,
       "author": "ori_b",
       "created": "2026-04-30 16:43:47",
       "created_at": 1777567427000
-    },
-    {
-      "id": 47971771,
-      "title": "If I Could Make My Own GitHub",
-      "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-      "score": 24,
-      "author": "vinhnx",
-      "created": "2026-05-01 06:21:01",
-      "created_at": 1777616461000
-    },
-    {
-      "id": 47951295,
-      "title": "Opus 4.7 knows the real Kelsey",
-      "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 343,
-      "author": "ilamont",
-      "created": "2026-04-29 17:09:03",
-      "created_at": 1777482543000
-    },
-    {
-      "id": 47964617,
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 395,
-      "author": "j12y",
-      "created": "2026-04-30 16:09:26",
-      "created_at": 1777565366000
-    },
-    {
-      "id": 47927011,
-      "title": "Softmax, can you derive the Jacobian? And should you care?",
-      "link": "https://idlemachines.co.uk/essays/softmax",
-      "score": 37,
-      "author": "smaddrellmander",
-      "created": "2026-04-27 20:38:22",
-      "created_at": 1777322302000
-    },
-    {
-      "id": 47969288,
-      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-      "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 102,
-      "author": "zikani_03",
-      "created": "2026-04-30 22:48:51",
-      "created_at": 1777589331000
     }
   ],
   "code": 200,
