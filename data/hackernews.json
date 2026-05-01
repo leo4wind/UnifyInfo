@@ -3,59 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-01T16:43:58.181Z"
+    "lastUpdate": "2026-05-01T20:40:42.083Z"
   },
   "data": [
-    {
-      "id": 47952181,
-      "title": "Copy Fail",
-      "link": "https://copy.fail/",
-      "score": 1421,
-      "author": "unsnap_biceps",
-      "created": "2026-04-29 18:13:53",
-      "created_at": 1777486433000
-    },
     {
       "id": 47963204,
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "link": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1263,
+      "score": 1298,
       "author": "elmean",
       "created": "2026-04-30 14:36:58",
       "created_at": 1777559818000
     },
     {
-      "id": 47952722,
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1237,
-      "author": "homebrewer",
-      "created": "2026-04-29 18:54:31",
-      "created_at": 1777488871000
-    },
-    {
       "id": 47957688,
       "title": "Where the goblins came from",
       "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 1038,
+      "score": 1042,
       "author": "ilreb",
       "created": "2026-04-30 03:21:04",
       "created_at": 1777519264000
     },
     {
-      "id": 47950091,
-      "title": "Online age verification is the hill to die on",
-      "link": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 958,
-      "author": "Cider9986",
-      "created": "2026-04-29 15:49:57",
-      "created_at": 1777477797000
-    },
-    {
       "id": 47961319,
       "title": "Belgium stops decommissioning nuclear power plants",
       "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 843,
+      "score": 849,
       "author": "mpweiher",
       "created": "2026-04-30 12:17:14",
       "created_at": 1777551434000
@@ -64,7 +37,7 @@
       "id": 47967786,
       "title": "Can I disable all data collection from my vehicle?",
       "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 694,
+      "score": 712,
       "author": "Cider9986",
       "created": "2026-04-30 20:27:22",
       "created_at": 1777580842000
@@ -73,7 +46,7 @@
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 674,
+      "score": 677,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
@@ -82,7 +55,7 @@
       "id": 47957294,
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 661,
+      "score": 668,
       "author": "lumpa",
       "created": "2026-04-30 02:15:47",
       "created_at": 1777515347000
@@ -91,10 +64,37 @@
       "id": 47959463,
       "title": "Mozilla's opposition to Chrome's Prompt API",
       "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "score": 631,
+      "score": 640,
       "author": "jaffathecake",
       "created": "2026-04-30 07:43:55",
       "created_at": 1777535035000
+    },
+    {
+      "id": 47965108,
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 578,
+      "author": "ori_b",
+      "created": "2026-04-30 16:43:47",
+      "created_at": 1777567427000
+    },
+    {
+      "id": 47962548,
+      "title": "How an oil refinery works",
+      "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 511,
+      "author": "chmaynard",
+      "created": "2026-04-30 13:54:20",
+      "created_at": 1777557260000
+    },
+    {
+      "id": 47961838,
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "score": 508,
+      "author": "gorbachev",
+      "created": "2026-04-30 13:07:42",
+      "created_at": 1777554462000
     }
   ],
   "code": 200,
