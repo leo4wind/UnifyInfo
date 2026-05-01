@@ -3,32 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-01T06:30:46.375Z"
+    "lastUpdate": "2026-05-01T09:24:53.063Z"
   },
   "data": [
+    {
+      "id": 47936184,
+      "title": "Auto Polo",
+      "link": "https://en.wikipedia.org/wiki/Auto_polo",
+      "score": 32,
+      "author": "canjobear",
+      "created": "2026-04-28 15:51:37",
+      "created_at": 1777391497000
+    },
+    {
+      "id": 47972447,
+      "title": "Grok 4.3",
+      "link": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 25,
+      "author": "simianwords",
+      "created": "2026-05-01 08:29:31",
+      "created_at": 1777624171000
+    },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 530,
+      "score": 589,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
     },
     {
+      "id": 47946899,
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "score": 58,
+      "author": "giuliomagnifico",
+      "created": "2026-04-29 11:35:40",
+      "created_at": 1777462540000
+    },
+    {
       "id": 47965108,
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 450,
+      "score": 496,
       "author": "ori_b",
       "created": "2026-04-30 16:43:47",
       "created_at": 1777567427000
     },
     {
+      "id": 47971771,
+      "title": "If I Could Make My Own GitHub",
+      "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "score": 24,
+      "author": "vinhnx",
+      "created": "2026-05-01 06:21:01",
+      "created_at": 1777616461000
+    },
+    {
       "id": 47951295,
       "title": "Opus 4.7 knows the real Kelsey",
       "link": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 282,
+      "score": 343,
       "author": "ilamont",
       "created": "2026-04-29 17:09:03",
       "created_at": 1777482543000
@@ -37,64 +73,28 @@
       "id": 47964617,
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 374,
+      "score": 395,
       "author": "j12y",
       "created": "2026-04-30 16:09:26",
       "created_at": 1777565366000
     },
     {
-      "id": 47948152,
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "score": 19,
-      "author": "oldnetguy",
-      "created": "2026-04-29 13:28:47",
-      "created_at": 1777469327000
-    },
-    {
-      "id": 47946899,
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "link": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 22,
-      "author": "giuliomagnifico",
-      "created": "2026-04-29 11:35:40",
-      "created_at": 1777462540000
-    },
-    {
-      "id": 47942863,
-      "title": "Maladaptive Frugality",
-      "link": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 69,
-      "author": "herbertl",
-      "created": "2026-04-29 00:50:15",
-      "created_at": 1777423815000
-    },
-    {
-      "id": 47967786,
-      "title": "Can I disable all data collection from my vehicle?",
-      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 585,
-      "author": "Cider9986",
-      "created": "2026-04-30 20:27:22",
-      "created_at": 1777580842000
+      "id": 47927011,
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "link": "https://idlemachines.co.uk/essays/softmax",
+      "score": 37,
+      "author": "smaddrellmander",
+      "created": "2026-04-27 20:38:22",
+      "created_at": 1777322302000
     },
     {
       "id": 47969288,
       "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 83,
+      "score": 102,
       "author": "zikani_03",
       "created": "2026-04-30 22:48:51",
       "created_at": 1777589331000
-    },
-    {
-      "id": 47970622,
-      "title": "OpenWarp",
-      "link": "https://openwarp.zerx.dev",
-      "score": 67,
-      "author": "zero-lab",
-      "created": "2026-05-01 02:10:46",
-      "created_at": 1777601446000
     }
   ],
   "code": 200,

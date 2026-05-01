@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-01T06:30:46.205Z"
+    "lastUpdate": "2026-05-01T09:24:52.875Z"
   },
   "data": [
     {
       "id": 47949027,
       "title": "Zed 1.0",
       "link": "https://zed.dev/blog/zed-1-0",
-      "score": 2071,
+      "score": 2081,
       "author": "salkahfi",
       "created": "2026-04-29 14:34:19",
       "created_at": 1777473259000
@@ -19,7 +19,7 @@
       "id": 47952181,
       "title": "Copy Fail",
       "link": "https://copy.fail/",
-      "score": 1384,
+      "score": 1388,
       "author": "unsnap_biceps",
       "created": "2026-04-29 18:13:53",
       "created_at": 1777486433000
@@ -28,7 +28,7 @@
       "id": 47952722,
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1232,
+      "score": 1233,
       "author": "homebrewer",
       "created": "2026-04-29 18:54:31",
       "created_at": 1777488871000
@@ -37,7 +37,7 @@
       "id": 47949939,
       "title": "Cursor Camp",
       "link": "https://neal.fun/cursor-camp/",
-      "score": 1173,
+      "score": 1177,
       "author": "bpierre",
       "created": "2026-04-29 15:39:43",
       "created_at": 1777477183000
@@ -46,7 +46,7 @@
       "id": 47963204,
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "link": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1077,
+      "score": 1150,
       "author": "elmean",
       "created": "2026-04-30 14:36:58",
       "created_at": 1777559818000
@@ -55,7 +55,7 @@
       "id": 47957688,
       "title": "Where the goblins came from",
       "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 1025,
+      "score": 1031,
       "author": "ilreb",
       "created": "2026-04-30 03:21:04",
       "created_at": 1777519264000
@@ -64,7 +64,7 @@
       "id": 47950091,
       "title": "Online age verification is the hill to die on",
       "link": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 951,
+      "score": 956,
       "author": "Cider9986",
       "created": "2026-04-29 15:49:57",
       "created_at": 1777477797000
@@ -73,7 +73,7 @@
       "id": 47961319,
       "title": "Belgium stops decommissioning nuclear power plants",
       "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 789,
+      "score": 814,
       "author": "mpweiher",
       "created": "2026-04-30 12:17:14",
       "created_at": 1777551434000
@@ -82,19 +82,19 @@
       "id": 47957294,
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 647,
+      "score": 654,
       "author": "lumpa",
       "created": "2026-04-30 02:15:47",
       "created_at": 1777515347000
     },
     {
-      "id": 47959463,
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "score": 608,
-      "author": "jaffathecake",
-      "created": "2026-04-30 07:43:55",
-      "created_at": 1777535035000
+      "id": 47967786,
+      "title": "Can I disable all data collection from my vehicle?",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 625,
+      "author": "Cider9986",
+      "created": "2026-04-30 20:27:22",
+      "created_at": 1777580842000
     }
   ],
   "code": 200,
