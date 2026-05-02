@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-02T06:00:30.821Z"
+    "lastUpdate": "2026-05-02T08:56:23.721Z"
   },
   "data": [
     {
-      "id": 47983226,
-      "title": "Ask.com has closed",
-      "link": "https://www.ask.com/",
-      "score": 153,
-      "author": "supermdguy",
-      "created": "2026-05-02 04:12:35",
-      "created_at": 1777695155000
+      "id": 47983352,
+      "title": "Why does it take so long to release black fan versions?",
+      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 181,
+      "author": "buildbot",
+      "created": "2026-05-02 04:38:04",
+      "created_at": 1777696684000
     },
     {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 396,
+      "score": 437,
       "author": "thatxliner",
       "created": "2026-05-01 20:06:59",
       "created_at": 1777666019000
     },
     {
-      "id": 47982512,
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "score": 100,
-      "author": "delichon",
-      "created": "2026-05-02 01:46:24",
-      "created_at": 1777686384000
+      "id": 47958944,
+      "title": "A Gopher Meets a Crab",
+      "link": "https://miren.dev/blog/gopher-meets-crab",
+      "score": 24,
+      "author": "radimm",
+      "created": "2026-04-30 06:30:53",
+      "created_at": 1777530653000
     },
     {
       "id": 47954394,
       "title": "Artemis II Photo Timeline",
       "link": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 146,
+      "score": 185,
       "author": "geerlingguy",
       "created": "2026-04-29 20:48:17",
       "created_at": 1777495697000
     },
     {
+      "id": 47983226,
+      "title": "Ask.com has closed",
+      "link": "https://www.ask.com/",
+      "score": 243,
+      "author": "supermdguy",
+      "created": "2026-05-02 04:12:35",
+      "created_at": 1777695155000
+    },
+    {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 300,
+      "score": 330,
       "author": "XzetaU8",
       "created": "2026-05-01 17:47:42",
       "created_at": 1777657662000
     },
     {
-      "id": 47957648,
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-      "score": 14,
-      "author": "nateb2022",
-      "created": "2026-04-30 03:15:42",
-      "created_at": 1777518942000
-    },
-    {
-      "id": 47983176,
-      "title": "K3k: Kubernetes in Kubernetes",
-      "link": "https://github.com/rancher/k3k",
-      "score": 12,
-      "author": "jzebedee",
-      "created": "2026-05-02 04:00:42",
-      "created_at": 1777694442000
-    },
-    {
       "id": 47949794,
       "title": "To Restore an Island Paradise, Add Fungi",
       "link": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 38,
+      "score": 58,
       "author": "Brajeshwar",
       "created": "2026-04-29 15:28:55",
       "created_at": 1777476535000
     },
     {
-      "id": 47982708,
-      "title": "I built the Playwright for desktop apps. 80% token savings",
-      "link": "https://github.com/lahfir/agent-desktop",
-      "score": 33,
-      "author": "lahfir",
-      "created": "2026-05-02 02:18:24",
-      "created_at": 1777688304000
+      "id": 47950993,
+      "title": "The USB Situation",
+      "link": "https://randsinrepose.com/archives/the-usb-situation/",
+      "score": 12,
+      "author": "herbertl",
+      "created": "2026-04-29 16:49:13",
+      "created_at": 1777481353000
+    },
+    {
+      "id": 47983176,
+      "title": "K3k: Kubernetes in Kubernetes",
+      "link": "https://github.com/rancher/k3k",
+      "score": 43,
+      "author": "jzebedee",
+      "created": "2026-05-02 04:00:42",
+      "created_at": 1777694442000
+    },
+    {
+      "id": 47957648,
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "score": 34,
+      "author": "nateb2022",
+      "created": "2026-04-30 03:15:42",
+      "created_at": 1777518942000
     }
   ],
   "code": 200,
