@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-02T01:48:09.286Z"
+    "lastUpdate": "2026-05-02T06:00:30.200Z"
   },
   "data": [
     {
       "id": 47963204,
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "link": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1308,
+      "score": 1315,
       "author": "elmean",
       "created": "2026-04-30 14:36:58",
       "created_at": 1777559818000
     },
     {
-      "id": 47957688,
-      "title": "Where the goblins came from",
-      "link": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 1047,
-      "author": "ilreb",
-      "created": "2026-04-30 03:21:04",
-      "created_at": 1777519264000
-    },
-    {
       "id": 47961319,
       "title": "Belgium stops decommissioning nuclear power plants",
       "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 851,
+      "score": 852,
       "author": "mpweiher",
       "created": "2026-04-30 12:17:14",
       "created_at": 1777551434000
@@ -37,7 +28,7 @@
       "id": 47967786,
       "title": "Can I disable all data collection from my vehicle?",
       "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 722,
+      "score": 728,
       "author": "Cider9986",
       "created": "2026-04-30 20:27:22",
       "created_at": 1777580842000
@@ -46,25 +37,16 @@
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 680,
+      "score": 684,
       "author": "the-mitr",
       "created": "2026-04-30 16:41:00",
       "created_at": 1777567260000
     },
     {
-      "id": 47957294,
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 669,
-      "author": "lumpa",
-      "created": "2026-04-30 02:15:47",
-      "created_at": 1777515347000
-    },
-    {
       "id": 47959463,
       "title": "Mozilla's opposition to Chrome's Prompt API",
       "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "score": 644,
+      "score": 647,
       "author": "jaffathecake",
       "created": "2026-04-30 07:43:55",
       "created_at": 1777535035000
@@ -73,7 +55,7 @@
       "id": 47965108,
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 580,
+      "score": 582,
       "author": "ori_b",
       "created": "2026-04-30 16:43:47",
       "created_at": 1777567427000
@@ -82,7 +64,7 @@
       "id": 47962548,
       "title": "How an oil refinery works",
       "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 519,
+      "score": 523,
       "author": "chmaynard",
       "created": "2026-04-30 13:54:20",
       "created_at": 1777557260000
@@ -91,10 +73,28 @@
       "id": 47961838,
       "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
       "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "score": 512,
+      "score": 515,
       "author": "gorbachev",
       "created": "2026-04-30 13:07:42",
       "created_at": 1777554462000
+    },
+    {
+      "id": 47964034,
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "link": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 507,
+      "author": "akyuu",
+      "created": "2026-04-30 15:31:40",
+      "created_at": 1777563100000
+    },
+    {
+      "id": 47972511,
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "link": "https://github.com/darrylmorley/whatcable",
+      "score": 471,
+      "author": "sleepingNomad",
+      "created": "2026-05-01 08:43:45",
+      "created_at": 1777625025000
     }
   ],
   "code": 200,

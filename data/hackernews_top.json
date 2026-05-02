@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-02T01:48:09.803Z"
+    "lastUpdate": "2026-05-02T06:00:30.693Z"
   },
   "data": [
+    {
+      "id": 47983226,
+      "title": "Ask.com has closed",
+      "link": "https://www.ask.com/",
+      "score": 153,
+      "author": "supermdguy",
+      "created": "2026-05-02 04:12:35",
+      "created_at": 1777695155000
+    },
     {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 286,
+      "score": 396,
       "author": "thatxliner",
       "created": "2026-05-01 20:06:59",
       "created_at": 1777666019000
     },
     {
-      "id": 47977748,
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 241,
-      "author": "XzetaU8",
-      "created": "2026-05-01 17:47:42",
-      "created_at": 1777657662000
+      "id": 47982512,
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "link": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "score": 100,
+      "author": "delichon",
+      "created": "2026-05-02 01:46:24",
+      "created_at": 1777686384000
     },
     {
       "id": 47954394,
       "title": "Artemis II Photo Timeline",
       "link": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 47,
+      "score": 146,
       "author": "geerlingguy",
       "created": "2026-04-29 20:48:17",
       "created_at": 1777495697000
     },
     {
-      "id": 47950070,
-      "title": "The smelly baby problem",
-      "link": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 98,
-      "author": "dionysou",
-      "created": "2026-04-29 15:48:18",
-      "created_at": 1777477698000
+      "id": 47977748,
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 300,
+      "author": "XzetaU8",
+      "created": "2026-05-01 17:47:42",
+      "created_at": 1777657662000
     },
     {
-      "id": 47981669,
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 23,
-      "author": "susam",
-      "created": "2026-05-01 23:24:10",
-      "created_at": 1777677850000
+      "id": 47957648,
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "score": 14,
+      "author": "nateb2022",
+      "created": "2026-04-30 03:15:42",
+      "created_at": 1777518942000
     },
     {
-      "id": 47981995,
-      "title": "Good developers learn to program. Most courses teach a language",
-      "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
-      "score": 9,
-      "author": "andsoitis",
-      "created": "2026-05-02 00:14:33",
-      "created_at": 1777680873000
+      "id": 47983176,
+      "title": "K3k: Kubernetes in Kubernetes",
+      "link": "https://github.com/rancher/k3k",
+      "score": 12,
+      "author": "jzebedee",
+      "created": "2026-05-02 04:00:42",
+      "created_at": 1777694442000
     },
     {
-      "id": 47955789,
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 89,
-      "author": "zdw",
-      "created": "2026-04-29 22:56:10",
-      "created_at": 1777503370000
+      "id": 47949794,
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "link": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "score": 38,
+      "author": "Brajeshwar",
+      "created": "2026-04-29 15:28:55",
+      "created_at": 1777476535000
     },
     {
-      "id": 47981800,
-      "title": "Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987",
-      "link": "https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026",
-      "score": 11,
-      "author": "jordand",
-      "created": "2026-05-01 23:44:18",
-      "created_at": 1777679058000
-    },
-    {
-      "id": 47975571,
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "link": "",
-      "score": 227,
-      "author": "whoishiring",
-      "created": "2026-05-01 15:00:07",
-      "created_at": 1777647607000
-    },
-    {
-      "id": 47978834,
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "link": "https://github.com/microsoft/lib0xc",
-      "score": 74,
-      "author": "wooster",
-      "created": "2026-05-01 19:10:56",
-      "created_at": 1777662656000
+      "id": 47982708,
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "link": "https://github.com/lahfir/agent-desktop",
+      "score": 33,
+      "author": "lahfir",
+      "created": "2026-05-02 02:18:24",
+      "created_at": 1777688304000
     }
   ],
   "code": 200,
