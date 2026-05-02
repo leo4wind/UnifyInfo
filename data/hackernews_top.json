@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-02T08:56:23.621Z"
+    "lastUpdate": "2026-05-02T12:45:00.519Z"
   },
   "data": [
+    {
+      "id": 47984852,
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "score": 63,
+      "author": "moosia",
+      "created": "2026-05-02 09:30:49",
+      "created_at": 1777714249000
+    },
     {
       "id": 47983352,
       "title": "Why does it take so long to release black fan versions?",
       "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 181,
+      "score": 337,
       "author": "buildbot",
       "created": "2026-05-02 04:38:04",
       "created_at": 1777696684000
     },
     {
+      "id": 47984522,
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "score": 70,
+      "author": "ankitg12",
+      "created": "2026-05-02 08:23:23",
+      "created_at": 1777710203000
+    },
+    {
+      "id": 47949066,
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "link": "https://github.com/bruin-data/dac",
+      "score": 36,
+      "author": "karakanb",
+      "created": "2026-04-29 14:37:20",
+      "created_at": 1777473440000
+    },
+    {
+      "id": 47964957,
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "link": "https://github.com/dotcl/dotcl",
+      "score": 47,
+      "author": "reikonomusha",
+      "created": "2026-04-30 16:33:24",
+      "created_at": 1777566804000
+    },
+    {
+      "id": 47985725,
+      "title": "The Century-Long Pause in Fundamental Physics",
+      "link": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
+      "score": 3,
+      "author": "danieltanfh95",
+      "created": "2026-05-02 12:13:11",
+      "created_at": 1777723991000
+    },
+    {
+      "id": 47984734,
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "link": "https://iesna.eu/?wasm=skyglow_demo",
+      "score": 22,
+      "author": "holg",
+      "created": "2026-05-02 09:08:18",
+      "created_at": 1777712898000
+    },
+    {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 437,
+      "score": 478,
       "author": "thatxliner",
       "created": "2026-05-01 20:06:59",
       "created_at": 1777666019000
     },
     {
-      "id": 47958944,
-      "title": "A Gopher Meets a Crab",
-      "link": "https://miren.dev/blog/gopher-meets-crab",
-      "score": 24,
-      "author": "radimm",
-      "created": "2026-04-30 06:30:53",
-      "created_at": 1777530653000
+      "id": 47984675,
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "score": 22,
+      "author": "nip",
+      "created": "2026-05-02 08:54:27",
+      "created_at": 1777712067000
     },
     {
-      "id": 47954394,
-      "title": "Artemis II Photo Timeline",
-      "link": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 185,
-      "author": "geerlingguy",
-      "created": "2026-04-29 20:48:17",
-      "created_at": 1777495697000
-    },
-    {
-      "id": 47983226,
-      "title": "Ask.com has closed",
-      "link": "https://www.ask.com/",
-      "score": 243,
-      "author": "supermdguy",
-      "created": "2026-05-02 04:12:35",
-      "created_at": 1777695155000
-    },
-    {
-      "id": 47977748,
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 330,
-      "author": "XzetaU8",
-      "created": "2026-05-01 17:47:42",
-      "created_at": 1777657662000
-    },
-    {
-      "id": 47949794,
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "link": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 58,
-      "author": "Brajeshwar",
-      "created": "2026-04-29 15:28:55",
-      "created_at": 1777476535000
-    },
-    {
-      "id": 47950993,
-      "title": "The USB Situation",
-      "link": "https://randsinrepose.com/archives/the-usb-situation/",
-      "score": 12,
-      "author": "herbertl",
-      "created": "2026-04-29 16:49:13",
-      "created_at": 1777481353000
-    },
-    {
-      "id": 47983176,
-      "title": "K3k: Kubernetes in Kubernetes",
-      "link": "https://github.com/rancher/k3k",
-      "score": 43,
-      "author": "jzebedee",
-      "created": "2026-05-02 04:00:42",
-      "created_at": 1777694442000
-    },
-    {
-      "id": 47957648,
-      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
-      "link": "https://www.liquid.ai/blog/lfm2-24b-a2b",
-      "score": 34,
-      "author": "nateb2022",
-      "created": "2026-04-30 03:15:42",
-      "created_at": 1777518942000
+      "id": 47985210,
+      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+      "link": "https://piruet.app",
+      "score": 23,
+      "author": "patillacode",
+      "created": "2026-05-02 10:42:55",
+      "created_at": 1777718575000
     }
   ],
   "code": 200,
