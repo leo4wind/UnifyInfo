@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-02T16:35:50.205Z"
+    "lastUpdate": "2026-05-02T20:30:50.109Z"
   },
   "data": [
     {
       "id": 47967786,
       "title": "Can I disable all data collection from my vehicle?",
       "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 737,
+      "score": 743,
       "author": "Cider9986",
       "created": "2026-04-30 20:27:22",
       "created_at": 1777580842000
     },
     {
-      "id": 47965060,
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 693,
-      "author": "the-mitr",
-      "created": "2026-04-30 16:41:00",
-      "created_at": 1777567260000
-    },
-    {
-      "id": 47965108,
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 591,
-      "author": "ori_b",
-      "created": "2026-04-30 16:43:47",
-      "created_at": 1777567427000
+      "id": 47983352,
+      "title": "Why does it take so long to release black fan versions?",
+      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 646,
+      "author": "buildbot",
+      "created": "2026-05-02 04:38:04",
+      "created_at": 1777696684000
     },
     {
       "id": 47977134,
       "title": "The gay jailbreak technique (2025)",
       "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "score": 587,
+      "score": 609,
       "author": "bobsmooth",
       "created": "2026-05-01 16:59:35",
       "created_at": 1777654775000
@@ -46,46 +37,37 @@
       "id": 47979583,
       "title": "Ti-84 Evo",
       "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 527,
+      "score": 560,
       "author": "thatxliner",
       "created": "2026-05-01 20:06:59",
       "created_at": 1777666019000
     },
     {
-      "id": 47983352,
-      "title": "Why does it take so long to release black fan versions?",
-      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 518,
-      "author": "buildbot",
-      "created": "2026-05-02 04:38:04",
-      "created_at": 1777696684000
-    },
-    {
       "id": 47972511,
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "link": "https://github.com/darrylmorley/whatcable",
-      "score": 517,
+      "score": 522,
       "author": "sleepingNomad",
       "created": "2026-05-01 08:43:45",
       "created_at": 1777625025000
     },
     {
-      "id": 47964617,
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 461,
-      "author": "j12y",
-      "created": "2026-04-30 16:09:26",
-      "created_at": 1777565366000
-    },
-    {
       "id": 47978370,
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
       "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 433,
+      "score": 447,
       "author": "joshcsimmons",
       "created": "2026-05-01 18:37:47",
       "created_at": 1777660667000
+    },
+    {
+      "id": 47977026,
+      "title": "DeepSeek V4—almost on the frontier",
+      "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "score": 437,
+      "author": "indigodaddy",
+      "created": "2026-05-01 16:52:43",
+      "created_at": 1777654363000
     },
     {
       "id": 47967262,
@@ -95,6 +77,24 @@
       "author": "un-nf",
       "created": "2026-04-30 19:40:20",
       "created_at": 1777578020000
+    },
+    {
+      "id": 47977748,
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 430,
+      "author": "XzetaU8",
+      "created": "2026-05-01 17:47:42",
+      "created_at": 1777657662000
+    },
+    {
+      "id": 47983226,
+      "title": "Ask.com has closed",
+      "link": "https://www.ask.com/",
+      "score": 418,
+      "author": "supermdguy",
+      "created": "2026-05-02 04:12:35",
+      "created_at": 1777695155000
     }
   ],
   "code": 200,

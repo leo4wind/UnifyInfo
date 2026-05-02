@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-02T16:35:50.553Z"
+    "lastUpdate": "2026-05-02T20:30:50.266Z"
   },
   "data": [
     {
-      "id": 47987256,
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-      "link": "https://arxiv.org/abs/2509.00462",
-      "score": 132,
-      "author": "laurex",
-      "created": "2026-05-02 15:28:13",
-      "created_at": 1777735693000
+      "id": 47988504,
+      "title": "Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "score": 167,
+      "author": "dabinat",
+      "created": "2026-05-02 17:32:29",
+      "created_at": 1777743149000
     },
     {
-      "id": 47987333,
-      "title": "Uber wants to turn its drivers into a sensor grid for AV companies",
-      "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "score": 11,
-      "author": "nickvec",
-      "created": "2026-05-02 15:38:17",
-      "created_at": 1777736297000
+      "id": 47960015,
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 111,
+      "author": "JeanKage",
+      "created": "2026-04-30 09:12:23",
+      "created_at": 1777540343000
     },
     {
-      "id": 47984852,
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 157,
-      "author": "moosia",
-      "created": "2026-05-02 09:30:49",
-      "created_at": 1777714249000
+      "id": 47989931,
+      "title": "I Do Not Recommend Bitwarden",
+      "link": "https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/",
+      "score": 18,
+      "author": "maxloh",
+      "created": "2026-05-02 20:03:08",
+      "created_at": 1777752188000
     },
     {
-      "id": 47948526,
-      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
-      "link": "https://github.com/EnterpriseDB/barman",
-      "score": 51,
-      "author": "nateb2022",
-      "created": "2026-04-29 13:54:48",
-      "created_at": 1777470888000
+      "id": 47988592,
+      "title": "Do_not_track",
+      "link": "https://donottrack.sh/",
+      "score": 65,
+      "author": "RubyGuy",
+      "created": "2026-05-02 17:40:55",
+      "created_at": 1777743655000
+    },
+    {
+      "id": 47988776,
+      "title": "NetHack 5.0.0",
+      "link": "https://nethack.org/v500/release.html",
+      "score": 248,
+      "author": "rsaarelm",
+      "created": "2026-05-02 18:03:42",
+      "created_at": 1777745022000
+    },
+    {
+      "id": 47989154,
+      "title": "Unsigned Sizes: A Five Year Mistake",
+      "link": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+      "score": 36,
+      "author": "lerno",
+      "created": "2026-05-02 18:40:19",
+      "created_at": 1777747219000
+    },
+    {
+      "id": 47988501,
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "link": "https://flueframework.com/",
+      "score": 50,
+      "author": "momentmaker",
+      "created": "2026-05-02 17:32:07",
+      "created_at": 1777743127000
+    },
+    {
+      "id": 47988742,
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "score": 124,
+      "author": "geox",
+      "created": "2026-05-02 17:59:18",
+      "created_at": 1777744758000
+    },
+    {
+      "id": 47962681,
+      "title": "Little Magazines Are Back",
+      "link": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
+      "score": 23,
+      "author": "prismatic",
+      "created": "2026-04-30 14:03:43",
+      "created_at": 1777557823000
     },
     {
       "id": 47983352,
       "title": "Why does it take so long to release black fan versions?",
       "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 518,
+      "score": 646,
       "author": "buildbot",
       "created": "2026-05-02 04:38:04",
       "created_at": 1777696684000
-    },
-    {
-      "id": 47953347,
-      "title": "Why IPv6 is so complicated",
-      "link": "https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md",
-      "score": 16,
-      "author": "speckx",
-      "created": "2026-04-29 19:37:38",
-      "created_at": 1777491458000
-    },
-    {
-      "id": 47984522,
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "score": 129,
-      "author": "ankitg12",
-      "created": "2026-05-02 08:23:23",
-      "created_at": 1777710203000
-    },
-    {
-      "id": 47986136,
-      "title": "Refusal in Language Models Is Mediated by a Single Direction",
-      "link": "https://arxiv.org/abs/2406.11717",
-      "score": 25,
-      "author": "fagnerbrack",
-      "created": "2026-05-02 13:15:23",
-      "created_at": 1777727723000
-    },
-    {
-      "id": 47985704,
-      "title": "Craig Venter of Human Genome Project Dies at 79",
-      "link": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
-      "score": 37,
-      "author": "bookofjoe",
-      "created": "2026-05-02 12:08:51",
-      "created_at": 1777723731000
-    },
-    {
-      "id": 47985750,
-      "title": "Open Design: Use Your Coding Agent as a Design Engine",
-      "link": "https://github.com/nexu-io/open-design",
-      "score": 103,
-      "author": "steveharing1",
-      "created": "2026-05-02 12:16:16",
-      "created_at": 1777724176000
     }
   ],
   "code": 200,
