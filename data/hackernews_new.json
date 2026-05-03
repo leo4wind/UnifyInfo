@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-02T20:30:50.370Z"
+    "lastUpdate": "2026-05-03T01:50:59.672Z"
   },
   "data": [
+    {
+      "id": 47989883,
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "score": 774,
+      "author": "indrora",
+      "created": "2026-05-02 19:57:26",
+      "created_at": 1777751846000
+    },
+    {
+      "id": 47991802,
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "score": 38,
+      "author": "unignorant",
+      "created": "2026-05-03 00:01:14",
+      "created_at": 1777766474000
+    },
+    {
+      "id": 47990318,
+      "title": "This Month in Ladybird - April 2026",
+      "link": "https://ladybird.org/newsletter/2026-04-30/",
+      "score": 152,
+      "author": "richardboegli",
+      "created": "2026-05-02 20:46:30",
+      "created_at": 1777754790000
+    },
+    {
+      "id": 47990606,
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "score": 168,
+      "author": "valzevul",
+      "created": "2026-05-02 21:14:29",
+      "created_at": 1777756469000
+    },
     {
       "id": 47988504,
       "title": "Dav2d",
       "link": "https://code.videolan.org/videolan/dav2d",
-      "score": 167,
+      "score": 332,
       "author": "dabinat",
       "created": "2026-05-02 17:32:29",
       "created_at": 1777743149000
     },
     {
-      "id": 47960015,
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 111,
-      "author": "JeanKage",
-      "created": "2026-04-30 09:12:23",
-      "created_at": 1777540343000
-    },
-    {
-      "id": 47989931,
-      "title": "I Do Not Recommend Bitwarden",
-      "link": "https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/",
-      "score": 18,
-      "author": "maxloh",
-      "created": "2026-05-02 20:03:08",
-      "created_at": 1777752188000
+      "id": 47990284,
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "score": 108,
+      "author": "andsoitis",
+      "created": "2026-05-02 20:42:20",
+      "created_at": 1777754540000
     },
     {
       "id": 47988592,
       "title": "Do_not_track",
       "link": "https://donottrack.sh/",
-      "score": 65,
+      "score": 201,
       "author": "RubyGuy",
       "created": "2026-05-02 17:40:55",
       "created_at": 1777743655000
     },
     {
-      "id": 47988776,
-      "title": "NetHack 5.0.0",
-      "link": "https://nethack.org/v500/release.html",
-      "score": 248,
-      "author": "rsaarelm",
-      "created": "2026-05-02 18:03:42",
-      "created_at": 1777745022000
+      "id": 47990789,
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "link": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "score": 35,
+      "author": "dragandj",
+      "created": "2026-05-02 21:34:49",
+      "created_at": 1777757689000
     },
     {
-      "id": 47989154,
-      "title": "Unsigned Sizes: A Five Year Mistake",
-      "link": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
-      "score": 36,
-      "author": "lerno",
-      "created": "2026-05-02 18:40:19",
-      "created_at": 1777747219000
+      "id": 47960015,
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "score": 156,
+      "author": "JeanKage",
+      "created": "2026-04-30 09:12:23",
+      "created_at": 1777540343000
     },
     {
-      "id": 47988501,
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
-      "link": "https://flueframework.com/",
-      "score": 50,
-      "author": "momentmaker",
-      "created": "2026-05-02 17:32:07",
-      "created_at": 1777743127000
-    },
-    {
-      "id": 47988742,
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "score": 124,
-      "author": "geox",
-      "created": "2026-05-02 17:59:18",
-      "created_at": 1777744758000
-    },
-    {
-      "id": 47962681,
-      "title": "Little Magazines Are Back",
-      "link": "https://wsjfreeexpression.substack.com/p/little-magazines-are-back",
-      "score": 23,
-      "author": "prismatic",
-      "created": "2026-04-30 14:03:43",
-      "created_at": 1777557823000
-    },
-    {
-      "id": 47983352,
-      "title": "Why does it take so long to release black fan versions?",
-      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 646,
-      "author": "buildbot",
-      "created": "2026-05-02 04:38:04",
-      "created_at": 1777696684000
+      "id": 47990708,
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "link": "https://hnup.date/hn-sota",
+      "score": 46,
+      "author": "yunusabd",
+      "created": "2026-05-02 21:25:05",
+      "created_at": 1777757105000
     }
   ],
   "code": 200,
