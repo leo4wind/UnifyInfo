@@ -3,23 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-03T01:50:59.672Z"
+    "lastUpdate": "2026-05-03T06:21:04.465Z"
   },
   "data": [
     {
-      "id": 47989883,
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "link": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 774,
-      "author": "indrora",
-      "created": "2026-05-02 19:57:26",
-      "created_at": 1777751846000
+      "id": 47993235,
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "score": 157,
+      "author": "bazlightyear",
+      "created": "2026-05-03 04:05:28",
+      "created_at": 1777781128000
+    },
+    {
+      "id": 47992338,
+      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "link": "https://www.bbc.com/news/articles/cvgzk91leweo",
+      "score": 135,
+      "author": "1659447091",
+      "created": "2026-05-03 01:22:41",
+      "created_at": 1777771361000
     },
     {
       "id": 47991802,
       "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
       "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 38,
+      "score": 134,
       "author": "unignorant",
       "created": "2026-05-03 00:01:14",
       "created_at": 1777766474000
@@ -28,16 +37,25 @@
       "id": 47990318,
       "title": "This Month in Ladybird - April 2026",
       "link": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 152,
+      "score": 248,
       "author": "richardboegli",
       "created": "2026-05-02 20:46:30",
       "created_at": 1777754790000
     },
     {
+      "id": 47962645,
+      "title": "The IBM Granite 4.1 family of models",
+      "link": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+      "score": 38,
+      "author": "wglb",
+      "created": "2026-04-30 14:01:26",
+      "created_at": 1777557686000
+    },
+    {
       "id": 47990606,
       "title": "Six Years Perfecting Maps on WatchOS",
       "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 168,
+      "score": 244,
       "author": "valzevul",
       "created": "2026-05-02 21:14:29",
       "created_at": 1777756469000
@@ -46,7 +64,7 @@
       "id": 47988504,
       "title": "Dav2d",
       "link": "https://code.videolan.org/videolan/dav2d",
-      "score": 332,
+      "score": 420,
       "author": "dabinat",
       "created": "2026-05-02 17:32:29",
       "created_at": 1777743149000
@@ -55,7 +73,7 @@
       "id": 47990284,
       "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
       "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
-      "score": 108,
+      "score": 148,
       "author": "andsoitis",
       "created": "2026-05-02 20:42:20",
       "created_at": 1777754540000
@@ -64,37 +82,19 @@
       "id": 47988592,
       "title": "Do_not_track",
       "link": "https://donottrack.sh/",
-      "score": 201,
+      "score": 265,
       "author": "RubyGuy",
       "created": "2026-05-02 17:40:55",
       "created_at": 1777743655000
     },
     {
-      "id": 47990789,
-      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "link": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
-      "score": 35,
-      "author": "dragandj",
-      "created": "2026-05-02 21:34:49",
-      "created_at": 1777757689000
-    },
-    {
-      "id": 47960015,
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "link": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 156,
-      "author": "JeanKage",
-      "created": "2026-04-30 09:12:23",
-      "created_at": 1777540343000
-    },
-    {
-      "id": 47990708,
-      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
-      "link": "https://hnup.date/hn-sota",
-      "score": 46,
-      "author": "yunusabd",
-      "created": "2026-05-02 21:25:05",
-      "created_at": 1777757105000
+      "id": 47992859,
+      "title": "Windows API Is Successful Cross-Platform API",
+      "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+      "score": 55,
+      "author": "phendrenad2",
+      "created": "2026-05-03 02:53:29",
+      "created_at": 1777776809000
     }
   ],
   "code": 200,
