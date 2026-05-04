@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-04T17:20:45.455Z"
+    "lastUpdate": "2026-05-04T20:57:52.935Z"
   },
   "data": [
     {
-      "id": 48009697,
-      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-      "score": 346,
-      "author": "rdeboo",
-      "created": "2026-05-04 15:10:41",
-      "created_at": 1777907441000
-    },
-    {
-      "id": 48010301,
-      "title": "GitHub Is Down",
-      "link": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
-      "score": 263,
-      "author": "gen220",
-      "created": "2026-05-04 15:53:21",
-      "created_at": 1777910001000
-    },
-    {
-      "id": 48009983,
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "link": "https://www.nber.org/papers/w35117",
-      "score": 44,
-      "author": "littlexsparkee",
-      "created": "2026-05-04 15:32:46",
-      "created_at": 1777908766000
-    },
-    {
-      "id": 48009172,
-      "title": "Redis array: short story of a long development process",
-      "link": "https://antirez.com/news/164",
-      "score": 116,
-      "author": "antirez",
-      "created": "2026-05-04 14:23:07",
-      "created_at": 1777904587000
-    },
-    {
-      "id": 48007438,
-      "title": "Talking to 35 Strangers at the Gym",
-      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 648,
-      "author": "thitran",
-      "created": "2026-05-04 11:41:02",
-      "created_at": 1777894862000
-    },
-    {
-      "id": 48008083,
-      "title": "PyInfra 3.8.0 Is Out",
-      "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 160,
-      "author": "wowi42",
-      "created": "2026-05-04 12:53:46",
-      "created_at": 1777899226000
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 66,
+      "author": "Sean-Der",
+      "created": "2026-05-04 19:42:47",
+      "created_at": 1777923767000
     },
     {
       "id": 48011184,
       "title": "I am worried about Bun",
       "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 13,
+      "score": 266,
       "author": "remote-dev",
       "created": "2026-05-04 16:45:00",
       "created_at": 1777913100000
     },
     {
-      "id": 48009441,
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "link": "https://pomiferous.com/",
-      "score": 24,
-      "author": "Ariarule",
-      "created": "2026-05-04 14:47:41",
-      "created_at": 1777906061000
+      "id": 48012162,
+      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 128,
+      "author": "bearsyankees",
+      "created": "2026-05-04 17:46:32",
+      "created_at": 1777916792000
     },
     {
-      "id": 48009747,
-      "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
-      "link": "https://www.fuelinsight.co.uk",
-      "score": 47,
-      "author": "theazureguy",
-      "created": "2026-05-04 15:15:21",
-      "created_at": 1777907721000
+      "id": 48007438,
+      "title": "Talking to strangers at the gym",
+      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 902,
+      "author": "thitran",
+      "created": "2026-05-04 11:41:02",
+      "created_at": 1777894862000
     },
     {
       "id": 48006402,
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 467,
+      "score": 565,
       "author": "n1b0m",
       "created": "2026-05-04 09:31:12",
       "created_at": 1777887072000
+    },
+    {
+      "id": 48012735,
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 212,
+      "author": "cft",
+      "created": "2026-05-04 18:22:42",
+      "created_at": 1777918962000
+    },
+    {
+      "id": 48009983,
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "link": "https://www.nber.org/papers/w35117",
+      "score": 133,
+      "author": "littlexsparkee",
+      "created": "2026-05-04 15:32:46",
+      "created_at": 1777908766000
+    },
+    {
+      "id": 48011904,
+      "title": "Let's Talk about LLMs",
+      "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "score": 55,
+      "author": "cdrnsf",
+      "created": "2026-05-04 17:29:39",
+      "created_at": 1777915779000
+    },
+    {
+      "id": 48009172,
+      "title": "Redis array: short story of a long development process",
+      "link": "https://antirez.com/news/164",
+      "score": 184,
+      "author": "antirez",
+      "created": "2026-05-04 14:23:07",
+      "created_at": 1777904587000
+    },
+    {
+      "id": 48011689,
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "score": 324,
+      "author": "ZeidJ",
+      "created": "2026-05-04 17:16:36",
+      "created_at": 1777914996000
     }
   ],
   "code": 200,

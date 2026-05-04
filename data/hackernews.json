@@ -3,86 +3,77 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-04T17:20:45.371Z"
+    "lastUpdate": "2026-05-04T20:57:52.621Z"
   },
   "data": [
     {
-      "id": 47989883,
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "link": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1490,
-      "author": "indrora",
-      "created": "2026-05-02 19:57:26",
-      "created_at": 1777751846000
-    },
-    {
-      "id": 47997418,
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 813,
-      "author": "teleforce",
-      "created": "2026-05-03 14:43:27",
-      "created_at": 1777819407000
-    },
-    {
       "id": 48007438,
-      "title": "Talking to 35 Strangers at the Gym",
+      "title": "Talking to strangers at the gym",
       "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 648,
+      "score": 902,
       "author": "thitran",
       "created": "2026-05-04 11:41:02",
       "created_at": 1777894862000
     },
     {
-      "id": 47988504,
-      "title": "Dav2d",
-      "link": "https://code.videolan.org/videolan/dav2d",
-      "score": 612,
-      "author": "dabinat",
-      "created": "2026-05-02 17:32:29",
-      "created_at": 1777743149000
+      "id": 47997418,
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "score": 828,
+      "author": "teleforce",
+      "created": "2026-05-03 14:43:27",
+      "created_at": 1777819407000
     },
     {
       "id": 48002136,
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "link": "https://github.com/aattaran/deepclaude",
-      "score": 599,
+      "score": 639,
       "author": "alattaran",
       "created": "2026-05-03 22:13:20",
       "created_at": 1777846400000
     },
     {
-      "id": 47988592,
-      "title": "Do_not_track",
-      "link": "https://donottrack.sh/",
-      "score": 533,
-      "author": "RubyGuy",
-      "created": "2026-05-02 17:40:55",
-      "created_at": 1777743655000
+      "id": 48006402,
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 565,
+      "author": "n1b0m",
+      "created": "2026-05-04 09:31:12",
+      "created_at": 1777887072000
     },
     {
       "id": 48002777,
       "title": "Let's Buy Spirit Air",
       "link": "https://letsbuyspiritair.com/",
-      "score": 519,
+      "score": 555,
       "author": "bjhess",
       "created": "2026-05-03 23:36:11",
       "created_at": 1777851371000
     },
     {
-      "id": 47988776,
-      "title": "NetHack 5.0.0",
-      "link": "https://nethack.org/v500/release.html",
-      "score": 513,
-      "author": "rsaarelm",
-      "created": "2026-05-02 18:03:42",
-      "created_at": 1777745022000
+      "id": 48006445,
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "score": 554,
+      "author": "maxloh",
+      "created": "2026-05-04 09:40:06",
+      "created_at": 1777887606000
+    },
+    {
+      "id": 48009697,
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "score": 540,
+      "author": "rdeboo",
+      "created": "2026-05-04 15:10:41",
+      "created_at": 1777907441000
     },
     {
       "id": 48000152,
       "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
       "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 512,
+      "score": 534,
       "author": "dryadin",
       "created": "2026-05-03 18:54:28",
       "created_at": 1777834468000
@@ -91,10 +82,19 @@
       "id": 47990318,
       "title": "This Month in Ladybird – April 2026",
       "link": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 495,
+      "score": 496,
       "author": "richardboegli",
       "created": "2026-05-02 20:46:30",
       "created_at": 1777754790000
+    },
+    {
+      "id": 47991981,
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "score": 492,
+      "author": "donsupreme",
+      "created": "2026-05-03 00:30:50",
+      "created_at": 1777768250000
     }
   ],
   "code": 200,
