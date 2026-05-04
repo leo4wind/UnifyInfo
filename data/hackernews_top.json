@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-04T10:04:42.816Z"
+    "lastUpdate": "2026-05-04T13:20:38.520Z"
   },
   "data": [
-    {
-      "id": 48006445,
-      "title": "Trademark Violation: Fake Notepad++ for Mac",
-      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 35,
-      "author": "maxloh",
-      "created": "2026-05-04 09:40:06",
-      "created_at": 1777887606000
-    },
-    {
-      "id": 47977990,
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "link": "https://samcollins.blog/underdrawings/",
-      "score": 242,
-      "author": "samcollins",
-      "created": "2026-05-01 18:07:28",
-      "created_at": 1777658848000
-    },
-    {
-      "id": 47999636,
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "link": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 379,
-      "author": "nullagent",
-      "created": "2026-05-03 18:03:14",
-      "created_at": 1777831394000
-    },
-    {
-      "id": 48002839,
-      "title": "Debunking the CIA's “magic” heartbeat sensor [video]",
-      "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-      "score": 19,
-      "author": "areoform",
-      "created": "2026-05-03 23:45:50",
-      "created_at": 1777851950000
-    },
-    {
-      "id": 48002136,
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "link": "https://github.com/aattaran/deepclaude",
-      "score": 467,
-      "author": "alattaran",
-      "created": "2026-05-03 22:13:20",
-      "created_at": 1777846400000
-    },
-    {
-      "id": 47983333,
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 44,
-      "author": "o4c",
-      "created": "2026-05-02 04:34:40",
-      "created_at": 1777696480000
-    },
-    {
-      "id": 47985589,
-      "title": "From CVS to Git, thirty years of source control",
-      "link": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
-      "score": 17,
-      "author": "andsoitis",
-      "created": "2026-05-02 11:51:31",
-      "created_at": 1777722691000
-    },
     {
       "id": 48006402,
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 18,
+      "score": 269,
       "author": "n1b0m",
       "created": "2026-05-04 09:31:12",
       "created_at": 1777887072000
     },
     {
-      "id": 47968187,
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "link": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "score": 93,
-      "author": "TapamN",
-      "created": "2026-04-30 21:02:06",
-      "created_at": 1777582926000
+      "id": 48007438,
+      "title": "Talking to 35 Strangers at the Gym",
+      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 120,
+      "author": "thitran",
+      "created": "2026-05-04 11:41:02",
+      "created_at": 1777894862000
     },
     {
-      "id": 47976081,
-      "title": "A treasure trove of fossils rewrites the story of early life",
-      "link": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
-      "score": 37,
-      "author": "worldvoyageur",
-      "created": "2026-05-01 15:42:32",
-      "created_at": 1777650152000
+      "id": 48008074,
+      "title": "Newton's law of gravity passes its biggest test",
+      "link": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "score": 10,
+      "author": "pseudolus",
+      "created": "2026-05-04 12:52:57",
+      "created_at": 1777899177000
+    },
+    {
+      "id": 48006445,
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "score": 299,
+      "author": "maxloh",
+      "created": "2026-05-04 09:40:06",
+      "created_at": 1777887606000
+    },
+    {
+      "id": 48008083,
+      "title": "PyInfra 3.8.0 Is Out",
+      "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "score": 5,
+      "author": "wowi42",
+      "created": "2026-05-04 12:53:46",
+      "created_at": 1777899226000
+    },
+    {
+      "id": 47988781,
+      "title": "World's biggest RC A380 [video]",
+      "link": "https://www.youtube.com/watch?v=wr9YLGbhxng",
+      "score": 48,
+      "author": "NaOH",
+      "created": "2026-05-02 18:04:28",
+      "created_at": 1777745068000
+    },
+    {
+      "id": 47977990,
+      "title": "Using “underdrawings” for accurate text and numbers",
+      "link": "https://samcollins.blog/underdrawings/",
+      "score": 295,
+      "author": "samcollins",
+      "created": "2026-05-01 18:07:28",
+      "created_at": 1777658848000
+    },
+    {
+      "id": 47983333,
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "score": 98,
+      "author": "o4c",
+      "created": "2026-05-02 04:34:40",
+      "created_at": 1777696480000
+    },
+    {
+      "id": 48007145,
+      "title": "ASML's Best Selling Product Isn't What You Think It Is",
+      "link": "https://www.siliconimist.com/p/asmls-best-selling-product",
+      "score": 87,
+      "author": "johncole",
+      "created": "2026-05-04 11:08:22",
+      "created_at": 1777892902000
+    },
+    {
+      "id": 47999636,
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "link": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 409,
+      "author": "nullagent",
+      "created": "2026-05-03 18:03:14",
+      "created_at": 1777831394000
     }
   ],
   "code": 200,
