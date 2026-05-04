@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-04T13:20:38.520Z"
+    "lastUpdate": "2026-05-04T17:20:45.455Z"
   },
   "data": [
     {
-      "id": 48006402,
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 269,
-      "author": "n1b0m",
-      "created": "2026-05-04 09:31:12",
-      "created_at": 1777887072000
+      "id": 48009697,
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "score": 346,
+      "author": "rdeboo",
+      "created": "2026-05-04 15:10:41",
+      "created_at": 1777907441000
+    },
+    {
+      "id": 48010301,
+      "title": "GitHub Is Down",
+      "link": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "score": 263,
+      "author": "gen220",
+      "created": "2026-05-04 15:53:21",
+      "created_at": 1777910001000
+    },
+    {
+      "id": 48009983,
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "link": "https://www.nber.org/papers/w35117",
+      "score": 44,
+      "author": "littlexsparkee",
+      "created": "2026-05-04 15:32:46",
+      "created_at": 1777908766000
+    },
+    {
+      "id": 48009172,
+      "title": "Redis array: short story of a long development process",
+      "link": "https://antirez.com/news/164",
+      "score": 116,
+      "author": "antirez",
+      "created": "2026-05-04 14:23:07",
+      "created_at": 1777904587000
     },
     {
       "id": 48007438,
       "title": "Talking to 35 Strangers at the Gym",
       "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 120,
+      "score": 648,
       "author": "thitran",
       "created": "2026-05-04 11:41:02",
       "created_at": 1777894862000
     },
     {
-      "id": 48008074,
-      "title": "Newton's law of gravity passes its biggest test",
-      "link": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "score": 10,
-      "author": "pseudolus",
-      "created": "2026-05-04 12:52:57",
-      "created_at": 1777899177000
-    },
-    {
-      "id": 48006445,
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 299,
-      "author": "maxloh",
-      "created": "2026-05-04 09:40:06",
-      "created_at": 1777887606000
-    },
-    {
       "id": 48008083,
       "title": "PyInfra 3.8.0 Is Out",
       "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 5,
+      "score": 160,
       "author": "wowi42",
       "created": "2026-05-04 12:53:46",
       "created_at": 1777899226000
     },
     {
-      "id": 47988781,
-      "title": "World's biggest RC A380 [video]",
-      "link": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-      "score": 48,
-      "author": "NaOH",
-      "created": "2026-05-02 18:04:28",
-      "created_at": 1777745068000
+      "id": 48011184,
+      "title": "I am worried about Bun",
+      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 13,
+      "author": "remote-dev",
+      "created": "2026-05-04 16:45:00",
+      "created_at": 1777913100000
     },
     {
-      "id": 47977990,
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "link": "https://samcollins.blog/underdrawings/",
-      "score": 295,
-      "author": "samcollins",
-      "created": "2026-05-01 18:07:28",
-      "created_at": 1777658848000
+      "id": 48009441,
+      "title": "Pomiferous: The most extensive apples (pommes) database",
+      "link": "https://pomiferous.com/",
+      "score": 24,
+      "author": "Ariarule",
+      "created": "2026-05-04 14:47:41",
+      "created_at": 1777906061000
     },
     {
-      "id": 47983333,
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 98,
-      "author": "o4c",
-      "created": "2026-05-02 04:34:40",
-      "created_at": 1777696480000
+      "id": 48009747,
+      "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "link": "https://www.fuelinsight.co.uk",
+      "score": 47,
+      "author": "theazureguy",
+      "created": "2026-05-04 15:15:21",
+      "created_at": 1777907721000
     },
     {
-      "id": 48007145,
-      "title": "ASML's Best Selling Product Isn't What You Think It Is",
-      "link": "https://www.siliconimist.com/p/asmls-best-selling-product",
-      "score": 87,
-      "author": "johncole",
-      "created": "2026-05-04 11:08:22",
-      "created_at": 1777892902000
-    },
-    {
-      "id": 47999636,
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "link": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 409,
-      "author": "nullagent",
-      "created": "2026-05-03 18:03:14",
-      "created_at": 1777831394000
+      "id": 48006402,
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 467,
+      "author": "n1b0m",
+      "created": "2026-05-04 09:31:12",
+      "created_at": 1777887072000
     }
   ],
   "code": 200,
