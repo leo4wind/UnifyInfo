@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-04T06:32:31.444Z"
+    "lastUpdate": "2026-05-04T10:04:42.658Z"
   },
   "data": [
     {
       "id": 47989883,
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "link": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1466,
+      "score": 1477,
       "author": "indrora",
       "created": "2026-05-02 19:57:26",
       "created_at": 1777751846000
@@ -19,7 +19,7 @@
       "id": 47997418,
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 659,
+      "score": 712,
       "author": "teleforce",
       "created": "2026-05-03 14:43:27",
       "created_at": 1777819407000
@@ -28,7 +28,7 @@
       "id": 47988504,
       "title": "Dav2d",
       "link": "https://code.videolan.org/videolan/dav2d",
-      "score": 600,
+      "score": 605,
       "author": "dabinat",
       "created": "2026-05-02 17:32:29",
       "created_at": 1777743149000
@@ -37,7 +37,7 @@
       "id": 47988592,
       "title": "Do_not_track",
       "link": "https://donottrack.sh/",
-      "score": 512,
+      "score": 520,
       "author": "RubyGuy",
       "created": "2026-05-02 17:40:55",
       "created_at": 1777743655000
@@ -46,7 +46,7 @@
       "id": 47988776,
       "title": "NetHack 5.0.0",
       "link": "https://nethack.org/v500/release.html",
-      "score": 504,
+      "score": 507,
       "author": "rsaarelm",
       "created": "2026-05-02 18:03:42",
       "created_at": 1777745022000
@@ -55,16 +55,25 @@
       "id": 47990318,
       "title": "This Month in Ladybird – April 2026",
       "link": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 485,
+      "score": 489,
       "author": "richardboegli",
       "created": "2026-05-02 20:46:30",
       "created_at": 1777754790000
     },
     {
+      "id": 48002136,
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "link": "https://github.com/aattaran/deepclaude",
+      "score": 467,
+      "author": "alattaran",
+      "created": "2026-05-03 22:13:20",
+      "created_at": 1777846400000
+    },
+    {
       "id": 47990606,
       "title": "Six years perfecting maps on watchOS",
       "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 429,
+      "score": 430,
       "author": "valzevul",
       "created": "2026-05-02 21:14:29",
       "created_at": 1777756469000
@@ -73,28 +82,19 @@
       "id": 47991802,
       "title": "A couple million lines of Haskell: Production engineering at Mercury",
       "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 409,
+      "score": 413,
       "author": "unignorant",
       "created": "2026-05-03 00:01:14",
       "created_at": 1777766474000
     },
     {
-      "id": 47991981,
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 362,
-      "author": "donsupreme",
-      "created": "2026-05-03 00:30:50",
-      "created_at": 1777768250000
-    },
-    {
-      "id": 47993235,
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "score": 359,
-      "author": "bazlightyear",
-      "created": "2026-05-03 04:05:28",
-      "created_at": 1777781128000
+      "id": 48000152,
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "score": 403,
+      "author": "dryadin",
+      "created": "2026-05-03 18:54:28",
+      "created_at": 1777834468000
     }
   ],
   "code": 200,
