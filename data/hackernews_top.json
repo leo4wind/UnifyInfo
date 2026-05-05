@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-05T06:09:17.598Z"
+    "lastUpdate": "2026-05-05T09:52:01.906Z"
   },
   "data": [
     {
-      "id": 48018066,
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-      "link": "https://walzr.com/empty-screenings",
-      "score": 86,
-      "author": "MrBuddyCasino",
-      "created": "2026-05-05 04:33:22",
-      "created_at": 1777955602000
-    },
-    {
-      "id": 48017298,
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 161,
-      "author": "raphaelcosta",
-      "created": "2026-05-05 02:08:21",
-      "created_at": 1777946901000
-    },
-    {
-      "id": 48016880,
-      "title": "Bun is being ported from Zig to Rust",
-      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 365,
-      "author": "SergeAx",
-      "created": "2026-05-05 01:08:17",
-      "created_at": 1777943297000
-    },
-    {
-      "id": 48017948,
-      "title": "Train Your Own LLM from Scratch",
-      "link": "https://github.com/angelos-p/llm-from-scratch",
-      "score": 56,
-      "author": "kristianpaul",
-      "created": "2026-05-05 04:09:17",
-      "created_at": 1777954157000
-    },
-    {
-      "id": 48017813,
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "score": 59,
-      "author": "averi",
-      "created": "2026-05-05 03:43:08",
-      "created_at": 1777952588000
-    },
-    {
-      "id": 48017399,
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "link": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
-      "score": 67,
-      "author": "jay_kyburz",
-      "created": "2026-05-05 02:22:21",
-      "created_at": 1777947741000
-    },
-    {
-      "id": 48013919,
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 361,
-      "author": "Sean-Der",
-      "created": "2026-05-04 19:42:47",
-      "created_at": 1777923767000
-    },
-    {
-      "id": 48017251,
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "score": 51,
-      "author": "cadito",
-      "created": "2026-05-05 02:01:15",
-      "created_at": 1777946475000
-    },
-    {
-      "id": 48015397,
-      "title": "Agent Skills",
-      "link": "https://addyosmani.com/blog/agent-skills/",
-      "score": 203,
-      "author": "BOOSTERHIDROGEN",
-      "created": "2026-05-04 21:40:42",
-      "created_at": 1777930842000
+      "id": 48019163,
+      "title": "Async Rust never left the MVP state",
+      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "score": 123,
+      "author": "pjmlp",
+      "created": "2026-05-05 07:26:03",
+      "created_at": 1777965963000
     },
     {
       "id": 48017907,
       "title": "Hand Drawn QR Codes",
       "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "score": 12,
+      "score": 103,
       "author": "jollyjerry",
       "created": "2026-05-05 04:02:01",
       "created_at": 1777953721000
+    },
+    {
+      "id": 48016880,
+      "title": "Bun is being ported from Zig to Rust",
+      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 501,
+      "author": "SergeAx",
+      "created": "2026-05-05 01:08:17",
+      "created_at": 1777943297000
+    },
+    {
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 406,
+      "author": "Sean-Der",
+      "created": "2026-05-04 19:42:47",
+      "created_at": 1777923767000
+    },
+    {
+      "id": 48017813,
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 100,
+      "author": "averi",
+      "created": "2026-05-05 03:43:08",
+      "created_at": 1777952588000
+    },
+    {
+      "id": 48017948,
+      "title": "Train Your Own LLM from Scratch",
+      "link": "https://github.com/angelos-p/llm-from-scratch",
+      "score": 239,
+      "author": "kristianpaul",
+      "created": "2026-05-05 04:09:17",
+      "created_at": 1777954157000
+    },
+    {
+      "id": 48019219,
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 188,
+      "author": "john-doe",
+      "created": "2026-05-05 07:34:55",
+      "created_at": 1777966495000
+    },
+    {
+      "id": 47993585,
+      "title": "Mouse Pointer as a Mere Mortal",
+      "link": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
+      "score": 13,
+      "author": "zdw",
+      "created": "2026-05-03 05:17:25",
+      "created_at": 1777785445000
+    },
+    {
+      "id": 47990491,
+      "title": "Farewell to a Giant of Botany",
+      "link": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+      "score": 25,
+      "author": "Brajeshwar",
+      "created": "2026-05-02 21:03:48",
+      "created_at": 1777755828000
+    },
+    {
+      "id": 48015397,
+      "title": "Agent Skills",
+      "link": "https://addyosmani.com/blog/agent-skills/",
+      "score": 253,
+      "author": "BOOSTERHIDROGEN",
+      "created": "2026-05-04 21:40:42",
+      "created_at": 1777930842000
     }
   ],
   "code": 200,
