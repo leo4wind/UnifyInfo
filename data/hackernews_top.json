@@ -3,14 +3,59 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-05T13:10:04.093Z"
+    "lastUpdate": "2026-05-05T17:12:39.215Z"
   },
   "data": [
+    {
+      "id": 48023861,
+      "title": "Three Inverse Laws of AI",
+      "link": "https://susam.net/inverse-laws-of-robotics.html",
+      "score": 133,
+      "author": "blenderob",
+      "created": "2026-05-05 15:27:18",
+      "created_at": 1777994838000
+    },
+    {
+      "id": 48024364,
+      "title": "UK: Two millionth electric car registered as market rebounds strongly",
+      "link": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+      "score": 62,
+      "author": "kieranmaine",
+      "created": "2026-05-05 16:03:17",
+      "created_at": 1777996997000
+    },
+    {
+      "id": 48024540,
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 51,
+      "author": "amrrs",
+      "created": "2026-05-05 16:14:17",
+      "created_at": 1777997657000
+    },
+    {
+      "id": 48024129,
+      "title": "EEVblog: The 555 Timer is 55 years old",
+      "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "score": 50,
+      "author": "brudgers",
+      "created": "2026-05-05 15:47:18",
+      "created_at": 1777996038000
+    },
+    {
+      "id": 48024859,
+      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 26,
+      "author": "palashawas",
+      "created": "2026-05-05 16:34:48",
+      "created_at": 1777998888000
+    },
     {
       "id": 48021561,
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 47,
+      "score": 275,
       "author": "alentodorov",
       "created": "2026-05-05 12:28:28",
       "created_at": 1777984108000
@@ -19,82 +64,28 @@
       "id": 48019163,
       "title": "Async Rust never left the MVP state",
       "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 263,
+      "score": 359,
       "author": "pjmlp",
       "created": "2026-05-05 07:26:03",
       "created_at": 1777965963000
     },
     {
-      "id": 48021968,
-      "title": "AI Product Graveyard",
-      "link": "https://tooldirectory.ai/ai-graveyard",
-      "score": 7,
-      "author": "StriverGuy",
-      "created": "2026-05-05 13:00:47",
-      "created_at": 1777986047000
-    },
-    {
       "id": 47962032,
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "link": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 124,
+      "score": 243,
       "author": "pmig",
       "created": "2026-04-30 13:21:43",
       "created_at": 1777555303000
     },
     {
-      "id": 48016880,
-      "title": "Bun is being ported from Zig to Rust",
-      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 595,
-      "author": "SergeAx",
-      "created": "2026-05-05 01:08:17",
-      "created_at": 1777943297000
-    },
-    {
-      "id": 48018066,
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "link": "https://walzr.com/empty-screenings",
-      "score": 197,
-      "author": "MrBuddyCasino",
-      "created": "2026-05-05 04:33:22",
-      "created_at": 1777955602000
-    },
-    {
-      "id": 48019025,
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "score": 116,
-      "author": "ingve",
-      "created": "2026-05-05 07:05:25",
-      "created_at": 1777964725000
-    },
-    {
-      "id": 48017907,
-      "title": "Hand Drawn QR Codes (2025)",
-      "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "score": 147,
-      "author": "jollyjerry",
-      "created": "2026-05-05 04:02:01",
-      "created_at": 1777953721000
-    },
-    {
-      "id": 48019219,
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 442,
-      "author": "john-doe",
-      "created": "2026-05-05 07:34:55",
-      "created_at": 1777966495000
-    },
-    {
-      "id": 47986798,
-      "title": "sRGB profile comparison",
-      "link": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
-      "score": 11,
-      "author": "Retr0id",
-      "created": "2026-05-02 14:40:55",
-      "created_at": 1777732855000
+      "id": 47986331,
+      "title": "Docker 29 has changed its default image store for new installs",
+      "link": "https://docs.docker.com/engine/storage/containerd",
+      "score": 79,
+      "author": "neitsab",
+      "created": "2026-05-02 13:41:43",
+      "created_at": 1777729303000
     }
   ],
   "code": 200,
