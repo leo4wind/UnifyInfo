@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-05T17:12:38.733Z"
+    "lastUpdate": "2026-05-05T20:52:36.564Z"
   },
   "data": [
     {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1453,
+      "score": 1461,
       "author": "thitran",
       "created": "2026-05-04 11:41:02",
       "created_at": 1777894862000
@@ -19,7 +19,7 @@
       "id": 48019219,
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 796,
+      "score": 1020,
       "author": "john-doe",
       "created": "2026-05-05 07:34:55",
       "created_at": 1777966495000
@@ -28,7 +28,7 @@
       "id": 48006402,
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 691,
+      "score": 697,
       "author": "n1b0m",
       "created": "2026-05-04 09:31:12",
       "created_at": 1777887072000
@@ -37,7 +37,7 @@
       "id": 48016880,
       "title": "Zig → Rust porting guide",
       "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 684,
+      "score": 693,
       "author": "SergeAx",
       "created": "2026-05-05 01:08:17",
       "created_at": 1777943297000
@@ -46,7 +46,7 @@
       "id": 48002136,
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "link": "https://github.com/aattaran/deepclaude",
-      "score": 665,
+      "score": 669,
       "author": "alattaran",
       "created": "2026-05-03 22:13:20",
       "created_at": 1777846400000
@@ -61,6 +61,15 @@
       "created_at": 1777887606000
     },
     {
+      "id": 48012735,
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 607,
+      "author": "cft",
+      "created": "2026-05-04 18:22:42",
+      "created_at": 1777918962000
+    },
+    {
       "id": 48002777,
       "title": "Let's Buy Spirit Air",
       "link": "https://letsbuyspiritair.com/",
@@ -70,31 +79,22 @@
       "created_at": 1777851371000
     },
     {
-      "id": 48012735,
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 592,
-      "author": "cft",
-      "created": "2026-05-04 18:22:42",
-      "created_at": 1777918962000
-    },
-    {
       "id": 48009697,
       "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
       "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-      "score": 564,
+      "score": 568,
       "author": "rdeboo",
       "created": "2026-05-04 15:10:41",
       "created_at": 1777907441000
     },
     {
-      "id": 48000152,
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 560,
-      "author": "dryadin",
-      "created": "2026-05-03 18:54:28",
-      "created_at": 1777834468000
+      "id": 48011184,
+      "title": "I am worried about Bun",
+      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 507,
+      "author": "remote-dev",
+      "created": "2026-05-04 16:45:00",
+      "created_at": 1777913100000
     }
   ],
   "code": 200,
