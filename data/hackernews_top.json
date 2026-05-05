@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-04T20:57:52.935Z"
+    "lastUpdate": "2026-05-05T01:52:32.522Z"
   },
   "data": [
+    {
+      "id": 48016880,
+      "title": "Bun is being ported from Zig to Rust",
+      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 66,
+      "author": "SergeAx",
+      "created": "2026-05-05 01:08:17",
+      "created_at": 1777943297000
+    },
     {
       "id": 48013919,
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 66,
+      "score": 281,
       "author": "Sean-Der",
       "created": "2026-05-04 19:42:47",
       "created_at": 1777923767000
     },
     {
-      "id": 48011184,
-      "title": "I am worried about Bun",
-      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 266,
-      "author": "remote-dev",
-      "created": "2026-05-04 16:45:00",
-      "created_at": 1777913100000
-    },
-    {
-      "id": 48012162,
-      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
-      "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 128,
-      "author": "bearsyankees",
-      "created": "2026-05-04 17:46:32",
-      "created_at": 1777916792000
-    },
-    {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 902,
+      "score": 1154,
       "author": "thitran",
       "created": "2026-05-04 11:41:02",
       "created_at": 1777894862000
     },
     {
-      "id": 48006402,
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 565,
-      "author": "n1b0m",
-      "created": "2026-05-04 09:31:12",
-      "created_at": 1777887072000
+      "id": 48015397,
+      "title": "Agent Skills",
+      "link": "https://addyosmani.com/blog/agent-skills/",
+      "score": 110,
+      "author": "BOOSTERHIDROGEN",
+      "created": "2026-05-04 21:40:42",
+      "created_at": 1777930842000
     },
     {
-      "id": 48012735,
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 212,
-      "author": "cft",
-      "created": "2026-05-04 18:22:42",
-      "created_at": 1777918962000
+      "id": 48012162,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 168,
+      "author": "bearsyankees",
+      "created": "2026-05-04 17:46:32",
+      "created_at": 1777916792000
+    },
+    {
+      "id": 47998158,
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "link": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "score": 59,
+      "author": "zdw",
+      "created": "2026-05-03 15:49:33",
+      "created_at": 1777823373000
     },
     {
       "id": 48009983,
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "link": "https://www.nber.org/papers/w35117",
-      "score": 133,
+      "score": 211,
       "author": "littlexsparkee",
       "created": "2026-05-04 15:32:46",
       "created_at": 1777908766000
     },
     {
-      "id": 48011904,
-      "title": "Let's Talk about LLMs",
-      "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-      "score": 55,
-      "author": "cdrnsf",
-      "created": "2026-05-04 17:29:39",
-      "created_at": 1777915779000
-    },
-    {
       "id": 48009172,
       "title": "Redis array: short story of a long development process",
       "link": "https://antirez.com/news/164",
-      "score": 184,
+      "score": 228,
       "author": "antirez",
       "created": "2026-05-04 14:23:07",
       "created_at": 1777904587000
     },
     {
-      "id": 48011689,
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "score": 324,
-      "author": "ZeidJ",
-      "created": "2026-05-04 17:16:36",
-      "created_at": 1777914996000
+      "id": 48012735,
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 410,
+      "author": "cft",
+      "created": "2026-05-04 18:22:42",
+      "created_at": 1777918962000
+    },
+    {
+      "id": 48011184,
+      "title": "I am worried about Bun",
+      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 408,
+      "author": "remote-dev",
+      "created": "2026-05-04 16:45:00",
+      "created_at": 1777913100000
     }
   ],
   "code": 200,
