@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-06T10:07:15.947Z"
+    "lastUpdate": "2026-05-06T13:28:12.547Z"
   },
   "data": [
-    {
-      "id": 48007438,
-      "title": "Talking to strangers at the gym",
-      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1487,
-      "author": "thitran",
-      "created": "2026-05-04 11:41:02",
-      "created_at": 1777894862000
-    },
     {
       "id": 48019219,
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1450,
+      "score": 1509,
       "author": "john-doe",
       "created": "2026-05-05 07:34:55",
       "created_at": 1777966495000
@@ -28,43 +19,25 @@
       "id": 48016880,
       "title": "Zig → Rust porting guide",
       "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 702,
+      "score": 705,
       "author": "SergeAx",
       "created": "2026-05-05 01:08:17",
       "created_at": 1777943297000
     },
     {
-      "id": 48006402,
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 702,
-      "author": "n1b0m",
-      "created": "2026-05-04 09:31:12",
-      "created_at": 1777887072000
-    },
-    {
       "id": 48027897,
       "title": "DNSSEC disruption affecting .de domains – Resolved",
       "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "score": 671,
+      "score": 698,
       "author": "warpspin",
       "created": "2026-05-05 20:16:35",
       "created_at": 1778012195000
     },
     {
-      "id": 48006445,
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 632,
-      "author": "maxloh",
-      "created": "2026-05-04 09:40:06",
-      "created_at": 1777887606000
-    },
-    {
       "id": 48012735,
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 615,
+      "score": 620,
       "author": "cft",
       "created": "2026-05-04 18:22:42",
       "created_at": 1777918962000
@@ -73,7 +46,7 @@
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 574,
+      "score": 608,
       "author": "amrrs",
       "created": "2026-05-05 16:14:17",
       "created_at": 1777997657000
@@ -91,10 +64,37 @@
       "id": 48022742,
       "title": "AI didn't delete your database, you did",
       "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "score": 523,
+      "score": 528,
       "author": "Brajeshwar",
       "created": "2026-05-05 14:07:50",
       "created_at": 1777990070000
+    },
+    {
+      "id": 48011184,
+      "title": "I am worried about Bun",
+      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 515,
+      "author": "remote-dev",
+      "created": "2026-05-04 16:45:00",
+      "created_at": 1777913100000
+    },
+    {
+      "id": 48011689,
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "score": 513,
+      "author": "ZeidJ",
+      "created": "2026-05-04 17:16:36",
+      "created_at": 1777914996000
+    },
+    {
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 498,
+      "author": "Sean-Der",
+      "created": "2026-05-04 19:42:47",
+      "created_at": 1777923767000
     }
   ],
   "code": 200,
