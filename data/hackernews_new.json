@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-05T20:52:36.694Z"
+    "lastUpdate": "2026-05-06T01:53:42.292Z"
   },
   "data": [
     {
       "id": 48027897,
       "title": ".de TLD offline due to DNSSEC?",
       "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 120,
+      "score": 532,
       "author": "warpspin",
       "created": "2026-05-05 20:16:35",
       "created_at": 1778012195000
@@ -19,7 +19,7 @@
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 327,
+      "score": 452,
       "author": "amrrs",
       "created": "2026-05-05 16:14:17",
       "created_at": 1777997657000
@@ -28,7 +28,7 @@
       "id": 48024859,
       "title": "Computer Use is 45x more expensive than structured APIs",
       "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 190,
+      "score": 314,
       "author": "palashawas",
       "created": "2026-05-05 16:34:48",
       "created_at": 1777998888000
@@ -37,64 +37,64 @@
       "id": 48023861,
       "title": "Three Inverse Laws of AI",
       "link": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 282,
+      "score": 361,
       "author": "blenderob",
       "created": "2026-05-05 15:27:18",
       "created_at": 1777994838000
     },
     {
-      "id": 48019219,
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1020,
-      "author": "john-doe",
-      "created": "2026-05-05 07:34:55",
-      "created_at": 1777966495000
+      "id": 48028842,
+      "title": "Write some software, give it away for free",
+      "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 133,
+      "author": "nohell",
+      "created": "2026-05-05 21:26:50",
+      "created_at": 1778016410000
     },
     {
       "id": 48024129,
       "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 160,
+      "score": 224,
       "author": "brudgers",
       "created": "2026-05-05 15:47:18",
       "created_at": 1777996038000
     },
     {
-      "id": 48026021,
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "link": "https://arxiv.org/abs/2604.26752",
-      "score": 75,
-      "author": "gmays",
-      "created": "2026-05-05 17:52:31",
-      "created_at": 1778003551000
+      "id": 48028546,
+      "title": "Why most product tours get skipped",
+      "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "score": 71,
+      "author": "pancomplex",
+      "created": "2026-05-05 21:05:19",
+      "created_at": 1778015119000
+    },
+    {
+      "id": 48029114,
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "score": 214,
+      "author": "ilamont",
+      "created": "2026-05-05 21:50:21",
+      "created_at": 1778017821000
     },
     {
       "id": 48026342,
       "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
       "link": "https://paletteinspiration.com/",
-      "score": 44,
+      "score": 107,
       "author": "ouli",
       "created": "2026-05-05 18:13:14",
       "created_at": 1778004794000
     },
     {
-      "id": 48023533,
-      "title": "Agents for financial services and insurance",
-      "link": "https://www.anthropic.com/news/finance-agents",
-      "score": 156,
-      "author": "louiereederson",
-      "created": "2026-05-05 15:05:47",
-      "created_at": 1777993547000
-    },
-    {
-      "id": 48026349,
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 145,
-      "author": "littlexsparkee",
-      "created": "2026-05-05 18:13:47",
-      "created_at": 1778004827000
+      "id": 47997915,
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "score": 7,
+      "author": "omarsar",
+      "created": "2026-05-03 15:28:48",
+      "created_at": 1777822128000
     }
   ],
   "code": 200,
