@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-06T01:53:42.042Z"
+    "lastUpdate": "2026-05-06T06:23:43.063Z"
   },
   "data": [
+    {
+      "id": 48031684,
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 178,
+      "author": "rolph",
+      "created": "2026-05-06 03:10:33",
+      "created_at": 1778037033000
+    },
+    {
+      "id": 48031261,
+      "title": "StarFighter 16-Inch",
+      "link": "https://us.starlabs.systems/pages/starfighter",
+      "score": 197,
+      "author": "signa11",
+      "created": "2026-05-06 02:03:44",
+      "created_at": 1778033024000
+    },
     {
       "id": 48027897,
       "title": ".de TLD offline due to DNSSEC?",
       "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 532,
+      "score": 602,
       "author": "warpspin",
       "created": "2026-05-05 20:16:35",
       "created_at": 1778012195000
     },
     {
+      "id": 48031867,
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "link": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "score": 34,
+      "author": "neilfrndes",
+      "created": "2026-05-06 03:37:51",
+      "created_at": 1778038671000
+    },
+    {
+      "id": 48031109,
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "score": 106,
+      "author": "debo_",
+      "created": "2026-05-06 01:38:44",
+      "created_at": 1778031524000
+    },
+    {
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 452,
+      "score": 527,
       "author": "amrrs",
       "created": "2026-05-05 16:14:17",
       "created_at": 1777997657000
     },
     {
-      "id": 48024859,
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 314,
-      "author": "palashawas",
-      "created": "2026-05-05 16:34:48",
-      "created_at": 1777998888000
-    },
-    {
-      "id": 48023861,
-      "title": "Three Inverse Laws of AI",
-      "link": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 361,
-      "author": "blenderob",
-      "created": "2026-05-05 15:27:18",
-      "created_at": 1777994838000
+      "id": 48030964,
+      "title": "YouTube, your RSS feeds are broken",
+      "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "score": 61,
+      "author": "veeti",
+      "created": "2026-05-06 01:15:31",
+      "created_at": 1778030131000
     },
     {
       "id": 48028842,
       "title": "Write some software, give it away for free",
       "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 133,
+      "score": 219,
       "author": "nohell",
       "created": "2026-05-05 21:26:50",
       "created_at": 1778016410000
     },
     {
-      "id": 48024129,
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 224,
-      "author": "brudgers",
-      "created": "2026-05-05 15:47:18",
-      "created_at": 1777996038000
+      "id": 48005432,
+      "title": "CARA 2.0 – \"I Built a Better Robot Dog\"",
+      "link": "https://www.aaedmusa.com/projects/cara2",
+      "score": 12,
+      "author": "hakonjdjohnsen",
+      "created": "2026-05-04 06:46:10",
+      "created_at": 1777877170000
     },
     {
-      "id": 48028546,
-      "title": "Why most product tours get skipped",
-      "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "score": 71,
-      "author": "pancomplex",
-      "created": "2026-05-05 21:05:19",
-      "created_at": 1778015119000
-    },
-    {
-      "id": 48029114,
-      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-      "score": 214,
-      "author": "ilamont",
-      "created": "2026-05-05 21:50:21",
-      "created_at": 1778017821000
-    },
-    {
-      "id": 48026342,
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "link": "https://paletteinspiration.com/",
-      "score": 107,
-      "author": "ouli",
-      "created": "2026-05-05 18:13:14",
-      "created_at": 1778004794000
-    },
-    {
-      "id": 47997915,
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "score": 7,
-      "author": "omarsar",
-      "created": "2026-05-03 15:28:48",
-      "created_at": 1777822128000
+      "id": 48024859,
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 376,
+      "author": "palashawas",
+      "created": "2026-05-05 16:34:48",
+      "created_at": 1777998888000
     }
   ],
   "code": 200,
