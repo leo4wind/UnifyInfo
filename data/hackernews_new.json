@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-06T13:28:12.969Z"
+    "lastUpdate": "2026-05-06T17:21:15.624Z"
   },
   "data": [
     {
-      "id": 48034587,
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "link": "https://red-squares.cian.lol/",
-      "score": 385,
-      "author": "cianmm",
-      "created": "2026-05-06 10:28:40",
-      "created_at": 1778063320000
+      "id": 48037555,
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "score": 271,
+      "author": "haunter",
+      "created": "2026-05-06 15:44:13",
+      "created_at": 1778082253000
+    },
+    {
+      "id": 48037724,
+      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+      "link": "https://tilde.run/",
+      "score": 54,
+      "author": "ozkatz",
+      "created": "2026-05-06 15:58:34",
+      "created_at": 1778083114000
     },
     {
       "id": 48006967,
       "title": "The bottleneck was never the code",
       "link": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 113,
+      "score": 327,
       "author": "Anon84",
       "created": "2026-05-04 10:46:15",
       "created_at": 1777891575000
     },
     {
-      "id": 48034762,
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "link": "https://catstret.ch/202605/srss-hipster202510/",
-      "score": 49,
-      "author": "jandeboevrie",
-      "created": "2026-05-06 10:53:52",
-      "created_at": 1778064832000
+      "id": 48038001,
+      "title": "Appearing Productive in the Workplace",
+      "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 42,
+      "author": "diebillionaires",
+      "created": "2026-05-06 16:18:29",
+      "created_at": 1778084309000
     },
     {
       "id": 48031684,
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "link": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 440,
+      "score": 552,
       "author": "rolph",
       "created": "2026-05-06 03:10:33",
       "created_at": 1778037033000
     },
     {
+      "id": 48038031,
+      "title": "The Disadvantages of an Elite Education (2008)",
+      "link": "https://theamericanscholar.org/the-disadvantages-of-an-elite-education/",
+      "score": 17,
+      "author": "downbad_",
+      "created": "2026-05-06 16:21:03",
+      "created_at": 1778084463000
+    },
+    {
+      "id": 48026773,
+      "title": "What makes a good smartphone camera?",
+      "link": "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera",
+      "score": 22,
+      "author": "zdw",
+      "created": "2026-05-05 18:49:02",
+      "created_at": 1778006942000
+    },
+    {
+      "id": 48037986,
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "score": 119,
+      "author": "meetpateltech",
+      "created": "2026-05-06 16:17:33",
+      "created_at": 1778084253000
+    },
+    {
       "id": 48031261,
       "title": "StarFighter 16-Inch",
       "link": "https://us.starlabs.systems/pages/starfighter",
-      "score": 461,
+      "score": 585,
       "author": "signa11",
       "created": "2026-05-06 02:03:44",
       "created_at": 1778033024000
     },
     {
-      "id": 48005432,
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "link": "https://www.aaedmusa.com/projects/cara2",
-      "score": 259,
-      "author": "hakonjdjohnsen",
-      "created": "2026-05-04 06:46:10",
-      "created_at": 1777877170000
-    },
-    {
-      "id": 48032461,
-      "title": "Knitting bullshit",
-      "link": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "score": 191,
-      "author": "ColinEberhardt",
-      "created": "2026-05-06 05:13:58",
-      "created_at": 1778044438000
-    },
-    {
-      "id": 47998638,
-      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
-      "link": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
-      "score": 91,
-      "author": "gnabgib",
-      "created": "2026-05-03 16:32:34",
-      "created_at": 1777825954000
-    },
-    {
-      "id": 48032976,
-      "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "link": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "score": 108,
-      "author": "notsentient",
-      "created": "2026-05-06 06:31:29",
-      "created_at": 1778049089000
+      "id": 48034762,
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "link": "https://catstret.ch/202605/srss-hipster202510/",
+      "score": 97,
+      "author": "jandeboevrie",
+      "created": "2026-05-06 10:53:52",
+      "created_at": 1778064832000
     }
   ],
   "code": 200,
