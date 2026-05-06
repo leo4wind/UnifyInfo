@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-06T06:23:42.957Z"
+    "lastUpdate": "2026-05-06T10:07:15.947Z"
   },
   "data": [
     {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1480,
+      "score": 1487,
       "author": "thitran",
       "created": "2026-05-04 11:41:02",
       "created_at": 1777894862000
@@ -19,7 +19,7 @@
       "id": 48019219,
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1366,
+      "score": 1450,
       "author": "john-doe",
       "created": "2026-05-05 07:34:55",
       "created_at": 1777966495000
@@ -28,7 +28,7 @@
       "id": 48016880,
       "title": "Zig → Rust porting guide",
       "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 701,
+      "score": 702,
       "author": "SergeAx",
       "created": "2026-05-05 01:08:17",
       "created_at": 1777943297000
@@ -37,16 +37,25 @@
       "id": 48006402,
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 700,
+      "score": 702,
       "author": "n1b0m",
       "created": "2026-05-04 09:31:12",
       "created_at": 1777887072000
     },
     {
+      "id": 48027897,
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "score": 671,
+      "author": "warpspin",
+      "created": "2026-05-05 20:16:35",
+      "created_at": 1778012195000
+    },
+    {
       "id": 48006445,
       "title": "Trademark violation: Fake Notepad++ for Mac",
       "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 630,
+      "score": 632,
       "author": "maxloh",
       "created": "2026-05-04 09:40:06",
       "created_at": 1777887606000
@@ -55,46 +64,37 @@
       "id": 48012735,
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 613,
+      "score": 615,
       "author": "cft",
       "created": "2026-05-04 18:22:42",
       "created_at": 1777918962000
     },
     {
-      "id": 48027897,
-      "title": ".de TLD offline due to DNSSEC?",
-      "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 602,
-      "author": "warpspin",
-      "created": "2026-05-05 20:16:35",
-      "created_at": 1778012195000
-    },
-    {
-      "id": 48009697,
-      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-      "score": 570,
-      "author": "rdeboo",
-      "created": "2026-05-04 15:10:41",
-      "created_at": 1777907441000
-    },
-    {
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 527,
+      "score": 574,
       "author": "amrrs",
       "created": "2026-05-05 16:14:17",
       "created_at": 1777997657000
     },
     {
-      "id": 48011184,
-      "title": "I am worried about Bun",
-      "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 514,
-      "author": "remote-dev",
-      "created": "2026-05-04 16:45:00",
-      "created_at": 1777913100000
+      "id": 48009697,
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "score": 572,
+      "author": "rdeboo",
+      "created": "2026-05-04 15:10:41",
+      "created_at": 1777907441000
+    },
+    {
+      "id": 48022742,
+      "title": "AI didn't delete your database, you did",
+      "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "score": 523,
+      "author": "Brajeshwar",
+      "created": "2026-05-05 14:07:50",
+      "created_at": 1777990070000
     }
   ],
   "code": 200,
