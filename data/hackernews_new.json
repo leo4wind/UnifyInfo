@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-07T17:40:19.727Z"
+    "lastUpdate": "2026-05-07T20:56:57.372Z"
   },
   "data": [
     {
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 116,
+      "author": "flipped",
+      "created": "2026-05-07 19:21:32",
+      "created_at": 1778181692000
+    },
+    {
       "id": 48049653,
-      "title": "The map that keeps Burning Man honest",
+      "title": "The Burning Man MOOP Map",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 316,
+      "score": 460,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
     },
     {
-      "id": 48051873,
-      "title": "California leaders report four to six weeks worth of gasoline and diesel supply",
-      "link": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
-      "score": 43,
-      "author": "cdrnsf",
-      "created": "2026-05-07 17:06:00",
-      "created_at": 1778173560000
-    },
-    {
-      "id": 48050278,
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "link": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 122,
-      "author": "berlianta",
-      "created": "2026-05-07 15:02:20",
-      "created_at": 1778166140000
-    },
-    {
-      "id": 48049208,
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "link": "https://www.nature.com/articles/d41586-026-00796-2",
-      "score": 201,
-      "author": "surprisetalk",
-      "created": "2026-05-07 13:30:04",
-      "created_at": 1778160604000
-    },
-    {
       "id": 48051562,
       "title": "Agents need control flow, not more prompts",
       "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 30,
+      "score": 192,
       "author": "bsuh",
       "created": "2026-05-07 16:43:35",
       "created_at": 1778172215000
     },
     {
+      "id": 48052537,
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 97,
+      "author": "instagraham",
+      "created": "2026-05-07 17:54:02",
+      "created_at": 1778176442000
+    },
+    {
+      "id": 48050278,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 208,
+      "author": "berlianta",
+      "created": "2026-05-07 15:02:20",
+      "created_at": 1778166140000
+    },
+    {
+      "id": 48054423,
+      "title": "Building for the Future",
+      "link": "https://blog.cloudflare.com/building-for-the-future/",
+      "score": 49,
+      "author": "PriorityLeft",
+      "created": "2026-05-07 20:23:37",
+      "created_at": 1778185417000
+    },
+    {
       "id": 48050751,
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "link": "https://github.com/antirez/ds4",
-      "score": 35,
+      "score": 189,
       "author": "tamnd",
       "created": "2026-05-07 15:40:24",
       "created_at": 1778168424000
     },
     {
-      "id": 48049764,
-      "title": "The Self-Cancelling Subscription",
-      "link": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 75,
-      "author": "surprisetalk",
-      "created": "2026-05-07 14:15:16",
-      "created_at": 1778163316000
+      "id": 48053435,
+      "title": "Colored Shadow Penumbra",
+      "link": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "score": 18,
+      "author": "ibobev",
+      "created": "2026-05-07 19:04:30",
+      "created_at": 1778180670000
+    },
+    {
+      "id": 48050499,
+      "title": "I want to live like Costco people",
+      "link": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "score": 128,
+      "author": "speckx",
+      "created": "2026-05-07 15:19:27",
+      "created_at": 1778167167000
     },
     {
       "id": 48050964,
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 106,
+      "score": 329,
       "author": "newsoftheday",
       "created": "2026-05-07 15:56:33",
       "created_at": 1778169393000
-    },
-    {
-      "id": 48010729,
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "link": "https://ratex.lites.dev/",
-      "score": 111,
-      "author": "atilimcetin",
-      "created": "2026-05-04 16:19:31",
-      "created_at": 1777911571000
-    },
-    {
-      "id": 48026412,
-      "title": "PySimpleGUI 6",
-      "link": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 29,
-      "author": "geophph",
-      "created": "2026-05-05 18:18:42",
-      "created_at": 1778005122000
     }
   ],
   "code": 200,
