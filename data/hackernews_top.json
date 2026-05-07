@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-07T01:55:37.912Z"
+    "lastUpdate": "2026-05-07T06:28:22.999Z"
   },
   "data": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1060,
+      "score": 1269,
       "author": "haunter",
       "created": "2026-05-06 15:44:13",
       "created_at": 1778082253000
     },
     {
-      "id": 48044311,
-      "title": "The Vatican's Website in Latin",
-      "link": "https://www.vatican.va/latin/latin_index.html",
-      "score": 19,
-      "author": "ks2048",
-      "created": "2026-05-07 01:26:03",
-      "created_at": 1778117163000
-    },
-    {
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 718,
+      "score": 944,
       "author": "diebillionaires",
       "created": "2026-05-06 16:18:29",
       "created_at": 1778084309000
     },
     {
-      "id": 48043706,
-      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
-      "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
-      "score": 23,
-      "author": "Caiero",
-      "created": "2026-05-07 00:12:23",
-      "created_at": 1778112743000
+      "id": 48045012,
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "link": "https://aniket.foo/posts/20260505-netboot/",
+      "score": 51,
+      "author": "stereo-highway",
+      "created": "2026-05-07 03:13:24",
+      "created_at": 1778123604000
+    },
+    {
+      "id": 48044638,
+      "title": "Permacomputing Principles",
+      "link": "https://permacomputing.net/principles/",
+      "score": 84,
+      "author": "andsoitis",
+      "created": "2026-05-07 02:18:23",
+      "created_at": 1778120303000
+    },
+    {
+      "id": 48042434,
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "link": "https://sqlite.org/locrsf.html",
+      "score": 140,
+      "author": "whatisabcdefgh",
+      "created": "2026-05-06 21:58:43",
+      "created_at": 1778104723000
     },
     {
       "id": 48037128,
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 397,
+      "score": 527,
       "author": "e12e",
       "created": "2026-05-06 15:06:37",
       "created_at": 1778079997000
     },
     {
-      "id": 48044022,
-      "title": "How I made $350K from an open-source JavaScript library using dual licensing",
-      "link": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
-      "score": 28,
-      "author": "sachinneravath",
-      "created": "2026-05-07 00:47:15",
-      "created_at": 1778114835000
+      "id": 48045174,
+      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "link": "https://arxiv.org/abs/2605.03546",
+      "score": 13,
+      "author": "jonbaer",
+      "created": "2026-05-07 03:46:15",
+      "created_at": 1778125575000
+    },
+    {
+      "id": 48019414,
+      "title": "The Mathematical Dance Inside Plant Cells",
+      "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+      "score": 17,
+      "author": "isaacfrond",
+      "created": "2026-05-05 08:09:41",
+      "created_at": 1777968581000
+    },
+    {
+      "id": 48044311,
+      "title": "The Vatican's Website in Latin",
+      "link": "https://www.vatican.va/latin/latin_index.html",
+      "score": 103,
+      "author": "ks2048",
+      "created": "2026-05-07 01:26:03",
+      "created_at": 1778117163000
     },
     {
       "id": 48038827,
       "title": "From Supabase to Clerk to Better Auth",
       "link": "https://blog.val.town/better-auth",
-      "score": 204,
+      "score": 240,
       "author": "stevekrouse",
       "created": "2026-05-06 17:19:34",
       "created_at": 1778087974000
-    },
-    {
-      "id": 48006967,
-      "title": "The bottleneck was never the code",
-      "link": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 510,
-      "author": "Anon84",
-      "created": "2026-05-04 10:46:15",
-      "created_at": 1777891575000
-    },
-    {
-      "id": 48039362,
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 210,
-      "author": "unforgivenpasta",
-      "created": "2026-05-06 17:59:33",
-      "created_at": 1778090373000
-    },
-    {
-      "id": 48025540,
-      "title": "Building my own Vi text editor in BASIC",
-      "link": "https://leetusman.com/nosebook/yvi",
-      "score": 24,
-      "author": "zeech",
-      "created": "2026-05-05 17:18:21",
-      "created_at": 1778001501000
     }
   ],
   "code": 200,
