@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-07T06:28:23.058Z"
+    "lastUpdate": "2026-05-07T10:13:27.350Z"
   },
   "data": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1269,
+      "score": 1440,
       "author": "haunter",
       "created": "2026-05-06 15:44:13",
       "created_at": 1778082253000
@@ -19,25 +19,16 @@
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 944,
+      "score": 1174,
       "author": "diebillionaires",
       "created": "2026-05-06 16:18:29",
       "created_at": 1778084309000
     },
     {
-      "id": 48045012,
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "link": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 51,
-      "author": "stereo-highway",
-      "created": "2026-05-07 03:13:24",
-      "created_at": 1778123604000
-    },
-    {
       "id": 48044638,
       "title": "Permacomputing Principles",
       "link": "https://permacomputing.net/principles/",
-      "score": 84,
+      "score": 143,
       "author": "andsoitis",
       "created": "2026-05-07 02:18:23",
       "created_at": 1778120303000
@@ -46,55 +37,64 @@
       "id": 48042434,
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "link": "https://sqlite.org/locrsf.html",
-      "score": 140,
+      "score": 253,
       "author": "whatisabcdefgh",
       "created": "2026-05-06 21:58:43",
       "created_at": 1778104723000
     },
     {
+      "id": 48046874,
+      "title": "Show HN: Social Network for Corporate Cringe",
+      "link": "https://CringeOut.com",
+      "score": 16,
+      "author": "CringeOut",
+      "created": "2026-05-07 08:26:36",
+      "created_at": 1778142396000
+    },
+    {
+      "id": 48045012,
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "link": "https://aniket.foo/posts/20260505-netboot/",
+      "score": 95,
+      "author": "stereo-highway",
+      "created": "2026-05-07 03:13:24",
+      "created_at": 1778123604000
+    },
+    {
+      "id": 48014521,
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "link": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "score": 12,
+      "author": "suoken",
+      "created": "2026-05-04 20:28:24",
+      "created_at": 1777926504000
+    },
+    {
       "id": 48037128,
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 527,
+      "score": 609,
       "author": "e12e",
       "created": "2026-05-06 15:06:37",
       "created_at": 1778079997000
     },
     {
-      "id": 48045174,
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "link": "https://arxiv.org/abs/2605.03546",
-      "score": 13,
-      "author": "jonbaer",
-      "created": "2026-05-07 03:46:15",
-      "created_at": 1778125575000
+      "id": 48013750,
+      "title": "Photoshop's challenges with focus, pt. 2",
+      "link": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
+      "score": 35,
+      "author": "frizlab",
+      "created": "2026-05-04 19:27:30",
+      "created_at": 1777922850000
     },
     {
-      "id": 48019414,
-      "title": "The Mathematical Dance Inside Plant Cells",
-      "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-      "score": 17,
-      "author": "isaacfrond",
-      "created": "2026-05-05 08:09:41",
-      "created_at": 1777968581000
-    },
-    {
-      "id": 48044311,
-      "title": "The Vatican's Website in Latin",
-      "link": "https://www.vatican.va/latin/latin_index.html",
-      "score": 103,
-      "author": "ks2048",
-      "created": "2026-05-07 01:26:03",
-      "created_at": 1778117163000
-    },
-    {
-      "id": 48038827,
-      "title": "From Supabase to Clerk to Better Auth",
-      "link": "https://blog.val.town/better-auth",
-      "score": 240,
-      "author": "stevekrouse",
-      "created": "2026-05-06 17:19:34",
-      "created_at": 1778087974000
+      "id": 48012649,
+      "title": "Chevrolet Performance eCrate package (400v/200hp)",
+      "link": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
+      "score": 46,
+      "author": "mindcrime",
+      "created": "2026-05-04 18:17:22",
+      "created_at": 1777918642000
     }
   ],
   "code": 200,
