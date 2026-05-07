@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-07T13:26:48.435Z"
+    "lastUpdate": "2026-05-07T17:40:19.677Z"
   },
   "data": [
     {
-      "id": 48037555,
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1551,
-      "author": "haunter",
-      "created": "2026-05-06 15:44:13",
-      "created_at": 1778082253000
+      "id": 48049653,
+      "title": "The map that keeps Burning Man honest",
+      "link": "https://www.not-ship.com/burning-man-moop/",
+      "score": 316,
+      "author": "speckx",
+      "created": "2026-05-07 14:06:10",
+      "created_at": 1778162770000
     },
     {
-      "id": 48008999,
-      "title": "Indian matchbox labels as a visual archive",
-      "link": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+      "id": 48051873,
+      "title": "California leaders report four to six weeks worth of gasoline and diesel supply",
+      "link": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
       "score": 43,
-      "author": "sahar_builds",
-      "created": "2026-05-04 14:08:27",
-      "created_at": 1777903707000
+      "author": "cdrnsf",
+      "created": "2026-05-07 17:06:00",
+      "created_at": 1778173560000
     },
     {
-      "id": 48014521,
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "link": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 79,
-      "author": "suoken",
-      "created": "2026-05-04 20:28:24",
-      "created_at": 1777926504000
+      "id": 48050278,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 122,
+      "author": "berlianta",
+      "created": "2026-05-07 15:02:20",
+      "created_at": 1778166140000
     },
     {
-      "id": 48047826,
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "link": "https://ahk.cardor.dev",
+      "id": 48049208,
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "link": "https://www.nature.com/articles/d41586-026-00796-2",
+      "score": 201,
+      "author": "surprisetalk",
+      "created": "2026-05-07 13:30:04",
+      "created_at": 1778160604000
+    },
+    {
+      "id": 48051562,
+      "title": "Agents need control flow, not more prompts",
+      "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 30,
+      "author": "bsuh",
+      "created": "2026-05-07 16:43:35",
+      "created_at": 1778172215000
+    },
+    {
+      "id": 48050751,
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "link": "https://github.com/antirez/ds4",
       "score": 35,
-      "author": "enmanuelmag",
-      "created": "2026-05-07 10:45:59",
-      "created_at": 1778150759000
+      "author": "tamnd",
+      "created": "2026-05-07 15:40:24",
+      "created_at": 1778168424000
+    },
+    {
+      "id": 48049764,
+      "title": "The Self-Cancelling Subscription",
+      "link": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "score": 75,
+      "author": "surprisetalk",
+      "created": "2026-05-07 14:15:16",
+      "created_at": 1778163316000
+    },
+    {
+      "id": 48050964,
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 106,
+      "author": "newsoftheday",
+      "created": "2026-05-07 15:56:33",
+      "created_at": 1778169393000
     },
     {
       "id": 48010729,
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "link": "https://ratex.lites.dev/",
-      "score": 20,
+      "score": 111,
       "author": "atilimcetin",
       "created": "2026-05-04 16:19:31",
       "created_at": 1777911571000
     },
     {
-      "id": 48047981,
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "score": 116,
-      "author": "Qem",
-      "created": "2026-05-07 11:10:24",
-      "created_at": 1778152224000
-    },
-    {
-      "id": 48038001,
-      "title": "Appearing productive in the workplace",
-      "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1344,
-      "author": "diebillionaires",
-      "created": "2026-05-06 16:18:29",
-      "created_at": 1778084309000
-    },
-    {
-      "id": 48042434,
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "link": "https://sqlite.org/locrsf.html",
-      "score": 382,
-      "author": "whatisabcdefgh",
-      "created": "2026-05-06 21:58:43",
-      "created_at": 1778104723000
-    },
-    {
-      "id": 48044638,
-      "title": "Permacomputing Principles",
-      "link": "https://permacomputing.net/principles/",
-      "score": 188,
-      "author": "andsoitis",
-      "created": "2026-05-07 02:18:23",
-      "created_at": 1778120303000
+      "id": 48026412,
+      "title": "PySimpleGUI 6",
+      "link": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "score": 29,
+      "author": "geophph",
+      "created": "2026-05-05 18:18:42",
+      "created_at": 1778005122000
     }
   ],
   "code": 200,
