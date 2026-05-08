@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-08T17:00:40.586Z"
+    "lastUpdate": "2026-05-08T20:44:35.234Z"
   },
   "data": [
-    {
-      "id": 48038001,
-      "title": "Appearing productive in the workplace",
-      "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1584,
-      "author": "diebillionaires",
-      "created": "2026-05-06 16:18:29",
-      "created_at": 1778084309000
-    },
     {
       "id": 48054423,
       "title": "Cloudflare to cut about 20% of its workforce",
       "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1132,
+      "score": 1238,
       "author": "PriorityLeft",
       "created": "2026-05-07 20:23:37",
       "created_at": 1778185417000
@@ -28,34 +19,43 @@
       "id": 48055913,
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 862,
+      "score": 889,
       "author": "stefanpie",
       "created": "2026-05-07 22:22:21",
       "created_at": 1778192541000
     },
     {
-      "id": 48053203,
-      "title": "AI slop is killing online communities",
-      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 766,
-      "author": "thm",
-      "created": "2026-05-07 18:46:25",
-      "created_at": 1778179585000
+      "id": 48062117,
+      "title": "Poland is now among the 20 largest economies",
+      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 796,
+      "author": "surprisetalk",
+      "created": "2026-05-08 12:30:05",
+      "created_at": 1778243405000
     },
     {
       "id": 48056227,
       "title": "Maybe you shouldn't install new software for a bit",
       "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 742,
+      "score": 795,
       "author": "psxuaw",
       "created": "2026-05-07 23:02:11",
       "created_at": 1778194931000
     },
     {
+      "id": 48053203,
+      "title": "AI slop is killing online communities",
+      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 789,
+      "author": "thm",
+      "created": "2026-05-07 18:46:25",
+      "created_at": 1778179585000
+    },
+    {
       "id": 48053623,
       "title": "Dirtyfrag: Universal Linux LPE",
       "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 738,
+      "score": 773,
       "author": "flipped",
       "created": "2026-05-07 19:21:32",
       "created_at": 1778181692000
@@ -64,37 +64,37 @@
       "id": 48049653,
       "title": "The map that keeps Burning Man honest",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 728,
+      "score": 746,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
     },
     {
-      "id": 48040269,
-      "title": "Programming Still Sucks",
-      "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-      "score": 669,
-      "author": "jeromechoo",
-      "created": "2026-05-06 19:06:41",
-      "created_at": 1778094401000
-    },
-    {
       "id": 48042434,
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "link": "https://sqlite.org/locrsf.html",
-      "score": 641,
+      "score": 647,
       "author": "whatisabcdefgh",
       "created": "2026-05-06 21:58:43",
       "created_at": 1778104723000
     },
     {
-      "id": 48062117,
-      "title": "Poland is now among the 20 largest economies",
-      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 616,
-      "author": "surprisetalk",
-      "created": "2026-05-08 12:30:05",
-      "created_at": 1778243405000
+      "id": 48050964,
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 606,
+      "author": "newsoftheday",
+      "created": "2026-05-07 15:56:33",
+      "created_at": 1778169393000
+    },
+    {
+      "id": 48063199,
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 566,
+      "author": "ribtoks",
+      "created": "2026-05-08 13:56:10",
+      "created_at": 1778248570000
     }
   ],
   "code": 200,

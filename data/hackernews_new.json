@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-08T17:00:40.691Z"
+    "lastUpdate": "2026-05-08T20:44:35.484Z"
   },
   "data": [
-    {
-      "id": 48064312,
-      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
-      "link": "https://btxx.org/posts/memory/",
-      "score": 70,
-      "author": "xngbuilds",
-      "created": "2026-05-08 15:10:35",
-      "created_at": 1778253035000
-    },
     {
       "id": 48063199,
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
       "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 179,
+      "score": 566,
       "author": "ribtoks",
       "created": "2026-05-08 13:56:10",
       "created_at": 1778248570000
     },
     {
+      "id": 48067197,
+      "title": "What we lost the last time code got cheap",
+      "link": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+      "score": 80,
+      "author": "speckx",
+      "created": "2026-05-08 18:53:08",
+      "created_at": 1778266388000
+    },
+    {
+      "id": 48066524,
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 98,
+      "author": "speckx",
+      "created": "2026-05-08 17:55:08",
+      "created_at": 1778262908000
+    },
+    {
+      "id": 48067870,
+      "title": "Discord Incident",
+      "link": "https://discordstatus.com",
+      "score": 30,
+      "author": "moelf",
+      "created": "2026-05-08 19:52:06",
+      "created_at": 1778269926000
+    },
+    {
       "id": 48065360,
       "title": "Cartoon Network Flash Games",
       "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 18,
+      "score": 200,
       "author": "willmeyers",
       "created": "2026-05-08 16:29:52",
       "created_at": 1778257792000
     },
     {
+      "id": 48064312,
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "link": "https://btxx.org/posts/memory/",
+      "score": 160,
+      "author": "xngbuilds",
+      "created": "2026-05-08 15:10:35",
+      "created_at": 1778253035000
+    },
+    {
+      "id": 48067734,
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "link": "https://ze3tar.github.io/post-zcrx.html",
+      "score": 31,
+      "author": "MrBruh",
+      "created": "2026-05-08 19:40:39",
+      "created_at": 1778269239000
+    },
+    {
       "id": 48061566,
       "title": "An Introduction to Meshtastic",
       "link": "https://meshtastic.org/docs/introduction/",
-      "score": 216,
+      "score": 320,
       "author": "ColinWright",
       "created": "2026-05-08 11:22:11",
       "created_at": 1778239331000
     },
     {
-      "id": 48063521,
-      "title": "PC Engine CPU",
-      "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "score": 59,
-      "author": "ibobev",
-      "created": "2026-05-08 14:14:31",
-      "created_at": 1778249671000
+      "id": 48067686,
+      "title": "My first in-prod corrupted hard drive problem",
+      "link": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
+      "score": 16,
+      "author": "r1chk1t",
+      "created": "2026-05-08 19:35:36",
+      "created_at": 1778268936000
     },
     {
-      "id": 48062117,
-      "title": "Poland is now among the 20 largest economies",
-      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 616,
-      "author": "surprisetalk",
-      "created": "2026-05-08 12:30:05",
-      "created_at": 1778243405000
-    },
-    {
-      "id": 48062178,
-      "title": "A web page that shows you everything the browser told it without asking",
-      "link": "https://sinceyouarrived.world/taken",
-      "score": 163,
-      "author": "mwheelz",
-      "created": "2026-05-08 12:37:05",
-      "created_at": 1778243825000
-    },
-    {
-      "id": 48063548,
-      "title": "Show HN: Git for AI Agents",
-      "link": "https://github.com/regent-vcs/re_gent",
-      "score": 40,
-      "author": "doshay",
-      "created": "2026-05-08 14:15:36",
-      "created_at": 1778249736000
-    },
-    {
-      "id": 48062745,
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-      "score": 55,
-      "author": "ggpsv",
-      "created": "2026-05-08 13:22:33",
-      "created_at": 1778246553000
-    },
-    {
-      "id": 48054423,
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1132,
-      "author": "PriorityLeft",
-      "created": "2026-05-07 20:23:37",
-      "created_at": 1778185417000
+      "id": 48061884,
+      "title": "David Attenborough's 100th Birthday",
+      "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 227,
+      "author": "defrost",
+      "created": "2026-05-08 12:03:26",
+      "created_at": 1778241806000
     }
   ],
   "code": 200,
