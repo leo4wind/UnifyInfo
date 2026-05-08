@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-08T05:50:23.027Z"
+    "lastUpdate": "2026-05-08T09:04:05.473Z"
   },
   "data": [
     {
       "id": 48055913,
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 477,
+      "score": 612,
       "author": "stefanpie",
       "created": "2026-05-07 22:22:21",
       "created_at": 1778192541000
@@ -19,7 +19,7 @@
       "id": 48056227,
       "title": "Maybe you shouldn't install new software for a bit",
       "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 339,
+      "score": 496,
       "author": "psxuaw",
       "created": "2026-05-07 23:02:11",
       "created_at": 1778194931000
@@ -28,7 +28,7 @@
       "id": 48054423,
       "title": "Cloudflare to cut about 20% workforce",
       "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 490,
+      "score": 693,
       "author": "PriorityLeft",
       "created": "2026-05-07 20:23:37",
       "created_at": 1778185417000
@@ -37,64 +37,64 @@
       "id": 48053623,
       "title": "Dirtyfrag: Universal Linux LPE",
       "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 533,
+      "score": 628,
       "author": "flipped",
       "created": "2026-05-07 19:21:32",
       "created_at": 1778181692000
     },
     {
-      "id": 48035420,
-      "title": "Pinocchio is weirder than you remembered",
-      "link": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 82,
-      "author": "cemsakarya",
-      "created": "2026-05-06 12:27:07",
-      "created_at": 1778070427000
+      "id": 48059662,
+      "title": "ClojureScript Gets Async/Await",
+      "link": "https://clojurescript.org/news/2026-05-07-release",
+      "score": 30,
+      "author": "Borkdude",
+      "created": "2026-05-08 07:04:24",
+      "created_at": 1778223864000
     },
     {
       "id": 48049653,
       "title": "The map that keeps Burning Man honest",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 596,
+      "score": 639,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
     },
     {
+      "id": 48037336,
+      "title": "Rumors of my death are slightly exaggerated",
+      "link": "",
+      "score": 208,
+      "author": "CliffStoll",
+      "created": "2026-05-06 15:24:51",
+      "created_at": 1778081091000
+    },
+    {
+      "id": 48035420,
+      "title": "Pinocchio is weirder than you remembered",
+      "link": "https://storica.club/blog/pinocchio-in-italian/",
+      "score": 134,
+      "author": "cemsakarya",
+      "created": "2026-05-06 12:27:07",
+      "created_at": 1778070427000
+    },
+    {
+      "id": 48021023,
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "link": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "score": 33,
+      "author": "timvisee",
+      "created": "2026-05-05 11:31:12",
+      "created_at": 1777980672000
+    },
+    {
       "id": 48051562,
       "title": "Agents need control flow, not more prompts",
       "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 410,
+      "score": 462,
       "author": "bsuh",
       "created": "2026-05-07 16:43:35",
       "created_at": 1778172215000
-    },
-    {
-      "id": 48057901,
-      "title": "Mojo 1.0 Beta",
-      "link": "https://mojolang.org/",
-      "score": 15,
-      "author": "sbt567",
-      "created": "2026-05-08 02:49:01",
-      "created_at": 1778208541000
-    },
-    {
-      "id": 48036746,
-      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-      "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-      "score": 12,
-      "author": "zknill",
-      "created": "2026-05-06 14:31:42",
-      "created_at": 1778077902000
-    },
-    {
-      "id": 48056749,
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "link": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 54,
-      "author": "foltik",
-      "created": "2026-05-08 00:03:38",
-      "created_at": 1778198618000
     }
   ],
   "code": 200,
