@@ -3,50 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-08T02:01:03.145Z"
+    "lastUpdate": "2026-05-08T05:50:23.087Z"
   },
   "data": [
     {
       "id": 48055913,
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 223,
+      "score": 477,
       "author": "stefanpie",
       "created": "2026-05-07 22:22:21",
       "created_at": 1778192541000
     },
     {
-      "id": 48053623,
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 413,
-      "author": "flipped",
-      "created": "2026-05-07 19:21:32",
-      "created_at": 1778181692000
-    },
-    {
       "id": 48056227,
       "title": "Maybe you shouldn't install new software for a bit",
       "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 121,
+      "score": 339,
       "author": "psxuaw",
       "created": "2026-05-07 23:02:11",
       "created_at": 1778194931000
     },
     {
-      "id": 48056158,
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "score": 59,
-      "author": "hhs",
-      "created": "2026-05-07 22:54:34",
-      "created_at": 1778194474000
+      "id": 48054423,
+      "title": "Cloudflare to cut about 20% workforce",
+      "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 490,
+      "author": "PriorityLeft",
+      "created": "2026-05-07 20:23:37",
+      "created_at": 1778185417000
+    },
+    {
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 533,
+      "author": "flipped",
+      "created": "2026-05-07 19:21:32",
+      "created_at": 1778181692000
+    },
+    {
+      "id": 48035420,
+      "title": "Pinocchio is weirder than you remembered",
+      "link": "https://storica.club/blog/pinocchio-in-italian/",
+      "score": 82,
+      "author": "cemsakarya",
+      "created": "2026-05-06 12:27:07",
+      "created_at": 1778070427000
     },
     {
       "id": 48049653,
-      "title": "The Burning Man MOOP Map",
+      "title": "The map that keeps Burning Man honest",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 537,
+      "score": 596,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
@@ -55,46 +64,37 @@
       "id": 48051562,
       "title": "Agents need control flow, not more prompts",
       "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 330,
+      "score": 410,
       "author": "bsuh",
       "created": "2026-05-07 16:43:35",
       "created_at": 1778172215000
     },
     {
-      "id": 48056268,
-      "title": "Researchers discover advanced language processing in the unconscious human brain",
-      "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 42,
-      "author": "hhs",
-      "created": "2026-05-07 23:06:44",
-      "created_at": 1778195204000
+      "id": 48057901,
+      "title": "Mojo 1.0 Beta",
+      "link": "https://mojolang.org/",
+      "score": 15,
+      "author": "sbt567",
+      "created": "2026-05-08 02:49:01",
+      "created_at": 1778208541000
     },
     {
-      "id": 48054423,
-      "title": "Building for the Future",
-      "link": "https://blog.cloudflare.com/building-for-the-future/",
-      "score": 258,
-      "author": "PriorityLeft",
-      "created": "2026-05-07 20:23:37",
-      "created_at": 1778185417000
+      "id": 48036746,
+      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+      "link": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+      "score": 12,
+      "author": "zknill",
+      "created": "2026-05-06 14:31:42",
+      "created_at": 1778077902000
     },
     {
-      "id": 48052537,
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 200,
-      "author": "instagraham",
-      "created": "2026-05-07 17:54:02",
-      "created_at": 1778176442000
-    },
-    {
-      "id": 48042817,
-      "title": "The Disappearance of the Public Bench",
-      "link": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-      "score": 26,
-      "author": "cainxinth",
-      "created": "2026-05-06 22:36:17",
-      "created_at": 1778106977000
+      "id": 48056749,
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "link": "https://github.com/robertdfrench/ifuncd-up",
+      "score": 54,
+      "author": "foltik",
+      "created": "2026-05-08 00:03:38",
+      "created_at": 1778198618000
     }
   ],
   "code": 200,

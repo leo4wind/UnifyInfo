@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-08T02:01:02.930Z"
+    "lastUpdate": "2026-05-08T05:50:22.822Z"
   },
   "data": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1687,
+      "score": 1694,
       "author": "haunter",
       "created": "2026-05-06 15:44:13",
       "created_at": 1778082253000
@@ -19,7 +19,7 @@
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1534,
+      "score": 1544,
       "author": "diebillionaires",
       "created": "2026-05-06 16:18:29",
       "created_at": 1778084309000
@@ -28,7 +28,7 @@
       "id": 48034587,
       "title": "Red Squares – GitHub outages as contributions",
       "link": "https://red-squares.cian.lol/",
-      "score": 757,
+      "score": 758,
       "author": "cianmm",
       "created": "2026-05-06 10:28:40",
       "created_at": 1778063320000
@@ -37,64 +37,64 @@
       "id": 48037128,
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 748,
+      "score": 754,
       "author": "e12e",
       "created": "2026-05-06 15:06:37",
       "created_at": 1778079997000
     },
     {
-      "id": 48031261,
-      "title": "StarFighter 16-Inch",
-      "link": "https://us.starlabs.systems/pages/starfighter",
-      "score": 671,
-      "author": "signa11",
-      "created": "2026-05-06 02:03:44",
-      "created_at": 1778033024000
-    },
-    {
-      "id": 48031684,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "link": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 647,
-      "author": "rolph",
-      "created": "2026-05-06 03:10:33",
-      "created_at": 1778037033000
-    },
-    {
       "id": 48042434,
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "link": "https://sqlite.org/locrsf.html",
-      "score": 601,
+      "score": 615,
       "author": "whatisabcdefgh",
       "created": "2026-05-06 21:58:43",
       "created_at": 1778104723000
     },
     {
       "id": 48049653,
-      "title": "The Burning Man MOOP Map",
+      "title": "The map that keeps Burning Man honest",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 537,
+      "score": 596,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
     },
     {
-      "id": 48037986,
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "link": "https://www.anthropic.com/news/higher-limits-spacex",
-      "score": 498,
-      "author": "meetpateltech",
-      "created": "2026-05-06 16:17:33",
-      "created_at": 1778084253000
+      "id": 48053203,
+      "title": "AI slop is killing online communities",
+      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 565,
+      "author": "thm",
+      "created": "2026-05-07 18:46:25",
+      "created_at": 1778179585000
     },
     {
       "id": 48040269,
       "title": "Programming Still Sucks",
       "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-      "score": 486,
+      "score": 547,
       "author": "jeromechoo",
       "created": "2026-05-06 19:06:41",
       "created_at": 1778094401000
+    },
+    {
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 533,
+      "author": "flipped",
+      "created": "2026-05-07 19:21:32",
+      "created_at": 1778181692000
+    },
+    {
+      "id": 48050964,
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 527,
+      "author": "newsoftheday",
+      "created": "2026-05-07 15:56:33",
+      "created_at": 1778169393000
     }
   ],
   "code": 200,
