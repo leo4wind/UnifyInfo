@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-08T13:06:40.596Z"
+    "lastUpdate": "2026-05-08T17:00:40.674Z"
   },
   "data": [
     {
-      "id": 48062117,
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 92,
-      "author": "surprisetalk",
-      "created": "2026-05-08 12:30:05",
-      "created_at": 1778243405000
+      "id": 48064312,
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "link": "https://btxx.org/posts/memory/",
+      "score": 70,
+      "author": "xngbuilds",
+      "created": "2026-05-08 15:10:35",
+      "created_at": 1778253035000
     },
     {
-      "id": 48055913,
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 764,
-      "author": "stefanpie",
-      "created": "2026-05-07 22:22:21",
-      "created_at": 1778192541000
+      "id": 48063199,
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 179,
+      "author": "ribtoks",
+      "created": "2026-05-08 13:56:10",
+      "created_at": 1778248570000
     },
     {
-      "id": 48054423,
-      "title": "Cloudflare to cut about 20% workforce",
-      "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 921,
-      "author": "PriorityLeft",
-      "created": "2026-05-07 20:23:37",
-      "created_at": 1778185417000
-    },
-    {
-      "id": 48059606,
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 118,
-      "author": "razorbeamz",
-      "created": "2026-05-08 06:56:13",
-      "created_at": 1778223373000
+      "id": 48065360,
+      "title": "Cartoon Network Flash Games",
+      "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 18,
+      "author": "willmeyers",
+      "created": "2026-05-08 16:29:52",
+      "created_at": 1778257792000
     },
     {
       "id": 48061566,
       "title": "An Introduction to Meshtastic",
       "link": "https://meshtastic.org/docs/introduction/",
-      "score": 21,
+      "score": 216,
       "author": "ColinWright",
       "created": "2026-05-08 11:22:11",
       "created_at": 1778239331000
     },
     {
-      "id": 48056227,
-      "title": "Maybe you shouldn't install new software for a bit",
-      "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 622,
-      "author": "psxuaw",
-      "created": "2026-05-07 23:02:11",
-      "created_at": 1778194931000
+      "id": 48063521,
+      "title": "PC Engine CPU",
+      "link": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "score": 59,
+      "author": "ibobev",
+      "created": "2026-05-08 14:14:31",
+      "created_at": 1778249671000
     },
     {
-      "id": 48059662,
-      "title": "ClojureScript Gets Async/Await",
-      "link": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 125,
-      "author": "Borkdude",
-      "created": "2026-05-08 07:04:24",
-      "created_at": 1778223864000
+      "id": 48062117,
+      "title": "Poland is now among the 20 largest economies",
+      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 616,
+      "author": "surprisetalk",
+      "created": "2026-05-08 12:30:05",
+      "created_at": 1778243405000
     },
     {
-      "id": 48060918,
-      "title": "GeoJSON",
-      "link": "https://geojson.org/",
+      "id": 48062178,
+      "title": "A web page that shows you everything the browser told it without asking",
+      "link": "https://sinceyouarrived.world/taken",
+      "score": 163,
+      "author": "mwheelz",
+      "created": "2026-05-08 12:37:05",
+      "created_at": 1778243825000
+    },
+    {
+      "id": 48063548,
+      "title": "Show HN: Git for AI Agents",
+      "link": "https://github.com/regent-vcs/re_gent",
       "score": 40,
-      "author": "tosh",
-      "created": "2026-05-08 09:55:37",
-      "created_at": 1778234137000
+      "author": "doshay",
+      "created": "2026-05-08 14:15:36",
+      "created_at": 1778249736000
     },
     {
-      "id": 48053623,
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 692,
-      "author": "flipped",
-      "created": "2026-05-07 19:21:32",
-      "created_at": 1778181692000
+      "id": 48062745,
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "link": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "score": 55,
+      "author": "ggpsv",
+      "created": "2026-05-08 13:22:33",
+      "created_at": 1778246553000
     },
     {
-      "id": 48035420,
-      "title": "Pinocchio is weirder than you remembered",
-      "link": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 206,
-      "author": "cemsakarya",
-      "created": "2026-05-06 12:27:07",
-      "created_at": 1778070427000
+      "id": 48054423,
+      "title": "Cloudflare to cut about 20% of its workforce",
+      "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 1132,
+      "author": "PriorityLeft",
+      "created": "2026-05-07 20:23:37",
+      "created_at": 1778185417000
     }
   ],
   "code": 200,
