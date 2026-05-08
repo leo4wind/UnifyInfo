@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-07T20:56:57.110Z"
+    "lastUpdate": "2026-05-08T02:01:02.930Z"
   },
   "data": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1678,
+      "score": 1687,
       "author": "haunter",
       "created": "2026-05-06 15:44:13",
       "created_at": 1778082253000
@@ -19,7 +19,7 @@
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1514,
+      "score": 1534,
       "author": "diebillionaires",
       "created": "2026-05-06 16:18:29",
       "created_at": 1778084309000
@@ -28,25 +28,16 @@
       "id": 48034587,
       "title": "Red Squares – GitHub outages as contributions",
       "link": "https://red-squares.cian.lol/",
-      "score": 753,
+      "score": 757,
       "author": "cianmm",
       "created": "2026-05-06 10:28:40",
       "created_at": 1778063320000
     },
     {
-      "id": 48027897,
-      "title": "DNSSEC disruption affecting .de domains – Resolved",
-      "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "score": 742,
-      "author": "warpspin",
-      "created": "2026-05-05 20:16:35",
-      "created_at": 1778012195000
-    },
-    {
       "id": 48037128,
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 740,
+      "score": 748,
       "author": "e12e",
       "created": "2026-05-06 15:06:37",
       "created_at": 1778079997000
@@ -55,7 +46,7 @@
       "id": 48031261,
       "title": "StarFighter 16-Inch",
       "link": "https://us.starlabs.systems/pages/starfighter",
-      "score": 668,
+      "score": 671,
       "author": "signa11",
       "created": "2026-05-06 02:03:44",
       "created_at": 1778033024000
@@ -73,16 +64,25 @@
       "id": 48042434,
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "link": "https://sqlite.org/locrsf.html",
-      "score": 583,
+      "score": 601,
       "author": "whatisabcdefgh",
       "created": "2026-05-06 21:58:43",
       "created_at": 1778104723000
     },
     {
+      "id": 48049653,
+      "title": "The Burning Man MOOP Map",
+      "link": "https://www.not-ship.com/burning-man-moop/",
+      "score": 537,
+      "author": "speckx",
+      "created": "2026-05-07 14:06:10",
+      "created_at": 1778162770000
+    },
+    {
       "id": 48037986,
       "title": "Higher usage limits for Claude and a compute deal with SpaceX",
       "link": "https://www.anthropic.com/news/higher-limits-spacex",
-      "score": 493,
+      "score": 498,
       "author": "meetpateltech",
       "created": "2026-05-06 16:17:33",
       "created_at": 1778084253000
@@ -91,7 +91,7 @@
       "id": 48040269,
       "title": "Programming Still Sucks",
       "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-      "score": 471,
+      "score": 486,
       "author": "jeromechoo",
       "created": "2026-05-06 19:06:41",
       "created_at": 1778094401000
