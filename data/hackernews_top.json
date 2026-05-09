@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-09T01:54:52.755Z"
+    "lastUpdate": "2026-05-09T06:09:01.320Z"
   },
   "data": [
+    {
+      "id": 48071262,
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 121,
+      "author": "_alternator_",
+      "created": "2026-05-09 02:41:42",
+      "created_at": 1778294502000
+    },
+    {
+      "id": 48071940,
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 37,
+      "author": "pretext",
+      "created": "2026-05-09 04:53:52",
+      "created_at": 1778302432000
+    },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 630,
+      "score": 859,
       "author": "anonymousiam",
       "created": "2026-05-08 18:45:58",
       "created_at": 1778265958000
@@ -19,82 +37,64 @@
       "id": 48051951,
       "title": "OpenAI's WebRTC problem",
       "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 99,
+      "score": 234,
       "author": "atgctg",
       "created": "2026-05-07 17:11:59",
       "created_at": 1778173919000
     },
     {
-      "id": 48065511,
-      "title": "The React2Shell Story",
-      "link": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 35,
-      "author": "mufeedvh",
-      "created": "2026-05-08 16:39:48",
-      "created_at": 1778258388000
-    },
-    {
-      "id": 48037760,
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "link": "https://www.wiisfi.com/",
-      "score": 85,
-      "author": "homebrewer",
-      "created": "2026-05-06 16:01:50",
-      "created_at": 1778083310000
+      "id": 48046436,
+      "title": "Mythical Man Month",
+      "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 95,
+      "author": "ingve",
+      "created": "2026-05-07 07:20:55",
+      "created_at": 1778138455000
     },
     {
       "id": 48066524,
       "title": "AI is breaking two vulnerability cultures",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 242,
+      "score": 304,
       "author": "speckx",
       "created": "2026-05-08 17:55:08",
       "created_at": 1778262908000
     },
     {
-      "id": 48067734,
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "link": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 140,
-      "author": "MrBruh",
-      "created": "2026-05-08 19:40:39",
-      "created_at": 1778269239000
+      "id": 48061884,
+      "title": "David Attenborough's 100th Birthday",
+      "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 554,
+      "author": "defrost",
+      "created": "2026-05-08 12:03:26",
+      "created_at": 1778241806000
     },
     {
-      "id": 48065254,
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "score": 31,
-      "author": "mad",
-      "created": "2026-05-08 16:21:56",
-      "created_at": 1778257316000
-    },
-    {
-      "id": 48065360,
-      "title": "Cartoon Network Flash Games",
-      "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 283,
-      "author": "willmeyers",
-      "created": "2026-05-08 16:29:52",
-      "created_at": 1778257792000
+      "id": 48065511,
+      "title": "The React2Shell Story",
+      "link": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 109,
+      "author": "mufeedvh",
+      "created": "2026-05-08 16:39:48",
+      "created_at": 1778258388000
     },
     {
       "id": 48058197,
       "title": "AWS North Virginia data center outage – recovery to take hours",
       "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 131,
+      "score": 190,
       "author": "christhecaribou",
       "created": "2026-05-08 03:31:58",
       "created_at": 1778211118000
     },
     {
-      "id": 48040470,
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "link": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 20,
-      "author": "geox",
-      "created": "2026-05-06 19:21:34",
-      "created_at": 1778095294000
+      "id": 48037760,
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "link": "https://www.wiisfi.com/",
+      "score": 159,
+      "author": "homebrewer",
+      "created": "2026-05-06 16:01:50",
+      "created_at": 1778083310000
     }
   ],
   "code": 200,

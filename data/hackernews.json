@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-09T01:54:52.648Z"
+    "lastUpdate": "2026-05-09T06:09:01.129Z"
   },
   "data": [
     {
       "id": 48054423,
       "title": "Cloudflare to cut about 20% of its workforce",
       "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1279,
+      "score": 1288,
       "author": "PriorityLeft",
       "created": "2026-05-07 20:23:37",
       "created_at": 1778185417000
@@ -19,7 +19,7 @@
       "id": 48062117,
       "title": "Poland is now among the 20 largest economies",
       "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 897,
+      "score": 948,
       "author": "surprisetalk",
       "created": "2026-05-08 12:30:05",
       "created_at": 1778243405000
@@ -28,16 +28,25 @@
       "id": 48055913,
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 897,
+      "score": 903,
       "author": "stefanpie",
       "created": "2026-05-07 22:22:21",
       "created_at": 1778192541000
     },
     {
+      "id": 48067119,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 859,
+      "author": "anonymousiam",
+      "created": "2026-05-08 18:45:58",
+      "created_at": 1778265958000
+    },
+    {
       "id": 48056227,
       "title": "Maybe you shouldn't install new software for a bit",
       "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 819,
+      "score": 824,
       "author": "psxuaw",
       "created": "2026-05-07 23:02:11",
       "created_at": 1778194931000
@@ -46,7 +55,7 @@
       "id": 48053203,
       "title": "AI slop is killing online communities",
       "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 803,
+      "score": 809,
       "author": "thm",
       "created": "2026-05-07 18:46:25",
       "created_at": 1778179585000
@@ -55,7 +64,7 @@
       "id": 48053623,
       "title": "Dirty Frag: Universal Linux LPE",
       "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 799,
+      "score": 803,
       "author": "flipped",
       "created": "2026-05-07 19:21:32",
       "created_at": 1778181692000
@@ -64,7 +73,7 @@
       "id": 48049653,
       "title": "The map that keeps Burning Man honest",
       "link": "https://www.not-ship.com/burning-man-moop/",
-      "score": 749,
+      "score": 754,
       "author": "speckx",
       "created": "2026-05-07 14:06:10",
       "created_at": 1778162770000
@@ -73,25 +82,16 @@
       "id": 48063199,
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
       "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 648,
+      "score": 663,
       "author": "ribtoks",
       "created": "2026-05-08 13:56:10",
       "created_at": 1778248570000
     },
     {
-      "id": 48067119,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 630,
-      "author": "anonymousiam",
-      "created": "2026-05-08 18:45:58",
-      "created_at": 1778265958000
-    },
-    {
       "id": 48050964,
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 612,
+      "score": 617,
       "author": "newsoftheday",
       "created": "2026-05-07 15:56:33",
       "created_at": 1778169393000
