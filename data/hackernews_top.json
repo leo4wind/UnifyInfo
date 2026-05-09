@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-09T09:07:29.615Z"
+    "lastUpdate": "2026-05-09T12:52:41.568Z"
   },
   "data": [
+    {
+      "id": 48074265,
+      "title": "Internet Archive Switzerland",
+      "link": "https://internetarchive.ch/",
+      "score": 46,
+      "author": "hggh",
+      "created": "2026-05-09 12:00:30",
+      "created_at": 1778328030000
+    },
+    {
+      "id": 48074087,
+      "title": "Forking the Web",
+      "link": "https://dillo-browser.org/lab/web-fork/",
+      "score": 19,
+      "author": "wrxd",
+      "created": "2026-05-09 11:33:07",
+      "created_at": 1778326387000
+    },
     {
       "id": 48071262,
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 265,
+      "score": 404,
       "author": "_alternator_",
       "created": "2026-05-09 02:41:42",
       "created_at": 1778294502000
@@ -19,7 +37,7 @@
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 983,
+      "score": 1154,
       "author": "anonymousiam",
       "created": "2026-05-08 18:45:58",
       "created_at": 1778265958000
@@ -28,7 +46,7 @@
       "id": 48071940,
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 119,
+      "score": 210,
       "author": "pretext",
       "created": "2026-05-09 04:53:52",
       "created_at": 1778302432000
@@ -37,64 +55,46 @@
       "id": 48051951,
       "title": "OpenAI’s WebRTC problem",
       "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 295,
+      "score": 356,
       "author": "atgctg",
       "created": "2026-05-07 17:11:59",
       "created_at": 1778173919000
     },
     {
-      "id": 48046436,
-      "title": "Mythical Man Month",
-      "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 142,
-      "author": "ingve",
-      "created": "2026-05-07 07:20:55",
-      "created_at": 1778138455000
+      "id": 48042204,
+      "title": "Making Julia as Fast as C++ (2019)",
+      "link": "https://flow.byu.edu/posts/julia-c++",
+      "score": 23,
+      "author": "d_tr",
+      "created": "2026-05-06 21:36:42",
+      "created_at": 1778103402000
     },
     {
-      "id": 48037517,
-      "title": "What causes lightning? The answer keeps getting more interesting",
-      "link": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "score": 45,
-      "author": "Tomte",
-      "created": "2026-05-06 15:41:06",
-      "created_at": 1778082066000
+      "id": 48037243,
+      "title": "America's carpet capital: an empire and its toxic legacy",
+      "link": "https://apnews.com/projects/pfas-forever-stained/",
+      "score": 46,
+      "author": "rawgabbit",
+      "created": "2026-05-06 15:17:44",
+      "created_at": 1778080664000
     },
     {
       "id": 48061884,
       "title": "David Attenborough's 100th Birthday",
       "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 613,
+      "score": 703,
       "author": "defrost",
       "created": "2026-05-08 12:03:26",
       "created_at": 1778241806000
     },
     {
-      "id": 48072720,
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-      "score": 72,
-      "author": "edent",
-      "created": "2026-05-09 07:23:40",
-      "created_at": 1778311420000
-    },
-    {
-      "id": 48066524,
-      "title": "AI is breaking two vulnerability cultures",
-      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 325,
-      "author": "speckx",
-      "created": "2026-05-08 17:55:08",
-      "created_at": 1778262908000
-    },
-    {
-      "id": 48058197,
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 217,
-      "author": "christhecaribou",
-      "created": "2026-05-08 03:31:58",
-      "created_at": 1778211118000
+      "id": 48073394,
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "score": 17,
+      "author": "signa11",
+      "created": "2026-05-09 09:14:05",
+      "created_at": 1778318045000
     }
   ],
   "code": 200,
