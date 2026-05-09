@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-09T16:40:46.731Z"
+    "lastUpdate": "2026-05-09T20:34:24.765Z"
   },
   "data": [
     {
+      "id": 48073680,
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 117,
+      "author": "heldrida",
+      "created": "2026-05-09 10:12:55",
+      "created_at": 1778321575000
+    },
+    {
       "id": 48074265,
       "title": "Internet Archive Switzerland",
-      "link": "https://internetarchive.ch/",
-      "score": 267,
+      "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 435,
       "author": "hggh",
       "created": "2026-05-09 12:00:30",
       "created_at": 1778328030000
     },
     {
-      "id": 48075528,
-      "title": "PipeDream on the Acorn Archimedes",
-      "link": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "score": 31,
-      "author": "msephton",
-      "created": "2026-05-09 15:01:16",
-      "created_at": 1778338876000
+      "id": 48076173,
+      "title": "I’ve banned query strings",
+      "link": "https://chrismorgan.info/no-query-strings",
+      "score": 110,
+      "author": "susam",
+      "created": "2026-05-09 16:28:36",
+      "created_at": 1778344116000
     },
     {
-      "id": 48067119,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1305,
-      "author": "anonymousiam",
-      "created": "2026-05-08 18:45:58",
-      "created_at": 1778265958000
+      "id": 48076465,
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "score": 69,
+      "author": "ggallas",
+      "created": "2026-05-09 17:06:46",
+      "created_at": 1778346406000
+    },
+    {
+      "id": 48076651,
+      "title": "Zed Editor Theme-Builder",
+      "link": "https://zed.dev/theme-builder",
+      "score": 71,
+      "author": "cuechan",
+      "created": "2026-05-09 17:30:39",
+      "created_at": 1778347839000
+    },
+    {
+      "id": 48042427,
+      "title": "Show HN: I wrote a flight simulator in my own programming language",
+      "link": "https://github.com/navid-m/flightsim",
+      "score": 61,
+      "author": "pizza_man",
+      "created": "2026-05-06 21:58:05",
+      "created_at": 1778104685000
+    },
+    {
+      "id": 48067786,
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "link": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "score": 18,
+      "author": "abstrus",
+      "created": "2026-05-08 19:45:21",
+      "created_at": 1778269521000
+    },
+    {
+      "id": 48075366,
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "score": 98,
+      "author": "LorenDB",
+      "created": "2026-05-09 14:40:58",
+      "created_at": 1778337658000
     },
     {
       "id": 48073246,
-      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "title": "LLMs corrupt your documents when you delegate",
       "link": "https://arxiv.org/abs/2604.15597",
-      "score": 161,
+      "score": 285,
       "author": "rbanffy",
       "created": "2026-05-09 08:44:34",
       "created_at": 1778316274000
     },
     {
-      "id": 48074952,
-      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-      "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 49,
-      "author": "ColinWright",
-      "created": "2026-05-09 13:48:32",
-      "created_at": 1778334512000
-    },
-    {
-      "id": 48071940,
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 317,
-      "author": "pretext",
-      "created": "2026-05-09 04:53:52",
-      "created_at": 1778302432000
-    },
-    {
-      "id": 48048679,
-      "title": "How LEDs are made (2014)",
-      "link": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-      "score": 71,
-      "author": "smig0",
-      "created": "2026-05-07 12:39:45",
-      "created_at": 1778157585000
-    },
-    {
-      "id": 48047280,
-      "title": "Removing fsync from our local storage engine",
-      "link": "https://fractalbits.com/blog/remove-fsync/",
-      "score": 40,
-      "author": "zzsheng",
-      "created": "2026-05-07 09:25:58",
-      "created_at": 1778145958000
-    },
-    {
-      "id": 48071262,
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 499,
-      "author": "_alternator_",
-      "created": "2026-05-09 02:41:42",
-      "created_at": 1778294502000
-    },
-    {
-      "id": 48046436,
-      "title": "Mythical Man Month",
-      "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 269,
-      "author": "ingve",
-      "created": "2026-05-07 07:20:55",
-      "created_at": 1778138455000
+      "id": 48067119,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 1393,
+      "author": "anonymousiam",
+      "created": "2026-05-08 18:45:58",
+      "created_at": 1778265958000
     }
   ],
   "code": 200,
