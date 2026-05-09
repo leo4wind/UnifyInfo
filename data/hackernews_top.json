@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-08T20:44:35.325Z"
+    "lastUpdate": "2026-05-09T01:54:52.755Z"
   },
   "data": [
     {
-      "id": 48063199,
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 566,
-      "author": "ribtoks",
-      "created": "2026-05-08 13:56:10",
-      "created_at": 1778248570000
+      "id": 48067119,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 630,
+      "author": "anonymousiam",
+      "created": "2026-05-08 18:45:58",
+      "created_at": 1778265958000
     },
     {
-      "id": 48067197,
-      "title": "What we lost the last time code got cheap",
-      "link": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-      "score": 80,
-      "author": "speckx",
-      "created": "2026-05-08 18:53:08",
-      "created_at": 1778266388000
+      "id": 48051951,
+      "title": "OpenAI's WebRTC problem",
+      "link": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 99,
+      "author": "atgctg",
+      "created": "2026-05-07 17:11:59",
+      "created_at": 1778173919000
+    },
+    {
+      "id": 48065511,
+      "title": "The React2Shell Story",
+      "link": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 35,
+      "author": "mufeedvh",
+      "created": "2026-05-08 16:39:48",
+      "created_at": 1778258388000
+    },
+    {
+      "id": 48037760,
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "link": "https://www.wiisfi.com/",
+      "score": 85,
+      "author": "homebrewer",
+      "created": "2026-05-06 16:01:50",
+      "created_at": 1778083310000
     },
     {
       "id": 48066524,
-      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "title": "AI is breaking two vulnerability cultures",
       "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 98,
+      "score": 242,
       "author": "speckx",
       "created": "2026-05-08 17:55:08",
       "created_at": 1778262908000
     },
     {
-      "id": 48067870,
-      "title": "Discord Incident",
-      "link": "https://discordstatus.com",
-      "score": 30,
-      "author": "moelf",
-      "created": "2026-05-08 19:52:06",
-      "created_at": 1778269926000
-    },
-    {
-      "id": 48065360,
-      "title": "Cartoon Network Flash Games",
-      "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 200,
-      "author": "willmeyers",
-      "created": "2026-05-08 16:29:52",
-      "created_at": 1778257792000
-    },
-    {
-      "id": 48064312,
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "link": "https://btxx.org/posts/memory/",
-      "score": 160,
-      "author": "xngbuilds",
-      "created": "2026-05-08 15:10:35",
-      "created_at": 1778253035000
-    },
-    {
       "id": 48067734,
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "link": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 31,
+      "score": 140,
       "author": "MrBruh",
       "created": "2026-05-08 19:40:39",
       "created_at": 1778269239000
     },
     {
-      "id": 48061566,
-      "title": "An Introduction to Meshtastic",
-      "link": "https://meshtastic.org/docs/introduction/",
-      "score": 320,
-      "author": "ColinWright",
-      "created": "2026-05-08 11:22:11",
-      "created_at": 1778239331000
+      "id": 48065254,
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "score": 31,
+      "author": "mad",
+      "created": "2026-05-08 16:21:56",
+      "created_at": 1778257316000
     },
     {
-      "id": 48067686,
-      "title": "My first in-prod corrupted hard drive problem",
-      "link": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-      "score": 16,
-      "author": "r1chk1t",
-      "created": "2026-05-08 19:35:36",
-      "created_at": 1778268936000
+      "id": 48065360,
+      "title": "Cartoon Network Flash Games",
+      "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 283,
+      "author": "willmeyers",
+      "created": "2026-05-08 16:29:52",
+      "created_at": 1778257792000
     },
     {
-      "id": 48061884,
-      "title": "David Attenborough's 100th Birthday",
-      "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 227,
-      "author": "defrost",
-      "created": "2026-05-08 12:03:26",
-      "created_at": 1778241806000
+      "id": 48058197,
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "score": 131,
+      "author": "christhecaribou",
+      "created": "2026-05-08 03:31:58",
+      "created_at": 1778211118000
+    },
+    {
+      "id": 48040470,
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "link": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 20,
+      "author": "geox",
+      "created": "2026-05-06 19:21:34",
+      "created_at": 1778095294000
     }
   ],
   "code": 200,
