@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-09T12:52:41.568Z"
+    "lastUpdate": "2026-05-09T16:40:46.606Z"
   },
   "data": [
     {
       "id": 48074265,
       "title": "Internet Archive Switzerland",
       "link": "https://internetarchive.ch/",
-      "score": 46,
+      "score": 267,
       "author": "hggh",
       "created": "2026-05-09 12:00:30",
       "created_at": 1778328030000
     },
     {
-      "id": 48074087,
-      "title": "Forking the Web",
-      "link": "https://dillo-browser.org/lab/web-fork/",
-      "score": 19,
-      "author": "wrxd",
-      "created": "2026-05-09 11:33:07",
-      "created_at": 1778326387000
-    },
-    {
-      "id": 48071262,
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 404,
-      "author": "_alternator_",
-      "created": "2026-05-09 02:41:42",
-      "created_at": 1778294502000
+      "id": 48075528,
+      "title": "PipeDream on the Acorn Archimedes",
+      "link": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "score": 31,
+      "author": "msephton",
+      "created": "2026-05-09 15:01:16",
+      "created_at": 1778338876000
     },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1154,
+      "score": 1305,
       "author": "anonymousiam",
       "created": "2026-05-08 18:45:58",
       "created_at": 1778265958000
     },
     {
+      "id": 48073246,
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "link": "https://arxiv.org/abs/2604.15597",
+      "score": 161,
+      "author": "rbanffy",
+      "created": "2026-05-09 08:44:34",
+      "created_at": 1778316274000
+    },
+    {
+      "id": 48074952,
+      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+      "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "score": 49,
+      "author": "ColinWright",
+      "created": "2026-05-09 13:48:32",
+      "created_at": 1778334512000
+    },
+    {
       "id": 48071940,
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 210,
+      "score": 317,
       "author": "pretext",
       "created": "2026-05-09 04:53:52",
       "created_at": 1778302432000
     },
     {
-      "id": 48051951,
-      "title": "OpenAI’s WebRTC problem",
-      "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 356,
-      "author": "atgctg",
-      "created": "2026-05-07 17:11:59",
-      "created_at": 1778173919000
+      "id": 48048679,
+      "title": "How LEDs are made (2014)",
+      "link": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "score": 71,
+      "author": "smig0",
+      "created": "2026-05-07 12:39:45",
+      "created_at": 1778157585000
     },
     {
-      "id": 48042204,
-      "title": "Making Julia as Fast as C++ (2019)",
-      "link": "https://flow.byu.edu/posts/julia-c++",
-      "score": 23,
-      "author": "d_tr",
-      "created": "2026-05-06 21:36:42",
-      "created_at": 1778103402000
+      "id": 48047280,
+      "title": "Removing fsync from our local storage engine",
+      "link": "https://fractalbits.com/blog/remove-fsync/",
+      "score": 40,
+      "author": "zzsheng",
+      "created": "2026-05-07 09:25:58",
+      "created_at": 1778145958000
     },
     {
-      "id": 48037243,
-      "title": "America's carpet capital: an empire and its toxic legacy",
-      "link": "https://apnews.com/projects/pfas-forever-stained/",
-      "score": 46,
-      "author": "rawgabbit",
-      "created": "2026-05-06 15:17:44",
-      "created_at": 1778080664000
+      "id": 48071262,
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 499,
+      "author": "_alternator_",
+      "created": "2026-05-09 02:41:42",
+      "created_at": 1778294502000
     },
     {
-      "id": 48061884,
-      "title": "David Attenborough's 100th Birthday",
-      "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 703,
-      "author": "defrost",
-      "created": "2026-05-08 12:03:26",
-      "created_at": 1778241806000
-    },
-    {
-      "id": 48073394,
-      "title": "Killswitch: Per-function short-circuit mitigation primitive",
-      "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-      "score": 17,
-      "author": "signa11",
-      "created": "2026-05-09 09:14:05",
-      "created_at": 1778318045000
+      "id": 48046436,
+      "title": "Mythical Man Month",
+      "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 269,
+      "author": "ingve",
+      "created": "2026-05-07 07:20:55",
+      "created_at": 1778138455000
     }
   ],
   "code": 200,
