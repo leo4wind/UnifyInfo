@@ -3,32 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-10T09:21:16.448Z"
+    "lastUpdate": "2026-05-10T12:53:38.471Z"
   },
   "data": [
     {
-      "id": 48082039,
-      "title": "Rotten Dot Com",
-      "link": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
-      "score": 32,
-      "author": "lordgrenville",
-      "created": "2026-05-10 08:25:55",
-      "created_at": 1778401555000
+      "id": 48082968,
+      "title": "Space Cadet Pinball on Linux",
+      "link": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "score": 67,
+      "author": "jandeboevrie",
+      "created": "2026-05-10 11:22:02",
+      "created_at": 1778412122000
     },
     {
-      "id": 48080587,
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "link": "https://github.com/imtomt/ymawky",
-      "score": 272,
-      "author": "imtomt",
-      "created": "2026-05-10 03:01:44",
-      "created_at": 1778382104000
+      "id": 48073201,
+      "title": "I returned to AWS, and was reminded why I left",
+      "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 60,
+      "author": "andrewstuart",
+      "created": "2026-05-09 08:37:41",
+      "created_at": 1778315861000
+    },
+    {
+      "id": 48047930,
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "link": "https://blog.dochia.dev/blog/idempotency/",
+      "score": 130,
+      "author": "ludovicianul",
+      "created": "2026-05-07 11:02:28",
+      "created_at": 1778151748000
     },
     {
       "id": 48073680,
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 544,
+      "score": 610,
       "author": "heldrida",
       "created": "2026-05-09 10:12:55",
       "created_at": 1778321575000
@@ -37,64 +46,46 @@
       "id": 48048684,
       "title": "The One Dollar Counterfeiter",
       "link": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 115,
+      "score": 190,
       "author": "cainxinth",
       "created": "2026-05-07 12:40:35",
       "created_at": 1778157635000
     },
     {
-      "id": 48080702,
-      "title": "Gemini API File Search is now multimodal",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 88,
-      "author": "gmays",
-      "created": "2026-05-10 03:22:02",
-      "created_at": 1778383322000
-    },
-    {
-      "id": 48037223,
-      "title": "We see something that works, and then we understand it",
-      "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 87,
-      "author": "surprisetalk",
-      "created": "2026-05-06 15:15:23",
-      "created_at": 1778080523000
+      "id": 48080587,
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "link": "https://github.com/imtomt/ymawky",
+      "score": 320,
+      "author": "imtomt",
+      "created": "2026-05-10 03:01:44",
+      "created_at": 1778382104000
     },
     {
       "id": 48048407,
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "link": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 125,
+      "score": 180,
       "author": "dr_kiszonka",
       "created": "2026-05-07 12:09:47",
       "created_at": 1778155787000
     },
     {
+      "id": 48037223,
+      "title": "We see something that works, and then we understand it",
+      "link": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+      "score": 131,
+      "author": "surprisetalk",
+      "created": "2026-05-06 15:15:23",
+      "created_at": 1778080523000
+    },
+    {
       "id": 48074265,
       "title": "Internet Archive Switzerland",
       "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 606,
+      "score": 635,
       "author": "hggh",
       "created": "2026-05-09 12:00:30",
       "created_at": 1778328030000
-    },
-    {
-      "id": 48076173,
-      "title": "I’ve banned query strings",
-      "link": "https://chrismorgan.info/no-query-strings",
-      "score": 400,
-      "author": "susam",
-      "created": "2026-05-09 16:28:36",
-      "created_at": 1778344116000
-    },
-    {
-      "id": 48047930,
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "link": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 8,
-      "author": "ludovicianul",
-      "created": "2026-05-07 11:02:28",
-      "created_at": 1778151748000
     }
   ],
   "code": 200,
