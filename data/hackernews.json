@@ -3,59 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-09T20:34:24.638Z"
+    "lastUpdate": "2026-05-10T01:54:15.828Z"
   },
   "data": [
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1393,
+      "score": 1448,
       "author": "anonymousiam",
       "created": "2026-05-08 18:45:58",
       "created_at": 1778265958000
     },
     {
-      "id": 48054423,
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1316,
-      "author": "PriorityLeft",
-      "created": "2026-05-07 20:23:37",
-      "created_at": 1778185417000
-    },
-    {
       "id": 48062117,
       "title": "Poland is now among the 20 largest economies",
       "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 1015,
+      "score": 1022,
       "author": "surprisetalk",
       "created": "2026-05-08 12:30:05",
       "created_at": 1778243405000
     },
     {
-      "id": 48055913,
-      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 911,
-      "author": "stefanpie",
-      "created": "2026-05-07 22:22:21",
-      "created_at": 1778192541000
-    },
-    {
-      "id": 48056227,
-      "title": "Maybe you shouldn't install new software for a bit",
-      "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 838,
-      "author": "psxuaw",
-      "created": "2026-05-07 23:02:11",
-      "created_at": 1778194931000
-    },
-    {
       "id": 48061884,
       "title": "David Attenborough's 100th Birthday",
       "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 822,
+      "score": 848,
       "author": "defrost",
       "created": "2026-05-08 12:03:26",
       "created_at": 1778241806000
@@ -64,37 +37,64 @@
       "id": 48063199,
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
       "link": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 688,
+      "score": 690,
       "author": "ribtoks",
       "created": "2026-05-08 13:56:10",
       "created_at": 1778248570000
     },
     {
-      "id": 48062178,
-      "title": "A web page that shows you everything the browser told it without asking",
-      "link": "https://sinceyouarrived.world/taken",
-      "score": 587,
-      "author": "mwheelz",
-      "created": "2026-05-08 12:37:05",
-      "created_at": 1778243825000
-    },
-    {
       "id": 48071262,
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 550,
+      "score": 603,
       "author": "_alternator_",
       "created": "2026-05-09 02:41:42",
       "created_at": 1778294502000
     },
     {
+      "id": 48062178,
+      "title": "A web page that shows you everything the browser told it without asking",
+      "link": "https://sinceyouarrived.world/taken",
+      "score": 592,
+      "author": "mwheelz",
+      "created": "2026-05-08 12:37:05",
+      "created_at": 1778243825000
+    },
+    {
+      "id": 48074265,
+      "title": "Internet Archive Switzerland",
+      "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 537,
+      "author": "hggh",
+      "created": "2026-05-09 12:00:30",
+      "created_at": 1778328030000
+    },
+    {
       "id": 48061566,
       "title": "An Introduction to Meshtastic",
       "link": "https://meshtastic.org/docs/introduction/",
-      "score": 492,
+      "score": 497,
       "author": "ColinWright",
       "created": "2026-05-08 11:22:11",
       "created_at": 1778239331000
+    },
+    {
+      "id": 48060054,
+      "title": "Ask HN: We just had an actual UUID v4 collision...",
+      "link": "",
+      "score": 426,
+      "author": "mittermayr",
+      "created": "2026-05-08 07:57:14",
+      "created_at": 1778227034000
+    },
+    {
+      "id": 48071940,
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 420,
+      "author": "pretext",
+      "created": "2026-05-09 04:53:52",
+      "created_at": 1778302432000
     }
   ],
   "code": 200,

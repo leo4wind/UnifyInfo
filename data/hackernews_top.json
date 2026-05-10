@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-09T20:34:24.734Z"
+    "lastUpdate": "2026-05-10T01:54:17.133Z"
   },
   "data": [
     {
       "id": 48073680,
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 117,
+      "score": 419,
       "author": "heldrida",
       "created": "2026-05-09 10:12:55",
       "created_at": 1778321575000
@@ -19,82 +19,82 @@
       "id": 48074265,
       "title": "Internet Archive Switzerland",
       "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 435,
+      "score": 537,
       "author": "hggh",
       "created": "2026-05-09 12:00:30",
       "created_at": 1778328030000
     },
     {
+      "id": 48049828,
+      "title": "The Serial TTL connector we deserve",
+      "link": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "score": 45,
+      "author": "kohlschuetter",
+      "created": "2026-05-07 14:19:55",
+      "created_at": 1778163595000
+    },
+    {
+      "id": 48078575,
+      "title": "Rust but Lisp",
+      "link": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 73,
+      "author": "thatxliner",
+      "created": "2026-05-09 21:46:27",
+      "created_at": 1778363187000
+    },
+    {
       "id": 48076173,
       "title": "I’ve banned query strings",
       "link": "https://chrismorgan.info/no-query-strings",
-      "score": 110,
+      "score": 265,
       "author": "susam",
       "created": "2026-05-09 16:28:36",
       "created_at": 1778344116000
     },
     {
-      "id": 48076465,
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 69,
-      "author": "ggallas",
-      "created": "2026-05-09 17:06:46",
-      "created_at": 1778346406000
+      "id": 48077971,
+      "title": "Local privilege escalation via execve()",
+      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "score": 86,
+      "author": "Deeg9rie9usi",
+      "created": "2026-05-09 20:31:21",
+      "created_at": 1778358681000
+    },
+    {
+      "id": 48076815,
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "link": "https://github.com/nooga/let-go",
+      "score": 89,
+      "author": "marcingas",
+      "created": "2026-05-09 17:52:13",
+      "created_at": 1778349133000
     },
     {
       "id": 48076651,
       "title": "Zed Editor Theme-Builder",
       "link": "https://zed.dev/theme-builder",
-      "score": 71,
+      "score": 157,
       "author": "cuechan",
       "created": "2026-05-09 17:30:39",
       "created_at": 1778347839000
     },
     {
-      "id": 48042427,
-      "title": "Show HN: I wrote a flight simulator in my own programming language",
-      "link": "https://github.com/navid-m/flightsim",
-      "score": 61,
-      "author": "pizza_man",
-      "created": "2026-05-06 21:58:05",
-      "created_at": 1778104685000
+      "id": 48048902,
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "link": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+      "score": 49,
+      "author": "ibobev",
+      "created": "2026-05-07 13:01:21",
+      "created_at": 1778158881000
     },
     {
-      "id": 48067786,
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "link": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "score": 18,
-      "author": "abstrus",
-      "created": "2026-05-08 19:45:21",
-      "created_at": 1778269521000
-    },
-    {
-      "id": 48075366,
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 98,
-      "author": "LorenDB",
-      "created": "2026-05-09 14:40:58",
-      "created_at": 1778337658000
-    },
-    {
-      "id": 48073246,
-      "title": "LLMs corrupt your documents when you delegate",
-      "link": "https://arxiv.org/abs/2604.15597",
-      "score": 285,
-      "author": "rbanffy",
-      "created": "2026-05-09 08:44:34",
-      "created_at": 1778316274000
-    },
-    {
-      "id": 48067119,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1393,
-      "author": "anonymousiam",
-      "created": "2026-05-08 18:45:58",
-      "created_at": 1778265958000
+      "id": 48038573,
+      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "link": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
+      "score": 17,
+      "author": "rsecora",
+      "created": "2026-05-06 17:00:03",
+      "created_at": 1778086803000
     }
   ],
   "code": 200,
