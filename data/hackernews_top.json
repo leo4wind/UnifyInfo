@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-11T02:04:12.272Z"
+    "lastUpdate": "2026-05-11T06:57:23.234Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 906,
+      "score": 1301,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
     },
     {
-      "id": 48090029,
-      "title": "I'm going back to writing code by hand",
-      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 40,
-      "author": "dropbox_miner",
-      "created": "2026-05-11 01:23:51",
-      "created_at": 1778462631000
-    },
-    {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 595,
+      "score": 928,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
+      "id": 48090521,
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 113,
+      "author": "susam",
+      "created": "2026-05-11 02:43:34",
+      "created_at": 1778467414000
+    },
+    {
+      "id": 48091085,
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "link": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "score": 28,
+      "author": "azhenley",
+      "created": "2026-05-11 04:34:40",
+      "created_at": 1778474080000
+    },
+    {
+      "id": 48090029,
+      "title": "I'm going back to writing code by hand",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 244,
+      "author": "dropbox_miner",
+      "created": "2026-05-11 01:23:51",
+      "created_at": 1778462631000
+    },
+    {
       "id": 48089091,
       "title": "Running local models on an M4 with 24GB memory",
       "link": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 86,
+      "score": 246,
       "author": "shintoist",
       "created": "2026-05-10 23:09:10",
       "created_at": 1778454550000
     },
     {
-      "id": 48086082,
-      "title": "Incident Report: CVE-2024-YIKES",
-      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 395,
-      "author": "miniBill",
-      "created": "2026-05-10 17:43:10",
-      "created_at": 1778434990000
-    },
-    {
       "id": 48088576,
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 83,
+      "score": 167,
       "author": "cmbailey",
       "created": "2026-05-10 22:02:43",
       "created_at": 1778450563000
     },
     {
-      "id": 48067698,
-      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
-      "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-      "score": 56,
-      "author": "nxobject",
-      "created": "2026-05-08 19:36:45",
-      "created_at": 1778269005000
+      "id": 48089289,
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "score": 117,
+      "author": "cratermoon",
+      "created": "2026-05-10 23:39:55",
+      "created_at": 1778456395000
     },
     {
-      "id": 48085993,
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "link": "",
-      "score": 133,
-      "author": "david927",
-      "created": "2026-05-10 17:34:41",
-      "created_at": 1778434481000
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 483,
+      "author": "miniBill",
+      "created": "2026-05-10 17:43:10",
+      "created_at": 1778434990000
     },
     {
-      "id": 48050666,
-      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-      "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-      "score": 45,
-      "author": "robin_reala",
-      "created": "2026-05-07 15:34:04",
-      "created_at": 1778168044000
-    },
-    {
-      "id": 48067402,
-      "title": "I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
-      "link": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
+      "id": 48090276,
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "link": "https://github.com/adamjgmiller/adamsreview",
       "score": 19,
-      "author": "brendo_y",
-      "created": "2026-05-08 19:11:34",
-      "created_at": 1778267494000
+      "author": "adamthegoalie",
+      "created": "2026-05-11 02:06:29",
+      "created_at": 1778465189000
     }
   ],
   "code": 200,

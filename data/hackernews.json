@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-11T02:04:12.190Z"
+    "lastUpdate": "2026-05-11T06:57:23.123Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 906,
+      "score": 1301,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
     },
     {
-      "id": 48073680,
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 688,
-      "author": "heldrida",
-      "created": "2026-05-09 10:12:55",
-      "created_at": 1778321575000
-    },
-    {
-      "id": 48071262,
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 685,
-      "author": "_alternator_",
-      "created": "2026-05-09 02:41:42",
-      "created_at": 1778294502000
-    },
-    {
-      "id": 48074265,
-      "title": "Internet Archive Switzerland",
-      "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 682,
-      "author": "hggh",
-      "created": "2026-05-09 12:00:30",
-      "created_at": 1778328030000
-    },
-    {
-      "id": 48073201,
-      "title": "I returned to AWS and was reminded why I left",
-      "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 661,
-      "author": "andrewstuart",
-      "created": "2026-05-09 08:37:41",
-      "created_at": 1778315861000
-    },
-    {
-      "id": 48072190,
-      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-      "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 624,
-      "author": "muse900",
-      "created": "2026-05-09 05:52:12",
-      "created_at": 1778305932000
-    },
-    {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 595,
+      "score": 928,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
+      "id": 48073201,
+      "title": "I returned to AWS and was reminded why I left",
+      "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 724,
+      "author": "andrewstuart",
+      "created": "2026-05-09 08:37:41",
+      "created_at": 1778315861000
+    },
+    {
+      "id": 48073680,
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 691,
+      "author": "heldrida",
+      "created": "2026-05-09 10:12:55",
+      "created_at": 1778321575000
+    },
+    {
+      "id": 48074265,
+      "title": "Internet Archive Switzerland",
+      "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 684,
+      "author": "hggh",
+      "created": "2026-05-09 12:00:30",
+      "created_at": 1778328030000
+    },
+    {
       "id": 48076173,
       "title": "I’ve banned query strings",
       "link": "https://chrismorgan.info/no-query-strings",
-      "score": 545,
+      "score": 550,
       "author": "susam",
       "created": "2026-05-09 16:28:36",
       "created_at": 1778344116000
     },
     {
-      "id": 48071940,
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 506,
-      "author": "pretext",
-      "created": "2026-05-09 04:53:52",
-      "created_at": 1778302432000
-    },
-    {
       "id": 48084432,
       "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 477,
+      "score": 528,
       "author": "iancmceachern",
       "created": "2026-05-10 14:47:05",
       "created_at": 1778424425000
+    },
+    {
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 483,
+      "author": "miniBill",
+      "created": "2026-05-10 17:43:10",
+      "created_at": 1778434990000
+    },
+    {
+      "id": 48073246,
+      "title": "LLMs corrupt your documents when you delegate",
+      "link": "https://arxiv.org/abs/2604.15597",
+      "score": 466,
+      "author": "rbanffy",
+      "created": "2026-05-09 08:44:34",
+      "created_at": 1778316274000
+    },
+    {
+      "id": 48077126,
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "score": 440,
+      "author": "JumpCrisscross",
+      "created": "2026-05-09 18:33:36",
+      "created_at": 1778351616000
     }
   ],
   "code": 200,
