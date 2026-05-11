@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-11T10:52:08.564Z"
+    "lastUpdate": "2026-05-11T14:25:11.513Z"
   },
   "data": [
+    {
+      "id": 48093100,
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "link": "https://ratty-term.org/",
+      "score": 277,
+      "author": "orhunp_",
+      "created": "2026-05-11 10:13:04",
+      "created_at": 1778494384000
+    },
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1612,
+      "score": 1839,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
     },
     {
+      "id": 48067184,
+      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+      "link": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+      "score": 143,
+      "author": "bryan0",
+      "created": "2026-05-08 18:51:35",
+      "created_at": 1778266295000
+    },
+    {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1195,
+      "score": 1460,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
+      "id": 48070571,
+      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+      "link": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+      "score": 62,
+      "author": "littlexsparkee",
+      "created": "2026-05-09 00:42:22",
+      "created_at": 1778287342000
+    },
+    {
       "id": 48090029,
       "title": "I'm going back to writing code by hand",
       "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 398,
+      "score": 623,
       "author": "dropbox_miner",
       "created": "2026-05-11 01:23:51",
       "created_at": 1778462631000
     },
     {
-      "id": 48090521,
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 188,
-      "author": "susam",
-      "created": "2026-05-11 02:43:34",
-      "created_at": 1778467414000
+      "id": 48092028,
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 119,
+      "author": "negura",
+      "created": "2026-05-11 07:26:54",
+      "created_at": 1778484414000
     },
     {
       "id": 48089091,
       "title": "Running local models on an M4 with 24GB memory",
       "link": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 329,
+      "score": 431,
       "author": "shintoist",
       "created": "2026-05-10 23:09:10",
       "created_at": 1778454550000
     },
     {
-      "id": 48088576,
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 224,
-      "author": "cmbailey",
-      "created": "2026-05-10 22:02:43",
-      "created_at": 1778450563000
+      "id": 48090521,
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 250,
+      "author": "susam",
+      "created": "2026-05-11 02:43:34",
+      "created_at": 1778467414000
     },
     {
       "id": 48058260,
       "title": "Guitar tuner that uses phone accelerometer",
       "link": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 24,
+      "score": 84,
       "author": "adm4",
       "created": "2026-05-08 03:43:08",
       "created_at": 1778211788000
-    },
-    {
-      "id": 48089289,
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 177,
-      "author": "cratermoon",
-      "created": "2026-05-10 23:39:55",
-      "created_at": 1778456395000
-    },
-    {
-      "id": 48086082,
-      "title": "Incident Report: CVE-2024-YIKES",
-      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 548,
-      "author": "miniBill",
-      "created": "2026-05-10 17:43:10",
-      "created_at": 1778434990000
-    },
-    {
-      "id": 48091737,
-      "title": "Mythos Finds a Curl Vulnerability",
-      "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "score": 180,
-      "author": "TangerineDream",
-      "created": "2026-05-11 06:39:08",
-      "created_at": 1778481548000
     }
   ],
   "code": 200,

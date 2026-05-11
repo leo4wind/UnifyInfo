@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-11T10:52:08.212Z"
+    "lastUpdate": "2026-05-11T14:25:11.236Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1612,
+      "score": 1839,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
@@ -19,43 +19,25 @@
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1195,
+      "score": 1460,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
-      "id": 48073680,
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 698,
-      "author": "heldrida",
-      "created": "2026-05-09 10:12:55",
-      "created_at": 1778321575000
-    },
-    {
-      "id": 48074265,
-      "title": "Internet Archive Switzerland",
-      "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 685,
-      "author": "hggh",
-      "created": "2026-05-09 12:00:30",
-      "created_at": 1778328030000
-    },
-    {
-      "id": 48076173,
-      "title": "I’ve banned query strings",
-      "link": "https://chrismorgan.info/no-query-strings",
-      "score": 554,
-      "author": "susam",
-      "created": "2026-05-09 16:28:36",
-      "created_at": 1778344116000
+      "id": 48090029,
+      "title": "I'm going back to writing code by hand",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 623,
+      "author": "dropbox_miner",
+      "created": "2026-05-11 01:23:51",
+      "created_at": 1778462631000
     },
     {
       "id": 48086082,
       "title": "Incident Report: CVE-2024-YIKES",
       "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 548,
+      "score": 621,
       "author": "miniBill",
       "created": "2026-05-10 17:43:10",
       "created_at": 1778434990000
@@ -64,25 +46,43 @@
       "id": 48084432,
       "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 546,
+      "score": 567,
       "author": "iancmceachern",
       "created": "2026-05-10 14:47:05",
       "created_at": 1778424425000
     },
     {
+      "id": 48076173,
+      "title": "I’ve banned query strings",
+      "link": "https://chrismorgan.info/no-query-strings",
+      "score": 559,
+      "author": "susam",
+      "created": "2026-05-09 16:28:36",
+      "created_at": 1778344116000
+    },
+    {
       "id": 48077126,
       "title": "Meta's embrace of AI is making its employees miserable",
       "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "score": 447,
+      "score": 452,
       "author": "JumpCrisscross",
       "created": "2026-05-09 18:33:36",
       "created_at": 1778351616000
     },
     {
+      "id": 48089091,
+      "title": "Running local models on an M4 with 24GB memory",
+      "link": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 431,
+      "author": "shintoist",
+      "created": "2026-05-10 23:09:10",
+      "created_at": 1778454550000
+    },
+    {
       "id": 48074952,
       "title": "The hypocrisy of cyberlibertarianism",
       "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 411,
+      "score": 413,
       "author": "ColinWright",
       "created": "2026-05-09 13:48:32",
       "created_at": 1778334512000
@@ -91,7 +91,7 @@
       "id": 48080587,
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "link": "https://github.com/imtomt/ymawky",
-      "score": 400,
+      "score": 407,
       "author": "imtomt",
       "created": "2026-05-10 03:01:44",
       "created_at": 1778382104000
