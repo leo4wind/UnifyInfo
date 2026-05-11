@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-10T20:37:09.420Z"
+    "lastUpdate": "2026-05-11T02:04:12.272Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 431,
+      "score": 906,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
     },
     {
-      "id": 48086082,
-      "title": "Incident Report: CVE-2024-YIKES",
-      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 199,
-      "author": "miniBill",
-      "created": "2026-05-10 17:43:10",
-      "created_at": 1778434990000
+      "id": 48090029,
+      "title": "I'm going back to writing code by hand",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 40,
+      "author": "dropbox_miner",
+      "created": "2026-05-11 01:23:51",
+      "created_at": 1778462631000
     },
     {
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 98,
+      "score": 595,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
-      "id": 48085782,
-      "title": "Traces Of Humanity",
-      "link": "https://tracesofhumanity.org/hello-world/",
+      "id": 48089091,
+      "title": "Running local models on an M4 with 24GB memory",
+      "link": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 86,
+      "author": "shintoist",
+      "created": "2026-05-10 23:09:10",
+      "created_at": 1778454550000
+    },
+    {
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 395,
+      "author": "miniBill",
+      "created": "2026-05-10 17:43:10",
+      "created_at": 1778434990000
+    },
+    {
+      "id": 48088576,
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
       "score": 83,
-      "author": "alex77456",
-      "created": "2026-05-10 17:15:10",
-      "created_at": 1778433310000
+      "author": "cmbailey",
+      "created": "2026-05-10 22:02:43",
+      "created_at": 1778450563000
+    },
+    {
+      "id": 48067698,
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+      "score": 56,
+      "author": "nxobject",
+      "created": "2026-05-08 19:36:45",
+      "created_at": 1778269005000
     },
     {
       "id": 48085993,
       "title": "Ask HN: What are you working on? (May 2026)",
       "link": "",
-      "score": 46,
+      "score": 133,
       "author": "david927",
       "created": "2026-05-10 17:34:41",
       "created_at": 1778434481000
     },
     {
-      "id": 48073201,
-      "title": "I returned to AWS and was reminded why I left",
-      "link": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 543,
-      "author": "andrewstuart",
-      "created": "2026-05-09 08:37:41",
-      "created_at": 1778315861000
+      "id": 48050666,
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "link": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+      "score": 45,
+      "author": "robin_reala",
+      "created": "2026-05-07 15:34:04",
+      "created_at": 1778168044000
     },
     {
-      "id": 48064789,
-      "title": "Lakebase architecture delivers faster Postgres writes",
-      "link": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-      "score": 68,
-      "author": "sp_from_db",
-      "created": "2026-05-08 15:46:12",
-      "created_at": 1778255172000
-    },
-    {
-      "id": 48061602,
-      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "link": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
-      "score": 30,
-      "author": "JoachimSchipper",
-      "created": "2026-05-08 11:26:38",
-      "created_at": 1778239598000
-    },
-    {
-      "id": 48085314,
-      "title": "YC's Biggest Scandals",
-      "link": "https://ycombinator.fyi/",
-      "score": 82,
-      "author": "laserduck",
-      "created": "2026-05-10 16:30:34",
-      "created_at": 1778430634000
-    },
-    {
-      "id": 48084432,
-      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-      "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 334,
-      "author": "iancmceachern",
-      "created": "2026-05-10 14:47:05",
-      "created_at": 1778424425000
+      "id": 48067402,
+      "title": "I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
+      "link": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
+      "score": 19,
+      "author": "brendo_y",
+      "created": "2026-05-08 19:11:34",
+      "created_at": 1778267494000
     }
   ],
   "code": 200,
