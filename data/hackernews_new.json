@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-11T06:57:23.262Z"
+    "lastUpdate": "2026-05-11T10:52:08.564Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1301,
+      "score": 1612,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
@@ -19,43 +19,34 @@
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 928,
+      "score": 1195,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
-      "id": 48090521,
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 113,
-      "author": "susam",
-      "created": "2026-05-11 02:43:34",
-      "created_at": 1778467414000
-    },
-    {
-      "id": 48091085,
-      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "link": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "score": 28,
-      "author": "azhenley",
-      "created": "2026-05-11 04:34:40",
-      "created_at": 1778474080000
-    },
-    {
       "id": 48090029,
       "title": "I'm going back to writing code by hand",
       "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 244,
+      "score": 398,
       "author": "dropbox_miner",
       "created": "2026-05-11 01:23:51",
       "created_at": 1778462631000
     },
     {
+      "id": 48090521,
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 188,
+      "author": "susam",
+      "created": "2026-05-11 02:43:34",
+      "created_at": 1778467414000
+    },
+    {
       "id": 48089091,
       "title": "Running local models on an M4 with 24GB memory",
       "link": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 246,
+      "score": 329,
       "author": "shintoist",
       "created": "2026-05-10 23:09:10",
       "created_at": 1778454550000
@@ -64,16 +55,25 @@
       "id": 48088576,
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "link": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 167,
+      "score": 224,
       "author": "cmbailey",
       "created": "2026-05-10 22:02:43",
       "created_at": 1778450563000
     },
     {
+      "id": 48058260,
+      "title": "Guitar tuner that uses phone accelerometer",
+      "link": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "score": 24,
+      "author": "adm4",
+      "created": "2026-05-08 03:43:08",
+      "created_at": 1778211788000
+    },
+    {
       "id": 48089289,
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 117,
+      "score": 177,
       "author": "cratermoon",
       "created": "2026-05-10 23:39:55",
       "created_at": 1778456395000
@@ -82,21 +82,21 @@
       "id": 48086082,
       "title": "Incident Report: CVE-2024-YIKES",
       "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 483,
+      "score": 548,
       "author": "miniBill",
       "created": "2026-05-10 17:43:10",
       "created_at": 1778434990000
     },
     {
-      "id": 48090276,
-      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "link": "https://github.com/adamjgmiller/adamsreview",
-      "score": 19,
-      "author": "adamthegoalie",
-      "created": "2026-05-11 02:06:29",
-      "created_at": 1778465189000
+      "id": 48091737,
+      "title": "Mythos Finds a Curl Vulnerability",
+      "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "score": 180,
+      "author": "TangerineDream",
+      "created": "2026-05-11 06:39:08",
+      "created_at": 1778481548000
     }
   ],
   "code": 200,
-  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，届时公共 API 服务（60s.viki.moe）可能出现中断。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
+  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，公共 API 服务后续迁移到其他平台后，额度、兼容性等方面可能会受影响。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }
