@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-11T17:48:27.583Z"
+    "lastUpdate": "2026-05-11T21:09:44.499Z"
   },
   "data": [
     {
-      "id": 48096692,
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "link": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 117,
-      "author": "adamnemecek",
-      "created": "2026-05-11 15:55:07",
-      "created_at": 1778514907000
+      "id": 48099616,
+      "title": "Library for fast mapping of Java records to native memory",
+      "link": "https://github.com/mamba-studio/TypedMemory",
+      "score": 48,
+      "author": "joe_mwangi",
+      "created": "2026-05-11 19:33:31",
+      "created_at": 1778528011000
     },
     {
       "id": 48060077,
-      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "title": "Nullsoft, 1997-2004 (2004)",
       "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 66,
+      "score": 170,
       "author": "downbad_",
       "created": "2026-05-08 08:00:44",
       "created_at": 1778227244000
     },
     {
+      "id": 48098261,
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 55,
+      "author": "bookofjoe",
+      "created": "2026-05-11 17:53:08",
+      "created_at": 1778521988000
+    },
+    {
       "id": 48093100,
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "link": "https://ratty-term.org/",
-      "score": 478,
+      "score": 565,
       "author": "orhunp_",
       "created": "2026-05-11 10:13:04",
       "created_at": 1778494384000
     },
     {
-      "id": 48085685,
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 135,
-      "author": "zdw",
-      "created": "2026-05-10 17:05:05",
-      "created_at": 1778432705000
-    },
-    {
-      "id": 48096842,
-      "title": "Show HN: TikTok but for Scientific Papers",
-      "link": "https://andreaturchet.github.io/website/index.html",
-      "score": 22,
-      "author": "ciwrl",
-      "created": "2026-05-11 16:05:50",
-      "created_at": 1778515550000
-    },
-    {
       "id": 48092028,
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 330,
+      "score": 482,
       "author": "negura",
       "created": "2026-05-11 07:26:54",
       "created_at": 1778484414000
     },
     {
-      "id": 48065429,
-      "title": "AMÁLIA and the future of European Portuguese LLMs",
-      "link": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 59,
-      "author": "johnbarron",
-      "created": "2026-05-08 16:34:45",
-      "created_at": 1778258085000
+      "id": 48073121,
+      "title": "Counting Fast in Erlang with:counters and:atomics",
+      "link": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+      "score": 46,
+      "author": "malmz",
+      "created": "2026-05-09 08:26:57",
+      "created_at": 1778315217000
     },
     {
       "id": 48097078,
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 14,
+      "score": 74,
       "author": "yoeven",
       "created": "2026-05-11 16:22:31",
       "created_at": 1778516551000
     },
     {
-      "id": 48070571,
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "link": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "score": 115,
-      "author": "littlexsparkee",
-      "created": "2026-05-09 00:42:22",
-      "created_at": 1778287342000
+      "id": 48098537,
+      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+      "score": 140,
+      "author": "speckx",
+      "created": "2026-05-11 18:12:38",
+      "created_at": 1778523158000
+    },
+    {
+      "id": 48085685,
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "score": 188,
+      "author": "zdw",
+      "created": "2026-05-10 17:05:05",
+      "created_at": 1778432705000
+    },
+    {
+      "id": 48096692,
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "link": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "score": 312,
+      "author": "adamnemecek",
+      "created": "2026-05-11 15:55:07",
+      "created_at": 1778514907000
     }
   ],
   "code": 200,
