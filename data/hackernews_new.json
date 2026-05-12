@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-12T02:00:23.651Z"
+    "lastUpdate": "2026-05-12T06:30:56.301Z"
   },
   "data": [
     {
       "id": 48100706,
-      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
       "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 533,
+      "score": 728,
       "author": "varunsharma07",
       "created": "2026-05-11 21:08:25",
       "created_at": 1778533705000
     },
     {
+      "id": 48102700,
+      "title": "They Live (1988) inspired Adblocker",
+      "link": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 129,
+      "author": "tokenburner",
+      "created": "2026-05-12 00:37:54",
+      "created_at": 1778546274000
+    },
+    {
       "id": 48100433,
       "title": "If AI writes your code, why use Python?",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 156,
+      "score": 366,
       "author": "indigodaddy",
       "created": "2026-05-11 20:45:55",
       "created_at": 1778532355000
     },
     {
+      "id": 48103042,
+      "title": "Claude Platform on AWS",
+      "link": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 108,
+      "author": "matrixhelix",
+      "created": "2026-05-12 01:24:29",
+      "created_at": 1778549069000
+    },
+    {
       "id": 48098261,
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 237,
+      "score": 299,
       "author": "bookofjoe",
       "created": "2026-05-11 17:53:08",
       "created_at": 1778521988000
     },
     {
-      "id": 48099616,
-      "title": "Library for fast mapping of Java records to native memory",
-      "link": "https://github.com/mamba-studio/TypedMemory",
-      "score": 108,
-      "author": "joe_mwangi",
-      "created": "2026-05-11 19:33:31",
-      "created_at": 1778528011000
+      "id": 48103511,
+      "title": "Software Internals Book Club",
+      "link": "https://eatonphil.com/bookclub.html",
+      "score": 56,
+      "author": "aragonite",
+      "created": "2026-05-12 02:28:11",
+      "created_at": 1778552891000
+    },
+    {
+      "id": 48094641,
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 157,
+      "author": "donohoe",
+      "created": "2026-05-11 13:20:14",
+      "created_at": 1778505614000
+    },
+    {
+      "id": 48074589,
+      "title": "Boriel BASIC",
+      "link": "https://zxbasic.readthedocs.io/en/docs/",
+      "score": 16,
+      "author": "AlexeyBrin",
+      "created": "2026-05-09 12:49:52",
+      "created_at": 1778330992000
     },
     {
       "id": 48100662,
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
       "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 72,
+      "score": 134,
       "author": "showmypost",
       "created": "2026-05-11 21:04:10",
       "created_at": 1778533450000
     },
     {
-      "id": 48100500,
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "link": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 323,
-      "author": "AnonGitLabEmpl",
-      "created": "2026-05-11 20:51:57",
-      "created_at": 1778532717000
-    },
-    {
-      "id": 48093100,
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "link": "https://ratty-term.org/",
-      "score": 611,
-      "author": "orhunp_",
-      "created": "2026-05-11 10:13:04",
-      "created_at": 1778494384000
-    },
-    {
-      "id": 48060077,
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 224,
-      "author": "downbad_",
-      "created": "2026-05-08 08:00:44",
-      "created_at": 1778227244000
-    },
-    {
-      "id": 48100970,
-      "title": "Griffin PowerMate driver for modern macOS",
-      "link": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "score": 39,
-      "author": "classichasclass",
-      "created": "2026-05-11 21:35:38",
-      "created_at": 1778535338000
-    },
-    {
-      "id": 48092028,
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 562,
-      "author": "negura",
-      "created": "2026-05-11 07:26:54",
-      "created_at": 1778484414000
+      "id": 48074668,
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "link": "https://github.com/tsirysndr/rockbox-zig",
+      "score": 60,
+      "author": "tsiry",
+      "created": "2026-05-09 13:03:33",
+      "created_at": 1778331813000
     }
   ],
   "code": 200,
