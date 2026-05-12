@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-11T21:09:44.499Z"
+    "lastUpdate": "2026-05-12T02:00:23.651Z"
   },
   "data": [
     {
-      "id": 48099616,
-      "title": "Library for fast mapping of Java records to native memory",
-      "link": "https://github.com/mamba-studio/TypedMemory",
-      "score": 48,
-      "author": "joe_mwangi",
-      "created": "2026-05-11 19:33:31",
-      "created_at": 1778528011000
+      "id": 48100706,
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 533,
+      "author": "varunsharma07",
+      "created": "2026-05-11 21:08:25",
+      "created_at": 1778533705000
     },
     {
-      "id": 48060077,
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 170,
-      "author": "downbad_",
-      "created": "2026-05-08 08:00:44",
-      "created_at": 1778227244000
+      "id": 48100433,
+      "title": "If AI writes your code, why use Python?",
+      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 156,
+      "author": "indigodaddy",
+      "created": "2026-05-11 20:45:55",
+      "created_at": 1778532355000
     },
     {
       "id": 48098261,
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 55,
+      "score": 237,
       "author": "bookofjoe",
       "created": "2026-05-11 17:53:08",
       "created_at": 1778521988000
     },
     {
+      "id": 48099616,
+      "title": "Library for fast mapping of Java records to native memory",
+      "link": "https://github.com/mamba-studio/TypedMemory",
+      "score": 108,
+      "author": "joe_mwangi",
+      "created": "2026-05-11 19:33:31",
+      "created_at": 1778528011000
+    },
+    {
+      "id": 48100662,
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 72,
+      "author": "showmypost",
+      "created": "2026-05-11 21:04:10",
+      "created_at": 1778533450000
+    },
+    {
+      "id": 48100500,
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 323,
+      "author": "AnonGitLabEmpl",
+      "created": "2026-05-11 20:51:57",
+      "created_at": 1778532717000
+    },
+    {
       "id": 48093100,
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "link": "https://ratty-term.org/",
-      "score": 565,
+      "score": 611,
       "author": "orhunp_",
       "created": "2026-05-11 10:13:04",
       "created_at": 1778494384000
     },
     {
+      "id": 48060077,
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 224,
+      "author": "downbad_",
+      "created": "2026-05-08 08:00:44",
+      "created_at": 1778227244000
+    },
+    {
+      "id": 48100970,
+      "title": "Griffin PowerMate driver for modern macOS",
+      "link": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "score": 39,
+      "author": "classichasclass",
+      "created": "2026-05-11 21:35:38",
+      "created_at": 1778535338000
+    },
+    {
       "id": 48092028,
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 482,
+      "score": 562,
       "author": "negura",
       "created": "2026-05-11 07:26:54",
       "created_at": 1778484414000
-    },
-    {
-      "id": 48073121,
-      "title": "Counting Fast in Erlang with:counters and:atomics",
-      "link": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 46,
-      "author": "malmz",
-      "created": "2026-05-09 08:26:57",
-      "created_at": 1778315217000
-    },
-    {
-      "id": 48097078,
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 74,
-      "author": "yoeven",
-      "created": "2026-05-11 16:22:31",
-      "created_at": 1778516551000
-    },
-    {
-      "id": 48098537,
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 140,
-      "author": "speckx",
-      "created": "2026-05-11 18:12:38",
-      "created_at": 1778523158000
-    },
-    {
-      "id": 48085685,
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 188,
-      "author": "zdw",
-      "created": "2026-05-10 17:05:05",
-      "created_at": 1778432705000
-    },
-    {
-      "id": 48096692,
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "link": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 312,
-      "author": "adamnemecek",
-      "created": "2026-05-11 15:55:07",
-      "created_at": 1778514907000
     }
   ],
   "code": 200,
