@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-12T06:30:56.301Z"
+    "lastUpdate": "2026-05-12T10:23:06.793Z"
   },
   "data": [
+    {
+      "id": 48106024,
+      "title": "Learning Software Architecture",
+      "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 40,
+      "author": "surprisetalk",
+      "created": "2026-05-12 09:30:21",
+      "created_at": 1778578221000
+    },
     {
       "id": 48100706,
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 728,
+      "score": 862,
       "author": "varunsharma07",
       "created": "2026-05-11 21:08:25",
       "created_at": 1778533705000
     },
     {
+      "id": 48104428,
+      "title": "Screenshots of Old Desktop OSes",
+      "link": "http://www.typewritten.org/Media/",
+      "score": 193,
+      "author": "adunk",
+      "created": "2026-05-12 05:11:24",
+      "created_at": 1778562684000
+    },
+    {
       "id": 48102700,
       "title": "They Live (1988) inspired Adblocker",
       "link": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 129,
+      "score": 245,
       "author": "tokenburner",
       "created": "2026-05-12 00:37:54",
       "created_at": 1778546274000
@@ -28,73 +46,55 @@
       "id": 48100433,
       "title": "If AI writes your code, why use Python?",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 366,
+      "score": 512,
       "author": "indigodaddy",
       "created": "2026-05-11 20:45:55",
       "created_at": 1778532355000
     },
     {
-      "id": 48103042,
-      "title": "Claude Platform on AWS",
-      "link": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 108,
-      "author": "matrixhelix",
-      "created": "2026-05-12 01:24:29",
-      "created_at": 1778549069000
+      "id": 48075131,
+      "title": "Rtwatch: Watch videos with friends using WebRTC",
+      "link": "https://github.com/pion/rtwatch",
+      "score": 29,
+      "author": "nateb2022",
+      "created": "2026-05-09 14:09:14",
+      "created_at": 1778335754000
+    },
+    {
+      "id": 48105297,
+      "title": "Toxicity on Social Media – The Noisy Room",
+      "link": "https://thenoisyroom.com",
+      "score": 19,
+      "author": "skm",
+      "created": "2026-05-12 07:31:38",
+      "created_at": 1778571098000
     },
     {
       "id": 48098261,
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 299,
+      "score": 347,
       "author": "bookofjoe",
       "created": "2026-05-11 17:53:08",
       "created_at": 1778521988000
     },
     {
-      "id": 48103511,
-      "title": "Software Internals Book Club",
-      "link": "https://eatonphil.com/bookclub.html",
-      "score": 56,
-      "author": "aragonite",
-      "created": "2026-05-12 02:28:11",
-      "created_at": 1778552891000
+      "id": 48103042,
+      "title": "Claude Platform on AWS",
+      "link": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 144,
+      "author": "matrixhelix",
+      "created": "2026-05-12 01:24:29",
+      "created_at": 1778549069000
     },
     {
-      "id": 48094641,
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "score": 157,
-      "author": "donohoe",
-      "created": "2026-05-11 13:20:14",
-      "created_at": 1778505614000
-    },
-    {
-      "id": 48074589,
-      "title": "Boriel BASIC",
-      "link": "https://zxbasic.readthedocs.io/en/docs/",
-      "score": 16,
-      "author": "AlexeyBrin",
-      "created": "2026-05-09 12:49:52",
-      "created_at": 1778330992000
-    },
-    {
-      "id": 48100662,
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 134,
-      "author": "showmypost",
-      "created": "2026-05-11 21:04:10",
-      "created_at": 1778533450000
-    },
-    {
-      "id": 48074668,
-      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "link": "https://github.com/tsirysndr/rockbox-zig",
-      "score": 60,
-      "author": "tsiry",
-      "created": "2026-05-09 13:03:33",
-      "created_at": 1778331813000
+      "id": 48104041,
+      "title": "Extremely Low Frequencies",
+      "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "score": 80,
+      "author": "pinewurst",
+      "created": "2026-05-12 03:59:35",
+      "created_at": 1778558375000
     }
   ],
   "code": 200,
