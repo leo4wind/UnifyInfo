@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-12T17:52:20.815Z"
+    "lastUpdate": "2026-05-12T21:09:26.531Z"
   },
   "data": [
-    {
-      "id": 48086190,
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2140,
-      "author": "ChuckMcM",
-      "created": "2026-05-10 17:54:02",
-      "created_at": 1778435642000
-    },
-    {
-      "id": 48085821,
-      "title": "Local AI needs to be the norm",
-      "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1832,
-      "author": "cylo",
-      "created": "2026-05-10 17:19:28",
-      "created_at": 1778433568000
-    },
     {
       "id": 48100706,
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1015,
+      "score": 1047,
       "author": "varunsharma07",
       "created": "2026-05-11 21:08:25",
       "created_at": 1778533705000
@@ -37,64 +19,82 @@
       "id": 48090029,
       "title": "I'm going back to writing code by hand",
       "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 976,
+      "score": 985,
       "author": "dropbox_miner",
       "created": "2026-05-11 01:23:51",
       "created_at": 1778462631000
     },
     {
+      "id": 48109224,
+      "title": "Bambu Lab is abusing the open source social contract",
+      "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 917,
+      "author": "rubenbe",
+      "created": "2026-05-12 14:54:41",
+      "created_at": 1778597681000
+    },
+    {
       "id": 48100433,
       "title": "If AI writes your code, why use Python?",
       "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 788,
+      "score": 834,
       "author": "indigodaddy",
       "created": "2026-05-11 20:45:55",
       "created_at": 1778532355000
     },
     {
-      "id": 48086082,
-      "title": "Incident Report: CVE-2024-YIKES",
-      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 700,
-      "author": "miniBill",
-      "created": "2026-05-10 17:43:10",
-      "created_at": 1778434990000
-    },
-    {
       "id": 48091737,
       "title": "Mythos Finds a Curl Vulnerability",
       "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "score": 671,
+      "score": 674,
       "author": "TangerineDream",
       "created": "2026-05-11 06:39:08",
       "created_at": 1778481548000
     },
     {
-      "id": 48093100,
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "link": "https://ratty-term.org/",
-      "score": 653,
-      "author": "orhunp_",
-      "created": "2026-05-11 10:13:04",
-      "created_at": 1778494384000
-    },
-    {
       "id": 48100500,
       "title": "GitLab announces workforce reduction and end of their CREDIT values",
       "link": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 647,
+      "score": 658,
       "author": "AnonGitLabEmpl",
       "created": "2026-05-11 20:51:57",
       "created_at": 1778532717000
     },
     {
-      "id": 48109224,
-      "title": "Bambu Lab is abusing the open source social contract",
-      "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 630,
-      "author": "rubenbe",
-      "created": "2026-05-12 14:54:41",
-      "created_at": 1778597681000
+      "id": 48093100,
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "link": "https://ratty-term.org/",
+      "score": 656,
+      "author": "orhunp_",
+      "created": "2026-05-11 10:13:04",
+      "created_at": 1778494384000
+    },
+    {
+      "id": 48092028,
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 613,
+      "author": "negura",
+      "created": "2026-05-11 07:26:54",
+      "created_at": 1778484414000
+    },
+    {
+      "id": 48104428,
+      "title": "Screenshots of Old Desktop OSes",
+      "link": "http://www.typewritten.org/Media/",
+      "score": 609,
+      "author": "adunk",
+      "created": "2026-05-12 05:11:24",
+      "created_at": 1778562684000
+    },
+    {
+      "id": 48089091,
+      "title": "Running local models on an M4 with 24GB memory",
+      "link": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 559,
+      "author": "shintoist",
+      "created": "2026-05-10 23:09:10",
+      "created_at": 1778454550000
     }
   ],
   "code": 200,
