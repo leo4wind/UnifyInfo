@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-12T13:52:48.068Z"
+    "lastUpdate": "2026-05-12T17:52:20.815Z"
   },
   "data": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2128,
+      "score": 2140,
       "author": "ChuckMcM",
       "created": "2026-05-10 17:54:02",
       "created_at": 1778435642000
@@ -19,34 +19,43 @@
       "id": 48085821,
       "title": "Local AI needs to be the norm",
       "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1814,
+      "score": 1832,
       "author": "cylo",
       "created": "2026-05-10 17:19:28",
       "created_at": 1778433568000
     },
     {
-      "id": 48090029,
-      "title": "I'm going back to writing code by hand",
-      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 962,
-      "author": "dropbox_miner",
-      "created": "2026-05-11 01:23:51",
-      "created_at": 1778462631000
-    },
-    {
       "id": 48100706,
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 926,
+      "score": 1015,
       "author": "varunsharma07",
       "created": "2026-05-11 21:08:25",
       "created_at": 1778533705000
     },
     {
+      "id": 48090029,
+      "title": "I'm going back to writing code by hand",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 976,
+      "author": "dropbox_miner",
+      "created": "2026-05-11 01:23:51",
+      "created_at": 1778462631000
+    },
+    {
+      "id": 48100433,
+      "title": "If AI writes your code, why use Python?",
+      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 788,
+      "author": "indigodaddy",
+      "created": "2026-05-11 20:45:55",
+      "created_at": 1778532355000
+    },
+    {
       "id": 48086082,
       "title": "Incident Report: CVE-2024-YIKES",
       "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 697,
+      "score": 700,
       "author": "miniBill",
       "created": "2026-05-10 17:43:10",
       "created_at": 1778434990000
@@ -55,7 +64,7 @@
       "id": 48091737,
       "title": "Mythos Finds a Curl Vulnerability",
       "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "score": 663,
+      "score": 671,
       "author": "TangerineDream",
       "created": "2026-05-11 06:39:08",
       "created_at": 1778481548000
@@ -64,37 +73,28 @@
       "id": 48093100,
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "link": "https://ratty-term.org/",
-      "score": 649,
+      "score": 653,
       "author": "orhunp_",
       "created": "2026-05-11 10:13:04",
       "created_at": 1778494384000
     },
     {
-      "id": 48100433,
-      "title": "If AI writes your code, why use Python?",
-      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 646,
-      "author": "indigodaddy",
-      "created": "2026-05-11 20:45:55",
-      "created_at": 1778532355000
+      "id": 48100500,
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 647,
+      "author": "AnonGitLabEmpl",
+      "created": "2026-05-11 20:51:57",
+      "created_at": 1778532717000
     },
     {
-      "id": 48084432,
-      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-      "link": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 607,
-      "author": "iancmceachern",
-      "created": "2026-05-10 14:47:05",
-      "created_at": 1778424425000
-    },
-    {
-      "id": 48092028,
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 604,
-      "author": "negura",
-      "created": "2026-05-11 07:26:54",
-      "created_at": 1778484414000
+      "id": 48109224,
+      "title": "Bambu Lab is abusing the open source social contract",
+      "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 630,
+      "author": "rubenbe",
+      "created": "2026-05-12 14:54:41",
+      "created_at": 1778597681000
     }
   ],
   "code": 200,

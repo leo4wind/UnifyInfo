@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-12T13:52:48.681Z"
+    "lastUpdate": "2026-05-12T17:52:21.636Z"
   },
   "data": [
-    {
-      "id": 48106024,
-      "title": "Learning Software Architecture",
-      "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 246,
-      "author": "surprisetalk",
-      "created": "2026-05-12 09:30:21",
-      "created_at": 1778578221000
-    },
-    {
-      "id": 48104428,
-      "title": "Screenshots of Old Desktop OSes",
-      "link": "http://www.typewritten.org/Media/",
-      "score": 389,
-      "author": "adunk",
-      "created": "2026-05-12 05:11:24",
-      "created_at": 1778562684000
-    },
-    {
-      "id": 48106534,
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "score": 198,
-      "author": "thm",
-      "created": "2026-05-12 11:00:07",
-      "created_at": 1778583607000
-    },
-    {
-      "id": 48100706,
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 926,
-      "author": "varunsharma07",
-      "created": "2026-05-11 21:08:25",
-      "created_at": 1778533705000
-    },
-    {
-      "id": 48106316,
-      "title": "A HN post with negative points – how?",
-      "link": "https://news.ycombinator.com/item?id=48104663",
-      "score": 51,
-      "author": "donohoe",
-      "created": "2026-05-12 10:29:24",
-      "created_at": 1778581764000
-    },
-    {
-      "id": 48080111,
-      "title": "Chasing Chicago's movable bridges (2014)",
-      "link": "https://aresluna.org/seesaws-for-giants/",
-      "score": 27,
-      "author": "NaOH",
-      "created": "2026-05-10 01:31:23",
-      "created_at": 1778376683000
-    },
     {
       "id": 48107997,
       "title": "Rendering the Sky, Sunsets, and Planets",
       "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 4,
+      "score": 269,
       "author": "ibobev",
       "created": "2026-05-12 13:26:46",
       "created_at": 1778592406000
     },
     {
-      "id": 48102700,
-      "title": "They Live (1988) inspired Adblocker",
-      "link": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 380,
-      "author": "tokenburner",
-      "created": "2026-05-12 00:37:54",
-      "created_at": 1778546274000
+      "id": 48103668,
+      "title": "Instructure pays ransom to Canvas hackers",
+      "link": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "score": 51,
+      "author": "Cider9986",
+      "created": "2026-05-12 02:56:31",
+      "created_at": 1778554591000
     },
     {
-      "id": 48082948,
-      "title": "Profiling.sampling – Statistical Profiler",
-      "link": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-      "score": 8,
-      "author": "djoldman",
-      "created": "2026-05-10 11:19:03",
-      "created_at": 1778411943000
+      "id": 48109224,
+      "title": "Bambu Lab is abusing the open source social contract",
+      "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 630,
+      "author": "rubenbe",
+      "created": "2026-05-12 14:54:41",
+      "created_at": 1778597681000
+    },
+    {
+      "id": 48106024,
+      "title": "Learning Software Architecture",
+      "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 421,
+      "author": "surprisetalk",
+      "created": "2026-05-12 09:30:21",
+      "created_at": 1778578221000
+    },
+    {
+      "id": 48109460,
+      "title": "Why senior developers fail to communicate their expertise",
+      "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 47,
+      "author": "nilirl",
+      "created": "2026-05-12 15:08:40",
+      "created_at": 1778598520000
+    },
+    {
+      "id": 48109962,
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "link": "https://voker.ai",
+      "score": 21,
+      "author": "ttpost",
+      "created": "2026-05-12 15:45:20",
+      "created_at": 1778600720000
+    },
+    {
+      "id": 48109970,
+      "title": "The Future of Obsidian Plugins",
+      "link": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 90,
+      "author": "xz18r",
+      "created": "2026-05-12 15:45:54",
+      "created_at": 1778600754000
+    },
+    {
+      "id": 48104428,
+      "title": "Screenshots of Old Desktop OSes",
+      "link": "http://www.typewritten.org/Media/",
+      "score": 557,
+      "author": "adunk",
+      "created": "2026-05-12 05:11:24",
+      "created_at": 1778562684000
+    },
+    {
+      "id": 48069032,
+      "title": "When life gives you lemons, write better error messages",
+      "link": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 10,
+      "author": "luispa",
+      "created": "2026-05-08 21:31:44",
+      "created_at": 1778275904000
+    },
+    {
+      "id": 48100706,
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 1015,
+      "author": "varunsharma07",
+      "created": "2026-05-11 21:08:25",
+      "created_at": 1778533705000
     }
   ],
   "code": 200,
