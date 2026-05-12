@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-12T10:23:06.793Z"
+    "lastUpdate": "2026-05-12T13:52:48.681Z"
   },
   "data": [
     {
       "id": 48106024,
       "title": "Learning Software Architecture",
       "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 40,
+      "score": 246,
       "author": "surprisetalk",
       "created": "2026-05-12 09:30:21",
       "created_at": 1778578221000
     },
     {
-      "id": 48100706,
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 862,
-      "author": "varunsharma07",
-      "created": "2026-05-11 21:08:25",
-      "created_at": 1778533705000
-    },
-    {
       "id": 48104428,
       "title": "Screenshots of Old Desktop OSes",
       "link": "http://www.typewritten.org/Media/",
-      "score": 193,
+      "score": 389,
       "author": "adunk",
       "created": "2026-05-12 05:11:24",
       "created_at": 1778562684000
     },
     {
+      "id": 48106534,
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "score": 198,
+      "author": "thm",
+      "created": "2026-05-12 11:00:07",
+      "created_at": 1778583607000
+    },
+    {
+      "id": 48100706,
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 926,
+      "author": "varunsharma07",
+      "created": "2026-05-11 21:08:25",
+      "created_at": 1778533705000
+    },
+    {
+      "id": 48106316,
+      "title": "A HN post with negative points – how?",
+      "link": "https://news.ycombinator.com/item?id=48104663",
+      "score": 51,
+      "author": "donohoe",
+      "created": "2026-05-12 10:29:24",
+      "created_at": 1778581764000
+    },
+    {
+      "id": 48080111,
+      "title": "Chasing Chicago's movable bridges (2014)",
+      "link": "https://aresluna.org/seesaws-for-giants/",
+      "score": 27,
+      "author": "NaOH",
+      "created": "2026-05-10 01:31:23",
+      "created_at": 1778376683000
+    },
+    {
+      "id": 48107997,
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 4,
+      "author": "ibobev",
+      "created": "2026-05-12 13:26:46",
+      "created_at": 1778592406000
+    },
+    {
       "id": 48102700,
       "title": "They Live (1988) inspired Adblocker",
       "link": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 245,
+      "score": 380,
       "author": "tokenburner",
       "created": "2026-05-12 00:37:54",
       "created_at": 1778546274000
     },
     {
-      "id": 48100433,
-      "title": "If AI writes your code, why use Python?",
-      "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 512,
-      "author": "indigodaddy",
-      "created": "2026-05-11 20:45:55",
-      "created_at": 1778532355000
-    },
-    {
-      "id": 48075131,
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "link": "https://github.com/pion/rtwatch",
-      "score": 29,
-      "author": "nateb2022",
-      "created": "2026-05-09 14:09:14",
-      "created_at": 1778335754000
-    },
-    {
-      "id": 48105297,
-      "title": "Toxicity on Social Media – The Noisy Room",
-      "link": "https://thenoisyroom.com",
-      "score": 19,
-      "author": "skm",
-      "created": "2026-05-12 07:31:38",
-      "created_at": 1778571098000
-    },
-    {
-      "id": 48098261,
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 347,
-      "author": "bookofjoe",
-      "created": "2026-05-11 17:53:08",
-      "created_at": 1778521988000
-    },
-    {
-      "id": 48103042,
-      "title": "Claude Platform on AWS",
-      "link": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 144,
-      "author": "matrixhelix",
-      "created": "2026-05-12 01:24:29",
-      "created_at": 1778549069000
-    },
-    {
-      "id": 48104041,
-      "title": "Extremely Low Frequencies",
-      "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "score": 80,
-      "author": "pinewurst",
-      "created": "2026-05-12 03:59:35",
-      "created_at": 1778558375000
+      "id": 48082948,
+      "title": "Profiling.sampling – Statistical Profiler",
+      "link": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+      "score": 8,
+      "author": "djoldman",
+      "created": "2026-05-10 11:19:03",
+      "created_at": 1778411943000
     }
   ],
   "code": 200,
