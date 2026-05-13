@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-13T14:04:47.118Z"
+    "lastUpdate": "2026-05-13T17:54:17.174Z"
   },
   "data": [
     {
-      "id": 48120629,
-      "title": "I Moved My Digital Stack to Europe",
-      "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 351,
-      "author": "monokai_nl",
-      "created": "2026-05-13 11:42:20",
-      "created_at": 1778672540000
+      "id": 48122635,
+      "title": "Setting up a free *.city.state.us locality domain",
+      "link": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 261,
+      "author": "speckx",
+      "created": "2026-05-13 14:45:18",
+      "created_at": 1778683518000
+    },
+    {
+      "id": 48123015,
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "link": "https://ossresistance.com/",
+      "score": 122,
+      "author": "mikemcquaid",
+      "created": "2026-05-13 15:13:37",
+      "created_at": 1778685217000
+    },
+    {
+      "id": 48073979,
+      "title": "A History of IDEs at Google",
+      "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 55,
+      "author": "laurentlb",
+      "created": "2026-05-09 11:14:18",
+      "created_at": 1778325258000
+    },
+    {
+      "id": 48124436,
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "link": "https://www.tryardent.com/",
+      "score": 22,
+      "author": "vc289",
+      "created": "2026-05-13 16:54:03",
+      "created_at": 1778691243000
+    },
+    {
+      "id": 48123546,
+      "title": "S-100 Virtual Workbench",
+      "link": "https://grantmestrength.github.io/S100/",
+      "score": 49,
+      "author": "rbanffy",
+      "created": "2026-05-13 15:52:00",
+      "created_at": 1778687520000
+    },
+    {
+      "id": 48080755,
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "link": "https://github.com/nooga/xsofy",
+      "score": 63,
+      "author": "andsoitis",
+      "created": "2026-05-10 03:32:59",
+      "created_at": 1778383979000
+    },
+    {
+      "id": 48077924,
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "link": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 131,
+      "author": "curiousgal",
+      "created": "2026-05-09 20:25:55",
+      "created_at": 1778358355000
+    },
+    {
+      "id": 48109772,
+      "title": "Heritability of human life span is ~50% when heritability is redefined",
+      "link": "https://dynomight.net/lifespan/",
+      "score": 45,
+      "author": "surprisetalk",
+      "created": "2026-05-12 15:30:05",
+      "created_at": 1778599805000
     },
     {
       "id": 48121266,
-      "title": "Why I'm leaving GitHub for Forgejo",
+      "title": "Leaving GitHub for Forgejo",
       "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 111,
+      "score": 394,
       "author": "jorijn",
       "created": "2026-05-13 12:54:00",
       "created_at": 1778676840000
     },
     {
-      "id": 48091812,
-      "title": "Preserving Fisher-Price Pixter",
-      "link": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 100,
-      "author": "dmitrygr",
-      "created": "2026-05-11 06:52:48",
-      "created_at": 1778482368000
-    },
-    {
-      "id": 48089921,
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 156,
-      "author": "HardwareLust",
-      "created": "2026-05-11 01:05:59",
-      "created_at": 1778461559000
-    },
-    {
-      "id": 48121299,
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-      "score": 60,
-      "author": "giuliomagnifico",
-      "created": "2026-05-13 12:57:42",
-      "created_at": 1778677062000
-    },
-    {
-      "id": 48093578,
-      "title": "An idiot's guide to lead optimisation for proteins",
-      "link": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 17,
-      "author": "magni121",
-      "created": "2026-05-11 11:21:33",
-      "created_at": 1778498493000
-    },
-    {
-      "id": 48115127,
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 539,
-      "author": "Murfalo",
-      "created": "2026-05-12 21:55:21",
-      "created_at": 1778622921000
-    },
-    {
-      "id": 48117810,
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "link": "https://arxiv.org/abs/2605.08419",
-      "score": 243,
-      "author": "matt_d",
-      "created": "2026-05-13 04:25:03",
-      "created_at": 1778646303000
-    },
-    {
-      "id": 48078452,
-      "title": "Web Server on a Nintendo Wii",
-      "link": "http://wii.sjmulder.nl/",
-      "score": 48,
-      "author": "adunk",
-      "created": "2026-05-09 21:32:16",
-      "created_at": 1778362336000
+      "id": 48121929,
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 59,
+      "author": "akrylov",
+      "created": "2026-05-13 13:53:53",
+      "created_at": 1778680433000
     }
   ],
   "code": 200,
