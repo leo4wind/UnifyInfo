@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-13T06:41:18.954Z"
+    "lastUpdate": "2026-05-13T10:12:21.499Z"
   },
   "data": [
     {
       "id": 48117810,
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "link": "https://arxiv.org/abs/2605.08419",
-      "score": 90,
+      "score": 179,
       "author": "matt_d",
       "created": "2026-05-13 04:25:03",
       "created_at": 1778646303000
@@ -19,7 +19,7 @@
       "id": 48115127,
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 343,
+      "score": 435,
       "author": "Murfalo",
       "created": "2026-05-12 21:55:21",
       "created_at": 1778622921000
@@ -28,7 +28,7 @@
       "id": 48033483,
       "title": "The vi family",
       "link": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 97,
+      "score": 171,
       "author": "hggh",
       "created": "2026-05-06 07:51:16",
       "created_at": 1778053876000
@@ -37,64 +37,64 @@
       "id": 48111545,
       "title": "Googlebook",
       "link": "https://googlebook.google/",
-      "score": 720,
+      "score": 787,
       "author": "tambourine_man",
       "created": "2026-05-12 17:37:36",
       "created_at": 1778607456000
     },
     {
+      "id": 48089921,
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "score": 50,
+      "author": "HardwareLust",
+      "created": "2026-05-11 01:05:59",
+      "created_at": 1778461559000
+    },
+    {
       "id": 48111896,
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "link": "https://github.com/cactus-compute/needle",
-      "score": 391,
+      "score": 467,
       "author": "HenryNdubuaku",
       "created": "2026-05-12 18:03:11",
       "created_at": 1778608991000
     },
     {
+      "id": 48118763,
+      "title": "SecurityBaseline.eu",
+      "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "score": 154,
+      "author": "aequitas",
+      "created": "2026-05-13 07:11:17",
+      "created_at": 1778656277000
+    },
+    {
       "id": 48113895,
       "title": "How to make your text look futuristic (2016)",
       "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 304,
+      "score": 351,
       "author": "_vaporwave_",
       "created": "2026-05-12 20:16:26",
       "created_at": 1778616986000
     },
     {
-      "id": 48115823,
-      "title": "Kraftwerk's radical 1976 track",
-      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 123,
-      "author": "tcp_handshaker",
-      "created": "2026-05-12 23:13:01",
-      "created_at": 1778627581000
-    },
-    {
-      "id": 48112042,
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 289,
-      "author": "chizhik-pyzhik",
-      "created": "2026-05-12 18:12:28",
-      "created_at": 1778609548000
-    },
-    {
       "id": 48109460,
       "title": "Why senior developers fail to communicate their expertise",
       "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 507,
+      "score": 583,
       "author": "nilirl",
       "created": "2026-05-12 15:08:40",
       "created_at": 1778598520000
     },
     {
-      "id": 48116207,
-      "title": "My graduation cap runs Rust",
-      "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 136,
-      "author": "ericswpark",
-      "created": "2026-05-13 00:04:21",
-      "created_at": 1778630661000
+      "id": 48115823,
+      "title": "Kraftwerk's radical 1976 track",
+      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 162,
+      "author": "tcp_handshaker",
+      "created": "2026-05-12 23:13:01",
+      "created_at": 1778627581000
     }
   ],
   "code": 200,
