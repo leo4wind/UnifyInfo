@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-12T21:09:26.615Z"
+    "lastUpdate": "2026-05-13T02:05:29.563Z"
   },
   "data": [
+    {
+      "id": 48115127,
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 158,
+      "author": "Murfalo",
+      "created": "2026-05-12 21:55:21",
+      "created_at": 1778622921000
+    },
     {
       "id": 48111545,
       "title": "Googlebook",
       "link": "https://googlebook.google/",
-      "score": 389,
+      "score": 615,
       "author": "tambourine_man",
       "created": "2026-05-12 17:37:36",
       "created_at": 1778607456000
     },
     {
+      "id": 48116207,
+      "title": "My graduation cap runs Rust",
+      "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 54,
+      "author": "ericswpark",
+      "created": "2026-05-13 00:04:21",
+      "created_at": 1778630661000
+    },
+    {
+      "id": 48115823,
+      "title": "Kraftwerk's radical 1976 track",
+      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 63,
+      "author": "tcp_handshaker",
+      "created": "2026-05-12 23:13:01",
+      "created_at": 1778627581000
+    },
+    {
       "id": 48113895,
       "title": "How to make your text look futuristic (2016)",
       "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 53,
+      "score": 216,
       "author": "_vaporwave_",
       "created": "2026-05-12 20:16:26",
       "created_at": 1778616986000
     },
     {
-      "id": 48112042,
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 146,
-      "author": "chizhik-pyzhik",
-      "created": "2026-05-12 18:12:28",
-      "created_at": 1778609548000
-    },
-    {
       "id": 48111896,
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "link": "https://github.com/cactus-compute/needle",
-      "score": 127,
+      "score": 282,
       "author": "HenryNdubuaku",
       "created": "2026-05-12 18:03:11",
       "created_at": 1778608991000
     },
     {
+      "id": 48112042,
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 236,
+      "author": "chizhik-pyzhik",
+      "created": "2026-05-12 18:12:28",
+      "created_at": 1778609548000
+    },
+    {
       "id": 48109460,
       "title": "Why senior developers fail to communicate their expertise",
       "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 229,
+      "score": 374,
       "author": "nilirl",
       "created": "2026-05-12 15:08:40",
       "created_at": 1778598520000
     },
     {
-      "id": 48109970,
-      "title": "The Future of Obsidian Plugins",
-      "link": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 222,
-      "author": "xz18r",
-      "created": "2026-05-12 15:45:54",
-      "created_at": 1778600754000
+      "id": 48115807,
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "link": "https://www.savethearchive.com/newsleaders/",
+      "score": 141,
+      "author": "doener",
+      "created": "2026-05-12 23:11:40",
+      "created_at": 1778627500000
     },
     {
-      "id": 48107997,
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 350,
-      "author": "ibobev",
-      "created": "2026-05-12 13:26:46",
-      "created_at": 1778592406000
-    },
-    {
-      "id": 48111765,
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 79,
-      "author": "aduffy",
-      "created": "2026-05-12 17:54:12",
-      "created_at": 1778608452000
-    },
-    {
-      "id": 48111581,
-      "title": "Reimagining the mouse pointer for the AI era",
-      "link": "https://deepmind.google/blog/ai-pointer/",
-      "score": 68,
-      "author": "devhouse",
-      "created": "2026-05-12 17:40:13",
-      "created_at": 1778607613000
-    },
-    {
-      "id": 48109962,
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "link": "https://voker.ai",
-      "score": 31,
-      "author": "ttpost",
-      "created": "2026-05-12 15:45:20",
-      "created_at": 1778600720000
+      "id": 48082586,
+      "title": "Fc, a lossless compressor for floating-point streams",
+      "link": "https://github.com/xtellect/fc",
+      "score": 17,
+      "author": "enduku",
+      "created": "2026-05-10 10:14:20",
+      "created_at": 1778408060000
     }
   ],
   "code": 200,
