@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-13T10:12:21.464Z"
+    "lastUpdate": "2026-05-13T14:04:47.118Z"
   },
   "data": [
     {
-      "id": 48117810,
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "link": "https://arxiv.org/abs/2605.08419",
-      "score": 179,
-      "author": "matt_d",
-      "created": "2026-05-13 04:25:03",
-      "created_at": 1778646303000
+      "id": 48120629,
+      "title": "I Moved My Digital Stack to Europe",
+      "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "score": 351,
+      "author": "monokai_nl",
+      "created": "2026-05-13 11:42:20",
+      "created_at": 1778672540000
     },
     {
-      "id": 48115127,
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 435,
-      "author": "Murfalo",
-      "created": "2026-05-12 21:55:21",
-      "created_at": 1778622921000
+      "id": 48121266,
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 111,
+      "author": "jorijn",
+      "created": "2026-05-13 12:54:00",
+      "created_at": 1778676840000
     },
     {
-      "id": 48033483,
-      "title": "The vi family",
-      "link": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 171,
-      "author": "hggh",
-      "created": "2026-05-06 07:51:16",
-      "created_at": 1778053876000
-    },
-    {
-      "id": 48111545,
-      "title": "Googlebook",
-      "link": "https://googlebook.google/",
-      "score": 787,
-      "author": "tambourine_man",
-      "created": "2026-05-12 17:37:36",
-      "created_at": 1778607456000
+      "id": 48091812,
+      "title": "Preserving Fisher-Price Pixter",
+      "link": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "score": 100,
+      "author": "dmitrygr",
+      "created": "2026-05-11 06:52:48",
+      "created_at": 1778482368000
     },
     {
       "id": 48089921,
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 50,
+      "score": 156,
       "author": "HardwareLust",
       "created": "2026-05-11 01:05:59",
       "created_at": 1778461559000
     },
     {
-      "id": 48111896,
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "link": "https://github.com/cactus-compute/needle",
-      "score": 467,
-      "author": "HenryNdubuaku",
-      "created": "2026-05-12 18:03:11",
-      "created_at": 1778608991000
+      "id": 48121299,
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "score": 60,
+      "author": "giuliomagnifico",
+      "created": "2026-05-13 12:57:42",
+      "created_at": 1778677062000
     },
     {
-      "id": 48118763,
-      "title": "SecurityBaseline.eu",
-      "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "score": 154,
-      "author": "aequitas",
-      "created": "2026-05-13 07:11:17",
-      "created_at": 1778656277000
+      "id": 48093578,
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "link": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "score": 17,
+      "author": "magni121",
+      "created": "2026-05-11 11:21:33",
+      "created_at": 1778498493000
     },
     {
-      "id": 48113895,
-      "title": "How to make your text look futuristic (2016)",
-      "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 351,
-      "author": "_vaporwave_",
-      "created": "2026-05-12 20:16:26",
-      "created_at": 1778616986000
+      "id": 48115127,
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 539,
+      "author": "Murfalo",
+      "created": "2026-05-12 21:55:21",
+      "created_at": 1778622921000
     },
     {
-      "id": 48109460,
-      "title": "Why senior developers fail to communicate their expertise",
-      "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 583,
-      "author": "nilirl",
-      "created": "2026-05-12 15:08:40",
-      "created_at": 1778598520000
+      "id": 48117810,
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "link": "https://arxiv.org/abs/2605.08419",
+      "score": 243,
+      "author": "matt_d",
+      "created": "2026-05-13 04:25:03",
+      "created_at": 1778646303000
     },
     {
-      "id": 48115823,
-      "title": "Kraftwerk's radical 1976 track",
-      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 162,
-      "author": "tcp_handshaker",
-      "created": "2026-05-12 23:13:01",
-      "created_at": 1778627581000
+      "id": 48078452,
+      "title": "Web Server on a Nintendo Wii",
+      "link": "http://wii.sjmulder.nl/",
+      "score": 48,
+      "author": "adunk",
+      "created": "2026-05-09 21:32:16",
+      "created_at": 1778362336000
     }
   ],
   "code": 200,
