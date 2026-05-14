@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-14T06:39:59.210Z"
+    "lastUpdate": "2026-05-14T10:05:22.473Z"
   },
   "data": [
     {
       "id": 48130950,
       "title": "Claude for Small Business",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 138,
+      "score": 252,
       "author": "neilfrndes",
       "created": "2026-05-14 03:59:35",
       "created_at": 1778731175000
     },
     {
+      "id": 48132488,
+      "title": "Rewrite Bun in Rust has been merged",
+      "link": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 51,
+      "author": "Chaoses",
+      "created": "2026-05-14 08:15:31",
+      "created_at": 1778746531000
+    },
+    {
+      "id": 48132030,
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "link": "https://classic7.lol/",
+      "score": 50,
+      "author": "jandeboevrie",
+      "created": "2026-05-14 07:03:18",
+      "created_at": 1778742198000
+    },
+    {
       "id": 48129694,
       "title": "Scorched Earth 2000 – Web",
       "link": "http://www.scorch2000.com/web/",
-      "score": 204,
+      "score": 260,
       "author": "meshko",
       "created": "2026-05-14 00:41:29",
       "created_at": 1778719289000
@@ -28,73 +46,55 @@
       "id": 48087887,
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 644,
+      "score": 733,
       "author": "haunter",
       "created": "2026-05-10 20:54:06",
       "created_at": 1778446446000
     },
     {
-      "id": 48130123,
-      "title": "Cisco workforce reductions",
-      "link": "https://blogs.cisco.com/news/our-path-forward",
-      "score": 149,
-      "author": "ahmedomran8",
-      "created": "2026-05-14 01:38:05",
-      "created_at": 1778722685000
-    },
-    {
-      "id": 48130711,
-      "title": "Arena AI Model ELO History",
-      "link": "https://mayerwin.github.io/AI-Arena-History/",
-      "score": 31,
-      "author": "mayerwin",
-      "created": "2026-05-14 03:19:05",
-      "created_at": 1778728745000
-    },
-    {
       "id": 48122635,
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "link": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 544,
+      "score": 561,
       "author": "speckx",
       "created": "2026-05-13 14:45:18",
       "created_at": 1778683518000
     },
     {
-      "id": 48073979,
-      "title": "A History of IDEs at Google",
-      "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 339,
-      "author": "laurentlb",
-      "created": "2026-05-09 11:14:18",
-      "created_at": 1778325258000
-    },
-    {
       "id": 48125617,
       "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 175,
+      "score": 219,
       "author": "tosh",
       "created": "2026-05-13 18:30:51",
       "created_at": 1778697051000
     },
     {
+      "id": 48073979,
+      "title": "A History of IDEs at Google",
+      "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 373,
+      "author": "laurentlb",
+      "created": "2026-05-09 11:14:18",
+      "created_at": 1778325258000
+    },
+    {
       "id": 48118727,
       "title": "The Emacsification of Software",
       "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 265,
+      "score": 303,
       "author": "rdslw",
       "created": "2026-05-13 07:06:14",
       "created_at": 1778655974000
     },
     {
-      "id": 48129934,
-      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
-      "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-      "score": 26,
-      "author": "efavdb",
-      "created": "2026-05-14 01:13:02",
-      "created_at": 1778721182000
+      "id": 48102901,
+      "title": "Extraordinary Ordinals",
+      "link": "https://text.marvinborner.de/2026-04-09-17.html",
+      "score": 24,
+      "author": "marvinborner",
+      "created": "2026-05-12 01:03:03",
+      "created_at": 1778547783000
     }
   ],
   "code": 200,
