@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-14T02:07:59.381Z"
+    "lastUpdate": "2026-05-14T06:39:59.192Z"
   },
   "data": [
     {
+      "id": 48130950,
+      "title": "Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 138,
+      "author": "neilfrndes",
+      "created": "2026-05-14 03:59:35",
+      "created_at": 1778731175000
+    },
+    {
       "id": 48129694,
-      "title": "Scorched Earth 2000 is back",
+      "title": "Scorched Earth 2000 – Web",
       "link": "http://www.scorch2000.com/web/",
-      "score": 41,
+      "score": 204,
       "author": "meshko",
       "created": "2026-05-14 00:41:29",
       "created_at": 1778719289000
@@ -19,16 +28,34 @@
       "id": 48087887,
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 533,
+      "score": 644,
       "author": "haunter",
       "created": "2026-05-10 20:54:06",
       "created_at": 1778446446000
     },
     {
+      "id": 48130123,
+      "title": "Cisco workforce reductions",
+      "link": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 149,
+      "author": "ahmedomran8",
+      "created": "2026-05-14 01:38:05",
+      "created_at": 1778722685000
+    },
+    {
+      "id": 48130711,
+      "title": "Arena AI Model ELO History",
+      "link": "https://mayerwin.github.io/AI-Arena-History/",
+      "score": 31,
+      "author": "mayerwin",
+      "created": "2026-05-14 03:19:05",
+      "created_at": 1778728745000
+    },
+    {
       "id": 48122635,
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "link": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 497,
+      "score": 544,
       "author": "speckx",
       "created": "2026-05-13 14:45:18",
       "created_at": 1778683518000
@@ -37,64 +64,37 @@
       "id": 48073979,
       "title": "A History of IDEs at Google",
       "link": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 278,
+      "score": 339,
       "author": "laurentlb",
       "created": "2026-05-09 11:14:18",
       "created_at": 1778325258000
     },
     {
-      "id": 48096760,
-      "title": "Chess puzzle I found in my dad's old book",
-      "link": "https://ardoedo.it/kempelen/",
-      "score": 87,
-      "author": "Eswo",
-      "created": "2026-05-11 16:00:19",
-      "created_at": 1778515219000
-    },
-    {
-      "id": 48095782,
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "link": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 39,
-      "author": "jackhogan11",
-      "created": "2026-05-11 14:52:25",
-      "created_at": 1778511145000
+      "id": 48125617,
+      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "score": 175,
+      "author": "tosh",
+      "created": "2026-05-13 18:30:51",
+      "created_at": 1778697051000
     },
     {
       "id": 48118727,
       "title": "The Emacsification of Software",
       "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 196,
+      "score": 265,
       "author": "rdslw",
       "created": "2026-05-13 07:06:14",
       "created_at": 1778655974000
     },
     {
-      "id": 48126848,
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 251,
-      "author": "bookofjoe",
-      "created": "2026-05-13 20:12:16",
-      "created_at": 1778703136000
-    },
-    {
-      "id": 48129561,
-      "title": "The Other Half of AI Safety",
-      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "score": 45,
-      "author": "sofiaqt",
-      "created": "2026-05-14 00:27:20",
-      "created_at": 1778718440000
-    },
-    {
-      "id": 48115438,
-      "title": "Twin brothers wipe 96 government databases minutes after being fired",
-      "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 308,
-      "author": "jnord",
-      "created": "2026-05-12 22:28:07",
-      "created_at": 1778624887000
+      "id": 48129934,
+      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+      "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+      "score": 26,
+      "author": "efavdb",
+      "created": "2026-05-14 01:13:02",
+      "created_at": 1778721182000
     }
   ],
   "code": 200,

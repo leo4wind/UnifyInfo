@@ -3,77 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-14T02:07:59.300Z"
+    "lastUpdate": "2026-05-14T06:39:59.097Z"
   },
   "data": [
     {
       "id": 48109224,
       "title": "Bambu Lab is abusing the open source social contract",
       "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 1364,
+      "score": 1371,
       "author": "rubenbe",
       "created": "2026-05-12 14:54:41",
       "created_at": 1778597681000
     },
     {
-      "id": 48111545,
-      "title": "Googlebook",
-      "link": "https://googlebook.google/",
-      "score": 902,
-      "author": "tambourine_man",
-      "created": "2026-05-12 17:37:36",
-      "created_at": 1778607456000
-    },
-    {
       "id": 48120629,
       "title": "I moved my digital stack to Europe",
       "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 889,
+      "score": 932,
       "author": "monokai_nl",
       "created": "2026-05-13 11:42:20",
       "created_at": 1778672540000
     },
     {
+      "id": 48111545,
+      "title": "Googlebook",
+      "link": "https://googlebook.google/",
+      "score": 907,
+      "author": "tambourine_man",
+      "created": "2026-05-12 17:37:36",
+      "created_at": 1778607456000
+    },
+    {
       "id": 48109460,
       "title": "Why senior developers fail to communicate their expertise",
       "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 771,
+      "score": 779,
       "author": "nilirl",
       "created": "2026-05-12 15:08:40",
       "created_at": 1778598520000
     },
     {
-      "id": 48104428,
-      "title": "Screenshots of Old Desktop OSes",
-      "link": "http://www.typewritten.org/Media/",
-      "score": 698,
-      "author": "adunk",
-      "created": "2026-05-12 05:11:24",
-      "created_at": 1778562684000
-    },
-    {
-      "id": 48115127,
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 639,
-      "author": "Murfalo",
-      "created": "2026-05-12 21:55:21",
-      "created_at": 1778622921000
-    },
-    {
       "id": 48111896,
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "link": "https://github.com/cactus-compute/needle",
-      "score": 639,
+      "score": 663,
       "author": "HenryNdubuaku",
       "created": "2026-05-12 18:03:11",
       "created_at": 1778608991000
     },
     {
+      "id": 48115127,
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 647,
+      "author": "Murfalo",
+      "created": "2026-05-12 21:55:21",
+      "created_at": 1778622921000
+    },
+    {
       "id": 48106024,
       "title": "Learning Software Architecture",
       "link": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 584,
+      "score": 590,
       "author": "surprisetalk",
       "created": "2026-05-12 09:30:21",
       "created_at": 1778578221000
@@ -82,16 +73,25 @@
       "id": 48121266,
       "title": "Leaving GitHub for Forgejo",
       "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 530,
+      "score": 564,
       "author": "jorijn",
       "created": "2026-05-13 12:54:00",
       "created_at": 1778676840000
     },
     {
+      "id": 48122635,
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "link": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 544,
+      "author": "speckx",
+      "created": "2026-05-13 14:45:18",
+      "created_at": 1778683518000
+    },
+    {
       "id": 48107997,
       "title": "Rendering the Sky, Sunsets, and Planets",
       "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 523,
+      "score": 525,
       "author": "ibobev",
       "created": "2026-05-12 13:26:46",
       "created_at": 1778592406000
