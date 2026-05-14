@@ -3,89 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-14T17:30:15.372Z"
+    "lastUpdate": "2026-05-14T21:01:46.451Z"
   },
   "data": [
     {
-      "id": 48137145,
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 166,
-      "author": "allenleee",
-      "created": "2026-05-14 15:47:31",
-      "created_at": 1778773651000
-    },
-    {
-      "id": 48134743,
-      "title": "Computer Hobby Movement in Canada",
-      "link": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-      "score": 128,
-      "author": "rbanffy",
-      "created": "2026-05-14 12:57:27",
-      "created_at": 1778763447000
-    },
-    {
-      "id": 48136262,
-      "title": "MIT: 20% drop in incoming graduate students",
-      "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 379,
-      "author": "dmayo",
-      "created": "2026-05-14 14:51:14",
-      "created_at": 1778770274000
-    },
-    {
-      "id": 48138268,
-      "title": "New Nginx Exploit",
-      "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 11,
-      "author": "hetsaraiya",
-      "created": "2026-05-14 17:17:48",
-      "created_at": 1778779068000
-    },
-    {
       "id": 48138136,
-      "title": "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 14,
+      "score": 371,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
     },
     {
-      "id": 48136240,
-      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-      "score": 215,
-      "author": "cednore",
-      "created": "2026-05-14 14:49:48",
-      "created_at": 1778770188000
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 385,
+      "author": "allenleee",
+      "created": "2026-05-14 15:47:31",
+      "created_at": 1778773651000
     },
     {
-      "id": 48100368,
-      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
-      "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-      "score": 19,
-      "author": "gmays",
-      "created": "2026-05-11 20:39:21",
-      "created_at": 1778531961000
+      "id": 48139219,
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 91,
+      "author": "quadrige",
+      "created": "2026-05-14 18:25:09",
+      "created_at": 1778783109000
     },
     {
-      "id": 48136992,
-      "title": "On The Conflation of Money and Things",
-      "link": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
-      "score": 24,
-      "author": "bookofjoe",
-      "created": "2026-05-14 15:36:24",
-      "created_at": 1778772984000
+      "id": 48138268,
+      "title": "New Nginx Exploit",
+      "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 198,
+      "author": "hetsaraiya",
+      "created": "2026-05-14 17:17:48",
+      "created_at": 1778779068000
     },
     {
-      "id": 48130950,
-      "title": "Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 468,
-      "author": "neilfrndes",
-      "created": "2026-05-14 03:59:35",
-      "created_at": 1778731175000
+      "id": 48139355,
+      "title": "The AI Zombification of Universities",
+      "link": "https://www.thenewcritic.com/p/the-great-zombification",
+      "score": 116,
+      "author": "rmdmphilosopher",
+      "created": "2026-05-14 18:37:08",
+      "created_at": 1778783828000
+    },
+    {
+      "id": 48139704,
+      "title": "WinUI 3 Performance: A Leap Forward",
+      "link": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
+      "score": 46,
+      "author": "whatever3",
+      "created": "2026-05-14 19:01:58",
+      "created_at": 1778785318000
+    },
+    {
+      "id": 48139316,
+      "title": "The Power of a Free Popsicle (2018)",
+      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "score": 42,
+      "author": "NaOH",
+      "created": "2026-05-14 18:33:47",
+      "created_at": 1778783627000
+    },
+    {
+      "id": 48137553,
+      "title": "HDD Firmware Hacking",
+      "link": "https://icode4.coffee/?p=1465",
+      "score": 77,
+      "author": "jsploit",
+      "created": "2026-05-14 16:19:29",
+      "created_at": 1778775569000
+    },
+    {
+      "id": 48139144,
+      "title": "You Don't Align an AI, You Align with It",
+      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "score": 48,
+      "author": "danieltanfh95",
+      "created": "2026-05-14 18:19:13",
+      "created_at": 1778782753000
     }
   ],
   "code": 200,
