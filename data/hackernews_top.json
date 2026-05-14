@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-14T13:29:29.224Z"
+    "lastUpdate": "2026-05-14T17:30:14.868Z"
   },
   "data": [
     {
-      "id": 48133561,
-      "title": "Show HN: Running the second public ODoH relay",
-      "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "score": 57,
-      "author": "rdme",
-      "created": "2026-05-14 10:44:50",
-      "created_at": 1778755490000
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 165,
+      "author": "allenleee",
+      "created": "2026-05-14 15:47:31",
+      "created_at": 1778773651000
+    },
+    {
+      "id": 48134743,
+      "title": "Computer Hobby Movement in Canada",
+      "link": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+      "score": 128,
+      "author": "rbanffy",
+      "created": "2026-05-14 12:57:27",
+      "created_at": 1778763447000
+    },
+    {
+      "id": 48136262,
+      "title": "MIT: 20% drop in incoming graduate students",
+      "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "score": 377,
+      "author": "dmayo",
+      "created": "2026-05-14 14:51:14",
+      "created_at": 1778770274000
+    },
+    {
+      "id": 48138268,
+      "title": "New Nginx Exploit",
+      "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 11,
+      "author": "hetsaraiya",
+      "created": "2026-05-14 17:17:48",
+      "created_at": 1778779068000
+    },
+    {
+      "id": 48138136,
+      "title": "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
+      "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 14,
+      "author": "arkadiyt",
+      "created": "2026-05-14 17:08:00",
+      "created_at": 1778778480000
+    },
+    {
+      "id": 48136240,
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "score": 215,
+      "author": "cednore",
+      "created": "2026-05-14 14:49:48",
+      "created_at": 1778770188000
+    },
+    {
+      "id": 48100368,
+      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+      "link": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "score": 19,
+      "author": "gmays",
+      "created": "2026-05-11 20:39:21",
+      "created_at": 1778531961000
+    },
+    {
+      "id": 48136992,
+      "title": "On The Conflation of Money and Things",
+      "link": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+      "score": 24,
+      "author": "bookofjoe",
+      "created": "2026-05-14 15:36:24",
+      "created_at": 1778772984000
     },
     {
       "id": 48130950,
       "title": "Claude for Small Business",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 363,
+      "score": 468,
       "author": "neilfrndes",
       "created": "2026-05-14 03:59:35",
       "created_at": 1778731175000
-    },
-    {
-      "id": 48133908,
-      "title": "Myths about /dev/urandom (2014)",
-      "link": "https://www.2uo.de/myths-about-urandom/",
-      "score": 21,
-      "author": "signa11",
-      "created": "2026-05-14 11:26:22",
-      "created_at": 1778757982000
-    },
-    {
-      "id": 48099688,
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "link": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "score": 19,
-      "author": "Caiero",
-      "created": "2026-05-11 19:41:02",
-      "created_at": 1778528462000
-    },
-    {
-      "id": 48087887,
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "link": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 824,
-      "author": "haunter",
-      "created": "2026-05-10 20:54:06",
-      "created_at": 1778446446000
-    },
-    {
-      "id": 48129694,
-      "title": "Scorched Earth 2000 – Web",
-      "link": "http://www.scorch2000.com/web/",
-      "score": 307,
-      "author": "meshko",
-      "created": "2026-05-14 00:41:29",
-      "created_at": 1778719289000
-    },
-    {
-      "id": 48084012,
-      "title": "Leaving the Physical World",
-      "link": "https://www.eff.org/pages/leaving-physical-world",
-      "score": 65,
-      "author": "andsoitis",
-      "created": "2026-05-10 13:54:54",
-      "created_at": 1778421294000
-    },
-    {
-      "id": 48132030,
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "link": "https://classic7.lol/",
-      "score": 110,
-      "author": "jandeboevrie",
-      "created": "2026-05-14 07:03:18",
-      "created_at": 1778742198000
-    },
-    {
-      "id": 48134869,
-      "title": "The Whole Anthropic Kerfuffle",
-      "link": "https://twitter.com/josevalim/status/2054887621336174799",
-      "score": 9,
-      "author": "tosh",
-      "created": "2026-05-14 13:08:00",
-      "created_at": 1778764080000
-    },
-    {
-      "id": 48122635,
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "link": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 582,
-      "author": "speckx",
-      "created": "2026-05-13 14:45:18",
-      "created_at": 1778683518000
     }
   ],
   "code": 200,
