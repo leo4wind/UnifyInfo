@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-15T02:06:16.114Z"
+    "lastUpdate": "2026-05-15T06:49:16.845Z"
   },
   "data": [
+    {
+      "id": 48145144,
+      "title": "UK Government Kicks Out Palantir",
+      "link": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+      "score": 39,
+      "author": "robin_reala",
+      "created": "2026-05-15 06:16:05",
+      "created_at": 1778825765000
+    },
+    {
+      "id": 48143880,
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "score": 272,
+      "author": "RGBCube",
+      "created": "2026-05-15 02:35:35",
+      "created_at": 1778812535000
+    },
+    {
+      "id": 48144494,
+      "title": "How Claude Code works in large codebases",
+      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "score": 112,
+      "author": "shenli3514",
+      "created": "2026-05-15 04:15:31",
+      "created_at": 1778818531000
+    },
     {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 625,
+      "score": 763,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
     },
     {
+      "id": 48143284,
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "link": "https://writing.antonleicht.me/p/cut-off",
+      "score": 88,
+      "author": "thoughtpeddler",
+      "created": "2026-05-15 01:08:04",
+      "created_at": 1778807284000
+    },
+    {
       "id": 48142108,
       "title": "A few words on DS4",
       "link": "https://antirez.com/news/165",
-      "score": 158,
+      "score": 263,
       "author": "caust1c",
       "created": "2026-05-14 22:29:12",
       "created_at": 1778797752000
     },
     {
-      "id": 48142964,
-      "title": "Elevated error rates on Opus 4.7",
-      "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "id": 48144380,
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
       "score": 48,
-      "author": "rob",
-      "created": "2026-05-15 00:22:53",
-      "created_at": 1778804573000
+      "author": "kspacewalk2",
+      "created": "2026-05-15 03:56:14",
+      "created_at": 1778817374000
+    },
+    {
+      "id": 48144490,
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "link": "https://dylan.gr/1775146616",
+      "score": 16,
+      "author": "James72689",
+      "created": "2026-05-15 04:15:24",
+      "created_at": 1778818524000
     },
     {
       "id": 48139219,
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 262,
+      "score": 328,
       "author": "quadrige",
       "created": "2026-05-14 18:25:09",
       "created_at": 1778783109000
     },
     {
-      "id": 48142553,
-      "title": "Have a Coherent AI Policy",
-      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-      "score": 42,
-      "author": "ai_critic",
-      "created": "2026-05-14 23:24:45",
-      "created_at": 1778801085000
-    },
-    {
       "id": 48137145,
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 491,
+      "score": 550,
       "author": "allenleee",
       "created": "2026-05-14 15:47:31",
       "created_at": 1778773651000
-    },
-    {
-      "id": 48140529,
-      "title": "Codex is now in the ChatGPT mobile app",
-      "link": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 180,
-      "author": "mikeevans",
-      "created": "2026-05-14 20:06:14",
-      "created_at": 1778789174000
-    },
-    {
-      "id": 48138268,
-      "title": "New Nginx Exploit",
-      "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 292,
-      "author": "hetsaraiya",
-      "created": "2026-05-14 17:17:48",
-      "created_at": 1778779068000
-    },
-    {
-      "id": 48140541,
-      "title": "RISC-V Router",
-      "link": "https://router.start9.com/",
-      "score": 74,
-      "author": "janandonly",
-      "created": "2026-05-14 20:06:53",
-      "created_at": 1778789213000
-    },
-    {
-      "id": 48140953,
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "score": 61,
-      "author": "p_stuart82",
-      "created": "2026-05-14 20:41:48",
-      "created_at": 1778791308000
     }
   ],
   "code": 200,

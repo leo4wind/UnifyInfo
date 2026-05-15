@@ -3,7 +3,7 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-15T02:06:15.988Z"
+    "lastUpdate": "2026-05-15T06:49:16.692Z"
   },
   "data": [
     {
@@ -19,7 +19,7 @@
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 625,
+      "score": 763,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
@@ -28,7 +28,7 @@
       "id": 48121266,
       "title": "Leaving GitHub for Forgejo",
       "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 620,
+      "score": 623,
       "author": "jorijn",
       "created": "2026-05-13 12:54:00",
       "created_at": 1778676840000
@@ -37,7 +37,7 @@
       "id": 48122635,
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "link": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 610,
+      "score": 612,
       "author": "speckx",
       "created": "2026-05-13 14:45:18",
       "created_at": 1778683518000
@@ -46,25 +46,16 @@
       "id": 48136262,
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 576,
+      "score": 599,
       "author": "dmayo",
       "created": "2026-05-14 14:51:14",
       "created_at": 1778770274000
     },
     {
-      "id": 48130950,
-      "title": "Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 507,
-      "author": "neilfrndes",
-      "created": "2026-05-14 03:59:35",
-      "created_at": 1778731175000
-    },
-    {
       "id": 48132488,
       "title": "Rewrite Bun in Rust has been merged",
       "link": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 492,
+      "score": 594,
       "author": "Chaoses",
       "created": "2026-05-14 08:15:31",
       "created_at": 1778746531000
@@ -73,28 +64,37 @@
       "id": 48137145,
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 491,
+      "score": 550,
       "author": "allenleee",
       "created": "2026-05-14 15:47:31",
       "created_at": 1778773651000
     },
     {
+      "id": 48130950,
+      "title": "Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 517,
+      "author": "neilfrndes",
+      "created": "2026-05-14 03:59:35",
+      "created_at": 1778731175000
+    },
+    {
       "id": 48139148,
       "title": "AI is making me dumb",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "score": 433,
+      "score": 470,
       "author": "Eighth",
       "created": "2026-05-14 18:19:28",
       "created_at": 1778782768000
     },
     {
-      "id": 48118727,
-      "title": "The Emacsification of Software",
-      "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 415,
-      "author": "rdslw",
-      "created": "2026-05-13 07:06:14",
-      "created_at": 1778655974000
+      "id": 48140922,
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "score": 451,
+      "author": "gjuggler",
+      "created": "2026-05-14 20:39:12",
+      "created_at": 1778791152000
     }
   ],
   "code": 200,
