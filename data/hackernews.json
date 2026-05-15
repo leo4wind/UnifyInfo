@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-15T06:49:16.692Z"
+    "lastUpdate": "2026-05-15T10:11:46.718Z"
   },
   "data": [
     {
       "id": 48120629,
       "title": "I moved my digital stack to Europe",
       "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 1011,
+      "score": 1019,
       "author": "monokai_nl",
       "created": "2026-05-13 11:42:20",
       "created_at": 1778672540000
@@ -19,16 +19,25 @@
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 763,
+      "score": 874,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
     },
     {
+      "id": 48132488,
+      "title": "Rewrite Bun in Rust has been merged",
+      "link": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 649,
+      "author": "Chaoses",
+      "created": "2026-05-14 08:15:31",
+      "created_at": 1778746531000
+    },
+    {
       "id": 48121266,
       "title": "Leaving GitHub for Forgejo",
       "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 623,
+      "score": 625,
       "author": "jorijn",
       "created": "2026-05-13 12:54:00",
       "created_at": 1778676840000
@@ -46,25 +55,16 @@
       "id": 48136262,
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 599,
+      "score": 602,
       "author": "dmayo",
       "created": "2026-05-14 14:51:14",
       "created_at": 1778770274000
     },
     {
-      "id": 48132488,
-      "title": "Rewrite Bun in Rust has been merged",
-      "link": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 594,
-      "author": "Chaoses",
-      "created": "2026-05-14 08:15:31",
-      "created_at": 1778746531000
-    },
-    {
       "id": 48137145,
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 550,
+      "score": 596,
       "author": "allenleee",
       "created": "2026-05-14 15:47:31",
       "created_at": 1778773651000
@@ -73,28 +73,28 @@
       "id": 48130950,
       "title": "Claude for Small Business",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 517,
+      "score": 521,
       "author": "neilfrndes",
       "created": "2026-05-14 03:59:35",
       "created_at": 1778731175000
     },
     {
-      "id": 48139148,
-      "title": "AI is making me dumb",
-      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "score": 470,
-      "author": "Eighth",
-      "created": "2026-05-14 18:19:28",
-      "created_at": 1778782768000
-    },
-    {
       "id": 48140922,
       "title": "New arXiv policy: 1-year ban for hallucinated references",
       "link": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "score": 451,
+      "score": 503,
       "author": "gjuggler",
       "created": "2026-05-14 20:39:12",
       "created_at": 1778791152000
+    },
+    {
+      "id": 48139148,
+      "title": "AI is making me dumb",
+      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "score": 488,
+      "author": "Eighth",
+      "created": "2026-05-14 18:19:28",
+      "created_at": 1778782768000
     }
   ],
   "code": 200,
