@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-14T21:01:46.436Z"
+    "lastUpdate": "2026-05-15T02:06:16.083Z"
   },
   "data": [
     {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 371,
+      "score": 625,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
     },
     {
-      "id": 48137145,
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 385,
-      "author": "allenleee",
-      "created": "2026-05-14 15:47:31",
-      "created_at": 1778773651000
+      "id": 48142108,
+      "title": "A few words on DS4",
+      "link": "https://antirez.com/news/165",
+      "score": 158,
+      "author": "caust1c",
+      "created": "2026-05-14 22:29:12",
+      "created_at": 1778797752000
+    },
+    {
+      "id": 48142964,
+      "title": "Elevated error rates on Opus 4.7",
+      "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "score": 48,
+      "author": "rob",
+      "created": "2026-05-15 00:22:53",
+      "created_at": 1778804573000
     },
     {
       "id": 48139219,
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 91,
+      "score": 262,
       "author": "quadrige",
       "created": "2026-05-14 18:25:09",
       "created_at": 1778783109000
     },
     {
+      "id": 48142553,
+      "title": "Have a Coherent AI Policy",
+      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "score": 42,
+      "author": "ai_critic",
+      "created": "2026-05-14 23:24:45",
+      "created_at": 1778801085000
+    },
+    {
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 491,
+      "author": "allenleee",
+      "created": "2026-05-14 15:47:31",
+      "created_at": 1778773651000
+    },
+    {
+      "id": 48140529,
+      "title": "Codex is now in the ChatGPT mobile app",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 180,
+      "author": "mikeevans",
+      "created": "2026-05-14 20:06:14",
+      "created_at": 1778789174000
+    },
+    {
       "id": 48138268,
       "title": "New Nginx Exploit",
       "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 198,
+      "score": 292,
       "author": "hetsaraiya",
       "created": "2026-05-14 17:17:48",
       "created_at": 1778779068000
     },
     {
-      "id": 48139355,
-      "title": "The AI Zombification of Universities",
-      "link": "https://www.thenewcritic.com/p/the-great-zombification",
-      "score": 116,
-      "author": "rmdmphilosopher",
-      "created": "2026-05-14 18:37:08",
-      "created_at": 1778783828000
+      "id": 48140541,
+      "title": "RISC-V Router",
+      "link": "https://router.start9.com/",
+      "score": 74,
+      "author": "janandonly",
+      "created": "2026-05-14 20:06:53",
+      "created_at": 1778789213000
     },
     {
-      "id": 48139704,
-      "title": "WinUI 3 Performance: A Leap Forward",
-      "link": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
-      "score": 46,
-      "author": "whatever3",
-      "created": "2026-05-14 19:01:58",
-      "created_at": 1778785318000
-    },
-    {
-      "id": 48139316,
-      "title": "The Power of a Free Popsicle (2018)",
-      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "score": 42,
-      "author": "NaOH",
-      "created": "2026-05-14 18:33:47",
-      "created_at": 1778783627000
-    },
-    {
-      "id": 48137553,
-      "title": "HDD Firmware Hacking",
-      "link": "https://icode4.coffee/?p=1465",
-      "score": 77,
-      "author": "jsploit",
-      "created": "2026-05-14 16:19:29",
-      "created_at": 1778775569000
-    },
-    {
-      "id": 48139144,
-      "title": "You Don't Align an AI, You Align with It",
-      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "score": 48,
-      "author": "danieltanfh95",
-      "created": "2026-05-14 18:19:13",
-      "created_at": 1778782753000
+      "id": 48140953,
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "score": 61,
+      "author": "p_stuart82",
+      "created": "2026-05-14 20:41:48",
+      "created_at": 1778791308000
     }
   ],
   "code": 200,
