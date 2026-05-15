@@ -3,89 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-15T13:28:42.368Z"
+    "lastUpdate": "2026-05-15T17:21:21.686Z"
   },
   "data": [
+    {
+      "id": 48150431,
+      "title": "Project Gutenberg – keeps getting better",
+      "link": "https://www.gutenberg.org/",
+      "score": 140,
+      "author": "JSeiko",
+      "created": "2026-05-15 16:15:36",
+      "created_at": 1778861736000
+    },
+    {
+      "id": 48148460,
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 183,
+      "author": "happyhardcore",
+      "created": "2026-05-15 13:39:54",
+      "created_at": 1778852394000
+    },
+    {
+      "id": 48150723,
+      "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+      "link": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+      "score": 40,
+      "author": "steveharing1",
+      "created": "2026-05-15 16:38:50",
+      "created_at": 1778863130000
+    },
     {
       "id": 48147058,
       "title": "O(x)Caml in Space",
       "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "score": 111,
+      "score": 188,
       "author": "yminsky",
       "created": "2026-05-15 10:55:51",
       "created_at": 1778842551000
     },
     {
-      "id": 48146369,
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "link": "https://github.com/Andyyyy64/whichllm",
-      "score": 206,
-      "author": "andyyyy64",
-      "created": "2026-05-15 09:19:24",
-      "created_at": 1778836764000
+      "id": 48150097,
+      "title": "I built Zenith: a live local-first fixed viewport planetarium",
+      "link": "https://smorgasb.org/zenith-tech/",
+      "score": 28,
+      "author": "surprisetalk",
+      "created": "2026-05-15 15:45:11",
+      "created_at": 1778859911000
+    },
+    {
+      "id": 48148726,
+      "title": "ASCII by Jason Scott",
+      "link": "https://ascii.textfiles.com/",
+      "score": 68,
+      "author": "bookofjoe",
+      "created": "2026-05-15 14:02:36",
+      "created_at": 1778853756000
     },
     {
       "id": 48146129,
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "link": "https://explorer.samismith.com/",
-      "score": 242,
+      "score": 366,
       "author": "smusamashah",
       "created": "2026-05-15 08:45:36",
       "created_at": 1778834736000
     },
     {
-      "id": 48147945,
-      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
-      "link": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
-      "score": 48,
-      "author": "chbint",
-      "created": "2026-05-15 12:49:27",
-      "created_at": 1778849367000
-    },
-    {
-      "id": 48147339,
-      "title": "Welcome to the Strip Mining Era of OSS Security",
-      "link": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+      "id": 48147021,
+      "title": "The sigmoids won't save you",
+      "link": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
       "score": 41,
-      "author": "salsakran",
-      "created": "2026-05-15 11:37:17",
-      "created_at": 1778845037000
+      "author": "Tomte",
+      "created": "2026-05-15 10:51:13",
+      "created_at": 1778842273000
     },
     {
-      "id": 48147603,
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "link": "https://radicle.dev/",
-      "score": 40,
-      "author": "KolmogorovComp",
-      "created": "2026-05-15 12:07:55",
-      "created_at": 1778846875000
-    },
-    {
-      "id": 48138136,
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 938,
-      "author": "arkadiyt",
-      "created": "2026-05-14 17:08:00",
-      "created_at": 1778778480000
-    },
-    {
-      "id": 48142251,
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 351,
-      "author": "cdrnsf",
-      "created": "2026-05-14 22:44:16",
-      "created_at": 1778798656000
-    },
-    {
-      "id": 48142108,
-      "title": "A few words on DS4",
-      "link": "https://antirez.com/news/165",
-      "score": 360,
-      "author": "caust1c",
-      "created": "2026-05-14 22:29:12",
-      "created_at": 1778797752000
+      "id": 48150069,
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "link": "https://github.com/neilsonnn/image-blaster",
+      "score": 15,
+      "author": "MattRogish",
+      "created": "2026-05-15 15:42:37",
+      "created_at": 1778859757000
     }
   ],
   "code": 200,
