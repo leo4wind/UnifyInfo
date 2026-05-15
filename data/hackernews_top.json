@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-15T10:11:46.918Z"
+    "lastUpdate": "2026-05-15T13:28:42.316Z"
   },
   "data": [
+    {
+      "id": 48147058,
+      "title": "O(x)Caml in Space",
+      "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "score": 111,
+      "author": "yminsky",
+      "created": "2026-05-15 10:55:51",
+      "created_at": 1778842551000
+    },
+    {
+      "id": 48146369,
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "score": 206,
+      "author": "andyyyy64",
+      "created": "2026-05-15 09:19:24",
+      "created_at": 1778836764000
+    },
     {
       "id": 48146129,
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "link": "https://explorer.samismith.com/",
-      "score": 33,
+      "score": 242,
       "author": "smusamashah",
       "created": "2026-05-15 08:45:36",
       "created_at": 1778834736000
     },
     {
+      "id": 48147945,
+      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "link": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+      "score": 48,
+      "author": "chbint",
+      "created": "2026-05-15 12:49:27",
+      "created_at": 1778849367000
+    },
+    {
+      "id": 48147339,
+      "title": "Welcome to the Strip Mining Era of OSS Security",
+      "link": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+      "score": 41,
+      "author": "salsakran",
+      "created": "2026-05-15 11:37:17",
+      "created_at": 1778845037000
+    },
+    {
+      "id": 48147603,
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "link": "https://radicle.dev/",
+      "score": 40,
+      "author": "KolmogorovComp",
+      "created": "2026-05-15 12:07:55",
+      "created_at": 1778846875000
+    },
+    {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 874,
+      "score": 938,
       "author": "arkadiyt",
       "created": "2026-05-14 17:08:00",
       "created_at": 1778778480000
     },
     {
-      "id": 48146424,
-      "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
-      "link": "https://relax.ai/docs",
-      "score": 12,
-      "author": "benjamintnorris",
-      "created": "2026-05-15 09:27:26",
-      "created_at": 1778837246000
-    },
-    {
-      "id": 48137629,
-      "title": "Building ML framework with Rust and Category Theory",
-      "link": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "score": 32,
-      "author": "adamnemecek",
-      "created": "2026-05-14 16:24:28",
-      "created_at": 1778775868000
-    },
-    {
-      "id": 48144670,
-      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "link": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "score": 27,
-      "author": "jlengelbrecht",
-      "created": "2026-05-15 04:48:23",
-      "created_at": 1778820503000
-    },
-    {
-      "id": 48142108,
-      "title": "A few words on DS4",
-      "link": "https://antirez.com/news/165",
-      "score": 315,
-      "author": "caust1c",
-      "created": "2026-05-14 22:29:12",
-      "created_at": 1778797752000
-    },
-    {
       "id": 48142251,
       "title": "UK government replaces Palantir software with internally-built refugee system",
       "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 213,
+      "score": 351,
       "author": "cdrnsf",
       "created": "2026-05-14 22:44:16",
       "created_at": 1778798656000
     },
     {
-      "id": 48144380,
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 144,
-      "author": "kspacewalk2",
-      "created": "2026-05-15 03:56:14",
-      "created_at": 1778817374000
-    },
-    {
-      "id": 48137145,
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 596,
-      "author": "allenleee",
-      "created": "2026-05-14 15:47:31",
-      "created_at": 1778773651000
-    },
-    {
-      "id": 48139219,
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 366,
-      "author": "quadrige",
-      "created": "2026-05-14 18:25:09",
-      "created_at": 1778783109000
+      "id": 48142108,
+      "title": "A few words on DS4",
+      "link": "https://antirez.com/news/165",
+      "score": 360,
+      "author": "caust1c",
+      "created": "2026-05-14 22:29:12",
+      "created_at": 1778797752000
     }
   ],
   "code": 200,
