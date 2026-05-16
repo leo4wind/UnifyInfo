@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-16T12:57:14.384Z"
+    "lastUpdate": "2026-05-16T16:44:41.237Z"
   },
   "data": [
     {
-      "id": 48158506,
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "link": "https://arxiv.org/abs/2605.12357",
-      "score": 87,
-      "author": "44za12",
-      "created": "2026-05-16 09:30:06",
-      "created_at": 1778923806000
-    },
-    {
-      "id": 48159241,
-      "title": "Accelerando (2005)",
-      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "id": 48160914,
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
       "score": 43,
-      "author": "eamag",
-      "created": "2026-05-16 11:36:32",
-      "created_at": 1778931392000
-    },
-    {
-      "id": 48158494,
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "link": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "score": 63,
-      "author": "breve",
-      "created": "2026-05-16 09:27:59",
-      "created_at": 1778923679000
-    },
-    {
-      "id": 48158606,
-      "title": "Futhark by Example",
-      "link": "https://futhark-lang.org/examples.html",
-      "score": 49,
-      "author": "tosh",
-      "created": "2026-05-16 09:50:10",
-      "created_at": 1778925010000
-    },
-    {
-      "id": 48159282,
-      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "link": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-      "score": 54,
-      "author": "beardyw",
-      "created": "2026-05-16 11:43:45",
-      "created_at": 1778931825000
-    },
-    {
-      "id": 48150431,
-      "title": "Project Gutenberg – keeps getting better",
-      "link": "https://www.gutenberg.org/",
-      "score": 1008,
-      "author": "JSeiko",
-      "created": "2026-05-15 16:15:36",
-      "created_at": 1778861736000
+      "author": "openrockets",
+      "created": "2026-05-16 15:12:17",
+      "created_at": 1778944337000
     },
     {
       "id": 48159445,
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "link": "https://nvlabs.github.io/Sana/WM/",
-      "score": 6,
+      "score": 167,
       "author": "mjgil",
       "created": "2026-05-16 12:06:21",
       "created_at": 1778933181000
     },
     {
-      "id": 48157559,
-      "title": "Frontier AI has broken the open CTF format",
-      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 197,
-      "author": "frays",
-      "created": "2026-05-16 07:01:55",
-      "created_at": 1778914915000
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 190,
+      "author": "mpweiher",
+      "created": "2026-05-16 09:14:26",
+      "created_at": 1778922866000
     },
     {
-      "id": 48131865,
-      "title": "A Tiny E Reader",
-      "link": "https://nthp.me/blog/2026/a-tiny-e-reader/",
-      "score": 23,
-      "author": "louismerlin",
-      "created": "2026-05-14 06:35:10",
-      "created_at": 1778740510000
+      "id": 48158506,
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "link": "https://arxiv.org/abs/2605.12357",
+      "score": 140,
+      "author": "44za12",
+      "created": "2026-05-16 09:30:06",
+      "created_at": 1778923806000
+    },
+    {
+      "id": 48160211,
+      "title": "Accelerate",
+      "link": "https://github.com/AccelerateHS/accelerate",
+      "score": 40,
+      "author": "tosh",
+      "created": "2026-05-16 13:42:34",
+      "created_at": 1778938954000
+    },
+    {
+      "id": 48120162,
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://codeberg.org/hails/wsl9x",
+      "score": 7,
+      "author": "ibobev",
+      "created": "2026-05-13 10:37:39",
+      "created_at": 1778668659000
+    },
+    {
+      "id": 48159790,
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "link": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "score": 46,
+      "author": "meysamazad",
+      "created": "2026-05-16 12:49:07",
+      "created_at": 1778935747000
+    },
+    {
+      "id": 48160807,
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "link": "https://www.seangoedecke.com/steering-vectors/",
+      "score": 66,
+      "author": "Brajeshwar",
+      "created": "2026-05-16 14:58:16",
+      "created_at": 1778943496000
+    },
+    {
+      "id": 48159241,
+      "title": "Accelerando (2005)",
+      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 130,
+      "author": "eamag",
+      "created": "2026-05-16 11:36:32",
+      "created_at": 1778931392000
+    },
+    {
+      "id": 48150431,
+      "title": "Project Gutenberg – keeps getting better",
+      "link": "https://www.gutenberg.org/",
+      "score": 1069,
+      "author": "JSeiko",
+      "created": "2026-05-15 16:15:36",
+      "created_at": 1778861736000
     }
   ],
   "code": 200,
