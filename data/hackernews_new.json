@@ -3,32 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-16T16:44:41.237Z"
+    "lastUpdate": "2026-05-16T20:37:41.657Z"
   },
   "data": [
     {
-      "id": 48160914,
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "score": 43,
-      "author": "openrockets",
-      "created": "2026-05-16 15:12:17",
-      "created_at": 1778944337000
+      "id": 48161997,
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 64,
+      "author": "rbanffy",
+      "created": "2026-05-16 17:12:58",
+      "created_at": 1778951578000
+    },
+    {
+      "id": 48163392,
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "score": 17,
+      "author": "bookofjoe",
+      "created": "2026-05-16 20:14:06",
+      "created_at": 1778962446000
+    },
+    {
+      "id": 48120162,
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://codeberg.org/hails/wsl9x",
+      "score": 123,
+      "author": "ibobev",
+      "created": "2026-05-13 10:37:39",
+      "created_at": 1778668659000
     },
     {
       "id": 48159445,
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "link": "https://nvlabs.github.io/Sana/WM/",
-      "score": 167,
+      "score": 258,
       "author": "mjgil",
       "created": "2026-05-16 12:06:21",
       "created_at": 1778933181000
     },
     {
+      "id": 48159241,
+      "title": "Accelerando (2005)",
+      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 196,
+      "author": "eamag",
+      "created": "2026-05-16 11:36:32",
+      "created_at": 1778931392000
+    },
+    {
+      "id": 48160914,
+      "title": "An australian teen team is making radio astronomy affordable for rural schools",
+      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "score": 97,
+      "author": "openrockets",
+      "created": "2026-05-16 15:12:17",
+      "created_at": 1778944337000
+    },
+    {
       "id": 48158400,
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 190,
+      "score": 321,
       "author": "mpweiher",
       "created": "2026-05-16 09:14:26",
       "created_at": 1778922866000
@@ -37,64 +73,28 @@
       "id": 48158506,
       "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
       "link": "https://arxiv.org/abs/2605.12357",
-      "score": 140,
+      "score": 169,
       "author": "44za12",
       "created": "2026-05-16 09:30:06",
       "created_at": 1778923806000
     },
     {
-      "id": 48160211,
-      "title": "Accelerate",
-      "link": "https://github.com/AccelerateHS/accelerate",
-      "score": 40,
-      "author": "tosh",
-      "created": "2026-05-16 13:42:34",
-      "created_at": 1778938954000
+      "id": 48157559,
+      "title": "Frontier AI has broken the open CTF format",
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 295,
+      "author": "frays",
+      "created": "2026-05-16 07:01:55",
+      "created_at": 1778914915000
     },
     {
-      "id": 48120162,
-      "title": "Windows 9x Subsystem for Linux",
-      "link": "https://codeberg.org/hails/wsl9x",
-      "score": 7,
-      "author": "ibobev",
-      "created": "2026-05-13 10:37:39",
-      "created_at": 1778668659000
-    },
-    {
-      "id": 48159790,
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "link": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
-      "score": 46,
-      "author": "meysamazad",
-      "created": "2026-05-16 12:49:07",
-      "created_at": 1778935747000
-    },
-    {
-      "id": 48160807,
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "link": "https://www.seangoedecke.com/steering-vectors/",
-      "score": 66,
-      "author": "Brajeshwar",
-      "created": "2026-05-16 14:58:16",
-      "created_at": 1778943496000
-    },
-    {
-      "id": 48159241,
-      "title": "Accelerando (2005)",
-      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 130,
-      "author": "eamag",
-      "created": "2026-05-16 11:36:32",
-      "created_at": 1778931392000
-    },
-    {
-      "id": 48150431,
-      "title": "Project Gutenberg – keeps getting better",
-      "link": "https://www.gutenberg.org/",
-      "score": 1069,
-      "author": "JSeiko",
-      "created": "2026-05-15 16:15:36",
-      "created_at": 1778861736000
+      "id": 48129593,
+      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+      "link": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+      "score": 18,
+      "author": "Caiero",
+      "created": "2026-05-14 00:30:55",
+      "created_at": 1778718655000
     }
   ],
   "code": 200,
