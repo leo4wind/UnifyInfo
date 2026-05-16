@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-15T20:50:39.378Z"
+    "lastUpdate": "2026-05-16T01:58:58.614Z"
   },
   "data": [
+    {
+      "id": 48155297,
+      "title": "Erlang/OTP 29.0",
+      "link": "https://www.erlang.org/news/188",
+      "score": 100,
+      "author": "pyinstallwoes",
+      "created": "2026-05-15 23:33:32",
+      "created_at": 1778888012000
+    },
     {
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "link": "https://www.gutenberg.org/",
-      "score": 498,
+      "score": 720,
       "author": "JSeiko",
       "created": "2026-05-15 16:15:36",
       "created_at": 1778861736000
     },
     {
-      "id": 48152729,
-      "title": "WinCE64 – Windows CE 2.11 for N64",
-      "link": "https://github.com/ThroatyMumbo/WinCE64",
-      "score": 56,
-      "author": "xyru",
-      "created": "2026-05-15 19:23:29",
-      "created_at": 1778873009000
+      "id": 48155690,
+      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "score": 69,
+      "author": "alligatorplum",
+      "created": "2026-05-16 00:36:02",
+      "created_at": 1778891762000
+    },
+    {
+      "id": 48153379,
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 816,
+      "author": "reasonableklout",
+      "created": "2026-05-15 20:26:47",
+      "created_at": 1778876807000
     },
     {
       "id": 48152168,
       "title": "The Zulip Foundation",
       "link": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 61,
+      "score": 221,
       "author": "boramalper",
       "created": "2026-05-15 18:37:01",
       "created_at": 1778870221000
     },
     {
-      "id": 48153142,
-      "title": "Microscale Thermite Reaction",
-      "link": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
-      "score": 20,
-      "author": "krunck",
-      "created": "2026-05-15 20:03:17",
-      "created_at": 1778875397000
+      "id": 48155324,
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "link": "https://dynomight.net/p2p-meth/",
+      "score": 46,
+      "author": "tomjakubowski",
+      "created": "2026-05-15 23:37:32",
+      "created_at": 1778888252000
+    },
+    {
+      "id": 48136000,
+      "title": "Naturally Occurring Quasicrystals",
+      "link": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "score": 56,
+      "author": "lukeplato",
+      "created": "2026-05-14 14:32:46",
+      "created_at": 1778769166000
+    },
+    {
+      "id": 48154711,
+      "title": "How to Write to SSDs [pdf]",
+      "link": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "score": 51,
+      "author": "matt_d",
+      "created": "2026-05-15 22:23:38",
+      "created_at": 1778883818000
+    },
+    {
+      "id": 48149259,
+      "title": "Additive Blending on the Nintendo 64",
+      "link": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 14,
+      "author": "ibobev",
+      "created": "2026-05-15 14:39:51",
+      "created_at": 1778855991000
     },
     {
       "id": 48148460,
       "title": "A 0-click exploit chain for the Pixel 10",
       "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 270,
+      "score": 340,
       "author": "happyhardcore",
       "created": "2026-05-15 13:39:54",
       "created_at": 1778852394000
-    },
-    {
-      "id": 48151383,
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "score": 244,
-      "author": "tencentshill",
-      "created": "2026-05-15 17:28:24",
-      "created_at": 1778866104000
-    },
-    {
-      "id": 48151767,
-      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
-      "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "score": 89,
-      "author": "drob518",
-      "created": "2026-05-15 18:00:43",
-      "created_at": 1778868043000
-    },
-    {
-      "id": 48152825,
-      "title": "Meta to receive $3.3B in tax breaks for its $10B Louisiana data center",
-      "link": "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
-      "score": 58,
-      "author": "logickkk1",
-      "created": "2026-05-15 19:32:34",
-      "created_at": 1778873554000
-    },
-    {
-      "id": 48150069,
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "link": "https://github.com/neilsonnn/image-blaster",
-      "score": 88,
-      "author": "MattRogish",
-      "created": "2026-05-15 15:42:37",
-      "created_at": 1778859757000
-    },
-    {
-      "id": 48152994,
-      "title": "California bill would require patches or refunds when online games shut down",
-      "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 51,
-      "author": "Lihh27",
-      "created": "2026-05-15 19:48:48",
-      "created_at": 1778874528000
     }
   ],
   "code": 200,
