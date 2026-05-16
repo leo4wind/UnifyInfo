@@ -3,23 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-16T06:14:30.511Z"
+    "lastUpdate": "2026-05-16T09:20:13.052Z"
   },
   "data": [
+    {
+      "id": 48157559,
+      "title": "Frontier AI has broken the open CTF format",
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 98,
+      "author": "frays",
+      "created": "2026-05-16 07:01:55",
+      "created_at": 1778914915000
+    },
     {
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "link": "https://www.gutenberg.org/",
-      "score": 846,
+      "score": 926,
       "author": "JSeiko",
       "created": "2026-05-15 16:15:36",
       "created_at": 1778861736000
     },
     {
+      "id": 48155212,
+      "title": "SQL patterns I use to catch transaction fraud",
+      "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "score": 199,
+      "author": "redbell",
+      "created": "2026-05-15 23:22:30",
+      "created_at": 1778887350000
+    },
+    {
       "id": 48114208,
       "title": "Ploopy Bean: a trackpoint for every computer",
       "link": "https://ploopy.co/shop/bean-pointing-stick/",
-      "score": 62,
+      "score": 93,
       "author": "jibcage",
       "created": "2026-05-12 20:39:04",
       "created_at": 1778618344000
@@ -28,7 +46,7 @@
       "id": 48153379,
       "title": "I believe there are entire companies right now under AI psychosis",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1122,
+      "score": 1319,
       "author": "reasonableklout",
       "created": "2026-05-15 20:26:47",
       "created_at": 1778876807000
@@ -37,25 +55,16 @@
       "id": 48132106,
       "title": "The bird eye was pushed to an evolutionary extreme",
       "link": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "score": 69,
+      "score": 104,
       "author": "sohkamyung",
       "created": "2026-05-14 07:17:16",
       "created_at": 1778743036000
     },
     {
-      "id": 48155212,
-      "title": "SQL patterns I use to catch transaction fraud",
-      "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "score": 82,
-      "author": "redbell",
-      "created": "2026-05-15 23:22:30",
-      "created_at": 1778887350000
-    },
-    {
       "id": 48149259,
       "title": "Additive Blending on the Nintendo 64",
       "link": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "score": 76,
+      "score": 105,
       "author": "ibobev",
       "created": "2026-05-15 14:39:51",
       "created_at": 1778855991000
@@ -64,7 +73,7 @@
       "id": 48155324,
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "link": "https://dynomight.net/p2p-meth/",
-      "score": 97,
+      "score": 116,
       "author": "tomjakubowski",
       "created": "2026-05-15 23:37:32",
       "created_at": 1778888252000
@@ -73,25 +82,16 @@
       "id": 48136000,
       "title": "Naturally Occurring Quasicrystals",
       "link": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 85,
+      "score": 95,
       "author": "lukeplato",
       "created": "2026-05-14 14:32:46",
       "created_at": 1778769166000
     },
     {
-      "id": 48118478,
-      "title": "England Runestones",
-      "link": "https://en.wikipedia.org/wiki/England_runestones",
-      "score": 20,
-      "author": "cl3misch",
-      "created": "2026-05-13 06:25:01",
-      "created_at": 1778653501000
-    },
-    {
       "id": 48148460,
       "title": "A 0-click exploit chain for the Pixel 10",
       "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 357,
+      "score": 374,
       "author": "happyhardcore",
       "created": "2026-05-15 13:39:54",
       "created_at": 1778852394000
