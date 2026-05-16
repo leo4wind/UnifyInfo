@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-16T01:58:58.519Z"
+    "lastUpdate": "2026-05-16T06:14:30.202Z"
   },
   "data": [
-    {
-      "id": 48138136,
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 1046,
-      "author": "arkadiyt",
-      "created": "2026-05-14 17:08:00",
-      "created_at": 1778778480000
-    },
     {
       "id": 48153379,
       "title": "I believe there are entire companies right now under AI psychosis",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 816,
+      "score": 1122,
       "author": "reasonableklout",
       "created": "2026-05-15 20:26:47",
       "created_at": 1778876807000
     },
     {
+      "id": 48138136,
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 1053,
+      "author": "arkadiyt",
+      "created": "2026-05-14 17:08:00",
+      "created_at": 1778778480000
+    },
+    {
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "link": "https://www.gutenberg.org/",
-      "score": 720,
+      "score": 846,
       "author": "JSeiko",
       "created": "2026-05-15 16:15:36",
       "created_at": 1778861736000
@@ -37,7 +37,7 @@
       "id": 48132488,
       "title": "Rewrite Bun in Rust has been merged",
       "link": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 688,
+      "score": 689,
       "author": "Chaoses",
       "created": "2026-05-14 08:15:31",
       "created_at": 1778746531000
@@ -46,7 +46,7 @@
       "id": 48137145,
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 675,
+      "score": 676,
       "author": "allenleee",
       "created": "2026-05-14 15:47:31",
       "created_at": 1778773651000
@@ -55,7 +55,7 @@
       "id": 48140922,
       "title": "New arXiv policy: 1-year ban for hallucinated references",
       "link": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "score": 611,
+      "score": 622,
       "author": "gjuggler",
       "created": "2026-05-14 20:39:12",
       "created_at": 1778791152000
@@ -64,7 +64,7 @@
       "id": 48136262,
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "score": 610,
+      "score": 613,
       "author": "dmayo",
       "created": "2026-05-14 14:51:14",
       "created_at": 1778770274000
@@ -73,28 +73,28 @@
       "id": 48143880,
       "title": "Mullvad exit IPs are surprisingly identifying",
       "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 565,
+      "score": 572,
       "author": "RGBCube",
       "created": "2026-05-15 02:35:35",
       "created_at": 1778812535000
     },
     {
-      "id": 48130950,
-      "title": "Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 532,
-      "author": "neilfrndes",
-      "created": "2026-05-14 03:59:35",
-      "created_at": 1778731175000
-    },
-    {
       "id": 48139148,
       "title": "AI is making me dumb",
       "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "score": 531,
+      "score": 533,
       "author": "Eighth",
       "created": "2026-05-14 18:19:28",
       "created_at": 1778782768000
+    },
+    {
+      "id": 48146129,
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "link": "https://explorer.samismith.com/",
+      "score": 500,
+      "author": "smusamashah",
+      "created": "2026-05-15 08:45:36",
+      "created_at": 1778834736000
     }
   ],
   "code": 200,
