@@ -3,32 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-17T06:38:28.324Z"
+    "lastUpdate": "2026-05-17T09:26:42.542Z"
   },
   "data": [
+    {
+      "id": 48166920,
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "score": 28,
+      "author": "z303",
+      "created": "2026-05-17 08:00:04",
+      "created_at": 1779004804000
+    },
     {
       "id": 48164287,
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "link": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 307,
+      "score": 384,
       "author": "gidellav",
       "created": "2026-05-16 22:23:50",
       "created_at": 1778970230000
     },
     {
-      "id": 48165295,
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "link": "https://maurycyz.com/projects/mcusite/",
-      "score": 95,
-      "author": "zdw",
-      "created": "2026-05-17 01:25:26",
-      "created_at": 1778981126000
+      "id": 48166459,
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "score": 159,
+      "author": "WithinReason",
+      "created": "2026-05-17 06:17:26",
+      "created_at": 1778998646000
     },
     {
       "id": 48142115,
       "title": "Colossus: The Forbin Project",
       "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 67,
+      "score": 98,
       "author": "doener",
       "created": "2026-05-14 22:30:16",
       "created_at": 1778797816000
@@ -37,61 +46,52 @@
       "id": 48164432,
       "title": "A nicer voltmeter clock",
       "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 131,
+      "score": 173,
       "author": "surprisetalk",
       "created": "2026-05-16 22:45:16",
       "created_at": 1778971516000
     },
     {
-      "id": 48166275,
-      "title": "Show HN: Codiff, a local diff review tool",
-      "link": "https://github.com/nkzw-tech/codiff/releases",
-      "score": 6,
-      "author": "cpojer",
-      "created": "2026-05-17 05:30:14",
-      "created_at": 1778995814000
-    },
-    {
-      "id": 48165265,
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "link": "https://arxiv.org/abs/2601.19897",
-      "score": 39,
-      "author": "teleforce",
-      "created": "2026-05-17 01:19:14",
-      "created_at": 1778980754000
-    },
-    {
-      "id": 48163392,
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 144,
-      "author": "bookofjoe",
-      "created": "2026-05-16 20:14:06",
-      "created_at": 1778962446000
+      "id": 48165295,
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "link": "https://maurycyz.com/projects/mcusite/",
+      "score": 124,
+      "author": "zdw",
+      "created": "2026-05-17 01:25:26",
+      "created_at": 1778981126000
     },
     {
       "id": 48144584,
       "title": "C++26 Shipped a SIMD Library Nobody Asked For",
       "link": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
-      "score": 80,
+      "score": 127,
       "author": "signa11",
       "created": "2026-05-15 04:32:21",
       "created_at": 1778819541000
     },
     {
-      "id": 48139435,
-      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
-      "link": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
-      "score": 13,
-      "author": "PaulHoule",
-      "created": "2026-05-14 18:43:29",
-      "created_at": 1778784209000
+      "id": 48163392,
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "score": 185,
+      "author": "bookofjoe",
+      "created": "2026-05-16 20:14:06",
+      "created_at": 1778962446000
+    },
+    {
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 535,
+      "author": "mpweiher",
+      "created": "2026-05-16 09:14:26",
+      "created_at": 1778922866000
     },
     {
       "id": 48159445,
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "link": "https://nvlabs.github.io/Sana/WM/",
-      "score": 322,
+      "score": 338,
       "author": "mjgil",
       "created": "2026-05-16 12:06:21",
       "created_at": 1778933181000
