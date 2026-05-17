@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-17T16:44:42.410Z"
+    "lastUpdate": "2026-05-17T20:38:34.058Z"
   },
   "data": [
     {
-      "id": 48168221,
-      "title": "I don't think AI will make your processes go faster",
-      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 274,
-      "author": "TheEdonian",
-      "created": "2026-05-17 12:13:45",
-      "created_at": 1779020025000
+      "id": 48147351,
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "link": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "score": 90,
+      "author": "ibobev",
+      "created": "2026-05-15 11:39:13",
+      "created_at": 1778845153000
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "link": "https://github.com/tech4bot/rk3562deb",
-      "score": 77,
+      "score": 176,
       "author": "tech4bot",
       "created": "2026-05-17 13:16:27",
       "created_at": 1779023787000
     },
     {
+      "id": 48170799,
+      "title": "The occasional ECONNRESET",
+      "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "score": 61,
+      "author": "zdw",
+      "created": "2026-05-17 17:09:36",
+      "created_at": 1779037776000
+    },
+    {
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 264,
+      "score": 521,
       "author": "nolok",
       "created": "2026-05-17 13:42:30",
       "created_at": 1779025350000
     },
     {
-      "id": 48168058,
-      "title": "Native all the way, until you need text",
-      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 251,
-      "author": "dive",
-      "created": "2026-05-17 11:49:46",
-      "created_at": 1779018586000
-    },
-    {
-      "id": 48168056,
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 229,
-      "author": "mooreds",
-      "created": "2026-05-17 11:49:31",
-      "created_at": 1779018571000
-    },
-    {
-      "id": 48147091,
-      "title": "Prolog Basics Explained with Pokémon",
-      "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 125,
-      "author": "birdculture",
-      "created": "2026-05-15 11:02:14",
-      "created_at": 1778842934000
-    },
-    {
-      "id": 48168159,
-      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
-      "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-      "score": 34,
-      "author": "bushwart",
-      "created": "2026-05-17 12:03:04",
-      "created_at": 1779019384000
-    },
-    {
       "id": 48140556,
-      "title": "Hindenburg's Smoking Room",
+      "title": "Hindenburg’s Smoking Room",
       "link": "https://www.airships.net/hindenburg-smoking-room/",
-      "score": 39,
+      "score": 101,
       "author": "crescit_eundo",
       "created": "2026-05-14 20:08:12",
       "created_at": 1778789292000
     },
     {
-      "id": 48168708,
-      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "score": 155,
-      "author": "zzzeek",
-      "created": "2026-05-17 13:22:14",
-      "created_at": 1779024134000
+      "id": 48168221,
+      "title": "I don't think AI will make your processes go faster",
+      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 416,
+      "author": "TheEdonian",
+      "created": "2026-05-17 12:13:45",
+      "created_at": 1779020025000
     },
     {
-      "id": 48168626,
-      "title": "AI is a technology not a product",
-      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "score": 114,
-      "author": "ch_sm",
-      "created": "2026-05-17 13:11:20",
-      "created_at": 1779023480000
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 328,
+      "author": "dive",
+      "created": "2026-05-17 11:49:46",
+      "created_at": 1779018586000
+    },
+    {
+      "id": 48133293,
+      "title": "High-Entropy Alloy",
+      "link": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+      "score": 81,
+      "author": "leonidasrup",
+      "created": "2026-05-14 10:08:04",
+      "created_at": 1778753284000
+    },
+    {
+      "id": 48168485,
+      "title": "CUDA Books",
+      "link": "https://github.com/alternbits/awesome-cuda-books",
+      "score": 81,
+      "author": "dariubs",
+      "created": "2026-05-17 12:52:06",
+      "created_at": 1779022326000
+    },
+    {
+      "id": 48156596,
+      "title": "Schanuel's Conjecture and the Semantics of Triton's FPSan",
+      "link": "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/",
+      "score": 10,
+      "author": "c1ccccc1",
+      "created": "2026-05-16 03:34:26",
+      "created_at": 1778902466000
     }
   ],
   "code": 200,
