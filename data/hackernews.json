@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-16T20:37:41.397Z"
+    "lastUpdate": "2026-05-17T02:00:13.102Z"
   },
   "data": [
     {
       "id": 48153379,
       "title": "I believe there are entire companies right now under AI psychosis",
       "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1772,
+      "score": 1886,
       "author": "reasonableklout",
       "created": "2026-05-15 20:26:47",
       "created_at": 1778876807000
@@ -19,25 +19,16 @@
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "link": "https://www.gutenberg.org/",
-      "score": 1112,
+      "score": 1163,
       "author": "JSeiko",
       "created": "2026-05-15 16:15:36",
       "created_at": 1778861736000
     },
     {
-      "id": 48140922,
-      "title": "New arXiv policy: 1-year ban for hallucinated references",
-      "link": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "score": 634,
-      "author": "gjuggler",
-      "created": "2026-05-14 20:39:12",
-      "created_at": 1778791152000
-    },
-    {
       "id": 48143880,
       "title": "Mullvad exit IPs are surprisingly identifying",
       "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 587,
+      "score": 590,
       "author": "RGBCube",
       "created": "2026-05-15 02:35:35",
       "created_at": 1778812535000
@@ -46,7 +37,7 @@
       "id": 48152994,
       "title": "Bill to block publishers from killing online games advances in California",
       "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 558,
+      "score": 567,
       "author": "Lihh27",
       "created": "2026-05-15 19:48:48",
       "created_at": 1778874528000
@@ -55,46 +46,55 @@
       "id": 48146129,
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "link": "https://explorer.samismith.com/",
-      "score": 522,
+      "score": 524,
       "author": "smusamashah",
       "created": "2026-05-15 08:45:36",
       "created_at": 1778834736000
     },
     {
-      "id": 48142251,
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 514,
-      "author": "cdrnsf",
-      "created": "2026-05-14 22:44:16",
-      "created_at": 1778798656000
-    },
-    {
-      "id": 48140529,
-      "title": "Codex is now in the ChatGPT mobile app",
-      "link": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 479,
-      "author": "mikeevans",
-      "created": "2026-05-14 20:06:14",
-      "created_at": 1778789174000
+      "id": 48151383,
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "score": 464,
+      "author": "tencentshill",
+      "created": "2026-05-15 17:28:24",
+      "created_at": 1778866104000
     },
     {
       "id": 48150900,
       "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
       "link": "https://github.com/oven-sh/bun/issues/30719",
-      "score": 457,
+      "score": 464,
       "author": "ndiddy",
       "created": "2026-05-15 16:51:25",
       "created_at": 1778863885000
     },
     {
-      "id": 48151383,
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "score": 455,
-      "author": "tencentshill",
-      "created": "2026-05-15 17:28:24",
-      "created_at": 1778866104000
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 437,
+      "author": "mpweiher",
+      "created": "2026-05-16 09:14:26",
+      "created_at": 1778922866000
+    },
+    {
+      "id": 48148460,
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 430,
+      "author": "happyhardcore",
+      "created": "2026-05-15 13:39:54",
+      "created_at": 1778852394000
+    },
+    {
+      "id": 48155690,
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "score": 414,
+      "author": "alligatorplum",
+      "created": "2026-05-16 00:36:02",
+      "created_at": 1778891762000
     }
   ],
   "code": 200,
