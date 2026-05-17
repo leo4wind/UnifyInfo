@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-17T12:54:53.911Z"
+    "lastUpdate": "2026-05-17T16:44:42.896Z"
   },
   "data": [
-    {
-      "id": 48168058,
-      "title": "Native all the way, until you need text",
-      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 55,
-      "author": "dive",
-      "created": "2026-05-17 11:49:46",
-      "created_at": 1779018586000
-    },
     {
       "id": 48168221,
       "title": "I don't think AI will make your processes go faster",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 27,
+      "score": 274,
       "author": "TheEdonian",
       "created": "2026-05-17 12:13:45",
       "created_at": 1779020025000
     },
     {
-      "id": 48168198,
-      "title": "Apple Silicon costs more than OpenRouter",
-      "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "score": 34,
-      "author": "datadrivenangel",
-      "created": "2026-05-17 12:09:23",
-      "created_at": 1779019763000
+      "id": 48168668,
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "link": "https://github.com/tech4bot/rk3562deb",
+      "score": 77,
+      "author": "tech4bot",
+      "created": "2026-05-17 13:16:27",
+      "created_at": 1779023787000
+    },
+    {
+      "id": 48168856,
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 264,
+      "author": "nolok",
+      "created": "2026-05-17 13:42:30",
+      "created_at": 1779025350000
+    },
+    {
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 251,
+      "author": "dive",
+      "created": "2026-05-17 11:49:46",
+      "created_at": 1779018586000
     },
     {
       "id": 48168056,
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
       "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 12,
+      "score": 229,
       "author": "mooreds",
       "created": "2026-05-17 11:49:31",
       "created_at": 1779018571000
     },
     {
-      "id": 48164287,
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "link": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 452,
-      "author": "gidellav",
-      "created": "2026-05-16 22:23:50",
-      "created_at": 1778970230000
-    },
-    {
-      "id": 48166459,
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 340,
-      "author": "WithinReason",
-      "created": "2026-05-17 06:17:26",
-      "created_at": 1778998646000
-    },
-    {
       "id": 48147091,
       "title": "Prolog Basics Explained with Pokémon",
       "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 45,
+      "score": 125,
       "author": "birdculture",
       "created": "2026-05-15 11:02:14",
       "created_at": 1778842934000
     },
     {
-      "id": 48164432,
-      "title": "A nicer voltmeter clock",
-      "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 231,
-      "author": "surprisetalk",
-      "created": "2026-05-16 22:45:16",
-      "created_at": 1778971516000
+      "id": 48168159,
+      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+      "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "score": 34,
+      "author": "bushwart",
+      "created": "2026-05-17 12:03:04",
+      "created_at": 1779019384000
     },
     {
-      "id": 48142115,
-      "title": "Colossus: The Forbin Project",
-      "link": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 131,
-      "author": "doener",
-      "created": "2026-05-14 22:30:16",
-      "created_at": 1778797816000
+      "id": 48140556,
+      "title": "Hindenburg's Smoking Room",
+      "link": "https://www.airships.net/hindenburg-smoking-room/",
+      "score": 39,
+      "author": "crescit_eundo",
+      "created": "2026-05-14 20:08:12",
+      "created_at": 1778789292000
     },
     {
-      "id": 48165295,
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "link": "https://maurycyz.com/projects/mcusite/",
-      "score": 161,
-      "author": "zdw",
-      "created": "2026-05-17 01:25:26",
-      "created_at": 1778981126000
+      "id": 48168708,
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "score": 155,
+      "author": "zzzeek",
+      "created": "2026-05-17 13:22:14",
+      "created_at": 1779024134000
+    },
+    {
+      "id": 48168626,
+      "title": "AI is a technology not a product",
+      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "score": 114,
+      "author": "ch_sm",
+      "created": "2026-05-17 13:11:20",
+      "created_at": 1779023480000
     }
   ],
   "code": 200,
