@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-18T14:52:23.856Z"
+    "lastUpdate": "2026-05-18T17:51:11.587Z"
   },
   "data": [
+    {
+      "id": 48182281,
+      "title": "Anthropic Acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 72,
+      "author": "tomeraberbach",
+      "created": "2026-05-18 17:01:21",
+      "created_at": 1779123681000
+    },
+    {
+      "id": 48181125,
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "link": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 223,
+      "author": "ildari",
+      "created": "2026-05-18 15:24:19",
+      "created_at": 1779117859000
+    },
     {
       "id": 48179677,
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "link": "https://github.com/zakirullin/files.md",
-      "score": 97,
+      "score": 329,
       "author": "zakirullin",
       "created": "2026-05-18 13:33:33",
       "created_at": 1779111213000
     },
     {
-      "id": 48151990,
-      "title": "The Aperiodic Table",
-      "link": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
-      "score": 28,
-      "author": "jgrahamc",
-      "created": "2026-05-15 18:23:19",
-      "created_at": 1778869399000
+      "id": 48163389,
+      "title": "The Quiet Renovation at Bitwarden",
+      "link": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "score": 229,
+      "author": "DaSHacka",
+      "created": "2026-05-16 20:13:41",
+      "created_at": 1778962421000
     },
     {
-      "id": 48179183,
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "link": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "score": 62,
-      "author": "bauc",
-      "created": "2026-05-18 13:01:18",
-      "created_at": 1779109278000
+      "id": 48179732,
+      "title": "Project Glasswing: what Mythos showed us",
+      "link": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "score": 149,
+      "author": "Fysi",
+      "created": "2026-05-18 13:37:11",
+      "created_at": 1779111431000
     },
     {
-      "id": 48135096,
-      "title": "Math Jokes in Alice in Wonderland",
-      "link": "https://storica.club/blog/alice-is-math-jokes/",
-      "score": 65,
-      "author": "yekbun123",
-      "created": "2026-05-14 13:28:16",
-      "created_at": 1778765296000
+      "id": 48156186,
+      "title": "Two computers, one monitor, zero fiddling – Alex Plescan",
+      "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
+      "score": 32,
+      "author": "ankitg12",
+      "created": "2026-05-16 02:13:19",
+      "created_at": 1778897599000
     },
     {
-      "id": 48177300,
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
-      "score": 77,
-      "author": "rurban",
-      "created": "2026-05-18 09:40:51",
-      "created_at": 1779097251000
+      "id": 48180204,
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "link": "https://github.com/2b2tplace/1m_release",
+      "score": 94,
+      "author": "exploraz",
+      "created": "2026-05-18 14:13:07",
+      "created_at": 1779113587000
     },
     {
-      "id": 48179029,
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "score": 75,
-      "author": "Bender",
-      "created": "2026-05-18 12:49:54",
-      "created_at": 1779108594000
+      "id": 48182592,
+      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "score": 33,
+      "author": "srameshc",
+      "created": "2026-05-18 17:25:54",
+      "created_at": 1779125154000
     },
     {
-      "id": 48178692,
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "score": 88,
-      "author": "jonbaer",
-      "created": "2026-05-18 12:20:50",
-      "created_at": 1779106850000
+      "id": 48162157,
+      "title": "What Is Date:Italy?",
+      "link": "http://aesthetikx.info/blog/date_italy.html",
+      "score": 48,
+      "author": "jollyjerry",
+      "created": "2026-05-16 17:31:35",
+      "created_at": 1778952695000
     },
     {
-      "id": 48167177,
-      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
-      "link": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
-      "score": 49,
-      "author": "ttsiodras",
-      "created": "2026-05-17 08:55:28",
-      "created_at": 1779008128000
-    },
-    {
-      "id": 48178184,
-      "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
-      "link": "https://github.com/stephenlthorn/auto-identity-remove",
-      "score": 282,
-      "author": "stephenlthorn",
-      "created": "2026-05-18 11:32:42",
-      "created_at": 1779103962000
-    },
-    {
-      "id": 48179931,
-      "title": "Shame them, shun them, ban them, beat them",
-      "link": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
-      "score": 4,
-      "author": "mday27",
-      "created": "2026-05-18 13:52:47",
-      "created_at": 1779112367000
+      "id": 48182754,
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 33,
+      "author": "nycdatasci",
+      "created": "2026-05-18 17:38:22",
+      "created_at": 1779125902000
     }
   ],
   "code": 200,
