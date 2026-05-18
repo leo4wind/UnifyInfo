@@ -3,41 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-17T20:38:33.879Z"
+    "lastUpdate": "2026-05-18T02:12:19.778Z"
   },
   "data": [
-    {
-      "id": 48153379,
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 2064,
-      "author": "reasonableklout",
-      "created": "2026-05-15 20:26:47",
-      "created_at": 1778876807000
-    },
     {
       "id": 48158400,
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 648,
+      "score": 660,
       "author": "mpweiher",
       "created": "2026-05-16 09:14:26",
       "created_at": 1778922866000
     },
     {
-      "id": 48152994,
-      "title": "Bill to block publishers from killing online games advances in California",
-      "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 591,
-      "author": "Lihh27",
-      "created": "2026-05-15 19:48:48",
-      "created_at": 1778874528000
-    },
-    {
       "id": 48166459,
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 563,
+      "score": 648,
       "author": "WithinReason",
       "created": "2026-05-17 06:17:26",
       "created_at": 1778998646000
@@ -46,7 +28,7 @@
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 521,
+      "score": 550,
       "author": "nolok",
       "created": "2026-05-17 13:42:30",
       "created_at": 1779025350000
@@ -55,46 +37,64 @@
       "id": 48164287,
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "link": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 519,
+      "score": 542,
       "author": "gidellav",
       "created": "2026-05-16 22:23:50",
       "created_at": 1778970230000
     },
     {
-      "id": 48155690,
-      "title": "'No way to prevent this,' says only package manager where this regularly happens",
-      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-      "score": 436,
-      "author": "alligatorplum",
-      "created": "2026-05-16 00:36:02",
-      "created_at": 1778891762000
-    },
-    {
-      "id": 48158065,
-      "title": "We've made the world too complicated",
-      "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 429,
-      "author": "James72689",
-      "created": "2026-05-16 08:25:17",
-      "created_at": 1778919917000
-    },
-    {
       "id": 48168221,
       "title": "I don't think AI will make your processes go faster",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 416,
+      "score": 497,
       "author": "TheEdonian",
       "created": "2026-05-17 12:13:45",
       "created_at": 1779020025000
     },
     {
+      "id": 48158065,
+      "title": "We've made the world too complicated",
+      "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "score": 442,
+      "author": "James72689",
+      "created": "2026-05-16 08:25:17",
+      "created_at": 1778919917000
+    },
+    {
+      "id": 48170798,
+      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "score": 415,
+      "author": "rolph",
+      "created": "2026-05-17 17:09:15",
+      "created_at": 1779037755000
+    },
+    {
       "id": 48157559,
       "title": "Frontier AI has broken the open CTF format",
       "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 405,
+      "score": 409,
       "author": "frays",
       "created": "2026-05-16 07:01:55",
       "created_at": 1778914915000
+    },
+    {
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 390,
+      "author": "dive",
+      "created": "2026-05-17 11:49:46",
+      "created_at": 1779018586000
+    },
+    {
+      "id": 48159445,
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "link": "https://nvlabs.github.io/Sana/WM/",
+      "score": 389,
+      "author": "mjgil",
+      "created": "2026-05-16 12:06:21",
+      "created_at": 1778933181000
     }
   ],
   "code": 200,
