@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-18T11:36:18.625Z"
+    "lastUpdate": "2026-05-18T14:52:23.876Z"
   },
   "data": [
+    {
+      "id": 48179677,
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "score": 97,
+      "author": "zakirullin",
+      "created": "2026-05-18 13:33:33",
+      "created_at": 1779111213000
+    },
+    {
+      "id": 48151990,
+      "title": "The Aperiodic Table",
+      "link": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
+      "score": 28,
+      "author": "jgrahamc",
+      "created": "2026-05-15 18:23:19",
+      "created_at": 1778869399000
+    },
+    {
+      "id": 48179183,
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "score": 62,
+      "author": "bauc",
+      "created": "2026-05-18 13:01:18",
+      "created_at": 1779109278000
+    },
+    {
+      "id": 48135096,
+      "title": "Math Jokes in Alice in Wonderland",
+      "link": "https://storica.club/blog/alice-is-math-jokes/",
+      "score": 65,
+      "author": "yekbun123",
+      "created": "2026-05-14 13:28:16",
+      "created_at": 1778765296000
+    },
     {
       "id": 48177300,
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
       "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
-      "score": 42,
+      "score": 77,
       "author": "rurban",
       "created": "2026-05-18 09:40:51",
       "created_at": 1779097251000
     },
     {
-      "id": 48173429,
-      "title": "GenCAD",
-      "link": "https://gencad.github.io/",
-      "score": 349,
-      "author": "dagenix",
-      "created": "2026-05-17 21:40:35",
-      "created_at": 1779054035000
+      "id": 48179029,
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "score": 75,
+      "author": "Bender",
+      "created": "2026-05-18 12:49:54",
+      "created_at": 1779108594000
     },
     {
-      "id": 48155450,
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "link": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-      "score": 95,
-      "author": "jumploops",
-      "created": "2026-05-15 23:54:33",
-      "created_at": 1778889273000
+      "id": 48178692,
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "score": 88,
+      "author": "jonbaer",
+      "created": "2026-05-18 12:20:50",
+      "created_at": 1779106850000
     },
     {
-      "id": 48175140,
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "score": 114,
-      "author": "ahalbert4",
-      "created": "2026-05-18 02:59:34",
-      "created_at": 1779073174000
+      "id": 48167177,
+      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
+      "link": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
+      "score": 49,
+      "author": "ttsiodras",
+      "created": "2026-05-17 08:55:28",
+      "created_at": 1779008128000
     },
     {
-      "id": 48168668,
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "link": "https://github.com/tech4bot/rk3562deb",
-      "score": 381,
-      "author": "tech4bot",
-      "created": "2026-05-17 13:16:27",
-      "created_at": 1779023787000
+      "id": 48178184,
+      "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+      "link": "https://github.com/stephenlthorn/auto-identity-remove",
+      "score": 282,
+      "author": "stephenlthorn",
+      "created": "2026-05-18 11:32:42",
+      "created_at": 1779103962000
     },
     {
-      "id": 48177228,
-      "title": "Where Are the Vibecoded Photoshops?",
-      "link": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
-      "score": 123,
-      "author": "gizmo64k",
-      "created": "2026-05-18 09:28:56",
-      "created_at": 1779096536000
-    },
-    {
-      "id": 48152754,
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "link": "https://askanastronaut.issinrealtime.org/",
-      "score": 157,
-      "author": "gaws",
-      "created": "2026-05-15 19:25:43",
-      "created_at": 1778873143000
-    },
-    {
-      "id": 48151251,
-      "title": "Jank now has its own custom IR",
-      "link": "https://jank-lang.org/blog/2026-05-08-optimization/",
-      "score": 159,
-      "author": "DASD",
-      "created": "2026-05-15 17:17:04",
-      "created_at": 1778865424000
-    },
-    {
-      "id": 48169874,
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "link": "https://github.com/MinishLab/semble",
-      "score": 351,
-      "author": "Bibabomas",
-      "created": "2026-05-17 15:37:07",
-      "created_at": 1779032227000
-    },
-    {
-      "id": 48166856,
-      "title": "kharp – k version 3 Language Interpreter in C#",
-      "link": "https://github.com/ERufian/ksharp",
-      "score": 38,
-      "author": "tosh",
-      "created": "2026-05-17 07:44:16",
-      "created_at": 1779003856000
+      "id": 48179931,
+      "title": "Shame them, shun them, ban them, beat them",
+      "link": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+      "score": 4,
+      "author": "mday27",
+      "created": "2026-05-18 13:52:47",
+      "created_at": 1779112367000
     }
   ],
   "code": 200,
