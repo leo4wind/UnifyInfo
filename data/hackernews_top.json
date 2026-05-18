@@ -3,32 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-18T17:51:11.587Z"
+    "lastUpdate": "2026-05-18T21:01:16.433Z"
   },
   "data": [
     {
       "id": 48182281,
-      "title": "Anthropic Acquires Stainless",
+      "title": "Anthropic acquires Stainless",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 72,
+      "score": 243,
       "author": "tomeraberbach",
       "created": "2026-05-18 17:01:21",
       "created_at": 1779123681000
     },
     {
+      "id": 48184322,
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "link": "https://hyperpolyglot.org/lisp",
+      "score": 54,
+      "author": "veqq",
+      "created": "2026-05-18 19:27:25",
+      "created_at": 1779132445000
+    },
+    {
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "link": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 223,
+      "score": 331,
       "author": "ildari",
       "created": "2026-05-18 15:24:19",
       "created_at": 1779117859000
     },
     {
+      "id": 48183301,
+      "title": "We let AIs run radio stations",
+      "link": "https://andonlabs.com/blog/andon-fm",
+      "score": 61,
+      "author": "lukaspetersson",
+      "created": "2026-05-18 18:12:18",
+      "created_at": 1779127938000
+    },
+    {
+      "id": 48185188,
+      "title": "No More JetBrains Products for Me",
+      "link": "https://matthewkosarek.xyz/posts/jetbrains/",
+      "score": 14,
+      "author": "matthewkosarek",
+      "created": "2026-05-18 20:30:58",
+      "created_at": 1779136258000
+    },
+    {
+      "id": 48182754,
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 539,
+      "author": "nycdatasci",
+      "created": "2026-05-18 17:38:22",
+      "created_at": 1779125902000
+    },
+    {
       "id": 48179677,
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "link": "https://github.com/zakirullin/files.md",
-      "score": 329,
+      "score": 438,
       "author": "zakirullin",
       "created": "2026-05-18 13:33:33",
       "created_at": 1779111213000
@@ -37,64 +73,28 @@
       "id": 48163389,
       "title": "The Quiet Renovation at Bitwarden",
       "link": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 229,
+      "score": 384,
       "author": "DaSHacka",
       "created": "2026-05-16 20:13:41",
       "created_at": 1778962421000
     },
     {
-      "id": 48179732,
-      "title": "Project Glasswing: what Mythos showed us",
-      "link": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "score": 149,
-      "author": "Fysi",
-      "created": "2026-05-18 13:37:11",
-      "created_at": 1779111431000
+      "id": 48183748,
+      "title": "Agora-1: The Multi-Agent World Model",
+      "link": "https://odyssey.ml/introducing-agora-1",
+      "score": 39,
+      "author": "olivercameron",
+      "created": "2026-05-18 18:43:30",
+      "created_at": 1779129810000
     },
     {
-      "id": 48156186,
-      "title": "Two computers, one monitor, zero fiddling – Alex Plescan",
-      "link": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 32,
-      "author": "ankitg12",
-      "created": "2026-05-16 02:13:19",
-      "created_at": 1778897599000
-    },
-    {
-      "id": 48180204,
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "link": "https://github.com/2b2tplace/1m_release",
-      "score": 94,
-      "author": "exploraz",
-      "created": "2026-05-18 14:13:07",
-      "created_at": 1779113587000
-    },
-    {
-      "id": 48182592,
-      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-      "score": 33,
-      "author": "srameshc",
-      "created": "2026-05-18 17:25:54",
-      "created_at": 1779125154000
-    },
-    {
-      "id": 48162157,
-      "title": "What Is Date:Italy?",
-      "link": "http://aesthetikx.info/blog/date_italy.html",
-      "score": 48,
-      "author": "jollyjerry",
-      "created": "2026-05-16 17:31:35",
-      "created_at": 1778952695000
-    },
-    {
-      "id": 48182754,
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 33,
-      "author": "nycdatasci",
-      "created": "2026-05-18 17:38:22",
-      "created_at": 1779125902000
+      "id": 48184350,
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "score": 72,
+      "author": "cdrnsf",
+      "created": "2026-05-18 19:28:59",
+      "created_at": 1779132539000
     }
   ],
   "code": 200,

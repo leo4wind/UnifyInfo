@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-18T17:51:11.090Z"
+    "lastUpdate": "2026-05-18T21:01:15.652Z"
   },
   "data": [
     {
       "id": 48166459,
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 786,
+      "score": 792,
       "author": "WithinReason",
       "created": "2026-05-17 06:17:26",
       "created_at": 1778998646000
@@ -19,7 +19,7 @@
       "id": 48168221,
       "title": "I don't think AI will make your processes go faster",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 643,
+      "score": 651,
       "author": "TheEdonian",
       "created": "2026-05-17 12:13:45",
       "created_at": 1779020025000
@@ -28,7 +28,7 @@
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 577,
+      "score": 579,
       "author": "nolok",
       "created": "2026-05-17 13:42:30",
       "created_at": 1779025350000
@@ -37,19 +37,37 @@
       "id": 48164287,
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "link": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 557,
+      "score": 560,
       "author": "gidellav",
       "created": "2026-05-16 22:23:50",
       "created_at": 1778970230000
     },
     {
+      "id": 48182754,
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 539,
+      "author": "nycdatasci",
+      "created": "2026-05-18 17:38:22",
+      "created_at": 1779125902000
+    },
+    {
       "id": 48168626,
       "title": "AI is a technology not a product",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "score": 446,
+      "score": 455,
       "author": "ch_sm",
       "created": "2026-05-17 13:11:20",
       "created_at": 1779023480000
+    },
+    {
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 444,
+      "author": "dive",
+      "created": "2026-05-17 11:49:46",
+      "created_at": 1779018586000
     },
     {
       "id": 48170798,
@@ -61,40 +79,22 @@
       "created_at": 1779037755000
     },
     {
-      "id": 48168058,
-      "title": "Native all the way, until you need text",
-      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 440,
-      "author": "dive",
-      "created": "2026-05-17 11:49:46",
-      "created_at": 1779018586000
-    },
-    {
-      "id": 48168668,
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "link": "https://github.com/tech4bot/rk3562deb",
-      "score": 419,
-      "author": "tech4bot",
-      "created": "2026-05-17 13:16:27",
-      "created_at": 1779023787000
+      "id": 48179677,
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "score": 438,
+      "author": "zakirullin",
+      "created": "2026-05-18 13:33:33",
+      "created_at": 1779111213000
     },
     {
       "id": 48169874,
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
       "link": "https://github.com/MinishLab/semble",
-      "score": 417,
+      "score": 425,
       "author": "Bibabomas",
       "created": "2026-05-17 15:37:07",
       "created_at": 1779032227000
-    },
-    {
-      "id": 48173429,
-      "title": "GenCAD",
-      "link": "https://gencad.github.io/",
-      "score": 414,
-      "author": "dagenix",
-      "created": "2026-05-17 21:40:35",
-      "created_at": 1779054035000
     }
   ],
   "code": 200,
