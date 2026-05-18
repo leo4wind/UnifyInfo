@@ -3,59 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-18T02:12:19.778Z"
+    "lastUpdate": "2026-05-18T07:53:38.628Z"
   },
   "data": [
-    {
-      "id": 48158400,
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 660,
-      "author": "mpweiher",
-      "created": "2026-05-16 09:14:26",
-      "created_at": 1778922866000
-    },
     {
       "id": 48166459,
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 648,
+      "score": 719,
       "author": "WithinReason",
       "created": "2026-05-17 06:17:26",
       "created_at": 1778998646000
     },
     {
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 670,
+      "author": "mpweiher",
+      "created": "2026-05-16 09:14:26",
+      "created_at": 1778922866000
+    },
+    {
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 550,
+      "score": 565,
       "author": "nolok",
       "created": "2026-05-17 13:42:30",
       "created_at": 1779025350000
     },
     {
-      "id": 48164287,
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "link": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 542,
-      "author": "gidellav",
-      "created": "2026-05-16 22:23:50",
-      "created_at": 1778970230000
-    },
-    {
       "id": 48168221,
       "title": "I don't think AI will make your processes go faster",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 497,
+      "score": 564,
       "author": "TheEdonian",
       "created": "2026-05-17 12:13:45",
       "created_at": 1779020025000
     },
     {
+      "id": 48164287,
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "link": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 547,
+      "author": "gidellav",
+      "created": "2026-05-16 22:23:50",
+      "created_at": 1778970230000
+    },
+    {
       "id": 48158065,
       "title": "We've made the world too complicated",
       "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 442,
+      "score": 447,
       "author": "James72689",
       "created": "2026-05-16 08:25:17",
       "created_at": 1778919917000
@@ -64,37 +64,37 @@
       "id": 48170798,
       "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
       "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "score": 415,
+      "score": 426,
       "author": "rolph",
       "created": "2026-05-17 17:09:15",
       "created_at": 1779037755000
     },
     {
-      "id": 48157559,
-      "title": "Frontier AI has broken the open CTF format",
-      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 409,
-      "author": "frays",
-      "created": "2026-05-16 07:01:55",
-      "created_at": 1778914915000
-    },
-    {
       "id": 48168058,
       "title": "Native all the way, until you need text",
       "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 390,
+      "score": 417,
       "author": "dive",
       "created": "2026-05-17 11:49:46",
       "created_at": 1779018586000
     },
     {
-      "id": 48159445,
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "link": "https://nvlabs.github.io/Sana/WM/",
-      "score": 389,
-      "author": "mjgil",
-      "created": "2026-05-16 12:06:21",
-      "created_at": 1778933181000
+      "id": 48157559,
+      "title": "Frontier AI has broken the open CTF format",
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 412,
+      "author": "frays",
+      "created": "2026-05-16 07:01:55",
+      "created_at": 1778914915000
+    },
+    {
+      "id": 48168626,
+      "title": "AI is a technology not a product",
+      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "score": 400,
+      "author": "ch_sm",
+      "created": "2026-05-17 13:11:20",
+      "created_at": 1779023480000
     }
   ],
   "code": 200,
