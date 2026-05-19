@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-19T17:56:14.489Z"
+    "lastUpdate": "2026-05-19T21:10:28.933Z"
   },
   "data": [
     {
       "id": 48182754,
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 1046,
+      "score": 1058,
       "author": "nycdatasci",
       "created": "2026-05-18 17:38:22",
       "created_at": 1779125902000
     },
     {
-      "id": 48179677,
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "link": "https://github.com/zakirullin/files.md",
-      "score": 680,
-      "author": "zakirullin",
-      "created": "2026-05-18 13:33:33",
-      "created_at": 1779111213000
-    },
-    {
       "id": 48194352,
       "title": "I’ve joined Anthropic",
       "link": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 671,
+      "score": 979,
       "author": "dmarcos",
       "created": "2026-05-19 15:07:45",
       "created_at": 1779203265000
@@ -37,25 +28,43 @@
       "id": 48188183,
       "title": "The last six months in LLMs in five minutes",
       "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 642,
+      "score": 714,
       "author": "yakkomajuri",
       "created": "2026-05-19 01:30:42",
       "created_at": 1779154242000
     },
     {
+      "id": 48179677,
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "score": 685,
+      "author": "zakirullin",
+      "created": "2026-05-18 13:33:33",
+      "created_at": 1779111213000
+    },
+    {
       "id": 48181041,
       "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
       "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "score": 540,
+      "score": 548,
       "author": "gok",
       "created": "2026-05-18 15:18:19",
       "created_at": 1779117499000
     },
     {
+      "id": 48192224,
+      "title": "Apple unveils new accessibility features",
+      "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 524,
+      "author": "interpol_p",
+      "created": "2026-05-19 12:04:18",
+      "created_at": 1779192258000
+    },
+    {
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 516,
+      "score": 521,
       "author": "tomeraberbach",
       "created": "2026-05-18 17:01:21",
       "created_at": 1779123681000
@@ -64,37 +73,28 @@
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "link": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 484,
+      "score": 487,
       "author": "ildari",
       "created": "2026-05-18 15:24:19",
       "created_at": 1779117859000
     },
     {
-      "id": 48170798,
-      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
-      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "score": 441,
-      "author": "rolph",
-      "created": "2026-05-17 17:09:15",
-      "created_at": 1779037755000
+      "id": 48191602,
+      "title": "Show HN: Gaussian Splat of a Strawberry",
+      "link": "https://superspl.at/scene/84df8849",
+      "score": 436,
+      "author": "danybittel",
+      "created": "2026-05-19 10:38:47",
+      "created_at": 1779187127000
     },
     {
-      "id": 48173429,
-      "title": "GenCAD",
-      "link": "https://gencad.github.io/",
-      "score": 432,
-      "author": "dagenix",
-      "created": "2026-05-17 21:40:35",
-      "created_at": 1779054035000
-    },
-    {
-      "id": 48192224,
-      "title": "Apple unveils new accessibility features",
-      "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 401,
-      "author": "interpol_p",
-      "created": "2026-05-19 12:04:18",
-      "created_at": 1779192258000
+      "id": 48195009,
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "link": "https://virtualosmuseum.org/",
+      "score": 434,
+      "author": "andreww591",
+      "created": "2026-05-19 15:53:38",
+      "created_at": 1779206018000
     }
   ],
   "code": 200,
