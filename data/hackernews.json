@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-19T02:12:28.977Z"
+    "lastUpdate": "2026-05-19T07:35:39.797Z"
   },
   "data": [
-    {
-      "id": 48166459,
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 795,
-      "author": "WithinReason",
-      "created": "2026-05-17 06:17:26",
-      "created_at": 1778998646000
-    },
     {
       "id": 48182754,
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 792,
+      "score": 915,
       "author": "nycdatasci",
       "created": "2026-05-18 17:38:22",
       "created_at": 1779125902000
@@ -28,34 +19,34 @@
       "id": 48168221,
       "title": "I don't think AI will make your processes go faster",
       "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 656,
+      "score": 658,
       "author": "TheEdonian",
       "created": "2026-05-17 12:13:45",
       "created_at": 1779020025000
     },
     {
-      "id": 48168856,
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 580,
-      "author": "nolok",
-      "created": "2026-05-17 13:42:30",
-      "created_at": 1779025350000
-    },
-    {
       "id": 48179677,
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "link": "https://github.com/zakirullin/files.md",
-      "score": 555,
+      "score": 620,
       "author": "zakirullin",
       "created": "2026-05-18 13:33:33",
       "created_at": 1779111213000
     },
     {
+      "id": 48168856,
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 583,
+      "author": "nolok",
+      "created": "2026-05-17 13:42:30",
+      "created_at": 1779025350000
+    },
+    {
       "id": 48181041,
       "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
       "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "score": 484,
+      "score": 512,
       "author": "gok",
       "created": "2026-05-18 15:18:19",
       "created_at": 1779117499000
@@ -64,16 +55,25 @@
       "id": 48168626,
       "title": "AI is a technology not a product",
       "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "score": 460,
+      "score": 467,
       "author": "ch_sm",
       "created": "2026-05-17 13:11:20",
       "created_at": 1779023480000
     },
     {
+      "id": 48181125,
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "link": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 460,
+      "author": "ildari",
+      "created": "2026-05-18 15:24:19",
+      "created_at": 1779117859000
+    },
+    {
       "id": 48168058,
       "title": "Native all the way, until you need text",
       "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 444,
+      "score": 446,
       "author": "dive",
       "created": "2026-05-17 11:49:46",
       "created_at": 1779018586000
@@ -88,13 +88,13 @@
       "created_at": 1779037755000
     },
     {
-      "id": 48169874,
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "link": "https://github.com/MinishLab/semble",
-      "score": 427,
-      "author": "Bibabomas",
-      "created": "2026-05-17 15:37:07",
-      "created_at": 1779032227000
+      "id": 48173429,
+      "title": "GenCAD",
+      "link": "https://gencad.github.io/",
+      "score": 432,
+      "author": "dagenix",
+      "created": "2026-05-17 21:40:35",
+      "created_at": 1779054035000
     }
   ],
   "code": 200,

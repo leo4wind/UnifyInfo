@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-19T02:12:29.128Z"
+    "lastUpdate": "2026-05-19T07:35:39.929Z"
   },
   "data": [
+    {
+      "id": 48188183,
+      "title": "The last six months in LLMs in five minutes",
+      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "score": 300,
+      "author": "yakkomajuri",
+      "created": "2026-05-19 01:30:42",
+      "created_at": 1779154242000
+    },
+    {
+      "id": 48189156,
+      "title": "Codex-maxxing",
+      "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "score": 60,
+      "author": "dnw",
+      "created": "2026-05-19 04:24:45",
+      "created_at": 1779164685000
+    },
     {
       "id": 48187054,
       "title": "Click (2016)",
       "link": "https://clickclickclick.click/",
-      "score": 203,
+      "score": 276,
       "author": "andrewzeno",
       "created": "2026-05-18 23:03:02",
       "created_at": 1779145382000
     },
     {
-      "id": 48187201,
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 104,
-      "author": "cucho",
-      "created": "2026-05-18 23:18:10",
-      "created_at": 1779146290000
+      "id": 48161772,
+      "title": "Turn your Android phone into a ham radio transceiver",
+      "link": "https://www.kv4p.com/",
+      "score": 54,
+      "author": "krupan",
+      "created": "2026-05-16 16:49:15",
+      "created_at": 1778950155000
+    },
+    {
+      "id": 48188787,
+      "title": "Peter Neumann has died",
+      "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "score": 45,
+      "author": "pabs3",
+      "created": "2026-05-19 03:17:45",
+      "created_at": 1779160665000
+    },
+    {
+      "id": 48189178,
+      "title": "PyTorch Landscape",
+      "link": "https://pytorch.landscape2.io",
+      "score": 23,
+      "author": "salamo",
+      "created": "2026-05-19 04:29:39",
+      "created_at": 1779164979000
     },
     {
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 364,
+      "score": 430,
       "author": "tomeraberbach",
       "created": "2026-05-18 17:01:21",
       "created_at": 1779123681000
     },
     {
-      "id": 48184322,
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "link": "https://hyperpolyglot.org/lisp",
-      "score": 133,
-      "author": "veqq",
-      "created": "2026-05-18 19:27:25",
-      "created_at": 1779132445000
+      "id": 48187201,
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "score": 200,
+      "author": "cucho",
+      "created": "2026-05-18 23:18:10",
+      "created_at": 1779146290000
     },
     {
-      "id": 48181125,
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "link": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 415,
-      "author": "ildari",
-      "created": "2026-05-18 15:24:19",
-      "created_at": 1779117859000
+      "id": 48136909,
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "link": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "score": 98,
+      "author": "surprisetalk",
+      "created": "2026-05-14 15:30:36",
+      "created_at": 1778772636000
     },
     {
-      "id": 48183301,
-      "title": "We let AIs run radio stations",
-      "link": "https://andonlabs.com/blog/andon-fm",
-      "score": 171,
-      "author": "lukaspetersson",
-      "created": "2026-05-18 18:12:18",
-      "created_at": 1779127938000
-    },
-    {
-      "id": 48163389,
-      "title": "The Quiet Renovation at Bitwarden",
-      "link": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 532,
-      "author": "DaSHacka",
-      "created": "2026-05-16 20:13:41",
-      "created_at": 1778962421000
-    },
-    {
-      "id": 48179677,
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "link": "https://github.com/zakirullin/files.md",
-      "score": 555,
-      "author": "zakirullin",
-      "created": "2026-05-18 13:33:33",
-      "created_at": 1779111213000
-    },
-    {
-      "id": 48123359,
-      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-      "link": "https://isabisabel.com/gacha/",
-      "score": 47,
-      "author": "babel16",
-      "created": "2026-05-13 15:39:41",
-      "created_at": 1778686781000
-    },
-    {
-      "id": 48176873,
-      "title": "Earth's Radio Bubble: Every signal we've ever sent into space",
-      "link": "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html",
-      "score": 30,
-      "author": "jonbaer",
-      "created": "2026-05-18 08:36:42",
-      "created_at": 1779093402000
+      "id": 48182516,
+      "title": "Cursor Introduces Composer 2.5",
+      "link": "https://cursor.com/blog/composer-2-5",
+      "score": 114,
+      "author": "asar",
+      "created": "2026-05-18 17:20:43",
+      "created_at": 1779124843000
     }
   ],
   "code": 200,
