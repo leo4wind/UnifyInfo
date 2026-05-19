@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-19T07:35:39.929Z"
+    "lastUpdate": "2026-05-19T10:53:06.955Z"
   },
   "data": [
+    {
+      "id": 48165797,
+      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "link": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+      "score": 64,
+      "author": "vi_sextus_vi",
+      "created": "2026-05-17 03:25:23",
+      "created_at": 1778988323000
+    },
+    {
+      "id": 48166744,
+      "title": "Polypad",
+      "link": "https://polypad.amplify.com/",
+      "score": 79,
+      "author": "ivank",
+      "created": "2026-05-17 07:20:14",
+      "created_at": 1779002414000
+    },
+    {
+      "id": 48188787,
+      "title": "Peter Neumann has died",
+      "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "score": 131,
+      "author": "pabs3",
+      "created": "2026-05-19 03:17:45",
+      "created_at": 1779160665000
+    },
     {
       "id": 48188183,
       "title": "The last six months in LLMs in five minutes",
       "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 300,
+      "score": 474,
       "author": "yakkomajuri",
       "created": "2026-05-19 01:30:42",
       "created_at": 1779154242000
     },
     {
-      "id": 48189156,
-      "title": "Codex-maxxing",
-      "link": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
-      "score": 60,
-      "author": "dnw",
-      "created": "2026-05-19 04:24:45",
-      "created_at": 1779164685000
-    },
-    {
       "id": 48187054,
       "title": "Click (2016)",
       "link": "https://clickclickclick.click/",
-      "score": 276,
+      "score": 311,
       "author": "andrewzeno",
       "created": "2026-05-18 23:03:02",
       "created_at": 1779145382000
     },
     {
       "id": 48161772,
-      "title": "Turn your Android phone into a ham radio transceiver",
+      "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
       "link": "https://www.kv4p.com/",
-      "score": 54,
+      "score": 97,
       "author": "krupan",
       "created": "2026-05-16 16:49:15",
       "created_at": 1778950155000
     },
     {
-      "id": 48188787,
-      "title": "Peter Neumann has died",
-      "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 45,
-      "author": "pabs3",
-      "created": "2026-05-19 03:17:45",
-      "created_at": 1779160665000
+      "id": 48165283,
+      "title": "The lasting influence of Netscape Time",
+      "link": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
+      "score": 35,
+      "author": "zdw",
+      "created": "2026-05-17 01:22:57",
+      "created_at": 1778980977000
     },
     {
       "id": 48189178,
       "title": "PyTorch Landscape",
       "link": "https://pytorch.landscape2.io",
-      "score": 23,
+      "score": 46,
       "author": "salamo",
       "created": "2026-05-19 04:29:39",
       "created_at": 1779164979000
     },
     {
-      "id": 48182281,
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 430,
-      "author": "tomeraberbach",
-      "created": "2026-05-18 17:01:21",
-      "created_at": 1779123681000
-    },
-    {
-      "id": 48187201,
-      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 200,
-      "author": "cucho",
-      "created": "2026-05-18 23:18:10",
-      "created_at": 1779146290000
-    },
-    {
-      "id": 48136909,
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "link": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 98,
-      "author": "surprisetalk",
-      "created": "2026-05-14 15:30:36",
-      "created_at": 1778772636000
-    },
-    {
       "id": 48182516,
       "title": "Cursor Introduces Composer 2.5",
       "link": "https://cursor.com/blog/composer-2-5",
-      "score": 114,
+      "score": 156,
       "author": "asar",
       "created": "2026-05-18 17:20:43",
       "created_at": 1779124843000
+    },
+    {
+      "id": 48182281,
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 457,
+      "author": "tomeraberbach",
+      "created": "2026-05-18 17:01:21",
+      "created_at": 1779123681000
     }
   ],
   "code": 200,
