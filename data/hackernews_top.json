@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-19T10:53:06.955Z"
+    "lastUpdate": "2026-05-19T14:34:31.299Z"
   },
   "data": [
+    {
+      "id": 48192882,
+      "title": "OpenBSD 7.9 Released",
+      "link": "https://www.openbsd.org/79.html",
+      "score": 114,
+      "author": "bradley_taunt",
+      "created": "2026-05-19 13:11:51",
+      "created_at": 1779196311000
+    },
+    {
+      "id": 48192224,
+      "title": "New accessibility features powered by Apple Intelligence",
+      "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 205,
+      "author": "interpol_p",
+      "created": "2026-05-19 12:04:18",
+      "created_at": 1779192258000
+    },
+    {
+      "id": 48191602,
+      "title": "Gaussian Splat of a Strawberry",
+      "link": "https://superspl.at/scene/84df8849",
+      "score": 246,
+      "author": "danybittel",
+      "created": "2026-05-19 10:38:47",
+      "created_at": 1779187127000
+    },
+    {
+      "id": 48193474,
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "link": "https://setpose.com/",
+      "score": 15,
+      "author": "augustvdv",
+      "created": "2026-05-19 14:04:19",
+      "created_at": 1779199459000
+    },
+    {
+      "id": 48193524,
+      "title": "Going full AI engineer, not touching code anymore",
+      "link": "https://max.gp/writing/going-full-ai-engineer-not-touching-code-anymore/",
+      "score": 10,
+      "author": "maxheyer",
+      "created": "2026-05-19 14:08:53",
+      "created_at": 1779199733000
+    },
     {
       "id": 48165797,
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
       "link": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 64,
+      "score": 162,
       "author": "vi_sextus_vi",
       "created": "2026-05-17 03:25:23",
       "created_at": 1778988323000
     },
     {
+      "id": 48187752,
+      "title": "An Apple (II) for Teacher",
+      "link": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+      "score": 18,
+      "author": "cfmcdonald",
+      "created": "2026-05-19 00:25:50",
+      "created_at": 1779150350000
+    },
+    {
+      "id": 48182872,
+      "title": "Hanoi's humble beer glass and the memory of a nation",
+      "link": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "score": 17,
+      "author": "NaOH",
+      "created": "2026-05-18 17:45:02",
+      "created_at": 1779126302000
+    },
+    {
+      "id": 48168610,
+      "title": "Nim-Presto – REST API Framework for Nim Language",
+      "link": "https://github.com/status-im/nim-presto",
+      "score": 33,
+      "author": "TheWiggles",
+      "created": "2026-05-17 13:09:20",
+      "created_at": 1779023360000
+    },
+    {
       "id": 48166744,
       "title": "Polypad",
       "link": "https://polypad.amplify.com/",
-      "score": 79,
+      "score": 147,
       "author": "ivank",
       "created": "2026-05-17 07:20:14",
       "created_at": 1779002414000
-    },
-    {
-      "id": 48188787,
-      "title": "Peter Neumann has died",
-      "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 131,
-      "author": "pabs3",
-      "created": "2026-05-19 03:17:45",
-      "created_at": 1779160665000
-    },
-    {
-      "id": 48188183,
-      "title": "The last six months in LLMs in five minutes",
-      "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 474,
-      "author": "yakkomajuri",
-      "created": "2026-05-19 01:30:42",
-      "created_at": 1779154242000
-    },
-    {
-      "id": 48187054,
-      "title": "Click (2016)",
-      "link": "https://clickclickclick.click/",
-      "score": 311,
-      "author": "andrewzeno",
-      "created": "2026-05-18 23:03:02",
-      "created_at": 1779145382000
-    },
-    {
-      "id": 48161772,
-      "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "link": "https://www.kv4p.com/",
-      "score": 97,
-      "author": "krupan",
-      "created": "2026-05-16 16:49:15",
-      "created_at": 1778950155000
-    },
-    {
-      "id": 48165283,
-      "title": "The lasting influence of Netscape Time",
-      "link": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-      "score": 35,
-      "author": "zdw",
-      "created": "2026-05-17 01:22:57",
-      "created_at": 1778980977000
-    },
-    {
-      "id": 48189178,
-      "title": "PyTorch Landscape",
-      "link": "https://pytorch.landscape2.io",
-      "score": 46,
-      "author": "salamo",
-      "created": "2026-05-19 04:29:39",
-      "created_at": 1779164979000
-    },
-    {
-      "id": 48182516,
-      "title": "Cursor Introduces Composer 2.5",
-      "link": "https://cursor.com/blog/composer-2-5",
-      "score": 156,
-      "author": "asar",
-      "created": "2026-05-18 17:20:43",
-      "created_at": 1779124843000
-    },
-    {
-      "id": 48182281,
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 457,
-      "author": "tomeraberbach",
-      "created": "2026-05-18 17:01:21",
-      "created_at": 1779123681000
     }
   ],
   "code": 200,

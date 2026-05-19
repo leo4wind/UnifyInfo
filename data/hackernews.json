@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-19T10:53:06.719Z"
+    "lastUpdate": "2026-05-19T14:34:31.183Z"
   },
   "data": [
     {
       "id": 48182754,
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 969,
+      "score": 1025,
       "author": "nycdatasci",
       "created": "2026-05-18 17:38:22",
       "created_at": 1779125902000
     },
     {
-      "id": 48168221,
-      "title": "I don't think AI will make your processes go faster",
-      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 661,
-      "author": "TheEdonian",
-      "created": "2026-05-17 12:13:45",
-      "created_at": 1779020025000
-    },
-    {
       "id": 48179677,
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "link": "https://github.com/zakirullin/files.md",
-      "score": 637,
+      "score": 662,
       "author": "zakirullin",
       "created": "2026-05-18 13:33:33",
       "created_at": 1779111213000
@@ -37,64 +28,73 @@
       "id": 48168856,
       "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 584,
+      "score": 587,
       "author": "nolok",
       "created": "2026-05-17 13:42:30",
       "created_at": 1779025350000
     },
     {
-      "id": 48181041,
-      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-      "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-      "score": 520,
-      "author": "gok",
-      "created": "2026-05-18 15:18:19",
-      "created_at": 1779117499000
-    },
-    {
       "id": 48188183,
       "title": "The last six months in LLMs in five minutes",
       "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 474,
+      "score": 573,
       "author": "yakkomajuri",
       "created": "2026-05-19 01:30:42",
       "created_at": 1779154242000
     },
     {
-      "id": 48181125,
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "link": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 469,
-      "author": "ildari",
-      "created": "2026-05-18 15:24:19",
-      "created_at": 1779117859000
-    },
-    {
-      "id": 48168626,
-      "title": "AI is a technology not a product",
-      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "score": 469,
-      "author": "ch_sm",
-      "created": "2026-05-17 13:11:20",
-      "created_at": 1779023480000
+      "id": 48181041,
+      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+      "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+      "score": 533,
+      "author": "gok",
+      "created": "2026-05-18 15:18:19",
+      "created_at": 1779117499000
     },
     {
       "id": 48182281,
       "title": "Anthropic acquires Stainless",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 457,
+      "score": 492,
       "author": "tomeraberbach",
       "created": "2026-05-18 17:01:21",
       "created_at": 1779123681000
     },
     {
-      "id": 48168058,
-      "title": "Native all the way, until you need text",
-      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 446,
-      "author": "dive",
-      "created": "2026-05-17 11:49:46",
-      "created_at": 1779018586000
+      "id": 48181125,
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "link": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 480,
+      "author": "ildari",
+      "created": "2026-05-18 15:24:19",
+      "created_at": 1779117859000
+    },
+    {
+      "id": 48170798,
+      "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "score": 440,
+      "author": "rolph",
+      "created": "2026-05-17 17:09:15",
+      "created_at": 1779037755000
+    },
+    {
+      "id": 48169874,
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "link": "https://github.com/MinishLab/semble",
+      "score": 436,
+      "author": "Bibabomas",
+      "created": "2026-05-17 15:37:07",
+      "created_at": 1779032227000
+    },
+    {
+      "id": 48173429,
+      "title": "GenCAD",
+      "link": "https://gencad.github.io/",
+      "score": 432,
+      "author": "dagenix",
+      "created": "2026-05-17 21:40:35",
+      "created_at": 1779054035000
     }
   ],
   "code": 200,
