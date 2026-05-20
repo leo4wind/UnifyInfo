@@ -3,77 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-20T07:34:34.819Z"
+    "lastUpdate": "2026-05-20T10:40:56.993Z"
   },
   "data": [
     {
       "id": 48203698,
       "title": "Everything in C is undefined behavior",
       "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "score": 95,
+      "score": 198,
       "author": "lycopodiopsida",
       "created": "2026-05-20 06:07:22",
       "created_at": 1779257242000
     },
     {
-      "id": 48201484,
-      "title": "Railway Blocked by Google Cloud",
-      "link": "https://status.railway.com/?date=20260519",
-      "score": 440,
-      "author": "aarondf",
-      "created": "2026-05-20 00:23:54",
-      "created_at": 1779236634000
-    },
-    {
-      "id": 48201973,
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "link": "https://fivethirtyeightindex.com/",
-      "score": 155,
-      "author": "ChocMontePy",
-      "created": "2026-05-20 01:34:19",
-      "created_at": 1779240859000
-    },
-    {
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 740,
+      "score": 806,
       "author": "spectraldrift",
       "created": "2026-05-19 17:43:45",
       "created_at": 1779212625000
     },
     {
+      "id": 48201973,
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "link": "https://fivethirtyeightindex.com/",
+      "score": 209,
+      "author": "ChocMontePy",
+      "created": "2026-05-20 01:34:19",
+      "created_at": 1779240859000
+    },
+    {
+      "id": 48205415,
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "link": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "score": 13,
+      "author": "pramodbiligiri",
+      "created": "2026-05-20 10:04:28",
+      "created_at": 1779271468000
+    },
+    {
       "id": 48195009,
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "link": "https://virtualosmuseum.org/",
-      "score": 732,
+      "score": 789,
       "author": "andreww591",
       "created": "2026-05-19 15:53:38",
       "created_at": 1779206018000
     },
     {
-      "id": 48202993,
-      "title": "GitHub Compromised",
-      "link": "https://twitter.com/github/status/2056949168208552080",
-      "score": 221,
-      "author": "claaams",
-      "created": "2026-05-20 04:12:48",
-      "created_at": 1779250368000
+      "id": 48203536,
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "score": 81,
+      "author": "darktoto",
+      "created": "2026-05-20 05:43:51",
+      "created_at": 1779255831000
     },
     {
-      "id": 48200569,
-      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "score": 249,
-      "author": "janalsncm",
-      "created": "2026-05-19 22:30:31",
-      "created_at": 1779229831000
+      "id": 48202047,
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "score": 118,
+      "author": "ranit",
+      "created": "2026-05-20 01:43:06",
+      "created_at": 1779241386000
     },
     {
       "id": 48197370,
       "title": "Google changes its search box",
       "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 497,
+      "score": 559,
       "author": "berkeleyjunk",
       "created": "2026-05-19 18:34:27",
       "created_at": 1779215667000
@@ -82,19 +82,19 @@
       "id": 48192383,
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
       "link": "https://github.com/antoinezambelli/forge",
-      "score": 429,
+      "score": 501,
       "author": "zambelli",
       "created": "2026-05-19 12:23:07",
       "created_at": 1779193387000
     },
     {
-      "id": 48170855,
-      "title": "Nostalgic Electronics Kits Central",
-      "link": "https://www.nostalgickitscentral.com/",
-      "score": 16,
-      "author": "cf100clunk",
-      "created": "2026-05-17 17:14:25",
-      "created_at": 1779038065000
+      "id": 48200569,
+      "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+      "link": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 288,
+      "author": "janalsncm",
+      "created": "2026-05-19 22:30:31",
+      "created_at": 1779229831000
     }
   ],
   "code": 200,
