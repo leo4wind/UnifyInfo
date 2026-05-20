@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-20T14:33:38.457Z"
+    "lastUpdate": "2026-05-20T18:09:17.613Z"
   },
   "data": [
     {
       "id": 48194352,
       "title": "I’ve joined Anthropic",
       "link": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1381,
+      "score": 1389,
       "author": "dmarcos",
       "created": "2026-05-19 15:07:45",
       "created_at": 1779203265000
@@ -19,7 +19,7 @@
       "id": 48182754,
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 1081,
+      "score": 1082,
       "author": "nycdatasci",
       "created": "2026-05-18 17:38:22",
       "created_at": 1779125902000
@@ -28,7 +28,7 @@
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 877,
+      "score": 921,
       "author": "spectraldrift",
       "created": "2026-05-19 17:43:45",
       "created_at": 1779212625000
@@ -37,7 +37,7 @@
       "id": 48195009,
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "link": "https://virtualosmuseum.org/",
-      "score": 876,
+      "score": 913,
       "author": "andreww591",
       "created": "2026-05-19 15:53:38",
       "created_at": 1779206018000
@@ -46,7 +46,7 @@
       "id": 48188183,
       "title": "The last six months in LLMs in five minutes",
       "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 761,
+      "score": 767,
       "author": "yakkomajuri",
       "created": "2026-05-19 01:30:42",
       "created_at": 1779154242000
@@ -55,25 +55,34 @@
       "id": 48197980,
       "title": "Minnesota becomes first state to ban prediction markets",
       "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 732,
+      "score": 752,
       "author": "ortusdux",
       "created": "2026-05-19 19:13:26",
       "created_at": 1779218006000
     },
     {
-      "id": 48179677,
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "link": "https://github.com/zakirullin/files.md",
-      "score": 705,
-      "author": "zakirullin",
-      "created": "2026-05-18 13:33:33",
-      "created_at": 1779111213000
+      "id": 48207004,
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "score": 736,
+      "author": "healsdata",
+      "created": "2026-05-20 13:02:30",
+      "created_at": 1779282150000
+    },
+    {
+      "id": 48206768,
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "link": "https://www.alqst.org/ar/posts/1190",
+      "score": 720,
+      "author": "giuliomagnifico",
+      "created": "2026-05-20 12:43:41",
+      "created_at": 1779281021000
     },
     {
       "id": 48192224,
       "title": "Apple unveils new accessibility features",
       "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 701,
+      "score": 708,
       "author": "interpol_p",
       "created": "2026-05-19 12:04:18",
       "created_at": 1779192258000
@@ -82,19 +91,10 @@
       "id": 48197370,
       "title": "Google changes its search box",
       "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 621,
+      "score": 650,
       "author": "berkeleyjunk",
       "created": "2026-05-19 18:34:27",
       "created_at": 1779215667000
-    },
-    {
-      "id": 48192383,
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "link": "https://github.com/antoinezambelli/forge",
-      "score": 577,
-      "author": "zambelli",
-      "created": "2026-05-19 12:23:07",
-      "created_at": 1779193387000
     }
   ],
   "code": 200,
