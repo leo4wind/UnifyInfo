@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-19T21:10:29.147Z"
+    "lastUpdate": "2026-05-20T02:11:21.372Z"
   },
   "data": [
+    {
+      "id": 48201484,
+      "title": "Railway Blocked by Google Cloud",
+      "link": "https://status.railway.com/?date=20260519",
+      "score": 140,
+      "author": "aarondf",
+      "created": "2026-05-20 00:23:54",
+      "created_at": 1779236634000
+    },
     {
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 311,
+      "score": 590,
       "author": "spectraldrift",
       "created": "2026-05-19 17:43:45",
       "created_at": 1779212625000
     },
     {
-      "id": 48197370,
-      "title": "Google changes its search box",
-      "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 171,
-      "author": "berkeleyjunk",
-      "created": "2026-05-19 18:34:27",
-      "created_at": 1779215667000
-    },
-    {
       "id": 48195009,
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "link": "https://virtualosmuseum.org/",
-      "score": 434,
+      "score": 603,
       "author": "andreww591",
       "created": "2026-05-19 15:53:38",
       "created_at": 1779206018000
     },
     {
+      "id": 48197370,
+      "title": "Google changes its search box",
+      "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 383,
+      "author": "berkeleyjunk",
+      "created": "2026-05-19 18:34:27",
+      "created_at": 1779215667000
+    },
+    {
       "id": 48198291,
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
       "link": "https://openai.com/index/advancing-content-provenance/",
-      "score": 59,
+      "score": 203,
       "author": "smooke",
       "created": "2026-05-19 19:34:30",
       "created_at": 1779219270000
     },
     {
-      "id": 48197995,
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "score": 74,
-      "author": "doener",
-      "created": "2026-05-19 19:14:12",
-      "created_at": 1779218052000
+      "id": 48200569,
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "link": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 123,
+      "author": "janalsncm",
+      "created": "2026-05-19 22:30:31",
+      "created_at": 1779229831000
     },
     {
       "id": 48192383,
       "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
       "link": "https://github.com/antoinezambelli/forge",
-      "score": 70,
+      "score": 278,
       "author": "zambelli",
       "created": "2026-05-19 12:23:07",
       "created_at": 1779193387000
     },
     {
-      "id": 48198551,
-      "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
-      "link": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
-      "score": 261,
-      "author": "atombender",
-      "created": "2026-05-19 19:52:49",
-      "created_at": 1779220369000
+      "id": 48197995,
+      "title": "Mistral AI acquires Emmi AI",
+      "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 168,
+      "author": "doener",
+      "created": "2026-05-19 19:14:12",
+      "created_at": 1779218052000
     },
     {
-      "id": 48198127,
-      "title": "Dumb Ways for an Open Source Project to Die",
-      "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "score": 39,
-      "author": "chmaynard",
-      "created": "2026-05-19 19:22:56",
-      "created_at": 1779218576000
+      "id": 48176384,
+      "title": "The Mercury logic programming system",
+      "link": "https://github.com/Mercury-Language/mercury",
+      "score": 17,
+      "author": "Antibabelic",
+      "created": "2026-05-18 07:12:40",
+      "created_at": 1779088360000
     },
     {
       "id": 48192224,
       "title": "Apple unveils new accessibility features",
       "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 524,
+      "score": 597,
       "author": "interpol_p",
       "created": "2026-05-19 12:04:18",
       "created_at": 1779192258000
-    },
-    {
-      "id": 48197980,
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 123,
-      "author": "ortusdux",
-      "created": "2026-05-19 19:13:26",
-      "created_at": 1779218006000
     }
   ],
   "code": 200,
