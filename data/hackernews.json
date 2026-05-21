@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-21T10:57:46.958Z"
+    "lastUpdate": "2026-05-21T14:39:04.976Z"
   },
   "data": [
     {
       "id": 48194352,
       "title": "I’ve joined Anthropic",
       "link": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1412,
+      "score": 1414,
       "author": "dmarcos",
       "created": "2026-05-19 15:07:45",
       "created_at": 1779203265000
@@ -19,7 +19,7 @@
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1199,
+      "score": 1287,
       "author": "tedsanders",
       "created": "2026-05-20 19:05:30",
       "created_at": 1779303930000
@@ -28,16 +28,25 @@
       "id": 48206768,
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "link": "https://www.alqst.org/ar/posts/1190",
-      "score": 1024,
+      "score": 1037,
       "author": "giuliomagnifico",
       "created": "2026-05-20 12:43:41",
       "created_at": 1779281021000
     },
     {
+      "id": 48207660,
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "score": 949,
+      "author": "Timofeibu",
+      "created": "2026-05-20 13:43:37",
+      "created_at": 1779284617000
+    },
+    {
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 940,
+      "score": 943,
       "author": "spectraldrift",
       "created": "2026-05-19 17:43:45",
       "created_at": 1779212625000
@@ -46,7 +55,7 @@
       "id": 48195009,
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "link": "https://virtualosmuseum.org/",
-      "score": 937,
+      "score": 940,
       "author": "andreww591",
       "created": "2026-05-19 15:53:38",
       "created_at": 1779206018000
@@ -55,25 +64,16 @@
       "id": 48207004,
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
       "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "score": 921,
+      "score": 928,
       "author": "healsdata",
       "created": "2026-05-20 13:02:30",
       "created_at": 1779282150000
     },
     {
-      "id": 48207660,
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 867,
-      "author": "Timofeibu",
-      "created": "2026-05-20 13:43:37",
-      "created_at": 1779284617000
-    },
-    {
       "id": 48197980,
       "title": "Minnesota becomes first state to ban prediction markets",
       "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 778,
+      "score": 780,
       "author": "ortusdux",
       "created": "2026-05-19 19:13:26",
       "created_at": 1779218006000
@@ -82,19 +82,19 @@
       "id": 48208502,
       "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
       "link": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 738,
+      "score": 745,
       "author": "ceejayoz",
       "created": "2026-05-20 14:30:47",
       "created_at": 1779287447000
     },
     {
-      "id": 48192224,
-      "title": "Apple unveils new accessibility features",
-      "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 721,
-      "author": "interpol_p",
-      "created": "2026-05-19 12:04:18",
-      "created_at": 1779192258000
+      "id": 48197370,
+      "title": "Google changes its search box",
+      "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 681,
+      "author": "berkeleyjunk",
+      "created": "2026-05-19 18:34:27",
+      "created_at": 1779215667000
     }
   ],
   "code": 200,
