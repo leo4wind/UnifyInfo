@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-21T07:40:20.304Z"
+    "lastUpdate": "2026-05-21T10:57:47.071Z"
   },
   "data": [
+    {
+      "id": 48220105,
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "score": 54,
+      "author": "sofumel",
+      "created": "2026-05-21 09:49:46",
+      "created_at": 1779356986000
+    },
+    {
+      "id": 48219918,
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "link": "https://github.com/helvesec/rmux",
+      "score": 39,
+      "author": "shideneyu",
+      "created": "2026-05-21 09:22:00",
+      "created_at": 1779355320000
+    },
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1052,
+      "score": 1199,
       "author": "tedsanders",
       "created": "2026-05-20 19:05:30",
       "created_at": 1779303930000
@@ -19,52 +37,52 @@
       "id": 48207660,
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 763,
+      "score": 867,
       "author": "Timofeibu",
       "created": "2026-05-20 13:43:37",
       "created_at": 1779284617000
     },
     {
-      "id": 48216983,
-      "title": "Haskell Foundation 2026 Update",
-      "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "score": 88,
-      "author": "azhenley",
-      "created": "2026-05-21 02:13:23",
-      "created_at": 1779329603000
-    },
-    {
       "id": 48215979,
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "link": "https://github.com/kageroumado/phosphene",
-      "score": 240,
+      "score": 299,
       "author": "kageroumado",
       "created": "2026-05-20 23:54:06",
       "created_at": 1779321246000
     },
     {
+      "id": 48216983,
+      "title": "Haskell Foundation 2026 Update",
+      "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "score": 123,
+      "author": "azhenley",
+      "created": "2026-05-21 02:13:23",
+      "created_at": 1779329603000
+    },
+    {
+      "id": 48219060,
+      "title": "Vivaldi 8.0",
+      "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "score": 150,
+      "author": "OuterVale",
+      "created": "2026-05-21 07:21:55",
+      "created_at": 1779348115000
+    },
+    {
       "id": 48188302,
       "title": "New features in GCC 16: Improved error messages and SARIF output",
       "link": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-      "score": 61,
+      "score": 93,
       "author": "siteshwar",
       "created": "2026-05-19 01:51:04",
       "created_at": 1779155464000
     },
     {
-      "id": 48215418,
-      "title": "DOS Zone",
-      "link": "https://dos.zone/",
-      "score": 223,
-      "author": "rglover",
-      "created": "2026-05-20 22:53:27",
-      "created_at": 1779317607000
-    },
-    {
       "id": 48216016,
       "title": "The Letter S, by Donald Knuth (1980) [pdf]",
       "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-      "score": 136,
+      "score": 189,
       "author": "bambax",
       "created": "2026-05-20 23:58:51",
       "created_at": 1779321531000
@@ -73,28 +91,10 @@
       "id": 48212046,
       "title": "Flipper One Tech Specs",
       "link": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 346,
+      "score": 390,
       "author": "gregsadetsky",
       "created": "2026-05-20 18:33:56",
       "created_at": 1779302036000
-    },
-    {
-      "id": 48214017,
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "link": "https://twitter.com/nottombrown/status/2057194829986300375",
-      "score": 164,
-      "author": "aurareturn",
-      "created": "2026-05-20 20:55:52",
-      "created_at": 1779310552000
-    },
-    {
-      "id": 48154796,
-      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
-      "link": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
-      "score": 118,
-      "author": "diodorus",
-      "created": "2026-05-15 22:31:45",
-      "created_at": 1778884305000
     }
   ],
   "code": 200,
