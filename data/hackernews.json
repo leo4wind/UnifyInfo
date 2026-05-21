@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-21T14:39:04.976Z"
+    "lastUpdate": "2026-05-21T17:49:45.336Z"
   },
   "data": [
-    {
-      "id": 48194352,
-      "title": "I’ve joined Anthropic",
-      "link": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1414,
-      "author": "dmarcos",
-      "created": "2026-05-19 15:07:45",
-      "created_at": 1779203265000
-    },
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1287,
+      "score": 1343,
       "author": "tedsanders",
       "created": "2026-05-20 19:05:30",
       "created_at": 1779303930000
@@ -28,7 +19,7 @@
       "id": 48206768,
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "link": "https://www.alqst.org/ar/posts/1190",
-      "score": 1037,
+      "score": 1045,
       "author": "giuliomagnifico",
       "created": "2026-05-20 12:43:41",
       "created_at": 1779281021000
@@ -37,7 +28,7 @@
       "id": 48207660,
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 949,
+      "score": 994,
       "author": "Timofeibu",
       "created": "2026-05-20 13:43:37",
       "created_at": 1779284617000
@@ -46,25 +37,16 @@
       "id": 48196570,
       "title": "Gemini 3.5 Flash",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 943,
+      "score": 944,
       "author": "spectraldrift",
       "created": "2026-05-19 17:43:45",
       "created_at": 1779212625000
     },
     {
-      "id": 48195009,
-      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "link": "https://virtualosmuseum.org/",
-      "score": 940,
-      "author": "andreww591",
-      "created": "2026-05-19 15:53:38",
-      "created_at": 1779206018000
-    },
-    {
       "id": 48207004,
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
       "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "score": 928,
+      "score": 933,
       "author": "healsdata",
       "created": "2026-05-20 13:02:30",
       "created_at": 1779282150000
@@ -73,16 +55,25 @@
       "id": 48197980,
       "title": "Minnesota becomes first state to ban prediction markets",
       "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 780,
+      "score": 782,
       "author": "ortusdux",
       "created": "2026-05-19 19:13:26",
       "created_at": 1779218006000
     },
     {
+      "id": 48220647,
+      "title": "Flipper One – we need your help",
+      "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "score": 769,
+      "author": "sandebert",
+      "created": "2026-05-21 11:03:38",
+      "created_at": 1779361418000
+    },
+    {
       "id": 48208502,
       "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
       "link": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 745,
+      "score": 753,
       "author": "ceejayoz",
       "created": "2026-05-20 14:30:47",
       "created_at": 1779287447000
@@ -91,10 +82,19 @@
       "id": 48197370,
       "title": "Google changes its search box",
       "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 681,
+      "score": 685,
       "author": "berkeleyjunk",
       "created": "2026-05-19 18:34:27",
       "created_at": 1779215667000
+    },
+    {
+      "id": 48205626,
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "link": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 684,
+      "author": "kevinsimper",
+      "created": "2026-05-20 10:35:02",
+      "created_at": 1779273302000
     }
   ],
   "code": 200,

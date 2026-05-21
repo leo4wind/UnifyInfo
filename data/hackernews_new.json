@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-21T14:39:05.571Z"
+    "lastUpdate": "2026-05-21T17:49:45.712Z"
   },
   "data": [
     {
-      "id": 48222383,
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "score": 240,
-      "author": "speckx",
-      "created": "2026-05-21 13:38:12",
-      "created_at": 1779370692000
+      "id": 48225297,
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "link": "https://valhovey.github.io/gaia-mary/",
+      "score": 84,
+      "author": "speleo",
+      "created": "2026-05-21 16:23:11",
+      "created_at": 1779380591000
     },
     {
       "id": 48220647,
       "title": "Flipper One – we need your help",
       "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 445,
+      "score": 769,
       "author": "sandebert",
       "created": "2026-05-21 11:03:38",
       "created_at": 1779361418000
     },
     {
-      "id": 48222529,
-      "title": "Google's Antigravity Bait and Switch",
-      "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 57,
-      "author": "ssiddharth",
-      "created": "2026-05-21 13:50:59",
-      "created_at": 1779371459000
+      "id": 48225426,
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "score": 89,
+      "author": "mattas",
+      "created": "2026-05-21 16:30:47",
+      "created_at": 1779381047000
     },
     {
-      "id": 48220105,
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 350,
-      "author": "sofumel",
-      "created": "2026-05-21 09:49:46",
-      "created_at": 1779356986000
+      "id": 48222733,
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 125,
+      "author": "asenna",
+      "created": "2026-05-21 14:01:37",
+      "created_at": 1779372097000
     },
     {
       "id": 48220696,
       "title": "Python 3.15: features that didn't make the headlines",
       "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 138,
+      "score": 230,
       "author": "rbanffy",
       "created": "2026-05-21 11:10:11",
       "created_at": 1779361811000
     },
     {
-      "id": 48221415,
-      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-      "link": "https://fatgid.io/",
-      "score": 32,
-      "author": "WhyNotHugo",
-      "created": "2026-05-21 12:15:02",
-      "created_at": 1779365702000
-    },
-    {
       "id": 48220639,
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "link": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 82,
+      "score": 176,
       "author": "pseudolus",
       "created": "2026-05-21 11:02:26",
       "created_at": 1779361346000
     },
     {
-      "id": 48221877,
-      "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
-      "score": 19,
-      "author": "vcf",
-      "created": "2026-05-21 12:55:16",
-      "created_at": 1779368116000
+      "id": 48220105,
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "score": 472,
+      "author": "sofumel",
+      "created": "2026-05-21 09:49:46",
+      "created_at": 1779356986000
     },
     {
-      "id": 48219918,
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "link": "https://github.com/helvesec/rmux",
-      "score": 122,
-      "author": "shideneyu",
-      "created": "2026-05-21 09:22:00",
-      "created_at": 1779355320000
+      "id": 48225040,
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "link": "https://www.runtm.com/",
+      "score": 16,
+      "author": "gustrigos",
+      "created": "2026-05-21 16:07:13",
+      "created_at": 1779379633000
     },
     {
-      "id": 48212493,
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1287,
-      "author": "tedsanders",
-      "created": "2026-05-20 19:05:30",
-      "created_at": 1779303930000
+      "id": 48190373,
+      "title": "Mounting Git commits as folders with NFS",
+      "link": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "score": 40,
+      "author": "pvtmert",
+      "created": "2026-05-19 07:32:56",
+      "created_at": 1779175976000
     }
   ],
   "code": 200,
