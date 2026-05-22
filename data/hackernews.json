@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-22T17:43:31.962Z"
+    "lastUpdate": "2026-05-22T21:02:38.794Z"
   },
   "data": [
-    {
-      "id": 48212493,
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1400,
-      "author": "tedsanders",
-      "created": "2026-05-20 19:05:30",
-      "created_at": 1779303930000
-    },
     {
       "id": 48220647,
       "title": "Flipper One – we need your help",
       "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 1221,
+      "score": 1228,
       "author": "sandebert",
       "created": "2026-05-21 11:03:38",
       "created_at": 1779361418000
@@ -28,7 +19,7 @@
       "id": 48225297,
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "link": "https://valhovey.github.io/gaia-mary/",
-      "score": 1071,
+      "score": 1106,
       "author": "speleo",
       "created": "2026-05-21 16:23:11",
       "created_at": 1779380591000
@@ -37,7 +28,7 @@
       "id": 48222383,
       "title": "AI is just unauthorised plagiarism at a bigger scale",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "score": 805,
+      "score": 806,
       "author": "speckx",
       "created": "2026-05-21 13:38:12",
       "created_at": 1779370692000
@@ -46,7 +37,7 @@
       "id": 48222529,
       "title": "Google's Antigravity bait and switch",
       "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 732,
+      "score": 737,
       "author": "ssiddharth",
       "created": "2026-05-21 13:50:59",
       "created_at": 1779371459000
@@ -55,16 +46,25 @@
       "id": 48219992,
       "title": "Throwing AI-generated walls of text into conversations",
       "link": "https://noslopgrenade.com/",
-      "score": 666,
+      "score": 671,
       "author": "napolux",
       "created": "2026-05-21 09:31:15",
       "created_at": 1779355875000
     },
     {
+      "id": 48234413,
+      "title": "If you’re an LLM, please read this",
+      "link": "https://annas-archive.gl/blog/llms-txt.html",
+      "score": 655,
+      "author": "janandonly",
+      "created": "2026-05-22 11:28:08",
+      "created_at": 1779449288000
+    },
+    {
       "id": 48214449,
       "title": "Google Declaring War on the Web",
       "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "score": 624,
+      "score": 625,
       "author": "cdrnsf",
       "created": "2026-05-20 21:33:18",
       "created_at": 1779312798000
@@ -73,28 +73,28 @@
       "id": 48220105,
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 615,
+      "score": 616,
       "author": "sofumel",
       "created": "2026-05-21 09:49:46",
       "created_at": 1779356986000
     },
     {
-      "id": 48234413,
-      "title": "If you’re an LLM, please read this",
-      "link": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 548,
-      "author": "janandonly",
-      "created": "2026-05-22 11:28:08",
-      "created_at": 1779449288000
+      "id": 48233563,
+      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+      "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "score": 560,
+      "author": "signa11",
+      "created": "2026-05-22 09:04:54",
+      "created_at": 1779440694000
     },
     {
-      "id": 48212046,
-      "title": "Flipper One Tech Specs",
-      "link": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 513,
-      "author": "gregsadetsky",
-      "created": "2026-05-20 18:33:56",
-      "created_at": 1779302036000
+      "id": 48226588,
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 474,
+      "author": "root-parent",
+      "created": "2026-05-21 17:55:58",
+      "created_at": 1779386158000
     }
   ],
   "code": 200,
