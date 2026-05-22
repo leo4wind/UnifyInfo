@@ -3,23 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-22T07:35:42.303Z"
+    "lastUpdate": "2026-05-22T10:41:06.528Z"
   },
   "data": [
-    {
-      "id": 48232118,
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "link": "https://arxiv.org/abs/2605.19269",
-      "score": 44,
-      "author": "matt_d",
-      "created": "2026-05-22 04:54:33",
-      "created_at": 1779425673000
-    },
     {
       "id": 48225297,
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "link": "https://valhovey.github.io/gaia-mary/",
-      "score": 824,
+      "score": 943,
       "author": "speleo",
       "created": "2026-05-21 16:23:11",
       "created_at": 1779380591000
@@ -28,16 +19,25 @@
       "id": 48231938,
       "title": "Slumber a TUI HTTP Client",
       "link": "https://slumber.lucaspickering.me",
-      "score": 45,
+      "score": 84,
       "author": "jicea",
       "created": "2026-05-22 04:29:23",
       "created_at": 1779424163000
     },
     {
+      "id": 48232118,
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "link": "https://arxiv.org/abs/2605.19269",
+      "score": 69,
+      "author": "matt_d",
+      "created": "2026-05-22 04:54:33",
+      "created_at": 1779425673000
+    },
+    {
       "id": 48209691,
       "title": "The surprising story behind the first British person in space",
       "link": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "score": 35,
+      "score": 65,
       "author": "xoxxala",
       "created": "2026-05-20 15:47:26",
       "created_at": 1779292046000
@@ -46,16 +46,25 @@
       "id": 48231319,
       "title": "Cleve Moler has died",
       "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "score": 62,
+      "score": 114,
       "author": "mychele",
       "created": "2026-05-22 02:35:54",
       "created_at": 1779417354000
     },
     {
+      "id": 48229319,
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "score": 217,
+      "author": "d0ks",
+      "created": "2026-05-21 21:55:56",
+      "created_at": 1779400556000
+    },
+    {
       "id": 48227397,
       "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
       "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 259,
+      "score": 294,
       "author": "speckx",
       "created": "2026-05-21 18:54:55",
       "created_at": 1779389695000
@@ -64,25 +73,16 @@
       "id": 48184402,
       "title": "Was my $48K GPU server worth it?",
       "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 413,
+      "score": 462,
       "author": "apwheele",
       "created": "2026-05-18 19:33:03",
       "created_at": 1779132783000
     },
     {
-      "id": 48229319,
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 148,
-      "author": "d0ks",
-      "created": "2026-05-21 21:55:56",
-      "created_at": 1779400556000
-    },
-    {
       "id": 48228788,
       "title": "Uv is fantastic, but its package management UX is a mess",
       "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "score": 180,
+      "score": 215,
       "author": "nchagnet",
       "created": "2026-05-21 20:56:36",
       "created_at": 1779396996000
@@ -91,7 +91,7 @@
       "id": 48227860,
       "title": "Using Kagi Search with Low Vision",
       "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 185,
+      "score": 206,
       "author": "speckx",
       "created": "2026-05-21 19:32:16",
       "created_at": 1779391936000
