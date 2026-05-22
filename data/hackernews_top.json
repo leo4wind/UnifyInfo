@@ -3,95 +3,95 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-21T21:21:06.312Z"
+    "lastUpdate": "2026-05-22T02:12:48.959Z"
   },
   "data": [
-    {
-      "id": 48226944,
-      "title": "BBEdit 16",
-      "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "score": 204,
-      "author": "qaz_plm",
-      "created": "2026-05-21 18:21:37",
-      "created_at": 1779387697000
-    },
     {
       "id": 48225297,
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "link": "https://valhovey.github.io/gaia-mary/",
-      "score": 311,
+      "score": 585,
       "author": "speleo",
       "created": "2026-05-21 16:23:11",
       "created_at": 1779380591000
     },
     {
-      "id": 48227397,
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 58,
-      "author": "speckx",
-      "created": "2026-05-21 18:54:55",
-      "created_at": 1779389695000
-    },
-    {
-      "id": 48220647,
-      "title": "Flipper One – we need your help",
-      "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 940,
-      "author": "sandebert",
-      "created": "2026-05-21 11:03:38",
-      "created_at": 1779361418000
-    },
-    {
-      "id": 48223362,
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "link": "https://freenet.org/",
-      "score": 99,
-      "author": "sanity",
-      "created": "2026-05-21 14:34:57",
-      "created_at": 1779374097000
-    },
-    {
       "id": 48227860,
       "title": "Using Kagi Search with Low Vision",
       "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 30,
+      "score": 135,
       "author": "speckx",
       "created": "2026-05-21 19:32:16",
       "created_at": 1779391936000
     },
     {
-      "id": 48220105,
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 525,
-      "author": "sofumel",
-      "created": "2026-05-21 09:49:46",
-      "created_at": 1779356986000
-    },
-    {
-      "id": 48226588,
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 358,
-      "author": "root-parent",
-      "created": "2026-05-21 17:55:58",
-      "created_at": 1779386158000
+      "id": 48227397,
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 167,
+      "author": "speckx",
+      "created": "2026-05-21 18:54:55",
+      "created_at": 1779389695000
     },
     {
       "id": 48184402,
       "title": "Was my $48K GPU server worth it?",
       "link": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 155,
+      "score": 291,
       "author": "apwheele",
       "created": "2026-05-18 19:33:03",
       "created_at": 1779132783000
     },
     {
+      "id": 48192605,
+      "title": "The Death of the Brick and Mortar Toy Store",
+      "link": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "score": 17,
+      "author": "speckx",
+      "created": "2026-05-19 12:48:20",
+      "created_at": 1779194900000
+    },
+    {
+      "id": 48223362,
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "link": "https://freenet.org/",
+      "score": 197,
+      "author": "sanity",
+      "created": "2026-05-21 14:34:57",
+      "created_at": 1779374097000
+    },
+    {
+      "id": 48222733,
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 295,
+      "author": "asenna",
+      "created": "2026-05-21 14:01:37",
+      "created_at": 1779372097000
+    },
+    {
+      "id": 48209905,
+      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "link": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "score": 36,
+      "author": "mooreds",
+      "created": "2026-05-20 16:01:26",
+      "created_at": 1779292886000
+    },
+    {
+      "id": 48220696,
+      "title": "Python 3.15: features that didn't make the headlines",
+      "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "score": 331,
+      "author": "rbanffy",
+      "created": "2026-05-21 11:10:11",
+      "created_at": 1779361811000
+    },
+    {
       "id": 48225357,
       "title": "Spotify will start reserving concert tickets for fans",
       "link": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-      "score": 59,
+      "score": 107,
       "author": "elffjs",
       "created": "2026-05-21 16:26:58",
       "created_at": 1779380818000

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-21T21:21:06.120Z"
+    "lastUpdate": "2026-05-22T02:12:48.864Z"
   },
   "data": [
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1366,
+      "score": 1373,
       "author": "tedsanders",
       "created": "2026-05-20 19:05:30",
       "created_at": 1779303930000
@@ -19,34 +19,34 @@
       "id": 48206768,
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "link": "https://www.alqst.org/ar/posts/1190",
-      "score": 1051,
+      "score": 1059,
       "author": "giuliomagnifico",
       "created": "2026-05-20 12:43:41",
       "created_at": 1779281021000
     },
     {
-      "id": 48207660,
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 1003,
-      "author": "Timofeibu",
-      "created": "2026-05-20 13:43:37",
-      "created_at": 1779284617000
-    },
-    {
       "id": 48220647,
       "title": "Flipper One – we need your help",
       "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 940,
+      "score": 1049,
       "author": "sandebert",
       "created": "2026-05-21 11:03:38",
       "created_at": 1779361418000
     },
     {
+      "id": 48207660,
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "score": 1010,
+      "author": "Timofeibu",
+      "created": "2026-05-20 13:43:37",
+      "created_at": 1779284617000
+    },
+    {
       "id": 48207004,
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
       "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "score": 938,
+      "score": 943,
       "author": "healsdata",
       "created": "2026-05-20 13:02:30",
       "created_at": 1779282150000
@@ -55,7 +55,7 @@
       "id": 48208502,
       "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
       "link": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 757,
+      "score": 758,
       "author": "ceejayoz",
       "created": "2026-05-20 14:30:47",
       "created_at": 1779287447000
@@ -64,7 +64,7 @@
       "id": 48222383,
       "title": "AI is just unauthorised plagiarism at a bigger scale",
       "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "score": 724,
+      "score": 754,
       "author": "speckx",
       "created": "2026-05-21 13:38:12",
       "created_at": 1779370692000
@@ -73,28 +73,28 @@
       "id": 48205626,
       "title": "Qwen3.7-Max: The Agent Frontier",
       "link": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 689,
+      "score": 696,
       "author": "kevinsimper",
       "created": "2026-05-20 10:35:02",
       "created_at": 1779273302000
     },
     {
-      "id": 48201316,
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "link": "https://twitter.com/github/status/2056884788179726685",
-      "score": 627,
-      "author": "splenditer",
-      "created": "2026-05-20 00:01:18",
-      "created_at": 1779235278000
-    },
-    {
       "id": 48214449,
       "title": "Google Declaring War on the Web",
       "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "score": 598,
+      "score": 604,
       "author": "cdrnsf",
       "created": "2026-05-20 21:33:18",
       "created_at": 1779312798000
+    },
+    {
+      "id": 48225297,
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "link": "https://valhovey.github.io/gaia-mary/",
+      "score": 585,
+      "author": "speleo",
+      "created": "2026-05-21 16:23:11",
+      "created_at": 1779380591000
     }
   ],
   "code": 200,
