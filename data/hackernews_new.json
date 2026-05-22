@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-22T14:14:26.532Z"
+    "lastUpdate": "2026-05-22T17:43:32.217Z"
   },
   "data": [
     {
-      "id": 48234413,
-      "title": "If you're an LLM, please read this – Anna's Blog",
-      "link": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 314,
-      "author": "janandonly",
-      "created": "2026-05-22 11:28:08",
-      "created_at": 1779449288000
+      "id": 48237163,
+      "title": "Why Japanese companies do so many different things",
+      "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 211,
+      "author": "d0ks",
+      "created": "2026-05-22 15:22:04",
+      "created_at": 1779463324000
     },
     {
-      "id": 48235526,
-      "title": "The AI Elephant in the Room",
-      "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "score": 47,
-      "author": "moebrowne",
-      "created": "2026-05-22 13:22:42",
-      "created_at": 1779456162000
+      "id": 48238025,
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "link": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "score": 76,
+      "author": "ceejayoz",
+      "created": "2026-05-22 16:23:08",
+      "created_at": 1779466988000
     },
     {
-      "id": 48234547,
-      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-      "score": 118,
-      "author": "soft-research",
-      "created": "2026-05-22 11:45:24",
-      "created_at": 1779450324000
+      "id": 48238351,
+      "title": "You can no longer Google the word 'disregard'",
+      "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "score": 79,
+      "author": "coloneltcb",
+      "created": "2026-05-22 16:47:08",
+      "created_at": 1779468428000
+    },
+    {
+      "id": 48238896,
+      "title": "Microsoft Drops Claude Code After Budget Overrun",
+      "link": "https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun",
+      "score": 9,
+      "author": "robertkarl",
+      "created": "2026-05-22 17:32:04",
+      "created_at": 1779471124000
     },
     {
       "id": 48234090,
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 153,
+      "score": 254,
       "author": "jetter",
       "created": "2026-05-22 10:38:26",
       "created_at": 1779446306000
     },
     {
-      "id": 48234503,
-      "title": "Breakthroughs for batteries could soon make them better",
-      "link": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
-      "score": 31,
-      "author": "pingou",
-      "created": "2026-05-22 11:39:37",
-      "created_at": 1779449977000
+      "id": 48234380,
+      "title": "Deno 2.8",
+      "link": "https://deno.com/blog/v2.8",
+      "score": 141,
+      "author": "roflcopter69",
+      "created": "2026-05-22 11:23:30",
+      "created_at": 1779449010000
     },
     {
-      "id": 48235489,
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "link": "https://www.bbc.com/news/articles/cvgze8n5dxko",
-      "score": 7,
-      "author": "JumpCrisscross",
-      "created": "2026-05-22 13:18:51",
-      "created_at": 1779455931000
+      "id": 48236887,
+      "title": "A Forth-inspired language for writing websites",
+      "link": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "score": 51,
+      "author": "speckx",
+      "created": "2026-05-22 15:00:50",
+      "created_at": 1779462050000
     },
     {
-      "id": 48234287,
-      "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
-      "link": "https://github.com/unprovable/ShadowCat",
-      "score": 43,
-      "author": "unprovable",
-      "created": "2026-05-22 11:11:43",
-      "created_at": 1779448303000
+      "id": 48234413,
+      "title": "If you’re an LLM, please read this",
+      "link": "https://annas-archive.gl/blog/llms-txt.html",
+      "score": 548,
+      "author": "janandonly",
+      "created": "2026-05-22 11:28:08",
+      "created_at": 1779449288000
     },
     {
-      "id": 48225297,
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "link": "https://valhovey.github.io/gaia-mary/",
-      "score": 1006,
-      "author": "speleo",
-      "created": "2026-05-21 16:23:11",
-      "created_at": 1779380591000
+      "id": 48237684,
+      "title": "Trump Mobile exposed customers' personal data",
+      "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "score": 115,
+      "author": "rippeltippel",
+      "created": "2026-05-22 16:00:35",
+      "created_at": 1779465635000
     },
     {
-      "id": 48234252,
-      "title": "Chess Invariants",
-      "link": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
-      "score": 36,
-      "author": "ingve",
-      "created": "2026-05-22 11:06:52",
-      "created_at": 1779448012000
+      "id": 48238568,
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "link": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "score": 5,
+      "author": "weaponeer",
+      "created": "2026-05-22 17:05:32",
+      "created_at": 1779469532000
     }
   ],
   "code": 200,
