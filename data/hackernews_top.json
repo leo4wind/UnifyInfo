@@ -3,14 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-22T21:02:38.880Z"
+    "lastUpdate": "2026-05-23T02:00:33.309Z"
   },
   "data": [
+    {
+      "id": 48241997,
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 190,
+      "author": "lexandstuff",
+      "created": "2026-05-22 21:36:55",
+      "created_at": 1779485815000
+    },
     {
       "id": 48240419,
       "title": "Project Glasswing: An Initial Update",
       "link": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 109,
+      "score": 311,
       "author": "louiereederson",
       "created": "2026-05-22 19:31:45",
       "created_at": 1779478305000
@@ -19,82 +28,73 @@
       "id": 48237163,
       "title": "Why Japanese companies do so many different things",
       "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 357,
+      "score": 487,
       "author": "d0ks",
       "created": "2026-05-22 15:22:04",
       "created_at": 1779463324000
     },
     {
-      "id": 48238025,
-      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "link": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-      "score": 236,
-      "author": "ceejayoz",
-      "created": "2026-05-22 16:23:08",
-      "created_at": 1779466988000
+      "id": 48242278,
+      "title": "Sleep research led to a new sleep apnea drug",
+      "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "score": 61,
+      "author": "colinprince",
+      "created": "2026-05-22 22:05:39",
+      "created_at": 1779487539000
     },
     {
-      "id": 48241172,
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "link": "https://github.com/anomalyco/models.dev",
-      "score": 16,
-      "author": "maxloh",
-      "created": "2026-05-22 20:26:07",
-      "created_at": 1779481567000
+      "id": 48204985,
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "link": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "score": 17,
+      "author": "thunderbong",
+      "created": "2026-05-20 09:03:44",
+      "created_at": 1779267824000
+    },
+    {
+      "id": 48213529,
+      "title": "A Wayland Compositor in Minecraft",
+      "link": "https://modrinth.com/mod/waylandcraft",
+      "score": 123,
+      "author": "Jotalea",
+      "created": "2026-05-20 20:19:46",
+      "created_at": 1779308386000
+    },
+    {
+      "id": 48206313,
+      "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "link": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "score": 27,
+      "author": "tosh",
+      "created": "2026-05-20 11:58:24",
+      "created_at": 1779278304000
+    },
+    {
+      "id": 48242959,
+      "title": "SpaceX launches Starship v3 rocket",
+      "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+      "score": 107,
+      "author": "busymom0",
+      "created": "2026-05-22 23:41:55",
+      "created_at": 1779493315000
     },
     {
       "id": 48239413,
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "link": "https://www.kanbots.dev/",
-      "score": 83,
+      "score": 165,
       "author": "vitriapp",
       "created": "2026-05-22 18:17:57",
       "created_at": 1779473877000
     },
     {
-      "id": 48239347,
-      "title": "A scoping review of bicycling interventions’ impacts on well-being",
-      "link": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
-      "score": 52,
-      "author": "gnabgib",
-      "created": "2026-05-22 18:12:28",
-      "created_at": 1779473548000
-    },
-    {
-      "id": 48238568,
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "link": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "score": 49,
-      "author": "weaponeer",
-      "created": "2026-05-22 17:05:32",
-      "created_at": 1779469532000
-    },
-    {
-      "id": 48234380,
-      "title": "Deno 2.8",
-      "link": "https://deno.com/blog/v2.8",
-      "score": 240,
-      "author": "roflcopter69",
-      "created": "2026-05-22 11:23:30",
-      "created_at": 1779449010000
-    },
-    {
-      "id": 48238789,
-      "title": "Bun support is now limited and deprecated",
-      "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 238,
-      "author": "tamnd",
-      "created": "2026-05-22 17:24:12",
-      "created_at": 1779470652000
-    },
-    {
-      "id": 48234090,
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 312,
-      "author": "jetter",
-      "created": "2026-05-22 10:38:26",
-      "created_at": 1779446306000
+      "id": 48238429,
+      "title": "CISA tries to contain data leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "score": 129,
+      "author": "speckx",
+      "created": "2026-05-22 16:54:31",
+      "created_at": 1779468871000
     }
   ],
   "code": 200,
