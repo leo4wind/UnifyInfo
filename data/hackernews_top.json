@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-23T12:58:27.854Z"
+    "lastUpdate": "2026-05-23T16:49:43.082Z"
   },
   "data": [
     {
-      "id": 48247127,
-      "title": "I Miss Terry Pratchett",
-      "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "score": 29,
-      "author": "gorgmah",
-      "created": "2026-05-23 12:35:28",
-      "created_at": 1779539728000
+      "id": 48247325,
+      "title": "On The <dl>",
+      "link": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 187,
+      "author": "ravenical",
+      "created": "2026-05-23 13:03:43",
+      "created_at": 1779541423000
+    },
+    {
+      "id": 48247876,
+      "title": "Oura says it gets government demands for user data",
+      "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "score": 100,
+      "author": "donohoe",
+      "created": "2026-05-23 14:09:57",
+      "created_at": 1779545397000
     },
     {
       "id": 48247004,
       "title": "80386 Microcode Disassembled",
       "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 38,
+      "score": 146,
       "author": "nand2mario",
       "created": "2026-05-23 12:11:43",
       "created_at": 1779538303000
     },
     {
+      "id": 48248954,
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "score": 10,
+      "author": "elpocko",
+      "created": "2026-05-23 16:24:50",
+      "created_at": 1779553490000
+    },
+    {
+      "id": 48248014,
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "link": "https://nand2mario.github.io/posts/2026/z386/",
+      "score": 43,
+      "author": "wicket",
+      "created": "2026-05-23 14:25:30",
+      "created_at": 1779546330000
+    },
+    {
+      "id": 48199314,
+      "title": "PHP's Oddities",
+      "link": "https://flowtwo.io/post/php%27s-oddities",
+      "score": 21,
+      "author": "thejoeflow",
+      "created": "2026-05-19 20:41:48",
+      "created_at": 1779223308000
+    },
+    {
       "id": 48246889,
       "title": "Making Deep Learning Go Brrrr from First Principles",
       "link": "https://horace.io/brrr_intro.html",
-      "score": 19,
+      "score": 89,
       "author": "tosh",
       "created": "2026-05-23 11:50:22",
       "created_at": 1779537022000
     },
     {
-      "id": 48246614,
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 91,
-      "author": "zqna",
-      "created": "2026-05-23 10:57:14",
-      "created_at": 1779533834000
+      "id": 48248238,
+      "title": "Lisp in Vim (2019)",
+      "link": "https://susam.net/lisp-in-vim.html",
+      "score": 17,
+      "author": "whent",
+      "created": "2026-05-23 14:55:59",
+      "created_at": 1779548159000
     },
     {
-      "id": 48241997,
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 543,
-      "author": "lexandstuff",
-      "created": "2026-05-22 21:36:55",
-      "created_at": 1779485815000
+      "id": 48247208,
+      "title": "The Art of Money Getting",
+      "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "score": 48,
+      "author": "dxs",
+      "created": "2026-05-23 12:48:02",
+      "created_at": 1779540482000
     },
     {
-      "id": 48245262,
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "link": "https://github.com/amatsuda/rubish",
-      "score": 77,
-      "author": "winebarrel",
-      "created": "2026-05-23 06:32:00",
-      "created_at": 1779517920000
-    },
-    {
-      "id": 48237163,
-      "title": "Why Japanese companies do so many different things",
-      "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 739,
-      "author": "d0ks",
-      "created": "2026-05-22 15:22:04",
-      "created_at": 1779463324000
-    },
-    {
-      "id": 48245862,
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "link": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 156,
-      "author": "Tomte",
-      "created": "2026-05-23 08:24:57",
-      "created_at": 1779524697000
-    },
-    {
-      "id": 48206387,
-      "title": "The quadratic sandwich",
-      "link": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 75,
-      "author": "cpp_frog",
-      "created": "2026-05-20 12:06:56",
-      "created_at": 1779278816000
-    },
-    {
-      "id": 48225782,
-      "title": "Improving C# Memory Safety",
-      "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-      "score": 35,
-      "author": "soheilpro",
-      "created": "2026-05-21 16:54:48",
-      "created_at": 1779382488000
+      "id": 48222492,
+      "title": "Highest Random Weight in Elixir",
+      "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "score": 30,
+      "author": "shintoist",
+      "created": "2026-05-21 13:48:29",
+      "created_at": 1779371309000
     }
   ],
   "code": 200,
