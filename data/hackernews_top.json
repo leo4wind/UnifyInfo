@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-23T09:42:32.167Z"
+    "lastUpdate": "2026-05-23T12:58:27.854Z"
   },
   "data": [
+    {
+      "id": 48247127,
+      "title": "I Miss Terry Pratchett",
+      "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "score": 29,
+      "author": "gorgmah",
+      "created": "2026-05-23 12:35:28",
+      "created_at": 1779539728000
+    },
+    {
+      "id": 48247004,
+      "title": "80386 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 38,
+      "author": "nand2mario",
+      "created": "2026-05-23 12:11:43",
+      "created_at": 1779538303000
+    },
+    {
+      "id": 48246889,
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "link": "https://horace.io/brrr_intro.html",
+      "score": 19,
+      "author": "tosh",
+      "created": "2026-05-23 11:50:22",
+      "created_at": 1779537022000
+    },
+    {
+      "id": 48246614,
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "score": 91,
+      "author": "zqna",
+      "created": "2026-05-23 10:57:14",
+      "created_at": 1779533834000
+    },
     {
       "id": 48241997,
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 450,
+      "score": 543,
       "author": "lexandstuff",
       "created": "2026-05-22 21:36:55",
       "created_at": 1779485815000
     },
     {
-      "id": 48237163,
-      "title": "Why Japanese companies do so many different things",
-      "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 677,
-      "author": "d0ks",
-      "created": "2026-05-22 15:22:04",
-      "created_at": 1779463324000
-    },
-    {
-      "id": 48194645,
-      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "link": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-      "score": 38,
-      "author": "cf100clunk",
-      "created": "2026-05-19 15:30:01",
-      "created_at": 1779204601000
-    },
-    {
-      "id": 48206387,
-      "title": "The quadratic sandwich",
-      "link": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 40,
-      "author": "cpp_frog",
-      "created": "2026-05-20 12:06:56",
-      "created_at": 1779278816000
-    },
-    {
       "id": 48245262,
       "title": "Rubish: A Unix shell written in pure Ruby",
       "link": "https://github.com/amatsuda/rubish",
-      "score": 16,
+      "score": 77,
       "author": "winebarrel",
       "created": "2026-05-23 06:32:00",
       "created_at": 1779517920000
     },
     {
-      "id": 48240419,
-      "title": "Project Glasswing: An Initial Update",
-      "link": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 432,
-      "author": "louiereederson",
-      "created": "2026-05-22 19:31:45",
-      "created_at": 1779478305000
+      "id": 48237163,
+      "title": "Why Japanese companies do so many different things",
+      "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 739,
+      "author": "d0ks",
+      "created": "2026-05-22 15:22:04",
+      "created_at": 1779463324000
     },
     {
-      "id": 48238896,
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 251,
-      "author": "robertkarl",
-      "created": "2026-05-22 17:32:04",
-      "created_at": 1779471124000
+      "id": 48245862,
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "link": "https://xcancel.com/josefprusa/status/2054602354851254330",
+      "score": 156,
+      "author": "Tomte",
+      "created": "2026-05-23 08:24:57",
+      "created_at": 1779524697000
     },
     {
-      "id": 48204985,
-      "title": "Blood Pumping Mechanism of the Hoof (2020)",
-      "link": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
-      "score": 88,
-      "author": "thunderbong",
-      "created": "2026-05-20 09:03:44",
-      "created_at": 1779267824000
+      "id": 48206387,
+      "title": "The quadratic sandwich",
+      "link": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+      "score": 75,
+      "author": "cpp_frog",
+      "created": "2026-05-20 12:06:56",
+      "created_at": 1779278816000
     },
     {
-      "id": 48206763,
-      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-      "link": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-      "score": 70,
-      "author": "layer8",
-      "created": "2026-05-20 12:42:46",
-      "created_at": 1779280966000
-    },
-    {
-      "id": 48242278,
-      "title": "Sleep research led to a new sleep apnea drug",
-      "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 159,
-      "author": "colinprince",
-      "created": "2026-05-22 22:05:39",
-      "created_at": 1779487539000
+      "id": 48225782,
+      "title": "Improving C# Memory Safety",
+      "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+      "score": 35,
+      "author": "soheilpro",
+      "created": "2026-05-21 16:54:48",
+      "created_at": 1779382488000
     }
   ],
   "code": 200,
