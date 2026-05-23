@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-23T16:49:43.082Z"
+    "lastUpdate": "2026-05-23T20:38:28.505Z"
   },
   "data": [
     {
+      "id": 48250144,
+      "title": "It's time to talk about my writerdeck",
+      "link": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 88,
+      "author": "hggh",
+      "created": "2026-05-23 18:45:37",
+      "created_at": 1779561937000
+    },
+    {
       "id": 48247325,
-      "title": "On The <dl>",
+      "title": "On The <dl> (2021)",
       "link": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 187,
+      "score": 300,
       "author": "ravenical",
       "created": "2026-05-23 13:03:43",
       "created_at": 1779541423000
     },
     {
-      "id": 48247876,
-      "title": "Oura says it gets government demands for user data",
-      "link": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "score": 100,
-      "author": "donohoe",
-      "created": "2026-05-23 14:09:57",
-      "created_at": 1779545397000
-    },
-    {
-      "id": 48247004,
-      "title": "80386 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 146,
-      "author": "nand2mario",
-      "created": "2026-05-23 12:11:43",
-      "created_at": 1779538303000
+      "id": 48249747,
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "score": 342,
+      "author": "abawany",
+      "created": "2026-05-23 18:02:42",
+      "created_at": 1779559362000
     },
     {
       "id": 48248954,
       "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
       "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "score": 10,
+      "score": 62,
       "author": "elpocko",
       "created": "2026-05-23 16:24:50",
       "created_at": 1779553490000
     },
     {
+      "id": 48241335,
+      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "link": "https://victoriaritvo.com/blog/hengefinder/",
+      "score": 59,
+      "author": "evakhoury",
+      "created": "2026-05-22 20:39:42",
+      "created_at": 1779482382000
+    },
+    {
+      "id": 48214311,
+      "title": "My two-part desk setup",
+      "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "score": 129,
+      "author": "James72689",
+      "created": "2026-05-20 21:21:14",
+      "created_at": 1779312074000
+    },
+    {
+      "id": 48196831,
+      "title": "We made our filesystem 47× faster by deleting it",
+      "link": "https://microsandbox.dev/blog/oci-filesystem-47x-faster",
+      "score": 34,
+      "author": "appcypher",
+      "created": "2026-05-19 18:01:23",
+      "created_at": 1779213683000
+    },
+    {
+      "id": 48241890,
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "score": 205,
+      "author": "tlhunter",
+      "created": "2026-05-22 21:27:12",
+      "created_at": 1779485232000
+    },
+    {
       "id": 48248014,
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "link": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 43,
+      "score": 91,
       "author": "wicket",
       "created": "2026-05-23 14:25:30",
       "created_at": 1779546330000
     },
     {
-      "id": 48199314,
-      "title": "PHP's Oddities",
-      "link": "https://flowtwo.io/post/php%27s-oddities",
-      "score": 21,
-      "author": "thejoeflow",
-      "created": "2026-05-19 20:41:48",
-      "created_at": 1779223308000
-    },
-    {
-      "id": 48246889,
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "link": "https://horace.io/brrr_intro.html",
-      "score": 89,
-      "author": "tosh",
-      "created": "2026-05-23 11:50:22",
-      "created_at": 1779537022000
-    },
-    {
-      "id": 48248238,
-      "title": "Lisp in Vim (2019)",
-      "link": "https://susam.net/lisp-in-vim.html",
-      "score": 17,
-      "author": "whent",
-      "created": "2026-05-23 14:55:59",
-      "created_at": 1779548159000
-    },
-    {
-      "id": 48247208,
-      "title": "The Art of Money Getting",
-      "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "score": 48,
-      "author": "dxs",
-      "created": "2026-05-23 12:48:02",
-      "created_at": 1779540482000
-    },
-    {
-      "id": 48222492,
-      "title": "Highest Random Weight in Elixir",
-      "link": "https://jola.dev/posts/highest-random-weight-in-elixir",
-      "score": 30,
-      "author": "shintoist",
-      "created": "2026-05-21 13:48:29",
-      "created_at": 1779371309000
+      "id": 48247004,
+      "title": "80386 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 187,
+      "author": "nand2mario",
+      "created": "2026-05-23 12:11:43",
+      "created_at": 1779538303000
     }
   ],
   "code": 200,
