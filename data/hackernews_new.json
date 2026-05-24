@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-24T12:58:40.933Z"
+    "lastUpdate": "2026-05-24T16:51:21.984Z"
   },
   "data": [
+    {
+      "id": 48258194,
+      "title": "Usborne 1980s Computer Books",
+      "link": "https://usborne.com/us/books/computer-and-coding-books",
+      "score": 32,
+      "author": "ngram",
+      "created": "2026-05-24 15:43:00",
+      "created_at": 1779637380000
+    },
+    {
+      "id": 48256953,
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 142,
+      "author": "Alifatisk",
+      "created": "2026-05-24 13:02:06",
+      "created_at": 1779627726000
+    },
+    {
+      "id": 48258254,
+      "title": "Ruby for Good",
+      "link": "https://ti.to/codeforgood/rubyforgood",
+      "score": 13,
+      "author": "mooreds",
+      "created": "2026-05-24 15:49:19",
+      "created_at": 1779637759000
+    },
     {
       "id": 48256475,
       "title": "Mastering Dyalog APL",
       "link": "https://mastering.dyalog.com/README.html",
-      "score": 23,
+      "score": 83,
       "author": "tosh",
       "created": "2026-05-24 11:42:15",
       "created_at": 1779622935000
     },
     {
-      "id": 48255593,
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "score": 72,
-      "author": "prakashqwerty",
-      "created": "2026-05-24 08:29:38",
-      "created_at": 1779611378000
-    },
-    {
-      "id": 48223997,
-      "title": "I spent 50 hours drawing a line graph",
-      "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 120,
-      "author": "dougdude3339",
-      "created": "2026-05-21 15:05:28",
-      "created_at": 1779375928000
-    },
-    {
-      "id": 48253386,
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 315,
-      "author": "DamnInteresting",
-      "created": "2026-05-24 01:21:13",
-      "created_at": 1779585673000
-    },
-    {
-      "id": 48254309,
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 216,
-      "author": "zdw",
-      "created": "2026-05-24 04:14:52",
-      "created_at": 1779596092000
+      "id": 48256912,
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "link": "https://arxiv.org/abs/2605.06445",
+      "score": 52,
+      "author": "wek",
+      "created": "2026-05-24 12:55:53",
+      "created_at": 1779627353000
     },
     {
       "id": 48256597,
       "title": "Childhood Computing",
       "link": "https://susam.net/childhood-computing.html",
-      "score": 13,
+      "score": 93,
       "author": "blenderob",
       "created": "2026-05-24 12:07:34",
       "created_at": 1779624454000
     },
     {
-      "id": 48253186,
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 180,
-      "author": "spike021",
-      "created": "2026-05-24 00:51:32",
-      "created_at": 1779583892000
-    },
-    {
-      "id": 48253060,
-      "title": "Wake up! 16b",
-      "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 287,
-      "author": "MaximilianEmel",
-      "created": "2026-05-24 00:30:50",
-      "created_at": 1779582650000
-    },
-    {
-      "id": 48210937,
-      "title": "Silk: Open-source cooperative fiber scheduler",
-      "link": "https://github.com/ClickHouse/silk",
-      "score": 54,
-      "author": "animetyan",
-      "created": "2026-05-20 17:15:40",
-      "created_at": 1779297340000
-    },
-    {
-      "id": 48254236,
-      "title": "The C64 Dead Test Font",
-      "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "id": 48257612,
+      "title": "Omarchy Is Not A Distro",
+      "link": "https://abyss.fish/your_dotfiles_are_not_a_distro",
       "score": 68,
-      "author": "masswerk",
-      "created": "2026-05-24 03:57:01",
-      "created_at": 1779595021000
+      "author": "j3s",
+      "created": "2026-05-24 14:37:21",
+      "created_at": 1779633441000
+    },
+    {
+      "id": 48223997,
+      "title": "I spent 50 hours drawing a line graph",
+      "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "score": 259,
+      "author": "dougdude3339",
+      "created": "2026-05-21 15:05:28",
+      "created_at": 1779375928000
+    },
+    {
+      "id": 48233398,
+      "title": "I keep bouncing off the Scheme language",
+      "link": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "score": 71,
+      "author": "ingve",
+      "created": "2026-05-22 08:32:39",
+      "created_at": 1779438759000
+    },
+    {
+      "id": 48253386,
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 361,
+      "author": "DamnInteresting",
+      "created": "2026-05-24 01:21:13",
+      "created_at": 1779585673000
     }
   ],
   "code": 200,
