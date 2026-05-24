@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-23T20:38:28.352Z"
+    "lastUpdate": "2026-05-24T02:09:19.189Z"
   },
   "data": [
-    {
-      "id": 48234413,
-      "title": "If you’re an LLM, please read this",
-      "link": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 848,
-      "author": "janandonly",
-      "created": "2026-05-22 11:28:08",
-      "created_at": 1779449288000
-    },
     {
       "id": 48237163,
       "title": "Why Japanese companies do so many different things",
       "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 826,
+      "score": 857,
       "author": "d0ks",
       "created": "2026-05-22 15:22:04",
       "created_at": 1779463324000
     },
     {
+      "id": 48234413,
+      "title": "If you’re an LLM, please read this",
+      "link": "https://annas-archive.gl/blog/llms-txt.html",
+      "score": 857,
+      "author": "janandonly",
+      "created": "2026-05-22 11:28:08",
+      "created_at": 1779449288000
+    },
+    {
       "id": 48241997,
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 640,
+      "score": 665,
       "author": "lexandstuff",
       "created": "2026-05-22 21:36:55",
       "created_at": 1779485815000
@@ -37,34 +37,43 @@
       "id": 48233563,
       "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
       "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "score": 637,
+      "score": 640,
       "author": "signa11",
       "created": "2026-05-22 09:04:54",
       "created_at": 1779440694000
     },
     {
+      "id": 48249747,
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "score": 636,
+      "author": "abawany",
+      "created": "2026-05-23 18:02:42",
+      "created_at": 1779559362000
+    },
+    {
+      "id": 48241890,
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "score": 575,
+      "author": "tlhunter",
+      "created": "2026-05-22 21:27:12",
+      "created_at": 1779485232000
+    },
+    {
       "id": 48238789,
       "title": "Bun support is now limited and deprecated",
       "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 552,
+      "score": 558,
       "author": "tamnd",
       "created": "2026-05-22 17:24:12",
       "created_at": 1779470652000
     },
     {
-      "id": 48229319,
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 529,
-      "author": "d0ks",
-      "created": "2026-05-21 21:55:56",
-      "created_at": 1779400556000
-    },
-    {
       "id": 48240419,
       "title": "Project Glasswing: An Initial Update",
       "link": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 512,
+      "score": 524,
       "author": "louiereederson",
       "created": "2026-05-22 19:31:45",
       "created_at": 1779478305000
@@ -73,7 +82,7 @@
       "id": 48238896,
       "title": "Microsoft starts canceling Claude Code licenses",
       "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 432,
+      "score": 453,
       "author": "robertkarl",
       "created": "2026-05-22 17:32:04",
       "created_at": 1779471124000
@@ -82,19 +91,10 @@
       "id": 48237663,
       "title": "DeepSeek makes the V4 Pro price discount permanent",
       "link": "https://api-docs.deepseek.com/quick_start/pricing",
-      "score": 428,
+      "score": 433,
       "author": "Tiberium",
       "created": "2026-05-22 15:59:26",
       "created_at": 1779465566000
-    },
-    {
-      "id": 48234090,
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 412,
-      "author": "jetter",
-      "created": "2026-05-22 10:38:26",
-      "created_at": 1779446306000
     }
   ],
   "code": 200,

@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-23T20:38:28.505Z"
+    "lastUpdate": "2026-05-24T02:09:19.495Z"
   },
   "data": [
     {
+      "id": 48253386,
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 29,
+      "author": "DamnInteresting",
+      "created": "2026-05-24 01:21:13",
+      "created_at": 1779585673000
+    },
+    {
+      "id": 48253060,
+      "title": "Wake up! 16b",
+      "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "score": 44,
+      "author": "MaximilianEmel",
+      "created": "2026-05-24 00:30:50",
+      "created_at": 1779582650000
+    },
+    {
+      "id": 48253186,
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "score": 15,
+      "author": "spike021",
+      "created": "2026-05-24 00:51:32",
+      "created_at": 1779583892000
+    },
+    {
       "id": 48250144,
-      "title": "It's time to talk about my writerdeck",
+      "title": "Time to talk about my writerdeck",
       "link": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 88,
+      "score": 295,
       "author": "hggh",
       "created": "2026-05-23 18:45:37",
       "created_at": 1779561937000
     },
     {
-      "id": 48247325,
-      "title": "On The <dl> (2021)",
-      "link": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 300,
-      "author": "ravenical",
-      "created": "2026-05-23 13:03:43",
-      "created_at": 1779541423000
-    },
-    {
-      "id": 48249747,
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "score": 342,
-      "author": "abawany",
-      "created": "2026-05-23 18:02:42",
-      "created_at": 1779559362000
-    },
-    {
-      "id": 48248954,
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "score": 62,
-      "author": "elpocko",
-      "created": "2026-05-23 16:24:50",
-      "created_at": 1779553490000
-    },
-    {
-      "id": 48241335,
-      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
-      "link": "https://victoriaritvo.com/blog/hengefinder/",
-      "score": 59,
-      "author": "evakhoury",
-      "created": "2026-05-22 20:39:42",
-      "created_at": 1779482382000
+      "id": 48252535,
+      "title": "My I3-Emacs Integration",
+      "link": "https://khz.ac/software/i3-integration.html",
+      "score": 30,
+      "author": "nosolace",
+      "created": "2026-05-23 23:13:42",
+      "created_at": 1779578022000
     },
     {
       "id": 48214311,
-      "title": "My two-part desk setup",
+      "title": "My two-part desk setup (2025)",
       "link": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 129,
+      "score": 223,
       "author": "James72689",
       "created": "2026-05-20 21:21:14",
       "created_at": 1779312074000
     },
     {
-      "id": 48196831,
-      "title": "We made our filesystem 47× faster by deleting it",
-      "link": "https://microsandbox.dev/blog/oci-filesystem-47x-faster",
-      "score": 34,
-      "author": "appcypher",
-      "created": "2026-05-19 18:01:23",
-      "created_at": 1779213683000
+      "id": 48247325,
+      "title": "On The <dl> (2021)",
+      "link": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 351,
+      "author": "ravenical",
+      "created": "2026-05-23 13:03:43",
+      "created_at": 1779541423000
+    },
+    {
+      "id": 48232721,
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "link": "https://sales-and-dungeons.app/",
+      "score": 47,
+      "author": "hyperific",
+      "created": "2026-05-22 06:36:56",
+      "created_at": 1779431816000
     },
     {
       "id": 48241890,
       "title": "Green card seekers must leave U.S. to apply, Trump administration says",
       "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "score": 205,
+      "score": 575,
       "author": "tlhunter",
       "created": "2026-05-22 21:27:12",
       "created_at": 1779485232000
     },
     {
-      "id": 48248014,
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-      "link": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 91,
-      "author": "wicket",
-      "created": "2026-05-23 14:25:30",
-      "created_at": 1779546330000
-    },
-    {
-      "id": 48247004,
-      "title": "80386 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 187,
-      "author": "nand2mario",
-      "created": "2026-05-23 12:11:43",
-      "created_at": 1779538303000
+      "id": 48252146,
+      "title": "Byrne's Euclid",
+      "link": "https://www.c82.net/euclid/",
+      "score": 18,
+      "author": "layer8",
+      "created": "2026-05-23 22:19:36",
+      "created_at": 1779574776000
     }
   ],
   "code": 200,
