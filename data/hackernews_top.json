@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-24T09:47:03.597Z"
+    "lastUpdate": "2026-05-24T12:58:40.643Z"
   },
   "data": [
+    {
+      "id": 48256475,
+      "title": "Mastering Dyalog APL",
+      "link": "https://mastering.dyalog.com/README.html",
+      "score": 23,
+      "author": "tosh",
+      "created": "2026-05-24 11:42:15",
+      "created_at": 1779622935000
+    },
+    {
+      "id": 48255593,
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "score": 72,
+      "author": "prakashqwerty",
+      "created": "2026-05-24 08:29:38",
+      "created_at": 1779611378000
+    },
+    {
+      "id": 48223997,
+      "title": "I spent 50 hours drawing a line graph",
+      "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "score": 120,
+      "author": "dougdude3339",
+      "created": "2026-05-21 15:05:28",
+      "created_at": 1779375928000
+    },
     {
       "id": 48253386,
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 243,
+      "score": 315,
       "author": "DamnInteresting",
       "created": "2026-05-24 01:21:13",
       "created_at": 1779585673000
@@ -19,16 +46,25 @@
       "id": 48254309,
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
       "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 150,
+      "score": 216,
       "author": "zdw",
       "created": "2026-05-24 04:14:52",
       "created_at": 1779596092000
     },
     {
+      "id": 48256597,
+      "title": "Childhood Computing",
+      "link": "https://susam.net/childhood-computing.html",
+      "score": 13,
+      "author": "blenderob",
+      "created": "2026-05-24 12:07:34",
+      "created_at": 1779624454000
+    },
+    {
       "id": 48253186,
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 143,
+      "score": 180,
       "author": "spike021",
       "created": "2026-05-24 00:51:32",
       "created_at": 1779583892000
@@ -37,64 +73,28 @@
       "id": 48253060,
       "title": "Wake up! 16b",
       "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 225,
+      "score": 287,
       "author": "MaximilianEmel",
       "created": "2026-05-24 00:30:50",
       "created_at": 1779582650000
     },
     {
-      "id": 48254236,
-      "title": "The C64 Dead Test Font",
-      "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "score": 46,
-      "author": "masswerk",
-      "created": "2026-05-24 03:57:01",
-      "created_at": 1779595021000
-    },
-    {
       "id": 48210937,
       "title": "Silk: Open-source cooperative fiber scheduler",
       "link": "https://github.com/ClickHouse/silk",
-      "score": 16,
+      "score": 54,
       "author": "animetyan",
       "created": "2026-05-20 17:15:40",
       "created_at": 1779297340000
     },
     {
-      "id": 48254020,
-      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "link": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "score": 57,
-      "author": "anujbans",
-      "created": "2026-05-24 03:19:02",
-      "created_at": 1779592742000
-    },
-    {
-      "id": 48241890,
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "score": 877,
-      "author": "tlhunter",
-      "created": "2026-05-22 21:27:12",
-      "created_at": 1779485232000
-    },
-    {
-      "id": 48250144,
-      "title": "Time to talk about my writerdeck",
-      "link": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 373,
-      "author": "hggh",
-      "created": "2026-05-23 18:45:37",
-      "created_at": 1779561937000
-    },
-    {
-      "id": 48247325,
-      "title": "On The <dl> (2021)",
-      "link": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 396,
-      "author": "ravenical",
-      "created": "2026-05-23 13:03:43",
-      "created_at": 1779541423000
+      "id": 48254236,
+      "title": "The C64 Dead Test Font",
+      "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "score": 68,
+      "author": "masswerk",
+      "created": "2026-05-24 03:57:01",
+      "created_at": 1779595021000
     }
   ],
   "code": 200,
