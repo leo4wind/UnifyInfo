@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-24T16:51:21.860Z"
+    "lastUpdate": "2026-05-24T20:41:57.232Z"
   },
   "data": [
     {
       "id": 48241890,
       "title": "Green card seekers must leave U.S. to apply, Trump administration says",
       "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "score": 997,
+      "score": 1021,
       "author": "tlhunter",
       "created": "2026-05-22 21:27:12",
       "created_at": 1779485232000
@@ -19,7 +19,7 @@
       "id": 48249747,
       "title": "Texas woman arrested for Facebook post about town water quality",
       "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "score": 744,
+      "score": 758,
       "author": "abawany",
       "created": "2026-05-23 18:02:42",
       "created_at": 1779559362000
@@ -28,73 +28,73 @@
       "id": 48241997,
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 683,
+      "score": 687,
       "author": "lexandstuff",
       "created": "2026-05-22 21:36:55",
       "created_at": 1779485815000
     },
     {
-      "id": 48238789,
-      "title": "Bun support is now limited and deprecated",
-      "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 573,
-      "author": "tamnd",
-      "created": "2026-05-22 17:24:12",
-      "created_at": 1779470652000
-    },
-    {
-      "id": 48240419,
-      "title": "Project Glasswing: An Initial Update",
-      "link": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 537,
-      "author": "louiereederson",
-      "created": "2026-05-22 19:31:45",
-      "created_at": 1779478305000
-    },
-    {
-      "id": 48238896,
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 469,
-      "author": "robertkarl",
-      "created": "2026-05-22 17:32:04",
-      "created_at": 1779471124000
-    },
-    {
-      "id": 48237663,
-      "title": "DeepSeek makes the V4 Pro price discount permanent",
-      "link": "https://api-docs.deepseek.com/quick_start/pricing",
-      "score": 458,
-      "author": "Tiberium",
-      "created": "2026-05-22 15:59:26",
-      "created_at": 1779465566000
-    },
-    {
       "id": 48250144,
       "title": "Time to talk about my writerdeck",
       "link": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 427,
+      "score": 445,
       "author": "hggh",
       "created": "2026-05-23 18:45:37",
       "created_at": 1779561937000
     },
     {
+      "id": 48247325,
+      "title": "On The <dl> (2021)",
+      "link": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 429,
+      "author": "ravenical",
+      "created": "2026-05-23 13:03:43",
+      "created_at": 1779541423000
+    },
+    {
       "id": 48242959,
       "title": "SpaceX launches Starship v3 rocket",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-      "score": 421,
+      "score": 424,
       "author": "busymom0",
       "created": "2026-05-22 23:41:55",
       "created_at": 1779493315000
     },
     {
-      "id": 48247325,
-      "title": "On The <dl> (2021)",
-      "link": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 419,
-      "author": "ravenical",
-      "created": "2026-05-23 13:03:43",
-      "created_at": 1779541423000
+      "id": 48245862,
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "link": "https://twitter.com/josefprusa/status/2054602354851254330",
+      "score": 403,
+      "author": "Tomte",
+      "created": "2026-05-23 08:24:57",
+      "created_at": 1779524697000
+    },
+    {
+      "id": 48253386,
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 395,
+      "author": "DamnInteresting",
+      "created": "2026-05-24 01:21:13",
+      "created_at": 1779585673000
+    },
+    {
+      "id": 48253060,
+      "title": "Wake up! 16b",
+      "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "score": 382,
+      "author": "MaximilianEmel",
+      "created": "2026-05-24 00:30:50",
+      "created_at": 1779582650000
+    },
+    {
+      "id": 48247208,
+      "title": "The Art of Money Getting",
+      "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "score": 377,
+      "author": "dxs",
+      "created": "2026-05-23 12:48:02",
+      "created_at": 1779540482000
     }
   ],
   "code": 200,
