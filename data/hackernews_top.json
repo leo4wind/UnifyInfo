@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-24T20:41:57.557Z"
+    "lastUpdate": "2026-05-25T02:28:28.255Z"
   },
   "data": [
     {
-      "id": 48259990,
-      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
-      "link": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-      "score": 37,
-      "author": "randycupertino",
-      "created": "2026-05-24 18:56:09",
-      "created_at": 1779648969000
+      "id": 48258015,
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "link": "https://audiomass.co/?multitrack=1",
+      "score": 173,
+      "author": "pantelisk",
+      "created": "2026-05-24 15:25:43",
+      "created_at": 1779636343000
     },
     {
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 306,
+      "score": 450,
       "author": "Alifatisk",
       "created": "2026-05-24 13:02:06",
       "created_at": 1779627726000
     },
     {
+      "id": 48260117,
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "score": 68,
+      "author": "littlexsparkee",
+      "created": "2026-05-24 19:10:26",
+      "created_at": 1779649826000
+    },
+    {
       "id": 48258684,
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 201,
+      "score": 304,
       "author": "intelkishan",
       "created": "2026-05-24 16:31:29",
       "created_at": 1779640289000
     },
     {
-      "id": 48258254,
-      "title": "Ruby for Good",
-      "link": "https://ti.to/codeforgood/rubyforgood",
-      "score": 92,
-      "author": "mooreds",
-      "created": "2026-05-24 15:49:19",
-      "created_at": 1779637759000
-    },
-    {
-      "id": 48195698,
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "link": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
-      "score": 12,
-      "author": "dan_sbl",
-      "created": "2026-05-19 16:40:03",
-      "created_at": 1779208803000
-    },
-    {
-      "id": 48256912,
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "link": "https://arxiv.org/abs/2605.06445",
-      "score": 130,
-      "author": "wek",
-      "created": "2026-05-24 12:55:53",
-      "created_at": 1779627353000
-    },
-    {
-      "id": 48259784,
-      "title": "Claude is not your architect. Stop letting it pretend",
-      "link": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "score": 147,
-      "author": "cdrnsf",
-      "created": "2026-05-24 18:28:11",
-      "created_at": 1779647291000
-    },
-    {
       "id": 48223997,
       "title": "I spent 50 hours drawing a line graph",
       "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 360,
+      "score": 448,
       "author": "dougdude3339",
       "created": "2026-05-21 15:05:28",
       "created_at": 1779375928000
     },
     {
-      "id": 48259158,
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "score": 16,
-      "author": "ckrapu",
-      "created": "2026-05-24 17:18:52",
-      "created_at": 1779643132000
+      "id": 48256912,
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "link": "https://arxiv.org/abs/2605.06445",
+      "score": 179,
+      "author": "wek",
+      "created": "2026-05-24 12:55:53",
+      "created_at": 1779627353000
     },
     {
-      "id": 48259808,
-      "title": "Migrating from Go to Rust",
-      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 8,
-      "author": "jabits",
-      "created": "2026-05-24 18:31:42",
-      "created_at": 1779647502000
+      "id": 48259861,
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "score": 100,
+      "author": "ikesau",
+      "created": "2026-05-24 18:39:10",
+      "created_at": 1779647950000
+    },
+    {
+      "id": 48200071,
+      "title": "1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
+      "link": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
+      "score": 27,
+      "author": "gmays",
+      "created": "2026-05-19 21:41:01",
+      "created_at": 1779226861000
+    },
+    {
+      "id": 48195698,
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "link": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "score": 60,
+      "author": "dan_sbl",
+      "created": "2026-05-19 16:40:03",
+      "created_at": 1779208803000
+    },
+    {
+      "id": 48253386,
+      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 429,
+      "author": "DamnInteresting",
+      "created": "2026-05-24 01:21:13",
+      "created_at": 1779585673000
     }
   ],
   "code": 200,
