@@ -3,14 +3,41 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-25T02:28:28.255Z"
+    "lastUpdate": "2026-05-25T08:10:44.813Z"
   },
   "data": [
+    {
+      "id": 48263253,
+      "title": "Jira Is Turing-Complete",
+      "link": "https://seriot.ch/computation/jira.html",
+      "score": 133,
+      "author": "vinhnx",
+      "created": "2026-05-25 03:54:14",
+      "created_at": 1779681254000
+    },
+    {
+      "id": 48243666,
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "score": 80,
+      "author": "kelseyfrog",
+      "created": "2026-05-23 01:37:02",
+      "created_at": 1779500222000
+    },
+    {
+      "id": 48240025,
+      "title": "I love my Bluetooth keyboard",
+      "link": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+      "score": 59,
+      "author": "evakhoury",
+      "created": "2026-05-22 19:04:25",
+      "created_at": 1779476665000
+    },
     {
       "id": 48258015,
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "link": "https://audiomass.co/?multitrack=1",
-      "score": 173,
+      "score": 332,
       "author": "pantelisk",
       "created": "2026-05-24 15:25:43",
       "created_at": 1779636343000
@@ -19,82 +46,55 @@
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 450,
+      "score": 540,
       "author": "Alifatisk",
       "created": "2026-05-24 13:02:06",
       "created_at": 1779627726000
     },
     {
+      "id": 48259808,
+      "title": "Migrating from Go to Rust",
+      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "score": 251,
+      "author": "jabits",
+      "created": "2026-05-24 18:31:42",
+      "created_at": 1779647502000
+    },
+    {
+      "id": 48245916,
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "link": "https://ohwr.org/projects/white-rabbit/",
+      "score": 82,
+      "author": "michaelsbradley",
+      "created": "2026-05-23 08:38:44",
+      "created_at": 1779525524000
+    },
+    {
+      "id": 48242546,
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "link": "https://phabricator.services.mozilla.com/D301917",
+      "score": 79,
+      "author": "luu",
+      "created": "2026-05-22 22:43:04",
+      "created_at": 1779489784000
+    },
+    {
       "id": 48260117,
       "title": "A fundamental principle of aeronautical engineering has been overturned",
       "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "score": 68,
+      "score": 152,
       "author": "littlexsparkee",
       "created": "2026-05-24 19:10:26",
       "created_at": 1779649826000
     },
     {
-      "id": 48258684,
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 304,
-      "author": "intelkishan",
-      "created": "2026-05-24 16:31:29",
-      "created_at": 1779640289000
-    },
-    {
-      "id": 48223997,
-      "title": "I spent 50 hours drawing a line graph",
-      "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 448,
-      "author": "dougdude3339",
-      "created": "2026-05-21 15:05:28",
-      "created_at": 1779375928000
-    },
-    {
-      "id": 48256912,
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "link": "https://arxiv.org/abs/2605.06445",
-      "score": 179,
-      "author": "wek",
-      "created": "2026-05-24 12:55:53",
-      "created_at": 1779627353000
-    },
-    {
-      "id": 48259861,
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "score": 100,
-      "author": "ikesau",
-      "created": "2026-05-24 18:39:10",
-      "created_at": 1779647950000
-    },
-    {
-      "id": 48200071,
-      "title": "1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
-      "link": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
-      "score": 27,
-      "author": "gmays",
-      "created": "2026-05-19 21:41:01",
-      "created_at": 1779226861000
-    },
-    {
-      "id": 48195698,
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "link": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
-      "score": 60,
-      "author": "dan_sbl",
-      "created": "2026-05-19 16:40:03",
-      "created_at": 1779208803000
-    },
-    {
-      "id": 48253386,
-      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 429,
-      "author": "DamnInteresting",
-      "created": "2026-05-24 01:21:13",
-      "created_at": 1779585673000
+      "id": 48228608,
+      "title": "C constructs that still don't work in C++",
+      "link": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "score": 50,
+      "author": "jalospinoso",
+      "created": "2026-05-21 20:40:47",
+      "created_at": 1779396047000
     }
   ],
   "code": 200,
