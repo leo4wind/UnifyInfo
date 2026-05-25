@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-25T08:10:45.123Z"
+    "lastUpdate": "2026-05-25T14:32:38.813Z"
   },
   "data": [
     {
-      "id": 48263253,
-      "title": "Jira Is Turing-Complete",
-      "link": "https://seriot.ch/computation/jira.html",
-      "score": 133,
-      "author": "vinhnx",
-      "created": "2026-05-25 03:54:14",
-      "created_at": 1779681254000
+      "id": 48266051,
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "score": 271,
+      "author": "elorant",
+      "created": "2026-05-25 12:27:11",
+      "created_at": 1779712031000
+    },
+    {
+      "id": 48265206,
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 372,
+      "author": "theletterf",
+      "created": "2026-05-25 10:11:29",
+      "created_at": 1779703889000
+    },
+    {
+      "id": 48266895,
+      "title": "2026 HIPAA Security Rule Update",
+      "link": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "score": 19,
+      "author": "mooreds",
+      "created": "2026-05-25 13:55:28",
+      "created_at": 1779717328000
+    },
+    {
+      "id": 48265876,
+      "title": "Leave Me Behind",
+      "link": "http://androidessence.com/leave-me-behind/",
+      "score": 136,
+      "author": "mooreds",
+      "created": "2026-05-25 12:03:54",
+      "created_at": 1779710634000
+    },
+    {
+      "id": 48266906,
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "score": 16,
+      "author": "jruohonen",
+      "created": "2026-05-25 13:56:39",
+      "created_at": 1779717399000
+    },
+    {
+      "id": 48266485,
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "score": 101,
+      "author": "benwerd",
+      "created": "2026-05-25 13:17:58",
+      "created_at": 1779715078000
+    },
+    {
+      "id": 48267126,
+      "title": "C extensions, portability, and alternative compilers",
+      "link": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "score": 7,
+      "author": "xngbuilds",
+      "created": "2026-05-25 14:15:19",
+      "created_at": 1779718519000
+    },
+    {
+      "id": 48265056,
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "link": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "score": 56,
+      "author": "rbanffy",
+      "created": "2026-05-25 09:43:03",
+      "created_at": 1779702183000
     },
     {
       "id": 48243666,
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
       "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "score": 80,
+      "score": 211,
       "author": "kelseyfrog",
       "created": "2026-05-23 01:37:02",
       "created_at": 1779500222000
     },
     {
-      "id": 48240025,
-      "title": "I love my Bluetooth keyboard",
-      "link": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
-      "score": 59,
-      "author": "evakhoury",
-      "created": "2026-05-22 19:04:25",
-      "created_at": 1779476665000
-    },
-    {
-      "id": 48258015,
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "link": "https://audiomass.co/?multitrack=1",
-      "score": 332,
-      "author": "pantelisk",
-      "created": "2026-05-24 15:25:43",
-      "created_at": 1779636343000
-    },
-    {
-      "id": 48256953,
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 540,
-      "author": "Alifatisk",
-      "created": "2026-05-24 13:02:06",
-      "created_at": 1779627726000
-    },
-    {
-      "id": 48259808,
-      "title": "Migrating from Go to Rust",
-      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 251,
-      "author": "jabits",
-      "created": "2026-05-24 18:31:42",
-      "created_at": 1779647502000
-    },
-    {
-      "id": 48245916,
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "link": "https://ohwr.org/projects/white-rabbit/",
-      "score": 82,
-      "author": "michaelsbradley",
-      "created": "2026-05-23 08:38:44",
-      "created_at": 1779525524000
-    },
-    {
-      "id": 48242546,
-      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-      "link": "https://phabricator.services.mozilla.com/D301917",
-      "score": 79,
-      "author": "luu",
-      "created": "2026-05-22 22:43:04",
-      "created_at": 1779489784000
-    },
-    {
-      "id": 48260117,
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "score": 152,
-      "author": "littlexsparkee",
-      "created": "2026-05-24 19:10:26",
-      "created_at": 1779649826000
-    },
-    {
-      "id": 48228608,
-      "title": "C constructs that still don't work in C++",
-      "link": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
-      "score": 50,
-      "author": "jalospinoso",
-      "created": "2026-05-21 20:40:47",
-      "created_at": 1779396047000
+      "id": 48247831,
+      "title": "Your Old Devices Depend on Dying Sensors. The Silicon Labs Incident Proves It",
+      "link": "https://www.cambridge.org/engage/coe/article-details/6a054b304770e67d92e8c7a2",
+      "score": 11,
+      "author": "openrockets",
+      "created": "2026-05-23 14:05:22",
+      "created_at": 1779545122000
     }
   ],
   "code": 200,
