@@ -3,50 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-25T14:32:38.640Z"
+    "lastUpdate": "2026-05-25T17:27:15.161Z"
   },
   "data": [
     {
       "id": 48249747,
       "title": "Texas woman arrested for Facebook post about town water quality",
       "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "score": 779,
+      "score": 784,
       "author": "abawany",
       "created": "2026-05-23 18:02:42",
       "created_at": 1779559362000
     },
     {
+      "id": 48265206,
+      "title": "Magnifica Humanitas",
+      "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 725,
+      "author": "theletterf",
+      "created": "2026-05-25 10:11:29",
+      "created_at": 1779703889000
+    },
+    {
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 617,
+      "score": 645,
       "author": "Alifatisk",
       "created": "2026-05-24 13:02:06",
       "created_at": 1779627726000
     },
     {
-      "id": 48250144,
-      "title": "Time to talk about my writerdeck",
-      "link": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 490,
-      "author": "hggh",
-      "created": "2026-05-23 18:45:37",
-      "created_at": 1779561937000
-    },
-    {
       "id": 48253386,
       "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
       "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 487,
+      "score": 500,
       "author": "DamnInteresting",
       "created": "2026-05-24 01:21:13",
       "created_at": 1779585673000
     },
     {
+      "id": 48250144,
+      "title": "Time to talk about my writerdeck",
+      "link": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 498,
+      "author": "hggh",
+      "created": "2026-05-23 18:45:37",
+      "created_at": 1779561937000
+    },
+    {
+      "id": 48266051,
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "score": 464,
+      "author": "elorant",
+      "created": "2026-05-25 12:27:11",
+      "created_at": 1779712031000
+    },
+    {
       "id": 48258015,
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "link": "https://audiomass.co/?multitrack=1",
-      "score": 432,
+      "score": 457,
       "author": "pantelisk",
       "created": "2026-05-24 15:25:43",
       "created_at": 1779636343000
@@ -55,46 +73,28 @@
       "id": 48253060,
       "title": "Wake up! 16b",
       "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 424,
+      "score": 427,
       "author": "MaximilianEmel",
       "created": "2026-05-24 00:30:50",
       "created_at": 1779582650000
     },
     {
-      "id": 48258684,
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 412,
-      "author": "intelkishan",
-      "created": "2026-05-24 16:31:29",
-      "created_at": 1779640289000
-    },
-    {
       "id": 48263238,
       "title": "The Eternal Sloptember",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "score": 387,
+      "score": 417,
       "author": "razin",
       "created": "2026-05-25 03:47:24",
       "created_at": 1779680844000
     },
     {
-      "id": 48265206,
-      "title": "Magnifica Humanitas (Encyclical Letter)",
-      "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 372,
-      "author": "theletterf",
-      "created": "2026-05-25 10:11:29",
-      "created_at": 1779703889000
-    },
-    {
-      "id": 48259808,
-      "title": "Migrating from Go to Rust",
-      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 362,
-      "author": "jabits",
-      "created": "2026-05-24 18:31:42",
-      "created_at": 1779647502000
+      "id": 48258684,
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "score": 416,
+      "author": "intelkishan",
+      "created": "2026-05-24 16:31:29",
+      "created_at": 1779640289000
     }
   ],
   "code": 200,
