@@ -3,68 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-26T02:08:04.478Z"
+    "lastUpdate": "2026-05-26T07:35:00.465Z"
   },
   "data": [
     {
       "id": 48265206,
       "title": "Magnifica Humanitas",
       "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 1344,
+      "score": 1405,
       "author": "theletterf",
       "created": "2026-05-25 10:11:29",
       "created_at": 1779703889000
     },
     {
-      "id": 48256953,
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 708,
-      "author": "Alifatisk",
-      "created": "2026-05-24 13:02:06",
-      "created_at": 1779627726000
-    },
-    {
       "id": 48269961,
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 660,
+      "score": 826,
       "author": "rbanffy",
       "created": "2026-05-25 18:19:58",
       "created_at": 1779733198000
     },
     {
+      "id": 48256953,
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 711,
+      "author": "Alifatisk",
+      "created": "2026-05-24 13:02:06",
+      "created_at": 1779627726000
+    },
+    {
       "id": 48266051,
       "title": "Search engines alternatives now that Google isn't Google anymore",
       "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "score": 533,
+      "score": 544,
       "author": "elorant",
       "created": "2026-05-25 12:27:11",
       "created_at": 1779712031000
     },
     {
+      "id": 48272984,
+      "title": "Using AI to write better code more slowly",
+      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "score": 528,
+      "author": "signa11",
+      "created": "2026-05-25 23:16:59",
+      "created_at": 1779751019000
+    },
+    {
       "id": 48258015,
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "link": "https://audiomass.co/?multitrack=1",
-      "score": 516,
+      "score": 520,
       "author": "pantelisk",
       "created": "2026-05-24 15:25:43",
       "created_at": 1779636343000
     },
     {
-      "id": 48253386,
-      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 508,
-      "author": "DamnInteresting",
-      "created": "2026-05-24 01:21:13",
-      "created_at": 1779585673000
-    },
-    {
       "id": 48259808,
       "title": "Migrating from Go to Rust",
       "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 456,
+      "score": 463,
       "author": "jabits",
       "created": "2026-05-24 18:31:42",
       "created_at": 1779647502000
@@ -73,7 +73,7 @@
       "id": 48263238,
       "title": "The Eternal Sloptember",
       "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "score": 445,
+      "score": 460,
       "author": "razin",
       "created": "2026-05-25 03:47:24",
       "created_at": 1779680844000
@@ -82,19 +82,19 @@
       "id": 48258684,
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 430,
+      "score": 434,
       "author": "intelkishan",
       "created": "2026-05-24 16:31:29",
       "created_at": 1779640289000
     },
     {
-      "id": 48254309,
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 350,
-      "author": "zdw",
-      "created": "2026-05-24 04:14:52",
-      "created_at": 1779596092000
+      "id": 48269580,
+      "title": "Exit IP VPN servers mitigation rollout",
+      "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "score": 339,
+      "author": "Cider9986",
+      "created": "2026-05-25 17:45:11",
+      "created_at": 1779731111000
     }
   ],
   "code": 200,
