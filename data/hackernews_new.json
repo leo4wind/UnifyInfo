@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-26T14:39:30.983Z"
+    "lastUpdate": "2026-05-26T18:15:14.863Z"
   },
   "data": [
     {
-      "id": 48278374,
-      "title": "GitHub Actions down again today",
-      "link": "https://www.githubstatus.com/?today",
-      "score": 412,
-      "author": "cebert",
-      "created": "2026-05-26 11:42:58",
-      "created_at": 1779795778000
+      "id": 48279453,
+      "title": "Dropbox CEO Drew Houston to step down",
+      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "score": 72,
+      "author": "aghuang",
+      "created": "2026-05-26 13:18:33",
+      "created_at": 1779801513000
     },
     {
-      "id": 48278610,
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 43,
-      "author": "GodelNumbering",
-      "created": "2026-05-26 12:08:33",
-      "created_at": 1779797313000
+      "id": 48281539,
+      "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+      "link": "https://dynomight.net/crc-rates/",
+      "score": 62,
+      "author": "surprisetalk",
+      "created": "2026-05-26 16:00:21",
+      "created_at": 1779811221000
+    },
+    {
+      "id": 48281367,
+      "title": "The Ballad of TIGIT",
+      "link": "https://www.owlposting.com/p/the-ballad-of-tigit",
+      "score": 40,
+      "author": "crescit_eundo",
+      "created": "2026-05-26 15:47:32",
+      "created_at": 1779810452000
+    },
+    {
+      "id": 48280729,
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "link": "https://www.minicor.com/",
+      "score": 44,
+      "author": "fchishtie",
+      "created": "2026-05-26 14:57:27",
+      "created_at": 1779807447000
+    },
+    {
+      "id": 48281515,
+      "title": "What color is your function? (2015)",
+      "link": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+      "score": 42,
+      "author": "tosh",
+      "created": "2026-05-26 15:58:32",
+      "created_at": 1779811112000
+    },
+    {
+      "id": 48271448,
+      "title": "A few interesting modern pixel fonts",
+      "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "score": 15,
+      "author": "zdw",
+      "created": "2026-05-25 20:41:49",
+      "created_at": 1779741709000
+    },
+    {
+      "id": 48279316,
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "score": 377,
+      "author": "thm",
+      "created": "2026-05-26 13:08:13",
+      "created_at": 1779800893000
     },
     {
       "id": 48272984,
       "title": "Using AI to write better code more slowly",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 872,
+      "score": 1037,
       "author": "signa11",
       "created": "2026-05-25 23:16:59",
       "created_at": 1779751019000
     },
     {
-      "id": 48278406,
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 205,
-      "author": "vrganj",
-      "created": "2026-05-26 11:46:08",
-      "created_at": 1779795968000
-    },
-    {
-      "id": 48276363,
-      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "link": "https://dynip.dev/",
-      "score": 211,
-      "author": "dynip",
-      "created": "2026-05-26 07:35:20",
-      "created_at": 1779780920000
-    },
-    {
-      "id": 48247416,
-      "title": "Opaque Types in Python",
-      "link": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-      "score": 30,
-      "author": "lumpa",
-      "created": "2026-05-23 13:17:39",
-      "created_at": 1779542259000
-    },
-    {
-      "id": 48278407,
-      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "link": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-      "score": 35,
-      "author": "berlianta",
-      "created": "2026-05-26 11:46:10",
-      "created_at": 1779795970000
-    },
-    {
-      "id": 48279842,
-      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
-      "link": "https://retrogamecoders.com/overhead-camera-view/",
-      "score": 7,
-      "author": "ibobev",
-      "created": "2026-05-26 13:47:39",
-      "created_at": 1779803259000
-    },
-    {
-      "id": 48272670,
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 430,
-      "author": "bilsbie",
-      "created": "2026-05-25 22:30:27",
-      "created_at": 1779748227000
-    },
-    {
-      "id": 48278090,
-      "title": "Incident with Actions and Pages",
-      "link": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
-      "score": 45,
-      "author": "hakube",
-      "created": "2026-05-26 11:10:19",
-      "created_at": 1779793819000
+      "id": 48281226,
+      "title": "Language Models Need Sleep",
+      "link": "https://arxiv.org/abs/2605.26099",
+      "score": 113,
+      "author": "juxtapose",
+      "created": "2026-05-26 15:36:24",
+      "created_at": 1779809784000
     }
   ],
   "code": 200,
