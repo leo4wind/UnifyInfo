@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-26T07:35:01.164Z"
+    "lastUpdate": "2026-05-26T14:39:30.983Z"
   },
   "data": [
+    {
+      "id": 48278374,
+      "title": "GitHub Actions down again today",
+      "link": "https://www.githubstatus.com/?today",
+      "score": 412,
+      "author": "cebert",
+      "created": "2026-05-26 11:42:58",
+      "created_at": 1779795778000
+    },
+    {
+      "id": 48278610,
+      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "score": 43,
+      "author": "GodelNumbering",
+      "created": "2026-05-26 12:08:33",
+      "created_at": 1779797313000
+    },
     {
       "id": 48272984,
       "title": "Using AI to write better code more slowly",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 528,
+      "score": 872,
       "author": "signa11",
       "created": "2026-05-25 23:16:59",
       "created_at": 1779751019000
     },
     {
-      "id": 48275059,
-      "title": "The User Is Visibly Frustrated",
-      "link": "https://pscanf.com/s/354/",
-      "score": 91,
-      "author": "croes",
-      "created": "2026-05-26 04:39:03",
-      "created_at": 1779770343000
+      "id": 48278406,
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "score": 205,
+      "author": "vrganj",
+      "created": "2026-05-26 11:46:08",
+      "created_at": 1779795968000
+    },
+    {
+      "id": 48276363,
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "link": "https://dynip.dev/",
+      "score": 211,
+      "author": "dynip",
+      "created": "2026-05-26 07:35:20",
+      "created_at": 1779780920000
+    },
+    {
+      "id": 48247416,
+      "title": "Opaque Types in Python",
+      "link": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+      "score": 30,
+      "author": "lumpa",
+      "created": "2026-05-23 13:17:39",
+      "created_at": 1779542259000
+    },
+    {
+      "id": 48278407,
+      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+      "link": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "score": 35,
+      "author": "berlianta",
+      "created": "2026-05-26 11:46:10",
+      "created_at": 1779795970000
+    },
+    {
+      "id": 48279842,
+      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+      "link": "https://retrogamecoders.com/overhead-camera-view/",
+      "score": 7,
+      "author": "ibobev",
+      "created": "2026-05-26 13:47:39",
+      "created_at": 1779803259000
     },
     {
       "id": 48272670,
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
       "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 234,
+      "score": 430,
       "author": "bilsbie",
       "created": "2026-05-25 22:30:27",
       "created_at": 1779748227000
     },
     {
-      "id": 48274711,
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "link": "https://earthiongame.com/",
-      "score": 48,
-      "author": "MrBuddyCasino",
-      "created": "2026-05-26 03:42:23",
-      "created_at": 1779766943000
-    },
-    {
-      "id": 48272715,
-      "title": "How Shamir's Secret Sharing Works",
-      "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "score": 170,
-      "author": "subract",
-      "created": "2026-05-25 22:37:24",
-      "created_at": 1779748644000
-    },
-    {
-      "id": 48275508,
-      "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
-      "link": "",
-      "score": 63,
-      "author": "widenrun",
-      "created": "2026-05-26 05:49:35",
-      "created_at": 1779774575000
-    },
-    {
-      "id": 48270812,
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-      "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "score": 131,
-      "author": "rmason",
-      "created": "2026-05-25 19:43:45",
-      "created_at": 1779738225000
-    },
-    {
-      "id": 48270770,
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "score": 245,
-      "author": "rbanffy",
-      "created": "2026-05-25 19:37:57",
-      "created_at": 1779737877000
-    },
-    {
-      "id": 48271629,
-      "title": "Ferrari Luce",
-      "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "score": 200,
-      "author": "jumploops",
-      "created": "2026-05-25 21:00:38",
-      "created_at": 1779742838000
-    },
-    {
-      "id": 48269580,
-      "title": "Exit IP VPN servers mitigation rollout",
-      "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 339,
-      "author": "Cider9986",
-      "created": "2026-05-25 17:45:11",
-      "created_at": 1779731111000
+      "id": 48278090,
+      "title": "Incident with Actions and Pages",
+      "link": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
+      "score": 45,
+      "author": "hakube",
+      "created": "2026-05-26 11:10:19",
+      "created_at": 1779793819000
     }
   ],
   "code": 200,
