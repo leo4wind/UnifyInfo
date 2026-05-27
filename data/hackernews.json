@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-27T07:55:07.761Z"
+    "lastUpdate": "2026-05-27T11:28:51.405Z"
   },
   "data": [
-    {
-      "id": 48265206,
-      "title": "Magnifica Humanitas",
-      "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 1595,
-      "author": "theletterf",
-      "created": "2026-05-25 10:11:29",
-      "created_at": 1779703889000
-    },
     {
       "id": 48272984,
       "title": "Using AI to write better code more slowly",
       "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1170,
+      "score": 1182,
       "author": "signa11",
       "created": "2026-05-25 23:16:59",
       "created_at": 1779751019000
@@ -28,7 +19,7 @@
       "id": 48269961,
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 1045,
+      "score": 1051,
       "author": "rbanffy",
       "created": "2026-05-25 18:19:58",
       "created_at": 1779733198000
@@ -37,7 +28,7 @@
       "id": 48279316,
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 891,
+      "score": 948,
       "author": "thm",
       "created": "2026-05-26 13:08:13",
       "created_at": 1779800893000
@@ -55,10 +46,19 @@
       "id": 48272670,
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
       "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 580,
+      "score": 582,
       "author": "bilsbie",
       "created": "2026-05-25 22:30:27",
       "created_at": 1779748227000
+    },
+    {
+      "id": 48278406,
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "score": 566,
+      "author": "vrganj",
+      "created": "2026-05-26 11:46:08",
+      "created_at": 1779795968000
     },
     {
       "id": 48266051,
@@ -70,19 +70,10 @@
       "created_at": 1779712031000
     },
     {
-      "id": 48278406,
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 553,
-      "author": "vrganj",
-      "created": "2026-05-26 11:46:08",
-      "created_at": 1779795968000
-    },
-    {
       "id": 48267290,
       "title": "What we lost when we stopped letting kids leave the front yard",
       "link": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
-      "score": 511,
+      "score": 514,
       "author": "obscurette",
       "created": "2026-05-25 14:29:52",
       "created_at": 1779719392000
@@ -91,10 +82,19 @@
       "id": 48285592,
       "title": "Big tech's anti-labor playbook has come for Wikipedia",
       "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-      "score": 480,
+      "score": 502,
       "author": "cdrnsf",
       "created": "2026-05-26 20:33:24",
       "created_at": 1779827604000
+    },
+    {
+      "id": 48271629,
+      "title": "Ferrari Luce",
+      "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "score": 484,
+      "author": "jumploops",
+      "created": "2026-05-25 21:00:38",
+      "created_at": 1779742838000
     }
   ],
   "code": 200,
