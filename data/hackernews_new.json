@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-27T11:28:51.703Z"
+    "lastUpdate": "2026-05-27T14:53:40.070Z"
   },
   "data": [
     {
       "id": 48292224,
       "title": "I'm Tired of Talking to AI",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 95,
+      "score": 963,
       "author": "theorchid",
       "created": "2026-05-27 10:43:25",
       "created_at": 1779878605000
@@ -19,82 +19,82 @@
       "id": 48291947,
       "title": "Mini Micro Fantasy Computer",
       "link": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 49,
+      "score": 134,
       "author": "nicoloren",
       "created": "2026-05-27 09:56:02",
       "created_at": 1779875762000
     },
     {
+      "id": 48293014,
+      "title": "XLIDE: VBA without excel",
+      "link": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "score": 32,
+      "author": "sts153",
+      "created": "2026-05-27 12:08:18",
+      "created_at": 1779883698000
+    },
+    {
+      "id": 48247005,
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "score": 48,
+      "author": "tosh",
+      "created": "2026-05-23 12:11:47",
+      "created_at": 1779538307000
+    },
+    {
+      "id": 48291225,
+      "title": "All of human cooking compressed into 2 megabytes",
+      "link": "https://arxiv.org/abs/2605.22391",
+      "score": 159,
+      "author": "josefchen",
+      "created": "2026-05-27 08:14:40",
+      "created_at": 1779869680000
+    },
+    {
       "id": 48284711,
       "title": "The Melancholy of Slaying Monsters",
       "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "score": 122,
+      "score": 192,
       "author": "prismatic",
       "created": "2026-05-26 19:25:13",
       "created_at": 1779823513000
     },
     {
+      "id": 48292941,
+      "title": "Private Equity Bought America's Essential Services",
+      "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "score": 211,
+      "author": "NoRagrets",
+      "created": "2026-05-27 12:00:53",
+      "created_at": 1779883253000
+    },
+    {
+      "id": 48293080,
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 140,
+      "author": "maxnoe",
+      "created": "2026-05-27 12:15:14",
+      "created_at": 1779884114000
+    },
+    {
       "id": 48277723,
       "title": "Raft Consensus with a Minority of Nodes",
       "link": "https://padhye.org/raft-minority/",
-      "score": 40,
+      "score": 85,
       "author": "moarbugs",
       "created": "2026-05-26 10:30:25",
       "created_at": 1779791425000
     },
     {
-      "id": 48277107,
-      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "link": "https://badhost.org/",
-      "score": 69,
-      "author": "ylk",
-      "created": "2026-05-26 09:07:18",
-      "created_at": 1779786438000
-    },
-    {
       "id": 48287468,
       "title": "Cloudflare Flagship",
       "link": "https://developers.cloudflare.com/flagship/",
-      "score": 239,
+      "score": 297,
       "author": "tjek",
       "created": "2026-05-26 23:36:06",
       "created_at": 1779838566000
-    },
-    {
-      "id": 48284712,
-      "title": "That Methyl Methacrylate Tank",
-      "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 340,
-      "author": "nooks",
-      "created": "2026-05-26 19:25:16",
-      "created_at": 1779823516000
-    },
-    {
-      "id": 48258848,
-      "title": "What Gets Kept",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "score": 44,
-      "author": "lermontov",
-      "created": "2026-05-24 16:46:25",
-      "created_at": 1779641185000
-    },
-    {
-      "id": 48285344,
-      "title": "The worst job interview I ever had",
-      "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 370,
-      "author": "oliverio",
-      "created": "2026-05-26 20:11:49",
-      "created_at": 1779826309000
-    },
-    {
-      "id": 48271448,
-      "title": "A few interesting modern pixel fonts",
-      "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 363,
-      "author": "zdw",
-      "created": "2026-05-25 20:41:49",
-      "created_at": 1779741709000
     }
   ],
   "code": 200,
