@@ -3,23 +3,59 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-26T21:27:34.943Z"
+    "lastUpdate": "2026-05-27T02:15:15.850Z"
   },
   "data": [
+    {
+      "id": 48287952,
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "link": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "score": 81,
+      "author": "cratermoon",
+      "created": "2026-05-27 00:36:03",
+      "created_at": 1779842163000
+    },
     {
       "id": 48284712,
       "title": "Chemistry behind the Garden Grove chemical tank",
       "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 74,
+      "score": 228,
       "author": "nooks",
       "created": "2026-05-26 19:25:16",
       "created_at": 1779823516000
     },
     {
+      "id": 48287468,
+      "title": "Cloudflare Flagship",
+      "link": "https://developers.cloudflare.com/flagship/",
+      "score": 69,
+      "author": "tjek",
+      "created": "2026-05-26 23:36:06",
+      "created_at": 1779838566000
+    },
+    {
+      "id": 48287649,
+      "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+      "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "score": 30,
+      "author": "talvardi7",
+      "created": "2026-05-27 00:00:35",
+      "created_at": 1779840035000
+    },
+    {
+      "id": 48287982,
+      "title": "Stripe is friendly to \"friendly fraud\"",
+      "link": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "score": 78,
+      "author": "gingerlime",
+      "created": "2026-05-27 00:40:05",
+      "created_at": 1779842405000
+    },
+    {
       "id": 48271448,
       "title": "A few interesting modern pixel fonts",
       "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 146,
+      "score": 257,
       "author": "zdw",
       "created": "2026-05-25 20:41:49",
       "created_at": 1779741709000
@@ -28,73 +64,37 @@
       "id": 48238703,
       "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
       "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 86,
+      "score": 170,
       "author": "dustin1114",
       "created": "2026-05-22 17:17:43",
       "created_at": 1779470263000
     },
     {
-      "id": 48222600,
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "link": "https://github.com/logannye/rosalind",
-      "score": 90,
-      "author": "samuell",
-      "created": "2026-05-21 13:55:13",
-      "created_at": 1779371713000
+      "id": 48275564,
+      "title": "A portentous reunion",
+      "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "score": 50,
+      "author": "cafkafk",
+      "created": "2026-05-26 05:57:45",
+      "created_at": 1779775065000
     },
     {
-      "id": 48281367,
-      "title": "The Ballad of TIGIT",
-      "link": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "score": 82,
-      "author": "crescit_eundo",
-      "created": "2026-05-26 15:47:32",
-      "created_at": 1779810452000
+      "id": 48285592,
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 308,
+      "author": "cdrnsf",
+      "created": "2026-05-26 20:33:24",
+      "created_at": 1779827604000
     },
     {
-      "id": 48279316,
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 620,
-      "author": "thm",
-      "created": "2026-05-26 13:08:13",
-      "created_at": 1779800893000
-    },
-    {
-      "id": 48279453,
-      "title": "Dropbox CEO Drew Houston to step down",
-      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "score": 210,
-      "author": "aghuang",
-      "created": "2026-05-26 13:18:33",
-      "created_at": 1779801513000
-    },
-    {
-      "id": 48280729,
-      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-      "link": "https://www.minicor.com/",
-      "score": 61,
-      "author": "fchishtie",
-      "created": "2026-05-26 14:57:27",
-      "created_at": 1779807447000
-    },
-    {
-      "id": 48281515,
-      "title": "What color is your function? (2015)",
-      "link": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-      "score": 70,
-      "author": "tosh",
-      "created": "2026-05-26 15:58:32",
-      "created_at": 1779811112000
-    },
-    {
-      "id": 48279842,
-      "title": "C64 Basic: Game Map Overhead “Camera View”",
-      "link": "https://retrogamecoders.com/overhead-camera-view/",
-      "score": 62,
-      "author": "ibobev",
-      "created": "2026-05-26 13:47:39",
-      "created_at": 1779803259000
+      "id": 48263560,
+      "title": "C array types are weird",
+      "link": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "score": 57,
+      "author": "signa11",
+      "created": "2026-05-25 05:05:11",
+      "created_at": 1779685511000
     }
   ],
   "code": 200,
