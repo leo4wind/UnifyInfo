@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-27T18:18:17.453Z"
+    "lastUpdate": "2026-05-27T21:45:20.591Z"
   },
   "data": [
     {
-      "id": 48297645,
-      "title": "SimCity 3k in 4k",
-      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 53,
-      "author": "speckx",
-      "created": "2026-05-27 17:36:29",
-      "created_at": 1779903389000
-    },
-    {
-      "id": 48296649,
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 246,
-      "author": "HelloUsername",
-      "created": "2026-05-27 16:28:41",
-      "created_at": 1779899321000
-    },
-    {
-      "id": 48295892,
-      "title": "Last.fm is now independent",
-      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 314,
-      "author": "twistslider",
-      "created": "2026-05-27 15:36:09",
-      "created_at": 1779896169000
+      "id": 48299753,
+      "title": "YouTube to automatically label AI-generated videos",
+      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 238,
+      "author": "nopg",
+      "created": "2026-05-27 20:00:51",
+      "created_at": 1779912051000
     },
     {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 103,
+      "score": 480,
       "author": "simonw",
       "created": "2026-05-27 16:39:13",
       "created_at": 1779899953000
     },
     {
-      "id": 48291947,
-      "title": "Mini Micro Fantasy Computer",
-      "link": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 198,
-      "author": "nicoloren",
-      "created": "2026-05-27 09:56:02",
-      "created_at": 1779875762000
+      "id": 48297645,
+      "title": "SimCity 3k in 4k (2025)",
+      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 204,
+      "author": "speckx",
+      "created": "2026-05-27 17:36:29",
+      "created_at": 1779903389000
     },
     {
-      "id": 48295679,
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 257,
-      "author": "IAmGraydon",
-      "created": "2026-05-27 15:20:47",
-      "created_at": 1779895247000
+      "id": 48299335,
+      "title": "On Labubu and the Hyperreal",
+      "link": "https://2earth.github.io/website/20260525.html",
+      "score": 38,
+      "author": "2earth",
+      "created": "2026-05-27 19:31:47",
+      "created_at": 1779910307000
     },
     {
-      "id": 48297467,
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "link": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 9,
-      "author": "ChrisArchitect",
-      "created": "2026-05-27 17:24:25",
-      "created_at": 1779902665000
+      "id": 48296649,
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 529,
+      "author": "HelloUsername",
+      "created": "2026-05-27 16:28:41",
+      "created_at": 1779899321000
     },
     {
-      "id": 48247005,
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
-      "link": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "score": 113,
+      "id": 48299623,
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "link": "https://sverre.me/blog/rust-on-kindle/",
+      "score": 39,
+      "author": "homarp",
+      "created": "2026-05-27 19:51:47",
+      "created_at": 1779911507000
+    },
+    {
+      "id": 48295892,
+      "title": "Last.fm is now independent",
+      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "score": 525,
+      "author": "twistslider",
+      "created": "2026-05-27 15:36:09",
+      "created_at": 1779896169000
+    },
+    {
+      "id": 48299220,
+      "title": "What Apple and Google are doing to push notifications",
+      "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 85,
+      "author": "iamacyborg",
+      "created": "2026-05-27 19:24:10",
+      "created_at": 1779909850000
+    },
+    {
+      "id": 48296994,
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "score": 258,
       "author": "tosh",
-      "created": "2026-05-23 12:11:47",
-      "created_at": 1779538307000
+      "created": "2026-05-27 16:53:25",
+      "created_at": 1779900805000
     },
     {
-      "id": 48270514,
-      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
-      "link": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-      "score": 15,
-      "author": "z3ugma",
-      "created": "2026-05-25 19:14:45",
-      "created_at": 1779736485000
+      "id": 48293080,
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 223,
+      "author": "maxnoe",
+      "created": "2026-05-27 12:15:14",
+      "created_at": 1779884114000
     }
   ],
   "code": 200,
