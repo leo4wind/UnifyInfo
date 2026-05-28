@@ -3,41 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-28T02:00:17.022Z"
+    "lastUpdate": "2026-05-28T07:46:24.853Z"
   },
   "data": [
-    {
-      "id": 48302745,
-      "title": "Can we have the day off?",
-      "link": "https://mlsu.io/posts/day-off/",
-      "score": 293,
-      "author": "mlsu",
-      "created": "2026-05-28 00:40:26",
-      "created_at": 1779928826000
-    },
     {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 544,
+      "score": 812,
       "author": "nopg",
       "created": "2026-05-27 20:00:51",
       "created_at": 1779912051000
     },
     {
+      "id": 48304260,
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "link": "https://hallucinate.site",
+      "score": 158,
+      "author": "stagas",
+      "created": "2026-05-28 03:50:01",
+      "created_at": 1779940201000
+    },
+    {
+      "id": 48302220,
+      "title": "I analysed 20 years of my chats",
+      "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 82,
+      "author": "valzevul",
+      "created": "2026-05-27 23:31:13",
+      "created_at": 1779924673000
+    },
+    {
+      "id": 48305446,
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 12,
+      "author": "kunalsin9h",
+      "created": "2026-05-28 06:40:31",
+      "created_at": 1779950431000
+    },
+    {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 656,
+      "score": 818,
       "author": "simonw",
       "created": "2026-05-27 16:39:13",
       "created_at": 1779899953000
     },
     {
+      "id": 48264223,
+      "title": "Our 2D game character grew 3% taller every time he walked",
+      "link": "https://hey.paris/posts/leo-sprite-alignment/",
+      "score": 16,
+      "author": "parisidau",
+      "created": "2026-05-25 07:07:04",
+      "created_at": 1779692824000
+    },
+    {
       "id": 48299220,
       "title": "What Apple and Google are doing to push notifications",
       "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 179,
+      "score": 261,
       "author": "iamacyborg",
       "created": "2026-05-27 19:24:10",
       "created_at": 1779909850000
@@ -46,55 +73,28 @@
       "id": 48297645,
       "title": "SimCity 3k in 4k (2025)",
       "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 287,
+      "score": 351,
       "author": "speckx",
       "created": "2026-05-27 17:36:29",
       "created_at": 1779903389000
     },
     {
-      "id": 48275255,
-      "title": "A New Typst Template for Pandoc",
-      "link": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-      "score": 35,
-      "author": "ankitg12",
-      "created": "2026-05-26 05:08:56",
-      "created_at": 1779772136000
-    },
-    {
-      "id": 48299623,
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "link": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 105,
-      "author": "homarp",
-      "created": "2026-05-27 19:51:47",
-      "created_at": 1779911507000
-    },
-    {
-      "id": 48267558,
-      "title": "The Ask",
-      "link": "https://randsinrepose.com/archives/the-ask/",
-      "score": 10,
-      "author": "digitallogic",
-      "created": "2026-05-25 14:51:20",
-      "created_at": 1779720680000
+      "id": 48262160,
+      "title": "The Green Side of the Lua",
+      "link": "https://arxiv.org/abs/2601.16670",
+      "score": 36,
+      "author": "radiator",
+      "created": "2026-05-24 23:44:58",
+      "created_at": 1779666298000
     },
     {
       "id": 48299638,
       "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
       "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "score": 72,
+      "score": 177,
       "author": "Panda_",
       "created": "2026-05-27 19:52:49",
       "created_at": 1779911569000
-    },
-    {
-      "id": 48302151,
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "score": 82,
-      "author": "cwwc",
-      "created": "2026-05-27 23:23:29",
-      "created_at": 1779924209000
     }
   ],
   "code": 200,
