@@ -3,41 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-28T11:28:31.093Z"
+    "lastUpdate": "2026-05-28T15:25:18.517Z"
   },
   "data": [
+    {
+      "id": 48307887,
+      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "link": "https://lenz.io/research/llm-disagreement",
+      "score": 355,
+      "author": "kostaj",
+      "created": "2026-05-28 12:20:19",
+      "created_at": 1779970819000
+    },
     {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 940,
+      "score": 1116,
       "author": "nopg",
       "created": "2026-05-27 20:00:51",
       "created_at": 1779912051000
     },
     {
-      "id": 48305446,
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 82,
-      "author": "kunalsin9h",
-      "created": "2026-05-28 06:40:31",
-      "created_at": 1779950431000
+      "id": 48282180,
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "score": 28,
+      "author": "zdw",
+      "created": "2026-05-26 16:41:58",
+      "created_at": 1779813718000
     },
     {
-      "id": 48302220,
-      "title": "I analysed 20 years of my chats",
-      "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "score": 155,
-      "author": "valzevul",
-      "created": "2026-05-27 23:31:13",
-      "created_at": 1779924673000
+      "id": 48309302,
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "link": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "score": 53,
+      "author": "jjp",
+      "created": "2026-05-28 14:18:18",
+      "created_at": 1779977898000
+    },
+    {
+      "id": 48309233,
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "score": 165,
+      "author": "brandonb",
+      "created": "2026-05-28 14:13:00",
+      "created_at": 1779977580000
+    },
+    {
+      "id": 48307231,
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 259,
+      "author": "teleforce",
+      "created": "2026-05-28 10:56:55",
+      "created_at": 1779965815000
     },
     {
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 898,
+      "score": 1006,
       "author": "simonw",
       "created": "2026-05-27 16:39:13",
       "created_at": 1779899953000
@@ -46,55 +73,28 @@
       "id": 48304260,
       "title": "Hallucinate – Massively Multiplayer Online Rave",
       "link": "https://hallucinate.site",
-      "score": 229,
+      "score": 319,
       "author": "stagas",
       "created": "2026-05-28 03:50:01",
       "created_at": 1779940201000
     },
     {
-      "id": 48307231,
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 28,
-      "author": "teleforce",
-      "created": "2026-05-28 10:56:55",
-      "created_at": 1779965815000
+      "id": 48270265,
+      "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
+      "link": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+      "score": 38,
+      "author": "theanonymousone",
+      "created": "2026-05-25 18:49:32",
+      "created_at": 1779734972000
     },
     {
       "id": 48297645,
       "title": "SimCity 3k in 4k (2025)",
       "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 383,
+      "score": 434,
       "author": "speckx",
       "created": "2026-05-27 17:36:29",
       "created_at": 1779903389000
-    },
-    {
-      "id": 48264705,
-      "title": "Rapira (Рапира) – Soviet programming language interpreter",
-      "link": "https://github.com/begoon/rapira",
-      "score": 30,
-      "author": "begoon",
-      "created": "2026-05-25 08:37:36",
-      "created_at": 1779698256000
-    },
-    {
-      "id": 48299220,
-      "title": "What Apple and Google are doing to push notifications",
-      "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 301,
-      "author": "iamacyborg",
-      "created": "2026-05-27 19:24:10",
-      "created_at": 1779909850000
-    },
-    {
-      "id": 48307098,
-      "title": "AI sticker shock hits corporate America",
-      "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "score": 15,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-05-28 10:39:32",
-      "created_at": 1779964772000
     }
   ],
   "code": 200,
