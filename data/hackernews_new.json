@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-28T15:25:18.807Z"
+    "lastUpdate": "2026-05-28T18:28:55.674Z"
   },
   "data": [
     {
-      "id": 48307887,
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "link": "https://lenz.io/research/llm-disagreement",
-      "score": 355,
-      "author": "kostaj",
-      "created": "2026-05-28 12:20:19",
-      "created_at": 1779970819000
+      "id": 48311647,
+      "title": "Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 586,
+      "author": "craigmart",
+      "created": "2026-05-28 16:49:14",
+      "created_at": 1779986954000
     },
     {
-      "id": 48299753,
-      "title": "YouTube to automatically label AI-generated videos",
-      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1116,
-      "author": "nopg",
-      "created": "2026-05-27 20:00:51",
-      "created_at": 1779912051000
+      "id": 48308376,
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "link": "https://llmgame.scalex.dev",
+      "score": 115,
+      "author": "Wirbelwind",
+      "created": "2026-05-28 13:02:00",
+      "created_at": 1779973320000
     },
     {
       "id": 48282180,
       "title": "Indoor Wi-Fi Roaming with OpenWRT",
       "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 28,
+      "score": 135,
       "author": "zdw",
       "created": "2026-05-26 16:41:58",
       "created_at": 1779813718000
     },
     {
+      "id": 48309986,
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "link": "https://github.com/Kaelio/ktx",
+      "score": 16,
+      "author": "lucamrtl",
+      "created": "2026-05-28 15:05:06",
+      "created_at": 1779980706000
+    },
+    {
+      "id": 48310280,
+      "title": "The Permanent Upper Crow",
+      "link": "https://permanent-upper-crow.jasonwu.ink/",
+      "score": 63,
+      "author": "whiteblossom",
+      "created": "2026-05-28 15:23:04",
+      "created_at": 1779981784000
+    },
+    {
+      "id": 48272948,
+      "title": "US's big bet on quantum computing may not be legal",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "score": 58,
+      "author": "Bender",
+      "created": "2026-05-25 23:11:14",
+      "created_at": 1779750674000
+    },
+    {
+      "id": 48299753,
+      "title": "YouTube to automatically label AI-generated videos",
+      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 1221,
+      "author": "nopg",
+      "created": "2026-05-27 20:00:51",
+      "created_at": 1779912051000
+    },
+    {
+      "id": 48311539,
+      "title": "Trivial Pursuits",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
+      "score": 11,
+      "author": "diodorus",
+      "created": "2026-05-28 16:43:24",
+      "created_at": 1779986604000
+    },
+    {
+      "id": 48276598,
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "score": 26,
+      "author": "rbanffy",
+      "created": "2026-05-26 08:02:52",
+      "created_at": 1779782572000
+    },
+    {
       "id": 48309302,
       "title": "EU fines Temu €200M for allowing sale of illegal products",
       "link": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "score": 53,
+      "score": 203,
       "author": "jjp",
       "created": "2026-05-28 14:18:18",
       "created_at": 1779977898000
-    },
-    {
-      "id": 48309233,
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "score": 165,
-      "author": "brandonb",
-      "created": "2026-05-28 14:13:00",
-      "created_at": 1779977580000
-    },
-    {
-      "id": 48307231,
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 259,
-      "author": "teleforce",
-      "created": "2026-05-28 10:56:55",
-      "created_at": 1779965815000
-    },
-    {
-      "id": 48296794,
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 1006,
-      "author": "simonw",
-      "created": "2026-05-27 16:39:13",
-      "created_at": 1779899953000
-    },
-    {
-      "id": 48304260,
-      "title": "Hallucinate – Massively Multiplayer Online Rave",
-      "link": "https://hallucinate.site",
-      "score": 319,
-      "author": "stagas",
-      "created": "2026-05-28 03:50:01",
-      "created_at": 1779940201000
-    },
-    {
-      "id": 48270265,
-      "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
-      "link": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
-      "score": 38,
-      "author": "theanonymousone",
-      "created": "2026-05-25 18:49:32",
-      "created_at": 1779734972000
-    },
-    {
-      "id": 48297645,
-      "title": "SimCity 3k in 4k (2025)",
-      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 434,
-      "author": "speckx",
-      "created": "2026-05-27 17:36:29",
-      "created_at": 1779903389000
     }
   ],
   "code": 200,
