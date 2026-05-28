@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-27T21:45:20.591Z"
+    "lastUpdate": "2026-05-28T02:00:17.022Z"
   },
   "data": [
+    {
+      "id": 48302745,
+      "title": "Can we have the day off?",
+      "link": "https://mlsu.io/posts/day-off/",
+      "score": 293,
+      "author": "mlsu",
+      "created": "2026-05-28 00:40:26",
+      "created_at": 1779928826000
+    },
     {
       "id": 48299753,
       "title": "YouTube to automatically label AI-generated videos",
       "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 238,
+      "score": 544,
       "author": "nopg",
       "created": "2026-05-27 20:00:51",
       "created_at": 1779912051000
@@ -19,82 +28,73 @@
       "id": 48296794,
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 480,
+      "score": 656,
       "author": "simonw",
       "created": "2026-05-27 16:39:13",
       "created_at": 1779899953000
     },
     {
-      "id": 48297645,
-      "title": "SimCity 3k in 4k (2025)",
-      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 204,
-      "author": "speckx",
-      "created": "2026-05-27 17:36:29",
-      "created_at": 1779903389000
-    },
-    {
-      "id": 48299335,
-      "title": "On Labubu and the Hyperreal",
-      "link": "https://2earth.github.io/website/20260525.html",
-      "score": 38,
-      "author": "2earth",
-      "created": "2026-05-27 19:31:47",
-      "created_at": 1779910307000
-    },
-    {
-      "id": 48296649,
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 529,
-      "author": "HelloUsername",
-      "created": "2026-05-27 16:28:41",
-      "created_at": 1779899321000
-    },
-    {
-      "id": 48299623,
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "link": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 39,
-      "author": "homarp",
-      "created": "2026-05-27 19:51:47",
-      "created_at": 1779911507000
-    },
-    {
-      "id": 48295892,
-      "title": "Last.fm is now independent",
-      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 525,
-      "author": "twistslider",
-      "created": "2026-05-27 15:36:09",
-      "created_at": 1779896169000
-    },
-    {
       "id": 48299220,
       "title": "What Apple and Google are doing to push notifications",
       "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 85,
+      "score": 179,
       "author": "iamacyborg",
       "created": "2026-05-27 19:24:10",
       "created_at": 1779909850000
     },
     {
-      "id": 48296994,
-      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-      "score": 258,
-      "author": "tosh",
-      "created": "2026-05-27 16:53:25",
-      "created_at": 1779900805000
+      "id": 48297645,
+      "title": "SimCity 3k in 4k (2025)",
+      "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 287,
+      "author": "speckx",
+      "created": "2026-05-27 17:36:29",
+      "created_at": 1779903389000
     },
     {
-      "id": 48293080,
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "link": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 223,
-      "author": "maxnoe",
-      "created": "2026-05-27 12:15:14",
-      "created_at": 1779884114000
+      "id": 48275255,
+      "title": "A New Typst Template for Pandoc",
+      "link": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+      "score": 35,
+      "author": "ankitg12",
+      "created": "2026-05-26 05:08:56",
+      "created_at": 1779772136000
+    },
+    {
+      "id": 48299623,
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "link": "https://sverre.me/blog/rust-on-kindle/",
+      "score": 105,
+      "author": "homarp",
+      "created": "2026-05-27 19:51:47",
+      "created_at": 1779911507000
+    },
+    {
+      "id": 48267558,
+      "title": "The Ask",
+      "link": "https://randsinrepose.com/archives/the-ask/",
+      "score": 10,
+      "author": "digitallogic",
+      "created": "2026-05-25 14:51:20",
+      "created_at": 1779720680000
+    },
+    {
+      "id": 48299638,
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "score": 72,
+      "author": "Panda_",
+      "created": "2026-05-27 19:52:49",
+      "created_at": 1779911569000
+    },
+    {
+      "id": 48302151,
+      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "score": 82,
+      "author": "cwwc",
+      "created": "2026-05-27 23:23:29",
+      "created_at": 1779924209000
     }
   ],
   "code": 200,

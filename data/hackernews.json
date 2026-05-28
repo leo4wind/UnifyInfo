@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-27T21:45:20.196Z"
+    "lastUpdate": "2026-05-28T02:00:16.757Z"
   },
   "data": [
     {
       "id": 48292224,
       "title": "I'm Tired of Talking to AI",
       "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1803,
+      "score": 1843,
       "author": "theorchid",
       "created": "2026-05-27 10:43:25",
       "created_at": 1779878605000
     },
     {
-      "id": 48272984,
-      "title": "Using AI to write better code more slowly",
-      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1217,
-      "author": "signa11",
-      "created": "2026-05-25 23:16:59",
-      "created_at": 1779751019000
-    },
-    {
       "id": 48279316,
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 1066,
+      "score": 1070,
       "author": "thm",
       "created": "2026-05-26 13:08:13",
       "created_at": 1779800893000
     },
     {
-      "id": 48278374,
-      "title": "GitHub Actions was down",
-      "link": "https://www.githubstatus.com/?today",
-      "score": 651,
-      "author": "cebert",
-      "created": "2026-05-26 11:42:58",
-      "created_at": 1779795778000
-    },
-    {
-      "id": 48285344,
-      "title": "The worst job interview I ever had",
-      "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 606,
-      "author": "oliverio",
-      "created": "2026-05-26 20:11:49",
-      "created_at": 1779826309000
-    },
-    {
-      "id": 48272670,
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 596,
-      "author": "bilsbie",
-      "created": "2026-05-25 22:30:27",
-      "created_at": 1779748227000
-    },
-    {
-      "id": 48278406,
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 590,
-      "author": "vrganj",
-      "created": "2026-05-26 11:46:08",
-      "created_at": 1779795968000
-    },
-    {
-      "id": 48285592,
-      "title": "Big tech's anti-labor playbook has come for Wikipedia",
-      "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-      "score": 550,
-      "author": "cdrnsf",
-      "created": "2026-05-26 20:33:24",
-      "created_at": 1779827604000
-    },
-    {
       "id": 48296649,
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 529,
+      "score": 675,
       "author": "HelloUsername",
       "created": "2026-05-27 16:28:41",
       "created_at": 1779899321000
     },
     {
+      "id": 48296794,
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 656,
+      "author": "simonw",
+      "created": "2026-05-27 16:39:13",
+      "created_at": 1779899953000
+    },
+    {
+      "id": 48278374,
+      "title": "GitHub Actions was down",
+      "link": "https://www.githubstatus.com/?today",
+      "score": 652,
+      "author": "cebert",
+      "created": "2026-05-26 11:42:58",
+      "created_at": 1779795778000
+    },
+    {
       "id": 48295892,
       "title": "Last.fm is now independent",
       "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 525,
+      "score": 631,
       "author": "twistslider",
       "created": "2026-05-27 15:36:09",
       "created_at": 1779896169000
+    },
+    {
+      "id": 48285344,
+      "title": "The worst job interview I ever had",
+      "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "score": 621,
+      "author": "oliverio",
+      "created": "2026-05-26 20:11:49",
+      "created_at": 1779826309000
+    },
+    {
+      "id": 48278406,
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "score": 592,
+      "author": "vrganj",
+      "created": "2026-05-26 11:46:08",
+      "created_at": 1779795968000
+    },
+    {
+      "id": 48295679,
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 574,
+      "author": "IAmGraydon",
+      "created": "2026-05-27 15:20:47",
+      "created_at": 1779895247000
+    },
+    {
+      "id": 48285592,
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 557,
+      "author": "cdrnsf",
+      "created": "2026-05-26 20:33:24",
+      "created_at": 1779827604000
     }
   ],
   "code": 200,
