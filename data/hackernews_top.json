@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-28T21:49:03.902Z"
+    "lastUpdate": "2026-05-29T02:06:27.739Z"
   },
   "data": [
     {
       "id": 48311647,
       "title": "Claude Opus 4.8",
       "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1015,
+      "score": 1240,
       "author": "craigmart",
       "created": "2026-05-28 16:49:14",
       "created_at": 1779986954000
@@ -19,82 +19,82 @@
       "id": 48314136,
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 311,
+      "score": 617,
       "author": "philips",
       "created": "2026-05-28 19:24:09",
       "created_at": 1779996249000
     },
     {
-      "id": 48313530,
-      "title": "Just Use Postgres for Durable Workflows",
-      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 189,
-      "author": "KraftyOne",
-      "created": "2026-05-28 18:41:46",
-      "created_at": 1779993706000
-    },
-    {
-      "id": 48313810,
-      "title": "Various LLM Smells",
-      "link": "https://shvbsle.in/various-llm-smells/",
-      "score": 79,
-      "author": "speckx",
-      "created": "2026-05-28 19:02:18",
-      "created_at": 1779994938000
-    },
-    {
-      "id": 48314002,
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 75,
-      "author": "speckx",
-      "created": "2026-05-28 19:15:54",
-      "created_at": 1779995754000
-    },
-    {
-      "id": 48312616,
-      "title": "Bitburner, programming-based incremental game",
-      "link": "https://bitburner-official.github.io/",
-      "score": 60,
-      "author": "agmater",
-      "created": "2026-05-28 17:43:36",
-      "created_at": 1779990216000
-    },
-    {
-      "id": 48312528,
-      "title": "I hated writing–until I learned there's a science to it(2024)",
-      "link": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 82,
-      "author": "o4c",
-      "created": "2026-05-28 17:36:47",
-      "created_at": 1779989807000
-    },
-    {
       "id": 48314951,
-      "title": "I Made a Million Dollar Product from My Dorm Room (2025)",
+      "title": "I made a million dollar product from my dorm room (2025)",
       "link": "https://nick.winans.io/blog/nice-nano/",
-      "score": 16,
+      "score": 190,
       "author": "mattrighetti",
       "created": "2026-05-28 20:25:21",
       "created_at": 1779999921000
     },
     {
-      "id": 48308376,
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "link": "https://llmgame.scalex.dev",
-      "score": 190,
-      "author": "Wirbelwind",
-      "created": "2026-05-28 13:02:00",
-      "created_at": 1779973320000
+      "id": 48317339,
+      "title": "Where are the economies of scale in homebuilding?",
+      "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "score": 22,
+      "author": "JumpCrisscross",
+      "created": "2026-05-29 00:16:20",
+      "created_at": 1780013780000
     },
     {
-      "id": 48276598,
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 103,
-      "author": "rbanffy",
-      "created": "2026-05-26 08:02:52",
-      "created_at": 1779782572000
+      "id": 48314002,
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "score": 156,
+      "author": "speckx",
+      "created": "2026-05-28 19:15:54",
+      "created_at": 1779995754000
+    },
+    {
+      "id": 48317043,
+      "title": "Garnix (A Nix CI) is shutting down",
+      "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "score": 33,
+      "author": "agnishom",
+      "created": "2026-05-28 23:36:41",
+      "created_at": 1780011401000
+    },
+    {
+      "id": 48261377,
+      "title": "Ten Basic Clouds",
+      "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "score": 37,
+      "author": "nopg",
+      "created": "2026-05-24 21:52:55",
+      "created_at": 1779659575000
+    },
+    {
+      "id": 48312528,
+      "title": "I hated writing until I learned there’s a science to it (2024)",
+      "link": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "score": 141,
+      "author": "o4c",
+      "created": "2026-05-28 17:36:47",
+      "created_at": 1779989807000
+    },
+    {
+      "id": 48317093,
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "score": 80,
+      "author": "drewda",
+      "created": "2026-05-28 23:42:47",
+      "created_at": 1780011767000
+    },
+    {
+      "id": 48313530,
+      "title": "Building durable workflows on Postgres",
+      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "score": 272,
+      "author": "KraftyOne",
+      "created": "2026-05-28 18:41:46",
+      "created_at": 1779993706000
     }
   ],
   "code": 200,
