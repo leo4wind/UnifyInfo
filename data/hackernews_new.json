@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-29T07:45:02.516Z"
+    "lastUpdate": "2026-05-29T11:18:46.871Z"
   },
   "data": [
     {
       "id": 48311647,
       "title": "Claude Opus 4.8",
       "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1452,
+      "score": 1563,
       "author": "craigmart",
       "created": "2026-05-28 16:49:14",
       "created_at": 1779986954000
@@ -19,82 +19,82 @@
       "id": 48314136,
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 868,
+      "score": 1002,
       "author": "philips",
       "created": "2026-05-28 19:24:09",
       "created_at": 1779996249000
     },
     {
-      "id": 48319509,
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "score": 25,
-      "author": "Kwastie",
-      "created": "2026-05-29 05:45:36",
-      "created_at": 1780033536000
+      "id": 48321076,
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 22,
+      "author": "NicoConstant",
+      "created": "2026-05-29 09:47:23",
+      "created_at": 1780048043000
+    },
+    {
+      "id": 48320985,
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "link": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "score": 11,
+      "author": "steveharing1",
+      "created": "2026-05-29 09:34:37",
+      "created_at": 1780047277000
+    },
+    {
+      "id": 48321264,
+      "title": "Is This Sustainable?",
+      "link": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "score": 5,
+      "author": "ColinEberhardt",
+      "created": "2026-05-29 10:14:43",
+      "created_at": 1780049683000
     },
     {
       "id": 48314951,
       "title": "I made a million dollar product from my dorm room (2025)",
       "link": "https://nick.winans.io/blog/nice-nano/",
-      "score": 353,
+      "score": 434,
       "author": "mattrighetti",
       "created": "2026-05-28 20:25:21",
       "created_at": 1779999921000
     },
     {
-      "id": 48319524,
-      "title": "Zot now supports Claude Opus 4.8",
-      "link": "https://www.zot.sh",
-      "score": 20,
-      "author": "patriceckhart",
-      "created": "2026-05-29 05:48:21",
-      "created_at": 1780033701000
-    },
-    {
-      "id": 48318481,
-      "title": "Cars collect a startling amount of data about you",
-      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 279,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-05-29 03:01:00",
-      "created_at": 1780023660000
-    },
-    {
-      "id": 48318313,
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 40,
-      "author": "vi_sextus_vi",
-      "created": "2026-05-29 02:33:13",
-      "created_at": 1780021993000
-    },
-    {
-      "id": 48261377,
-      "title": "Ten Basic Clouds",
-      "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 96,
-      "author": "nopg",
-      "created": "2026-05-24 21:52:55",
-      "created_at": 1779659575000
-    },
-    {
       "id": 48318174,
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
       "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 44,
+      "score": 127,
       "author": "ankitg12",
       "created": "2026-05-29 02:13:20",
       "created_at": 1780020800000
     },
     {
-      "id": 48314002,
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 228,
-      "author": "speckx",
-      "created": "2026-05-28 19:15:54",
-      "created_at": 1779995754000
+      "id": 48319509,
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "score": 200,
+      "author": "Kwastie",
+      "created": "2026-05-29 05:45:36",
+      "created_at": 1780033536000
+    },
+    {
+      "id": 48276152,
+      "title": "Orchestrating AI code review at scale",
+      "link": "https://blog.cloudflare.com/ai-code-review/",
+      "score": 21,
+      "author": "pramodbiligiri",
+      "created": "2026-05-26 07:06:28",
+      "created_at": 1779779188000
+    },
+    {
+      "id": 48318313,
+      "title": "Italians and Dutch share the same gestural instinct for teaching",
+      "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+      "score": 74,
+      "author": "vi_sextus_vi",
+      "created": "2026-05-29 02:33:13",
+      "created_at": 1780021993000
     }
   ],
   "code": 200,
