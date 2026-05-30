@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-30T09:50:07.099Z"
+    "lastUpdate": "2026-05-30T13:01:20.254Z"
   },
   "data": [
     {
-      "id": 48326802,
-      "title": "SQLite is all you need for durable workflows",
-      "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 537,
-      "author": "tomasol",
-      "created": "2026-05-29 17:54:50",
-      "created_at": 1780077290000
+      "id": 48334515,
+      "title": "Pandoc Templates",
+      "link": "https://pandoc-templates.org/",
+      "score": 131,
+      "author": "ankitg12",
+      "created": "2026-05-30 09:56:42",
+      "created_at": 1780135002000
     },
     {
       "id": 48334048,
       "title": "Zig: Build System Reworked",
       "link": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 12,
+      "score": 156,
       "author": "tosh",
       "created": "2026-05-30 08:38:28",
       "created_at": 1780130308000
     },
     {
-      "id": 48283009,
-      "title": "Algebraic Effects for the Rest of Us",
-      "link": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-      "score": 54,
-      "author": "satvikpendem",
-      "created": "2026-05-26 17:38:51",
-      "created_at": 1779817131000
+      "id": 48335135,
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "score": 89,
+      "author": "mhalle",
+      "created": "2026-05-30 11:41:29",
+      "created_at": 1780141289000
+    },
+    {
+      "id": 48334949,
+      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+      "link": "https://helios.southlondonscientific.com/",
+      "score": 20,
+      "author": "ruaraidh",
+      "created": "2026-05-30 11:08:37",
+      "created_at": 1780139317000
+    },
+    {
+      "id": 48334710,
+      "title": "Leo's first encyclical attacks technological messianism",
+      "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "score": 23,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-05-30 10:30:50",
+      "created_at": 1780137050000
+    },
+    {
+      "id": 48326802,
+      "title": "SQLite is all you need for durable workflows",
+      "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 585,
+      "author": "tomasol",
+      "created": "2026-05-29 17:54:50",
+      "created_at": 1780077290000
     },
     {
       "id": 48333820,
       "title": "Danish pension fund excludes SpaceX citing governance and valuation",
       "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "score": 81,
+      "score": 273,
       "author": "vrganj",
       "created": "2026-05-30 08:00:20",
       "created_at": 1780128020000
     },
     {
-      "id": 48284494,
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 197,
-      "author": "GaggiX",
-      "created": "2026-05-26 19:12:59",
-      "created_at": 1779822779000
+      "id": 48282025,
+      "title": "Understand Anything – Graphs that teach the codebase",
+      "link": "https://understand-anything.com/",
+      "score": 14,
+      "author": "ulrischa",
+      "created": "2026-05-26 16:31:43",
+      "created_at": 1779813103000
     },
     {
-      "id": 48291648,
-      "title": "Quantum dot qubit using High NA EUV lithography",
-      "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
-      "score": 12,
-      "author": "luu",
-      "created": "2026-05-27 09:15:22",
-      "created_at": 1779873322000
+      "id": 48281772,
+      "title": "What Happened to the Locusts?",
+      "link": "https://explosion-scratch.github.io/locusts/",
+      "score": 49,
+      "author": "explosion-s",
+      "created": "2026-05-26 16:15:17",
+      "created_at": 1779812117000
     },
     {
-      "id": 48325340,
-      "title": "Notes from the Mistral AI Now Summit",
-      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 374,
-      "author": "vnglst",
-      "created": "2026-05-29 16:22:01",
-      "created_at": 1780071721000
-    },
-    {
-      "id": 48333844,
-      "title": "Iron-rich immune cells help homing pigeons navigate",
-      "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
-      "score": 28,
-      "author": "XzetaU8",
-      "created": "2026-05-30 08:04:57",
-      "created_at": 1780128297000
-    },
-    {
-      "id": 48330436,
-      "title": "MCP is dead?",
-      "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 233,
-      "author": "nadis",
-      "created": "2026-05-29 22:56:49",
-      "created_at": 1780095409000
-    },
-    {
-      "id": 48283410,
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 153,
-      "author": "rented_mule",
-      "created": "2026-05-26 18:05:42",
-      "created_at": 1779818742000
+      "id": 48279499,
+      "title": "Floor and Ceil versus Denormals on CPU and GPU",
+      "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+      "score": 24,
+      "author": "ibobev",
+      "created": "2026-05-26 13:22:13",
+      "created_at": 1779801733000
     }
   ],
   "code": 200,
