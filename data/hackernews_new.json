@@ -3,68 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-30T06:39:31.074Z"
+    "lastUpdate": "2026-05-30T09:50:07.228Z"
   },
   "data": [
-    {
-      "id": 48332151,
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "link": "https://www.perryts.com/",
-      "score": 52,
-      "author": "0x1997",
-      "created": "2026-05-30 03:14:25",
-      "created_at": 1780110865000
-    },
     {
       "id": 48326802,
       "title": "SQLite is all you need for durable workflows",
       "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 468,
+      "score": 537,
       "author": "tomasol",
       "created": "2026-05-29 17:54:50",
       "created_at": 1780077290000
     },
     {
+      "id": 48334048,
+      "title": "Zig: Build System Reworked",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "score": 12,
+      "author": "tosh",
+      "created": "2026-05-30 08:38:28",
+      "created_at": 1780130308000
+    },
+    {
+      "id": 48283009,
+      "title": "Algebraic Effects for the Rest of Us",
+      "link": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "score": 54,
+      "author": "satvikpendem",
+      "created": "2026-05-26 17:38:51",
+      "created_at": 1779817131000
+    },
+    {
+      "id": 48333820,
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "score": 81,
+      "author": "vrganj",
+      "created": "2026-05-30 08:00:20",
+      "created_at": 1780128020000
+    },
+    {
       "id": 48284494,
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 152,
+      "score": 197,
       "author": "GaggiX",
       "created": "2026-05-26 19:12:59",
       "created_at": 1779822779000
     },
     {
-      "id": 48293119,
-      "title": "Math-to-Manim",
-      "link": "https://github.com/HarleyCoops/Math-To-Manim",
-      "score": 33,
-      "author": "georgewsinger",
-      "created": "2026-05-27 12:18:19",
-      "created_at": 1779884299000
+      "id": 48291648,
+      "title": "Quantum dot qubit using High NA EUV lithography",
+      "link": "https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography",
+      "score": 12,
+      "author": "luu",
+      "created": "2026-05-27 09:15:22",
+      "created_at": 1779873322000
     },
     {
       "id": 48325340,
       "title": "Notes from the Mistral AI Now Summit",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 335,
+      "score": 374,
       "author": "vnglst",
       "created": "2026-05-29 16:22:01",
       "created_at": 1780071721000
     },
     {
-      "id": 48331786,
-      "title": "Naphtha shortages in Japan",
-      "link": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 88,
-      "author": "takakaze",
-      "created": "2026-05-30 02:20:40",
-      "created_at": 1780107640000
+      "id": 48333844,
+      "title": "Iron-rich immune cells help homing pigeons navigate",
+      "link": "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+      "score": 28,
+      "author": "XzetaU8",
+      "created": "2026-05-30 08:04:57",
+      "created_at": 1780128297000
     },
     {
       "id": 48330436,
       "title": "MCP is dead?",
       "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 161,
+      "score": 233,
       "author": "nadis",
       "created": "2026-05-29 22:56:49",
       "created_at": 1780095409000
@@ -73,28 +91,10 @@
       "id": 48283410,
       "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 126,
+      "score": 153,
       "author": "rented_mule",
       "created": "2026-05-26 18:05:42",
       "created_at": 1779818742000
-    },
-    {
-      "id": 48303623,
-      "title": "What It Takes to Preserve Floppy Disks",
-      "link": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "score": 23,
-      "author": "pseudolus",
-      "created": "2026-05-28 02:23:31",
-      "created_at": 1779935011000
-    },
-    {
-      "id": 48327962,
-      "title": "Shift will clean homes for free to train future robots",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 115,
-      "author": "evilsimon",
-      "created": "2026-05-29 19:16:32",
-      "created_at": 1780082192000
     }
   ],
   "code": 200,
