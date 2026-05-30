@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-30T13:01:20.274Z"
+    "lastUpdate": "2026-05-30T16:51:18.155Z"
   },
   "data": [
+    {
+      "id": 48336564,
+      "title": "Voxel Space",
+      "link": "https://s-macke.github.io/VoxelSpace/",
+      "score": 93,
+      "author": "davikr",
+      "created": "2026-05-30 14:25:50",
+      "created_at": 1780151150000
+    },
+    {
+      "id": 48336233,
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "score": 324,
+      "author": "Bolat14",
+      "created": "2026-05-30 13:56:34",
+      "created_at": 1780149394000
+    },
+    {
+      "id": 48334854,
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "link": "https://github.com/kristapsdz/openrsync",
+      "score": 167,
+      "author": "sph",
+      "created": "2026-05-30 10:51:48",
+      "created_at": 1780138308000
+    },
     {
       "id": 48334515,
       "title": "Pandoc Templates",
       "link": "https://pandoc-templates.org/",
-      "score": 131,
+      "score": 264,
       "author": "ankitg12",
       "created": "2026-05-30 09:56:42",
       "created_at": 1780135002000
     },
     {
+      "id": 48337676,
+      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+      "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+      "score": 71,
+      "author": "mooreds",
+      "created": "2026-05-30 16:04:00",
+      "created_at": 1780157040000
+    },
+    {
+      "id": 48286745,
+      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+      "link": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+      "score": 73,
+      "author": "myzek",
+      "created": "2026-05-26 22:15:28",
+      "created_at": 1779833728000
+    },
+    {
       "id": 48334048,
       "title": "Zig: Build System Reworked",
       "link": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 156,
+      "score": 247,
       "author": "tosh",
       "created": "2026-05-30 08:38:28",
       "created_at": 1780130308000
     },
     {
-      "id": 48335135,
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "score": 89,
-      "author": "mhalle",
-      "created": "2026-05-30 11:41:29",
-      "created_at": 1780141289000
+      "id": 48282335,
+      "title": "It Takes Two Neurons to Ride a Bicycle",
+      "link": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
+      "score": 21,
+      "author": "malshe",
+      "created": "2026-05-26 16:51:55",
+      "created_at": 1779814315000
     },
     {
       "id": 48334949,
       "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
       "link": "https://helios.southlondonscientific.com/",
-      "score": 20,
+      "score": 77,
       "author": "ruaraidh",
       "created": "2026-05-30 11:08:37",
       "created_at": 1780139317000
     },
     {
-      "id": 48334710,
-      "title": "Leo's first encyclical attacks technological messianism",
-      "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "score": 23,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-05-30 10:30:50",
-      "created_at": 1780137050000
-    },
-    {
-      "id": 48326802,
-      "title": "SQLite is all you need for durable workflows",
-      "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 585,
-      "author": "tomasol",
-      "created": "2026-05-29 17:54:50",
-      "created_at": 1780077290000
-    },
-    {
-      "id": 48333820,
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "score": 273,
-      "author": "vrganj",
-      "created": "2026-05-30 08:00:20",
-      "created_at": 1780128020000
-    },
-    {
-      "id": 48282025,
-      "title": "Understand Anything – Graphs that teach the codebase",
-      "link": "https://understand-anything.com/",
-      "score": 14,
-      "author": "ulrischa",
-      "created": "2026-05-26 16:31:43",
-      "created_at": 1779813103000
-    },
-    {
-      "id": 48281772,
-      "title": "What Happened to the Locusts?",
-      "link": "https://explosion-scratch.github.io/locusts/",
-      "score": 49,
-      "author": "explosion-s",
-      "created": "2026-05-26 16:15:17",
-      "created_at": 1779812117000
-    },
-    {
-      "id": 48279499,
-      "title": "Floor and Ceil versus Denormals on CPU and GPU",
-      "link": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-      "score": 24,
-      "author": "ibobev",
-      "created": "2026-05-26 13:22:13",
-      "created_at": 1779801733000
+      "id": 48298912,
+      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "link": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+      "score": 83,
+      "author": "amichail",
+      "created": "2026-05-27 19:03:17",
+      "created_at": 1779908597000
     }
   ],
   "code": 200,
