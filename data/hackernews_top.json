@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-30T16:51:18.040Z"
+    "lastUpdate": "2026-05-30T20:43:23.432Z"
   },
   "data": [
     {
-      "id": 48336564,
-      "title": "Voxel Space",
-      "link": "https://s-macke.github.io/VoxelSpace/",
+      "id": 48338660,
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "score": 228,
+      "author": "freeCandy",
+      "created": "2026-05-30 17:27:28",
+      "created_at": 1780162048000
+    },
+    {
+      "id": 48338673,
+      "title": "Zig ELF Linker Improvements Devlog",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "score": 118,
+      "author": "kristoff_it",
+      "created": "2026-05-30 17:29:22",
+      "created_at": 1780162162000
+    },
+    {
+      "id": 48318402,
+      "title": "I found a seashell in the middle of the desert",
+      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 44,
+      "author": "Hawzen",
+      "created": "2026-05-29 02:49:43",
+      "created_at": 1780022983000
+    },
+    {
+      "id": 48339753,
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "link": "https://ajin.im/is/building/omen.ops/",
+      "score": 34,
+      "author": "poppypetalmask",
+      "created": "2026-05-30 19:23:36",
+      "created_at": 1780169016000
+    },
+    {
+      "id": 48339180,
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "link": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
       "score": 93,
+      "author": "mooreds",
+      "created": "2026-05-30 18:19:23",
+      "created_at": 1780165163000
+    },
+    {
+      "id": 48336564,
+      "title": "Voxel Space (2017)",
+      "link": "https://s-macke.github.io/VoxelSpace/",
+      "score": 213,
       "author": "davikr",
       "created": "2026-05-30 14:25:50",
       "created_at": 1780151150000
     },
     {
-      "id": 48336233,
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "score": 324,
-      "author": "Bolat14",
-      "created": "2026-05-30 13:56:34",
-      "created_at": 1780149394000
+      "id": 48339894,
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "link": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "score": 14,
+      "author": "tylerdane",
+      "created": "2026-05-30 19:42:33",
+      "created_at": 1780170153000
+    },
+    {
+      "id": 48338656,
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "link": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "score": 54,
+      "author": "pwg",
+      "created": "2026-05-30 17:27:13",
+      "created_at": 1780162033000
     },
     {
       "id": 48334854,
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "link": "https://github.com/kristapsdz/openrsync",
-      "score": 167,
+      "score": 262,
       "author": "sph",
       "created": "2026-05-30 10:51:48",
       "created_at": 1780138308000
     },
     {
-      "id": 48334515,
-      "title": "Pandoc Templates",
-      "link": "https://pandoc-templates.org/",
-      "score": 264,
-      "author": "ankitg12",
-      "created": "2026-05-30 09:56:42",
-      "created_at": 1780135002000
-    },
-    {
-      "id": 48337676,
-      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-      "link": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-      "score": 71,
-      "author": "mooreds",
-      "created": "2026-05-30 16:04:00",
-      "created_at": 1780157040000
-    },
-    {
-      "id": 48286745,
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "link": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 73,
-      "author": "myzek",
-      "created": "2026-05-26 22:15:28",
-      "created_at": 1779833728000
-    },
-    {
-      "id": 48334048,
-      "title": "Zig: Build System Reworked",
-      "link": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 247,
-      "author": "tosh",
-      "created": "2026-05-30 08:38:28",
-      "created_at": 1780130308000
-    },
-    {
-      "id": 48282335,
-      "title": "It Takes Two Neurons to Ride a Bicycle",
-      "link": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-      "score": 21,
-      "author": "malshe",
-      "created": "2026-05-26 16:51:55",
-      "created_at": 1779814315000
-    },
-    {
-      "id": 48334949,
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "link": "https://helios.southlondonscientific.com/",
-      "score": 77,
-      "author": "ruaraidh",
-      "created": "2026-05-30 11:08:37",
-      "created_at": 1780139317000
-    },
-    {
-      "id": 48298912,
-      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-      "link": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-      "score": 83,
-      "author": "amichail",
-      "created": "2026-05-27 19:03:17",
-      "created_at": 1779908597000
+      "id": 48339943,
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "link": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "score": 9,
+      "author": "jerrythegerbil",
+      "created": "2026-05-30 19:47:36",
+      "created_at": 1780170456000
     }
   ],
   "code": 200,
