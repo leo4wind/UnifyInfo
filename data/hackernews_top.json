@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-29T21:43:24.390Z"
+    "lastUpdate": "2026-05-30T02:01:43.847Z"
   },
   "data": [
     {
       "id": 48326802,
       "title": "SQLite is all you need for durable workflows",
       "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 228,
+      "score": 358,
       "author": "tomasol",
       "created": "2026-05-29 17:54:50",
       "created_at": 1780077290000
@@ -19,82 +19,82 @@
       "id": 48324712,
       "title": "The dead economy theory",
       "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 465,
+      "score": 707,
       "author": "WillDaSilva",
       "created": "2026-05-29 15:46:24",
       "created_at": 1780069584000
     },
     {
+      "id": 48284494,
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 55,
+      "author": "GaggiX",
+      "created": "2026-05-26 19:12:59",
+      "created_at": 1779822779000
+    },
+    {
+      "id": 48330436,
+      "title": "MCP is dead?",
+      "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "score": 85,
+      "author": "nadis",
+      "created": "2026-05-29 22:56:49",
+      "created_at": 1780095409000
+    },
+    {
       "id": 48325340,
-      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "title": "Notes from the Mistral AI Now Summit",
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 270,
+      "score": 311,
       "author": "vnglst",
       "created": "2026-05-29 16:22:01",
       "created_at": 1780071721000
     },
     {
-      "id": 48328365,
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "link": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 115,
-      "author": "TechTechTech",
-      "created": "2026-05-29 19:55:56",
-      "created_at": 1780084556000
-    },
-    {
-      "id": 48327809,
-      "title": "On Rendering Diffs",
-      "link": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 90,
-      "author": "amadeus",
-      "created": "2026-05-29 19:04:54",
-      "created_at": 1780081494000
+      "id": 48283410,
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 79,
+      "author": "rented_mule",
+      "created": "2026-05-26 18:05:42",
+      "created_at": 1779818742000
     },
     {
       "id": 48327962,
       "title": "Shift will clean homes for free to train future robots",
       "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 32,
+      "score": 85,
       "author": "evilsimon",
       "created": "2026-05-29 19:16:32",
       "created_at": 1780082192000
     },
     {
-      "id": 48328184,
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "link": "https://github.com/jmaczan/tiny-vllm",
-      "score": 36,
-      "author": "yu3zhou4",
-      "created": "2026-05-29 19:38:27",
-      "created_at": 1780083507000
-    },
-    {
-      "id": 48323992,
-      "title": "Bijou64: A variable-length integer encoding",
-      "link": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 187,
-      "author": "justinweiss",
-      "created": "2026-05-29 15:03:32",
-      "created_at": 1780067012000
-    },
-    {
       "id": 48323869,
       "title": "It's hard to justify buying a Framework 12",
       "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 162,
+      "score": 226,
       "author": "watermelon0",
       "created": "2026-05-29 14:55:31",
       "created_at": 1780066531000
     },
     {
-      "id": 48325306,
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 106,
-      "author": "simjnd",
-      "created": "2026-05-29 16:19:54",
-      "created_at": 1780071594000
+      "id": 48324853,
+      "title": "You can just say it",
+      "link": "https://noperator.dev/posts/you-can-just-say-it/",
+      "score": 219,
+      "author": "antirez",
+      "created": "2026-05-29 15:54:28",
+      "created_at": 1780070068000
+    },
+    {
+      "id": 48328184,
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "link": "https://github.com/jmaczan/tiny-vllm",
+      "score": 84,
+      "author": "yu3zhou4",
+      "created": "2026-05-29 19:38:27",
+      "created_at": 1780083507000
     }
   ],
   "code": 200,
