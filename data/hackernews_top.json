@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-31T02:29:10.880Z"
+    "lastUpdate": "2026-05-31T07:37:39.117Z"
   },
   "data": [
     {
-      "id": 48341578,
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 387,
-      "author": "antipurist",
-      "created": "2026-05-30 23:26:13",
-      "created_at": 1780183573000
+      "id": 48343683,
+      "title": "The Website Specification",
+      "link": "https://specification.website/",
+      "score": 31,
+      "author": "k1m",
+      "created": "2026-05-31 07:09:50",
+      "created_at": 1780211390000
     },
     {
       "id": 48340411,
       "title": "Domain expertise has always been the real moat",
       "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 302,
+      "score": 510,
       "author": "aaronbrethorst",
       "created": "2026-05-30 20:40:57",
       "created_at": 1780173657000
     },
     {
-      "id": 48318402,
-      "title": "I found a seashell in the middle of the desert",
-      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 225,
-      "author": "Hawzen",
-      "created": "2026-05-29 02:49:43",
-      "created_at": 1780022983000
+      "id": 48318624,
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 62,
+      "author": "jayhoon",
+      "created": "2026-05-29 03:22:19",
+      "created_at": 1780024939000
+    },
+    {
+      "id": 48343078,
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "link": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "score": 27,
+      "author": "TMWNN",
+      "created": "2026-05-31 04:42:14",
+      "created_at": 1780202534000
     },
     {
       "id": 48341062,
-      "title": "Shantell Sans",
+      "title": "Shantell Sans (2023)",
       "link": "https://shantellsans.com/process",
-      "score": 82,
+      "score": 207,
       "author": "aleda145",
       "created": "2026-05-30 22:06:38",
       "created_at": 1780178798000
     },
     {
-      "id": 48337987,
-      "title": "Accenture to acquire Ookla",
-      "link": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 243,
-      "author": "Garbage",
-      "created": "2026-05-30 16:28:58",
-      "created_at": 1780158538000
+      "id": 48343287,
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "link": "https://arxiv.org/abs/1709.08492",
+      "score": 12,
+      "author": "ricudis",
+      "created": "2026-05-31 05:30:18",
+      "created_at": 1780205418000
     },
     {
-      "id": 48340422,
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "link": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 67,
-      "author": "aidangarske",
-      "created": "2026-05-30 20:42:28",
-      "created_at": 1780173748000
+      "id": 48343424,
+      "title": "Avian Visitors",
+      "link": "https://theodore.net/projects/AvianVisitors/",
+      "score": 16,
+      "author": "fdb",
+      "created": "2026-05-31 06:13:59",
+      "created_at": 1780208039000
     },
     {
-      "id": 48339894,
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "link": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "score": 74,
-      "author": "tylerdane",
-      "created": "2026-05-30 19:42:33",
-      "created_at": 1780170153000
+      "id": 48313952,
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "link": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "score": 25,
+      "author": "croes",
+      "created": "2026-05-28 19:11:59",
+      "created_at": 1779995519000
     },
     {
-      "id": 48341407,
-      "title": "Cheese Paper: a text editor specifically designed for writing",
-      "link": "https://brie.gay/cheese-paper/",
-      "score": 52,
-      "author": "sohkamyung",
-      "created": "2026-05-30 22:58:41",
-      "created_at": 1780181921000
-    },
-    {
-      "id": 48338673,
-      "title": "Zig ELF Linker Improvements Devlog",
-      "link": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 173,
-      "author": "kristoff_it",
-      "created": "2026-05-30 17:29:22",
-      "created_at": 1780162162000
-    },
-    {
-      "id": 48336564,
-      "title": "Voxel Space (2017)",
-      "link": "https://s-macke.github.io/VoxelSpace/",
-      "score": 252,
-      "author": "davikr",
-      "created": "2026-05-30 14:25:50",
-      "created_at": 1780151150000
+      "id": 48318402,
+      "title": "I found a seashell in the middle of the desert",
+      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 300,
+      "author": "Hawzen",
+      "created": "2026-05-29 02:49:43",
+      "created_at": 1780022983000
     }
   ],
   "code": 200,
