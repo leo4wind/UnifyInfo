@@ -3,14 +3,32 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-05-31T10:06:38.174Z"
+    "lastUpdate": "2026-05-31T13:12:38.597Z"
   },
   "data": [
+    {
+      "id": 48344961,
+      "title": "Dav2d",
+      "link": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 116,
+      "author": "captain_bender",
+      "created": "2026-05-31 11:44:45",
+      "created_at": 1780227885000
+    },
+    {
+      "id": 48345090,
+      "title": "Backpressure is all you need",
+      "link": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "score": 18,
+      "author": "lucasfcosta",
+      "created": "2026-05-31 12:11:27",
+      "created_at": 1780229487000
+    },
     {
       "id": 48343683,
       "title": "The Website Specification",
       "link": "https://specification.website/",
-      "score": 150,
+      "score": 253,
       "author": "k1m",
       "created": "2026-05-31 07:09:50",
       "created_at": 1780211390000
@@ -19,7 +37,7 @@
       "id": 48343714,
       "title": "London's Free Roof Terraces",
       "link": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 47,
+      "score": 134,
       "author": "zeristor",
       "created": "2026-05-31 07:16:18",
       "created_at": 1780211778000
@@ -28,73 +46,55 @@
       "id": 48340411,
       "title": "Domain expertise has always been the real moat",
       "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 586,
+      "score": 689,
       "author": "aaronbrethorst",
       "created": "2026-05-30 20:40:57",
       "created_at": 1780173657000
     },
     {
-      "id": 48343424,
-      "title": "Avian Visitors",
-      "link": "https://theodore.net/projects/AvianVisitors/",
-      "score": 40,
-      "author": "fdb",
-      "created": "2026-05-31 06:13:59",
-      "created_at": 1780208039000
-    },
-    {
-      "id": 48340315,
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "link": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 27,
-      "author": "marekkowalczyk",
-      "created": "2026-05-30 20:30:53",
-      "created_at": 1780173053000
+      "id": 48321089,
+      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
+      "link": "https://secret-archive.org/",
+      "score": 33,
+      "author": "ColinWright",
+      "created": "2026-05-29 09:49:13",
+      "created_at": 1780048153000
     },
     {
       "id": 48341062,
       "title": "Shantell Sans (2023)",
       "link": "https://shantellsans.com/process",
-      "score": 253,
+      "score": 296,
       "author": "aleda145",
       "created": "2026-05-30 22:06:38",
       "created_at": 1780178798000
     },
     {
-      "id": 48344016,
-      "title": "The dangerous delusion of modern warfare",
-      "link": "https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare",
-      "score": 15,
-      "author": "runeks",
-      "created": "2026-05-31 08:35:19",
-      "created_at": 1780216519000
-    },
-    {
-      "id": 48318624,
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "link": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 84,
-      "author": "jayhoon",
-      "created": "2026-05-29 03:22:19",
-      "created_at": 1780024939000
-    },
-    {
-      "id": 48318402,
-      "title": "I found a seashell in the middle of the desert",
-      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 328,
-      "author": "Hawzen",
-      "created": "2026-05-29 02:49:43",
-      "created_at": 1780022983000
+      "id": 48323303,
+      "title": "One year of Roto, a compiled scripting language for Rust",
+      "link": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+      "score": 59,
+      "author": "Hasnep",
+      "created": "2026-05-29 14:07:59",
+      "created_at": 1780063679000
     },
     {
       "id": 48343287,
       "title": "A pictorial introduction to differential geometry (2017)",
       "link": "https://arxiv.org/abs/1709.08492",
-      "score": 43,
+      "score": 73,
       "author": "ricudis",
       "created": "2026-05-31 05:30:18",
       "created_at": 1780205418000
+    },
+    {
+      "id": 48343424,
+      "title": "Avian Visitors",
+      "link": "https://theodore.net/projects/AvianVisitors/",
+      "score": 68,
+      "author": "fdb",
+      "created": "2026-05-31 06:13:59",
+      "created_at": 1780208039000
     }
   ],
   "code": 200,
