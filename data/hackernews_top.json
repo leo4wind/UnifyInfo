@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-05-31T13:12:38.506Z"
+    "lastUpdate": "2026-05-31T16:55:27.508Z"
   },
   "data": [
+    {
+      "id": 48345896,
+      "title": "The solution might be cancelling my AI subscription",
+      "link": "https://thoughts.hmmz.org/2026-05-31.html",
+      "score": 214,
+      "author": "dmw_ng",
+      "created": "2026-05-31 14:23:30",
+      "created_at": 1780237410000
+    },
+    {
+      "id": 48345840,
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "link": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 186,
+      "author": "HypnoticOcelot",
+      "created": "2026-05-31 14:13:20",
+      "created_at": 1780236800000
+    },
     {
       "id": 48344961,
       "title": "Dav2d",
       "link": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 116,
+      "score": 287,
       "author": "captain_bender",
       "created": "2026-05-31 11:44:45",
       "created_at": 1780227885000
     },
     {
-      "id": 48345090,
-      "title": "Backpressure is all you need",
-      "link": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "score": 18,
-      "author": "lucasfcosta",
-      "created": "2026-05-31 12:11:27",
-      "created_at": 1780229487000
+      "id": 48346257,
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "link": "https://prismml.com/news/bonsai-image-4b",
+      "score": 72,
+      "author": "modinfo",
+      "created": "2026-05-31 15:04:52",
+      "created_at": 1780239892000
+    },
+    {
+      "id": 48346019,
+      "title": "Restartable Sequences",
+      "link": "https://justine.lol/rseq/",
+      "score": 53,
+      "author": "grappler",
+      "created": "2026-05-31 14:38:48",
+      "created_at": 1780238328000
+    },
+    {
+      "id": 48347153,
+      "title": "The Speed of Prototyping in the Age of AI",
+      "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "score": 7,
+      "author": "mooreds",
+      "created": "2026-05-31 16:37:34",
+      "created_at": 1780245454000
+    },
+    {
+      "id": 48346660,
+      "title": "Chibil: A C compiler targeting .NET IL",
+      "link": "https://github.com/MichalStrehovsky/chibil",
+      "score": 17,
+      "author": "algorithmsRcool",
+      "created": "2026-05-31 15:46:32",
+      "created_at": 1780242392000
+    },
+    {
+      "id": 48346697,
+      "title": "An Analysis of GrapheneOS's Server Infrastructure",
+      "link": "https://write.as/hcbg2iz91vzqh",
+      "score": 16,
+      "author": "cautious-fly",
+      "created": "2026-05-31 15:51:06",
+      "created_at": 1780242666000
+    },
+    {
+      "id": 48346693,
+      "title": "Odysseus – self-hosted AI workspace",
+      "link": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "score": 23,
+      "author": "Dzheky",
+      "created": "2026-05-31 15:50:34",
+      "created_at": 1780242634000
     },
     {
       "id": 48343683,
       "title": "The Website Specification",
       "link": "https://specification.website/",
-      "score": 253,
+      "score": 351,
       "author": "k1m",
       "created": "2026-05-31 07:09:50",
       "created_at": 1780211390000
-    },
-    {
-      "id": 48343714,
-      "title": "London's Free Roof Terraces",
-      "link": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 134,
-      "author": "zeristor",
-      "created": "2026-05-31 07:16:18",
-      "created_at": 1780211778000
-    },
-    {
-      "id": 48340411,
-      "title": "Domain expertise has always been the real moat",
-      "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 689,
-      "author": "aaronbrethorst",
-      "created": "2026-05-30 20:40:57",
-      "created_at": 1780173657000
-    },
-    {
-      "id": 48321089,
-      "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
-      "link": "https://secret-archive.org/",
-      "score": 33,
-      "author": "ColinWright",
-      "created": "2026-05-29 09:49:13",
-      "created_at": 1780048153000
-    },
-    {
-      "id": 48341062,
-      "title": "Shantell Sans (2023)",
-      "link": "https://shantellsans.com/process",
-      "score": 296,
-      "author": "aleda145",
-      "created": "2026-05-30 22:06:38",
-      "created_at": 1780178798000
-    },
-    {
-      "id": 48323303,
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "link": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 59,
-      "author": "Hasnep",
-      "created": "2026-05-29 14:07:59",
-      "created_at": 1780063679000
-    },
-    {
-      "id": 48343287,
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "link": "https://arxiv.org/abs/1709.08492",
-      "score": 73,
-      "author": "ricudis",
-      "created": "2026-05-31 05:30:18",
-      "created_at": 1780205418000
-    },
-    {
-      "id": 48343424,
-      "title": "Avian Visitors",
-      "link": "https://theodore.net/projects/AvianVisitors/",
-      "score": 68,
-      "author": "fdb",
-      "created": "2026-05-31 06:13:59",
-      "created_at": 1780208039000
     }
   ],
   "code": 200,

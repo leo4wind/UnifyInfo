@@ -3,59 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-05-31T13:12:38.351Z"
+    "lastUpdate": "2026-05-31T16:55:27.413Z"
   },
   "data": [
-    {
-      "id": 48324712,
-      "title": "The dead economy theory",
-      "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 1290,
-      "author": "WillDaSilva",
-      "created": "2026-05-29 15:46:24",
-      "created_at": 1780069584000
-    },
     {
       "id": 48341578,
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 915,
+      "score": 954,
       "author": "antipurist",
       "created": "2026-05-30 23:26:13",
       "created_at": 1780183573000
     },
     {
-      "id": 48323683,
-      "title": "I am retiring from tech to live offline",
-      "link": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 835,
-      "author": "PinkG",
-      "created": "2026-05-29 14:40:47",
-      "created_at": 1780065647000
-    },
-    {
-      "id": 48323101,
-      "title": "Please Use AI",
-      "link": "https://shawnsmucker.substack.com/p/please-use-ai",
-      "score": 774,
-      "author": "garycomtois",
-      "created": "2026-05-29 13:50:25",
-      "created_at": 1780062625000
-    },
-    {
-      "id": 48324499,
-      "title": "GTA 6 Developers Unionize",
-      "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 742,
-      "author": "AndrewKemendo",
-      "created": "2026-05-29 15:32:55",
-      "created_at": 1780068775000
-    },
-    {
       "id": 48340411,
       "title": "Domain expertise has always been the real moat",
       "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 689,
+      "score": 763,
       "author": "aaronbrethorst",
       "created": "2026-05-30 20:40:57",
       "created_at": 1780173657000
@@ -64,7 +28,7 @@
       "id": 48326802,
       "title": "SQLite is all you need for durable workflows",
       "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 685,
+      "score": 690,
       "author": "tomasol",
       "created": "2026-05-29 17:54:50",
       "created_at": 1780077290000
@@ -73,10 +37,19 @@
       "id": 48330882,
       "title": "What Is a Dickover?",
       "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "score": 528,
+      "score": 533,
       "author": "tambourine_man",
       "created": "2026-05-29 23:54:22",
       "created_at": 1780098862000
+    },
+    {
+      "id": 48325340,
+      "title": "Notes from the Mistral AI Now Summit",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 462,
+      "author": "vnglst",
+      "created": "2026-05-29 16:22:01",
+      "created_at": 1780071721000
     },
     {
       "id": 48333820,
@@ -88,13 +61,40 @@
       "created_at": 1780128020000
     },
     {
-      "id": 48325340,
-      "title": "Notes from the Mistral AI Now Summit",
-      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 460,
-      "author": "vnglst",
-      "created": "2026-05-29 16:22:01",
-      "created_at": 1780071721000
+      "id": 48334854,
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "link": "https://github.com/kristapsdz/openrsync",
+      "score": 449,
+      "author": "sph",
+      "created": "2026-05-30 10:51:48",
+      "created_at": 1780138308000
+    },
+    {
+      "id": 48338660,
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "score": 446,
+      "author": "freeCandy",
+      "created": "2026-05-30 17:27:28",
+      "created_at": 1780162048000
+    },
+    {
+      "id": 48334515,
+      "title": "Pandoc Templates",
+      "link": "https://pandoc-templates.org/",
+      "score": 426,
+      "author": "ankitg12",
+      "created": "2026-05-30 09:56:42",
+      "created_at": 1780135002000
+    },
+    {
+      "id": 48336233,
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "score": 409,
+      "author": "Bolat14",
+      "created": "2026-05-30 13:56:34",
+      "created_at": 1780149394000
     }
   ],
   "code": 200,
