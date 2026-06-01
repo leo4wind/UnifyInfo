@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-01T02:38:19.913Z"
+    "lastUpdate": "2026-06-01T09:09:46.001Z"
   },
   "data": [
     {
       "id": 48341578,
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 983,
+      "score": 990,
       "author": "antipurist",
       "created": "2026-05-30 23:26:13",
       "created_at": 1780183573000
@@ -19,7 +19,7 @@
       "id": 48340411,
       "title": "Domain expertise has always been the real moat",
       "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 817,
+      "score": 832,
       "author": "aaronbrethorst",
       "created": "2026-05-30 20:40:57",
       "created_at": 1780173657000
@@ -28,75 +28,75 @@
       "id": 48345840,
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "link": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 530,
+      "score": 661,
       "author": "HypnoticOcelot",
       "created": "2026-05-31 14:13:20",
       "created_at": 1780236800000
     },
     {
+      "id": 48348578,
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "link": "https://twitter.com/i/status/2060746160558543217",
+      "score": 540,
+      "author": "thunderbong",
+      "created": "2026-05-31 18:57:48",
+      "created_at": 1780253868000
+    },
+    {
       "id": 48346947,
       "title": "Creatine raises brain energy levels and slows cognitive decline: study",
       "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 495,
+      "score": 514,
       "author": "MrJagil",
       "created": "2026-05-31 16:19:34",
       "created_at": 1780244374000
     },
     {
-      "id": 48334854,
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "link": "https://github.com/kristapsdz/openrsync",
-      "score": 468,
-      "author": "sph",
-      "created": "2026-05-30 10:51:48",
-      "created_at": 1780138308000
-    },
-    {
-      "id": 48333820,
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "link": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-      "score": 464,
-      "author": "vrganj",
-      "created": "2026-05-30 08:00:20",
-      "created_at": 1780128020000
-    },
-    {
-      "id": 48342705,
-      "title": "Please Do Not Vibe Fuck Up This Software",
-      "link": "https://github.com/RsyncProject/rsync/issues/929",
-      "score": 463,
-      "author": "justdotJS",
-      "created": "2026-05-31 03:16:48",
-      "created_at": 1780197408000
-    },
-    {
-      "id": 48338660,
-      "title": "OpenRouter raises $113M Series B",
-      "link": "https://openrouter.ai/announcements/series-b",
-      "score": 449,
-      "author": "freeCandy",
-      "created": "2026-05-30 17:27:28",
-      "created_at": 1780162048000
-    },
-    {
       "id": 48343683,
       "title": "The Website Specification",
       "link": "https://specification.website/",
-      "score": 442,
+      "score": 497,
       "author": "k1m",
       "created": "2026-05-31 07:09:50",
       "created_at": 1780211390000
     },
     {
-      "id": 48334515,
-      "title": "Pandoc Templates",
-      "link": "https://pandoc-templates.org/",
-      "score": 436,
-      "author": "ankitg12",
-      "created": "2026-05-30 09:56:42",
-      "created_at": 1780135002000
+      "id": 48342705,
+      "title": "Please Do Not Vibe Fuck Up This Software",
+      "link": "https://github.com/RsyncProject/rsync/issues/929",
+      "score": 489,
+      "author": "justdotJS",
+      "created": "2026-05-31 03:16:48",
+      "created_at": 1780197408000
+    },
+    {
+      "id": 48344961,
+      "title": "Dav2d",
+      "link": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 481,
+      "author": "captain_bender",
+      "created": "2026-05-31 11:44:45",
+      "created_at": 1780227885000
+    },
+    {
+      "id": 48334854,
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "link": "https://github.com/kristapsdz/openrsync",
+      "score": 474,
+      "author": "sph",
+      "created": "2026-05-30 10:51:48",
+      "created_at": 1780138308000
+    },
+    {
+      "id": 48338660,
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "score": 454,
+      "author": "freeCandy",
+      "created": "2026-05-30 17:27:28",
+      "created_at": 1780162048000
     }
   ],
   "code": 200,
-  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，公共 API 服务后续迁移到其他平台后，额度、兼容性等方面可能会受影响。建议尽快迁移至私有部署，以确保服务持续可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
+  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，公共 API 服务后续计划迁移到 Cloudflare Workers，额度、兼容性等方面可能会受影响。有能力建议自行私有部署，以确保服务持续稳定可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }
