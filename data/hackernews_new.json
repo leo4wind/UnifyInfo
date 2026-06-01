@@ -3,95 +3,95 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-01T17:15:04.798Z"
+    "lastUpdate": "2026-06-01T22:29:35.078Z"
   },
   "data": [
     {
       "id": 48359102,
-      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 158,
+      "score": 1082,
       "author": "ssiddharth",
       "created": "2026-06-01 16:31:42",
       "created_at": 1780331502000
     },
     {
-      "id": 48357905,
-      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
-      "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 79,
-      "author": "speckx",
-      "created": "2026-06-01 15:11:35",
-      "created_at": 1780326695000
+      "id": 48362347,
+      "title": "Debug Project",
+      "link": "https://debug.com/",
+      "score": 77,
+      "author": "Eridanus2",
+      "created": "2026-06-01 20:40:13",
+      "created_at": 1780346413000
     },
     {
       "id": 48359232,
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 26,
+      "score": 256,
       "author": "prakashqwerty",
       "created": "2026-06-01 16:41:49",
       "created_at": 1780332109000
     },
     {
+      "id": 48360054,
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "link": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 141,
+      "author": "pplanu",
+      "created": "2026-06-01 17:37:20",
+      "created_at": 1780335440000
+    },
+    {
       "id": 48357075,
       "title": "CS336: Language Modeling from Scratch",
       "link": "https://cs336.stanford.edu/",
-      "score": 143,
+      "score": 297,
       "author": "kristianpaul",
       "created": "2026-06-01 14:10:32",
       "created_at": 1780323032000
     },
     {
-      "id": 48356625,
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 613,
-      "author": "kurmiashish",
-      "created": "2026-06-01 13:30:21",
-      "created_at": 1780320621000
-    },
-    {
-      "id": 48356490,
-      "title": "Flipper Zero Zig Template",
-      "link": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 77,
-      "author": "Nars088",
-      "created": "2026-06-01 13:20:54",
-      "created_at": 1780320054000
-    },
-    {
-      "id": 48356603,
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "link": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 71,
-      "author": "f055",
-      "created": "2026-06-01 13:28:53",
-      "created_at": 1780320533000
-    },
-    {
-      "id": 48357154,
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 252,
+      "id": 48357905,
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "score": 164,
       "author": "speckx",
-      "created": "2026-06-01 14:16:41",
-      "created_at": 1780323401000
+      "created": "2026-06-01 15:11:35",
+      "created_at": 1780326695000
     },
     {
-      "id": 48357725,
-      "title": "Ask HN: Who is hiring? (June 2026)",
-      "link": "",
-      "score": 51,
-      "author": "whoishiring",
-      "created": "2026-06-01 15:00:48",
-      "created_at": 1780326048000
+      "id": 48358667,
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "score": 150,
+      "author": "cyunker",
+      "created": "2026-06-01 16:02:04",
+      "created_at": 1780329724000
+    },
+    {
+      "id": 48360871,
+      "title": "GrapheneOS Speech Services version 2 released",
+      "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+      "score": 56,
+      "author": "pretext",
+      "created": "2026-06-01 18:39:53",
+      "created_at": 1780339193000
+    },
+    {
+      "id": 48338891,
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "link": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "score": 66,
+      "author": "mooreds",
+      "created": "2026-05-30 17:50:21",
+      "created_at": 1780163421000
     },
     {
       "id": 48312443,
       "title": "I made my phone slow on purpose",
       "link": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 54,
+      "score": 144,
       "author": "gcampos",
       "created": "2026-05-28 17:30:46",
       "created_at": 1779989446000

@@ -3,59 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-01T17:15:04.668Z"
+    "lastUpdate": "2026-06-01T22:29:34.720Z"
   },
   "data": [
+    {
+      "id": 48359102,
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 1082,
+      "author": "ssiddharth",
+      "created": "2026-06-01 16:31:42",
+      "created_at": 1780331502000
+    },
     {
       "id": 48341578,
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 999,
+      "score": 1001,
       "author": "antipurist",
       "created": "2026-05-30 23:26:13",
       "created_at": 1780183573000
     },
     {
-      "id": 48340411,
-      "title": "Domain expertise has always been the real moat",
-      "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 852,
-      "author": "aaronbrethorst",
-      "created": "2026-05-30 20:40:57",
-      "created_at": 1780173657000
-    },
-    {
       "id": 48345840,
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "link": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 758,
+      "score": 768,
       "author": "HypnoticOcelot",
       "created": "2026-05-31 14:13:20",
       "created_at": 1780236800000
     },
     {
-      "id": 48348578,
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "link": "https://twitter.com/i/status/2060746160558543217",
-      "score": 615,
-      "author": "thunderbong",
-      "created": "2026-05-31 18:57:48",
-      "created_at": 1780253868000
-    },
-    {
       "id": 48356625,
       "title": "Malicious npm packages detected across Red Hat Cloud Services",
       "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 613,
+      "score": 700,
       "author": "kurmiashish",
       "created": "2026-06-01 13:30:21",
       "created_at": 1780320621000
     },
     {
+      "id": 48353348,
+      "title": "A 10 year old Xeon is all you need",
+      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "score": 651,
+      "author": "cafkafk",
+      "created": "2026-06-01 06:38:42",
+      "created_at": 1780295922000
+    },
+    {
+      "id": 48348578,
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "link": "https://twitter.com/i/status/2060746160558543217",
+      "score": 632,
+      "author": "thunderbong",
+      "created": "2026-05-31 18:57:48",
+      "created_at": 1780253868000
+    },
+    {
       "id": 48343683,
       "title": "The Website Specification",
       "link": "https://specification.website/",
-      "score": 537,
+      "score": 543,
       "author": "k1m",
       "created": "2026-05-31 07:09:50",
       "created_at": 1780211390000
@@ -64,25 +73,16 @@
       "id": 48344961,
       "title": "Dav2d",
       "link": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 532,
+      "score": 536,
       "author": "captain_bender",
       "created": "2026-05-31 11:44:45",
       "created_at": 1780227885000
     },
     {
-      "id": 48353348,
-      "title": "A 10 year old Xeon is all you need",
-      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 526,
-      "author": "cafkafk",
-      "created": "2026-06-01 06:38:42",
-      "created_at": 1780295922000
-    },
-    {
       "id": 48346947,
       "title": "Creatine raises brain energy levels and slows cognitive decline: study",
       "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 522,
+      "score": 524,
       "author": "MrJagil",
       "created": "2026-05-31 16:19:34",
       "created_at": 1780244374000
@@ -91,7 +91,7 @@
       "id": 48342705,
       "title": "Please Do Not Vibe Fuck Up This Software",
       "link": "https://github.com/RsyncProject/rsync/issues/929",
-      "score": 505,
+      "score": 511,
       "author": "justdotJS",
       "created": "2026-05-31 03:16:48",
       "created_at": 1780197408000
