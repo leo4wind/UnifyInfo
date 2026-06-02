@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-02T19:38:25.982Z"
+    "lastUpdate": "2026-06-02T22:16:04.251Z"
   },
   "data": [
     {
       "id": 48374466,
       "title": "MAI-Code-1-Flash",
       "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 104,
+      "score": 284,
       "author": "EvanZhouDev",
       "created": "2026-06-02 18:47:07",
       "created_at": 1780426027000
     },
     {
+      "id": 48375824,
+      "title": "CT scans of BYD car parts",
+      "link": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 97,
+      "author": "viasfo",
+      "created": "2026-06-02 20:30:08",
+      "created_at": 1780432208000
+    },
+    {
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 421,
+      "author": "speckx",
+      "created": "2026-06-02 19:27:40",
+      "created_at": 1780428460000
+    },
+    {
+      "id": 48375150,
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "link": "https://openrepair.org/open-data/open-standard/",
+      "score": 61,
+      "author": "cassepipe",
+      "created": "2026-06-02 19:37:10",
+      "created_at": 1780429030000
+    },
+    {
+      "id": 48374685,
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "score": 73,
+      "author": "dm319",
+      "created": "2026-06-02 19:02:40",
+      "created_at": 1780426960000
+    },
+    {
+      "id": 48375393,
+      "title": "My thoughts after using Clojure for about a month",
+      "link": "https://www.acdw.net/clojure/",
+      "score": 43,
+      "author": "speckx",
+      "created": "2026-06-02 19:56:46",
+      "created_at": 1780430206000
+    },
+    {
       "id": 48369980,
-      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
       "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 299,
+      "score": 350,
       "author": "eustoria",
       "created": "2026-06-02 13:24:32",
       "created_at": 1780406672000
     },
     {
-      "id": 48373442,
-      "title": "QBE – Compiler Back end: Version 1.3",
-      "link": "https://c9x.me/compile/release/qbe-1.3.html",
-      "score": 43,
-      "author": "birdculture",
-      "created": "2026-06-02 17:37:32",
-      "created_at": 1780421852000
-    },
-    {
-      "id": 48373764,
-      "title": "GitHub Copilot App",
-      "link": "https://github.com/features/preview/github-app",
-      "score": 31,
-      "author": "theanonymousone",
-      "created": "2026-06-02 17:58:55",
-      "created_at": 1780423135000
-    },
-    {
-      "id": 48374528,
-      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-      "link": "",
-      "score": 10,
-      "author": "rishipankhaniya",
-      "created": "2026-06-02 18:51:09",
-      "created_at": 1780426269000
-    },
-    {
       "id": 48368121,
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "link": "https://blog.adafruit.com/",
-      "score": 507,
+      "score": 569,
       "author": "semanser",
       "created": "2026-06-02 10:00:56",
       "created_at": 1780394456000
     },
     {
-      "id": 48370291,
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "link": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 117,
-      "author": "BruceEel",
-      "created": "2026-06-02 13:53:52",
-      "created_at": 1780408432000
+      "id": 48372036,
+      "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
+      "link": "https://github.com/shiihaa-app/shiihaa-breath-detection",
+      "score": 15,
+      "author": "felixzeller",
+      "created": "2026-06-02 16:02:47",
+      "created_at": 1780416167000
     },
     {
-      "id": 48367907,
-      "title": "Why Janet? (2023)",
-      "link": "https://ianthehenry.com/posts/why-janet/",
-      "score": 392,
-      "author": "yacin",
-      "created": "2026-06-02 09:34:31",
-      "created_at": 1780392871000
-    },
-    {
-      "id": 48372547,
-      "title": "Rethinking Search as Code Generation",
-      "link": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
-      "score": 42,
-      "author": "1zael",
-      "created": "2026-06-02 16:35:20",
-      "created_at": 1780418120000
-    },
-    {
-      "id": 48373054,
-      "title": "Three Ways to Get Paid (2018)",
-      "link": "https://jasonzweig.com/three-ways-to-get-paid/",
-      "score": 163,
-      "author": "nate",
-      "created": "2026-06-02 17:09:04",
-      "created_at": 1780420144000
+      "id": 48375175,
+      "title": "The advertising cartel coming to your web browser",
+      "link": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "score": 91,
+      "author": "speckx",
+      "created": "2026-06-02 19:39:25",
+      "created_at": 1780429165000
     }
   ],
   "code": 200,
