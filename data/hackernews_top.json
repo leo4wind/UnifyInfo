@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-01T22:29:34.957Z"
+    "lastUpdate": "2026-06-02T02:36:43.016Z"
   },
   "data": [
     {
       "id": 48359102,
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1082,
+      "score": 1378,
       "author": "ssiddharth",
       "created": "2026-06-01 16:31:42",
       "created_at": 1780331502000
     },
     {
+      "id": 48364055,
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 99,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-06-01 23:45:46",
+      "created_at": 1780357546000
+    },
+    {
+      "id": 48364800,
+      "title": "macOS needs its grid back",
+      "link": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "score": 38,
+      "author": "ranebo",
+      "created": "2026-06-02 01:28:34",
+      "created_at": 1780363714000
+    },
+    {
+      "id": 48363132,
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 149,
+      "author": "typpo",
+      "created": "2026-06-01 21:50:02",
+      "created_at": 1780350602000
+    },
+    {
       "id": 48362347,
       "title": "Debug Project",
       "link": "https://debug.com/",
-      "score": 77,
+      "score": 156,
       "author": "Eridanus2",
       "created": "2026-06-01 20:40:13",
       "created_at": 1780346413000
     },
     {
+      "id": 48364620,
+      "title": "How is Groq raising more money?",
+      "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "score": 14,
+      "author": "hasheddan",
+      "created": "2026-06-02 01:05:29",
+      "created_at": 1780362329000
+    },
+    {
+      "id": 48363765,
+      "title": "Chipotlai Max",
+      "link": "https://github.com/cyberpapiii/chipotlai-max",
+      "score": 54,
+      "author": "nigelgutzmann",
+      "created": "2026-06-01 23:06:35",
+      "created_at": 1780355195000
+    },
+    {
       "id": 48359232,
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 256,
+      "score": 332,
       "author": "prakashqwerty",
       "created": "2026-06-01 16:41:49",
       "created_at": 1780332109000
     },
     {
-      "id": 48360054,
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "link": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 141,
-      "author": "pplanu",
-      "created": "2026-06-01 17:37:20",
-      "created_at": 1780335440000
+      "id": 48364754,
+      "title": "Crystal Nights (2008)",
+      "link": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+      "score": 8,
+      "author": "rorylawless",
+      "created": "2026-06-02 01:22:42",
+      "created_at": 1780363362000
     },
     {
-      "id": 48357075,
-      "title": "CS336: Language Modeling from Scratch",
-      "link": "https://cs336.stanford.edu/",
-      "score": 297,
-      "author": "kristianpaul",
-      "created": "2026-06-01 14:10:32",
-      "created_at": 1780323032000
-    },
-    {
-      "id": 48357905,
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 164,
-      "author": "speckx",
-      "created": "2026-06-01 15:11:35",
-      "created_at": 1780326695000
-    },
-    {
-      "id": 48358667,
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 150,
-      "author": "cyunker",
-      "created": "2026-06-01 16:02:04",
-      "created_at": 1780329724000
-    },
-    {
-      "id": 48360871,
-      "title": "GrapheneOS Speech Services version 2 released",
-      "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
-      "score": 56,
-      "author": "pretext",
-      "created": "2026-06-01 18:39:53",
-      "created_at": 1780339193000
-    },
-    {
-      "id": 48338891,
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "link": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
-      "score": 66,
-      "author": "mooreds",
-      "created": "2026-05-30 17:50:21",
-      "created_at": 1780163421000
-    },
-    {
-      "id": 48312443,
-      "title": "I made my phone slow on purpose",
-      "link": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 144,
-      "author": "gcampos",
-      "created": "2026-05-28 17:30:46",
-      "created_at": 1779989446000
+      "id": 48344535,
+      "title": "Squillions: How Money Laundering Won",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+      "score": 14,
+      "author": "rwmj",
+      "created": "2026-05-31 10:26:55",
+      "created_at": 1780223215000
     }
   ],
   "code": 200,
