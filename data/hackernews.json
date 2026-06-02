@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-02T08:19:11.564Z"
+    "lastUpdate": "2026-06-02T15:57:54.051Z"
   },
   "data": [
     {
       "id": 48359102,
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1721,
+      "score": 2041,
       "author": "ssiddharth",
       "created": "2026-06-01 16:31:42",
       "created_at": 1780331502000
     },
     {
-      "id": 48345840,
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "link": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 774,
-      "author": "HypnoticOcelot",
-      "created": "2026-05-31 14:13:20",
-      "created_at": 1780236800000
+      "id": 48370330,
+      "title": "Please don't spam people looking for employment. It's just cruel",
+      "link": "",
+      "score": 759,
+      "author": "IliaLitviak",
+      "created": "2026-06-02 13:56:46",
+      "created_at": 1780408606000
     },
     {
       "id": 48356625,
       "title": "Malicious npm packages detected across Red Hat Cloud Services",
       "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 748,
+      "score": 759,
       "author": "kurmiashish",
       "created": "2026-06-01 13:30:21",
       "created_at": 1780320621000
@@ -37,7 +37,7 @@
       "id": 48353348,
       "title": "A 10 year old Xeon is all you need",
       "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 692,
+      "score": 708,
       "author": "cafkafk",
       "created": "2026-06-01 06:38:42",
       "created_at": 1780295922000
@@ -46,7 +46,7 @@
       "id": 48348578,
       "title": "Codex just found a \"workaround\" of not having sudo on my PC",
       "link": "https://twitter.com/i/status/2060746160558543217",
-      "score": 642,
+      "score": 647,
       "author": "thunderbong",
       "created": "2026-05-31 18:57:48",
       "created_at": 1780253868000
@@ -55,19 +55,28 @@
       "id": 48357154,
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 567,
+      "score": 605,
       "author": "speckx",
       "created": "2026-06-01 14:16:41",
       "created_at": 1780323401000
     },
     {
-      "id": 48344961,
-      "title": "Dav2d",
-      "link": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 540,
-      "author": "captain_bender",
-      "created": "2026-05-31 11:44:45",
-      "created_at": 1780227885000
+      "id": 48364055,
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 564,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-06-01 23:45:46",
+      "created_at": 1780357546000
+    },
+    {
+      "id": 48357075,
+      "title": "CS336: Language Modeling from Scratch",
+      "link": "https://cs336.stanford.edu/",
+      "score": 529,
+      "author": "kristianpaul",
+      "created": "2026-06-01 14:10:32",
+      "created_at": 1780323032000
     },
     {
       "id": 48346947,
@@ -82,19 +91,10 @@
       "id": 48358646,
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
       "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 485,
+      "score": 512,
       "author": "surprisetalk",
       "created": "2026-06-01 16:00:40",
       "created_at": 1780329640000
-    },
-    {
-      "id": 48346257,
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "link": "https://prismml.com/news/bonsai-image-4b",
-      "score": 452,
-      "author": "modinfo",
-      "created": "2026-05-31 15:04:52",
-      "created_at": 1780239892000
     }
   ],
   "code": 200,
