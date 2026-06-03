@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-03T16:15:08.621Z"
+    "lastUpdate": "2026-06-03T22:22:57.060Z"
   },
   "data": [
-    {
-      "id": 48359102,
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 2166,
-      "author": "ssiddharth",
-      "created": "2026-06-01 16:31:42",
-      "created_at": 1780331502000
-    },
     {
       "id": 48375016,
       "title": "Gmail thinks I'm stupid, so I left",
       "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 1101,
+      "score": 1143,
       "author": "speckx",
       "created": "2026-06-02 19:27:40",
       "created_at": 1780428460000
@@ -28,7 +19,7 @@
       "id": 48370330,
       "title": "Please don't spam people looking for employment. It's just cruel",
       "link": "",
-      "score": 946,
+      "score": 950,
       "author": "IliaLitviak",
       "created": "2026-06-02 13:56:46",
       "created_at": 1780408606000
@@ -37,7 +28,7 @@
       "id": 48364055,
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 699,
+      "score": 705,
       "author": "1vuio0pswjnm7",
       "created": "2026-06-01 23:45:46",
       "created_at": 1780357546000
@@ -46,55 +37,64 @@
       "id": 48368121,
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "link": "https://blog.adafruit.com/",
-      "score": 665,
+      "score": 670,
       "author": "semanser",
       "created": "2026-06-02 10:00:56",
       "created_at": 1780394456000
     },
     {
+      "id": 48383220,
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "link": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "score": 633,
+      "author": "reconnecting",
+      "created": "2026-06-03 12:42:07",
+      "created_at": 1780490527000
+    },
+    {
       "id": 48371562,
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "link": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 579,
+      "score": 632,
       "author": "ammar2",
       "created": "2026-06-02 15:29:05",
       "created_at": 1780414145000
     },
     {
+      "id": 48382310,
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 615,
+      "author": "xx_ns",
+      "created": "2026-06-03 10:53:00",
+      "created_at": 1780483980000
+    },
+    {
+      "id": 48385906,
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 599,
+      "author": "rvz",
+      "created": "2026-06-03 16:04:42",
+      "created_at": 1780502682000
+    },
+    {
       "id": 48363882,
       "title": "Age verification for social media, the beginning of the end for a free internet?",
       "link": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-      "score": 554,
+      "score": 566,
       "author": "StrLght",
       "created": "2026-06-01 23:22:28",
       "created_at": 1780356148000
     },
     {
-      "id": 48358646,
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 529,
-      "author": "surprisetalk",
-      "created": "2026-06-01 16:00:40",
-      "created_at": 1780329640000
-    },
-    {
       "id": 48374466,
       "title": "MAI-Code-1-Flash",
       "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 513,
+      "score": 524,
       "author": "EvanZhouDev",
       "created": "2026-06-02 18:47:07",
       "created_at": 1780426027000
-    },
-    {
-      "id": 48359232,
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 499,
-      "author": "prakashqwerty",
-      "created": "2026-06-01 16:41:49",
-      "created_at": 1780332109000
     }
   ],
   "code": 200,

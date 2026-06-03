@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-03T16:15:08.729Z"
+    "lastUpdate": "2026-06-03T22:22:57.184Z"
   },
   "data": [
+    {
+      "id": 48388324,
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "score": 380,
+      "author": "cloud8421",
+      "created": "2026-06-03 19:02:26",
+      "created_at": 1780513346000
+    },
+    {
+      "id": 48385906,
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 599,
+      "author": "rvz",
+      "created": "2026-06-03 16:04:42",
+      "created_at": 1780502682000
+    },
+    {
+      "id": 48384355,
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "link": "https://burntsushi.net/encephalitis/",
+      "score": 394,
+      "author": "Tomte",
+      "created": "2026-06-03 14:10:06",
+      "created_at": 1780495806000
+    },
     {
       "id": 48384482,
       "title": "DaVinci Resolve 21",
       "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 123,
+      "score": 339,
       "author": "pentagrama",
       "created": "2026-06-03 14:18:39",
       "created_at": 1780496319000
     },
     {
+      "id": 48386725,
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "link": "https://github.com/duanebester/gooey",
+      "score": 110,
+      "author": "ksec",
+      "created": "2026-06-03 17:12:27",
+      "created_at": 1780506747000
+    },
+    {
+      "id": 48383056,
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "score": 288,
+      "author": "pdyc",
+      "created": "2026-06-03 12:25:14",
+      "created_at": 1780489514000
+    },
+    {
       "id": 48382310,
-      "title": "Hacking your PC using your speaker without ever touching it",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 431,
+      "score": 615,
       "author": "xx_ns",
       "created": "2026-06-03 10:53:00",
       "created_at": 1780483980000
     },
     {
+      "id": 48385965,
+      "title": "ESP32-S31",
+      "link": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "score": 224,
+      "author": "volemo",
+      "created": "2026-06-03 16:10:25",
+      "created_at": 1780503025000
+    },
+    {
+      "id": 48389284,
+      "title": "A Man Who Reads Books for a Living (One Every Two Days)",
+      "link": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+      "score": 31,
+      "author": "gmays",
+      "created": "2026-06-03 20:08:33",
+      "created_at": 1780517313000
+    },
+    {
       "id": 48385114,
       "title": "A Post-Quantum Future for Let's Encrypt",
       "link": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 43,
+      "score": 195,
       "author": "SGran",
       "created": "2026-06-03 15:06:09",
       "created_at": 1780499169000
-    },
-    {
-      "id": 48383220,
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 364,
-      "author": "reconnecting",
-      "created": "2026-06-03 12:42:07",
-      "created_at": 1780490527000
-    },
-    {
-      "id": 48382382,
-      "title": "Every Byte Matters",
-      "link": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 165,
-      "author": "ingve",
-      "created": "2026-06-03 11:04:04",
-      "created_at": 1780484644000
-    },
-    {
-      "id": 48382142,
-      "title": "PlayStation Architecture",
-      "link": "https://www.copetti.org/writings/consoles/playstation/",
-      "score": 145,
-      "author": "gregsadetsky",
-      "created": "2026-06-03 10:24:25",
-      "created_at": 1780482265000
-    },
-    {
-      "id": 48371562,
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "link": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 579,
-      "author": "ammar2",
-      "created": "2026-06-02 15:29:05",
-      "created_at": 1780414145000
-    },
-    {
-      "id": 48374552,
-      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "link": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "score": 178,
-      "author": "nathell",
-      "created": "2026-06-02 18:52:52",
-      "created_at": 1780426372000
-    },
-    {
-      "id": 48351579,
-      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
-      "link": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
-      "score": 74,
-      "author": "aragonite",
-      "created": "2026-06-01 01:18:16",
-      "created_at": 1780276696000
-    },
-    {
-      "id": 48383823,
-      "title": "I built a ceiling projection mapping of the planes flying over my house",
-      "link": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
-      "score": 124,
-      "author": "frereubu",
-      "created": "2026-06-03 13:33:00",
-      "created_at": 1780493580000
     }
   ],
   "code": 200,
