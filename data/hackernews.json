@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-03T02:44:52.314Z"
+    "lastUpdate": "2026-06-03T08:46:15.879Z"
   },
   "data": [
     {
       "id": 48359102,
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 2137,
+      "score": 2148,
       "author": "ssiddharth",
       "created": "2026-06-01 16:31:42",
       "created_at": 1780331502000
@@ -19,52 +19,43 @@
       "id": 48370330,
       "title": "Please don't spam people looking for employment. It's just cruel",
       "link": "",
-      "score": 896,
+      "score": 921,
       "author": "IliaLitviak",
       "created": "2026-06-02 13:56:46",
       "created_at": 1780408606000
     },
     {
-      "id": 48356625,
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 765,
-      "author": "kurmiashish",
-      "created": "2026-06-01 13:30:21",
-      "created_at": 1780320621000
-    },
-    {
-      "id": 48353348,
-      "title": "A 10 year old Xeon is all you need",
-      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 715,
-      "author": "cafkafk",
-      "created": "2026-06-01 06:38:42",
-      "created_at": 1780295922000
-    },
-    {
-      "id": 48364055,
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 685,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-06-01 23:45:46",
-      "created_at": 1780357546000
-    },
-    {
       "id": 48375016,
       "title": "Gmail thinks I'm stupid, so I left",
       "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 647,
+      "score": 905,
       "author": "speckx",
       "created": "2026-06-02 19:27:40",
       "created_at": 1780428460000
     },
     {
+      "id": 48356625,
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "score": 766,
+      "author": "kurmiashish",
+      "created": "2026-06-01 13:30:21",
+      "created_at": 1780320621000
+    },
+    {
+      "id": 48364055,
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 689,
+      "author": "1vuio0pswjnm7",
+      "created": "2026-06-01 23:45:46",
+      "created_at": 1780357546000
+    },
+    {
       "id": 48368121,
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "link": "https://blog.adafruit.com/",
-      "score": 628,
+      "score": 648,
       "author": "semanser",
       "created": "2026-06-02 10:00:56",
       "created_at": 1780394456000
@@ -73,7 +64,7 @@
       "id": 48357154,
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 617,
+      "score": 623,
       "author": "speckx",
       "created": "2026-06-01 14:16:41",
       "created_at": 1780323401000
@@ -82,7 +73,7 @@
       "id": 48357075,
       "title": "CS336: Language Modeling from Scratch",
       "link": "https://cs336.stanford.edu/",
-      "score": 543,
+      "score": 547,
       "author": "kristianpaul",
       "created": "2026-06-01 14:10:32",
       "created_at": 1780323032000
@@ -91,10 +82,19 @@
       "id": 48358646,
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
       "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 524,
+      "score": 527,
       "author": "surprisetalk",
       "created": "2026-06-01 16:00:40",
       "created_at": 1780329640000
+    },
+    {
+      "id": 48363882,
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "link": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "score": 516,
+      "author": "StrLght",
+      "created": "2026-06-01 23:22:28",
+      "created_at": 1780356148000
     }
   ],
   "code": 200,

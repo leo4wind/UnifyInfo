@@ -3,7 +3,7 @@
     "name": "60秒新闻",
     "description": "每日新闻简讯",
     "url": "https://60s.viki.moe/v2/60s",
-    "lastUpdate": "2026-06-03T02:44:46.720Z"
+    "lastUpdate": "2026-06-03T08:46:07.754Z"
   },
   "data": {
     "date": "2026-06-03",
@@ -34,8 +34,8 @@
     "updated_at": 1780425179000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年四月十八",
-    "api_updated": "2026/06/03 10:44:40",
-    "api_updated_at": 1780454680758
+    "api_updated": "2026/06/03 16:37:38",
+    "api_updated_at": 1780475858316
   },
   "code": 200,
   "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，公共 API 服务后续计划迁移到 Cloudflare Workers，额度、兼容性等方面可能会受影响。有能力建议自行私有部署，以确保服务持续稳定可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
