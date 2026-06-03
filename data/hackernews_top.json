@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-03T08:46:15.996Z"
+    "lastUpdate": "2026-06-03T16:15:08.708Z"
   },
   "data": [
+    {
+      "id": 48384482,
+      "title": "DaVinci Resolve 21",
+      "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "score": 123,
+      "author": "pentagrama",
+      "created": "2026-06-03 14:18:39",
+      "created_at": 1780496319000
+    },
+    {
+      "id": 48382310,
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 431,
+      "author": "xx_ns",
+      "created": "2026-06-03 10:53:00",
+      "created_at": 1780483980000
+    },
+    {
+      "id": 48385114,
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "link": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "score": 43,
+      "author": "SGran",
+      "created": "2026-06-03 15:06:09",
+      "created_at": 1780499169000
+    },
+    {
+      "id": 48383220,
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "link": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "score": 364,
+      "author": "reconnecting",
+      "created": "2026-06-03 12:42:07",
+      "created_at": 1780490527000
+    },
+    {
+      "id": 48382382,
+      "title": "Every Byte Matters",
+      "link": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "score": 165,
+      "author": "ingve",
+      "created": "2026-06-03 11:04:04",
+      "created_at": 1780484644000
+    },
+    {
+      "id": 48382142,
+      "title": "PlayStation Architecture",
+      "link": "https://www.copetti.org/writings/consoles/playstation/",
+      "score": 145,
+      "author": "gregsadetsky",
+      "created": "2026-06-03 10:24:25",
+      "created_at": 1780482265000
+    },
     {
       "id": 48371562,
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "link": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 360,
+      "score": 579,
       "author": "ammar2",
       "created": "2026-06-02 15:29:05",
       "created_at": 1780414145000
     },
     {
-      "id": 48344327,
-      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "link": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "score": 73,
-      "author": "s-macke",
-      "created": "2026-05-31 09:45:45",
-      "created_at": 1780220745000
+      "id": 48374552,
+      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "link": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "score": 178,
+      "author": "nathell",
+      "created": "2026-06-02 18:52:52",
+      "created_at": 1780426372000
     },
     {
-      "id": 48377404,
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "link": "https://github.com/c0dejedi/nbd-vram",
-      "score": 287,
-      "author": "tanelpoder",
-      "created": "2026-06-02 22:55:33",
-      "created_at": 1780440933000
+      "id": 48351579,
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "link": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+      "score": 74,
+      "author": "aragonite",
+      "created": "2026-06-01 01:18:16",
+      "created_at": 1780276696000
     },
     {
-      "id": 48374466,
-      "title": "MAI-Code-1-Flash",
-      "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 460,
-      "author": "EvanZhouDev",
-      "created": "2026-06-02 18:47:07",
-      "created_at": 1780426027000
-    },
-    {
-      "id": 48379669,
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "score": 83,
-      "author": "ray__",
-      "created": "2026-06-03 03:47:56",
-      "created_at": 1780458476000
-    },
-    {
-      "id": 48377761,
-      "title": "AI outperforms law professors in Stanford Law study",
-      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 214,
-      "author": "berlianta",
-      "created": "2026-06-02 23:43:12",
-      "created_at": 1780443792000
-    },
-    {
-      "id": 48380987,
-      "title": "AI Engineers aren't safe from being replaced by AI",
-      "link": "https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html",
-      "score": 11,
-      "author": "Doch88",
-      "created": "2026-06-03 07:27:20",
-      "created_at": 1780471640000
-    },
-    {
-      "id": 48375824,
-      "title": "CT scans of BYD car parts",
-      "link": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 370,
-      "author": "viasfo",
-      "created": "2026-06-02 20:30:08",
-      "created_at": 1780432208000
-    },
-    {
-      "id": 48380516,
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-      "score": 21,
-      "author": "igortru",
-      "created": "2026-06-03 06:04:36",
-      "created_at": 1780466676000
-    },
-    {
-      "id": 48381211,
-      "title": "Life and work is not meant to be spent in isolation",
-      "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
-      "score": 3,
-      "author": "jlundberg",
-      "created": "2026-06-03 08:00:14",
-      "created_at": 1780473614000
+      "id": 48383823,
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "link": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+      "score": 124,
+      "author": "frereubu",
+      "created": "2026-06-03 13:33:00",
+      "created_at": 1780493580000
     }
   ],
   "code": 200,
