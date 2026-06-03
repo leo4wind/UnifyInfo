@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-02T22:16:04.353Z"
+    "lastUpdate": "2026-06-03T02:44:52.629Z"
   },
   "data": [
+    {
+      "id": 48377404,
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "score": 147,
+      "author": "tanelpoder",
+      "created": "2026-06-02 22:55:33",
+      "created_at": 1780440933000
+    },
     {
       "id": 48374466,
       "title": "MAI-Code-1-Flash",
       "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 284,
+      "score": 396,
       "author": "EvanZhouDev",
       "created": "2026-06-02 18:47:07",
       "created_at": 1780426027000
@@ -19,82 +28,73 @@
       "id": 48375824,
       "title": "CT scans of BYD car parts",
       "link": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 97,
+      "score": 245,
       "author": "viasfo",
       "created": "2026-06-02 20:30:08",
       "created_at": 1780432208000
     },
     {
-      "id": 48375016,
-      "title": "Gmail thinks I'm stupid, so I left",
-      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 421,
-      "author": "speckx",
-      "created": "2026-06-02 19:27:40",
-      "created_at": 1780428460000
-    },
-    {
-      "id": 48375150,
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "link": "https://openrepair.org/open-data/open-standard/",
-      "score": 61,
-      "author": "cassepipe",
-      "created": "2026-06-02 19:37:10",
-      "created_at": 1780429030000
-    },
-    {
-      "id": 48374685,
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "score": 73,
-      "author": "dm319",
-      "created": "2026-06-02 19:02:40",
-      "created_at": 1780426960000
+      "id": 48356754,
+      "title": "Are blue zones real? Answering that question is harder then ever",
+      "link": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+      "score": 28,
+      "author": "mfld",
+      "created": "2026-06-01 13:40:35",
+      "created_at": 1780321235000
     },
     {
       "id": 48375393,
       "title": "My thoughts after using Clojure for about a month",
       "link": "https://www.acdw.net/clojure/",
-      "score": 43,
+      "score": 117,
       "author": "speckx",
       "created": "2026-06-02 19:56:46",
       "created_at": 1780430206000
     },
     {
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 647,
+      "author": "speckx",
+      "created": "2026-06-02 19:27:40",
+      "created_at": 1780428460000
+    },
+    {
+      "id": 48377761,
+      "title": "AI outperforms law professors in Stanford Law study",
+      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "score": 106,
+      "author": "berlianta",
+      "created": "2026-06-02 23:43:12",
+      "created_at": 1780443792000
+    },
+    {
+      "id": 48377140,
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "link": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "score": 50,
+      "author": "marojejian",
+      "created": "2026-06-02 22:22:34",
+      "created_at": 1780438954000
+    },
+    {
       "id": 48369980,
       "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
       "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 350,
+      "score": 378,
       "author": "eustoria",
       "created": "2026-06-02 13:24:32",
       "created_at": 1780406672000
     },
     {
-      "id": 48368121,
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "link": "https://blog.adafruit.com/",
-      "score": 569,
-      "author": "semanser",
-      "created": "2026-06-02 10:00:56",
-      "created_at": 1780394456000
-    },
-    {
-      "id": 48372036,
-      "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
-      "link": "https://github.com/shiihaa-app/shiihaa-breath-detection",
-      "score": 15,
-      "author": "felixzeller",
-      "created": "2026-06-02 16:02:47",
-      "created_at": 1780416167000
-    },
-    {
-      "id": 48375175,
-      "title": "The advertising cartel coming to your web browser",
-      "link": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "score": 91,
-      "author": "speckx",
-      "created": "2026-06-02 19:39:25",
-      "created_at": 1780429165000
+      "id": 48374685,
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "score": 128,
+      "author": "dm319",
+      "created": "2026-06-02 19:02:40",
+      "created_at": 1780426960000
     }
   ],
   "code": 200,

@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-02T22:16:04.092Z"
+    "lastUpdate": "2026-06-03T02:44:52.314Z"
   },
   "data": [
     {
       "id": 48359102,
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 2121,
+      "score": 2137,
       "author": "ssiddharth",
       "created": "2026-06-01 16:31:42",
       "created_at": 1780331502000
@@ -19,7 +19,7 @@
       "id": 48370330,
       "title": "Please don't spam people looking for employment. It's just cruel",
       "link": "",
-      "score": 865,
+      "score": 896,
       "author": "IliaLitviak",
       "created": "2026-06-02 13:56:46",
       "created_at": 1780408606000
@@ -28,7 +28,7 @@
       "id": 48356625,
       "title": "Malicious npm packages detected across Red Hat Cloud Services",
       "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 762,
+      "score": 765,
       "author": "kurmiashish",
       "created": "2026-06-01 13:30:21",
       "created_at": 1780320621000
@@ -46,34 +46,43 @@
       "id": 48364055,
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 671,
+      "score": 685,
       "author": "1vuio0pswjnm7",
       "created": "2026-06-01 23:45:46",
       "created_at": 1780357546000
     },
     {
-      "id": 48357154,
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 615,
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 647,
       "author": "speckx",
-      "created": "2026-06-01 14:16:41",
-      "created_at": 1780323401000
+      "created": "2026-06-02 19:27:40",
+      "created_at": 1780428460000
     },
     {
       "id": 48368121,
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "link": "https://blog.adafruit.com/",
-      "score": 569,
+      "score": 628,
       "author": "semanser",
       "created": "2026-06-02 10:00:56",
       "created_at": 1780394456000
     },
     {
+      "id": 48357154,
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "score": 617,
+      "author": "speckx",
+      "created": "2026-06-01 14:16:41",
+      "created_at": 1780323401000
+    },
+    {
       "id": 48357075,
       "title": "CS336: Language Modeling from Scratch",
       "link": "https://cs336.stanford.edu/",
-      "score": 539,
+      "score": 543,
       "author": "kristianpaul",
       "created": "2026-06-01 14:10:32",
       "created_at": 1780323032000
@@ -86,15 +95,6 @@
       "author": "surprisetalk",
       "created": "2026-06-01 16:00:40",
       "created_at": 1780329640000
-    },
-    {
-      "id": 48359232,
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 489,
-      "author": "prakashqwerty",
-      "created": "2026-06-01 16:41:49",
-      "created_at": 1780332109000
     }
   ],
   "code": 200,
