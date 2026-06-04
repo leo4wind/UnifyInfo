@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-04T08:11:25.060Z"
+    "lastUpdate": "2026-06-04T14:32:51.534Z"
   },
   "data": [
     {
+      "id": 48398055,
+      "title": "VoidZero Is Joining Cloudflare",
+      "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 157,
+      "author": "coloneltcb",
+      "created": "2026-06-04 13:00:51",
+      "created_at": 1780578051000
+    },
+    {
+      "id": 48395938,
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "score": 281,
+      "author": "XzetaU8",
+      "created": "2026-06-04 08:45:36",
+      "created_at": 1780562736000
+    },
+    {
+      "id": 48397028,
+      "title": "Ian's Secure Shoelace Knot",
+      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "score": 89,
+      "author": "mooreds",
+      "created": "2026-06-04 11:17:34",
+      "created_at": 1780571854000
+    },
+    {
+      "id": 48396792,
+      "title": "Gaussian Point Splatting",
+      "link": "https://momentsingraphics.de/Siggraph2026.html",
+      "score": 100,
+      "author": "ibobev",
+      "created": "2026-06-04 10:48:13",
+      "created_at": 1780570093000
+    },
+    {
       "id": 48391611,
-      "title": "\"They're made out of weights\"",
+      "title": "They’re made out of weights",
       "link": "https://maxleiter.com/blog/weights",
-      "score": 552,
+      "score": 997,
       "author": "MaxLeiter",
       "created": "2026-06-03 23:37:18",
       "created_at": 1780529838000
     },
     {
-      "id": 48392004,
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 240,
-      "author": "littlexsparkee",
-      "created": "2026-06-04 00:18:02",
-      "created_at": 1780532282000
+      "id": 48366883,
+      "title": "The placeholder name for the Windows 8 experience was \"modern\"",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373",
+      "score": 30,
+      "author": "paulmooreparks",
+      "created": "2026-06-02 06:52:29",
+      "created_at": 1780383149000
+    },
+    {
+      "id": 48373642,
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "link": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "score": 81,
+      "author": "tosh",
+      "created": "2026-06-02 17:50:00",
+      "created_at": 1780422600000
+    },
+    {
+      "id": 48397233,
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "score": 163,
+      "author": "fidotron",
+      "created": "2026-06-04 11:39:28",
+      "created_at": 1780573168000
     },
     {
       "id": 48388324,
       "title": "Elixir v1.20: Now a gradually typed language",
       "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 727,
+      "score": 866,
       "author": "cloud8421",
       "created": "2026-06-03 19:02:26",
       "created_at": 1780513346000
     },
     {
-      "id": 48392343,
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 182,
-      "author": "jc4p",
-      "created": "2026-06-04 00:56:32",
-      "created_at": 1780534592000
-    },
-    {
-      "id": 48385906,
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 813,
-      "author": "rvz",
-      "created": "2026-06-03 16:04:42",
-      "created_at": 1780502682000
-    },
-    {
-      "id": 48387270,
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 392,
-      "author": "lordleft",
-      "created": "2026-06-03 17:51:37",
-      "created_at": 1780509097000
-    },
-    {
-      "id": 48384355,
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "link": "https://burntsushi.net/encephalitis/",
-      "score": 596,
-      "author": "Tomte",
-      "created": "2026-06-03 14:10:06",
-      "created_at": 1780495806000
-    },
-    {
-      "id": 48392082,
-      "title": "The ways we contain Claude across products",
-      "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 113,
-      "author": "jbredeche",
-      "created": "2026-06-04 00:27:52",
-      "created_at": 1780532872000
-    },
-    {
-      "id": 48347483,
-      "title": "Learn SQL Once, Use It for 30 Years",
-      "link": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
-      "score": 60,
-      "author": "karakoram",
-      "created": "2026-05-31 17:16:15",
-      "created_at": 1780247775000
-    },
-    {
-      "id": 48383056,
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 463,
-      "author": "pdyc",
-      "created": "2026-06-03 12:25:14",
-      "created_at": 1780489514000
+      "id": 48348545,
+      "title": "Kiki – a tiny homepage construction kit with a small footprint",
+      "link": "https://tomotama.com/kiki",
+      "score": 59,
+      "author": "tobr",
+      "created": "2026-05-31 18:54:55",
+      "created_at": 1780253695000
     }
   ],
   "code": 200,

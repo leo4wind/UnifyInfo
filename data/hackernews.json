@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-04T08:11:23.072Z"
+    "lastUpdate": "2026-06-04T14:32:51.081Z"
   },
   "data": [
     {
       "id": 48375016,
       "title": "Gmail thinks I'm stupid, so I left",
       "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 1157,
+      "score": 1167,
       "author": "speckx",
       "created": "2026-06-02 19:27:40",
       "created_at": 1780428460000
     },
     {
+      "id": 48391611,
+      "title": "They’re made out of weights",
+      "link": "https://maxleiter.com/blog/weights",
+      "score": 997,
+      "author": "MaxLeiter",
+      "created": "2026-06-03 23:37:18",
+      "created_at": 1780529838000
+    },
+    {
       "id": 48370330,
       "title": "Please don't spam people looking for employment. It's just cruel",
       "link": "",
-      "score": 955,
+      "score": 959,
       "author": "IliaLitviak",
       "created": "2026-06-02 13:56:46",
       "created_at": 1780408606000
@@ -28,7 +37,7 @@
       "id": 48385906,
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 813,
+      "score": 931,
       "author": "rvz",
       "created": "2026-06-03 16:04:42",
       "created_at": 1780502682000
@@ -37,7 +46,7 @@
       "id": 48388324,
       "title": "Elixir v1.20: Now a gradually typed language",
       "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 727,
+      "score": 866,
       "author": "cloud8421",
       "created": "2026-06-03 19:02:26",
       "created_at": 1780513346000
@@ -46,55 +55,46 @@
       "id": 48383220,
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
       "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 727,
+      "score": 745,
       "author": "reconnecting",
       "created": "2026-06-03 12:42:07",
       "created_at": 1780490527000
     },
     {
-      "id": 48368121,
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "link": "https://blog.adafruit.com/",
-      "score": 670,
-      "author": "semanser",
-      "created": "2026-06-02 10:00:56",
-      "created_at": 1780394456000
-    },
-    {
       "id": 48382310,
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 667,
+      "score": 676,
       "author": "xx_ns",
       "created": "2026-06-03 10:53:00",
       "created_at": 1780483980000
     },
     {
-      "id": 48371562,
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "link": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 644,
-      "author": "ammar2",
-      "created": "2026-06-02 15:29:05",
-      "created_at": 1780414145000
-    },
-    {
       "id": 48384355,
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "link": "https://burntsushi.net/encephalitis/",
-      "score": 596,
+      "score": 675,
       "author": "Tomte",
       "created": "2026-06-03 14:10:06",
       "created_at": 1780495806000
     },
     {
-      "id": 48391611,
-      "title": "\"They're made out of weights\"",
-      "link": "https://maxleiter.com/blog/weights",
-      "score": 552,
-      "author": "MaxLeiter",
-      "created": "2026-06-03 23:37:18",
-      "created_at": 1780529838000
+      "id": 48371562,
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "link": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 648,
+      "author": "ammar2",
+      "created": "2026-06-02 15:29:05",
+      "created_at": 1780414145000
+    },
+    {
+      "id": 48387270,
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "score": 563,
+      "author": "lordleft",
+      "created": "2026-06-03 17:51:37",
+      "created_at": 1780509097000
     }
   ],
   "code": 200,
