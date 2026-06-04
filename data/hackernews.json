@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-04T14:32:51.081Z"
+    "lastUpdate": "2026-06-04T18:07:57.682Z"
   },
   "data": [
-    {
-      "id": 48375016,
-      "title": "Gmail thinks I'm stupid, so I left",
-      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 1167,
-      "author": "speckx",
-      "created": "2026-06-02 19:27:40",
-      "created_at": 1780428460000
-    },
     {
       "id": 48391611,
       "title": "They’re made out of weights",
       "link": "https://maxleiter.com/blog/weights",
-      "score": 997,
+      "score": 1208,
       "author": "MaxLeiter",
       "created": "2026-06-03 23:37:18",
       "created_at": 1780529838000
     },
     {
-      "id": 48370330,
-      "title": "Please don't spam people looking for employment. It's just cruel",
-      "link": "",
-      "score": 959,
-      "author": "IliaLitviak",
-      "created": "2026-06-02 13:56:46",
-      "created_at": 1780408606000
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 1169,
+      "author": "speckx",
+      "created": "2026-06-02 19:27:40",
+      "created_at": 1780428460000
     },
     {
       "id": 48385906,
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 931,
+      "score": 975,
       "author": "rvz",
       "created": "2026-06-03 16:04:42",
       "created_at": 1780502682000
@@ -46,7 +37,7 @@
       "id": 48388324,
       "title": "Elixir v1.20: Now a gradually typed language",
       "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 866,
+      "score": 920,
       "author": "cloud8421",
       "created": "2026-06-03 19:02:26",
       "created_at": 1780513346000
@@ -55,46 +46,55 @@
       "id": 48383220,
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
       "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 745,
+      "score": 750,
       "author": "reconnecting",
       "created": "2026-06-03 12:42:07",
       "created_at": 1780490527000
     },
     {
-      "id": 48382310,
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 676,
-      "author": "xx_ns",
-      "created": "2026-06-03 10:53:00",
-      "created_at": 1780483980000
-    },
-    {
       "id": 48384355,
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "link": "https://burntsushi.net/encephalitis/",
-      "score": 675,
+      "score": 712,
       "author": "Tomte",
       "created": "2026-06-03 14:10:06",
       "created_at": 1780495806000
     },
     {
-      "id": 48371562,
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "link": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 648,
-      "author": "ammar2",
-      "created": "2026-06-02 15:29:05",
-      "created_at": 1780414145000
+      "id": 48382310,
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 678,
+      "author": "xx_ns",
+      "created": "2026-06-03 10:53:00",
+      "created_at": 1780483980000
     },
     {
       "id": 48387270,
       "title": "Artificial intelligence is not conscious – Ted Chiang",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 563,
+      "score": 655,
       "author": "lordleft",
       "created": "2026-06-03 17:51:37",
       "created_at": 1780509097000
+    },
+    {
+      "id": 48392004,
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 599,
+      "author": "littlexsparkee",
+      "created": "2026-06-04 00:18:02",
+      "created_at": 1780532282000
+    },
+    {
+      "id": 48392232,
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "score": 589,
+      "author": "rguiscard",
+      "created": "2026-06-04 00:44:13",
+      "created_at": 1780533853000
     }
   ],
   "code": 200,

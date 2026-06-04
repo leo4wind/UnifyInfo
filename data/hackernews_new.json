@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-04T14:32:51.534Z"
+    "lastUpdate": "2026-06-04T18:07:57.947Z"
   },
   "data": [
     {
       "id": 48398055,
       "title": "VoidZero Is Joining Cloudflare",
       "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 157,
+      "score": 398,
       "author": "coloneltcb",
       "created": "2026-06-04 13:00:51",
       "created_at": 1780578051000
     },
     {
-      "id": 48395938,
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "score": 281,
-      "author": "XzetaU8",
-      "created": "2026-06-04 08:45:36",
-      "created_at": 1780562736000
+      "id": 48401965,
+      "title": "The desperation of NYTimes",
+      "link": "https://rozumem.xyz/posts/16",
+      "score": 58,
+      "author": "rozumem",
+      "created": "2026-06-04 17:39:13",
+      "created_at": 1780594753000
+    },
+    {
+      "id": 48399974,
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "link": "https://github.com/huawei-csl/KVarN",
+      "score": 66,
+      "author": "theanonymousone",
+      "created": "2026-06-04 15:18:00",
+      "created_at": 1780586280000
+    },
+    {
+      "id": 48400588,
+      "title": "Retro-Tech Parenting",
+      "link": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "score": 56,
+      "author": "mawise",
+      "created": "2026-06-04 16:02:35",
+      "created_at": 1780588955000
     },
     {
       "id": 48397028,
       "title": "Ian's Secure Shoelace Knot",
       "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 89,
+      "score": 316,
       "author": "mooreds",
       "created": "2026-06-04 11:17:34",
       "created_at": 1780571854000
     },
     {
-      "id": 48396792,
-      "title": "Gaussian Point Splatting",
-      "link": "https://momentsingraphics.de/Siggraph2026.html",
-      "score": 100,
-      "author": "ibobev",
-      "created": "2026-06-04 10:48:13",
-      "created_at": 1780570093000
+      "id": 48400842,
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 38,
+      "author": "meetpateltech",
+      "created": "2026-06-04 16:20:17",
+      "created_at": 1780590017000
+    },
+    {
+      "id": 48353098,
+      "title": "Sum-product, unit distances, and number fields",
+      "link": "https://www.erdosproblems.com/forum/thread/blog:6",
+      "score": 17,
+      "author": "robinhouston",
+      "created": "2026-06-01 05:54:27",
+      "created_at": 1780293267000
     },
     {
       "id": 48391611,
       "title": "They’re made out of weights",
       "link": "https://maxleiter.com/blog/weights",
-      "score": 997,
+      "score": 1208,
       "author": "MaxLeiter",
       "created": "2026-06-03 23:37:18",
       "created_at": 1780529838000
     },
     {
-      "id": 48366883,
-      "title": "The placeholder name for the Windows 8 experience was \"modern\"",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373",
-      "score": 30,
-      "author": "paulmooreparks",
-      "created": "2026-06-02 06:52:29",
-      "created_at": 1780383149000
-    },
-    {
-      "id": 48373642,
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "link": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "score": 81,
-      "author": "tosh",
-      "created": "2026-06-02 17:50:00",
-      "created_at": 1780422600000
-    },
-    {
-      "id": 48397233,
-      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-      "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "score": 163,
-      "author": "fidotron",
-      "created": "2026-06-04 11:39:28",
-      "created_at": 1780573168000
-    },
-    {
-      "id": 48388324,
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 866,
-      "author": "cloud8421",
-      "created": "2026-06-03 19:02:26",
-      "created_at": 1780513346000
-    },
-    {
-      "id": 48348545,
-      "title": "Kiki – a tiny homepage construction kit with a small footprint",
-      "link": "https://tomotama.com/kiki",
-      "score": 59,
-      "author": "tobr",
-      "created": "2026-05-31 18:54:55",
-      "created_at": 1780253695000
+      "id": 48392004,
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 599,
+      "author": "littlexsparkee",
+      "created": "2026-06-04 00:18:02",
+      "created_at": 1780532282000
     }
   ],
   "code": 200,
