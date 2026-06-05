@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-05T02:14:28.380Z"
+    "lastUpdate": "2026-06-05T07:58:33.405Z"
   },
   "data": [
     {
+      "id": 48408016,
+      "title": "C++: The Documentary",
+      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 92,
+      "author": "ingve",
+      "created": "2026-06-05 04:37:01",
+      "created_at": 1780634221000
+    },
+    {
       "id": 48406640,
-      "title": "Meta enables adb on deprecated Portal devices",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
       "link": "https://fb.watch/HxPu0fSyeH/",
-      "score": 58,
+      "score": 203,
       "author": "jenders",
       "created": "2026-06-05 00:44:38",
       "created_at": 1780620278000
     },
     {
-      "id": 48405931,
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "link": "https://arxiv.org/abs/2606.04032",
-      "score": 97,
-      "author": "Anon84",
-      "created": "2026-06-04 23:11:56",
-      "created_at": 1780614716000
+      "id": 48408442,
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "link": "https://passo.uno/fine-tuning-docs-llm/",
+      "score": 33,
+      "author": "taubek",
+      "created": "2026-06-05 05:46:06",
+      "created_at": 1780638366000
     },
     {
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 273,
+      "score": 396,
       "author": "binyu",
       "created": "2026-06-04 20:11:20",
       "created_at": 1780603880000
     },
     {
+      "id": 48408067,
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "link": "https://isupmap.com/",
+      "score": 24,
+      "author": "mikelgan",
+      "created": "2026-06-05 04:44:48",
+      "created_at": 1780634688000
+    },
+    {
       "id": 48406358,
       "title": "Open Code Review – An AI-powered code review CLI tool",
       "link": "https://github.com/alibaba/open-code-review",
-      "score": 43,
+      "score": 161,
       "author": "geoffbp",
       "created": "2026-06-05 00:04:29",
       "created_at": 1780617869000
     },
     {
-      "id": 48398055,
-      "title": "VoidZero Is Joining Cloudflare",
-      "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 578,
-      "author": "coloneltcb",
-      "created": "2026-06-04 13:00:51",
-      "created_at": 1780578051000
+      "id": 48405931,
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "link": "https://arxiv.org/abs/2606.04032",
+      "score": 155,
+      "author": "Anon84",
+      "created": "2026-06-04 23:11:56",
+      "created_at": 1780614716000
     },
     {
-      "id": 48368338,
-      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-      "link": "https://github.com/tarpediem/zenvision-linux",
-      "score": 25,
-      "author": "berlianta",
-      "created": "2026-06-02 10:29:01",
-      "created_at": 1780396141000
-    },
-    {
-      "id": 48400842,
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 337,
-      "author": "meetpateltech",
-      "created": "2026-06-04 16:20:17",
-      "created_at": 1780590017000
-    },
-    {
-      "id": 48375445,
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "link": "https://tiki.li/blog/blqsort",
-      "score": 94,
-      "author": "birdculture",
-      "created": "2026-06-02 20:00:54",
-      "created_at": 1780430454000
-    },
-    {
-      "id": 48397028,
-      "title": "Ian's Secure Shoelace Knot",
-      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 511,
-      "author": "mooreds",
-      "created": "2026-06-04 11:17:34",
-      "created_at": 1780571854000
+      "id": 48407499,
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "link": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "score": 101,
+      "author": "haydenbarnes",
+      "created": "2026-06-05 03:14:28",
+      "created_at": 1780629268000
     },
     {
       "id": 48376008,
       "title": "I'm skeptical about efforts to revolutionize schooling",
       "link": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 59,
+      "score": 157,
       "author": "andrewstuart",
       "created": "2026-06-02 20:43:39",
       "created_at": 1780433019000
+    },
+    {
+      "id": 48374049,
+      "title": "Watching a Z80 from an RP2350",
+      "link": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+      "score": 12,
+      "author": "ibobev",
+      "created": "2026-06-02 18:18:01",
+      "created_at": 1780424281000
     }
   ],
   "code": 200,
