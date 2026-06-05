@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-05T11:26:32.416Z"
+    "lastUpdate": "2026-06-05T14:23:39.954Z"
   },
   "data": [
     {
       "id": 48391611,
       "title": "They’re made out of weights",
       "link": "https://maxleiter.com/blog/weights",
-      "score": 1455,
+      "score": 1467,
       "author": "MaxLeiter",
       "created": "2026-06-03 23:37:18",
       "created_at": 1780529838000
@@ -19,7 +19,7 @@
       "id": 48385906,
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 1035,
+      "score": 1039,
       "author": "rvz",
       "created": "2026-06-03 16:04:42",
       "created_at": 1780502682000
@@ -28,34 +28,34 @@
       "id": 48388324,
       "title": "Elixir v1.20: Now a gradually typed language",
       "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 976,
+      "score": 978,
       "author": "cloud8421",
       "created": "2026-06-03 19:02:26",
       "created_at": 1780513346000
     },
     {
+      "id": 48405718,
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "score": 798,
+      "author": "tristanj",
+      "created": "2026-06-04 22:48:19",
+      "created_at": 1780613299000
+    },
+    {
       "id": 48392004,
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 778,
+      "score": 786,
       "author": "littlexsparkee",
       "created": "2026-06-04 00:18:02",
       "created_at": 1780532282000
     },
     {
-      "id": 48383220,
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 762,
-      "author": "reconnecting",
-      "created": "2026-06-03 12:42:07",
-      "created_at": 1780490527000
-    },
-    {
       "id": 48387270,
       "title": "Artificial intelligence is not conscious – Ted Chiang",
       "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 758,
+      "score": 765,
       "author": "lordleft",
       "created": "2026-06-03 17:51:37",
       "created_at": 1780509097000
@@ -64,37 +64,37 @@
       "id": 48384355,
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "link": "https://burntsushi.net/encephalitis/",
-      "score": 738,
+      "score": 739,
       "author": "Tomte",
       "created": "2026-06-03 14:10:06",
       "created_at": 1780495806000
     },
     {
-      "id": 48382310,
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 685,
-      "author": "xx_ns",
-      "created": "2026-06-03 10:53:00",
-      "created_at": 1780483980000
-    },
-    {
       "id": 48398055,
       "title": "VoidZero Is Joining Cloudflare",
       "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 643,
+      "score": 650,
       "author": "coloneltcb",
       "created": "2026-06-04 13:00:51",
       "created_at": 1780578051000
     },
     {
-      "id": 48405718,
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 627,
-      "author": "tristanj",
-      "created": "2026-06-04 22:48:19",
-      "created_at": 1780613299000
+      "id": 48392232,
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "score": 622,
+      "author": "rguiscard",
+      "created": "2026-06-04 00:44:13",
+      "created_at": 1780533853000
+    },
+    {
+      "id": 48397028,
+      "title": "Ian's Secure Shoelace Knot",
+      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "score": 565,
+      "author": "mooreds",
+      "created": "2026-06-04 11:17:34",
+      "created_at": 1780571854000
     }
   ],
   "code": 200,

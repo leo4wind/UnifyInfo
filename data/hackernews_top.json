@@ -3,59 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-05T11:26:32.512Z"
+    "lastUpdate": "2026-06-05T14:23:40.191Z"
   },
   "data": [
     {
-      "id": 48409191,
-      "title": "Changing How We Develop Ladybird",
-      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 366,
-      "author": "EdwinHoksberg",
-      "created": "2026-06-05 07:26:33",
-      "created_at": 1780644393000
+      "id": 48383667,
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "link": "https://mouseless.click",
+      "score": 102,
+      "author": "riddley",
+      "created": "2026-06-03 13:22:06",
+      "created_at": 1780492926000
     },
     {
       "id": 48409664,
       "title": "Tracing a powerful GNSS interference source over Europe",
       "link": "https://arxiv.org/abs/2606.03673",
-      "score": 86,
+      "score": 217,
       "author": "mimorigasaka",
       "created": "2026-06-05 08:32:16",
       "created_at": 1780648336000
     },
     {
+      "id": 48382047,
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "link": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 92,
+      "author": "ksec",
+      "created": "2026-06-03 10:05:11",
+      "created_at": 1780481111000
+    },
+    {
       "id": 48409675,
       "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
       "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 32,
+      "score": 89,
       "author": "rbanffy",
       "created": "2026-06-05 08:33:37",
       "created_at": 1780648417000
     },
     {
+      "id": 48409191,
+      "title": "Changing how we develop Ladybird",
+      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 548,
+      "author": "EdwinHoksberg",
+      "created": "2026-06-05 07:26:33",
+      "created_at": 1780644393000
+    },
+    {
+      "id": 48408016,
+      "title": "C++: The Documentary",
+      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 240,
+      "author": "ingve",
+      "created": "2026-06-05 04:37:01",
+      "created_at": 1780634221000
+    },
+    {
       "id": 48377510,
       "title": "databow: a Rust CLI to query any database with an ADBC driver",
       "link": "https://columnar.tech/blog/introducing-databow//",
-      "score": 37,
+      "score": 84,
       "author": "hckshr",
       "created": "2026-06-02 23:11:13",
       "created_at": 1780441873000
     },
     {
-      "id": 48406640,
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "link": "https://fb.watch/HxPu0fSyeH/",
-      "score": 235,
-      "author": "jenders",
-      "created": "2026-06-05 00:44:38",
-      "created_at": 1780620278000
-    },
-    {
       "id": 48408442,
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "link": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 83,
+      "score": 126,
       "author": "taubek",
       "created": "2026-06-05 05:46:06",
       "created_at": 1780638366000
@@ -64,37 +82,19 @@
       "id": 48409306,
       "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
       "link": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 44,
+      "score": 79,
       "author": "geotp",
       "created": "2026-06-05 07:40:04",
       "created_at": 1780645204000
     },
     {
-      "id": 48402116,
-      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "link": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "score": 42,
-      "author": "natalcleft",
-      "created": "2026-06-04 17:51:10",
-      "created_at": 1780595470000
-    },
-    {
-      "id": 48403980,
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 442,
-      "author": "binyu",
-      "created": "2026-06-04 20:11:20",
-      "created_at": 1780603880000
-    },
-    {
-      "id": 48409173,
-      "title": "Lee Kuan Yew's Singapore Story",
-      "link": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-      "score": 20,
-      "author": "pepys",
-      "created": "2026-06-05 07:23:44",
-      "created_at": 1780644224000
+      "id": 48406640,
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "link": "https://fb.watch/HxPu0fSyeH/",
+      "score": 260,
+      "author": "jenders",
+      "created": "2026-06-05 00:44:38",
+      "created_at": 1780620278000
     }
   ],
   "code": 200,
