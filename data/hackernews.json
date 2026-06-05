@@ -3,32 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-05T17:46:52.605Z"
+    "lastUpdate": "2026-06-05T21:16:33.983Z"
   },
   "data": [
     {
       "id": 48391611,
       "title": "They’re made out of weights",
       "link": "https://maxleiter.com/blog/weights",
-      "score": 1473,
+      "score": 1477,
       "author": "MaxLeiter",
       "created": "2026-06-03 23:37:18",
       "created_at": 1780529838000
     },
     {
-      "id": 48388324,
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 980,
-      "author": "cloud8421",
-      "created": "2026-06-03 19:02:26",
-      "created_at": 1780513346000
-    },
-    {
       "id": 48405718,
       "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
       "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 870,
+      "score": 905,
       "author": "tristanj",
       "created": "2026-06-04 22:48:19",
       "created_at": 1780613299000
@@ -37,25 +28,16 @@
       "id": 48392004,
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 801,
+      "score": 807,
       "author": "littlexsparkee",
       "created": "2026-06-04 00:18:02",
       "created_at": 1780532282000
     },
     {
-      "id": 48387270,
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 767,
-      "author": "lordleft",
-      "created": "2026-06-03 17:51:37",
-      "created_at": 1780509097000
-    },
-    {
       "id": 48409191,
       "title": "Changing how we develop Ladybird",
       "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 712,
+      "score": 768,
       "author": "EdwinHoksberg",
       "created": "2026-06-05 07:26:33",
       "created_at": 1780644393000
@@ -64,7 +46,7 @@
       "id": 48398055,
       "title": "VoidZero Is Joining Cloudflare",
       "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 660,
+      "score": 664,
       "author": "coloneltcb",
       "created": "2026-06-04 13:00:51",
       "created_at": 1780578051000
@@ -73,7 +55,7 @@
       "id": 48392232,
       "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
       "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "score": 624,
+      "score": 629,
       "author": "rguiscard",
       "created": "2026-06-04 00:44:13",
       "created_at": 1780533853000
@@ -82,7 +64,7 @@
       "id": 48397028,
       "title": "Ian's Secure Shoelace Knot",
       "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 572,
+      "score": 577,
       "author": "mooreds",
       "created": "2026-06-04 11:17:34",
       "created_at": 1780571854000
@@ -91,10 +73,28 @@
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 502,
+      "score": 513,
       "author": "binyu",
       "created": "2026-06-04 20:11:20",
       "created_at": 1780603880000
+    },
+    {
+      "id": 48400842,
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 499,
+      "author": "meetpateltech",
+      "created": "2026-06-04 16:20:17",
+      "created_at": 1780590017000
+    },
+    {
+      "id": 48397233,
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "score": 447,
+      "author": "fidotron",
+      "created": "2026-06-04 11:39:28",
+      "created_at": 1780573168000
     }
   ],
   "code": 200,

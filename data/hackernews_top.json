@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-05T17:46:52.767Z"
+    "lastUpdate": "2026-06-05T21:16:34.078Z"
   },
   "data": [
     {
       "id": 48413464,
-      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 196,
+      "score": 308,
       "author": "janpot",
       "created": "2026-06-05 15:00:31",
       "created_at": 1780671631000
@@ -19,7 +19,7 @@
       "id": 48414367,
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "link": "https://github.com/microsoft/pg_durable",
-      "score": 113,
+      "score": 229,
       "author": "coffeemug",
       "created": "2026-06-05 15:59:57",
       "created_at": 1780675197000
@@ -28,73 +28,73 @@
       "id": 48414653,
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 35,
+      "score": 186,
       "author": "theanonymousone",
       "created": "2026-06-05 16:18:48",
       "created_at": 1780676328000
     },
     {
-      "id": 48383667,
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "link": "https://mouseless.click",
-      "score": 293,
-      "author": "riddley",
-      "created": "2026-06-03 13:22:06",
-      "created_at": 1780492926000
+      "id": 48416845,
+      "title": "Three of our worst VC stories",
+      "link": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "score": 81,
+      "author": "orgonon",
+      "created": "2026-06-05 19:08:12",
+      "created_at": 1780686492000
     },
     {
-      "id": 48413072,
-      "title": "I tested every IP KVM in my Homelab",
-      "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "score": 109,
-      "author": "vquemener",
-      "created": "2026-06-05 14:30:50",
-      "created_at": 1780669850000
-    },
-    {
-      "id": 48415279,
-      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
-      "link": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
-      "score": 13,
-      "author": "ChrisArchitect",
-      "created": "2026-06-05 17:00:06",
-      "created_at": 1780678806000
-    },
-    {
-      "id": 48380174,
-      "title": "Cooldown Support for Ruby Bundler",
-      "link": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 100,
-      "author": "calyhre",
-      "created": "2026-06-03 05:15:09",
-      "created_at": 1780463709000
-    },
-    {
-      "id": 48414978,
-      "title": "Mantine-datatable (and others) compromised – owner account suspended",
-      "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "score": 20,
-      "author": "justsomehuman",
-      "created": "2026-06-05 16:39:57",
-      "created_at": 1780677597000
-    },
-    {
-      "id": 48414869,
-      "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
-      "link": "",
-      "score": 12,
-      "author": "guanming0717",
-      "created": "2026-06-05 16:33:00",
-      "created_at": 1780677180000
+      "id": 48398925,
+      "title": "My Agent Skill for Test-Driven Development",
+      "link": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "score": 69,
+      "author": "laxmena",
+      "created": "2026-06-04 14:10:40",
+      "created_at": 1780582240000
     },
     {
       "id": 48413500,
       "title": "New method turns ocean water into drinking water, without waste",
       "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 24,
+      "score": 140,
       "author": "speckx",
       "created": "2026-06-05 15:04:03",
       "created_at": 1780671843000
+    },
+    {
+      "id": 48383667,
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "link": "https://mouseless.click",
+      "score": 382,
+      "author": "riddley",
+      "created": "2026-06-03 13:22:06",
+      "created_at": 1780492926000
+    },
+    {
+      "id": 48417916,
+      "title": "Hacker News, Sans AI",
+      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+      "score": 12,
+      "author": "chilipepperhott",
+      "created": "2026-06-05 20:38:40",
+      "created_at": 1780691920000
+    },
+    {
+      "id": 48415217,
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 207,
+      "author": "toomuchtodo",
+      "created": "2026-06-05 16:55:30",
+      "created_at": 1780678530000
+    },
+    {
+      "id": 48416635,
+      "title": "Transformers Are Inherently Succinct",
+      "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "score": 37,
+      "author": "brandonb",
+      "created": "2026-06-05 18:50:26",
+      "created_at": 1780685426000
     }
   ],
   "code": 200,
