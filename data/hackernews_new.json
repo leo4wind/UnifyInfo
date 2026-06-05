@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-05T14:23:40.273Z"
+    "lastUpdate": "2026-06-05T17:46:52.864Z"
   },
   "data": [
+    {
+      "id": 48413464,
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 196,
+      "author": "janpot",
+      "created": "2026-06-05 15:00:31",
+      "created_at": 1780671631000
+    },
+    {
+      "id": 48414367,
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "link": "https://github.com/microsoft/pg_durable",
+      "score": 113,
+      "author": "coffeemug",
+      "created": "2026-06-05 15:59:57",
+      "created_at": 1780675197000
+    },
+    {
+      "id": 48414653,
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 35,
+      "author": "theanonymousone",
+      "created": "2026-06-05 16:18:48",
+      "created_at": 1780676328000
+    },
     {
       "id": 48383667,
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "link": "https://mouseless.click",
-      "score": 102,
+      "score": 293,
       "author": "riddley",
       "created": "2026-06-03 13:22:06",
       "created_at": 1780492926000
     },
     {
-      "id": 48409664,
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "link": "https://arxiv.org/abs/2606.03673",
-      "score": 217,
-      "author": "mimorigasaka",
-      "created": "2026-06-05 08:32:16",
-      "created_at": 1780648336000
+      "id": 48413072,
+      "title": "I tested every IP KVM in my Homelab",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 109,
+      "author": "vquemener",
+      "created": "2026-06-05 14:30:50",
+      "created_at": 1780669850000
     },
     {
-      "id": 48382047,
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "link": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 92,
-      "author": "ksec",
-      "created": "2026-06-03 10:05:11",
-      "created_at": 1780481111000
+      "id": 48415279,
+      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
+      "link": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
+      "score": 13,
+      "author": "ChrisArchitect",
+      "created": "2026-06-05 17:00:06",
+      "created_at": 1780678806000
     },
     {
-      "id": 48409675,
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 89,
-      "author": "rbanffy",
-      "created": "2026-06-05 08:33:37",
-      "created_at": 1780648417000
+      "id": 48380174,
+      "title": "Cooldown Support for Ruby Bundler",
+      "link": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "score": 100,
+      "author": "calyhre",
+      "created": "2026-06-03 05:15:09",
+      "created_at": 1780463709000
     },
     {
-      "id": 48409191,
-      "title": "Changing how we develop Ladybird",
-      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 548,
-      "author": "EdwinHoksberg",
-      "created": "2026-06-05 07:26:33",
-      "created_at": 1780644393000
+      "id": 48414978,
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "score": 20,
+      "author": "justsomehuman",
+      "created": "2026-06-05 16:39:57",
+      "created_at": 1780677597000
     },
     {
-      "id": 48408016,
-      "title": "C++: The Documentary",
-      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 240,
-      "author": "ingve",
-      "created": "2026-06-05 04:37:01",
-      "created_at": 1780634221000
+      "id": 48414869,
+      "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "link": "",
+      "score": 12,
+      "author": "guanming0717",
+      "created": "2026-06-05 16:33:00",
+      "created_at": 1780677180000
     },
     {
-      "id": 48377510,
-      "title": "databow: a Rust CLI to query any database with an ADBC driver",
-      "link": "https://columnar.tech/blog/introducing-databow//",
-      "score": 84,
-      "author": "hckshr",
-      "created": "2026-06-02 23:11:13",
-      "created_at": 1780441873000
-    },
-    {
-      "id": 48408442,
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "link": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 126,
-      "author": "taubek",
-      "created": "2026-06-05 05:46:06",
-      "created_at": 1780638366000
-    },
-    {
-      "id": 48409306,
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "link": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 79,
-      "author": "geotp",
-      "created": "2026-06-05 07:40:04",
-      "created_at": 1780645204000
-    },
-    {
-      "id": 48406640,
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "link": "https://fb.watch/HxPu0fSyeH/",
-      "score": 260,
-      "author": "jenders",
-      "created": "2026-06-05 00:44:38",
-      "created_at": 1780620278000
+      "id": 48413500,
+      "title": "New method turns ocean water into drinking water, without waste",
+      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 24,
+      "author": "speckx",
+      "created": "2026-06-05 15:04:03",
+      "created_at": 1780671843000
     }
   ],
   "code": 200,
