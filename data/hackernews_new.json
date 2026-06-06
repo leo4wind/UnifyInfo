@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-06T13:06:26.751Z"
+    "lastUpdate": "2026-06-06T16:58:41.602Z"
   },
   "data": [
     {
-      "id": 48389360,
-      "title": "How LLMs work",
-      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 460,
-      "author": "0xkato",
-      "created": "2026-06-03 20:15:13",
-      "created_at": 1780517713000
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 112,
+      "author": "jwilk",
+      "created": "2026-06-06 14:34:20",
+      "created_at": 1780756460000
     },
     {
-      "id": 48421442,
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 705,
-      "author": "maltalex",
-      "created": "2026-06-06 04:38:36",
-      "created_at": 1780720716000
+      "id": 48425247,
+      "title": "Benchmarks in Leipzig",
+      "link": "https://arxiv.org/abs/2606.05818",
+      "score": 66,
+      "author": "root-parent",
+      "created": "2026-06-06 14:00:52",
+      "created_at": 1780754452000
     },
     {
-      "id": 48420148,
-      "title": "The intracies of modern camera lens repair (2024)",
-      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 192,
-      "author": "transistor-man",
-      "created": "2026-06-06 00:33:26",
-      "created_at": 1780706006000
+      "id": 48424605,
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "link": "https://twitter.com/lemire/status/2062880075117113739",
+      "score": 68,
+      "author": "tosh",
+      "created": "2026-06-06 12:52:18",
+      "created_at": 1780750338000
+    },
+    {
+      "id": 48425723,
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "link": "https://su3.io/posts/introducing-zeroserve",
+      "score": 11,
+      "author": "losfair",
+      "created": "2026-06-06 14:59:43",
+      "created_at": 1780757983000
     },
     {
       "id": 48423990,
       "title": "Google will pay SpaceX $920M per month for compute",
       "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 69,
+      "score": 197,
       "author": "ramanan",
       "created": "2026-06-06 11:46:15",
       "created_at": 1780746375000
     },
     {
-      "id": 48424125,
-      "title": "The new bibliomaniacs",
-      "link": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "score": 4,
-      "author": "RickJWagner",
-      "created": "2026-06-06 12:03:21",
-      "created_at": 1780747401000
+      "id": 48389360,
+      "title": "How LLMs work",
+      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "score": 659,
+      "author": "0xkato",
+      "created": "2026-06-03 20:15:13",
+      "created_at": 1780517713000
     },
     {
-      "id": 48423615,
-      "title": "Introduction – Rust for Python Programmers",
-      "link": "https://microsoft.github.io/RustTraining/python-book/",
-      "score": 23,
-      "author": "linhns",
-      "created": "2026-06-06 10:52:25",
-      "created_at": 1780743145000
+      "id": 48423762,
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "link": "https://pokeemerald.com/",
+      "score": 122,
+      "author": "tripplyons",
+      "created": "2026-06-06 11:12:58",
+      "created_at": 1780744378000
     },
     {
-      "id": 48421171,
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 105,
-      "author": "gostsamo",
-      "created": "2026-06-06 03:41:32",
-      "created_at": 1780717292000
+      "id": 48425347,
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "score": 20,
+      "author": "theanonymousone",
+      "created": "2026-06-06 14:15:32",
+      "created_at": 1780755332000
     },
     {
-      "id": 48413500,
-      "title": "New method turns ocean water into drinking water, without waste",
-      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 413,
-      "author": "speckx",
-      "created": "2026-06-05 15:04:03",
-      "created_at": 1780671843000
+      "id": 48348876,
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "link": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "score": 43,
+      "author": "Sagi21805",
+      "created": "2026-05-31 19:28:49",
+      "created_at": 1780255729000
     },
     {
-      "id": 48369864,
-      "title": "Social Cache Busting",
-      "link": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 64,
-      "author": "surprisetalk",
-      "created": "2026-06-02 13:15:18",
-      "created_at": 1780406118000
+      "id": 48426022,
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "link": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "score": 41,
+      "author": "nmstoker",
+      "created": "2026-06-06 15:35:49",
+      "created_at": 1780760149000
     }
   ],
   "code": 200,
