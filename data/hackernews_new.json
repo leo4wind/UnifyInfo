@@ -3,14 +3,23 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-05T21:16:34.105Z"
+    "lastUpdate": "2026-06-06T02:05:37.674Z"
   },
   "data": [
+    {
+      "id": 48420148,
+      "title": "The intracies of modern camera lens repair (2024)",
+      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "score": 43,
+      "author": "transistor-man",
+      "created": "2026-06-06 00:33:26",
+      "created_at": 1780706006000
+    },
     {
       "id": 48413464,
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 308,
+      "score": 360,
       "author": "janpot",
       "created": "2026-06-05 15:00:31",
       "created_at": 1780671631000
@@ -19,43 +28,34 @@
       "id": 48414367,
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "link": "https://github.com/microsoft/pg_durable",
-      "score": 229,
+      "score": 328,
       "author": "coffeemug",
       "created": "2026-06-05 15:59:57",
       "created_at": 1780675197000
     },
     {
+      "id": 48420494,
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "link": "https://classic100.gotski.workers.dev/",
+      "score": 11,
+      "author": "gotski",
+      "created": "2026-06-06 01:32:09",
+      "created_at": 1780709529000
+    },
+    {
       "id": 48414653,
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 186,
+      "score": 271,
       "author": "theanonymousone",
       "created": "2026-06-05 16:18:48",
       "created_at": 1780676328000
     },
     {
-      "id": 48416845,
-      "title": "Three of our worst VC stories",
-      "link": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "score": 81,
-      "author": "orgonon",
-      "created": "2026-06-05 19:08:12",
-      "created_at": 1780686492000
-    },
-    {
-      "id": 48398925,
-      "title": "My Agent Skill for Test-Driven Development",
-      "link": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 69,
-      "author": "laxmena",
-      "created": "2026-06-04 14:10:40",
-      "created_at": 1780582240000
-    },
-    {
       "id": 48413500,
       "title": "New method turns ocean water into drinking water, without waste",
       "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 140,
+      "score": 258,
       "author": "speckx",
       "created": "2026-06-05 15:04:03",
       "created_at": 1780671843000
@@ -64,37 +64,37 @@
       "id": 48383667,
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "link": "https://mouseless.click",
-      "score": 382,
+      "score": 455,
       "author": "riddley",
       "created": "2026-06-03 13:22:06",
       "created_at": 1780492926000
     },
     {
-      "id": 48417916,
-      "title": "Hacker News, Sans AI",
-      "link": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-      "score": 12,
-      "author": "chilipepperhott",
-      "created": "2026-06-05 20:38:40",
-      "created_at": 1780691920000
+      "id": 48411635,
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 307,
+      "author": "logicprog",
+      "created": "2026-06-05 12:43:33",
+      "created_at": 1780663413000
+    },
+    {
+      "id": 48398925,
+      "title": "My Agent Skill for Test-Driven Development",
+      "link": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "score": 133,
+      "author": "laxmena",
+      "created": "2026-06-04 14:10:40",
+      "created_at": 1780582240000
     },
     {
       "id": 48415217,
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 207,
+      "score": 359,
       "author": "toomuchtodo",
       "created": "2026-06-05 16:55:30",
       "created_at": 1780678530000
-    },
-    {
-      "id": 48416635,
-      "title": "Transformers Are Inherently Succinct",
-      "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "score": 37,
-      "author": "brandonb",
-      "created": "2026-06-05 18:50:26",
-      "created_at": 1780685426000
     }
   ],
   "code": 200,
