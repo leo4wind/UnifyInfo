@@ -3,77 +3,86 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-06T06:45:50.100Z"
+    "lastUpdate": "2026-06-06T09:52:52.293Z"
   },
   "data": [
+    {
+      "id": 48422798,
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "score": 103,
+      "author": "Cider9986",
+      "created": "2026-06-06 08:43:59",
+      "created_at": 1780735439000
+    },
+    {
+      "id": 48422769,
+      "title": "Zig Zen Update",
+      "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+      "score": 24,
+      "author": "tosh",
+      "created": "2026-06-06 08:38:44",
+      "created_at": 1780735124000
+    },
     {
       "id": 48389360,
       "title": "How LLMs work",
       "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 173,
+      "score": 357,
       "author": "0xkato",
       "created": "2026-06-03 20:15:13",
       "created_at": 1780517713000
     },
     {
-      "id": 48421171,
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 41,
-      "author": "gostsamo",
-      "created": "2026-06-06 03:41:32",
-      "created_at": 1780717292000
-    },
-    {
       "id": 48420148,
       "title": "The intracies of modern camera lens repair (2024)",
       "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 138,
+      "score": 169,
       "author": "transistor-man",
       "created": "2026-06-06 00:33:26",
       "created_at": 1780706006000
     },
     {
-      "id": 48421079,
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "score": 66,
-      "author": "paulmooreparks",
-      "created": "2026-06-06 03:23:47",
-      "created_at": 1780716227000
-    },
-    {
       "id": 48421442,
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 160,
+      "score": 444,
       "author": "maltalex",
       "created": "2026-06-06 04:38:36",
       "created_at": 1780720716000
     },
     {
-      "id": 48380932,
-      "title": "Ten Years of Franz",
-      "link": "https://meetfranz.com/blog/ten-years-of-franz",
-      "score": 14,
-      "author": "tosh",
-      "created": "2026-06-03 07:17:30",
-      "created_at": 1780471050000
+      "id": 48421171,
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "score": 73,
+      "author": "gostsamo",
+      "created": "2026-06-06 03:41:32",
+      "created_at": 1780717292000
     },
     {
-      "id": 48421145,
-      "title": "Lockdown Mode",
-      "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "score": 41,
-      "author": "berlianta",
-      "created": "2026-06-06 03:36:15",
-      "created_at": 1780716975000
+      "id": 48369864,
+      "title": "Social Cache Busting",
+      "link": "https://www.autodidacts.io/social-cache-busting/",
+      "score": 33,
+      "author": "surprisetalk",
+      "created": "2026-06-02 13:15:18",
+      "created_at": 1780406118000
+    },
+    {
+      "id": 48413500,
+      "title": "New method turns ocean water into drinking water, without waste",
+      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 370,
+      "author": "speckx",
+      "created": "2026-06-05 15:04:03",
+      "created_at": 1780671843000
     },
     {
       "id": 48413464,
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 378,
+      "score": 395,
       "author": "janpot",
       "created": "2026-06-05 15:00:31",
       "created_at": 1780671631000
@@ -82,19 +91,10 @@
       "id": 48414367,
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "link": "https://github.com/microsoft/pg_durable",
-      "score": 378,
+      "score": 398,
       "author": "coffeemug",
       "created": "2026-06-05 15:59:57",
       "created_at": 1780675197000
-    },
-    {
-      "id": 48413500,
-      "title": "New method turns ocean water into drinking water, without waste",
-      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 328,
-      "author": "speckx",
-      "created": "2026-06-05 15:04:03",
-      "created_at": 1780671843000
     }
   ],
   "code": 200,

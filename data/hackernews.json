@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-06T06:45:49.994Z"
+    "lastUpdate": "2026-06-06T09:52:52.022Z"
   },
   "data": [
     {
       "id": 48405718,
       "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
       "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 978,
+      "score": 994,
       "author": "tristanj",
       "created": "2026-06-04 22:48:19",
       "created_at": 1780613299000
@@ -19,7 +19,7 @@
       "id": 48409191,
       "title": "Changing how we develop Ladybird",
       "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 828,
+      "score": 836,
       "author": "EdwinHoksberg",
       "created": "2026-06-05 07:26:33",
       "created_at": 1780644393000
@@ -28,7 +28,7 @@
       "id": 48398055,
       "title": "VoidZero Is Joining Cloudflare",
       "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 673,
+      "score": 674,
       "author": "coloneltcb",
       "created": "2026-06-04 13:00:51",
       "created_at": 1780578051000
@@ -46,7 +46,7 @@
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 522,
+      "score": 523,
       "author": "binyu",
       "created": "2026-06-04 20:11:20",
       "created_at": 1780603880000
@@ -55,7 +55,7 @@
       "id": 48400842,
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 509,
+      "score": 510,
       "author": "meetpateltech",
       "created": "2026-06-04 16:20:17",
       "created_at": 1780590017000
@@ -64,7 +64,7 @@
       "id": 48397233,
       "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
       "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "score": 452,
+      "score": 453,
       "author": "fidotron",
       "created": "2026-06-04 11:39:28",
       "created_at": 1780573168000
@@ -73,28 +73,28 @@
       "id": 48415217,
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 408,
+      "score": 450,
       "author": "toomuchtodo",
       "created": "2026-06-05 16:55:30",
       "created_at": 1780678530000
     },
     {
-      "id": 48399332,
-      "title": "Wind and solar generated more power than gas globally in April 2026",
-      "link": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "score": 399,
-      "author": "speckx",
-      "created": "2026-06-04 14:36:39",
-      "created_at": 1780583799000
+      "id": 48421442,
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 444,
+      "author": "maltalex",
+      "created": "2026-06-06 04:38:36",
+      "created_at": 1780720716000
     },
     {
-      "id": 48408016,
-      "title": "C++: The Documentary",
-      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 391,
-      "author": "ingve",
-      "created": "2026-06-05 04:37:01",
-      "created_at": 1780634221000
+      "id": 48411635,
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 410,
+      "author": "logicprog",
+      "created": "2026-06-05 12:43:33",
+      "created_at": 1780663413000
     }
   ],
   "code": 200,
