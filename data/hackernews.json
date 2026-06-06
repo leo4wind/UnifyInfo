@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-06T02:05:37.472Z"
+    "lastUpdate": "2026-06-06T06:45:49.994Z"
   },
   "data": [
     {
       "id": 48405718,
       "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
       "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 933,
+      "score": 978,
       "author": "tristanj",
       "created": "2026-06-04 22:48:19",
       "created_at": 1780613299000
@@ -19,7 +19,7 @@
       "id": 48409191,
       "title": "Changing how we develop Ladybird",
       "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 814,
+      "score": 828,
       "author": "EdwinHoksberg",
       "created": "2026-06-05 07:26:33",
       "created_at": 1780644393000
@@ -28,7 +28,7 @@
       "id": 48398055,
       "title": "VoidZero Is Joining Cloudflare",
       "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 671,
+      "score": 673,
       "author": "coloneltcb",
       "created": "2026-06-04 13:00:51",
       "created_at": 1780578051000
@@ -37,7 +37,7 @@
       "id": 48397028,
       "title": "Ian's Secure Shoelace Knot",
       "link": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 582,
+      "score": 586,
       "author": "mooreds",
       "created": "2026-06-04 11:17:34",
       "created_at": 1780571854000
@@ -46,7 +46,7 @@
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 519,
+      "score": 522,
       "author": "binyu",
       "created": "2026-06-04 20:11:20",
       "created_at": 1780603880000
@@ -55,7 +55,7 @@
       "id": 48400842,
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 504,
+      "score": 509,
       "author": "meetpateltech",
       "created": "2026-06-04 16:20:17",
       "created_at": 1780590017000
@@ -64,37 +64,37 @@
       "id": 48397233,
       "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
       "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "score": 451,
+      "score": 452,
       "author": "fidotron",
       "created": "2026-06-04 11:39:28",
       "created_at": 1780573168000
     },
     {
+      "id": 48415217,
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 408,
+      "author": "toomuchtodo",
+      "created": "2026-06-05 16:55:30",
+      "created_at": 1780678530000
+    },
+    {
       "id": 48399332,
       "title": "Wind and solar generated more power than gas globally in April 2026",
       "link": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "score": 398,
+      "score": 399,
       "author": "speckx",
       "created": "2026-06-04 14:36:39",
       "created_at": 1780583799000
     },
     {
-      "id": 48401965,
-      "title": "The desperation of NYTimes",
-      "link": "https://rozumem.xyz/posts/16",
-      "score": 384,
-      "author": "rozumem",
-      "created": "2026-06-04 17:39:13",
-      "created_at": 1780594753000
-    },
-    {
-      "id": 48395938,
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "score": 377,
-      "author": "XzetaU8",
-      "created": "2026-06-04 08:45:36",
-      "created_at": 1780562736000
+      "id": 48408016,
+      "title": "C++: The Documentary",
+      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 391,
+      "author": "ingve",
+      "created": "2026-06-05 04:37:01",
+      "created_at": 1780634221000
     }
   ],
   "code": 200,
