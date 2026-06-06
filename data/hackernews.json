@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-06T16:58:41.037Z"
+    "lastUpdate": "2026-06-06T20:53:38.966Z"
   },
   "data": [
     {
       "id": 48421442,
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1051,
+      "score": 1256,
       "author": "maltalex",
       "created": "2026-06-06 04:38:36",
       "created_at": 1780720716000
@@ -19,7 +19,7 @@
       "id": 48405718,
       "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
       "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 1027,
+      "score": 1036,
       "author": "tristanj",
       "created": "2026-06-04 22:48:19",
       "created_at": 1780613299000
@@ -28,7 +28,7 @@
       "id": 48409191,
       "title": "Changing how we develop Ladybird",
       "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 848,
+      "score": 858,
       "author": "EdwinHoksberg",
       "created": "2026-06-05 07:26:33",
       "created_at": 1780644393000
@@ -37,7 +37,7 @@
       "id": 48415217,
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 540,
+      "score": 546,
       "author": "toomuchtodo",
       "created": "2026-06-05 16:55:30",
       "created_at": 1780678530000
@@ -46,43 +46,34 @@
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 530,
+      "score": 532,
       "author": "binyu",
       "created": "2026-06-04 20:11:20",
       "created_at": 1780603880000
     },
     {
-      "id": 48400842,
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 516,
-      "author": "meetpateltech",
-      "created": "2026-06-04 16:20:17",
-      "created_at": 1780590017000
-    },
-    {
-      "id": 48411635,
-      "title": "Did Claude increase bugs in rsync?",
-      "link": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 482,
-      "author": "logicprog",
-      "created": "2026-06-05 12:43:33",
-      "created_at": 1780663413000
-    },
-    {
       "id": 48406174,
       "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
       "link": "",
-      "score": 461,
+      "score": 506,
       "author": "andrehacker",
       "created": "2026-06-04 23:42:20",
       "created_at": 1780616540000
     },
     {
+      "id": 48411635,
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 492,
+      "author": "logicprog",
+      "created": "2026-06-05 12:43:33",
+      "created_at": 1780663413000
+    },
+    {
       "id": 48413500,
       "title": "New method turns ocean water into drinking water, without waste",
       "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 457,
+      "score": 486,
       "author": "speckx",
       "created": "2026-06-05 15:04:03",
       "created_at": 1780671843000
@@ -91,10 +82,19 @@
       "id": 48414367,
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "link": "https://github.com/microsoft/pg_durable",
-      "score": 442,
+      "score": 457,
       "author": "coffeemug",
       "created": "2026-06-05 15:59:57",
       "created_at": 1780675197000
+    },
+    {
+      "id": 48422798,
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "score": 433,
+      "author": "Cider9986",
+      "created": "2026-06-06 08:43:59",
+      "created_at": 1780735439000
     }
   ],
   "code": 200,
