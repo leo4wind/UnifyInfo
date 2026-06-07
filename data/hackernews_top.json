@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-07T10:20:48.007Z"
+    "lastUpdate": "2026-06-07T13:19:46.703Z"
   },
   "data": [
+    {
+      "id": 48434312,
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 87,
+      "author": "poisonfountain",
+      "created": "2026-06-07 12:49:29",
+      "created_at": 1780836569000
+    },
     {
       "id": 48432199,
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "link": "https://www.ioccc.org/2025/",
-      "score": 165,
+      "score": 244,
       "author": "matt_d",
       "created": "2026-06-07 05:47:54",
       "created_at": 1780811274000
     },
     {
-      "id": 48400151,
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 38,
-      "author": "kkm",
-      "created": "2026-06-04 15:29:53",
-      "created_at": 1780586993000
-    },
-    {
-      "id": 48431461,
-      "title": "Valve P2P networking broken for more than 2 months",
-      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 167,
-      "author": "babuskov",
-      "created": "2026-06-07 03:21:52",
-      "created_at": 1780802512000
-    },
-    {
       "id": 48410844,
       "title": "Win16 Memory Management",
       "link": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 24,
+      "score": 67,
       "author": "supermatou",
       "created": "2026-06-05 11:16:47",
       "created_at": 1780658207000
     },
     {
-      "id": 48431981,
-      "title": "I design with Claude more than Figma now",
-      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 164,
-      "author": "MrBuddyCasino",
-      "created": "2026-06-07 05:04:24",
-      "created_at": 1780808664000
+      "id": 48406530,
+      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "link": "https://yon-lang.org/",
+      "score": 11,
+      "author": "amenn",
+      "created": "2026-06-05 00:28:17",
+      "created_at": 1780619297000
     },
     {
-      "id": 48431286,
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 86,
-      "author": "gscott",
-      "created": "2026-06-07 02:46:37",
-      "created_at": 1780800397000
+      "id": 48400151,
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 81,
+      "author": "kkm",
+      "created": "2026-06-04 15:29:53",
+      "created_at": 1780586993000
     },
     {
-      "id": 48430923,
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "link": "https://arxiv.org/abs/2601.14470",
-      "score": 107,
-      "author": "Anon84",
-      "created": "2026-06-07 01:37:11",
-      "created_at": 1780796231000
+      "id": 48398703,
+      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "link": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "score": 22,
+      "author": "ChrisGammell",
+      "created": "2026-06-04 13:55:39",
+      "created_at": 1780581339000
+    },
+    {
+      "id": 48431461,
+      "title": "Valve P2P networking broken for more than 2 months",
+      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 209,
+      "author": "babuskov",
+      "created": "2026-06-07 03:21:52",
+      "created_at": 1780802512000
     },
     {
       "id": 48389368,
       "title": "My Software North Star",
       "link": "https://kristoff.it/blog/north-star/",
-      "score": 75,
+      "score": 124,
       "author": "kristoff_it",
       "created": "2026-06-03 20:16:07",
       "created_at": 1780517767000
     },
     {
-      "id": 48428025,
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "link": "https://ntsc.rs/",
-      "score": 348,
-      "author": "gregsadetsky",
-      "created": "2026-06-06 19:17:46",
-      "created_at": 1780773466000
-    },
-    {
-      "id": 48415457,
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "link": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 89,
-      "author": "mmastrac",
-      "created": "2026-06-05 17:13:59",
-      "created_at": 1780679639000
+      "id": 48433410,
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "score": 180,
+      "author": "BerislavLopac",
+      "created": "2026-06-07 10:10:33",
+      "created_at": 1780827033000
     }
   ],
   "code": 200,
