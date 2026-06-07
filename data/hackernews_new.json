@@ -3,14 +3,41 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-07T13:19:46.856Z"
+    "lastUpdate": "2026-06-07T17:04:19.052Z"
   },
   "data": [
+    {
+      "id": 48435584,
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "score": 85,
+      "author": "supermatou",
+      "created": "2026-06-07 15:08:10",
+      "created_at": 1780844890000
+    },
+    {
+      "id": 48436542,
+      "title": "Ripping a DVD, a federal crime in 1999, requires $22 and free software in 2026",
+      "link": "https://ringmast4r.substack.com/p/in-1999-this-was-a-federal-crime",
+      "score": 11,
+      "author": "akkartik",
+      "created": "2026-06-07 16:48:25",
+      "created_at": 1780850905000
+    },
+    {
+      "id": 48427480,
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "link": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "score": 24,
+      "author": "zdw",
+      "created": "2026-06-06 18:16:40",
+      "created_at": 1780769800000
+    },
     {
       "id": 48434312,
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 87,
+      "score": 522,
       "author": "poisonfountain",
       "created": "2026-06-07 12:49:29",
       "created_at": 1780836569000
@@ -19,73 +46,46 @@
       "id": 48432199,
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "link": "https://www.ioccc.org/2025/",
-      "score": 244,
+      "score": 297,
       "author": "matt_d",
       "created": "2026-06-07 05:47:54",
       "created_at": 1780811274000
     },
     {
+      "id": 48434963,
+      "title": "Podman 6: machine usability improvements",
+      "link": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "score": 40,
+      "author": "daesorin",
+      "created": "2026-06-07 14:01:27",
+      "created_at": 1780840887000
+    },
+    {
+      "id": 48434436,
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "link": "https://github.com/anthropics/claude-code/issues/65697",
+      "score": 235,
+      "author": "predkambrij",
+      "created": "2026-06-07 13:06:52",
+      "created_at": 1780837612000
+    },
+    {
+      "id": 48433756,
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "link": "https://github.com/devenjarvis/lathe",
+      "score": 94,
+      "author": "devenjarvis",
+      "created": "2026-06-07 11:16:46",
+      "created_at": 1780831006000
+    },
+    {
       "id": 48410844,
       "title": "Win16 Memory Management",
       "link": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 67,
+      "score": 104,
       "author": "supermatou",
       "created": "2026-06-05 11:16:47",
       "created_at": 1780658207000
-    },
-    {
-      "id": 48406530,
-      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "link": "https://yon-lang.org/",
-      "score": 11,
-      "author": "amenn",
-      "created": "2026-06-05 00:28:17",
-      "created_at": 1780619297000
-    },
-    {
-      "id": 48400151,
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 81,
-      "author": "kkm",
-      "created": "2026-06-04 15:29:53",
-      "created_at": 1780586993000
-    },
-    {
-      "id": 48398703,
-      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "link": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-      "score": 22,
-      "author": "ChrisGammell",
-      "created": "2026-06-04 13:55:39",
-      "created_at": 1780581339000
-    },
-    {
-      "id": 48431461,
-      "title": "Valve P2P networking broken for more than 2 months",
-      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 209,
-      "author": "babuskov",
-      "created": "2026-06-07 03:21:52",
-      "created_at": 1780802512000
-    },
-    {
-      "id": 48389368,
-      "title": "My Software North Star",
-      "link": "https://kristoff.it/blog/north-star/",
-      "score": 124,
-      "author": "kristoff_it",
-      "created": "2026-06-03 20:16:07",
-      "created_at": 1780517767000
-    },
-    {
-      "id": 48433410,
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "score": 180,
-      "author": "BerislavLopac",
-      "created": "2026-06-07 10:10:33",
-      "created_at": 1780827033000
     }
   ],
   "code": 200,

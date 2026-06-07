@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-07T13:19:46.469Z"
+    "lastUpdate": "2026-06-07T17:04:18.548Z"
   },
   "data": [
     {
       "id": 48421442,
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1419,
+      "score": 1434,
       "author": "maltalex",
       "created": "2026-06-06 04:38:36",
       "created_at": 1780720716000
@@ -19,7 +19,7 @@
       "id": 48427643,
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 637,
+      "score": 657,
       "author": "speckx",
       "created": "2026-06-06 18:35:27",
       "created_at": 1780770927000
@@ -28,7 +28,7 @@
       "id": 48415217,
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 569,
+      "score": 574,
       "author": "toomuchtodo",
       "created": "2026-06-05 16:55:30",
       "created_at": 1780678530000
@@ -37,37 +37,19 @@
       "id": 48427523,
       "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
       "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "score": 541,
+      "score": 561,
       "author": "MilnerRoute",
       "created": "2026-06-06 18:21:06",
       "created_at": 1780770066000
     },
     {
-      "id": 48413500,
-      "title": "New method turns ocean water into drinking water, without waste",
-      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 507,
-      "author": "speckx",
-      "created": "2026-06-05 15:04:03",
-      "created_at": 1780671843000
-    },
-    {
-      "id": 48411635,
-      "title": "Did Claude increase bugs in rsync?",
-      "link": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 502,
-      "author": "logicprog",
-      "created": "2026-06-05 12:43:33",
-      "created_at": 1780663413000
-    },
-    {
-      "id": 48414367,
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "link": "https://github.com/microsoft/pg_durable",
-      "score": 464,
-      "author": "coffeemug",
-      "created": "2026-06-05 15:59:57",
-      "created_at": 1780675197000
+      "id": 48434312,
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 522,
+      "author": "poisonfountain",
+      "created": "2026-06-07 12:49:29",
+      "created_at": 1780836569000
     },
     {
       "id": 48422798,
@@ -82,19 +64,37 @@
       "id": 48420827,
       "title": "Ask HN: Why is the HN crowd so anti-AI?",
       "link": "",
-      "score": 420,
+      "score": 433,
       "author": "Ekami",
       "created": "2026-06-06 02:31:51",
       "created_at": 1780713111000
     },
     {
-      "id": 48413464,
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 417,
-      "author": "janpot",
-      "created": "2026-06-05 15:00:31",
-      "created_at": 1780671631000
+      "id": 48423990,
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "score": 410,
+      "author": "ramanan",
+      "created": "2026-06-06 11:46:15",
+      "created_at": 1780746375000
+    },
+    {
+      "id": 48414653,
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 398,
+      "author": "theanonymousone",
+      "created": "2026-06-05 16:18:48",
+      "created_at": 1780676328000
+    },
+    {
+      "id": 48428025,
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "link": "https://ntsc.rs/",
+      "score": 386,
+      "author": "gregsadetsky",
+      "created": "2026-06-06 19:17:46",
+      "created_at": 1780773466000
     }
   ],
   "code": 200,
