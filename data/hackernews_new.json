@@ -3,100 +3,100 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-06T20:53:39.329Z"
+    "lastUpdate": "2026-06-07T02:33:13.678Z"
   },
   "data": [
+    {
+      "id": 48430860,
+      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+      "link": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "score": 35,
+      "author": "pkaeding",
+      "created": "2026-06-07 01:24:15",
+      "created_at": 1780795455000
+    },
     {
       "id": 48428025,
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "link": "https://ntsc.rs/",
-      "score": 86,
+      "score": 279,
       "author": "gregsadetsky",
       "created": "2026-06-06 19:17:46",
       "created_at": 1780773466000
     },
     {
-      "id": 48425723,
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "link": "https://su3.io/posts/introducing-zeroserve",
-      "score": 129,
-      "author": "losfair",
-      "created": "2026-06-06 14:59:43",
-      "created_at": 1780757983000
+      "id": 48416264,
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "link": "https://openai.com/index/harness-engineering/",
+      "score": 78,
+      "author": "pramodbiligiri",
+      "created": "2026-06-05 18:20:06",
+      "created_at": 1780683606000
+    },
+    {
+      "id": 48430539,
+      "title": "Public Domain Image Archive",
+      "link": "https://pdimagearchive.org/",
+      "score": 28,
+      "author": "davidbarker",
+      "created": "2026-06-07 00:22:51",
+      "created_at": 1780791771000
+    },
+    {
+      "id": 48405815,
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "link": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "score": 39,
+      "author": "crescit_eundo",
+      "created": "2026-06-04 22:58:48",
+      "created_at": 1780613928000
+    },
+    {
+      "id": 48430923,
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "link": "https://arxiv.org/abs/2601.14470",
+      "score": 11,
+      "author": "Anon84",
+      "created": "2026-06-07 01:37:11",
+      "created_at": 1780796231000
+    },
+    {
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 259,
+      "author": "jwilk",
+      "created": "2026-06-06 14:34:20",
+      "created_at": 1780756460000
     },
     {
       "id": 48427643,
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 133,
+      "score": 447,
       "author": "speckx",
       "created": "2026-06-06 18:35:27",
       "created_at": 1780770927000
     },
     {
+      "id": 48425723,
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "link": "https://su3.io/posts/introducing-zeroserve",
+      "score": 195,
+      "author": "losfair",
+      "created": "2026-06-06 14:59:43",
+      "created_at": 1780757983000
+    },
+    {
       "id": 48424605,
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "link": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 177,
+      "score": 235,
       "author": "tosh",
       "created": "2026-06-06 12:52:18",
       "created_at": 1780750338000
-    },
-    {
-      "id": 48426202,
-      "title": "You Can Run",
-      "link": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "score": 63,
-      "author": "bryanrasmussen",
-      "created": "2026-06-06 15:55:46",
-      "created_at": 1780761346000
-    },
-    {
-      "id": 48428796,
-      "title": "Universal Memory Protocol – a shared format for agent memory",
-      "link": "https://universalmemoryprotocol.io/",
-      "score": 4,
-      "author": "edihasaj",
-      "created": "2026-06-06 20:39:21",
-      "created_at": 1780778361000
-    },
-    {
-      "id": 48372138,
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-      "link": "https://uonr.github.io/poincake/",
-      "score": 70,
-      "author": "uonr",
-      "created": "2026-06-02 16:08:26",
-      "created_at": 1780416506000
-    },
-    {
-      "id": 48425247,
-      "title": "Benchmarks in Leipzig",
-      "link": "https://arxiv.org/abs/2606.05818",
-      "score": 110,
-      "author": "root-parent",
-      "created": "2026-06-06 14:00:52",
-      "created_at": 1780754452000
-    },
-    {
-      "id": 48389360,
-      "title": "How LLMs work",
-      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 783,
-      "author": "0xkato",
-      "created": "2026-06-03 20:15:13",
-      "created_at": 1780517713000
-    },
-    {
-      "id": 48423990,
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 356,
-      "author": "ramanan",
-      "created": "2026-06-06 11:46:15",
-      "created_at": 1780746375000
     }
   ],
   "code": 200,
-  "message": "获取成功。当前部署平台 Deno Deploy Classic 预计将于 7 月 20 日 终止服务，公共 API 服务后续计划迁移到 Cloudflare Workers，额度、兼容性等方面可能会受影响。有能力建议自行私有部署，以确保服务持续稳定可用。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
+  "message": "获取成功。当前部署平台已迁移到 Cloudflare Workers，如有问题请及时反馈。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }
