@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-07T07:46:12.192Z"
+    "lastUpdate": "2026-06-07T10:20:48.308Z"
   },
   "data": [
     {
       "id": 48432199,
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "link": "https://www.ioccc.org/2025/",
-      "score": 74,
+      "score": 165,
       "author": "matt_d",
       "created": "2026-06-07 05:47:54",
       "created_at": 1780811274000
     },
     {
-      "id": 48431981,
-      "title": "I design with Claude more than Figma now",
-      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "score": 93,
-      "author": "MrBuddyCasino",
-      "created": "2026-06-07 05:04:24",
-      "created_at": 1780808664000
+      "id": 48400151,
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "link": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 38,
+      "author": "kkm",
+      "created": "2026-06-04 15:29:53",
+      "created_at": 1780586993000
     },
     {
       "id": 48431461,
       "title": "Valve P2P networking broken for more than 2 months",
       "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 119,
+      "score": 167,
       "author": "babuskov",
       "created": "2026-06-07 03:21:52",
       "created_at": 1780802512000
     },
     {
+      "id": 48410844,
+      "title": "Win16 Memory Management",
+      "link": "http://www.os2museum.com/wp/win16-memory-management/",
+      "score": 24,
+      "author": "supermatou",
+      "created": "2026-06-05 11:16:47",
+      "created_at": 1780658207000
+    },
+    {
+      "id": 48431981,
+      "title": "I design with Claude more than Figma now",
+      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "score": 164,
+      "author": "MrBuddyCasino",
+      "created": "2026-06-07 05:04:24",
+      "created_at": 1780808664000
+    },
+    {
       "id": 48431286,
       "title": "Field of clones: How horse replicas came to dominate polo",
       "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 71,
+      "score": 86,
       "author": "gscott",
       "created": "2026-06-07 02:46:37",
       "created_at": 1780800397000
     },
     {
-      "id": 48389368,
-      "title": "My Software North Star",
-      "link": "https://kristoff.it/blog/north-star/",
-      "score": 37,
-      "author": "kristoff_it",
-      "created": "2026-06-03 20:16:07",
-      "created_at": 1780517767000
-    },
-    {
       "id": 48430923,
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "link": "https://arxiv.org/abs/2601.14470",
-      "score": 87,
+      "score": 107,
       "author": "Anon84",
       "created": "2026-06-07 01:37:11",
       "created_at": 1780796231000
     },
     {
-      "id": 48415457,
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "link": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 67,
-      "author": "mmastrac",
-      "created": "2026-06-05 17:13:59",
-      "created_at": 1780679639000
+      "id": 48389368,
+      "title": "My Software North Star",
+      "link": "https://kristoff.it/blog/north-star/",
+      "score": 75,
+      "author": "kristoff_it",
+      "created": "2026-06-03 20:16:07",
+      "created_at": 1780517767000
     },
     {
       "id": 48428025,
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "link": "https://ntsc.rs/",
-      "score": 328,
+      "score": 348,
       "author": "gregsadetsky",
       "created": "2026-06-06 19:17:46",
       "created_at": 1780773466000
     },
     {
-      "id": 48416264,
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "link": "https://openai.com/index/harness-engineering/",
-      "score": 177,
-      "author": "pramodbiligiri",
-      "created": "2026-06-05 18:20:06",
-      "created_at": 1780683606000
-    },
-    {
-      "id": 48430539,
-      "title": "Public Domain Image Archive",
-      "link": "https://pdimagearchive.org/",
-      "score": 98,
-      "author": "davidbarker",
-      "created": "2026-06-07 00:22:51",
-      "created_at": 1780791771000
+      "id": 48415457,
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "link": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "score": 89,
+      "author": "mmastrac",
+      "created": "2026-06-05 17:13:59",
+      "created_at": 1780679639000
     }
   ],
   "code": 200,

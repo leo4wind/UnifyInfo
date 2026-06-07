@@ -3,68 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-07T07:46:11.678Z"
+    "lastUpdate": "2026-06-07T10:20:47.707Z"
   },
   "data": [
     {
       "id": 48421442,
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1405,
+      "score": 1411,
       "author": "maltalex",
       "created": "2026-06-06 04:38:36",
       "created_at": 1780720716000
     },
     {
-      "id": 48409191,
-      "title": "Changing how we develop Ladybird",
-      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 874,
-      "author": "EdwinHoksberg",
-      "created": "2026-06-05 07:26:33",
-      "created_at": 1780644393000
-    },
-    {
-      "id": 48415217,
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 561,
-      "author": "toomuchtodo",
-      "created": "2026-06-05 16:55:30",
-      "created_at": 1780678530000
-    },
-    {
       "id": 48427643,
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 557,
+      "score": 599,
       "author": "speckx",
       "created": "2026-06-06 18:35:27",
       "created_at": 1780770927000
     },
     {
-      "id": 48413500,
-      "title": "New method turns ocean water into drinking water, without waste",
-      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 504,
-      "author": "speckx",
-      "created": "2026-06-05 15:04:03",
-      "created_at": 1780671843000
+      "id": 48415217,
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 569,
+      "author": "toomuchtodo",
+      "created": "2026-06-05 16:55:30",
+      "created_at": 1780678530000
     },
     {
       "id": 48427523,
       "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
       "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "score": 502,
+      "score": 523,
       "author": "MilnerRoute",
       "created": "2026-06-06 18:21:06",
       "created_at": 1780770066000
     },
     {
+      "id": 48413500,
+      "title": "New method turns ocean water into drinking water, without waste",
+      "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 505,
+      "author": "speckx",
+      "created": "2026-06-05 15:04:03",
+      "created_at": 1780671843000
+    },
+    {
       "id": 48411635,
       "title": "Did Claude increase bugs in rsync?",
       "link": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 499,
+      "score": 500,
       "author": "logicprog",
       "created": "2026-06-05 12:43:33",
       "created_at": 1780663413000
@@ -82,19 +73,28 @@
       "id": 48422798,
       "title": "GrapheneOS user reported to authorities for using GrapheneOS",
       "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-      "score": 438,
+      "score": 441,
       "author": "Cider9986",
       "created": "2026-06-06 08:43:59",
       "created_at": 1780735439000
     },
     {
-      "id": 48409664,
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "link": "https://arxiv.org/abs/2606.03673",
-      "score": 420,
-      "author": "mimorigasaka",
-      "created": "2026-06-05 08:32:16",
-      "created_at": 1780648336000
+      "id": 48413464,
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 417,
+      "author": "janpot",
+      "created": "2026-06-05 15:00:31",
+      "created_at": 1780671631000
+    },
+    {
+      "id": 48420827,
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "link": "",
+      "score": 416,
+      "author": "Ekami",
+      "created": "2026-06-06 02:31:51",
+      "created_at": 1780713111000
     }
   ],
   "code": 200,
