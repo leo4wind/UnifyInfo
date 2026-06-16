@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-16T16:24:12.827Z"
+    "lastUpdate": "2026-06-16T22:04:46.396Z"
   },
   "data": [
     {
       "id": 48555993,
       "title": "Running local models is good now",
       "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 249,
+      "score": 846,
       "author": "jfb",
       "created": "2026-06-16 14:36:57",
       "created_at": 1781620617000
     },
     {
-      "id": 48556785,
-      "title": "Fable ban was never about a jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "score": 77,
-      "author": "amarant",
-      "created": "2026-06-16 15:27:56",
-      "created_at": 1781623676000
+      "id": 48561654,
+      "title": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "score": 80,
+      "author": "Cider9986",
+      "created": "2026-06-16 20:34:35",
+      "created_at": 1781642075000
+    },
+    {
+      "id": 48553224,
+      "title": "SpaceX to buy Cursor for $60B",
+      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "score": 754,
+      "author": "itsmarcelg",
+      "created": "2026-06-16 10:44:24",
+      "created_at": 1781606664000
+    },
+    {
+      "id": 48559188,
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 101,
+      "author": "root-parent",
+      "created": "2026-06-16 17:54:02",
+      "created_at": 1781632442000
+    },
+    {
+      "id": 48558018,
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "score": 185,
+      "author": "mrshu",
+      "created": "2026-06-16 16:40:58",
+      "created_at": 1781628058000
+    },
+    {
+      "id": 48557079,
+      "title": "Calvin and Hobbes and the price of integrity",
+      "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "score": 170,
+      "author": "pseudolus",
+      "created": "2026-06-16 15:44:44",
+      "created_at": 1781624684000
     },
     {
       "id": 48553550,
       "title": "Mechanical Watch (2022)",
       "link": "https://ciechanow.ski/mechanical-watch/",
-      "score": 445,
+      "score": 587,
       "author": "razin",
       "created": "2026-06-16 11:26:27",
       "created_at": 1781609187000
     },
     {
-      "id": 48556163,
-      "title": "Subquadratic – Introducing SubQ 1.1 Small",
-      "link": "https://subq.ai/subq-1-1-small-technical-report",
-      "score": 42,
-      "author": "EDM115",
-      "created": "2026-06-16 14:50:10",
-      "created_at": 1781621410000
+      "id": 48562274,
+      "title": "Total Iran Economic Damage Estimate",
+      "link": "https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/",
+      "score": 14,
+      "author": "littlexsparkee",
+      "created": "2026-06-16 21:18:36",
+      "created_at": 1781644716000
     },
     {
-      "id": 48552844,
-      "title": "Correlated randomness in Slay the Spire 2",
-      "link": "https://tck.mn/blog/correlated-randomness-sts2/",
-      "score": 182,
-      "author": "rdmuser",
-      "created": "2026-06-16 09:46:49",
-      "created_at": 1781603209000
+      "id": 48558147,
+      "title": "Stop Using JWTs",
+      "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "score": 151,
+      "author": "dzonga",
+      "created": "2026-06-16 16:49:46",
+      "created_at": 1781628586000
     },
     {
-      "id": 48556414,
-      "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
-      "link": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
-      "score": 98,
-      "author": "arnejenssen",
-      "created": "2026-06-16 15:05:09",
-      "created_at": 1781622309000
-    },
-    {
-      "id": 48550779,
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 667,
-      "author": "apitman",
-      "created": "2026-06-16 04:58:15",
-      "created_at": 1781585895000
-    },
-    {
-      "id": 48546294,
-      "title": "A backdoor in a LinkedIn job offer",
-      "link": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1462,
-      "author": "lwhsiao",
-      "created": "2026-06-15 20:00:57",
-      "created_at": 1781553657000
-    },
-    {
-      "id": 48550693,
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 428,
-      "author": "paulmooreparks",
-      "created": "2026-06-16 04:46:36",
-      "created_at": 1781585196000
-    },
-    {
-      "id": 48519723,
-      "title": "An interview with an Apple emoji designer",
-      "link": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-      "score": 53,
-      "author": "nate",
-      "created": "2026-06-13 17:56:47",
-      "created_at": 1781373407000
+      "id": 48559935,
+      "title": "Apple is about to make Hide My Email useless",
+      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "score": 278,
+      "author": "SXX",
+      "created": "2026-06-16 18:37:21",
+      "created_at": 1781635041000
     }
   ],
   "code": 200,
