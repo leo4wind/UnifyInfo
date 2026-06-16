@@ -3,59 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-16T09:19:40.622Z"
+    "lastUpdate": "2026-06-16T16:24:12.264Z"
   },
   "data": [
-    {
-      "id": 48542480,
-      "title": "Iroh 1.0",
-      "link": "https://www.iroh.computer/blog/v1",
-      "score": 1165,
-      "author": "chadfowler",
-      "created": "2026-06-15 15:13:06",
-      "created_at": 1781536386000
-    },
     {
       "id": 48546294,
       "title": "A backdoor in a LinkedIn job offer",
       "link": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1136,
+      "score": 1462,
       "author": "lwhsiao",
       "created": "2026-06-15 20:00:57",
       "created_at": 1781553657000
     },
     {
+      "id": 48542480,
+      "title": "Iroh 1.0",
+      "link": "https://www.iroh.computer/blog/v1",
+      "score": 1324,
+      "author": "chadfowler",
+      "created": "2026-06-15 15:13:06",
+      "created_at": 1781536386000
+    },
+    {
       "id": 48542100,
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "link": "",
-      "score": 963,
+      "score": 1207,
       "author": "cloudking",
       "created": "2026-06-15 14:46:53",
       "created_at": 1781534813000
     },
     {
-      "id": 48533848,
-      "title": "Your ePub Is fine",
-      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 883,
-      "author": "sohkamyung",
-      "created": "2026-06-14 22:54:55",
-      "created_at": 1781477695000
-    },
-    {
       "id": 48543475,
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "link": "https://tinywind.io",
-      "score": 819,
+      "score": 952,
       "author": "tinywind",
       "created": "2026-06-15 16:15:53",
       "created_at": 1781540153000
     },
     {
+      "id": 48533848,
+      "title": "Your ePub Is fine",
+      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 890,
+      "author": "sohkamyung",
+      "created": "2026-06-14 22:54:55",
+      "created_at": 1781477695000
+    },
+    {
       "id": 48537165,
       "title": "Curl will not accept vulnerability reports during July 2026",
       "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 767,
+      "score": 773,
       "author": "secret-noun",
       "created": "2026-06-15 06:02:57",
       "created_at": 1781503377000
@@ -64,34 +64,34 @@
       "id": 48538229,
       "title": "What happened to nerds?",
       "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 723,
+      "score": 734,
       "author": "vrnvu",
       "created": "2026-06-15 08:23:52",
       "created_at": 1781511832000
     },
     {
-      "id": 48526360,
-      "title": "How to earn a billion dollars",
-      "link": "https://paulgraham.com/earn.html",
-      "score": 715,
-      "author": "kingstoned",
-      "created": "2026-06-14 11:50:48",
-      "created_at": 1781437848000
-    },
-    {
       "id": 48529990,
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "link": "https://github.com/tamnd/kage",
-      "score": 686,
+      "score": 688,
       "author": "tamnd",
       "created": "2026-06-14 17:25:38",
       "created_at": 1781457938000
     },
     {
+      "id": 48550779,
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "score": 667,
+      "author": "apitman",
+      "created": "2026-06-16 04:58:15",
+      "created_at": 1781585895000
+    },
+    {
       "id": 48540854,
       "title": "CrankGPT",
       "link": "https://crankgpt.com",
-      "score": 579,
+      "score": 590,
       "author": "rishikeshs",
       "created": "2026-06-15 13:20:13",
       "created_at": 1781529613000
