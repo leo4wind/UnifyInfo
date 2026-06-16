@@ -3,41 +3,59 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-15T22:09:44.451Z"
+    "lastUpdate": "2026-06-16T02:44:34.192Z"
   },
   "data": [
-    {
-      "id": 48533848,
-      "title": "Your ePub Is fine",
-      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 864,
-      "author": "sohkamyung",
-      "created": "2026-06-14 22:54:55",
-      "created_at": 1781477695000
-    },
     {
       "id": 48542480,
       "title": "Iroh 1.0",
       "link": "https://www.iroh.computer/blog/v1",
-      "score": 815,
+      "score": 975,
       "author": "chadfowler",
       "created": "2026-06-15 15:13:06",
       "created_at": 1781536386000
     },
     {
+      "id": 48533848,
+      "title": "Your ePub Is fine",
+      "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 875,
+      "author": "sohkamyung",
+      "created": "2026-06-14 22:54:55",
+      "created_at": 1781477695000
+    },
+    {
+      "id": 48546294,
+      "title": "A backdoor in a LinkedIn job offer",
+      "link": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 767,
+      "author": "lwhsiao",
+      "created": "2026-06-15 20:00:57",
+      "created_at": 1781553657000
+    },
+    {
       "id": 48537165,
       "title": "Curl will not accept vulnerability reports during July 2026",
       "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 724,
+      "score": 747,
       "author": "secret-noun",
       "created": "2026-06-15 06:02:57",
       "created_at": 1781503377000
     },
     {
+      "id": 48542100,
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "link": "",
+      "score": 723,
+      "author": "cloudking",
+      "created": "2026-06-15 14:46:53",
+      "created_at": 1781534813000
+    },
+    {
       "id": 48526360,
       "title": "How to earn a billion dollars",
       "link": "https://paulgraham.com/earn.html",
-      "score": 699,
+      "score": 703,
       "author": "kingstoned",
       "created": "2026-06-14 11:50:48",
       "created_at": 1781437848000
@@ -46,7 +64,7 @@
       "id": 48538229,
       "title": "What happened to nerds?",
       "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 688,
+      "score": 702,
       "author": "vrnvu",
       "created": "2026-06-15 08:23:52",
       "created_at": 1781511832000
@@ -55,46 +73,28 @@
       "id": 48529990,
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "link": "https://github.com/tamnd/kage",
-      "score": 680,
+      "score": 683,
       "author": "tamnd",
       "created": "2026-06-14 17:25:38",
       "created_at": 1781457938000
     },
     {
-      "id": 48540854,
-      "title": "CrankGPT",
-      "link": "https://crankgpt.com",
-      "score": 528,
-      "author": "rishikeshs",
-      "created": "2026-06-15 13:20:13",
-      "created_at": 1781529613000
-    },
-    {
-      "id": 48533101,
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "score": 528,
-      "author": "josephcsible",
-      "created": "2026-06-14 21:42:12",
-      "created_at": 1781473332000
-    },
-    {
-      "id": 48542100,
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "link": "",
-      "score": 517,
-      "author": "cloudking",
-      "created": "2026-06-15 14:46:53",
-      "created_at": 1781534813000
-    },
-    {
       "id": 48543475,
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "link": "https://tinywind.io",
-      "score": 498,
+      "score": 630,
       "author": "tinywind",
       "created": "2026-06-15 16:15:53",
       "created_at": 1781540153000
+    },
+    {
+      "id": 48540854,
+      "title": "CrankGPT",
+      "link": "https://crankgpt.com",
+      "score": 552,
+      "author": "rishikeshs",
+      "created": "2026-06-15 13:20:13",
+      "created_at": 1781529613000
     }
   ],
   "code": 200,
