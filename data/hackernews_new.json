@@ -3,41 +3,68 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-17T14:49:28.275Z"
+    "lastUpdate": "2026-06-17T18:08:17.551Z"
   },
   "data": [
-    {
-      "id": 48569954,
-      "title": "Want your images back? Sure... That'll be $5!",
-      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 252,
-      "author": "lutr",
-      "created": "2026-06-17 13:05:03",
-      "created_at": 1781701503000
-    },
     {
       "id": 48571081,
       "title": "Epic Games announces Lore version control system",
       "link": "https://lore.org/",
-      "score": 42,
+      "score": 537,
       "author": "regnerba",
       "created": "2026-06-17 14:30:27",
       "created_at": 1781706627000
     },
     {
+      "id": 48573332,
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "score": 108,
+      "author": "karakoram",
+      "created": "2026-06-17 17:07:32",
+      "created_at": 1781716052000
+    },
+    {
+      "id": 48565498,
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 84,
+      "author": "giuliomagnifico",
+      "created": "2026-06-17 03:55:16",
+      "created_at": 1781668516000
+    },
+    {
+      "id": 48572553,
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "link": "https://github.com/Adam-CAD/CADAM",
+      "score": 56,
+      "author": "zachdive",
+      "created": "2026-06-17 16:14:04",
+      "created_at": 1781712844000
+    },
+    {
       "id": 48567759,
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 435,
+      "score": 600,
       "author": "himata4113",
       "created": "2026-06-17 09:12:00",
       "created_at": 1781687520000
     },
     {
+      "id": 48571767,
+      "title": "French physicist and media star loses doctorate after plagiarism investigation",
+      "link": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+      "score": 95,
+      "author": "bookofjoe",
+      "created": "2026-06-17 15:23:49",
+      "created_at": 1781709829000
+    },
+    {
       "id": 48569278,
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "link": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 441,
+      "score": 799,
       "author": "thm",
       "created": "2026-06-17 12:11:27",
       "created_at": 1781698287000
@@ -46,55 +73,19 @@
       "id": 48568502,
       "title": "RFC 10008: The new HTTP Query Method",
       "link": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 141,
+      "score": 223,
       "author": "schappim",
       "created": "2026-06-17 10:51:17",
       "created_at": 1781693477000
     },
     {
-      "id": 48569205,
-      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "link": "https://github.com/rxi/microui",
-      "score": 57,
-      "author": "peter_d_sherman",
-      "created": "2026-06-17 12:04:28",
-      "created_at": 1781697868000
-    },
-    {
-      "id": 48567155,
-      "title": "Hacker News but for Independent Blogs",
-      "link": "https://bubbles.town/",
-      "score": 289,
-      "author": "headalgorithm",
-      "created": "2026-06-17 07:49:44",
-      "created_at": 1781682584000
-    },
-    {
-      "id": 48567877,
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "link": "https://cells2pixels.github.io/",
-      "score": 128,
-      "author": "esychology",
-      "created": "2026-06-17 09:28:36",
-      "created_at": 1781688516000
-    },
-    {
-      "id": 48561654,
-      "title": "GrapheneOS has been ported to Android 17",
-      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 902,
-      "author": "Cider9986",
-      "created": "2026-06-16 20:34:35",
-      "created_at": 1781642075000
-    },
-    {
-      "id": 48570948,
-      "title": "AI demands more engineering discipline. Not less",
-      "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 27,
-      "author": "BerislavLopac",
-      "created": "2026-06-17 14:20:44",
-      "created_at": 1781706044000
+      "id": 48573012,
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "link": "https://ribbie.tv/watch",
+      "score": 78,
+      "author": "brownrout",
+      "created": "2026-06-17 16:44:15",
+      "created_at": 1781714655000
     }
   ],
   "code": 200,
