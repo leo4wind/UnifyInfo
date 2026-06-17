@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-17T18:08:17.446Z"
+    "lastUpdate": "2026-06-17T21:52:08.620Z"
   },
   "data": [
     {
+      "id": 48576824,
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "link": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 47,
+      "author": "Usu",
+      "created": "2026-06-17 21:00:07",
+      "created_at": 1781730007000
+    },
+    {
       "id": 48571081,
-      "title": "Epic Games announces Lore version control system",
+      "title": "Lore – Open source version control system designed for scalability",
       "link": "https://lore.org/",
-      "score": 537,
+      "score": 826,
       "author": "regnerba",
       "created": "2026-06-17 14:30:27",
       "created_at": 1781706627000
     },
     {
-      "id": 48573332,
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "score": 108,
-      "author": "karakoram",
-      "created": "2026-06-17 17:07:32",
-      "created_at": 1781716052000
-    },
-    {
       "id": 48565498,
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 84,
+      "score": 239,
       "author": "giuliomagnifico",
       "created": "2026-06-17 03:55:16",
       "created_at": 1781668516000
     },
     {
-      "id": 48572553,
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "link": "https://github.com/Adam-CAD/CADAM",
-      "score": 56,
-      "author": "zachdive",
-      "created": "2026-06-17 16:14:04",
-      "created_at": 1781712844000
+      "id": 48556561,
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "link": "https://browser-use.com/posts/firecracker-browser-infra",
+      "score": 146,
+      "author": "gregpr07",
+      "created": "2026-06-16 15:15:01",
+      "created_at": 1781622901000
     },
     {
       "id": 48567759,
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 600,
+      "score": 714,
       "author": "himata4113",
       "created": "2026-06-17 09:12:00",
       "created_at": 1781687520000
     },
     {
-      "id": 48571767,
-      "title": "French physicist and media star loses doctorate after plagiarism investigation",
-      "link": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-      "score": 95,
-      "author": "bookofjoe",
-      "created": "2026-06-17 15:23:49",
-      "created_at": 1781709829000
-    },
-    {
-      "id": 48569278,
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "link": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 799,
-      "author": "thm",
-      "created": "2026-06-17 12:11:27",
-      "created_at": 1781698287000
-    },
-    {
-      "id": 48568502,
-      "title": "RFC 10008: The new HTTP Query Method",
-      "link": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 223,
-      "author": "schappim",
-      "created": "2026-06-17 10:51:17",
-      "created_at": 1781693477000
+      "id": 48572553,
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "link": "https://github.com/Adam-CAD/CADAM",
+      "score": 119,
+      "author": "zachdive",
+      "created": "2026-06-17 16:14:04",
+      "created_at": 1781712844000
     },
     {
       "id": 48573012,
       "title": "Show HN: An 8-bit live gamecast for baseball",
       "link": "https://ribbie.tv/watch",
-      "score": 78,
+      "score": 166,
       "author": "brownrout",
       "created": "2026-06-17 16:44:15",
       "created_at": 1781714655000
+    },
+    {
+      "id": 48568058,
+      "title": "U.S. science is in chaos",
+      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "score": 522,
+      "author": "presspot",
+      "created": "2026-06-17 09:54:21",
+      "created_at": 1781690061000
+    },
+    {
+      "id": 48551069,
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "link": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "score": 13,
+      "author": "matt_d",
+      "created": "2026-06-16 05:49:51",
+      "created_at": 1781588991000
+    },
+    {
+      "id": 48568502,
+      "title": "RFC 10008: The new HTTP Query Method",
+      "link": "https://www.rfc-editor.org/info/rfc10008/",
+      "score": 288,
+      "author": "schappim",
+      "created": "2026-06-17 10:51:17",
+      "created_at": 1781693477000
     }
   ],
   "code": 200,
