@@ -3,50 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-18T18:20:55.030Z"
+    "lastUpdate": "2026-06-18T21:56:01.489Z"
   },
   "data": [
-    {
-      "id": 48571081,
-      "title": "Lore – Open source version control system designed for scalability",
-      "link": "https://lore.org/",
-      "score": 1212,
-      "author": "regnerba",
-      "created": "2026-06-17 14:30:27",
-      "created_at": 1781706627000
-    },
     {
       "id": 48579650,
       "title": "Midjourney Medical",
       "link": "https://www.midjourney.com/medical/blogpost",
-      "score": 1206,
+      "score": 1264,
       "author": "ricochet11",
       "created": "2026-06-18 01:59:51",
       "created_at": 1781747991000
     },
     {
+      "id": 48571081,
+      "title": "Lore – Open source version control system designed for scalability",
+      "link": "https://lore.org/",
+      "score": 1217,
+      "author": "regnerba",
+      "created": "2026-06-17 14:30:27",
+      "created_at": 1781706627000
+    },
+    {
       "id": 48569278,
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "link": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 1061,
+      "score": 1064,
       "author": "thm",
       "created": "2026-06-17 12:11:27",
       "created_at": 1781698287000
     },
     {
-      "id": 48561654,
-      "title": "GrapheneOS has been ported to Android 17",
-      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 1000,
-      "author": "Cider9986",
-      "created": "2026-06-16 20:34:35",
-      "created_at": 1781642075000
-    },
-    {
       "id": 48567759,
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 867,
+      "score": 874,
       "author": "himata4113",
       "created": "2026-06-17 09:12:00",
       "created_at": 1781687520000
@@ -55,7 +46,7 @@
       "id": 48568058,
       "title": "U.S. science is in chaos",
       "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 855,
+      "score": 856,
       "author": "presspot",
       "created": "2026-06-17 09:54:21",
       "created_at": 1781690061000
@@ -73,28 +64,37 @@
       "id": 48569954,
       "title": "Want your images back? That'll be $5",
       "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 644,
+      "score": 647,
       "author": "lutr",
       "created": "2026-06-17 13:05:03",
       "created_at": 1781701503000
     },
     {
+      "id": 48585746,
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "score": 607,
+      "author": "leonidasrup",
+      "created": "2026-06-18 14:17:07",
+      "created_at": 1781792227000
+    },
+    {
       "id": 48567155,
       "title": "Hacker News but for independent blogs",
       "link": "https://bubbles.town/",
-      "score": 594,
+      "score": 603,
       "author": "headalgorithm",
       "created": "2026-06-17 07:49:44",
       "created_at": 1781682584000
     },
     {
-      "id": 48559935,
-      "title": "Apple is about to make Hide My Email useless",
-      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "score": 523,
-      "author": "SXX",
-      "created": "2026-06-16 18:37:21",
-      "created_at": 1781635041000
+      "id": 48583928,
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 575,
+      "author": "theorchid",
+      "created": "2026-06-18 11:45:43",
+      "created_at": 1781783143000
     }
   ],
   "code": 200,
