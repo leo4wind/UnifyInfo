@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-18T02:37:42.422Z"
+    "lastUpdate": "2026-06-18T08:29:31.556Z"
   },
   "data": [
     {
       "id": 48555993,
       "title": "Running local models is good now",
       "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1512,
+      "score": 1530,
       "author": "jfb",
       "created": "2026-06-16 14:36:57",
       "created_at": 1781620617000
@@ -19,52 +19,43 @@
       "id": 48553224,
       "title": "SpaceX to buy Cursor for $60B",
       "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 1114,
+      "score": 1120,
       "author": "itsmarcelg",
       "created": "2026-06-16 10:44:24",
       "created_at": 1781606664000
     },
     {
-      "id": 48569278,
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "link": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 1009,
-      "author": "thm",
-      "created": "2026-06-17 12:11:27",
-      "created_at": 1781698287000
-    },
-    {
       "id": 48571081,
       "title": "Lore – Open source version control system designed for scalability",
       "link": "https://lore.org/",
-      "score": 997,
+      "score": 1115,
       "author": "regnerba",
       "created": "2026-06-17 14:30:27",
       "created_at": 1781706627000
     },
     {
+      "id": 48569278,
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "link": "https://wpvip.com/future-of-the-web-2026/",
+      "score": 1040,
+      "author": "thm",
+      "created": "2026-06-17 12:11:27",
+      "created_at": 1781698287000
+    },
+    {
       "id": 48561654,
       "title": "GrapheneOS has been ported to Android 17",
       "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 978,
+      "score": 988,
       "author": "Cider9986",
       "created": "2026-06-16 20:34:35",
       "created_at": 1781642075000
     },
     {
-      "id": 48550779,
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 918,
-      "author": "apitman",
-      "created": "2026-06-16 04:58:15",
-      "created_at": 1781585895000
-    },
-    {
       "id": 48557530,
       "title": "Apple's weird anti-nausea dots cured my car sickness",
       "link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "score": 866,
+      "score": 875,
       "author": "neilfrndes",
       "created": "2026-06-16 16:12:06",
       "created_at": 1781626326000
@@ -73,28 +64,37 @@
       "id": 48567759,
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 800,
+      "score": 845,
       "author": "himata4113",
       "created": "2026-06-17 09:12:00",
       "created_at": 1781687520000
     },
     {
+      "id": 48568058,
+      "title": "U.S. science is in chaos",
+      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "score": 806,
+      "author": "presspot",
+      "created": "2026-06-17 09:54:21",
+      "created_at": 1781690061000
+    },
+    {
       "id": 48553550,
       "title": "Mechanical Watch (2022)",
       "link": "https://ciechanow.ski/mechanical-watch/",
-      "score": 727,
+      "score": 730,
       "author": "razin",
       "created": "2026-06-16 11:26:27",
       "created_at": 1781609187000
     },
     {
-      "id": 48568058,
-      "title": "U.S. science is in chaos",
-      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 696,
-      "author": "presspot",
-      "created": "2026-06-17 09:54:21",
-      "created_at": 1781690061000
+      "id": 48571526,
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "score": 656,
+      "author": "microtonal",
+      "created": "2026-06-17 15:04:47",
+      "created_at": 1781708687000
     }
   ],
   "code": 200,

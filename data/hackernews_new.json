@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-18T02:37:42.895Z"
+    "lastUpdate": "2026-06-18T08:29:32.046Z"
   },
   "data": [
     {
-      "id": 48579718,
-      "title": "Midjourney Full Body Ultrasonic CT Scanner",
-      "link": "https://www.midjourney.com/medical/blogpost",
-      "score": 43,
-      "author": "lnyan",
-      "created": "2026-06-18 02:08:59",
-      "created_at": 1781748539000
-    },
-    {
-      "id": 48571081,
-      "title": "Lore – Open source version control system designed for scalability",
-      "link": "https://lore.org/",
-      "score": 997,
-      "author": "regnerba",
-      "created": "2026-06-17 14:30:27",
-      "created_at": 1781706627000
-    },
-    {
-      "id": 48578388,
-      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "link": "https://www.horg.com/horg/?page_id=921",
-      "score": 67,
-      "author": "beatthatflight",
-      "created": "2026-06-17 23:20:38",
-      "created_at": 1781738438000
-    },
-    {
-      "id": 48565498,
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 370,
-      "author": "giuliomagnifico",
-      "created": "2026-06-17 03:55:16",
-      "created_at": 1781668516000
-    },
-    {
-      "id": 48577374,
-      "title": "Storied Colors – a catalogue of named colors",
-      "link": "https://storiedcolors.com/",
-      "score": 100,
-      "author": "susiecambria",
-      "created": "2026-06-17 21:49:03",
-      "created_at": 1781732943000
-    },
-    {
-      "id": 48577208,
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "score": 337,
-      "author": "greenchair",
-      "created": "2026-06-17 21:31:35",
-      "created_at": 1781731895000
-    },
-    {
-      "id": 48578326,
-      "title": "Clojure Hosted on Go",
-      "link": "https://github.com/glojurelang/glojure",
-      "score": 33,
-      "author": "dnlo",
-      "created": "2026-06-17 23:14:49",
-      "created_at": 1781738089000
-    },
-    {
       "id": 48579650,
       "title": "Midjourney Medical",
-      "link": "https://www.midjourney.com/medical",
-      "score": 62,
+      "link": "https://www.midjourney.com/medical/blogpost",
+      "score": 637,
       "author": "ricochet11",
       "created": "2026-06-18 01:59:51",
       "created_at": 1781747991000
     },
     {
-      "id": 48568058,
-      "title": "U.S. science is in chaos",
-      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 696,
-      "author": "presspot",
-      "created": "2026-06-17 09:54:21",
-      "created_at": 1781690061000
+      "id": 48581458,
+      "title": "DeepSeek Introduces Vision",
+      "link": "https://chat.deepseek.com/",
+      "score": 83,
+      "author": "RIshabh235",
+      "created": "2026-06-18 06:17:40",
+      "created_at": 1781763460000
     },
     {
-      "id": 48576395,
-      "title": "Loreline – Tools for writing interactive fiction",
-      "link": "https://loreline.app/en/",
-      "score": 77,
-      "author": "smartmic",
-      "created": "2026-06-17 20:29:15",
-      "created_at": 1781728155000
+      "id": 48581489,
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "link": "https://www.acma.gov.au/sms-sender-id-register",
+      "score": 60,
+      "author": "anitil",
+      "created": "2026-06-18 06:23:24",
+      "created_at": 1781763804000
+    },
+    {
+      "id": 48580209,
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 167,
+      "author": "alphabettsy",
+      "created": "2026-06-18 03:04:20",
+      "created_at": 1781751860000
+    },
+    {
+      "id": 48571081,
+      "title": "Lore – Open source version control system designed for scalability",
+      "link": "https://lore.org/",
+      "score": 1115,
+      "author": "regnerba",
+      "created": "2026-06-17 14:30:27",
+      "created_at": 1781706627000
+    },
+    {
+      "id": 48565498,
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 446,
+      "author": "giuliomagnifico",
+      "created": "2026-06-17 03:55:16",
+      "created_at": 1781668516000
+    },
+    {
+      "id": 48578388,
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "link": "https://www.horg.com/horg/?page_id=921",
+      "score": 143,
+      "author": "beatthatflight",
+      "created": "2026-06-17 23:20:38",
+      "created_at": 1781738438000
+    },
+    {
+      "id": 48537481,
+      "title": "Sogen – High-performance Windows and Linux userspace emulator",
+      "link": "https://sogen.dev/",
+      "score": 13,
+      "author": "fratellobigio",
+      "created": "2026-06-15 06:47:54",
+      "created_at": 1781506074000
+    },
+    {
+      "id": 48553876,
+      "title": "The 2-Year Apartment Rule",
+      "link": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
+      "score": 12,
+      "author": "surprisetalk",
+      "created": "2026-06-16 12:00:48",
+      "created_at": 1781611248000
+    },
+    {
+      "id": 48577374,
+      "title": "Storied Colors – A catalogue of named colors",
+      "link": "https://storiedcolors.com/",
+      "score": 157,
+      "author": "susiecambria",
+      "created": "2026-06-17 21:49:03",
+      "created_at": 1781732943000
     }
   ],
   "code": 200,
