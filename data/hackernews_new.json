@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-18T21:56:01.989Z"
+    "lastUpdate": "2026-06-19T02:53:42.776Z"
   },
   "data": [
     {
-      "id": 48591348,
-      "title": "Show HN: Are You in the Weights?",
-      "link": "https://www.intheweights.com/",
-      "score": 76,
-      "author": "turtlesoup",
-      "created": "2026-06-18 20:49:03",
-      "created_at": 1781815743000
+      "id": 48570730,
+      "title": "How Japan's railways stayed one while splitting apart",
+      "link": "https://arun.is/blog/jr-logo/",
+      "score": 43,
+      "author": "ddrmaxgt37",
+      "created": "2026-06-17 14:03:58",
+      "created_at": 1781705038000
     },
     {
-      "id": 48578913,
-      "title": "Noam Shazeer Joins OpenAI",
-      "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 194,
-      "author": "lukasgross",
-      "created": "2026-06-18 00:26:06",
-      "created_at": 1781742366000
+      "id": 48592163,
+      "title": "Zero-Touch OAuth for MCP",
+      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 110,
+      "author": "niyikiza",
+      "created": "2026-06-18 21:54:10",
+      "created_at": 1781819650000
+    },
+    {
+      "id": 48593731,
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 30,
+      "author": "lumpa",
+      "created": "2026-06-19 01:06:27",
+      "created_at": 1781831187000
     },
     {
       "id": 48583928,
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 575,
+      "score": 677,
       "author": "theorchid",
       "created": "2026-06-18 11:45:43",
       "created_at": 1781783143000
     },
     {
-      "id": 48589501,
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 69,
+      "id": 48543311,
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 13,
       "author": "speckx",
-      "created": "2026-06-18 18:31:23",
-      "created_at": 1781807483000
-    },
-    {
-      "id": 48585746,
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 607,
-      "author": "leonidasrup",
-      "created": "2026-06-18 14:17:07",
-      "created_at": 1781792227000
-    },
-    {
-      "id": 48585866,
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "link": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 206,
-      "author": "ksec",
-      "created": "2026-06-18 14:24:30",
-      "created_at": 1781792670000
+      "created": "2026-06-15 16:06:22",
+      "created_at": 1781539582000
     },
     {
       "id": 48547969,
-      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+      "title": "Cell-based architecture for resilient payment systems",
       "link": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 28,
+      "score": 94,
       "author": "birdculture",
       "created": "2026-06-15 22:36:33",
       "created_at": 1781562993000
     },
     {
-      "id": 48584484,
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 51,
-      "author": "dstala",
-      "created": "2026-06-18 12:44:09",
-      "created_at": 1781786649000
+      "id": 48585866,
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "link": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 266,
+      "author": "ksec",
+      "created": "2026-06-18 14:24:30",
+      "created_at": 1781792670000
     },
     {
-      "id": 48591562,
-      "title": "Everything Is BOM: Bill of Materials Encyclopedia",
-      "link": "https://bomwiki.com/",
-      "score": 8,
-      "author": "sebg",
-      "created": "2026-06-18 21:03:31",
-      "created_at": 1781816611000
+      "id": 48591066,
+      "title": "Zork name origin got an update on Wikipedia",
+      "link": "https://www.dpolakovic.space/blogs/zork-part2#update",
+      "score": 62,
+      "author": "dpola",
+      "created": "2026-06-18 20:27:28",
+      "created_at": 1781814448000
     },
     {
-      "id": 48588413,
-      "title": "Migrating from GNU Stow to Chezmoi",
-      "link": "https://rednafi.com/misc/chezmoi/",
-      "score": 76,
-      "author": "speckx",
-      "created": "2026-06-18 17:09:53",
-      "created_at": 1781802593000
+      "id": 48583606,
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "score": 318,
+      "author": "ibobev",
+      "created": "2026-06-18 11:04:31",
+      "created_at": 1781780671000
     }
   ],
   "code": 200,
