@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-19T17:46:35.528Z"
+    "lastUpdate": "2026-06-19T21:00:11.415Z"
   },
   "data": [
     {
       "id": 48579650,
       "title": "Midjourney Medical",
       "link": "https://www.midjourney.com/medical/blogpost",
-      "score": 1324,
+      "score": 1328,
       "author": "ricochet11",
       "created": "2026-06-18 01:59:51",
       "created_at": 1781747991000
@@ -19,7 +19,7 @@
       "id": 48583928,
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 900,
+      "score": 921,
       "author": "theorchid",
       "created": "2026-06-18 11:45:43",
       "created_at": 1781783143000
@@ -28,7 +28,7 @@
       "id": 48585746,
       "title": "Swiss parliament lifts ban on new nuclear power plants",
       "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 782,
+      "score": 787,
       "author": "leonidasrup",
       "created": "2026-06-18 14:17:07",
       "created_at": 1781792227000
@@ -37,7 +37,7 @@
       "id": 48584207,
       "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
       "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "score": 700,
+      "score": 710,
       "author": "Adam-Hincu",
       "created": "2026-06-18 12:19:05",
       "created_at": 1781785145000
@@ -46,16 +46,25 @@
       "id": 48583356,
       "title": ".gitignore Isn't the only way to ignore files in Git",
       "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 519,
+      "score": 556,
       "author": "FergusArgyll",
       "created": "2026-06-18 10:29:20",
       "created_at": 1781778560000
     },
     {
+      "id": 48595511,
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 504,
+      "author": "philonoist",
+      "created": "2026-06-19 06:35:57",
+      "created_at": 1781850957000
+    },
+    {
       "id": 48581458,
       "title": "DeepSeek Introduces Vision",
       "link": "https://chat.deepseek.com/",
-      "score": 482,
+      "score": 485,
       "author": "RIshabh235",
       "created": "2026-06-18 06:17:40",
       "created_at": 1781763460000
@@ -64,7 +73,7 @@
       "id": 48580209,
       "title": "Local Qwen isn't a worse Opus, it's a different tool",
       "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 471,
+      "score": 475,
       "author": "alphabettsy",
       "created": "2026-06-18 03:04:20",
       "created_at": 1781751860000
@@ -73,25 +82,16 @@
       "id": 48584135,
       "title": "Emacs 31 is around the corner: The changes I'm daily driving",
       "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 453,
+      "score": 454,
       "author": "frou_dh",
       "created": "2026-06-18 12:10:53",
       "created_at": 1781784653000
     },
     {
-      "id": 48595511,
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 442,
-      "author": "philonoist",
-      "created": "2026-06-19 06:35:57",
-      "created_at": 1781850957000
-    },
-    {
       "id": 48589501,
       "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
       "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 437,
+      "score": 444,
       "author": "speckx",
       "created": "2026-06-18 18:31:23",
       "created_at": 1781807483000

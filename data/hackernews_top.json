@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-19T17:46:35.774Z"
+    "lastUpdate": "2026-06-19T21:00:11.590Z"
   },
   "data": [
     {
-      "id": 48599515,
-      "title": "There Are No Instances in ATProto",
-      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 47,
-      "author": "danabramov",
-      "created": "2026-06-19 15:10:02",
-      "created_at": 1781881802000
-    },
-    {
-      "id": 48595511,
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 442,
-      "author": "philonoist",
-      "created": "2026-06-19 06:35:57",
-      "created_at": 1781850957000
+      "id": 48602639,
+      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "link": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "score": 76,
+      "author": "theanonymousone",
+      "created": "2026-06-19 20:03:16",
+      "created_at": 1781899396000
     },
     {
       "id": 48600312,
-      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "title": "Hyundai buys Boston Dynamics",
       "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 66,
+      "score": 443,
       "author": "ck2",
       "created": "2026-06-19 16:28:20",
       "created_at": 1781886500000
     },
     {
-      "id": 48600107,
-      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
-      "link": "https://aiclambake.com/clamtakes/linear-a/",
-      "score": 126,
-      "author": "Kosturdistan",
-      "created": "2026-06-19 16:04:42",
-      "created_at": 1781885082000
+      "id": 48599515,
+      "title": "There are no instances in ATProto",
+      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 233,
+      "author": "danabramov",
+      "created": "2026-06-19 15:10:02",
+      "created_at": 1781881802000
+    },
+    {
+      "id": 48514843,
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "link": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "score": 88,
+      "author": "zeristor",
+      "created": "2026-06-13 08:21:45",
+      "created_at": 1781338905000
+    },
+    {
+      "id": 48595511,
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 504,
+      "author": "philonoist",
+      "created": "2026-06-19 06:35:57",
+      "created_at": 1781850957000
+    },
+    {
+      "id": 48598586,
+      "title": "How many of the 170k English words do you know?",
+      "link": "https://vocabowl-870366514258.us-west1.run.app/",
+      "score": 120,
+      "author": "abnry",
+      "created": "2026-06-19 13:51:36",
+      "created_at": 1781877096000
+    },
+    {
+      "id": 48592738,
+      "title": "Tell HN: A new Nginx 0-day just dropped",
+      "link": "",
+      "score": 5,
+      "author": "etenal",
+      "created": "2026-06-18 22:55:30",
+      "created_at": 1781823330000
+    },
+    {
+      "id": 48600950,
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "score": 157,
+      "author": "hn_acker",
+      "created": "2026-06-19 17:34:28",
+      "created_at": 1781890468000
+    },
+    {
+      "id": 48541777,
+      "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "link": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+      "score": 43,
+      "author": "pseudolus",
+      "created": "2026-06-15 14:25:51",
+      "created_at": 1781533551000
     },
     {
       "id": 48600345,
       "title": "Google workspace threatening to block Firefox access",
       "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "score": 62,
+      "score": 283,
       "author": "birdculture",
       "created": "2026-06-19 16:30:49",
       "created_at": 1781886649000
-    },
-    {
-      "id": 48600236,
-      "title": "Spotify Killed the Thrill of the Hunt",
-      "link": "https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/",
-      "score": 11,
-      "author": "speckx",
-      "created": "2026-06-19 16:19:55",
-      "created_at": 1781885995000
-    },
-    {
-      "id": 48548695,
-      "title": "The Productivity J-Curve [pdf] (2018)",
-      "link": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-      "score": 33,
-      "author": "kioku",
-      "created": "2026-06-15 23:47:55",
-      "created_at": 1781567275000
-    },
-    {
-      "id": 48553388,
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 357,
-      "author": "marklit",
-      "created": "2026-06-16 11:07:08",
-      "created_at": 1781608028000
-    },
-    {
-      "id": 48556082,
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "link": "https://metiq.space",
-      "score": 17,
-      "author": "rakeda",
-      "created": "2026-06-16 14:43:38",
-      "created_at": 1781621018000
-    },
-    {
-      "id": 48553161,
-      "title": "Telescope Ranchers",
-      "link": "https://kottke.org/26/06/telescope-ranchers",
-      "score": 35,
-      "author": "bookofjoe",
-      "created": "2026-06-16 10:34:10",
-      "created_at": 1781606050000
     }
   ],
   "code": 200,
