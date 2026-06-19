@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-19T08:57:31.770Z"
+    "lastUpdate": "2026-06-19T14:40:51.445Z"
   },
   "data": [
     {
       "id": 48595511,
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 73,
+      "score": 332,
       "author": "philonoist",
       "created": "2026-06-19 06:35:57",
       "created_at": 1781850957000
@@ -19,82 +19,82 @@
       "id": 48553388,
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 150,
+      "score": 291,
       "author": "marklit",
       "created": "2026-06-16 11:07:08",
       "created_at": 1781608028000
     },
     {
-      "id": 48595331,
-      "title": "So You Want to Define a Well-Known URI",
-      "link": "https://mnot.net/blog/2026/well_known_uris",
-      "score": 47,
-      "author": "ingve",
-      "created": "2026-06-19 06:05:01",
-      "created_at": 1781849101000
-    },
-    {
-      "id": 48543311,
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 173,
-      "author": "speckx",
-      "created": "2026-06-15 16:06:22",
-      "created_at": 1781539582000
-    },
-    {
       "id": 48549118,
       "title": "Zen and the Art of Machine Learning Research",
       "link": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 42,
+      "score": 137,
       "author": "jxmorris12",
       "created": "2026-06-16 00:45:50",
       "created_at": 1781570750000
     },
     {
-      "id": 48541062,
-      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-      "link": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "score": 74,
-      "author": "mcanouil",
-      "created": "2026-06-15 13:35:23",
-      "created_at": 1781530523000
+      "id": 48543311,
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 263,
+      "author": "speckx",
+      "created": "2026-06-15 16:06:22",
+      "created_at": 1781539582000
+    },
+    {
+      "id": 48548695,
+      "title": "The Productivity J-Curve [pdf] (2018)",
+      "link": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+      "score": 5,
+      "author": "kioku",
+      "created": "2026-06-15 23:47:55",
+      "created_at": 1781567275000
+    },
+    {
+      "id": 48598586,
+      "title": "How many of the 170k English words do you know?",
+      "link": "https://vocabowl-870366514258.us-west1.run.app/",
+      "score": 5,
+      "author": "abnry",
+      "created": "2026-06-19 13:51:36",
+      "created_at": 1781877096000
+    },
+    {
+      "id": 48546890,
+      "title": "Ten years of ClickHouse in open source",
+      "link": "https://clickhouse.com/blog/open-source-10",
+      "score": 142,
+      "author": "saisrirampur",
+      "created": "2026-06-15 20:51:54",
+      "created_at": 1781556714000
     },
     {
       "id": 48583928,
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 780,
+      "score": 869,
       "author": "theorchid",
       "created": "2026-06-18 11:45:43",
       "created_at": 1781783143000
     },
     {
-      "id": 48592163,
-      "title": "Zero-Touch OAuth for MCP",
-      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 190,
-      "author": "niyikiza",
-      "created": "2026-06-18 21:54:10",
-      "created_at": 1781819650000
+      "id": 48541062,
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "link": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 137,
+      "author": "mcanouil",
+      "created": "2026-06-15 13:35:23",
+      "created_at": 1781530523000
     },
     {
-      "id": 48570730,
-      "title": "How Japan's railways stayed one while splitting apart",
-      "link": "https://arun.is/blog/jr-logo/",
-      "score": 88,
-      "author": "ddrmaxgt37",
-      "created": "2026-06-17 14:03:58",
-      "created_at": 1781705038000
-    },
-    {
-      "id": 48594733,
-      "title": "Fable Converted Pylint to Rust",
-      "link": "https://pypi.org/project/prylint/",
-      "score": 19,
-      "author": "adamraudonis",
-      "created": "2026-06-19 04:21:07",
-      "created_at": 1781842867000
+      "id": 48595331,
+      "title": "So You Want to Define a Well-Known URI",
+      "link": "https://mnot.net/blog/2026/well_known_uris",
+      "score": 114,
+      "author": "ingve",
+      "created": "2026-06-19 06:05:01",
+      "created_at": 1781849101000
     }
   ],
   "code": 200,
