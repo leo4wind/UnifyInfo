@@ -3,14 +3,50 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-20T17:14:49.210Z"
+    "lastUpdate": "2026-06-20T21:03:13.026Z"
   },
   "data": [
+    {
+      "id": 48610827,
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "score": 143,
+      "author": "zdw",
+      "created": "2026-06-20 17:01:36",
+      "created_at": 1781974896000
+    },
+    {
+      "id": 48610853,
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "link": "https://www.lispm.net/apps/uhf-x11/",
+      "score": 98,
+      "author": "zdw",
+      "created": "2026-06-20 17:04:24",
+      "created_at": 1781975064000
+    },
+    {
+      "id": 48611942,
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "link": "https://clickhouse.com/blog/postgresbench",
+      "score": 28,
+      "author": "saisrirampur",
+      "created": "2026-06-20 19:01:10",
+      "created_at": 1781982070000
+    },
+    {
+      "id": 48611411,
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 255,
+      "author": "ridesisapis",
+      "created": "2026-06-20 18:05:31",
+      "created_at": 1781978731000
+    },
     {
       "id": 48609766,
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 64,
+      "score": 140,
       "author": "LowLevelMahn",
       "created": "2026-06-20 15:10:03",
       "created_at": 1781968203000
@@ -19,82 +55,46 @@
       "id": 48608223,
       "title": "CSSQuake",
       "link": "https://cssquake.com/",
-      "score": 313,
+      "score": 395,
       "author": "msalsas",
       "created": "2026-06-20 10:49:53",
       "created_at": 1781952593000
     },
     {
-      "id": 48609385,
-      "title": "VPN ban update for UK households as government looks at 'age-gate'",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-      "score": 141,
-      "author": "iamnothere",
-      "created": "2026-06-20 14:14:35",
-      "created_at": 1781964875000
+      "id": 48610224,
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "link": "https://startupwiki.tech/",
+      "score": 97,
+      "author": "shpran",
+      "created": "2026-06-20 15:59:29",
+      "created_at": 1781971169000
     },
     {
-      "id": 48609421,
-      "title": "The European Social Stack",
-      "link": "https://european.social",
-      "score": 71,
-      "author": "doener",
-      "created": "2026-06-20 14:20:45",
-      "created_at": 1781965245000
+      "id": 48611513,
+      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "link": "https://github.com/overflowy/make-look-scanned",
+      "score": 39,
+      "author": "overflowy",
+      "created": "2026-06-20 18:17:58",
+      "created_at": 1781979478000
     },
     {
-      "id": 48610816,
-      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
-      "link": "https://github.com/DatanoiseTV/ember-hackernews",
-      "score": 3,
-      "author": "sylwester",
-      "created": "2026-06-20 17:00:38",
-      "created_at": 1781974838000
+      "id": 48610841,
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "link": "https://github.com/oven-sh/WebKit/pull/249",
+      "score": 76,
+      "author": "gr4vityWall",
+      "created": "2026-06-20 17:02:49",
+      "created_at": 1781974969000
     },
     {
-      "id": 48609233,
-      "title": "Big Tech is borrowing like never before",
-      "link": "https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/",
-      "score": 40,
-      "author": "krupan",
-      "created": "2026-06-20 13:49:15",
-      "created_at": 1781963355000
-    },
-    {
-      "id": 48609422,
-      "title": "Web Browsers on PDAS",
-      "link": "https://vale.rocks/posts/pda-browsers",
-      "score": 21,
-      "author": "robin_reala",
-      "created": "2026-06-20 14:20:47",
-      "created_at": 1781965247000
-    },
-    {
-      "id": 48587584,
-      "title": "Mencius (2016)",
-      "link": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
-      "score": 10,
-      "author": "jruohonen",
-      "created": "2026-06-18 16:09:54",
-      "created_at": 1781798994000
-    },
-    {
-      "id": 48608255,
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "link": "https://bootimus.com",
-      "score": 66,
-      "author": "car",
-      "created": "2026-06-20 10:55:18",
-      "created_at": 1781952918000
-    },
-    {
-      "id": 48609645,
-      "title": "Cargo-Geiger",
-      "link": "https://github.com/geiger-rs/cargo-geiger",
-      "score": 16,
-      "author": "tosh",
-      "created": "2026-06-20 14:52:59",
-      "created_at": 1781967179000
+      "id": 48608515,
+      "title": "The rise of South Korea’s weapons business",
+      "link": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
+      "score": 56,
+      "author": "JumpCrisscross",
+      "created": "2026-06-20 11:44:52",
+      "created_at": 1781955892000
     }
   ],
   "code": 200,
