@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-20T13:26:00.181Z"
+    "lastUpdate": "2026-06-20T17:14:49.210Z"
   },
   "data": [
+    {
+      "id": 48609766,
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "score": 64,
+      "author": "LowLevelMahn",
+      "created": "2026-06-20 15:10:03",
+      "created_at": 1781968203000
+    },
     {
       "id": 48608223,
       "title": "CSSQuake",
       "link": "https://cssquake.com/",
-      "score": 112,
+      "score": 313,
       "author": "msalsas",
       "created": "2026-06-20 10:49:53",
       "created_at": 1781952593000
     },
     {
-      "id": 48606619,
-      "title": "I Stored a Website in a Favicon",
-      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 194,
-      "author": "theanonymousone",
-      "created": "2026-06-20 05:33:59",
-      "created_at": 1781933639000
+      "id": 48609385,
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "score": 141,
+      "author": "iamnothere",
+      "created": "2026-06-20 14:14:35",
+      "created_at": 1781964875000
     },
     {
-      "id": 48606140,
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 227,
-      "author": "moultano",
-      "created": "2026-06-20 03:36:49",
-      "created_at": 1781926609000
+      "id": 48609421,
+      "title": "The European Social Stack",
+      "link": "https://european.social",
+      "score": 71,
+      "author": "doener",
+      "created": "2026-06-20 14:20:45",
+      "created_at": 1781965245000
     },
     {
-      "id": 48608503,
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+      "id": 48610816,
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "link": "https://github.com/DatanoiseTV/ember-hackernews",
+      "score": 3,
+      "author": "sylwester",
+      "created": "2026-06-20 17:00:38",
+      "created_at": 1781974838000
+    },
+    {
+      "id": 48609233,
+      "title": "Big Tech is borrowing like never before",
+      "link": "https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/",
       "score": 40,
-      "author": "giuliomagnifico",
-      "created": "2026-06-20 11:43:29",
-      "created_at": 1781955809000
+      "author": "krupan",
+      "created": "2026-06-20 13:49:15",
+      "created_at": 1781963355000
     },
     {
-      "id": 48564480,
-      "title": "The Cold War's Accidental Whale Observatory",
-      "link": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
-      "score": 22,
-      "author": "pseudolus",
-      "created": "2026-06-17 01:06:12",
-      "created_at": 1781658372000
+      "id": 48609422,
+      "title": "Web Browsers on PDAS",
+      "link": "https://vale.rocks/posts/pda-browsers",
+      "score": 21,
+      "author": "robin_reala",
+      "created": "2026-06-20 14:20:47",
+      "created_at": 1781965247000
+    },
+    {
+      "id": 48587584,
+      "title": "Mencius (2016)",
+      "link": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
+      "score": 10,
+      "author": "jruohonen",
+      "created": "2026-06-18 16:09:54",
+      "created_at": 1781798994000
     },
     {
       "id": 48608255,
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
       "link": "https://bootimus.com",
-      "score": 9,
+      "score": 66,
       "author": "car",
       "created": "2026-06-20 10:55:18",
       "created_at": 1781952918000
     },
     {
-      "id": 48562662,
-      "title": "Data Compression Explained (2012)",
-      "link": "https://mattmahoney.net/dc/dce.html",
-      "score": 154,
-      "author": "mtdewcmu",
-      "created": "2026-06-16 21:51:57",
-      "created_at": 1781646717000
-    },
-    {
-      "id": 48582374,
-      "title": "Can you see three trees?",
-      "link": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 187,
-      "author": "Pamar",
-      "created": "2026-06-18 08:16:20",
-      "created_at": 1781770580000
-    },
-    {
-      "id": 48599515,
-      "title": "There are no instances in ATProto",
-      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 472,
-      "author": "danabramov",
-      "created": "2026-06-19 15:10:02",
-      "created_at": 1781881802000
-    },
-    {
-      "id": 48600167,
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "link": "https://arrowtsx.dev/bigger-models/",
-      "score": 294,
-      "author": "oshrimpton",
-      "created": "2026-06-19 16:11:25",
-      "created_at": 1781885485000
+      "id": 48609645,
+      "title": "Cargo-Geiger",
+      "link": "https://github.com/geiger-rs/cargo-geiger",
+      "score": 16,
+      "author": "tosh",
+      "created": "2026-06-20 14:52:59",
+      "created_at": 1781967179000
     }
   ],
   "code": 200,
