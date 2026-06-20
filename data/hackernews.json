@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-20T10:25:58.747Z"
+    "lastUpdate": "2026-06-20T13:25:59.738Z"
   },
   "data": [
-    {
-      "id": 48583928,
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 952,
-      "author": "theorchid",
-      "created": "2026-06-18 11:45:43",
-      "created_at": 1781783143000
-    },
     {
       "id": 48600312,
       "title": "Hyundai buys Boston Dynamics",
       "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 833,
+      "score": 872,
       "author": "ck2",
       "created": "2026-06-19 16:28:20",
       "created_at": 1781886500000
@@ -28,25 +19,16 @@
       "id": 48585746,
       "title": "Swiss parliament lifts ban on new nuclear power plants",
       "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 796,
+      "score": 799,
       "author": "leonidasrup",
       "created": "2026-06-18 14:17:07",
       "created_at": 1781792227000
     },
     {
-      "id": 48584207,
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "score": 731,
-      "author": "Adam-Hincu",
-      "created": "2026-06-18 12:19:05",
-      "created_at": 1781785145000
-    },
-    {
       "id": 48600093,
       "title": "Norway imposes near ban on AI in elementary school",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 673,
+      "score": 728,
       "author": "ilreb",
       "created": "2026-06-19 16:03:15",
       "created_at": 1781884995000
@@ -55,46 +37,64 @@
       "id": 48595511,
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 596,
+      "score": 615,
       "author": "philonoist",
       "created": "2026-06-19 06:35:57",
       "created_at": 1781850957000
     },
     {
-      "id": 48583356,
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 576,
-      "author": "FergusArgyll",
-      "created": "2026-06-18 10:29:20",
-      "created_at": 1781778560000
-    },
-    {
       "id": 48600345,
       "title": "Google workspace threatening to block Firefox access",
       "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "score": 484,
+      "score": 495,
       "author": "birdculture",
       "created": "2026-06-19 16:30:49",
       "created_at": 1781886649000
     },
     {
-      "id": 48584135,
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 461,
-      "author": "frou_dh",
-      "created": "2026-06-18 12:10:53",
-      "created_at": 1781784653000
+      "id": 48599515,
+      "title": "There are no instances in ATProto",
+      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 472,
+      "author": "danabramov",
+      "created": "2026-06-19 15:10:02",
+      "created_at": 1781881802000
     },
     {
       "id": 48589501,
       "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
       "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 460,
+      "score": 463,
       "author": "speckx",
       "created": "2026-06-18 18:31:23",
       "created_at": 1781807483000
+    },
+    {
+      "id": 48591348,
+      "title": "Show HN: Are You in the Weights?",
+      "link": "https://www.intheweights.com/",
+      "score": 448,
+      "author": "turtlesoup",
+      "created": "2026-06-18 20:49:03",
+      "created_at": 1781815743000
+    },
+    {
+      "id": 48586631,
+      "title": "A website that lists websites to submit your website to",
+      "link": "https://www.submission.directory/",
+      "score": 432,
+      "author": "azeemkafridi",
+      "created": "2026-06-18 15:12:43",
+      "created_at": 1781795563000
+    },
+    {
+      "id": 48592832,
+      "title": "The AirPods Effect",
+      "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "score": 430,
+      "author": "herbertl",
+      "created": "2026-06-18 23:08:35",
+      "created_at": 1781824115000
     }
   ],
   "code": 200,
