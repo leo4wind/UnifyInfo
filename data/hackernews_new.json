@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-21T02:40:07.422Z"
+    "lastUpdate": "2026-06-21T08:20:06.850Z"
   },
   "data": [
     {
-      "id": 48613755,
-      "title": "Renting a sewing machine from the library",
-      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 112,
-      "author": "sohkamyung",
-      "created": "2026-06-20 22:54:11",
-      "created_at": 1781996051000
+      "id": 48616713,
+      "title": "A 3D voxel game engine written in APL",
+      "link": "https://github.com/namgyaaal/avoxelgame",
+      "score": 8,
+      "author": "sph",
+      "created": "2026-06-21 08:04:54",
+      "created_at": 1782029094000
     },
     {
-      "id": 48613872,
-      "title": "Epoll vs. io_uring in Linux",
-      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 61,
-      "author": "Sibexico",
-      "created": "2026-06-20 23:07:09",
-      "created_at": 1781996829000
+      "id": 48614844,
+      "title": "Developers don't understand CORS (2019)",
+      "link": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 162,
+      "author": "toilet",
+      "created": "2026-06-21 01:35:40",
+      "created_at": 1782005740000
     },
     {
-      "id": 48608570,
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "link": "https://townsquare.cauenapier.com/",
-      "score": 78,
-      "author": "cauenapier",
-      "created": "2026-06-20 11:55:03",
-      "created_at": 1781956503000
-    },
-    {
-      "id": 48584261,
-      "title": "15-minute at-home Lyme disease tick test",
-      "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 44,
-      "author": "bookofjoe",
-      "created": "2026-06-18 12:22:36",
-      "created_at": 1781785356000
-    },
-    {
-      "id": 48613555,
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 68,
-      "author": "croes",
-      "created": "2026-06-20 22:22:52",
-      "created_at": 1781994172000
-    },
-    {
-      "id": 48614390,
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
-      "score": 32,
-      "author": "higginsniggins",
-      "created": "2026-06-21 00:12:49",
-      "created_at": 1782000769000
+      "id": 48573902,
+      "title": "Zigzag Decoding with AVX-512",
+      "link": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "score": 60,
+      "author": "luu",
+      "created": "2026-06-17 17:43:22",
+      "created_at": 1781718202000
     },
     {
       "id": 48608645,
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "link": "https://github.com/mysk-research/loupe",
-      "score": 76,
+      "score": 250,
       "author": "Cider9986",
       "created": "2026-06-20 12:08:23",
       "created_at": 1781957303000
     },
     {
-      "id": 48610827,
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 235,
-      "author": "zdw",
-      "created": "2026-06-20 17:01:36",
-      "created_at": 1781974896000
+      "id": 48613755,
+      "title": "Renting a sewing machine from the library",
+      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 211,
+      "author": "sohkamyung",
+      "created": "2026-06-20 22:54:11",
+      "created_at": 1781996051000
     },
     {
-      "id": 48612740,
-      "title": "Alice is impatient",
-      "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "score": 61,
-      "author": "birdculture",
-      "created": "2026-06-20 20:32:54",
-      "created_at": 1781987574000
+      "id": 48615680,
+      "title": "Building reliable agentic AI systems",
+      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "score": 78,
+      "author": "sarangk90",
+      "created": "2026-06-21 04:28:39",
+      "created_at": 1782016119000
     },
     {
-      "id": 48610853,
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "link": "https://www.lispm.net/apps/uhf-x11/",
+      "id": 48613872,
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 139,
+      "author": "Sibexico",
+      "created": "2026-06-20 23:07:09",
+      "created_at": 1781996829000
+    },
+    {
+      "id": 48616017,
+      "title": "The 100k Whys of AI",
+      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "score": 86,
+      "author": "surprisetalk",
+      "created": "2026-06-21 05:45:21",
+      "created_at": 1782020721000
+    },
+    {
+      "id": 48613555,
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
       "score": 172,
-      "author": "zdw",
-      "created": "2026-06-20 17:04:24",
-      "created_at": 1781975064000
+      "author": "croes",
+      "created": "2026-06-20 22:22:52",
+      "created_at": 1781994172000
+    },
+    {
+      "id": 48608570,
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "link": "https://townsquare.cauenapier.com/",
+      "score": 158,
+      "author": "cauenapier",
+      "created": "2026-06-20 11:55:03",
+      "created_at": 1781956503000
     }
   ],
   "code": 200,
