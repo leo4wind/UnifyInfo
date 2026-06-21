@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-21T17:17:52.051Z"
+    "lastUpdate": "2026-06-21T21:03:31.345Z"
   },
   "data": [
     {
+      "id": 48621517,
+      "title": "JSON-LD Explained for Personal Websites",
+      "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 79,
+      "author": "ethanhawksley",
+      "created": "2026-06-21 18:51:47",
+      "created_at": 1782067907000
+    },
+    {
       "id": 48620090,
-      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 87,
+      "score": 355,
       "author": "rafaepta",
       "created": "2026-06-21 16:08:23",
       "created_at": 1782058103000
     },
     {
-      "id": 48619831,
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "link": "https://norvig.com/lispy.html",
-      "score": 54,
-      "author": "tosh",
-      "created": "2026-06-21 15:36:33",
-      "created_at": 1782056193000
-    },
-    {
       "id": 48617990,
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "link": "https://www.beyondallreason.info",
-      "score": 274,
+      "score": 375,
       "author": "mosiuerbarso",
       "created": "2026-06-21 11:38:01",
       "created_at": 1782041881000
     },
     {
-      "id": 48619140,
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-      "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-      "score": 103,
-      "author": "kevinak",
-      "created": "2026-06-21 14:09:07",
-      "created_at": 1782050947000
+      "id": 48619831,
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "link": "https://norvig.com/lispy.html",
+      "score": 139,
+      "author": "tosh",
+      "created": "2026-06-21 15:36:33",
+      "created_at": 1782056193000
     },
     {
-      "id": 48587619,
-      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
-      "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-      "score": 65,
-      "author": "Audiophilip",
-      "created": "2026-06-18 16:12:21",
-      "created_at": 1781799141000
-    },
-    {
-      "id": 48620502,
-      "title": "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
-      "link": "",
-      "score": 25,
-      "author": "consumer451",
-      "created": "2026-06-21 17:00:26",
-      "created_at": 1782061226000
+      "id": 48618455,
+      "title": "Identity verification on Claude",
+      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 364,
+      "author": "bathory",
+      "created": "2026-06-21 12:44:13",
+      "created_at": 1782045853000
     },
     {
       "id": 48620342,
-      "title": "The Minimum Viable Unit of Saleable Software",
+      "title": "The minimum viable unit of saleable software",
       "link": "https://brandur.org/minimum-viable-unit",
-      "score": 4,
+      "score": 74,
       "author": "brandur",
       "created": "2026-06-21 16:41:21",
       "created_at": 1782060081000
     },
     {
-      "id": 48616800,
-      "title": "Google Hits 50% IPv6",
-      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 339,
-      "author": "barqawiz",
-      "created": "2026-06-21 08:21:22",
-      "created_at": 1782030082000
+      "id": 48621645,
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "link": "https://clevercrow.io",
+      "score": 17,
+      "author": "zhubert",
+      "created": "2026-06-21 19:06:07",
+      "created_at": 1782068767000
     },
     {
-      "id": 48619394,
-      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "score": 55,
-      "author": "choult",
-      "created": "2026-06-21 14:43:08",
-      "created_at": 1782052988000
+      "id": 48594090,
+      "title": "An Embedded Linux on a Single Floppy",
+      "link": "https://github.com/w84death/floppinux",
+      "score": 35,
+      "author": "modinfo",
+      "created": "2026-06-19 02:10:16",
+      "created_at": 1781835016000
+    },
+    {
+      "id": 48622234,
+      "title": "Ask for no, don't ask for yes (2022)",
+      "link": "https://www.mooreds.com/wordpress/archives/3518",
+      "score": 6,
+      "author": "skogstokig",
+      "created": "2026-06-21 20:17:48",
+      "created_at": 1782073068000
+    },
+    {
+      "id": 48571136,
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "link": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "score": 33,
+      "author": "skidrow",
+      "created": "2026-06-17 14:35:23",
+      "created_at": 1781706923000
     }
   ],
   "code": 200,
