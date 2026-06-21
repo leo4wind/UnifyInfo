@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-21T13:46:41.762Z"
+    "lastUpdate": "2026-06-21T17:17:52.252Z"
   },
   "data": [
+    {
+      "id": 48620090,
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 87,
+      "author": "rafaepta",
+      "created": "2026-06-21 16:08:23",
+      "created_at": 1782058103000
+    },
+    {
+      "id": 48619831,
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "link": "https://norvig.com/lispy.html",
+      "score": 54,
+      "author": "tosh",
+      "created": "2026-06-21 15:36:33",
+      "created_at": 1782056193000
+    },
     {
       "id": 48617990,
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "link": "https://www.beyondallreason.info",
-      "score": 83,
+      "score": 274,
       "author": "mosiuerbarso",
       "created": "2026-06-21 11:38:01",
       "created_at": 1782041881000
     },
     {
-      "id": 48617782,
-      "title": "The case against geometric algebra (2024)",
-      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "score": 58,
-      "author": "Hbruz0",
-      "created": "2026-06-21 11:06:55",
-      "created_at": 1782040015000
+      "id": 48619140,
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+      "score": 103,
+      "author": "kevinak",
+      "created": "2026-06-21 14:09:07",
+      "created_at": 1782050947000
     },
     {
-      "id": 48618226,
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "link": "https://github.com/proteanthread/bcg",
-      "score": 14,
-      "author": "theanonymousone",
-      "created": "2026-06-21 12:11:29",
-      "created_at": 1782043889000
+      "id": 48587619,
+      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "link": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "score": 65,
+      "author": "Audiophilip",
+      "created": "2026-06-18 16:12:21",
+      "created_at": 1781799141000
     },
     {
-      "id": 48618761,
-      "title": "Artificial",
-      "link": "https://www.inkandswitch.com/tangents/artificial/",
-      "score": 6,
-      "author": "FelipeCortez",
-      "created": "2026-06-21 13:22:47",
-      "created_at": 1782048167000
+      "id": 48620502,
+      "title": "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
+      "link": "",
+      "score": 25,
+      "author": "consumer451",
+      "created": "2026-06-21 17:00:26",
+      "created_at": 1782061226000
     },
     {
-      "id": 48616713,
-      "title": "A 3D voxel game engine written in APL",
-      "link": "https://github.com/namgyaaal/avoxelgame",
-      "score": 86,
-      "author": "sph",
-      "created": "2026-06-21 08:04:54",
-      "created_at": 1782029094000
+      "id": 48620342,
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "link": "https://brandur.org/minimum-viable-unit",
+      "score": 4,
+      "author": "brandur",
+      "created": "2026-06-21 16:41:21",
+      "created_at": 1782060081000
     },
     {
       "id": 48616800,
       "title": "Google Hits 50% IPv6",
       "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 223,
+      "score": 339,
       "author": "barqawiz",
       "created": "2026-06-21 08:21:22",
       "created_at": 1782030082000
     },
     {
-      "id": 48608645,
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "link": "https://github.com/mysk-research/loupe",
-      "score": 368,
-      "author": "Cider9986",
-      "created": "2026-06-20 12:08:23",
-      "created_at": 1781957303000
-    },
-    {
-      "id": 48616173,
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "score": 78,
-      "author": "jandeboevrie",
-      "created": "2026-06-21 06:24:52",
-      "created_at": 1782023092000
-    },
-    {
-      "id": 48599555,
-      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "link": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "score": 119,
-      "author": "zdw",
-      "created": "2026-06-19 15:13:11",
-      "created_at": 1781881991000
-    },
-    {
-      "id": 48613755,
-      "title": "Renting a sewing machine from the library",
-      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 268,
-      "author": "sohkamyung",
-      "created": "2026-06-20 22:54:11",
-      "created_at": 1781996051000
+      "id": 48619394,
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "score": 55,
+      "author": "choult",
+      "created": "2026-06-21 14:43:08",
+      "created_at": 1782052988000
     }
   ],
   "code": 200,
