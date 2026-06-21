@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-20T21:03:13.153Z"
+    "lastUpdate": "2026-06-21T02:40:07.422Z"
   },
   "data": [
+    {
+      "id": 48613755,
+      "title": "Renting a sewing machine from the library",
+      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 112,
+      "author": "sohkamyung",
+      "created": "2026-06-20 22:54:11",
+      "created_at": 1781996051000
+    },
+    {
+      "id": 48613872,
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 61,
+      "author": "Sibexico",
+      "created": "2026-06-20 23:07:09",
+      "created_at": 1781996829000
+    },
+    {
+      "id": 48608570,
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "link": "https://townsquare.cauenapier.com/",
+      "score": 78,
+      "author": "cauenapier",
+      "created": "2026-06-20 11:55:03",
+      "created_at": 1781956503000
+    },
+    {
+      "id": 48584261,
+      "title": "15-minute at-home Lyme disease tick test",
+      "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "score": 44,
+      "author": "bookofjoe",
+      "created": "2026-06-18 12:22:36",
+      "created_at": 1781785356000
+    },
+    {
+      "id": 48613555,
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 68,
+      "author": "croes",
+      "created": "2026-06-20 22:22:52",
+      "created_at": 1781994172000
+    },
+    {
+      "id": 48614390,
+      "title": "'We had to get out of the way': The backlash over delivery robots",
+      "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
+      "score": 32,
+      "author": "higginsniggins",
+      "created": "2026-06-21 00:12:49",
+      "created_at": 1782000769000
+    },
+    {
+      "id": 48608645,
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "link": "https://github.com/mysk-research/loupe",
+      "score": 76,
+      "author": "Cider9986",
+      "created": "2026-06-20 12:08:23",
+      "created_at": 1781957303000
+    },
     {
       "id": 48610827,
       "title": "SMPTE Makes Its Standards Freely Accessible",
       "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 143,
+      "score": 235,
       "author": "zdw",
       "created": "2026-06-20 17:01:36",
       "created_at": 1781974896000
     },
     {
+      "id": 48612740,
+      "title": "Alice is impatient",
+      "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 61,
+      "author": "birdculture",
+      "created": "2026-06-20 20:32:54",
+      "created_at": 1781987574000
+    },
+    {
       "id": 48610853,
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "link": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 98,
+      "score": 172,
       "author": "zdw",
       "created": "2026-06-20 17:04:24",
       "created_at": 1781975064000
-    },
-    {
-      "id": 48611942,
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "link": "https://clickhouse.com/blog/postgresbench",
-      "score": 28,
-      "author": "saisrirampur",
-      "created": "2026-06-20 19:01:10",
-      "created_at": 1781982070000
-    },
-    {
-      "id": 48611411,
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "score": 255,
-      "author": "ridesisapis",
-      "created": "2026-06-20 18:05:31",
-      "created_at": 1781978731000
-    },
-    {
-      "id": 48609766,
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 140,
-      "author": "LowLevelMahn",
-      "created": "2026-06-20 15:10:03",
-      "created_at": 1781968203000
-    },
-    {
-      "id": 48608223,
-      "title": "CSSQuake",
-      "link": "https://cssquake.com/",
-      "score": 395,
-      "author": "msalsas",
-      "created": "2026-06-20 10:49:53",
-      "created_at": 1781952593000
-    },
-    {
-      "id": 48610224,
-      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-      "link": "https://startupwiki.tech/",
-      "score": 97,
-      "author": "shpran",
-      "created": "2026-06-20 15:59:29",
-      "created_at": 1781971169000
-    },
-    {
-      "id": 48611513,
-      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-      "link": "https://github.com/overflowy/make-look-scanned",
-      "score": 39,
-      "author": "overflowy",
-      "created": "2026-06-20 18:17:58",
-      "created_at": 1781979478000
-    },
-    {
-      "id": 48610841,
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "link": "https://github.com/oven-sh/WebKit/pull/249",
-      "score": 76,
-      "author": "gr4vityWall",
-      "created": "2026-06-20 17:02:49",
-      "created_at": 1781974969000
-    },
-    {
-      "id": 48608515,
-      "title": "The rise of South Korea’s weapons business",
-      "link": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
-      "score": 56,
-      "author": "JumpCrisscross",
-      "created": "2026-06-20 11:44:52",
-      "created_at": 1781955892000
     }
   ],
   "code": 200,
