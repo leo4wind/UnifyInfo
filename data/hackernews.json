@@ -3,23 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-22T02:43:13.940Z"
+    "lastUpdate": "2026-06-22T09:37:32.793Z"
   },
   "data": [
     {
       "id": 48618455,
       "title": "Identity verification on Claude",
       "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 592,
+      "score": 746,
       "author": "bathory",
       "created": "2026-06-21 12:44:13",
       "created_at": 1782045853000
     },
     {
+      "id": 48622867,
+      "title": "Did my old job only exist because of fraud?",
+      "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 548,
+      "author": "advisedwang",
+      "created": "2026-06-21 21:40:53",
+      "created_at": 1782078053000
+    },
+    {
       "id": 48608223,
       "title": "CSSQuake",
       "link": "https://cssquake.com/",
-      "score": 531,
+      "score": 536,
       "author": "msalsas",
       "created": "2026-06-20 10:49:53",
       "created_at": 1781952593000
@@ -28,73 +37,64 @@
       "id": 48608645,
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "link": "https://github.com/mysk-research/loupe",
-      "score": 514,
+      "score": 526,
       "author": "Cider9986",
       "created": "2026-06-20 12:08:23",
       "created_at": 1781957303000
     },
     {
-      "id": 48606140,
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 473,
-      "author": "moultano",
-      "created": "2026-06-20 03:36:49",
-      "created_at": 1781926609000
-    },
-    {
-      "id": 48617990,
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "score": 439,
-      "author": "mosiuerbarso",
-      "created": "2026-06-21 11:38:01",
-      "created_at": 1782041881000
-    },
-    {
       "id": 48620090,
       "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 430,
+      "score": 483,
       "author": "rafaepta",
       "created": "2026-06-21 16:08:23",
       "created_at": 1782058103000
     },
     {
-      "id": 48611411,
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "score": 399,
-      "author": "ridesisapis",
-      "created": "2026-06-20 18:05:31",
-      "created_at": 1781978731000
-    },
-    {
-      "id": 48616800,
-      "title": "Google Hits 50% IPv6",
-      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 387,
-      "author": "barqawiz",
-      "created": "2026-06-21 08:21:22",
-      "created_at": 1782030082000
-    },
-    {
-      "id": 48613555,
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 386,
-      "author": "croes",
-      "created": "2026-06-20 22:22:52",
-      "created_at": 1781994172000
+      "id": 48617990,
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "link": "https://www.beyondallreason.info",
+      "score": 478,
+      "author": "mosiuerbarso",
+      "created": "2026-06-21 11:38:01",
+      "created_at": 1782041881000
     },
     {
       "id": 48615569,
       "title": "The brain was not designed for this much bad news",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "score": 385,
+      "score": 418,
       "author": "colinprince",
       "created": "2026-06-21 04:02:08",
       "created_at": 1782014528000
+    },
+    {
+      "id": 48616800,
+      "title": "Google Hits 50% IPv6",
+      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "score": 403,
+      "author": "barqawiz",
+      "created": "2026-06-21 08:21:22",
+      "created_at": 1782030082000
+    },
+    {
+      "id": 48611411,
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 403,
+      "author": "ridesisapis",
+      "created": "2026-06-20 18:05:31",
+      "created_at": 1781978731000
+    },
+    {
+      "id": 48613555,
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 390,
+      "author": "croes",
+      "created": "2026-06-20 22:22:52",
+      "created_at": 1781994172000
     }
   ],
   "code": 200,
