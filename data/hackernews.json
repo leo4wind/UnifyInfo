@@ -3,41 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-22T16:26:50.752Z"
+    "lastUpdate": "2026-06-22T21:54:37.692Z"
   },
   "data": [
-    {
-      "id": 48618455,
-      "title": "Identity verification on Claude",
-      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 828,
-      "author": "bathory",
-      "created": "2026-06-21 12:44:13",
-      "created_at": 1782045853000
-    },
     {
       "id": 48626137,
       "title": "Deno Desktop",
       "link": "https://docs.deno.com/runtime/desktop/",
-      "score": 807,
+      "score": 982,
       "author": "GeneralMaximus",
       "created": "2026-06-22 05:38:40",
       "created_at": 1782106720000
     },
     {
+      "id": 48632884,
+      "title": "Steam Machine launches today",
+      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 907,
+      "author": "theschwa",
+      "created": "2026-06-22 17:09:51",
+      "created_at": 1782148191000
+    },
+    {
+      "id": 48618455,
+      "title": "Identity verification on Claude",
+      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 843,
+      "author": "bathory",
+      "created": "2026-06-21 12:44:13",
+      "created_at": 1782045853000
+    },
+    {
       "id": 48622867,
       "title": "Did my old job only exist because of fraud?",
       "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 747,
+      "score": 789,
       "author": "advisedwang",
       "created": "2026-06-21 21:40:53",
       "created_at": 1782078053000
     },
     {
+      "id": 48630066,
+      "title": "Never Give Them Your Face",
+      "link": "https://nevergivethemyourface.com/",
+      "score": 679,
+      "author": "audiodude",
+      "created": "2026-06-22 13:45:48",
+      "created_at": 1782135948000
+    },
+    {
+      "id": 48630020,
+      "title": "Pledging another $400k to the Zig software foundation",
+      "link": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 671,
+      "author": "tosh",
+      "created": "2026-06-22 13:43:01",
+      "created_at": 1782135781000
+    },
+    {
       "id": 48620090,
       "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 518,
+      "score": 522,
       "author": "rafaepta",
       "created": "2026-06-21 16:08:23",
       "created_at": 1782058103000
@@ -46,7 +73,7 @@
       "id": 48622778,
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "link": "https://apertvs.ai/",
-      "score": 495,
+      "score": 517,
       "author": "T-A",
       "created": "2026-06-21 21:29:43",
       "created_at": 1782077383000
@@ -55,46 +82,19 @@
       "id": 48617990,
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "link": "https://www.beyondallreason.info",
-      "score": 490,
+      "score": 492,
       "author": "mosiuerbarso",
       "created": "2026-06-21 11:38:01",
       "created_at": 1782041881000
     },
     {
-      "id": 48615569,
-      "title": "The brain was not designed for this much bad news",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "score": 437,
-      "author": "colinprince",
-      "created": "2026-06-21 04:02:08",
-      "created_at": 1782014528000
-    },
-    {
-      "id": 48630020,
-      "title": "Pledging Another $400k to the Zig Software Foundation",
-      "link": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 428,
-      "author": "tosh",
-      "created": "2026-06-22 13:43:01",
-      "created_at": 1782135781000
-    },
-    {
-      "id": 48616800,
-      "title": "Google Hits 50% IPv6",
-      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 413,
-      "author": "barqawiz",
-      "created": "2026-06-21 08:21:22",
-      "created_at": 1782030082000
-    },
-    {
-      "id": 48611411,
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "score": 405,
-      "author": "ridesisapis",
-      "created": "2026-06-20 18:05:31",
-      "created_at": 1781978731000
+      "id": 48626866,
+      "title": "GLM 5.2 vs. Opus",
+      "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "score": 457,
+      "author": "ritzaco",
+      "created": "2026-06-22 07:22:03",
+      "created_at": 1782112923000
     }
   ],
   "code": 200,
