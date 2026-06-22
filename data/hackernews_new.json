@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-21T21:03:31.843Z"
+    "lastUpdate": "2026-06-22T02:43:14.322Z"
   },
   "data": [
     {
+      "id": 48622778,
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "link": "https://apertvs.ai/",
+      "score": 216,
+      "author": "T-A",
+      "created": "2026-06-21 21:29:43",
+      "created_at": 1782077383000
+    },
+    {
+      "id": 48622867,
+      "title": "Did my old job only exist because of fraud?",
+      "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 253,
+      "author": "advisedwang",
+      "created": "2026-06-21 21:40:53",
+      "created_at": 1782078053000
+    },
+    {
+      "id": 48624782,
+      "title": "Sakana Fugu",
+      "link": "https://sakana.ai/fugu/",
+      "score": 12,
+      "author": "Finbarr",
+      "created": "2026-06-22 02:08:18",
+      "created_at": 1782094098000
+    },
+    {
+      "id": 48622626,
+      "title": "Everything is logarithms",
+      "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "score": 127,
+      "author": "E-Reverance",
+      "created": "2026-06-21 21:10:32",
+      "created_at": 1782076232000
+    },
+    {
+      "id": 48624114,
+      "title": "1983 Northern Telecom Commodore Phone",
+      "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "score": 21,
+      "author": "arexxbifs",
+      "created": "2026-06-22 00:34:33",
+      "created_at": 1782088473000
+    },
+    {
+      "id": 48606096,
+      "title": "Memory Safe Inline Assembly",
+      "link": "https://fil-c.org/inlineasm",
+      "score": 21,
+      "author": "pizlonator",
+      "created": "2026-06-20 03:29:19",
+      "created_at": 1781926159000
+    },
+    {
+      "id": 48622518,
+      "title": "There is minimal downside to switching to open models",
+      "link": "https://www.marble.onl/posts/cancel_claude.html",
+      "score": 65,
+      "author": "amarble",
+      "created": "2026-06-21 20:56:01",
+      "created_at": 1782075361000
+    },
+    {
       "id": 48621517,
-      "title": "JSON-LD Explained for Personal Websites",
+      "title": "JSON-LD explained for personal websites",
       "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "score": 79,
+      "score": 173,
       "author": "ethanhawksley",
       "created": "2026-06-21 18:51:47",
       "created_at": 1782067907000
     },
     {
-      "id": 48620090,
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 355,
-      "author": "rafaepta",
-      "created": "2026-06-21 16:08:23",
-      "created_at": 1782058103000
+      "id": 48622731,
+      "title": "PowerFox Browser",
+      "link": "https://powerfox.jazzzny.me/",
+      "score": 79,
+      "author": "thisislife2",
+      "created": "2026-06-21 21:23:13",
+      "created_at": 1782076993000
     },
     {
-      "id": 48617990,
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "score": 375,
-      "author": "mosiuerbarso",
-      "created": "2026-06-21 11:38:01",
-      "created_at": 1782041881000
-    },
-    {
-      "id": 48619831,
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "link": "https://norvig.com/lispy.html",
-      "score": 139,
-      "author": "tosh",
-      "created": "2026-06-21 15:36:33",
-      "created_at": 1782056193000
-    },
-    {
-      "id": 48618455,
-      "title": "Identity verification on Claude",
-      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 364,
-      "author": "bathory",
-      "created": "2026-06-21 12:44:13",
-      "created_at": 1782045853000
-    },
-    {
-      "id": 48620342,
-      "title": "The minimum viable unit of saleable software",
-      "link": "https://brandur.org/minimum-viable-unit",
-      "score": 74,
-      "author": "brandur",
-      "created": "2026-06-21 16:41:21",
-      "created_at": 1782060081000
-    },
-    {
-      "id": 48621645,
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "link": "https://clevercrow.io",
-      "score": 17,
-      "author": "zhubert",
-      "created": "2026-06-21 19:06:07",
-      "created_at": 1782068767000
-    },
-    {
-      "id": 48594090,
-      "title": "An Embedded Linux on a Single Floppy",
-      "link": "https://github.com/w84death/floppinux",
+      "id": 48589687,
+      "title": "I Play Video Games with Spinal Muscular Atrophy",
+      "link": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
       "score": 35,
-      "author": "modinfo",
-      "created": "2026-06-19 02:10:16",
-      "created_at": 1781835016000
-    },
-    {
-      "id": 48622234,
-      "title": "Ask for no, don't ask for yes (2022)",
-      "link": "https://www.mooreds.com/wordpress/archives/3518",
-      "score": 6,
-      "author": "skogstokig",
-      "created": "2026-06-21 20:17:48",
-      "created_at": 1782073068000
-    },
-    {
-      "id": 48571136,
-      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-      "link": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-      "score": 33,
-      "author": "skidrow",
-      "created": "2026-06-17 14:35:23",
-      "created_at": 1781706923000
+      "author": "dannyobrien",
+      "created": "2026-06-18 18:45:03",
+      "created_at": 1781808303000
     }
   ],
   "code": 200,
