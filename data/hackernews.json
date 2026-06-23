@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-23T07:38:20.768Z"
+    "lastUpdate": "2026-06-23T10:53:32.167Z"
   },
   "data": [
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1487,
+      "score": 1611,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
@@ -19,7 +19,7 @@
       "id": 48626137,
       "title": "Deno Desktop",
       "link": "https://docs.deno.com/runtime/desktop/",
-      "score": 1059,
+      "score": 1070,
       "author": "GeneralMaximus",
       "created": "2026-06-22 05:38:40",
       "created_at": 1782106720000
@@ -37,7 +37,7 @@
       "id": 48622867,
       "title": "Did my old job only exist because of fraud?",
       "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 810,
+      "score": 815,
       "author": "advisedwang",
       "created": "2026-06-21 21:40:53",
       "created_at": 1782078053000
@@ -46,7 +46,7 @@
       "id": 48630020,
       "title": "Pledging another $400k to the Zig software foundation",
       "link": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 770,
+      "score": 781,
       "author": "tosh",
       "created": "2026-06-22 13:43:01",
       "created_at": 1782135781000
@@ -55,7 +55,7 @@
       "id": 48630066,
       "title": "Never Give Them Your Face",
       "link": "https://nevergivethemyourface.com/",
-      "score": 711,
+      "score": 713,
       "author": "audiodude",
       "created": "2026-06-22 13:45:48",
       "created_at": 1782135948000
@@ -64,10 +64,19 @@
       "id": 48620090,
       "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 531,
+      "score": 532,
       "author": "rafaepta",
       "created": "2026-06-21 16:08:23",
       "created_at": 1782058103000
+    },
+    {
+      "id": 48634694,
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "link": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 525,
+      "author": "jhonovich",
+      "created": "2026-06-22 19:13:46",
+      "created_at": 1782155626000
     },
     {
       "id": 48622778,
@@ -82,19 +91,10 @@
       "id": 48626866,
       "title": "GLM 5.2 vs. Opus",
       "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 502,
+      "score": 505,
       "author": "ritzaco",
       "created": "2026-06-22 07:22:03",
       "created_at": 1782112923000
-    },
-    {
-      "id": 48617990,
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "score": 495,
-      "author": "mosiuerbarso",
-      "created": "2026-06-21 11:38:01",
-      "created_at": 1782041881000
     }
   ],
   "code": 200,

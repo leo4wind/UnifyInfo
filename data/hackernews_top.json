@@ -3,23 +3,23 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-23T07:38:21.191Z"
+    "lastUpdate": "2026-06-23T10:53:32.423Z"
   },
   "data": [
     {
-      "id": 48640196,
-      "title": "Will It Mythos?",
-      "link": "https://swelljoe.com/post/will-it-mythos/",
-      "score": 127,
-      "author": "mindingnever",
-      "created": "2026-06-23 04:15:04",
-      "created_at": 1782188104000
+      "id": 48642699,
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "link": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "score": 43,
+      "author": "ibobev",
+      "created": "2026-06-23 10:04:04",
+      "created_at": 1782209044000
     },
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1487,
+      "score": 1611,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
@@ -28,16 +28,34 @@
       "id": 48640974,
       "title": "The new HTTP QUERY method explained",
       "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "score": 23,
+      "score": 136,
       "author": "CommonGuy",
       "created": "2026-06-23 06:05:37",
       "created_at": 1782194737000
     },
     {
+      "id": 48614715,
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "score": 323,
+      "author": "Vaslo",
+      "created": "2026-06-21 01:12:21",
+      "created_at": 1782004341000
+    },
+    {
+      "id": 48596488,
+      "title": "Plotnine",
+      "link": "https://plotnine.org/",
+      "score": 49,
+      "author": "tosh",
+      "created": "2026-06-19 09:08:00",
+      "created_at": 1781860080000
+    },
+    {
       "id": 48636377,
       "title": "GLM-5.2 – How to Run Locally",
       "link": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 337,
+      "score": 413,
       "author": "TechTechTech",
       "created": "2026-06-22 21:21:01",
       "created_at": 1782163261000
@@ -46,55 +64,37 @@
       "id": 48639240,
       "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "link": "https://arxiv.org/abs/2606.16140",
-      "score": 143,
+      "score": 208,
       "author": "timhigins",
       "created": "2026-06-23 02:01:25",
       "created_at": 1782180085000
     },
     {
-      "id": 48614715,
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "score": 225,
-      "author": "Vaslo",
-      "created": "2026-06-21 01:12:21",
-      "created_at": 1782004341000
-    },
-    {
       "id": 48638886,
       "title": "In praise of memcached",
       "link": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 131,
+      "score": 171,
       "author": "j03b",
       "created": "2026-06-23 01:15:05",
       "created_at": 1782177305000
     },
     {
-      "id": 48639165,
-      "title": "An Introduction to YOLO26",
-      "link": "https://blog.roboflow.com/yolo26/",
-      "score": 59,
-      "author": "teleforce",
-      "created": "2026-06-23 01:52:20",
-      "created_at": 1782179540000
+      "id": 48619125,
+      "title": "8086 Segmented Memory was a good idea",
+      "link": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
+      "score": 26,
+      "author": "billpg",
+      "created": "2026-06-21 14:07:11",
+      "created_at": 1782050831000
     },
     {
-      "id": 48639063,
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "link": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 61,
-      "author": "AaronO",
-      "created": "2026-06-23 01:36:08",
-      "created_at": 1782178568000
-    },
-    {
-      "id": 48639434,
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "link": "https://arxiv.org/abs/2606.03748",
-      "score": 35,
-      "author": "teleforce",
-      "created": "2026-06-23 02:28:00",
-      "created_at": 1782181680000
+      "id": 48640196,
+      "title": "Will It Mythos?",
+      "link": "https://swelljoe.com/post/will-it-mythos/",
+      "score": 174,
+      "author": "mindingnever",
+      "created": "2026-06-23 04:15:04",
+      "created_at": 1782188104000
     }
   ],
   "code": 200,
