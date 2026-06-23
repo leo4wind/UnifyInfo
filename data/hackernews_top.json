@@ -3,41 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-22T21:54:37.959Z"
+    "lastUpdate": "2026-06-23T02:09:38.795Z"
   },
   "data": [
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 907,
+      "score": 1229,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
     },
     {
-      "id": 48634787,
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "score": 62,
-      "author": "sprawl_",
-      "created": "2026-06-22 19:21:00",
-      "created_at": 1782156060000
+      "id": 48636377,
+      "title": "Runing GLM-5.2 on local hardware",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 182,
+      "author": "TechTechTech",
+      "created": "2026-06-22 21:21:01",
+      "created_at": 1782163261000
+    },
+    {
+      "id": 48638886,
+      "title": "In Praise of Memcached",
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 13,
+      "author": "j03b",
+      "created": "2026-06-23 01:15:05",
+      "created_at": 1782177305000
+    },
+    {
+      "id": 48638660,
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "score": 87,
+      "author": "pseudolus",
+      "created": "2026-06-23 00:47:32",
+      "created_at": 1782175652000
+    },
+    {
+      "id": 48605776,
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "link": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "score": 40,
+      "author": "akkartik",
+      "created": "2026-06-20 02:29:21",
+      "created_at": 1781922561000
     },
     {
       "id": 48634778,
       "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
       "link": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 44,
+      "score": 107,
       "author": "iamnothere",
       "created": "2026-06-22 19:19:55",
       "created_at": 1782155995000
     },
     {
+      "id": 48634787,
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "score": 112,
+      "author": "sprawl_",
+      "created": "2026-06-22 19:21:00",
+      "created_at": 1782156060000
+    },
+    {
       "id": 48597221,
       "title": "My Mathematical Regression",
       "link": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 145,
+      "score": 210,
       "author": "aleda145",
       "created": "2026-06-19 11:06:04",
       "created_at": 1781867164000
@@ -46,46 +82,19 @@
       "id": 48634803,
       "title": "Japanese symbols that speak without words",
       "link": "https://arun.is/blog/japan-symbols/",
-      "score": 45,
+      "score": 108,
       "author": "msephton",
       "created": "2026-06-22 19:22:37",
       "created_at": 1782156157000
     },
     {
-      "id": 48630171,
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "link": "https://hustvl.github.io/Moebius/",
-      "score": 191,
-      "author": "DSemba",
-      "created": "2026-06-22 13:53:02",
-      "created_at": 1782136382000
-    },
-    {
-      "id": 48631726,
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "link": "https://oak.space/oak/oak",
-      "score": 117,
-      "author": "zdgeier",
-      "created": "2026-06-22 15:37:48",
-      "created_at": 1782142668000
-    },
-    {
-      "id": 48634585,
-      "title": "Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
-      "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 132,
-      "author": "geox",
-      "created": "2026-06-22 19:06:48",
-      "created_at": 1782155208000
-    },
-    {
-      "id": 48626930,
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "link": "https://github.com/openai/codex/issues/28224",
-      "score": 437,
-      "author": "vantareed",
-      "created": "2026-06-22 07:30:17",
-      "created_at": 1782113417000
+      "id": 48588247,
+      "title": "Is it time for a new Embedded Linux build system?",
+      "link": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+      "score": 34,
+      "author": "cbrake",
+      "created": "2026-06-18 16:57:05",
+      "created_at": 1781801825000
     }
   ],
   "code": 200,
