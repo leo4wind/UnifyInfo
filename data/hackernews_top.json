@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-23T02:09:38.795Z"
+    "lastUpdate": "2026-06-23T07:38:21.191Z"
   },
   "data": [
+    {
+      "id": 48640196,
+      "title": "Will It Mythos?",
+      "link": "https://swelljoe.com/post/will-it-mythos/",
+      "score": 127,
+      "author": "mindingnever",
+      "created": "2026-06-23 04:15:04",
+      "created_at": 1782188104000
+    },
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1229,
+      "score": 1487,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
     },
     {
+      "id": 48640974,
+      "title": "The new HTTP QUERY method explained",
+      "link": "https://kreya.app/blog/new-http-query-method-explained/",
+      "score": 23,
+      "author": "CommonGuy",
+      "created": "2026-06-23 06:05:37",
+      "created_at": 1782194737000
+    },
+    {
       "id": 48636377,
-      "title": "Runing GLM-5.2 on local hardware",
+      "title": "GLM-5.2 – How to Run Locally",
       "link": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 182,
+      "score": 337,
       "author": "TechTechTech",
       "created": "2026-06-22 21:21:01",
       "created_at": 1782163261000
     },
     {
+      "id": 48639240,
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "link": "https://arxiv.org/abs/2606.16140",
+      "score": 143,
+      "author": "timhigins",
+      "created": "2026-06-23 02:01:25",
+      "created_at": 1782180085000
+    },
+    {
+      "id": 48614715,
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "link": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "score": 225,
+      "author": "Vaslo",
+      "created": "2026-06-21 01:12:21",
+      "created_at": 1782004341000
+    },
+    {
       "id": 48638886,
-      "title": "In Praise of Memcached",
+      "title": "In praise of memcached",
       "link": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 13,
+      "score": 131,
       "author": "j03b",
       "created": "2026-06-23 01:15:05",
       "created_at": 1782177305000
     },
     {
-      "id": 48638660,
-      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-      "score": 87,
-      "author": "pseudolus",
-      "created": "2026-06-23 00:47:32",
-      "created_at": 1782175652000
+      "id": 48639165,
+      "title": "An Introduction to YOLO26",
+      "link": "https://blog.roboflow.com/yolo26/",
+      "score": 59,
+      "author": "teleforce",
+      "created": "2026-06-23 01:52:20",
+      "created_at": 1782179540000
     },
     {
-      "id": 48605776,
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "link": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-      "score": 40,
-      "author": "akkartik",
-      "created": "2026-06-20 02:29:21",
-      "created_at": 1781922561000
+      "id": 48639063,
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "link": "https://openai.com/index/daybreak-securing-the-world/",
+      "score": 61,
+      "author": "AaronO",
+      "created": "2026-06-23 01:36:08",
+      "created_at": 1782178568000
     },
     {
-      "id": 48634778,
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "link": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 107,
-      "author": "iamnothere",
-      "created": "2026-06-22 19:19:55",
-      "created_at": 1782155995000
-    },
-    {
-      "id": 48634787,
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "score": 112,
-      "author": "sprawl_",
-      "created": "2026-06-22 19:21:00",
-      "created_at": 1782156060000
-    },
-    {
-      "id": 48597221,
-      "title": "My Mathematical Regression",
-      "link": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 210,
-      "author": "aleda145",
-      "created": "2026-06-19 11:06:04",
-      "created_at": 1781867164000
-    },
-    {
-      "id": 48634803,
-      "title": "Japanese symbols that speak without words",
-      "link": "https://arun.is/blog/japan-symbols/",
-      "score": 108,
-      "author": "msephton",
-      "created": "2026-06-22 19:22:37",
-      "created_at": 1782156157000
-    },
-    {
-      "id": 48588247,
-      "title": "Is it time for a new Embedded Linux build system?",
-      "link": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-      "score": 34,
-      "author": "cbrake",
-      "created": "2026-06-18 16:57:05",
-      "created_at": 1781801825000
+      "id": 48639434,
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "link": "https://arxiv.org/abs/2606.03748",
+      "score": 35,
+      "author": "teleforce",
+      "created": "2026-06-23 02:28:00",
+      "created_at": 1782181680000
     }
   ],
   "code": 200,

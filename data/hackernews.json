@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-23T02:09:38.227Z"
+    "lastUpdate": "2026-06-23T07:38:20.768Z"
   },
   "data": [
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1229,
+      "score": 1487,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
@@ -19,7 +19,7 @@
       "id": 48626137,
       "title": "Deno Desktop",
       "link": "https://docs.deno.com/runtime/desktop/",
-      "score": 1026,
+      "score": 1059,
       "author": "GeneralMaximus",
       "created": "2026-06-22 05:38:40",
       "created_at": 1782106720000
@@ -28,7 +28,7 @@
       "id": 48618455,
       "title": "Identity verification on Claude",
       "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 844,
+      "score": 850,
       "author": "bathory",
       "created": "2026-06-21 12:44:13",
       "created_at": 1782045853000
@@ -37,7 +37,7 @@
       "id": 48622867,
       "title": "Did my old job only exist because of fraud?",
       "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 798,
+      "score": 810,
       "author": "advisedwang",
       "created": "2026-06-21 21:40:53",
       "created_at": 1782078053000
@@ -46,7 +46,7 @@
       "id": 48630020,
       "title": "Pledging another $400k to the Zig software foundation",
       "link": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 731,
+      "score": 770,
       "author": "tosh",
       "created": "2026-06-22 13:43:01",
       "created_at": 1782135781000
@@ -55,7 +55,7 @@
       "id": 48630066,
       "title": "Never Give Them Your Face",
       "link": "https://nevergivethemyourface.com/",
-      "score": 693,
+      "score": 711,
       "author": "audiodude",
       "created": "2026-06-22 13:45:48",
       "created_at": 1782135948000
@@ -64,7 +64,7 @@
       "id": 48620090,
       "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 527,
+      "score": 531,
       "author": "rafaepta",
       "created": "2026-06-21 16:08:23",
       "created_at": 1782058103000
@@ -73,28 +73,28 @@
       "id": 48622778,
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "link": "https://apertvs.ai/",
-      "score": 520,
+      "score": 523,
       "author": "T-A",
       "created": "2026-06-21 21:29:43",
       "created_at": 1782077383000
     },
     {
-      "id": 48617990,
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "score": 493,
-      "author": "mosiuerbarso",
-      "created": "2026-06-21 11:38:01",
-      "created_at": 1782041881000
-    },
-    {
       "id": 48626866,
       "title": "GLM 5.2 vs. Opus",
       "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 484,
+      "score": 502,
       "author": "ritzaco",
       "created": "2026-06-22 07:22:03",
       "created_at": 1782112923000
+    },
+    {
+      "id": 48617990,
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "link": "https://www.beyondallreason.info",
+      "score": 495,
+      "author": "mosiuerbarso",
+      "created": "2026-06-21 11:38:01",
+      "created_at": 1782041881000
     }
   ],
   "code": 200,
