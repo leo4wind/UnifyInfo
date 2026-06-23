@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-23T17:44:10.438Z"
+    "lastUpdate": "2026-06-23T21:22:43.169Z"
   },
   "data": [
     {
-      "id": 48647799,
-      "title": "F3",
-      "link": "https://github.com/future-file-format/f3",
-      "score": 134,
-      "author": "tosh",
-      "created": "2026-06-23 16:53:32",
-      "created_at": 1782233612000
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "link": "http://www.jerrysmap.com/the-map",
+      "score": 203,
+      "author": "turtleyacht",
+      "created": "2026-06-23 18:40:22",
+      "created_at": 1782240022000
+    },
+    {
+      "id": 48648779,
+      "title": "Swift Package Index joins Apple",
+      "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 122,
+      "author": "JDevlieghere",
+      "created": "2026-06-23 18:00:58",
+      "created_at": 1782237658000
+    },
+    {
+      "id": 48650837,
+      "title": "Don't verify email addresses by sending spam to them",
+      "link": "https://milek7.pl/mailverifyspam/",
+      "score": 32,
+      "author": "garaetjjte",
+      "created": "2026-06-23 20:23:49",
+      "created_at": 1782246229000
+    },
+    {
+      "id": 48648619,
+      "title": "FUTO Swipe – A new swipe typing model",
+      "link": "https://swipe.futo.tech/",
+      "score": 106,
+      "author": "futohq",
+      "created": "2026-06-23 17:50:22",
+      "created_at": 1782237022000
     },
     {
       "id": 48645437,
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "link": "https://tikz.dev/editor/",
-      "score": 207,
+      "score": 281,
       "author": "DominikPeters",
       "created": "2026-06-23 14:24:21",
       "created_at": 1782224661000
     },
     {
+      "id": 48618481,
+      "title": "Printing Gaussian Splats",
+      "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 49,
+      "author": "ilnmtlbnm",
+      "created": "2026-06-21 12:49:02",
+      "created_at": 1782046142000
+    },
+    {
+      "id": 48647799,
+      "title": "F3",
+      "link": "https://github.com/future-file-format/f3",
+      "score": 542,
+      "author": "tosh",
+      "created": "2026-06-23 16:53:32",
+      "created_at": 1782233612000
+    },
+    {
+      "id": 48649673,
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "score": 89,
+      "author": "sizzle",
+      "created": "2026-06-23 18:56:19",
+      "created_at": 1782240979000
+    },
+    {
+      "id": 48647486,
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "link": "https://dynomight.net/vitamin-d/",
+      "score": 111,
+      "author": "surprisetalk",
+      "created": "2026-06-23 16:30:18",
+      "created_at": 1782232218000
+    },
+    {
       "id": 48643426,
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
       "link": "https://github.com/baidu/Unlimited-OCR",
-      "score": 331,
+      "score": 400,
       "author": "ingve",
       "created": "2026-06-23 11:35:05",
       "created_at": 1782214505000
-    },
-    {
-      "id": 48647823,
-      "title": "San Diego Photologs from the 1970s",
-      "link": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-      "score": 21,
-      "author": "jonathanmkeegan",
-      "created": "2026-06-23 16:55:26",
-      "created_at": 1782233726000
-    },
-    {
-      "id": 48645721,
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "link": "https://lift4d.github.io/",
-      "score": 63,
-      "author": "ilreb",
-      "created": "2026-06-23 14:40:17",
-      "created_at": 1782225617000
-    },
-    {
-      "id": 48634187,
-      "title": "Five monitors on a Commodore 128 [video]",
-      "link": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 34,
-      "author": "EvanAnderson",
-      "created": "2026-06-22 18:39:22",
-      "created_at": 1782153562000
-    },
-    {
-      "id": 48643180,
-      "title": "The Coming Loop",
-      "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 167,
-      "author": "ingve",
-      "created": "2026-06-23 11:06:41",
-      "created_at": 1782212801000
-    },
-    {
-      "id": 48597201,
-      "title": "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
-      "link": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 27,
-      "author": "its_ajseven",
-      "created": "2026-06-19 11:03:52",
-      "created_at": 1781867032000
-    },
-    {
-      "id": 48645152,
-      "title": "Mistral OCR 4",
-      "link": "https://mistral.ai/news/ocr-4/",
-      "score": 271,
-      "author": "meetpateltech",
-      "created": "2026-06-23 14:03:19",
-      "created_at": 1782223399000
-    },
-    {
-      "id": 48645386,
-      "title": "Elevated error rate across multiple models",
-      "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 172,
-      "author": "rob",
-      "created": "2026-06-23 14:19:47",
-      "created_at": 1782224387000
     }
   ],
   "code": 200,

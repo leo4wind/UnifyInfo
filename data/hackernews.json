@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-23T17:44:10.131Z"
+    "lastUpdate": "2026-06-23T21:22:42.903Z"
   },
   "data": [
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1836,
+      "score": 1862,
       "author": "theschwa",
       "created": "2026-06-22 17:09:51",
       "created_at": 1782148191000
@@ -19,7 +19,7 @@
       "id": 48626137,
       "title": "Deno Desktop",
       "link": "https://docs.deno.com/runtime/desktop/",
-      "score": 1090,
+      "score": 1095,
       "author": "GeneralMaximus",
       "created": "2026-06-22 05:38:40",
       "created_at": 1782106720000
@@ -28,7 +28,7 @@
       "id": 48622867,
       "title": "Did my old job only exist because of fraud?",
       "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 824,
+      "score": 828,
       "author": "advisedwang",
       "created": "2026-06-21 21:40:53",
       "created_at": 1782078053000
@@ -37,7 +37,7 @@
       "id": 48630020,
       "title": "Pledging another $400k to the Zig software foundation",
       "link": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 797,
+      "score": 798,
       "author": "tosh",
       "created": "2026-06-22 13:43:01",
       "created_at": 1782135781000
@@ -46,16 +46,25 @@
       "id": 48630066,
       "title": "Never Give Them Your Face",
       "link": "https://nevergivethemyourface.com/",
-      "score": 723,
+      "score": 726,
       "author": "audiodude",
       "created": "2026-06-22 13:45:48",
       "created_at": 1782135948000
     },
     {
+      "id": 48645173,
+      "title": "What we call \"age verification\" is actually mass surveillance",
+      "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "score": 706,
+      "author": "hn_acker",
+      "created": "2026-06-23 14:04:43",
+      "created_at": 1782223483000
+    },
+    {
       "id": 48634694,
       "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
       "link": "https://ipvm.com/reports/police-chiefs-track",
-      "score": 592,
+      "score": 603,
       "author": "jhonovich",
       "created": "2026-06-22 19:13:46",
       "created_at": 1782155626000
@@ -64,7 +73,7 @@
       "id": 48634585,
       "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
       "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 553,
+      "score": 575,
       "author": "geox",
       "created": "2026-06-22 19:06:48",
       "created_at": 1782155208000
@@ -73,28 +82,19 @@
       "id": 48636377,
       "title": "GLM-5.2 – How to Run Locally",
       "link": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 541,
+      "score": 574,
       "author": "TechTechTech",
       "created": "2026-06-22 21:21:01",
       "created_at": 1782163261000
     },
     {
-      "id": 48622778,
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "link": "https://apertvs.ai/",
-      "score": 529,
-      "author": "T-A",
-      "created": "2026-06-21 21:29:43",
-      "created_at": 1782077383000
-    },
-    {
-      "id": 48626866,
-      "title": "GLM 5.2 vs. Opus",
-      "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 512,
-      "author": "ritzaco",
-      "created": "2026-06-22 07:22:03",
-      "created_at": 1782112923000
+      "id": 48647799,
+      "title": "F3",
+      "link": "https://github.com/future-file-format/f3",
+      "score": 542,
+      "author": "tosh",
+      "created": "2026-06-23 16:53:32",
+      "created_at": 1782233612000
     }
   ],
   "code": 200,
