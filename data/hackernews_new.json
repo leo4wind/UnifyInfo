@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-24T14:05:00.046Z"
+    "lastUpdate": "2026-06-24T17:46:39.806Z"
   },
   "data": [
     {
+      "id": 48661825,
+      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 287,
+      "author": "shadowtree",
+      "created": "2026-06-24 15:56:19",
+      "created_at": 1782316579000
+    },
+    {
+      "id": 48660711,
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "score": 202,
+      "author": "doener",
+      "created": "2026-06-24 14:41:41",
+      "created_at": 1782312101000
+    },
+    {
       "id": 48657030,
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "title": "We’re making Bunny DNS free",
       "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 438,
+      "score": 670,
       "author": "dabinat",
       "created": "2026-06-24 08:50:41",
       "created_at": 1782291041000
     },
     {
-      "id": 48646659,
-      "title": "Krea 2 Technical Report",
-      "link": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 72,
-      "author": "mattnewton",
-      "created": "2026-06-23 15:31:21",
-      "created_at": 1782228681000
+      "id": 48660839,
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "link": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 80,
+      "author": "CrankyBear",
+      "created": "2026-06-24 14:50:22",
+      "created_at": 1782312622000
     },
     {
-      "id": 48658361,
-      "title": "Minimus container images are now free",
-      "link": "https://images.minimus.io/",
-      "score": 51,
-      "author": "dimastopel",
-      "created": "2026-06-24 11:52:12",
-      "created_at": 1782301932000
+      "id": 48661911,
+      "title": "CAPTCHAs have failed for 20 years",
+      "link": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+      "score": 45,
+      "author": "harsehaj",
+      "created": "2026-06-24 16:02:32",
+      "created_at": 1782316952000
     },
     {
-      "id": 48658718,
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "link": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 191,
-      "author": "earcar",
-      "created": "2026-06-24 12:31:43",
-      "created_at": 1782304303000
+      "id": 48662999,
+      "title": "Computer use in Gemini 3.5 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "score": 16,
+      "author": "swolpers",
+      "created": "2026-06-24 17:21:34",
+      "created_at": 1782321694000
     },
     {
-      "id": 48657940,
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "link": "https://rworks.dev/posts/too-many-R-packages/",
-      "score": 48,
-      "author": "ionychal",
-      "created": "2026-06-24 10:59:59",
-      "created_at": 1782298799000
+      "id": 48660579,
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "link": "https://www.greptile.com/blog/prs-on-openclaw",
+      "score": 44,
+      "author": "dakshgupta",
+      "created": "2026-06-24 14:32:12",
+      "created_at": 1782311532000
     },
     {
-      "id": 48658095,
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "link": "https://haystack.deepset.ai/",
-      "score": 22,
-      "author": "doener",
-      "created": "2026-06-24 11:21:32",
-      "created_at": 1782300092000
+      "id": 48662381,
+      "title": "The Xteink X4 E-Ink Reader",
+      "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "score": 25,
+      "author": "felixdoerp",
+      "created": "2026-06-24 16:35:56",
+      "created_at": 1782318956000
     },
     {
-      "id": 48629810,
-      "title": "Statistics that live in your SQL",
-      "link": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
-      "score": 76,
-      "author": "caerbannogwhite",
-      "created": "2026-06-22 13:25:15",
-      "created_at": 1782134715000
+      "id": 48660267,
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "link": "https://github.com/nubjs/nub",
+      "score": 120,
+      "author": "colinmcd",
+      "created": "2026-06-24 14:14:18",
+      "created_at": 1782310458000
     },
     {
-      "id": 48659165,
-      "title": "Stealing Is a Skill",
-      "link": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 10,
-      "author": "bewal416",
-      "created": "2026-06-24 13:08:52",
-      "created_at": 1782306532000
-    },
-    {
-      "id": 48606222,
-      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "link": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 23,
-      "author": "signa11",
-      "created": "2026-06-20 03:55:19",
-      "created_at": 1781927719000
-    },
-    {
-      "id": 48653216,
-      "title": "Vulnerability reports are not special anymore",
-      "link": "https://words.filippo.io/vuln-reports/",
-      "score": 337,
-      "author": "goranmoomin",
-      "created": "2026-06-23 23:42:46",
-      "created_at": 1782258166000
+      "id": 48661938,
+      "title": "I taught a bucket to speak Git",
+      "link": "https://www.tigrisdata.com/blog/objgit/",
+      "score": 31,
+      "author": "xena",
+      "created": "2026-06-24 16:04:26",
+      "created_at": 1782317066000
     }
   ],
   "code": 200,
