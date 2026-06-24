@@ -3,41 +3,68 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-24T07:31:23.657Z"
+    "lastUpdate": "2026-06-24T10:39:36.202Z"
   },
   "data": [
+    {
+      "id": 48657030,
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "score": 134,
+      "author": "dabinat",
+      "created": "2026-06-24 08:50:41",
+      "created_at": 1782291041000
+    },
     {
       "id": 48653216,
       "title": "Vulnerability reports are not special anymore",
       "link": "https://words.filippo.io/vuln-reports/",
-      "score": 223,
+      "score": 289,
       "author": "goranmoomin",
       "created": "2026-06-23 23:42:46",
       "created_at": 1782258166000
     },
     {
-      "id": 48649435,
-      "title": "Jerry's Map",
-      "link": "http://www.jerrysmap.com/the-map",
-      "score": 439,
-      "author": "turtleyacht",
-      "created": "2026-06-23 18:40:22",
-      "created_at": 1782240022000
-    },
-    {
       "id": 48654676,
       "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
       "link": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 75,
+      "score": 148,
       "author": "byb",
       "created": "2026-06-24 03:17:47",
       "created_at": 1782271067000
     },
     {
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "link": "http://www.jerrysmap.com/the-map",
+      "score": 479,
+      "author": "turtleyacht",
+      "created": "2026-06-23 18:40:22",
+      "created_at": 1782240022000
+    },
+    {
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 398,
+      "author": "saikatsg",
+      "created": "2026-06-23 18:10:47",
+      "created_at": 1782238247000
+    },
+    {
+      "id": 48629810,
+      "title": "Statistics that live in your SQL",
+      "link": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
+      "score": 7,
+      "author": "caerbannogwhite",
+      "created": "2026-06-22 13:25:15",
+      "created_at": 1782134715000
+    },
+    {
       "id": 48648619,
       "title": "FUTO Swipe – A new swipe typing model",
       "link": "https://swipe.futo.tech/",
-      "score": 484,
+      "score": 552,
       "author": "futohq",
       "created": "2026-06-23 17:50:22",
       "created_at": 1782237022000
@@ -46,46 +73,28 @@
       "id": 48612025,
       "title": "Show HN: An ASCII 3D Rendering Engine",
       "link": "https://glyphcss.com",
-      "score": 72,
+      "score": 145,
       "author": "apresmoi",
       "created": "2026-06-20 19:10:41",
       "created_at": 1781982641000
     },
     {
-      "id": 48648959,
-      "title": "In memory of the man who put red and green squiggles under words",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 326,
-      "author": "saikatsg",
-      "created": "2026-06-23 18:10:47",
-      "created_at": 1782238247000
+      "id": 48637868,
+      "title": "Why eval startups fail (2025)",
+      "link": "https://thomasliao.com/eval-startups",
+      "score": 24,
+      "author": "jxmorris12",
+      "created": "2026-06-22 23:20:53",
+      "created_at": 1782170453000
     },
     {
       "id": 48654351,
       "title": "Qwen-AgentWorld: Language World Models for General Agents",
       "link": "https://arxiv.org/abs/2606.24597",
-      "score": 68,
+      "score": 116,
       "author": "ilreb",
       "created": "2026-06-24 02:21:47",
       "created_at": 1782267707000
-    },
-    {
-      "id": 48654465,
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "link": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 60,
-      "author": "retroplasma",
-      "created": "2026-06-24 02:38:47",
-      "created_at": 1782268727000
-    },
-    {
-      "id": 48624462,
-      "title": "Remaking BBC test cards to teach you video processing",
-      "link": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-      "score": 19,
-      "author": "unleaded",
-      "created": "2026-06-22 01:20:26",
-      "created_at": 1782091226000
     }
   ],
   "code": 200,
