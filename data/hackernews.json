@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-24T17:46:39.262Z"
+    "lastUpdate": "2026-06-24T21:15:57.135Z"
   },
   "data": [
-    {
-      "id": 48632884,
-      "title": "Steam Machine launches today",
-      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1901,
-      "author": "theschwa",
-      "created": "2026-06-22 17:09:51",
-      "created_at": 1782148191000
-    },
     {
       "id": 48645173,
       "title": "What we call \"age verification\" is actually mass surveillance",
       "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 894,
+      "score": 905,
       "author": "hn_acker",
       "created": "2026-06-23 14:04:43",
       "created_at": 1782223483000
@@ -28,7 +19,7 @@
       "id": 48657030,
       "title": "We’re making Bunny DNS free",
       "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 670,
+      "score": 774,
       "author": "dabinat",
       "created": "2026-06-24 08:50:41",
       "created_at": 1782291041000
@@ -37,7 +28,7 @@
       "id": 48648619,
       "title": "FUTO Swipe – A new swipe typing model",
       "link": "https://swipe.futo.tech/",
-      "score": 658,
+      "score": 674,
       "author": "futohq",
       "created": "2026-06-23 17:50:22",
       "created_at": 1782237022000
@@ -46,7 +37,7 @@
       "id": 48649011,
       "title": "Fired by Google for creating the Google workspace CLI",
       "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "score": 647,
+      "score": 668,
       "author": "justinwp",
       "created": "2026-06-23 18:13:40",
       "created_at": 1782238420000
@@ -55,46 +46,55 @@
       "id": 48647799,
       "title": "F3",
       "link": "https://github.com/future-file-format/f3",
-      "score": 643,
+      "score": 644,
       "author": "tosh",
       "created": "2026-06-23 16:53:32",
       "created_at": 1782233612000
     },
     {
-      "id": 48634694,
-      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "link": "https://ipvm.com/reports/police-chiefs-track",
-      "score": 630,
-      "author": "jhonovich",
-      "created": "2026-06-22 19:13:46",
-      "created_at": 1782155626000
-    },
-    {
       "id": 48636377,
       "title": "GLM-5.2 – How to Run Locally",
       "link": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 598,
+      "score": 601,
       "author": "TechTechTech",
       "created": "2026-06-22 21:21:01",
       "created_at": 1782163261000
     },
     {
-      "id": 48634585,
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 587,
-      "author": "geox",
-      "created": "2026-06-22 19:06:48",
-      "created_at": 1782155208000
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 569,
+      "author": "saikatsg",
+      "created": "2026-06-23 18:10:47",
+      "created_at": 1782238247000
     },
     {
       "id": 48649435,
       "title": "Jerry's Map",
       "link": "http://www.jerrysmap.com/the-map",
-      "score": 557,
+      "score": 565,
       "author": "turtleyacht",
       "created": "2026-06-23 18:40:22",
       "created_at": 1782240022000
+    },
+    {
+      "id": 48658718,
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "link": "https://paolino.me/founding-a-company-in-germany/",
+      "score": 530,
+      "author": "earcar",
+      "created": "2026-06-24 12:31:43",
+      "created_at": 1782304303000
+    },
+    {
+      "id": 48642784,
+      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+      "link": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
+      "score": 501,
+      "author": "supercopter",
+      "created": "2026-06-23 10:16:48",
+      "created_at": 1782209808000
     }
   ],
   "code": 200,
