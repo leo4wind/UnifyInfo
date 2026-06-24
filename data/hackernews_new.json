@@ -3,98 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-23T21:22:43.451Z"
+    "lastUpdate": "2026-06-24T02:11:20.823Z"
   },
   "data": [
+    {
+      "id": 48653216,
+      "title": "Vulnerability reports are not special anymore",
+      "link": "https://words.filippo.io/vuln-reports/",
+      "score": 72,
+      "author": "goranmoomin",
+      "created": "2026-06-23 23:42:46",
+      "created_at": 1782258166000
+    },
     {
       "id": 48649435,
       "title": "Jerry's Map",
       "link": "http://www.jerrysmap.com/the-map",
-      "score": 203,
+      "score": 334,
       "author": "turtleyacht",
       "created": "2026-06-23 18:40:22",
       "created_at": 1782240022000
     },
     {
-      "id": 48648779,
-      "title": "Swift Package Index joins Apple",
-      "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 122,
-      "author": "JDevlieghere",
-      "created": "2026-06-23 18:00:58",
-      "created_at": 1782237658000
-    },
-    {
-      "id": 48650837,
-      "title": "Don't verify email addresses by sending spam to them",
-      "link": "https://milek7.pl/mailverifyspam/",
-      "score": 32,
-      "author": "garaetjjte",
-      "created": "2026-06-23 20:23:49",
-      "created_at": 1782246229000
+      "id": 48633643,
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 73,
+      "author": "mauvehaus",
+      "created": "2026-06-22 18:03:03",
+      "created_at": 1782151383000
     },
     {
       "id": 48648619,
       "title": "FUTO Swipe – A new swipe typing model",
       "link": "https://swipe.futo.tech/",
-      "score": 106,
+      "score": 287,
       "author": "futohq",
       "created": "2026-06-23 17:50:22",
       "created_at": 1782237022000
     },
     {
-      "id": 48645437,
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "link": "https://tikz.dev/editor/",
-      "score": 281,
-      "author": "DominikPeters",
-      "created": "2026-06-23 14:24:21",
-      "created_at": 1782224661000
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 162,
+      "author": "saikatsg",
+      "created": "2026-06-23 18:10:47",
+      "created_at": 1782238247000
+    },
+    {
+      "id": 48585852,
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "link": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 70,
+      "author": "givinguflac",
+      "created": "2026-06-18 14:23:38",
+      "created_at": 1781792618000
     },
     {
       "id": 48618481,
       "title": "Printing Gaussian Splats",
       "link": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 49,
+      "score": 178,
       "author": "ilnmtlbnm",
       "created": "2026-06-21 12:49:02",
       "created_at": 1782046142000
     },
     {
-      "id": 48647799,
-      "title": "F3",
-      "link": "https://github.com/future-file-format/f3",
-      "score": 542,
-      "author": "tosh",
-      "created": "2026-06-23 16:53:32",
-      "created_at": 1782233612000
+      "id": 48648779,
+      "title": "Swift Package Index joins Apple",
+      "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 173,
+      "author": "JDevlieghere",
+      "created": "2026-06-23 18:00:58",
+      "created_at": 1782237658000
     },
     {
-      "id": 48649673,
-      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-      "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-      "score": 89,
-      "author": "sizzle",
-      "created": "2026-06-23 18:56:19",
-      "created_at": 1782240979000
+      "id": 48653060,
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "link": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+      "score": 151,
+      "author": "rendx",
+      "created": "2026-06-23 23:26:43",
+      "created_at": 1782257203000
     },
     {
-      "id": 48647486,
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "link": "https://dynomight.net/vitamin-d/",
-      "score": 111,
-      "author": "surprisetalk",
-      "created": "2026-06-23 16:30:18",
-      "created_at": 1782232218000
-    },
-    {
-      "id": 48643426,
-      "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "link": "https://github.com/baidu/Unlimited-OCR",
-      "score": 400,
-      "author": "ingve",
-      "created": "2026-06-23 11:35:05",
-      "created_at": 1782214505000
+      "id": 48633473,
+      "title": "Rhombus Language 1.0",
+      "link": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "score": 76,
+      "author": "Decabytes",
+      "created": "2026-06-22 17:50:40",
+      "created_at": 1782150640000
     }
   ],
   "code": 200,
