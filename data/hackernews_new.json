@@ -3,14 +3,14 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-25T07:32:34.239Z"
+    "lastUpdate": "2026-06-25T10:32:43.241Z"
   },
   "data": [
     {
       "id": 48669534,
       "title": "Half-Life 2 in a Browser",
       "link": "https://hl2.slqnt.dev/",
-      "score": 110,
+      "score": 257,
       "author": "panza",
       "created": "2026-06-25 06:00:04",
       "created_at": 1782367204000
@@ -19,7 +19,7 @@
       "id": 48664814,
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 331,
+      "score": 434,
       "author": "htrp",
       "created": "2026-06-24 19:48:01",
       "created_at": 1782330481000
@@ -28,7 +28,7 @@
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 663,
+      "score": 708,
       "author": "jamdesk",
       "created": "2026-06-24 17:47:00",
       "created_at": 1782323220000
@@ -37,64 +37,64 @@
       "id": 48668033,
       "title": "Cloudflare launched self-managed OAuth for all",
       "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 120,
+      "score": 173,
       "author": "terryds",
       "created": "2026-06-25 02:18:10",
       "created_at": 1782353890000
     },
     {
-      "id": 48646077,
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "link": "https://markdy.com",
-      "score": 34,
-      "author": "surprisetalk",
-      "created": "2026-06-23 15:00:02",
-      "created_at": 1782226802000
-    },
-    {
-      "id": 48666927,
-      "title": "Blogging can just be stating the obvious",
-      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 189,
-      "author": "Curiositry",
-      "created": "2026-06-24 23:46:37",
-      "created_at": 1782344797000
-    },
-    {
-      "id": 48667336,
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 135,
-      "author": "phreddypharkus",
-      "created": "2026-06-25 00:41:43",
-      "created_at": 1782348103000
-    },
-    {
       "id": 48669932,
       "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
       "link": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 3,
+      "score": 84,
       "author": "chobeat",
       "created": "2026-06-25 07:02:37",
       "created_at": 1782370957000
     },
     {
-      "id": 48631366,
-      "title": "Dostoyevsky isn't difficult",
-      "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 133,
-      "author": "surprisetalk",
-      "created": "2026-06-22 15:15:38",
-      "created_at": 1782141338000
+      "id": 48636753,
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "link": "https://github.com/BohemiaInteractive/CWR",
+      "score": 77,
+      "author": "dewey",
+      "created": "2026-06-22 21:52:54",
+      "created_at": 1782165174000
     },
     {
-      "id": 48668020,
-      "title": "Zombie unicorns are haunting Silicon Valley",
-      "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "score": 81,
-      "author": "andsoitis",
-      "created": "2026-06-25 02:16:15",
-      "created_at": 1782353775000
+      "id": 48667336,
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "score": 163,
+      "author": "phreddypharkus",
+      "created": "2026-06-25 00:41:43",
+      "created_at": 1782348103000
+    },
+    {
+      "id": 48666927,
+      "title": "Blogging can just be stating the obvious",
+      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 244,
+      "author": "Curiositry",
+      "created": "2026-06-24 23:46:37",
+      "created_at": 1782344797000
+    },
+    {
+      "id": 48646077,
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "link": "https://markdy.com",
+      "score": 70,
+      "author": "surprisetalk",
+      "created": "2026-06-23 15:00:02",
+      "created_at": 1782226802000
+    },
+    {
+      "id": 48660178,
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "score": 340,
+      "author": "nitin_flanker",
+      "created": "2026-06-24 14:10:11",
+      "created_at": 1782310211000
     }
   ],
   "code": 200,
