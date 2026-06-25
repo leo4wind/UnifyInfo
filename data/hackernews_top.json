@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-24T21:15:57.569Z"
+    "lastUpdate": "2026-06-25T02:11:08.631Z"
   },
   "data": [
+    {
+      "id": 48667336,
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "score": 51,
+      "author": "phreddypharkus",
+      "created": "2026-06-25 00:41:43",
+      "created_at": 1782348103000
+    },
     {
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 333,
+      "score": 540,
       "author": "jamdesk",
       "created": "2026-06-24 17:47:00",
       "created_at": 1782323220000
     },
     {
-      "id": 48660711,
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "link": "https://rubyllm.com/",
-      "score": 293,
-      "author": "doener",
-      "created": "2026-06-24 14:41:41",
-      "created_at": 1782312101000
+      "id": 48666927,
+      "title": "Blogging can just be stating the obvious",
+      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 72,
+      "author": "Curiositry",
+      "created": "2026-06-24 23:46:37",
+      "created_at": 1782344797000
     },
     {
-      "id": 48665130,
-      "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-      "link": "https://statusdude.com/blog/zero-downtime-docker-compose",
-      "score": 23,
-      "author": "canto",
-      "created": "2026-06-24 20:20:33",
-      "created_at": 1782332433000
+      "id": 48664814,
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 57,
+      "author": "htrp",
+      "created": "2026-06-24 19:48:01",
+      "created_at": 1782330481000
     },
     {
-      "id": 48657030,
-      "title": "We’re making Bunny DNS free",
-      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 774,
-      "author": "dabinat",
-      "created": "2026-06-24 08:50:41",
-      "created_at": 1782291041000
+      "id": 48667807,
+      "title": "Bible as RAG Database",
+      "link": "https://www.crosscanon.com/",
+      "score": 13,
+      "author": "jacksonastone",
+      "created": "2026-06-25 01:42:55",
+      "created_at": 1782351775000
     },
     {
-      "id": 48660579,
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "link": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 120,
-      "author": "dakshgupta",
-      "created": "2026-06-24 14:32:12",
-      "created_at": 1782311532000
+      "id": 48631366,
+      "title": "Dostoyevsky isn't difficult",
+      "link": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "score": 38,
+      "author": "surprisetalk",
+      "created": "2026-06-22 15:15:38",
+      "created_at": 1782141338000
+    },
+    {
+      "id": 48667588,
+      "title": "Ending All Respiratory Infections",
+      "link": "https://blog.interceptfund.com/p/ending-respiratory-infections",
+      "score": 17,
+      "author": "EthanFantl",
+      "created": "2026-06-25 01:14:23",
+      "created_at": 1782350063000
     },
     {
       "id": 48659798,
       "title": "Qualcomm to Acquire Modular",
       "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 22,
+      "score": 148,
       "author": "timmyd",
       "created": "2026-06-24 13:49:16",
       "created_at": 1782308956000
     },
     {
-      "id": 48662999,
-      "title": "Computer use in Gemini 3.5 Flash",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 100,
-      "author": "swolpers",
-      "created": "2026-06-24 17:21:34",
-      "created_at": 1782321694000
+      "id": 48667761,
+      "title": "Exploring the internal representations of Pangram 3.3.2",
+      "link": "https://www.pangram.com/pangram-space",
+      "score": 5,
+      "author": "krackers",
+      "created": "2026-06-25 01:36:45",
+      "created_at": 1782351405000
     },
     {
-      "id": 48662381,
-      "title": "The Xteink X4 E-Ink Reader",
-      "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 97,
-      "author": "felixdoerp",
-      "created": "2026-06-24 16:35:56",
-      "created_at": 1782318956000
-    },
-    {
-      "id": 48661825,
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 424,
-      "author": "shadowtree",
-      "created": "2026-06-24 15:56:19",
-      "created_at": 1782316579000
-    },
-    {
-      "id": 48660267,
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "link": "https://github.com/nubjs/nub",
-      "score": 163,
-      "author": "colinmcd",
-      "created": "2026-06-24 14:14:18",
-      "created_at": 1782310458000
+      "id": 48660711,
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "score": 347,
+      "author": "doener",
+      "created": "2026-06-24 14:41:41",
+      "created_at": 1782312101000
     }
   ],
   "code": 200,
