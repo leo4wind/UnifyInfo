@@ -3,14 +3,32 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-25T10:32:42.679Z"
+    "lastUpdate": "2026-06-25T14:02:07.299Z"
   },
   "data": [
+    {
+      "id": 48672764,
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "score": 162,
+      "author": "Cider9986",
+      "created": "2026-06-25 13:07:07",
+      "created_at": 1782392827000
+    },
+    {
+      "id": 48657049,
+      "title": "You can't unit test for taste",
+      "link": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 59,
+      "author": "kalli",
+      "created": "2026-06-24 08:54:12",
+      "created_at": 1782291252000
+    },
     {
       "id": 48669534,
       "title": "Half-Life 2 in a Browser",
       "link": "https://hl2.slqnt.dev/",
-      "score": 257,
+      "score": 421,
       "author": "panza",
       "created": "2026-06-25 06:00:04",
       "created_at": 1782367204000
@@ -19,82 +37,64 @@
       "id": 48664814,
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 434,
+      "score": 575,
       "author": "htrp",
       "created": "2026-06-24 19:48:01",
       "created_at": 1782330481000
     },
     {
+      "id": 48671886,
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "link": "https://lingochunk.com/try",
+      "score": 10,
+      "author": "alder",
+      "created": "2026-06-25 11:29:13",
+      "created_at": 1782386953000
+    },
+    {
+      "id": 48671468,
+      "title": "LastPass notifies users of yet another data breach",
+      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 173,
+      "author": "mooreds",
+      "created": "2026-06-25 10:28:16",
+      "created_at": 1782383296000
+    },
+    {
+      "id": 48620422,
+      "title": "The Disappearance of Japan's Animators",
+      "link": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+      "score": 9,
+      "author": "andsoitis",
+      "created": "2026-06-21 16:51:47",
+      "created_at": 1782060707000
+    },
+    {
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 708,
+      "score": 751,
       "author": "jamdesk",
       "created": "2026-06-24 17:47:00",
       "created_at": 1782323220000
     },
     {
+      "id": 48657481,
+      "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+      "link": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
+      "score": 21,
+      "author": "rbanffy",
+      "created": "2026-06-24 09:50:58",
+      "created_at": 1782294658000
+    },
+    {
       "id": 48668033,
       "title": "Cloudflare launched self-managed OAuth for all",
       "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 173,
+      "score": 248,
       "author": "terryds",
       "created": "2026-06-25 02:18:10",
       "created_at": 1782353890000
-    },
-    {
-      "id": 48669932,
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 84,
-      "author": "chobeat",
-      "created": "2026-06-25 07:02:37",
-      "created_at": 1782370957000
-    },
-    {
-      "id": 48636753,
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "link": "https://github.com/BohemiaInteractive/CWR",
-      "score": 77,
-      "author": "dewey",
-      "created": "2026-06-22 21:52:54",
-      "created_at": 1782165174000
-    },
-    {
-      "id": 48667336,
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 163,
-      "author": "phreddypharkus",
-      "created": "2026-06-25 00:41:43",
-      "created_at": 1782348103000
-    },
-    {
-      "id": 48666927,
-      "title": "Blogging can just be stating the obvious",
-      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 244,
-      "author": "Curiositry",
-      "created": "2026-06-24 23:46:37",
-      "created_at": 1782344797000
-    },
-    {
-      "id": 48646077,
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "link": "https://markdy.com",
-      "score": 70,
-      "author": "surprisetalk",
-      "created": "2026-06-23 15:00:02",
-      "created_at": 1782226802000
-    },
-    {
-      "id": 48660178,
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 340,
-      "author": "nitin_flanker",
-      "created": "2026-06-24 14:10:11",
-      "created_at": 1782310211000
     }
   ],
   "code": 200,
