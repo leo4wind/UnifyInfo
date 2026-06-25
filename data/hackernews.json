@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-25T02:11:08.048Z"
+    "lastUpdate": "2026-06-25T07:32:33.750Z"
   },
   "data": [
     {
       "id": 48645173,
       "title": "What we call \"age verification\" is actually mass surveillance",
       "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 913,
+      "score": 924,
       "author": "hn_acker",
       "created": "2026-06-23 14:04:43",
       "created_at": 1782223483000
@@ -19,7 +19,7 @@
       "id": 48657030,
       "title": "We’re making Bunny DNS free",
       "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 853,
+      "score": 877,
       "author": "dabinat",
       "created": "2026-06-24 08:50:41",
       "created_at": 1782291041000
@@ -28,7 +28,7 @@
       "id": 48649011,
       "title": "Fired by Google for creating the Google workspace CLI",
       "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "score": 685,
+      "score": 696,
       "author": "justinwp",
       "created": "2026-06-23 18:13:40",
       "created_at": 1782238420000
@@ -37,10 +37,19 @@
       "id": 48648619,
       "title": "FUTO Swipe – A new swipe typing model",
       "link": "https://swipe.futo.tech/",
-      "score": 683,
+      "score": 689,
       "author": "futohq",
       "created": "2026-06-23 17:50:22",
       "created_at": 1782237022000
+    },
+    {
+      "id": 48663324,
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 663,
+      "author": "jamdesk",
+      "created": "2026-06-24 17:47:00",
+      "created_at": 1782323220000
     },
     {
       "id": 48647799,
@@ -55,46 +64,37 @@
       "id": 48648959,
       "title": "In memory of the man who put red and green squiggles under words",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 578,
+      "score": 583,
       "author": "saikatsg",
       "created": "2026-06-23 18:10:47",
       "created_at": 1782238247000
     },
     {
-      "id": 48649435,
-      "title": "Jerry's Map",
-      "link": "http://www.jerrysmap.com/the-map",
-      "score": 567,
-      "author": "turtleyacht",
-      "created": "2026-06-23 18:40:22",
-      "created_at": 1782240022000
-    },
-    {
       "id": 48658718,
       "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
       "link": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 559,
+      "score": 576,
       "author": "earcar",
       "created": "2026-06-24 12:31:43",
       "created_at": 1782304303000
     },
     {
-      "id": 48663324,
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 540,
-      "author": "jamdesk",
-      "created": "2026-06-24 17:47:00",
-      "created_at": 1782323220000
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "link": "http://www.jerrysmap.com/the-map",
+      "score": 571,
+      "author": "turtleyacht",
+      "created": "2026-06-23 18:40:22",
+      "created_at": 1782240022000
     },
     {
-      "id": 48642784,
-      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "link": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
-      "score": 508,
-      "author": "supercopter",
-      "created": "2026-06-23 10:16:48",
-      "created_at": 1782209808000
+      "id": 48661825,
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 519,
+      "author": "shadowtree",
+      "created": "2026-06-24 15:56:19",
+      "created_at": 1782316579000
     }
   ],
   "code": 200,
