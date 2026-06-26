@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-25T21:20:43.301Z"
+    "lastUpdate": "2026-06-26T02:12:39.911Z"
   },
   "data": [
+    {
+      "id": 48678852,
+      "title": "Om Malik has died",
+      "link": "https://om.co/2026/06/24/1966-2026/",
+      "score": 479,
+      "author": "minimaxir",
+      "created": "2026-06-25 20:33:37",
+      "created_at": 1782419617000
+    },
     {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "link": "https://scrollprize.org/firstscroll",
-      "score": 659,
+      "score": 995,
       "author": "verditelabs",
       "created": "2026-06-25 15:48:07",
       "created_at": 1782402487000
     },
     {
-      "id": 48631450,
-      "title": "Oxide computer 3D rack guided tour",
-      "link": "https://explorer.oxide.computer/",
-      "score": 202,
-      "author": "darthcloud",
-      "created": "2026-06-22 15:21:04",
-      "created_at": 1782141664000
+      "id": 48676795,
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 51,
+      "author": "scrlk",
+      "created": "2026-06-25 17:38:44",
+      "created_at": 1782409124000
     },
     {
-      "id": 48674967,
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 197,
-      "author": "porridgeraisin",
-      "created": "2026-06-25 15:33:37",
-      "created_at": 1782401617000
+      "id": 48679608,
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 425,
+      "author": "bilsbie",
+      "created": "2026-06-25 21:44:55",
+      "created_at": 1782423895000
     },
     {
-      "id": 48675435,
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "link": "https://github.com/inkeep/open-knowledge",
-      "score": 102,
-      "author": "engomez",
-      "created": "2026-06-25 16:04:46",
-      "created_at": 1782403486000
+      "id": 48681361,
+      "title": "A data race that doesn't compile",
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "score": 11,
+      "author": "stmw",
+      "created": "2026-06-26 01:33:15",
+      "created_at": 1782437595000
     },
     {
-      "id": 48673825,
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 183,
-      "author": "kouosi",
-      "created": "2026-06-25 14:19:28",
-      "created_at": 1782397168000
+      "id": 48681220,
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 16,
+      "author": "Alupis",
+      "created": "2026-06-26 01:10:52",
+      "created_at": 1782436252000
     },
     {
-      "id": 48616304,
-      "title": "Show HN: Chess-Inspired Roguelike",
-      "link": "https://princechazz.com",
-      "score": 134,
-      "author": "cowboy_henk",
-      "created": "2026-06-21 06:50:31",
-      "created_at": 1782024631000
+      "id": 48679007,
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 116,
+      "author": "babelfish",
+      "created": "2026-06-25 20:50:02",
+      "created_at": 1782420602000
     },
     {
-      "id": 48672732,
-      "title": "Apple raises prices of MacBooks, iPads",
-      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 505,
-      "author": "virgildotcodes",
-      "created": "2026-06-25 13:02:56",
-      "created_at": 1782392576000
+      "id": 48642474,
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "link": "https://github.com/plbrault/youre-the-os",
+      "score": 103,
+      "author": "exploraz",
+      "created": "2026-06-23 09:35:26",
+      "created_at": 1782207326000
     },
     {
-      "id": 48674484,
-      "title": "OS9Map",
-      "link": "https://yllan.org/software/OS9Map/",
-      "score": 125,
-      "author": "LaSombra",
-      "created": "2026-06-25 15:01:06",
-      "created_at": 1782399666000
+      "id": 48680370,
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "link": "https://gchandbook.org/",
+      "score": 43,
+      "author": "teleforce",
+      "created": "2026-06-25 23:10:30",
+      "created_at": 1782429030000
     },
     {
-      "id": 48638120,
-      "title": "The annotated PyTorch training loop",
-      "link": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "score": 35,
-      "author": "smaddrellmander",
-      "created": "2026-06-22 23:44:59",
-      "created_at": 1782171899000
-    },
-    {
-      "id": 48636982,
-      "title": "The anxiety of the perfect loaf: the illusion of culinary precision",
-      "link": "https://iza.ac/posts/2026/06/intuitive-cooking/",
-      "score": 15,
-      "author": "infinitewalk",
-      "created": "2026-06-22 22:11:13",
-      "created_at": 1782166273000
+      "id": 48681250,
+      "title": "AI children's books, body horror edition",
+      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "score": 16,
+      "author": "surprisetalk",
+      "created": "2026-06-26 01:15:14",
+      "created_at": 1782436514000
     }
   ],
   "code": 200,
