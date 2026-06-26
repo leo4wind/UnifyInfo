@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-26T17:28:42.393Z"
+    "lastUpdate": "2026-06-26T21:11:41.528Z"
   },
   "data": [
     {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "link": "https://scrollprize.org/firstscroll",
-      "score": 1537,
+      "score": 1610,
       "author": "verditelabs",
       "created": "2026-06-25 15:48:07",
       "created_at": 1782402487000
@@ -19,7 +19,7 @@
       "id": 48678852,
       "title": "Om Malik has died",
       "link": "https://om.co/2026/06/24/1966-2026/",
-      "score": 1178,
+      "score": 1272,
       "author": "minimaxir",
       "created": "2026-06-25 20:33:37",
       "created_at": 1782419617000
@@ -28,43 +28,25 @@
       "id": 48679608,
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 980,
+      "score": 1073,
       "author": "bilsbie",
       "created": "2026-06-25 21:44:55",
       "created_at": 1782423895000
     },
     {
-      "id": 48663324,
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 814,
-      "author": "jamdesk",
-      "created": "2026-06-24 17:47:00",
-      "created_at": 1782323220000
-    },
-    {
       "id": 48672732,
       "title": "Apple raises prices of MacBooks, iPads",
       "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 803,
+      "score": 815,
       "author": "virgildotcodes",
       "created": "2026-06-25 13:02:56",
       "created_at": 1782392576000
     },
     {
-      "id": 48664814,
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 779,
-      "author": "htrp",
-      "created": "2026-06-24 19:48:01",
-      "created_at": 1782330481000
-    },
-    {
       "id": 48673671,
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "link": "https://hackernewstrends.com",
-      "score": 752,
+      "score": 756,
       "author": "ytkimirti",
       "created": "2026-06-25 14:08:55",
       "created_at": 1782396535000
@@ -73,16 +55,25 @@
       "id": 48669534,
       "title": "Half-Life 2 in a Browser",
       "link": "https://hl2.slqnt.dev/",
-      "score": 667,
+      "score": 670,
       "author": "panza",
       "created": "2026-06-25 06:00:04",
       "created_at": 1782367204000
     },
     {
+      "id": 48689028,
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 611,
+      "author": "minimaxir",
+      "created": "2026-06-26 17:06:55",
+      "created_at": 1782493615000
+    },
+    {
       "id": 48674446,
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "score": 594,
+      "score": 595,
       "author": "alanwreath",
       "created": "2026-06-25 14:58:50",
       "created_at": 1782399530000
@@ -91,10 +82,19 @@
       "id": 48672328,
       "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
       "link": "https://twitter.com/mfts0/status/2070080422482977095",
-      "score": 568,
+      "score": 587,
       "author": "mmunj",
       "created": "2026-06-25 12:23:05",
       "created_at": 1782390185000
+    },
+    {
+      "id": 48671468,
+      "title": "LastPass notifies users of yet another data breach",
+      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 513,
+      "author": "mooreds",
+      "created": "2026-06-25 10:28:16",
+      "created_at": 1782383296000
     }
   ],
   "code": 200,
