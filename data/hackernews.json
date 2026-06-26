@@ -3,32 +3,41 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-26T02:12:39.637Z"
+    "lastUpdate": "2026-06-26T14:01:48.467Z"
   },
   "data": [
     {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "link": "https://scrollprize.org/firstscroll",
-      "score": 995,
+      "score": 1442,
       "author": "verditelabs",
       "created": "2026-06-25 15:48:07",
       "created_at": 1782402487000
     },
     {
-      "id": 48657030,
-      "title": "We’re making Bunny DNS free",
-      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 905,
-      "author": "dabinat",
-      "created": "2026-06-24 08:50:41",
-      "created_at": 1782291041000
+      "id": 48678852,
+      "title": "Om Malik has died",
+      "link": "https://om.co/2026/06/24/1966-2026/",
+      "score": 1057,
+      "author": "minimaxir",
+      "created": "2026-06-25 20:33:37",
+      "created_at": 1782419617000
+    },
+    {
+      "id": 48679608,
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 870,
+      "author": "bilsbie",
+      "created": "2026-06-25 21:44:55",
+      "created_at": 1782423895000
     },
     {
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 806,
+      "score": 813,
       "author": "jamdesk",
       "created": "2026-06-24 17:47:00",
       "created_at": 1782323220000
@@ -37,16 +46,25 @@
       "id": 48664814,
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 750,
+      "score": 772,
       "author": "htrp",
       "created": "2026-06-24 19:48:01",
       "created_at": 1782330481000
     },
     {
+      "id": 48672732,
+      "title": "Apple raises prices of MacBooks, iPads",
+      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 768,
+      "author": "virgildotcodes",
+      "created": "2026-06-25 13:02:56",
+      "created_at": 1782392576000
+    },
+    {
       "id": 48673671,
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "link": "https://hackernewstrends.com",
-      "score": 665,
+      "score": 739,
       "author": "ytkimirti",
       "created": "2026-06-25 14:08:55",
       "created_at": 1782396535000
@@ -55,34 +73,16 @@
       "id": 48669534,
       "title": "Half-Life 2 in a Browser",
       "link": "https://hl2.slqnt.dev/",
-      "score": 641,
+      "score": 658,
       "author": "panza",
       "created": "2026-06-25 06:00:04",
       "created_at": 1782367204000
     },
     {
-      "id": 48672732,
-      "title": "Apple raises prices of MacBooks, iPads",
-      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 631,
-      "author": "virgildotcodes",
-      "created": "2026-06-25 13:02:56",
-      "created_at": 1782392576000
-    },
-    {
-      "id": 48658718,
-      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "link": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 597,
-      "author": "earcar",
-      "created": "2026-06-24 12:31:43",
-      "created_at": 1782304303000
-    },
-    {
       "id": 48674446,
       "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
       "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "score": 575,
+      "score": 591,
       "author": "alanwreath",
       "created": "2026-06-25 14:58:50",
       "created_at": 1782399530000
@@ -91,7 +91,7 @@
       "id": 48661825,
       "title": "There are a few things that I look back on as my mistakes in the early days",
       "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 559,
+      "score": 560,
       "author": "shadowtree",
       "created": "2026-06-24 15:56:19",
       "created_at": 1782316579000

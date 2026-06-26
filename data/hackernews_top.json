@@ -3,14 +3,14 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-26T02:12:39.911Z"
+    "lastUpdate": "2026-06-26T14:01:48.733Z"
   },
   "data": [
     {
       "id": 48678852,
       "title": "Om Malik has died",
       "link": "https://om.co/2026/06/24/1966-2026/",
-      "score": 479,
+      "score": 1057,
       "author": "minimaxir",
       "created": "2026-06-25 20:33:37",
       "created_at": 1782419617000
@@ -19,82 +19,82 @@
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "link": "https://scrollprize.org/firstscroll",
-      "score": 995,
+      "score": 1442,
       "author": "verditelabs",
       "created": "2026-06-25 15:48:07",
       "created_at": 1782402487000
     },
     {
-      "id": 48676795,
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "score": 51,
-      "author": "scrlk",
-      "created": "2026-06-25 17:38:44",
-      "created_at": 1782409124000
+      "id": 48637433,
+      "title": "Bipartite Matching Is in NC",
+      "link": "https://scottaaronson.blog/?p=9851",
+      "score": 49,
+      "author": "amichail",
+      "created": "2026-06-22 22:43:48",
+      "created_at": 1782168228000
     },
     {
-      "id": 48679608,
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 425,
-      "author": "bilsbie",
-      "created": "2026-06-25 21:44:55",
-      "created_at": 1782423895000
+      "id": 48681949,
+      "title": "Libre Barcode Project",
+      "link": "https://graphicore.github.io/librebarcode/",
+      "score": 214,
+      "author": "luu",
+      "created": "2026-06-26 03:12:42",
+      "created_at": 1782443562000
     },
     {
-      "id": 48681361,
-      "title": "A data race that doesn't compile",
-      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-      "score": 11,
-      "author": "stmw",
-      "created": "2026-06-26 01:33:15",
-      "created_at": 1782437595000
+      "id": 48681687,
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "score": 249,
+      "author": "cuchoi",
+      "created": "2026-06-26 02:29:23",
+      "created_at": 1782440963000
     },
     {
       "id": 48681220,
       "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
       "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 16,
+      "score": 236,
       "author": "Alupis",
       "created": "2026-06-26 01:10:52",
       "created_at": 1782436252000
     },
     {
-      "id": 48679007,
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 116,
-      "author": "babelfish",
-      "created": "2026-06-25 20:50:02",
-      "created_at": 1782420602000
+      "id": 48656986,
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "link": "https://github.com/DDecoene/WebBaseIII",
+      "score": 25,
+      "author": "ddecoene",
+      "created": "2026-06-24 08:46:16",
+      "created_at": 1782290776000
     },
     {
-      "id": 48642474,
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "link": "https://github.com/plbrault/youre-the-os",
-      "score": 103,
-      "author": "exploraz",
-      "created": "2026-06-23 09:35:26",
-      "created_at": 1782207326000
+      "id": 48610137,
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "score": 131,
+      "author": "thunderbong",
+      "created": "2026-06-20 15:50:37",
+      "created_at": 1781970637000
     },
     {
-      "id": 48680370,
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "link": "https://gchandbook.org/",
-      "score": 43,
-      "author": "teleforce",
-      "created": "2026-06-25 23:10:30",
-      "created_at": 1782429030000
+      "id": 48653338,
+      "title": "FEXPRs vs. vtable: how LispE interpreter works",
+      "link": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+      "score": 12,
+      "author": "birdculture",
+      "created": "2026-06-23 23:57:41",
+      "created_at": 1782259061000
     },
     {
-      "id": 48681250,
-      "title": "AI children's books, body horror edition",
-      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "score": 16,
-      "author": "surprisetalk",
-      "created": "2026-06-26 01:15:14",
-      "created_at": 1782436514000
+      "id": 48686093,
+      "title": "Incident CVE-2026-LGTM",
+      "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "score": 5,
+      "author": "mooreds",
+      "created": "2026-06-26 12:58:07",
+      "created_at": 1782478687000
     }
   ],
   "code": 200,
