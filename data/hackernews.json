@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-26T21:11:41.528Z"
+    "lastUpdate": "2026-06-27T16:55:48.116Z"
   },
   "data": [
-    {
-      "id": 48675179,
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "link": "https://scrollprize.org/firstscroll",
-      "score": 1610,
-      "author": "verditelabs",
-      "created": "2026-06-25 15:48:07",
-      "created_at": 1782402487000
-    },
     {
       "id": 48678852,
       "title": "Om Malik has died",
       "link": "https://om.co/2026/06/24/1966-2026/",
-      "score": 1272,
+      "score": 1324,
       "author": "minimaxir",
       "created": "2026-06-25 20:33:37",
       "created_at": 1782419617000
@@ -28,73 +19,82 @@
       "id": 48679608,
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 1073,
+      "score": 1130,
       "author": "bilsbie",
       "created": "2026-06-25 21:44:55",
       "created_at": 1782423895000
     },
     {
-      "id": 48672732,
-      "title": "Apple raises prices of MacBooks, iPads",
-      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 815,
-      "author": "virgildotcodes",
-      "created": "2026-06-25 13:02:56",
-      "created_at": 1782392576000
-    },
-    {
-      "id": 48673671,
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "link": "https://hackernewstrends.com",
-      "score": 756,
-      "author": "ytkimirti",
-      "created": "2026-06-25 14:08:55",
-      "created_at": 1782396535000
-    },
-    {
-      "id": 48669534,
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "score": 670,
-      "author": "panza",
-      "created": "2026-06-25 06:00:04",
-      "created_at": 1782367204000
+      "id": 48690101,
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 1122,
+      "author": "alain94040",
+      "created": "2026-06-26 18:23:14",
+      "created_at": 1782498194000
     },
     {
       "id": 48689028,
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 611,
+      "score": 1073,
       "author": "minimaxir",
       "created": "2026-06-26 17:06:55",
       "created_at": 1782493615000
     },
     {
-      "id": 48674446,
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "score": 595,
-      "author": "alanwreath",
-      "created": "2026-06-25 14:58:50",
-      "created_at": 1782399530000
+      "id": 48696585,
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 634,
+      "author": "aurenvale",
+      "created": "2026-06-27 09:18:52",
+      "created_at": 1782551932000
     },
     {
-      "id": 48672328,
-      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
-      "link": "https://twitter.com/mfts0/status/2070080422482977095",
-      "score": 587,
-      "author": "mmunj",
-      "created": "2026-06-25 12:23:05",
-      "created_at": 1782390185000
-    },
-    {
-      "id": 48671468,
-      "title": "LastPass notifies users of yet another data breach",
-      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 513,
+      "id": 48686093,
+      "title": "Incident CVE-2026-LGTM",
+      "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "score": 561,
       "author": "mooreds",
-      "created": "2026-06-25 10:28:16",
-      "created_at": 1782383296000
+      "created": "2026-06-26 12:58:07",
+      "created_at": 1782478687000
+    },
+    {
+      "id": 48692995,
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 520,
+      "author": "bobrenjc93",
+      "created": "2026-06-26 22:48:28",
+      "created_at": 1782514108000
+    },
+    {
+      "id": 48693391,
+      "title": "Om",
+      "link": "https://daringfireball.net/2026/06/om",
+      "score": 472,
+      "author": "throw0101a",
+      "created": "2026-06-26 23:33:46",
+      "created_at": 1782516826000
+    },
+    {
+      "id": 48692051,
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "score": 465,
+      "author": "hn_acker",
+      "created": "2026-06-26 21:13:50",
+      "created_at": 1782508430000
+    },
+    {
+      "id": 48682737,
+      "title": "We all depend on open source. We will defend it together",
+      "link": "https://akrites.org/letter/",
+      "score": 461,
+      "author": "dhruv3006",
+      "created": "2026-06-26 05:40:36",
+      "created_at": 1782452436000
     }
   ],
   "code": 200,
