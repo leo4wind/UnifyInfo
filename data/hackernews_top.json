@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-29T02:29:51.756Z"
+    "lastUpdate": "2026-06-29T21:15:48.364Z"
   },
   "data": [
     {
-      "id": 48709670,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 479,
-      "author": "jms703",
-      "created": "2026-06-28 17:50:47",
-      "created_at": 1782669047000
+      "id": 48721903,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 412,
+      "author": "stared",
+      "created": "2026-06-29 17:05:16",
+      "created_at": 1782752716000
     },
     {
-      "id": 48710092,
-      "title": "Historical memory prices 1960-2026",
-      "link": "https://dam.stanford.edu/memory-prices.html",
-      "score": 173,
-      "author": "vga1",
-      "created": "2026-06-28 18:32:53",
-      "created_at": 1782671573000
+      "id": 48719485,
+      "title": "Rocketlab acquires Iridium",
+      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 310,
+      "author": "everfrustrated",
+      "created": "2026-06-29 14:09:24",
+      "created_at": 1782742164000
     },
     {
-      "id": 48707763,
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "link": "https://pudding.cool/2026/06/menu-story/",
-      "score": 330,
-      "author": "xbryanx",
-      "created": "2026-06-28 14:44:56",
-      "created_at": 1782657896000
+      "id": 48722052,
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "link": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 98,
+      "author": "danboarder",
+      "created": "2026-06-29 17:16:17",
+      "created_at": 1782753377000
     },
     {
-      "id": 48712420,
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "link": "https://arxiv.org/abs/2401.07013",
-      "score": 54,
-      "author": "babelfish",
-      "created": "2026-06-28 22:32:04",
-      "created_at": 1782685924000
+      "id": 48720758,
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 183,
+      "author": "mrcslws",
+      "created": "2026-06-29 15:42:17",
+      "created_at": 1782747737000
     },
     {
-      "id": 48708941,
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 358,
-      "author": "engmarketer",
-      "created": "2026-06-28 16:35:19",
-      "created_at": 1782664519000
+      "id": 48724230,
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 59,
+      "author": "HumanCCF",
+      "created": "2026-06-29 19:49:28",
+      "created_at": 1782762568000
     },
     {
-      "id": 48657131,
-      "title": "Deciphering Basmala",
-      "link": "https://blog.plover.com/lang/bismillah.html",
-      "score": 17,
-      "author": "lordgrenville",
-      "created": "2026-06-24 09:05:46",
-      "created_at": 1782291946000
+      "id": 48720190,
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "link": "https://humphri.es/blog/WATaBoy/",
+      "score": 151,
+      "author": "energeticbark",
+      "created": "2026-06-29 15:02:00",
+      "created_at": 1782745320000
     },
     {
-      "id": 48713051,
-      "title": "Better Images of AI",
-      "link": "https://betterimagesofai.org/",
-      "score": 15,
-      "author": "Curiositry",
-      "created": "2026-06-28 23:50:58",
-      "created_at": 1782690658000
-    },
-    {
-      "id": 48710775,
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 77,
-      "author": "rbanffy",
-      "created": "2026-06-28 19:38:00",
-      "created_at": 1782675480000
-    },
-    {
-      "id": 48713697,
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "id": 48723677,
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "link": "https://github.com/jumpserver/jumpserver",
       "score": 26,
-      "author": "b-man",
-      "created": "2026-06-29 01:25:04",
-      "created_at": 1782696304000
+      "author": "neitsab",
+      "created": "2026-06-29 19:06:17",
+      "created_at": 1782759977000
     },
     {
-      "id": 48675295,
-      "title": "The Boeing 747 begins its final descent",
-      "link": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 144,
-      "author": "dbl000",
-      "created": "2026-06-25 15:54:46",
-      "created_at": 1782402886000
+      "id": 48683475,
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "score": 69,
+      "author": "chantepierre",
+      "created": "2026-06-26 07:29:17",
+      "created_at": 1782458957000
+    },
+    {
+      "id": 48722802,
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "score": 27,
+      "author": "matt_d",
+      "created": "2026-06-29 18:03:26",
+      "created_at": 1782756206000
+    },
+    {
+      "id": 48720924,
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 316,
+      "author": "cdrnsf",
+      "created": "2026-06-29 15:54:24",
+      "created_at": 1782748464000
     }
   ],
   "code": 200,
