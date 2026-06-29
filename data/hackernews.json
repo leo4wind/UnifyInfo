@@ -3,32 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-28T16:57:29.719Z"
+    "lastUpdate": "2026-06-29T02:29:51.442Z"
   },
   "data": [
-    {
-      "id": 48690101,
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 1167,
-      "author": "alain94040",
-      "created": "2026-06-26 18:23:14",
-      "created_at": 1782498194000
-    },
-    {
-      "id": 48689028,
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1116,
-      "author": "minimaxir",
-      "created": "2026-06-26 17:06:55",
-      "created_at": 1782493615000
-    },
     {
       "id": 48698617,
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "link": "https://github.com/bikini/exploitarium",
-      "score": 904,
+      "score": 924,
       "author": "binyu",
       "created": "2026-06-27 14:31:00",
       "created_at": 1782570660000
@@ -37,7 +19,7 @@
       "id": 48696585,
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 776,
+      "score": 784,
       "author": "aurenvale",
       "created": "2026-06-27 09:18:52",
       "created_at": 1782551932000
@@ -46,7 +28,7 @@
       "id": 48697560,
       "title": "OpenRA",
       "link": "https://www.openra.net/",
-      "score": 766,
+      "score": 781,
       "author": "tosh",
       "created": "2026-06-27 12:10:27",
       "created_at": 1782562227000
@@ -55,7 +37,7 @@
       "id": 48698684,
       "title": "Zuckerberg's war on whistleblowers",
       "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "score": 731,
+      "score": 752,
       "author": "HotGarbage",
       "created": "2026-06-27 14:38:05",
       "created_at": 1782571085000
@@ -64,37 +46,55 @@
       "id": 48696982,
       "title": "Fintech Engineering Handbook",
       "link": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 606,
+      "score": 617,
       "author": "signa11",
       "created": "2026-06-27 10:28:53",
       "created_at": 1782556133000
     },
     {
-      "id": 48692995,
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 548,
-      "author": "bobrenjc93",
-      "created": "2026-06-26 22:48:28",
-      "created_at": 1782514108000
+      "id": 48707719,
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "score": 603,
+      "author": "NeutralForest",
+      "created": "2026-06-28 14:40:13",
+      "created_at": 1782657613000
     },
     {
-      "id": 48693391,
-      "title": "Om",
-      "link": "https://daringfireball.net/2026/06/om",
-      "score": 511,
-      "author": "throw0101a",
-      "created": "2026-06-26 23:33:46",
-      "created_at": 1782516826000
+      "id": 48709670,
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 479,
+      "author": "jms703",
+      "created": "2026-06-28 17:50:47",
+      "created_at": 1782669047000
     },
     {
-      "id": 48692051,
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "score": 506,
-      "author": "hn_acker",
-      "created": "2026-06-26 21:13:50",
-      "created_at": 1782508430000
+      "id": 48697335,
+      "title": "The case for physical media ownership",
+      "link": "https://dervis.de/physical/",
+      "score": 473,
+      "author": "cemdervis",
+      "created": "2026-06-27 11:32:10",
+      "created_at": 1782559930000
+    },
+    {
+      "id": 48703759,
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 390,
+      "author": "reaperducer",
+      "created": "2026-06-28 02:23:08",
+      "created_at": 1782613388000
+    },
+    {
+      "id": 48703452,
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "link": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 373,
+      "author": "herbertl",
+      "created": "2026-06-28 01:28:10",
+      "created_at": 1782610090000
     }
   ],
   "code": 200,
