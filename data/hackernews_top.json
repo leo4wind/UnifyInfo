@@ -3,23 +3,77 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-06-29T21:15:48.364Z"
+    "lastUpdate": "2026-06-30T02:13:47.480Z"
   },
   "data": [
+    {
+      "id": 48724230,
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 337,
+      "author": "HumanCCF",
+      "created": "2026-06-29 19:49:28",
+      "created_at": 1782762568000
+    },
     {
       "id": 48721903,
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 412,
+      "score": 619,
       "author": "stared",
       "created": "2026-06-29 17:05:16",
       "created_at": 1782752716000
     },
     {
+      "id": 48698908,
+      "title": "Free the Icons",
+      "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 223,
+      "author": "zdw",
+      "created": "2026-06-27 15:05:17",
+      "created_at": 1782572717000
+    },
+    {
+      "id": 48727177,
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "link": "https://fil-c.org/context_switches",
+      "score": 26,
+      "author": "modeless",
+      "created": "2026-06-30 00:38:19",
+      "created_at": 1782779899000
+    },
+    {
+      "id": 48727323,
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 15,
+      "author": "ozymandiax",
+      "created": "2026-06-30 00:56:42",
+      "created_at": 1782781002000
+    },
+    {
+      "id": 48727116,
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "link": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 20,
+      "author": "benjiro29",
+      "created": "2026-06-30 00:30:11",
+      "created_at": 1782779411000
+    },
+    {
+      "id": 48726073,
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "score": 65,
+      "author": "wglb",
+      "created": "2026-06-29 22:18:26",
+      "created_at": 1782771506000
+    },
+    {
       "id": 48719485,
       "title": "Rocketlab acquires Iridium",
       "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 310,
+      "score": 369,
       "author": "everfrustrated",
       "created": "2026-06-29 14:09:24",
       "created_at": 1782742164000
@@ -28,73 +82,19 @@
       "id": 48722052,
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "link": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 98,
+      "score": 156,
       "author": "danboarder",
       "created": "2026-06-29 17:16:17",
       "created_at": 1782753377000
     },
     {
-      "id": 48720758,
-      "title": "A native graphical shell for SSH",
-      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 183,
-      "author": "mrcslws",
-      "created": "2026-06-29 15:42:17",
-      "created_at": 1782747737000
-    },
-    {
-      "id": 48724230,
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 59,
-      "author": "HumanCCF",
-      "created": "2026-06-29 19:49:28",
-      "created_at": 1782762568000
-    },
-    {
-      "id": 48720190,
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "link": "https://humphri.es/blog/WATaBoy/",
-      "score": 151,
-      "author": "energeticbark",
-      "created": "2026-06-29 15:02:00",
-      "created_at": 1782745320000
-    },
-    {
-      "id": 48723677,
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "link": "https://github.com/jumpserver/jumpserver",
-      "score": 26,
-      "author": "neitsab",
-      "created": "2026-06-29 19:06:17",
-      "created_at": 1782759977000
-    },
-    {
-      "id": 48683475,
-      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "link": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 69,
-      "author": "chantepierre",
-      "created": "2026-06-26 07:29:17",
-      "created_at": 1782458957000
-    },
-    {
-      "id": 48722802,
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 27,
-      "author": "matt_d",
-      "created": "2026-06-29 18:03:26",
-      "created_at": 1782756206000
-    },
-    {
-      "id": 48720924,
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 316,
-      "author": "cdrnsf",
-      "created": "2026-06-29 15:54:24",
-      "created_at": 1782748464000
+      "id": 48727538,
+      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+      "link": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+      "score": 7,
+      "author": "type0",
+      "created": "2026-06-30 01:30:40",
+      "created_at": 1782783040000
     }
   ],
   "code": 200,
