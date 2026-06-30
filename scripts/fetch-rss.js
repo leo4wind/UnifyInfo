@@ -16,6 +16,54 @@ const RSS_SOURCES = [
         filename: 'wasi.json',
         name: '瓦斯阅读',
         description: '微信热门文章聚合'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'reuters.json',
+        name: 'Reuters',
+        description: '路透社新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'bloomberg.json',
+        name: 'Bloomberg',
+        description: '彭博社新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'wsj.json',
+        name: 'Wall Street Journal',
+        description: '华尔街日报新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'ft.json',
+        name: 'Financial Times',
+        description: '金融时报新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'cnbc.json',
+        name: 'CNBC',
+        description: 'CNBC 财经新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'scmp.json',
+        name: 'South China Morning Post',
+        description: '南华早报新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'marketwatch.json',
+        name: 'MarketWatch',
+        description: 'MarketWatch 财经新闻'
+    },
+    {
+        url: 'https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en',
+        filename: 'yahoofinance.json',
+        name: 'Yahoo Finance',
+        description: '雅虎财经新闻'
     }
 ];
 
@@ -117,6 +165,13 @@ if (!fs.existsSync(dataDir)) {
 function fetchRSS(url) {
     return new Promise((resolve, reject) => {
         const protocol = url.startsWith('https') ? https : http;
+        let settled = false;
+
+        const finish = (items) => {
+            if (settled) return;
+            settled = true;
+            resolve(items);
+        };
 
         const options = {
             headers: {
@@ -124,7 +179,7 @@ function fetchRSS(url) {
             }
         };
 
-        protocol.get(url, options, (res) => {
+        const req = protocol.get(url, options, (res) => {
             let data = '';
 
             res.on('data', (chunk) => {
@@ -134,15 +189,21 @@ function fetchRSS(url) {
             res.on('end', () => {
                 try {
                     const items = parseRSS(data);
-                    resolve(items);
+                    finish(items);
                 } catch (error) {
                     console.error(`解析 RSS 失败 ${url}:`, error.message);
-                    resolve([]);
+                    finish([]);
                 }
             });
         }).on('error', (error) => {
             console.error(`获取 RSS 失败 ${url}:`, error.message);
-            resolve([]);
+            finish([]);
+        });
+
+        req.setTimeout(20000, () => {
+            console.error(`获取 RSS 超时 ${url}`);
+            req.destroy();
+            finish([]);
         });
     });
 }
@@ -151,6 +212,13 @@ function fetchRSS(url) {
 function fetchAPI(url) {
     return new Promise((resolve, reject) => {
         const protocol = url.startsWith('https') ? https : http;
+        let settled = false;
+
+        const finish = (data) => {
+            if (settled) return;
+            settled = true;
+            resolve(data);
+        };
 
         const options = {
             headers: {
@@ -158,7 +226,7 @@ function fetchAPI(url) {
             }
         };
 
-        protocol.get(url, options, (res) => {
+        const req = protocol.get(url, options, (res) => {
             let data = '';
 
             res.on('data', (chunk) => {
@@ -168,15 +236,21 @@ function fetchAPI(url) {
             res.on('end', () => {
                 try {
                     const jsonData = JSON.parse(data);
-                    resolve(jsonData);
+                    finish(jsonData);
                 } catch (error) {
                     console.error(`解析 API 失败 ${url}:`, error.message);
-                    resolve(null);
+                    finish(null);
                 }
             });
         }).on('error', (error) => {
             console.error(`获取 API 失败 ${url}:`, error.message);
-            resolve(null);
+            finish(null);
+        });
+
+        req.setTimeout(20000, () => {
+            console.error(`获取 API 超时 ${url}`);
+            req.destroy();
+            finish(null);
         });
     });
 }
@@ -254,24 +328,24 @@ async function main() {
         try {
             const items = await fetchRSS(source.url);
 
+            const jsonData = {
+                source: {
+                    name: source.name,
+                    description: source.description,
+                    url: source.url,
+                    lastUpdate: new Date().toISOString()
+                },
+                items: items || [],
+                total: items ? items.length : 0
+            };
+
+            const filePath = path.join(dataDir, source.filename);
+            fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+
             if (items && items.length > 0) {
-                const jsonData = {
-                    source: {
-                        name: source.name,
-                        description: source.description,
-                        url: source.url,
-                        lastUpdate: new Date().toISOString()
-                    },
-                    items: items,
-                    total: items.length
-                };
-
-                const filePath = path.join(dataDir, source.filename);
-                fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
-
                 console.log(`✅ 成功抓取 ${source.name}: ${items.length} 条数据`);
             } else {
-                console.log(`❌ ${source.name} 抓取失败或无数据`);
+                console.log(`⚠️ ${source.name} 抓取失败或无数据，已写入空数据文件`);
             }
         } catch (error) {
             console.error(`❌ ${source.name} 处理失败:`, error.message);

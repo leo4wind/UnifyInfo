@@ -26,6 +26,46 @@ const LOCAL_DATA_SOURCES = {
         name: '瓦斯阅读',
         description: '微信热门文章聚合'
     },
+    reuters: {
+        url: './data/reuters.json',
+        name: 'Reuters',
+        description: '路透社新闻'
+    },
+    bloomberg: {
+        url: './data/bloomberg.json',
+        name: 'Bloomberg',
+        description: '彭博社新闻'
+    },
+    wsj: {
+        url: './data/wsj.json',
+        name: 'Wall Street Journal',
+        description: '华尔街日报新闻'
+    },
+    ft: {
+        url: './data/ft.json',
+        name: 'Financial Times',
+        description: '金融时报新闻'
+    },
+    cnbc: {
+        url: './data/cnbc.json',
+        name: 'CNBC',
+        description: 'CNBC 财经新闻'
+    },
+    scmp: {
+        url: './data/scmp.json',
+        name: 'South China Morning Post',
+        description: '南华早报新闻'
+    },
+    marketwatch: {
+        url: './data/marketwatch.json',
+        name: 'MarketWatch',
+        description: 'MarketWatch 财经新闻'
+    },
+    yahoofinance: {
+        url: './data/yahoofinance.json',
+        name: 'Yahoo Finance',
+        description: '雅虎财经新闻'
+    },
     // API 数据源
     news60s: {
         url: './data/news60s.json',
@@ -269,7 +309,9 @@ async function fetchLocalData(key, source) {
         // 检查数据格式并转换为标准格式
         let standardData;
 
-        if (data.items) {
+        const isRSSData = !!data.items;
+
+        if (isRSSData) {
             // RSS 数据格式：包含 items 数组
             standardData = {
                 code: 200,
@@ -300,8 +342,8 @@ async function fetchLocalData(key, source) {
         addUpdateTimeToTitle(key, data.source);
 
         // 根据数据源类型调用不同的渲染函数
-        if (key === 'arstechnica' || key === 'wasi') {
-            // RSS 数据源使用特殊的渲染函数
+        if (isRSSData) {
+            // RSS 数据源使用通用渲染函数
             console.log(`🎨 调用 RSS 渲染函数: ${key}`);
             renderLocalData(key, standardData, source);
         } else {
@@ -386,6 +428,11 @@ function renderLocalData(key, data, source) {
     const items = data.data;
     console.log(`📊 ${key} 准备渲染 ${items.length} 条数据`);
 
+    if (items.length === 0) {
+        container.innerHTML = '<div class="empty-state">暂无数据</div>';
+        return;
+    }
+
     const html = items.map((item, index) => {
         console.log(`📝 ${key} 第${index + 1}条: ${item.title}`);
 
@@ -410,7 +457,7 @@ function renderLocalData(key, data, source) {
         <div class="hot-item rss">
             <div class="hot-rank ${index < 5 ? 'top5' : ''}">${index + 1}</div>
             <div class="hot-content">
-                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${item.title}</a>
+                <a href="${decodeHTML(item.url || item.link)}" target="_blank" class="hot-title">${decodeHTML(item.title)}</a>
                 ${extraContent}
             </div>
         </div>
@@ -1064,7 +1111,7 @@ function showSearchResults(count, term) {
         resultsMsg.id = 'searchResults';
         resultsMsg.className = 'search-results-info';
         resultsMsg.textContent = `找到 ${count} 条包含 "${term}" 的内容`;
-        resultsMsg.style.cssText = 'text-align: center; color: #666; font-size: 12px; margin-bottom: 10px; background: #e9ecef; padding: 5px; border-radius: 10px;';
+        resultsMsg.style.cssText = 'text-align: center; color: #666; font-size: 12px; margin-bottom: 10px; background: #e9ecef; padding: 5px; border-radius: 8px;';
         elements.hotLists.appendChild(resultsMsg);
     }
 }
