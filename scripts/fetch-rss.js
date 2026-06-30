@@ -26,7 +26,8 @@ const RSS_SOURCES = [
         filename: 'reuters.json',
         name: 'Reuters',
         description: '路透社新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://feeds.bloomberg.com/markets/news.rss',
@@ -36,18 +37,21 @@ const RSS_SOURCES = [
         filename: 'bloomberg.json',
         name: 'Bloomberg',
         description: '彭博社新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
-        url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
+        url: 'https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en',
         fallbackUrls: [
+            'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
             'https://feeds.a.dj.com/rss/RSSWorldNews.xml',
-            'https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en'
+            'https://online.wsj.com/xml/rss/3_7031.xml'
         ],
         filename: 'wsj.json',
         name: 'Wall Street Journal',
         description: '华尔街日报新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://www.ft.com/rss/home',
@@ -58,7 +62,8 @@ const RSS_SOURCES = [
         filename: 'ft.json',
         name: 'Financial Times',
         description: '金融时报新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html',
@@ -68,7 +73,8 @@ const RSS_SOURCES = [
         filename: 'cnbc.json',
         name: 'CNBC',
         description: 'CNBC 财经新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://www.scmp.com/rss/92/feed',
@@ -79,7 +85,8 @@ const RSS_SOURCES = [
         filename: 'scmp.json',
         name: 'South China Morning Post',
         description: '南华早报新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories',
@@ -89,7 +96,8 @@ const RSS_SOURCES = [
         filename: 'marketwatch.json',
         name: 'MarketWatch',
         description: 'MarketWatch 财经新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     },
     {
         url: 'https://finance.yahoo.com/news/rssindex',
@@ -99,7 +107,8 @@ const RSS_SOURCES = [
         filename: 'yahoofinance.json',
         name: 'Yahoo Finance',
         description: '雅虎财经新闻',
-        requireItems: true
+        requireItems: true,
+        maxItemAgeDays: 14
     }
 ];
 
@@ -213,6 +222,31 @@ function decodeResponseBody(buffer, encoding) {
     return buffer;
 }
 
+function getNewestTimestamp(items) {
+    return items.reduce((newest, item) => {
+        const timestamp = Number(item.timestamp) || 0;
+        return timestamp > newest ? timestamp : newest;
+    }, 0);
+}
+
+function getRSSFreshnessError(source, items) {
+    if (!source.maxItemAgeDays || items.length === 0) return null;
+
+    const newestTimestamp = getNewestTimestamp(items);
+    if (!newestTimestamp) {
+        return `没有有效发布时间，无法验证 ${source.maxItemAgeDays} 天内的新鲜度`;
+    }
+
+    const maxAgeMs = source.maxItemAgeDays * 24 * 60 * 60 * 1000;
+    const ageMs = Date.now() - newestTimestamp;
+
+    if (ageMs > maxAgeMs) {
+        return `最新条目过旧: ${new Date(newestTimestamp).toISOString()}`;
+    }
+
+    return null;
+}
+
 function fetchText(url, redirectCount = 0) {
     return new Promise((resolve, reject) => {
         const protocol = url.startsWith('https') ? https : http;
@@ -294,6 +328,13 @@ async function fetchRSS(source) {
             const items = parseRSS(data);
 
             if (items.length > 0) {
+                const freshnessError = getRSSFreshnessError(source, items);
+                if (freshnessError) {
+                    lastError = new Error(freshnessError);
+                    console.error(`⚠️ ${source.name} RSS 数据过期 ${url}: ${freshnessError}`);
+                    continue;
+                }
+
                 if (url !== source.url) {
                     console.log(`↪️ ${source.name} 使用备用源: ${url}`);
                 }
@@ -400,6 +441,7 @@ function parseRSS(xmlText) {
             const title = cleanXmlText(titleValue);
             const link = cleanXmlText(linkValue);
             const description = cleanXmlText(descriptionValue).substring(0, 200);
+            const parsedTimestamp = new Date(pubDate).getTime();
 
             if (title && link) {
                 items.push({
@@ -407,7 +449,7 @@ function parseRSS(xmlText) {
                     link,
                     description,
                     pubDate,
-                    timestamp: new Date(pubDate).getTime() || Date.now()
+                    timestamp: Number.isFinite(parsedTimestamp) ? parsedTimestamp : 0
                 });
             }
         }
