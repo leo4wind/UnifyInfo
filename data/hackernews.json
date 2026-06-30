@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-30T13:54:06.709Z"
+    "lastUpdate": "2026-06-30T21:21:39.205Z"
   },
   "data": [
-    {
-      "id": 48709670,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 1084,
-      "author": "jms703",
-      "created": "2026-06-28 17:50:47",
-      "created_at": 1782669047000
-    },
     {
       "id": 48721903,
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1011,
+      "score": 1134,
       "author": "stared",
       "created": "2026-06-29 17:05:16",
       "created_at": 1782752716000
     },
     {
+      "id": 48734373,
+      "title": "Claude Code is steganographically marking requests",
+      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1078,
+      "author": "kirushik",
+      "created": "2026-06-30 15:44:24",
+      "created_at": 1782834264000
+    },
+    {
       "id": 48714529,
       "title": "Age verification is just a precursor to automated attribution of speech",
       "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 988,
+      "score": 1001,
       "author": "arkhiver",
       "created": "2026-06-29 03:42:07",
       "created_at": 1782704527000
@@ -37,7 +37,7 @@
       "id": 48713832,
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 982,
+      "score": 999,
       "author": "sambellll",
       "created": "2026-06-29 01:44:40",
       "created_at": 1782697480000
@@ -46,55 +46,55 @@
       "id": 48716902,
       "title": "Pollen tried to remove my article and Google is assisting with it",
       "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 897,
+      "score": 905,
       "author": "taubek",
       "created": "2026-06-29 09:28:08",
       "created_at": 1782725288000
     },
     {
-      "id": 48707719,
-      "title": "EU to legislate about Chat Control behind closed doors",
-      "link": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-      "score": 726,
-      "author": "NeutralForest",
-      "created": "2026-06-28 14:40:13",
-      "created_at": 1782657613000
-    },
-    {
       "id": 48711981,
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 678,
+      "score": 704,
       "author": "xrd",
       "created": "2026-06-28 21:42:39",
       "created_at": 1782682959000
     },
     {
+      "id": 48730729,
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 665,
+      "author": "donohoe",
+      "created": "2026-06-30 10:36:23",
+      "created_at": 1782815783000
+    },
+    {
       "id": 48717469,
       "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
       "link": "https://det.social/@lostgen/116820546568940358",
-      "score": 638,
+      "score": 663,
       "author": "Risse",
       "created": "2026-06-29 10:45:51",
       "created_at": 1782729951000
     },
     {
-      "id": 48724230,
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 568,
-      "author": "HumanCCF",
-      "created": "2026-06-29 19:49:28",
-      "created_at": 1782762568000
+      "id": 48736605,
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 662,
+      "author": "marinesebastian",
+      "created": "2026-06-30 17:59:52",
+      "created_at": 1782842392000
     },
     {
-      "id": 48720924,
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 559,
-      "author": "cdrnsf",
-      "created": "2026-06-29 15:54:24",
-      "created_at": 1782748464000
+      "id": 48730608,
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "score": 654,
+      "author": "robtherobber",
+      "created": "2026-06-30 10:15:15",
+      "created_at": 1782814515000
     }
   ],
   "code": 200,
