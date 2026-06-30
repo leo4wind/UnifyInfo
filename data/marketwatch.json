@@ -2,9 +2,80 @@
   "source": {
     "name": "MarketWatch",
     "description": "MarketWatch 财经新闻",
-    "url": "https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en",
-    "lastUpdate": "2026-06-30T23:21:04.263Z"
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "lastUpdate": "2026-06-30T23:41:29.270Z"
   },
-  "items": [],
-  "total": 0
+  "items": [
+    {
+      "title": "Nike earnings crushed Wall Street’s estimates — but here’s the catch",
+      "link": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
+      "description": "Nike’s profit and gross margins were buoyed by a tariff refund.",
+      "pubDate": "Tue, 30 Jun 2026 23:30:00 GMT",
+      "timestamp": 1782862200000
+    },
+    {
+      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+      "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+      "description": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
+      "pubDate": "Tue, 30 Jun 2026 23:24:00 GMT",
+      "timestamp": 1782861840000
+    },
+    {
+      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto",
+      "link": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
+      "description": "The president’s new annual filing is nearly four times as lengthy as last year’s disclosure and shows crypto income in the hundreds of millions",
+      "pubDate": "Tue, 30 Jun 2026 22:48:00 GMT",
+      "timestamp": 1782859680000
+    },
+    {
+      "title": "If LeBron James goes to the Warriors, that team’s roster will be stacked with some of the most expensive players in NBA history",
+      "link": "https://www.marketwatch.com/story/if-lebron-james-goes-to-the-warriors-that-teams-roster-will-be-stacked-with-some-of-the-most-expensive-players-in-nba-history-3bdc8194?mod=mw_rss_topstories",
+      "description": "LeBron James’s agent has told the Los Angeles Lakers that he intends to sign with a new team, according to a new report.",
+      "pubDate": "Tue, 30 Jun 2026 22:32:00 GMT",
+      "timestamp": 1782858720000
+    },
+    {
+      "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.",
+      "link": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories",
+      "description": "Investors have poured money into exchange-traded funds at a rapid pace in the first half of 2026, demonstrating an unrelenting appetite for stocks associated with the AI theme.",
+      "pubDate": "Tue, 30 Jun 2026 22:12:00 GMT",
+      "timestamp": 1782857520000
+    },
+    {
+      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+      "link": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
+      "description": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
+      "pubDate": "Tue, 30 Jun 2026 21:57:00 GMT",
+      "timestamp": 1782856620000
+    },
+    {
+      "title": "Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.",
+      "link": "https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories",
+      "description": "Government scientists warn people to stay indoors this weekend as temperatures in many areas could reach triple digits",
+      "pubDate": "Tue, 30 Jun 2026 21:42:00 GMT",
+      "timestamp": 1782855720000
+    },
+    {
+      "title": "Will the Comcast-NBCU spinoff pay off for investors? Here’s what history has to say.",
+      "link": "https://www.marketwatch.com/story/will-the-comcast-nbcu-spinoff-pay-off-for-investors-heres-what-history-has-to-say-f40ca340?mod=mw_rss_topstories",
+      "description": "Comcast says splitting its cable and broadband business from NBCUniversal will unlock value for both businesses — but media spinoffs historically have resulted in mixed outcomes.",
+      "pubDate": "Tue, 30 Jun 2026 21:42:00 GMT",
+      "timestamp": 1782855720000
+    },
+    {
+      "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
+      "link": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
+      "description": "Workarounds to the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil supplies.",
+      "pubDate": "Tue, 30 Jun 2026 21:28:00 GMT",
+      "timestamp": 1782854880000
+    },
+    {
+      "title": "The 20 best-performing stocks in the S&P 500 for the first half of 2026",
+      "link": "https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories",
+      "description": "The list is dominated by semiconductor and computer-hardware manufacturers.",
+      "pubDate": "Tue, 30 Jun 2026 21:13:00 GMT",
+      "timestamp": 1782853980000
+    }
+  ],
+  "total": 10
 }

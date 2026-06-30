@@ -2,9 +2,80 @@
   "source": {
     "name": "Financial Times",
     "description": "金融时报新闻",
-    "url": "https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en",
-    "lastUpdate": "2026-06-30T23:20:49.218Z"
+    "url": "https://www.ft.com/rss/home",
+    "lastUpdate": "2026-06-30T23:41:28.549Z"
   },
-  "items": [],
-  "total": 0
+  "items": [
+    {
+      "title": "Trump made more than $500mn from sale of family’s crypto tokens last year",
+      "link": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec",
+      "description": "US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office",
+      "pubDate": "Tue, 30 Jun 2026 22:28:07 GMT",
+      "timestamp": 1782858487000
+    },
+    {
+      "title": "US Supreme Court rejects Trump’s bid to end birthright citizenship",
+      "link": "https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa",
+      "description": "Ruling is major blow to president’s immigration agenda",
+      "pubDate": "Tue, 30 Jun 2026 21:34:46 GMT",
+      "timestamp": 1782855286000
+    },
+    {
+      "title": "World Bank to phase out China lending",
+      "link": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26",
+      "description": "Decision from global development institution follows years of pressure from the Trump administration",
+      "pubDate": "Tue, 30 Jun 2026 20:47:12 GMT",
+      "timestamp": 1782852432000
+    },
+    {
+      "title": "Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says",
+      "link": "https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6",
+      "description": "Mark Rutte makes economic case for Donald Trump to remain committed to the alliance in FT interview",
+      "pubDate": "Tue, 30 Jun 2026 20:00:09 GMT",
+      "timestamp": 1782849609000
+    },
+    {
+      "title": "Anthropic launches Claude Science in push for pharma revenue",
+      "link": "https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505",
+      "description": "New AI product has use cases in rendering 3D protein structures and drug discovery",
+      "pubDate": "Tue, 30 Jun 2026 18:49:56 GMT",
+      "timestamp": 1782845396000
+    },
+    {
+      "title": "Supreme Court reminds America (and Trump) what citizenship is",
+      "link": "https://www.ft.com/content/829adc4c-f5a4-4af3-950f-78213cc74002",
+      "description": "The United States has always been based on the notion of welcoming newcomers from every country",
+      "pubDate": "Tue, 30 Jun 2026 16:57:50 GMT",
+      "timestamp": 1782838670000
+    },
+    {
+      "title": "America’s stillborn 250th birthday",
+      "link": "https://www.ft.com/content/1278f6d8-7e56-40c2-a255-0798ba96e360",
+      "description": "An event that was meant to celebrate an exceptional nation has been cornered by one man",
+      "pubDate": "Tue, 30 Jun 2026 10:31:27 GMT",
+      "timestamp": 1782815487000
+    },
+    {
+      "title": "Comcast’s ‘amicable divorce’ unwinds Hollywood’s corporate experiment",
+      "link": "https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df",
+      "description": "NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation",
+      "pubDate": "Tue, 30 Jun 2026 10:00:05 GMT",
+      "timestamp": 1782813605000
+    },
+    {
+      "title": "Heavy corporate AI spenders add staff faster than peers",
+      "link": "https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6",
+      "description": "Study of 22,000 US companies challenges fears that generative AI will trigger broad job losses",
+      "pubDate": "Tue, 30 Jun 2026 04:00:18 GMT",
+      "timestamp": 1782792018000
+    },
+    {
+      "title": "How Elliott is becoming the hedge fund industry’s new ‘Tiger cub’ factory",
+      "link": "https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d",
+      "description": "The vaunted investor Paul Singer has spawned a small army of new firms mirroring Julian Robertson’s ‘Tiger cubs’",
+      "pubDate": "Tue, 30 Jun 2026 04:00:08 GMT",
+      "timestamp": 1782792008000
+    }
+  ],
+  "total": 10
 }
