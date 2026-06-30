@@ -1,10 +1,19 @@
 name: Data Source Fetcher
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/fetch-rss.js'
+      - '.github/workflows/rss-fetch.yml'
   schedule:
     # 每4小时执行一次 (UTC时间: 0, 4, 8, 12, 16, 20 | 北京时间: 8, 12, 16, 20, 0, 4)
     - cron: '0 */4 * * *'
   workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
 
 jobs:
   fetch-rss:

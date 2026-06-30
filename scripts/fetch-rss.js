@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http');
+const zlib = require('zlib');
 
 // RSS 源配置
 const RSS_SOURCES = [
@@ -19,51 +20,86 @@ const RSS_SOURCES = [
     },
     {
         url: 'https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en',
+        fallbackUrls: [
+            'https://feeds.feedburner.com/reuters/businessNews'
+        ],
         filename: 'reuters.json',
         name: 'Reuters',
-        description: '路透社新闻'
+        description: '路透社新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://feeds.bloomberg.com/markets/news.rss',
+        fallbackUrls: [
+            'https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'bloomberg.json',
         name: 'Bloomberg',
-        description: '彭博社新闻'
+        description: '彭博社新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
+        fallbackUrls: [
+            'https://feeds.a.dj.com/rss/RSSWorldNews.xml',
+            'https://news.google.com/rss/search?q=site:wsj.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'wsj.json',
         name: 'Wall Street Journal',
-        description: '华尔街日报新闻'
+        description: '华尔街日报新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://www.ft.com/rss/home',
+        fallbackUrls: [
+            'https://www.ft.com/?format=rss',
+            'https://news.google.com/rss/search?q=site:ft.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'ft.json',
         name: 'Financial Times',
-        description: '金融时报新闻'
+        description: '金融时报新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html',
+        fallbackUrls: [
+            'https://news.google.com/rss/search?q=site:cnbc.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'cnbc.json',
         name: 'CNBC',
-        description: 'CNBC 财经新闻'
+        description: 'CNBC 财经新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://www.scmp.com/rss/92/feed',
+        fallbackUrls: [
+            'https://www.scmp.com/rss/2/feed',
+            'https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'scmp.json',
         name: 'South China Morning Post',
-        description: '南华早报新闻'
+        description: '南华早报新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories',
+        fallbackUrls: [
+            'https://news.google.com/rss/search?q=site:marketwatch.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'marketwatch.json',
         name: 'MarketWatch',
-        description: 'MarketWatch 财经新闻'
+        description: 'MarketWatch 财经新闻',
+        requireItems: true
     },
     {
-        url: 'https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en',
+        url: 'https://finance.yahoo.com/news/rssindex',
+        fallbackUrls: [
+            'https://news.google.com/rss/search?q=site:finance.yahoo.com&hl=en-US&gl=US&ceid=US:en'
+        ],
         filename: 'yahoofinance.json',
         name: 'Yahoo Finance',
-        description: '雅虎财经新闻'
+        description: '雅虎财经新闻',
+        requireItems: true
     }
 ];
 
@@ -161,98 +197,129 @@ if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
 }
 
-// RSS 解析器（使用 Node.js 内置模块）
-function fetchRSS(url) {
+const REQUEST_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Cache-Control': 'no-cache',
+    'Connection': 'close'
+};
+
+function decodeResponseBody(buffer, encoding) {
+    if (encoding === 'gzip') return zlib.gunzipSync(buffer);
+    if (encoding === 'deflate') return zlib.inflateSync(buffer);
+    if (encoding === 'br') return zlib.brotliDecompressSync(buffer);
+    return buffer;
+}
+
+function fetchText(url, redirectCount = 0) {
     return new Promise((resolve, reject) => {
         const protocol = url.startsWith('https') ? https : http;
-        let settled = false;
-
-        const finish = (items) => {
-            if (settled) return;
-            settled = true;
-            resolve(items);
-        };
+        const requestUrl = new URL(url);
 
         const options = {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (compatible; RSS-Fetcher/1.0)'
-            }
+            protocol: requestUrl.protocol,
+            hostname: requestUrl.hostname,
+            port: requestUrl.port,
+            path: `${requestUrl.pathname}${requestUrl.search}`,
+            headers: REQUEST_HEADERS,
+            family: 4
         };
 
-        const req = protocol.get(url, options, (res) => {
-            let data = '';
+        const req = protocol.get(options, (res) => {
+            if ([301, 302, 303, 307, 308].includes(res.statusCode)) {
+                const location = res.headers.location;
+                res.resume();
+
+                if (!location) {
+                    reject(new Error(`HTTP ${res.statusCode} without Location`));
+                    return;
+                }
+
+                if (redirectCount >= 5) {
+                    reject(new Error(`Too many redirects for ${url}`));
+                    return;
+                }
+
+                const redirectedUrl = new URL(location, url).toString();
+                fetchText(redirectedUrl, redirectCount + 1).then(resolve).catch(reject);
+                return;
+            }
+
+            const chunks = [];
 
             res.on('data', (chunk) => {
-                data += chunk;
+                chunks.push(chunk);
             });
 
             res.on('end', () => {
+                const rawBody = Buffer.concat(chunks);
+                let bodyBuffer;
+
                 try {
-                    const items = parseRSS(data);
-                    finish(items);
+                    bodyBuffer = decodeResponseBody(rawBody, res.headers['content-encoding']);
                 } catch (error) {
-                    console.error(`解析 RSS 失败 ${url}:`, error.message);
-                    finish([]);
+                    reject(new Error(`解压响应失败: ${error.message}`));
+                    return;
                 }
+
+                const body = bodyBuffer.toString('utf8');
+
+                if (res.statusCode < 200 || res.statusCode >= 300) {
+                    reject(new Error(`HTTP ${res.statusCode}: ${body.slice(0, 120).replace(/\s+/g, ' ')}`));
+                    return;
+                }
+
+                resolve(body);
             });
         }).on('error', (error) => {
-            console.error(`获取 RSS 失败 ${url}:`, error.message);
-            finish([]);
+            reject(error);
         });
 
-        req.setTimeout(20000, () => {
-            console.error(`获取 RSS 超时 ${url}`);
-            req.destroy();
-            finish([]);
+        req.setTimeout(30000, () => {
+            req.destroy(new Error(`请求超时 ${url}`));
         });
     });
 }
 
-// API 数据抓取
-function fetchAPI(url) {
-    return new Promise((resolve, reject) => {
-        const protocol = url.startsWith('https') ? https : http;
-        let settled = false;
+// RSS 解析器（使用 Node.js 内置模块）
+async function fetchRSS(source) {
+    const urls = [source.url, ...(source.fallbackUrls || [])];
+    let lastError = null;
 
-        const finish = (data) => {
-            if (settled) return;
-            settled = true;
-            resolve(data);
-        };
+    for (const url of urls) {
+        try {
+            const data = await fetchText(url);
+            const items = parseRSS(data);
 
-        const options = {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (compatible; RSS-Fetcher/1.0)'
-            }
-        };
-
-        const req = protocol.get(url, options, (res) => {
-            let data = '';
-
-            res.on('data', (chunk) => {
-                data += chunk;
-            });
-
-            res.on('end', () => {
-                try {
-                    const jsonData = JSON.parse(data);
-                    finish(jsonData);
-                } catch (error) {
-                    console.error(`解析 API 失败 ${url}:`, error.message);
-                    finish(null);
+            if (items.length > 0) {
+                if (url !== source.url) {
+                    console.log(`↪️ ${source.name} 使用备用源: ${url}`);
                 }
-            });
-        }).on('error', (error) => {
-            console.error(`获取 API 失败 ${url}:`, error.message);
-            finish(null);
-        });
+                return { items, url };
+            }
 
-        req.setTimeout(20000, () => {
-            console.error(`获取 API 超时 ${url}`);
-            req.destroy();
-            finish(null);
-        });
-    });
+            lastError = new Error(`RSS 中未解析到 item: ${data.slice(0, 120).replace(/\s+/g, ' ')}`);
+            console.error(`⚠️ ${source.name} RSS 无有效条目 ${url}: ${lastError.message}`);
+        } catch (error) {
+            lastError = error;
+            console.error(`⚠️ ${source.name} RSS 抓取失败 ${url}: ${error.message}`);
+        }
+    }
+
+    return { items: [], url: source.url, error: lastError };
+}
+
+// API 数据抓取
+async function fetchAPI(url) {
+    try {
+        const data = await fetchText(url);
+        return JSON.parse(data);
+    } catch (error) {
+        console.error(`获取或解析 API 失败 ${url}:`, error.message);
+        return null;
+    }
 }
 
 // 新股信息过滤函数（提前一周和往后一周的申购日期）
@@ -274,28 +341,65 @@ function filterNewSharesByDate(data) {
     });
 }
 
+function escapeRegExp(text) {
+    return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function getXmlTagValue(xmlText, tagName) {
+    const escapedTag = escapeRegExp(tagName);
+    const match = xmlText.match(new RegExp(`<${escapedTag}\\b[^>]*>([\\s\\S]*?)<\\/${escapedTag}>`, 'i'));
+    return match ? match[1] : '';
+}
+
+function decodeXmlEntities(text) {
+    return text
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+        .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCharCode(parseInt(code, 16)));
+}
+
+function cleanXmlText(text) {
+    return decodeXmlEntities(
+        text
+            .replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/i, '$1')
+            .replace(/<[^>]*>/g, '')
+    ).trim();
+}
+
+function readExistingRSSData(filePath) {
+    if (!fs.existsSync(filePath)) return null;
+
+    try {
+        return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    } catch (error) {
+        console.error(`读取现有数据失败 ${filePath}:`, error.message);
+        return null;
+    }
+}
+
 // 简单的 RSS XML 解析
 function parseRSS(xmlText) {
     const items = [];
 
     // 使用正则表达式解析 RSS XML
-    const itemMatches = xmlText.match(/<item>([\s\S]*?)<\/item>/g);
+    const itemMatches = xmlText.match(/<item\b[\s\S]*?<\/item>/gi);
 
     if (!itemMatches) return items;
 
     itemMatches.forEach(itemText => {
-        const titleMatch = itemText.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) ||
-                          itemText.match(/<title>(.*?)<\/title>/);
-        const linkMatch = itemText.match(/<link>(.*?)<\/link>/);
-        const descMatch = itemText.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) ||
-                         itemText.match(/<description>(.*?)<\/description>/);
-        const pubDateMatch = itemText.match(/<pubDate>(.*?)<\/pubDate>/);
+        const titleValue = getXmlTagValue(itemText, 'title');
+        const linkValue = getXmlTagValue(itemText, 'link');
 
-        if (titleMatch && linkMatch) {
-            const title = titleMatch[1].replace(/<[^>]*>/g, '').trim();
-            const link = linkMatch[1].trim();
-            const description = descMatch ? descMatch[1].replace(/<[^>]*>/g, '').trim().substring(0, 200) : '';
-            const pubDate = pubDateMatch ? pubDateMatch[1] : '';
+        if (titleValue && linkValue) {
+            const descriptionValue = getXmlTagValue(itemText, 'description') || getXmlTagValue(itemText, 'content:encoded') || '';
+            const pubDate = getXmlTagValue(itemText, 'pubDate') || getXmlTagValue(itemText, 'dc:date') || '';
+            const title = cleanXmlText(titleValue);
+            const link = cleanXmlText(linkValue);
+            const description = cleanXmlText(descriptionValue).substring(0, 200);
 
             if (title && link) {
                 items.push({
@@ -319,6 +423,7 @@ function parseRSS(xmlText) {
 // 主函数
 async function main() {
     console.log('🔄 开始抓取所有数据源...');
+    let hasRequiredRSSFailure = false;
 
     // 抓取 RSS 源
     console.log('📡 开始抓取 RSS 源...');
@@ -326,29 +431,42 @@ async function main() {
         console.log(`📡 正在抓取 RSS: ${source.name}`);
 
         try {
-            const items = await fetchRSS(source.url);
+            const result = await fetchRSS(source);
+            const items = result.items || [];
 
             const jsonData = {
                 source: {
                     name: source.name,
                     description: source.description,
-                    url: source.url,
+                    url: result.url || source.url,
                     lastUpdate: new Date().toISOString()
                 },
-                items: items || [],
-                total: items ? items.length : 0
+                items,
+                total: items.length
             };
 
             const filePath = path.join(dataDir, source.filename);
-            fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
 
-            if (items && items.length > 0) {
+            if (items.length > 0) {
+                fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
                 console.log(`✅ 成功抓取 ${source.name}: ${items.length} 条数据`);
             } else {
-                console.log(`⚠️ ${source.name} 抓取失败或无数据，已写入空数据文件`);
+                const existingData = readExistingRSSData(filePath);
+                if (existingData && existingData.items && existingData.items.length > 0) {
+                    console.log(`⚠️ ${source.name} 抓取失败，保留现有 ${existingData.items.length} 条数据`);
+                } else if (source.requireItems) {
+                    hasRequiredRSSFailure = true;
+                    console.error(`❌ ${source.name} 是必需 RSS 源，但没有抓到有效数据`);
+                } else {
+                    fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), 'utf8');
+                    console.log(`⚠️ ${source.name} 抓取失败或无数据，已写入空数据文件`);
+                }
             }
         } catch (error) {
             console.error(`❌ ${source.name} 处理失败:`, error.message);
+            if (source.requireItems) {
+                hasRequiredRSSFailure = true;
+            }
         }
     }
 
@@ -413,7 +531,14 @@ async function main() {
     }
 
     console.log('🎉 所有数据源抓取完成!');
+
+    if (hasRequiredRSSFailure) {
+        throw new Error('必需 RSS 源抓取失败，已阻止写入空数据。');
+    }
 }
 
 // 运行主函数
-main().catch(console.error);
+main().catch(error => {
+    console.error(error);
+    process.exitCode = 1;
+});
