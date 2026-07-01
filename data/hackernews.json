@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-06-30T23:52:32.284Z"
+    "lastUpdate": "2026-07-01T14:06:37.205Z"
   },
   "data": [
     {
       "id": 48734373,
       "title": "Claude Code is steganographically marking requests",
       "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1311,
+      "score": 2254,
       "author": "kirushik",
       "created": "2026-06-30 15:44:24",
       "created_at": 1782834264000
     },
     {
-      "id": 48721903,
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1143,
-      "author": "stared",
-      "created": "2026-06-29 17:05:16",
-      "created_at": 1782752716000
-    },
-    {
-      "id": 48713832,
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 1009,
-      "author": "sambellll",
-      "created": "2026-06-29 01:44:40",
-      "created_at": 1782697480000
-    },
-    {
-      "id": 48714529,
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 1003,
-      "author": "arkhiver",
-      "created": "2026-06-29 03:42:07",
-      "created_at": 1782704527000
-    },
-    {
-      "id": 48716902,
-      "title": "Pollen tried to remove my article and Google is assisting with it",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 905,
-      "author": "taubek",
-      "created": "2026-06-29 09:28:08",
-      "created_at": 1782725288000
-    },
-    {
       "id": 48736605,
       "title": "Claude Sonnet 5",
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 807,
+      "score": 1181,
       "author": "marinesebastian",
       "created": "2026-06-30 17:59:52",
       "created_at": 1782842392000
     },
     {
+      "id": 48721903,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 1171,
+      "author": "stared",
+      "created": "2026-06-29 17:05:16",
+      "created_at": 1782752716000
+    },
+    {
+      "id": 48740771,
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 801,
+      "author": "Pragmata",
+      "created": "2026-06-30 23:55:12",
+      "created_at": 1782863712000
+    },
+    {
       "id": 48730729,
       "title": "European digital ID wallets rely on safety services of Google and Apple",
       "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "score": 675,
+      "score": 694,
       "author": "donohoe",
       "created": "2026-06-30 10:36:23",
       "created_at": 1782815783000
     },
     {
-      "id": 48717469,
-      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "score": 667,
-      "author": "Risse",
-      "created": "2026-06-29 10:45:51",
-      "created_at": 1782729951000
+      "id": 48730608,
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "score": 679,
+      "author": "robtherobber",
+      "created": "2026-06-30 10:15:15",
+      "created_at": 1782814515000
     },
     {
       "id": 48724230,
       "title": ".self: A new top-level domain designed to support self-hosting",
       "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 660,
+      "score": 667,
       "author": "HumanCCF",
       "created": "2026-06-29 19:49:28",
       "created_at": 1782762568000
     },
     {
-      "id": 48730608,
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "score": 659,
-      "author": "robtherobber",
-      "created": "2026-06-30 10:15:15",
-      "created_at": 1782814515000
+      "id": 48720924,
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 609,
+      "author": "cdrnsf",
+      "created": "2026-06-29 15:54:24",
+      "created_at": 1782748464000
+    },
+    {
+      "id": 48735770,
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "score": 523,
+      "author": "lebovic",
+      "created": "2026-06-30 17:07:41",
+      "created_at": 1782839261000
+    },
+    {
+      "id": 48734234,
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "score": 485,
+      "author": "loughnane",
+      "created": "2026-06-30 15:35:04",
+      "created_at": 1782833704000
     }
   ],
   "code": 200,

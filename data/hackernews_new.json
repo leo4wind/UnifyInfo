@@ -3,98 +3,89 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-06-30T02:13:47.685Z"
+    "lastUpdate": "2026-07-01T14:06:37.825Z"
   },
   "data": [
     {
-      "id": 48724230,
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 337,
-      "author": "HumanCCF",
-      "created": "2026-06-29 19:49:28",
-      "created_at": 1782762568000
+      "id": 48746445,
+      "title": "Why I Stopped Arguing with People",
+      "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "score": 114,
+      "author": "backlit4034",
+      "created": "2026-07-01 13:29:29",
+      "created_at": 1782912569000
     },
     {
-      "id": 48721903,
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 619,
-      "author": "stared",
-      "created": "2026-06-29 17:05:16",
-      "created_at": 1782752716000
+      "id": 48744518,
+      "title": "Asahi Linux 7.1 Progress Report",
+      "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "score": 326,
+      "author": "pantalaimon",
+      "created": "2026-07-01 10:07:04",
+      "created_at": 1782900424000
     },
     {
-      "id": 48698908,
-      "title": "Free the Icons",
-      "link": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 223,
-      "author": "zdw",
-      "created": "2026-06-27 15:05:17",
-      "created_at": 1782572717000
+      "id": 48744232,
+      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "link": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "score": 226,
+      "author": "mpweiher",
+      "created": "2026-07-01 09:21:44",
+      "created_at": 1782897704000
     },
     {
-      "id": 48727177,
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-      "link": "https://fil-c.org/context_switches",
-      "score": 26,
-      "author": "modeless",
-      "created": "2026-06-30 00:38:19",
-      "created_at": 1782779899000
+      "id": 48746752,
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "link": "",
+      "score": 8,
+      "author": "gergelycsegzi",
+      "created": "2026-07-01 13:48:44",
+      "created_at": 1782913724000
     },
     {
-      "id": 48727323,
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 15,
-      "author": "ozymandiax",
-      "created": "2026-06-30 00:56:42",
-      "created_at": 1782781002000
+      "id": 48734373,
+      "title": "Claude Code is steganographically marking requests",
+      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 2254,
+      "author": "kirushik",
+      "created": "2026-06-30 15:44:24",
+      "created_at": 1782834264000
     },
     {
-      "id": 48727116,
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "link": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 20,
-      "author": "benjiro29",
-      "created": "2026-06-30 00:30:11",
-      "created_at": 1782779411000
+      "id": 48745113,
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "score": 166,
+      "author": "_tk_",
+      "created": "2026-07-01 11:35:20",
+      "created_at": 1782905720000
     },
     {
-      "id": 48726073,
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "score": 65,
-      "author": "wglb",
-      "created": "2026-06-29 22:18:26",
-      "created_at": 1782771506000
+      "id": 48711052,
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "link": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "score": 152,
+      "author": "chimpanzee",
+      "created": "2026-06-28 20:05:56",
+      "created_at": 1782677156000
     },
     {
-      "id": 48719485,
-      "title": "Rocketlab acquires Iridium",
-      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 369,
-      "author": "everfrustrated",
-      "created": "2026-06-29 14:09:24",
-      "created_at": 1782742164000
+      "id": 48744655,
+      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "link": "https://cleberg.net/blog/internet.html",
+      "score": 153,
+      "author": "felixdoerp",
+      "created": "2026-07-01 10:26:45",
+      "created_at": 1782901605000
     },
     {
-      "id": 48722052,
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "link": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 156,
-      "author": "danboarder",
-      "created": "2026-06-29 17:16:17",
-      "created_at": 1782753377000
-    },
-    {
-      "id": 48727538,
-      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-      "link": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-      "score": 7,
-      "author": "type0",
-      "created": "2026-06-30 01:30:40",
-      "created_at": 1782783040000
+      "id": 48721434,
+      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
+      "link": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+      "score": 39,
+      "author": "fbrusch",
+      "created": "2026-06-29 16:35:20",
+      "created_at": 1782750920000
     }
   ],
   "code": 200,
