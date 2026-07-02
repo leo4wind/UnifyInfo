@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-02T13:28:10.318Z"
+    "lastUpdate": "2026-07-02T17:25:48.413Z"
   },
   "data": [
     {
-      "id": 48734373,
-      "title": "Claude Code is steganographically marking requests",
-      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2391,
-      "author": "kirushik",
-      "created": "2026-06-30 15:44:24",
-      "created_at": 1782834264000
-    },
-    {
-      "id": 48736605,
-      "title": "Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1247,
-      "author": "marinesebastian",
-      "created": "2026-06-30 17:59:52",
-      "created_at": 1782842392000
-    },
-    {
       "id": 48755965,
-      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "title": "Android Developer Verification: Threat masquerading as protection",
       "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 954,
+      "score": 1343,
       "author": "drewfax",
       "created": "2026-07-02 03:00:15",
       "created_at": 1782961215000
     },
     {
+      "id": 48736605,
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 1251,
+      "author": "marinesebastian",
+      "created": "2026-06-30 17:59:52",
+      "created_at": 1782842392000
+    },
+    {
       "id": 48740771,
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 944,
+      "score": 952,
       "author": "Pragmata",
       "created": "2026-06-30 23:55:12",
       "created_at": 1782863712000
@@ -46,7 +37,7 @@
       "id": 48747304,
       "title": "For first time, a cell built from scratch grows and divides",
       "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 881,
+      "score": 907,
       "author": "defrost",
       "created": "2026-07-01 14:20:52",
       "created_at": 1782915652000
@@ -55,7 +46,7 @@
       "id": 48745456,
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 732,
+      "score": 751,
       "author": "Tiberium",
       "created": "2026-07-01 12:13:34",
       "created_at": 1782908014000
@@ -64,7 +55,7 @@
       "id": 48746445,
       "title": "Most arguments are about ego, not ideas",
       "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "score": 694,
+      "score": 697,
       "author": "backlit4034",
       "created": "2026-07-01 13:29:29",
       "created_at": 1782912569000
@@ -73,10 +64,19 @@
       "id": 48747389,
       "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "link": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 578,
+      "score": 595,
       "author": "bilsbie",
       "created": "2026-07-01 14:26:07",
       "created_at": 1782915967000
+    },
+    {
+      "id": 48744518,
+      "title": "Asahi Linux 7.1 Progress Report",
+      "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "score": 561,
+      "author": "pantalaimon",
+      "created": "2026-07-01 10:07:04",
+      "created_at": 1782900424000
     },
     {
       "id": 48735770,
@@ -88,13 +88,13 @@
       "created_at": 1782839261000
     },
     {
-      "id": 48744518,
-      "title": "Asahi Linux 7.1 Progress Report",
-      "link": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 552,
-      "author": "pantalaimon",
-      "created": "2026-07-01 10:07:04",
-      "created_at": 1782900424000
+      "id": 48743472,
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "score": 548,
+      "author": "pjmlp",
+      "created": "2026-07-01 07:43:22",
+      "created_at": 1782891802000
     }
   ],
   "code": 200,
