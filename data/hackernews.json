@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-02T06:59:18.816Z"
+    "lastUpdate": "2026-07-02T10:27:36.958Z"
   },
   "data": [
     {
       "id": 48734373,
       "title": "Claude Code is steganographically marking requests",
       "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2380,
+      "score": 2387,
       "author": "kirushik",
       "created": "2026-06-30 15:44:24",
       "created_at": 1782834264000
@@ -19,7 +19,7 @@
       "id": 48736605,
       "title": "Claude Sonnet 5",
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1243,
+      "score": 1244,
       "author": "marinesebastian",
       "created": "2026-06-30 17:59:52",
       "created_at": 1782842392000
@@ -28,7 +28,7 @@
       "id": 48740771,
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 931,
+      "score": 937,
       "author": "Pragmata",
       "created": "2026-06-30 23:55:12",
       "created_at": 1782863712000
@@ -37,10 +37,19 @@
       "id": 48747304,
       "title": "For first time, a cell built from scratch grows and divides",
       "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 830,
+      "score": 861,
       "author": "defrost",
       "created": "2026-07-01 14:20:52",
       "created_at": 1782915652000
+    },
+    {
+      "id": 48745456,
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "score": 717,
+      "author": "Tiberium",
+      "created": "2026-07-01 12:13:34",
+      "created_at": 1782908014000
     },
     {
       "id": 48730729,
@@ -52,19 +61,10 @@
       "created_at": 1782815783000
     },
     {
-      "id": 48745456,
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 692,
-      "author": "Tiberium",
-      "created": "2026-07-01 12:13:34",
-      "created_at": 1782908014000
-    },
-    {
       "id": 48730608,
       "title": "The US ambassador had Belgian police stop our reporting",
       "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "score": 687,
+      "score": 690,
       "author": "robtherobber",
       "created": "2026-06-30 10:15:15",
       "created_at": 1782814515000
@@ -73,28 +73,28 @@
       "id": 48746445,
       "title": "Most arguments are about ego, not ideas",
       "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "score": 669,
+      "score": 683,
       "author": "backlit4034",
       "created": "2026-07-01 13:29:29",
       "created_at": 1782912569000
     },
     {
-      "id": 48735770,
-      "title": "Claude Science",
-      "link": "https://claude.com/product/claude-science",
-      "score": 557,
-      "author": "lebovic",
-      "created": "2026-06-30 17:07:41",
-      "created_at": 1782839261000
-    },
-    {
       "id": 48747389,
       "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "link": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 549,
+      "score": 563,
       "author": "bilsbie",
       "created": "2026-07-01 14:26:07",
       "created_at": 1782915967000
+    },
+    {
+      "id": 48735770,
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "score": 559,
+      "author": "lebovic",
+      "created": "2026-06-30 17:07:41",
+      "created_at": 1782839261000
     }
   ],
   "code": 200,
