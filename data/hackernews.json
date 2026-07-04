@@ -3,23 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-03T17:12:04.613Z"
+    "lastUpdate": "2026-07-04T16:52:13.478Z"
   },
   "data": [
-    {
-      "id": 48755965,
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1660,
-      "author": "drewfax",
-      "created": "2026-07-02 03:00:15",
-      "created_at": 1782961215000
-    },
     {
       "id": 48772388,
       "title": "Half-Baked Product",
       "link": "https://weli.dev/blog/half-baked-product/",
-      "score": 954,
+      "score": 1307,
       "author": "weli",
       "created": "2026-07-03 08:23:32",
       "created_at": 1783067012000
@@ -28,73 +19,82 @@
       "id": 48767347,
       "title": "Virginia bans sale of precise geolocation data",
       "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 923,
+      "score": 942,
       "author": "toomuchtodo",
       "created": "2026-07-02 21:03:45",
       "created_at": 1783026225000
     },
     {
-      "id": 48762725,
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 702,
-      "author": "mgh2",
-      "created": "2026-07-02 15:02:26",
-      "created_at": 1783004546000
+      "id": 48783117,
+      "title": "The bottleneck might be the air in the room",
+      "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "score": 616,
+      "author": "gslin",
+      "created": "2026-07-04 06:32:28",
+      "created_at": 1783146748000
     },
     {
-      "id": 48759634,
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "link": "https://github.com/Chocobozzz/PeerTube",
-      "score": 642,
-      "author": "doener",
-      "created": "2026-07-02 11:17:45",
-      "created_at": 1782991065000
+      "id": 48774518,
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 576,
+      "author": "ahlCVA",
+      "created": "2026-07-03 13:01:49",
+      "created_at": 1783083709000
     },
     {
-      "id": 48762098,
-      "title": "Podman v6.0.0",
-      "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 611,
-      "author": "soheilpro",
-      "created": "2026-07-02 14:23:09",
-      "created_at": 1783002189000
-    },
-    {
-      "id": 48755731,
-      "title": "Bring back crappy forums",
-      "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 569,
-      "author": "pentagrama",
-      "created": "2026-07-02 02:30:16",
-      "created_at": 1782959416000
-    },
-    {
-      "id": 48761944,
-      "title": "Immich 3.0",
-      "link": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 563,
-      "author": "hashier",
-      "created": "2026-07-02 14:13:26",
-      "created_at": 1783001606000
-    },
-    {
-      "id": 48763035,
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 517,
-      "author": "IngoBlechschmid",
-      "created": "2026-07-02 15:25:16",
-      "created_at": 1783005916000
+      "id": 48769397,
+      "title": "CarPlay Is Additive",
+      "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 564,
+      "author": "sprawl_",
+      "created": "2026-07-03 01:02:45",
+      "created_at": 1783040565000
     },
     {
       "id": 48770647,
       "title": "Why Switzerland has 25 gbit internet and America doesn't",
       "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "score": 512,
+      "score": 534,
       "author": "talonx",
       "created": "2026-07-03 04:16:17",
       "created_at": 1783052177000
+    },
+    {
+      "id": 48768951,
+      "title": "Protect your right to run local AI",
+      "link": "https://righttointelligence.org/",
+      "score": 532,
+      "author": "thoughtpeddler",
+      "created": "2026-07-02 23:54:03",
+      "created_at": 1783036443000
+    },
+    {
+      "id": 48776044,
+      "title": "Costco is the anti-Amazon",
+      "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 501,
+      "author": "bookofjoe",
+      "created": "2026-07-03 15:14:55",
+      "created_at": 1783091695000
+    },
+    {
+      "id": 48768992,
+      "title": "An American Privacy Emergency",
+      "link": "https://scottaaronson.blog/?p=9902",
+      "score": 404,
+      "author": "flowercalled",
+      "created": "2026-07-03 00:01:06",
+      "created_at": 1783036866000
+    },
+    {
+      "id": 48779683,
+      "title": "Espionage Against the European Parliament",
+      "link": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "score": 400,
+      "author": "ledoge",
+      "created": "2026-07-03 20:38:26",
+      "created_at": 1783111106000
     }
   ],
   "code": 200,
