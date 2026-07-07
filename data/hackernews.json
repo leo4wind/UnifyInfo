@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-06T08:09:17.389Z"
+    "lastUpdate": "2026-07-07T02:01:53.458Z"
   },
   "data": [
     {
       "id": 48794446,
       "title": "Organic Maps",
       "link": "https://organicmaps.app/",
-      "score": 933,
+      "score": 1132,
       "author": "tosh",
       "created": "2026-07-05 14:14:30",
       "created_at": 1783260870000
@@ -19,82 +19,82 @@
       "id": 48797916,
       "title": "OpenPrinter",
       "link": "https://www.opentools.studio/",
-      "score": 784,
+      "score": 1107,
       "author": "bouh",
       "created": "2026-07-05 21:03:06",
       "created_at": 1783285386000
     },
     {
-      "id": 48786781,
-      "title": "Leaking YouTube creators' private videos",
-      "link": "https://javoriuski.com/post/youtube",
-      "score": 675,
-      "author": "javxfps",
-      "created": "2026-07-04 16:45:10",
-      "created_at": 1783183510000
-    },
-    {
-      "id": 48788283,
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 666,
-      "author": "asronline",
-      "created": "2026-07-04 19:41:10",
-      "created_at": 1783194070000
-    },
-    {
-      "id": 48790689,
-      "title": "If you're a button, you have one job",
-      "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 558,
-      "author": "nozzlegear",
-      "created": "2026-07-05 02:01:03",
-      "created_at": 1783216863000
-    },
-    {
-      "id": 48786838,
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 517,
-      "author": "Cider9986",
-      "created": "2026-07-04 16:51:26",
-      "created_at": 1783183886000
-    },
-    {
-      "id": 48784777,
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "link": "https://peteris.rocks/blog/htop/",
-      "score": 503,
-      "author": "theanonymousone",
-      "created": "2026-07-04 12:00:57",
-      "created_at": 1783166457000
-    },
-    {
       "id": 48794750,
       "title": "It's not about physical vs. digital games, it's about ownership",
       "link": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 444,
+      "score": 654,
       "author": "popcar2",
       "created": "2026-07-05 14:56:15",
       "created_at": 1783263375000
     },
     {
+      "id": 48790689,
+      "title": "If you're a button, you have one job",
+      "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 580,
+      "author": "nozzlegear",
+      "created": "2026-07-05 02:01:03",
+      "created_at": 1783216863000
+    },
+    {
+      "id": 48804993,
+      "title": "Resetting Xbox",
+      "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "score": 480,
+      "author": "dijksterhuis",
+      "created": "2026-07-06 14:18:23",
+      "created_at": 1783347503000
+    },
+    {
       "id": 48793393,
       "title": "EU Council forces Chat Control via fast-track",
       "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "score": 428,
+      "score": 464,
       "author": "stavros",
       "created": "2026-07-05 11:44:04",
       "created_at": 1783251844000
     },
     {
-      "id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "link": "https://github.com/openai/codex/issues/30364",
-      "score": 362,
-      "author": "maille",
-      "created": "2026-07-04 21:51:09",
-      "created_at": 1783201869000
+      "id": 48799155,
+      "title": "Has_not_been_viewed_much",
+      "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "score": 448,
+      "author": "wxw",
+      "created": "2026-07-05 23:49:00",
+      "created_at": 1783295340000
+    },
+    {
+      "id": 48808482,
+      "title": "OpenWrt One – Open Hardware Router",
+      "link": "https://openwrt.org/toh/openwrt/one",
+      "score": 444,
+      "author": "peter_d_sherman",
+      "created": "2026-07-06 18:23:12",
+      "created_at": 1783362192000
+    },
+    {
+      "id": 48799614,
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "score": 403,
+      "author": "mfiguiere",
+      "created": "2026-07-06 01:04:03",
+      "created_at": 1783299843000
+    },
+    {
+      "id": 48796552,
+      "title": "The future of Flipper Zero development",
+      "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "score": 386,
+      "author": "croes",
+      "created": "2026-07-05 18:22:00",
+      "created_at": 1783275720000
     }
   ],
   "code": 200,
