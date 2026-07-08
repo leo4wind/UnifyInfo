@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-07T02:01:53.983Z"
+    "lastUpdate": "2026-07-08T17:18:16.878Z"
   },
   "data": [
     {
-      "id": 48811591,
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "link": "https://github.com/MaximeRivest/Riddle",
-      "score": 143,
-      "author": "modinfo",
-      "created": "2026-07-06 23:00:24",
-      "created_at": 1783378824000
+      "id": 48833116,
+      "title": "Chatto is now Open Source",
+      "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 211,
+      "author": "speckx",
+      "created": "2026-07-08 15:19:50",
+      "created_at": 1783523990000
     },
     {
-      "id": 48808482,
-      "title": "OpenWrt One – Open Hardware Router",
-      "link": "https://openwrt.org/toh/openwrt/one",
-      "score": 444,
-      "author": "peter_d_sherman",
-      "created": "2026-07-06 18:23:12",
-      "created_at": 1783362192000
+      "id": 48832212,
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "link": "https://mistral.ai/news/robostral-navigate/",
+      "score": 222,
+      "author": "ottomengis",
+      "created": "2026-07-08 14:09:17",
+      "created_at": 1783519757000
     },
     {
-      "id": 48812156,
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 50,
-      "author": "bilsbie",
-      "created": "2026-07-07 00:14:21",
-      "created_at": 1783383261000
+      "id": 48833866,
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "link": "https://cognition.com/blog/swe-1-7",
+      "score": 61,
+      "author": "mekpro",
+      "created": "2026-07-08 16:19:36",
+      "created_at": 1783527576000
     },
     {
-      "id": 48808928,
-      "title": "CoMaps – FOSS Offline Maps",
-      "link": "https://www.comaps.app/",
-      "score": 317,
-      "author": "basilikum",
-      "created": "2026-07-06 18:55:07",
-      "created_at": 1783364107000
+      "id": 48829312,
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1024,
+      "author": "speerer",
+      "created": "2026-07-08 08:46:06",
+      "created_at": 1783500366000
     },
     {
-      "id": 48809877,
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 164,
-      "author": "martinald",
-      "created": "2026-07-06 20:14:55",
-      "created_at": 1783368895000
+      "id": 48834405,
+      "title": "GPT‑Live",
+      "link": "https://openai.com/index/introducing-gpt-live/",
+      "score": 31,
+      "author": "logickkk1",
+      "created": "2026-07-08 17:03:19",
+      "created_at": 1783530199000
     },
     {
-      "id": 48811644,
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "link": "https://ternlight-demo.vercel.app/",
-      "score": 69,
-      "author": "soycaporal",
-      "created": "2026-07-06 23:06:31",
-      "created_at": 1783379191000
+      "id": 48831565,
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "link": "https://blog.cloudflare.com/meerkat-introduction/",
+      "score": 123,
+      "author": "bobnamob",
+      "created": "2026-07-08 13:18:03",
+      "created_at": 1783516683000
     },
     {
-      "id": 48811887,
-      "title": "NSA and IETF: Fairness",
-      "link": "https://blog.cr.yp.to/20260706-fairness.html",
-      "score": 37,
-      "author": "WatchDog",
-      "created": "2026-07-06 23:33:54",
-      "created_at": 1783380834000
+      "id": 48831658,
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "score": 125,
+      "author": "linggen",
+      "created": "2026-07-08 13:24:52",
+      "created_at": 1783517092000
     },
     {
-      "id": 48808002,
-      "title": "A global workspace in language models",
-      "link": "https://www.anthropic.com/research/global-workspace",
+      "id": 48827858,
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "score": 424,
+      "author": "ColinEberhardt",
+      "created": "2026-07-08 05:25:35",
+      "created_at": 1783488335000
+    },
+    {
+      "id": 48786455,
+      "title": "Show HN: Follow London Trains in 3D",
+      "link": "https://ride.nexttrain.london/",
+      "score": 60,
+      "author": "mgranados",
+      "created": "2026-07-04 16:11:06",
+      "created_at": 1783181466000
+    },
+    {
+      "id": 48780387,
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "score": 268,
-      "author": "in-silico",
-      "created": "2026-07-06 17:44:08",
-      "created_at": 1783359848000
-    },
-    {
-      "id": 48809354,
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 54,
-      "author": "emil_sorensen",
-      "created": "2026-07-06 19:28:24",
-      "created_at": 1783366104000
-    },
-    {
-      "id": 48812055,
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 14,
-      "author": "sscaryterry",
-      "created": "2026-07-06 23:59:54",
-      "created_at": 1783382394000
+      "author": "Stevvo",
+      "created": "2026-07-03 21:46:07",
+      "created_at": 1783115167000
     }
   ],
   "code": 200,
