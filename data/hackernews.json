@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-07T02:01:53.458Z"
+    "lastUpdate": "2026-07-08T01:42:59.720Z"
   },
   "data": [
-    {
-      "id": 48794446,
-      "title": "Organic Maps",
-      "link": "https://organicmaps.app/",
-      "score": 1132,
-      "author": "tosh",
-      "created": "2026-07-05 14:14:30",
-      "created_at": 1783260870000
-    },
-    {
-      "id": 48797916,
-      "title": "OpenPrinter",
-      "link": "https://www.opentools.studio/",
-      "score": 1107,
-      "author": "bouh",
-      "created": "2026-07-05 21:03:06",
-      "created_at": 1783285386000
-    },
-    {
-      "id": 48794750,
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "link": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 654,
-      "author": "popcar2",
-      "created": "2026-07-05 14:56:15",
-      "created_at": 1783263375000
-    },
-    {
-      "id": 48790689,
-      "title": "If you're a button, you have one job",
-      "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 580,
-      "author": "nozzlegear",
-      "created": "2026-07-05 02:01:03",
-      "created_at": 1783216863000
-    },
-    {
-      "id": 48804993,
-      "title": "Resetting Xbox",
-      "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 480,
-      "author": "dijksterhuis",
-      "created": "2026-07-06 14:18:23",
-      "created_at": 1783347503000
-    },
-    {
-      "id": 48793393,
-      "title": "EU Council forces Chat Control via fast-track",
-      "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "score": 464,
-      "author": "stavros",
-      "created": "2026-07-05 11:44:04",
-      "created_at": 1783251844000
-    },
-    {
-      "id": 48799155,
-      "title": "Has_not_been_viewed_much",
-      "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 448,
-      "author": "wxw",
-      "created": "2026-07-05 23:49:00",
-      "created_at": 1783295340000
-    },
     {
       "id": 48808482,
       "title": "OpenWrt One – Open Hardware Router",
       "link": "https://openwrt.org/toh/openwrt/one",
-      "score": 444,
+      "score": 800,
       "author": "peter_d_sherman",
       "created": "2026-07-06 18:23:12",
       "created_at": 1783362192000
     },
     {
-      "id": 48799614,
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 403,
-      "author": "mfiguiere",
-      "created": "2026-07-06 01:04:03",
-      "created_at": 1783299843000
+      "id": 48808928,
+      "title": "CoMaps – FOSS Offline Maps",
+      "link": "https://www.comaps.app/",
+      "score": 757,
+      "author": "basilikum",
+      "created": "2026-07-06 18:55:07",
+      "created_at": 1783364107000
     },
     {
-      "id": 48796552,
-      "title": "The future of Flipper Zero development",
-      "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "score": 386,
-      "author": "croes",
-      "created": "2026-07-05 18:22:00",
-      "created_at": 1783275720000
+      "id": 48804993,
+      "title": "Resetting Xbox",
+      "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "score": 723,
+      "author": "dijksterhuis",
+      "created": "2026-07-06 14:18:23",
+      "created_at": 1783347503000
+    },
+    {
+      "id": 48816883,
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "link": "https://streetcomplete.app/",
+      "score": 689,
+      "author": "kls0e",
+      "created": "2026-07-07 12:38:35",
+      "created_at": 1783427915000
+    },
+    {
+      "id": 48809877,
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 664,
+      "author": "martinald",
+      "created": "2026-07-06 20:14:55",
+      "created_at": 1783368895000
+    },
+    {
+      "id": 48811591,
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "score": 608,
+      "author": "modinfo",
+      "created": "2026-07-06 23:00:24",
+      "created_at": 1783378824000
+    },
+    {
+      "id": 48819244,
+      "title": "Microsoft fire idTech team at Id software",
+      "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "score": 533,
+      "author": "bauc",
+      "created": "2026-07-07 15:33:20",
+      "created_at": 1783438400000
+    },
+    {
+      "id": 48819008,
+      "title": "Chat Control passed first round in EU Parliament",
+      "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 532,
+      "author": "miroljub",
+      "created": "2026-07-07 15:16:15",
+      "created_at": 1783437375000
+    },
+    {
+      "id": 48816959,
+      "title": "98% isn't much",
+      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "score": 471,
+      "author": "speckx",
+      "created": "2026-07-07 12:45:14",
+      "created_at": 1783428314000
+    },
+    {
+      "id": 48816956,
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "link": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "score": 455,
+      "author": "surprisetalk",
+      "created": "2026-07-07 12:45:06",
+      "created_at": 1783428306000
     }
   ],
   "code": 200,
