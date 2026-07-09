@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-09T10:44:38.966Z"
+    "lastUpdate": "2026-07-09T14:28:56.384Z"
   },
   "data": [
+    {
+      "id": 48845049,
+      "title": "Show HN: 18 Words",
+      "link": "https://18words.com/",
+      "score": 208,
+      "author": "pompomsheep",
+      "created": "2026-07-09 12:48:52",
+      "created_at": 1783601332000
+    },
+    {
+      "id": 48845422,
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "link": "https://github.com/ronak-create/FableCut",
+      "score": 40,
+      "author": "ronak_parmar",
+      "created": "2026-07-09 13:23:10",
+      "created_at": 1783603390000
+    },
     {
       "id": 48838876,
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 873,
+      "score": 1151,
       "author": "djoldman",
       "created": "2026-07-08 23:37:43",
       "created_at": 1783553863000
     },
     {
-      "id": 48841259,
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 136,
-      "author": "Jedd",
-      "created": "2026-07-09 05:14:45",
-      "created_at": 1783574085000
-    },
-    {
-      "id": 48842611,
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "score": 131,
-      "author": "Gedxx",
-      "created": "2026-07-09 08:22:52",
-      "created_at": 1783585372000
-    },
-    {
       "id": 48778956,
       "title": "Meta reuses old RAM in new servers with custom bridge chip",
       "link": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "score": 40,
+      "score": 173,
       "author": "ihsw",
       "created": "2026-07-03 19:27:05",
       "created_at": 1783106825000
     },
     {
-      "id": 48814023,
-      "title": "I Built the Only 2026 WWII Jeep",
-      "link": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
-      "score": 47,
-      "author": "martey",
-      "created": "2026-07-07 05:38:26",
-      "created_at": 1783402706000
-    },
-    {
-      "id": 48800596,
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "link": "https://nexte.st/",
-      "score": 110,
-      "author": "nateb2022",
-      "created": "2026-07-06 04:19:30",
-      "created_at": 1783311570000
-    },
-    {
-      "id": 48841385,
-      "title": "How Donkey Kong Toppled Atari",
-      "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
-      "score": 27,
-      "author": "giuliomagnifico",
-      "created": "2026-07-09 05:34:44",
-      "created_at": 1783575284000
-    },
-    {
-      "id": 48837696,
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "score": 92,
-      "author": "tanelpoder",
-      "created": "2026-07-08 21:30:09",
-      "created_at": 1783546209000
-    },
-    {
-      "id": 48837396,
-      "title": "Separating signal from noise in coding evaluations",
-      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "id": 48843438,
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
       "score": 218,
-      "author": "sk4rekr0w",
-      "created": "2026-07-08 21:03:51",
-      "created_at": 1783544631000
+      "author": "theanonymousone",
+      "created": "2026-07-09 10:02:33",
+      "created_at": 1783591353000
     },
     {
-      "id": 48784126,
-      "title": "In-browser programmable robot simulator",
-      "link": "https://bittlex-sim.petoi.com/",
-      "score": 16,
-      "author": "lijay",
-      "created": "2026-07-04 09:41:30",
-      "created_at": 1783158090000
+      "id": 48841259,
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "score": 223,
+      "author": "Jedd",
+      "created": "2026-07-09 05:14:45",
+      "created_at": 1783574085000
+    },
+    {
+      "id": 48843923,
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 310,
+      "author": "rapnie",
+      "created": "2026-07-09 11:03:54",
+      "created_at": 1783595034000
+    },
+    {
+      "id": 48845514,
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "score": 52,
+      "author": "rbanffy",
+      "created": "2026-07-09 13:29:31",
+      "created_at": 1783603771000
+    },
+    {
+      "id": 48844709,
+      "title": "How Version Control Will Evolve for the Agent Boom",
+      "link": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+      "score": 24,
+      "author": "tapanjk",
+      "created": "2026-07-09 12:20:41",
+      "created_at": 1783599641000
+    },
+    {
+      "id": 48846184,
+      "title": "Introducing Muse Spark 1.1",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
+      "score": 15,
+      "author": "ot",
+      "created": "2026-07-09 14:10:22",
+      "created_at": 1783606222000
     }
   ],
   "code": 200,
