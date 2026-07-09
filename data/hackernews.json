@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-09T14:28:56.161Z"
+    "lastUpdate": "2026-07-09T21:12:07.670Z"
   },
   "data": [
     {
       "id": 48829312,
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1413,
+      "score": 1443,
       "author": "speerer",
       "created": "2026-07-08 08:46:06",
       "created_at": 1783500366000
@@ -19,7 +19,7 @@
       "id": 48838876,
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1151,
+      "score": 1277,
       "author": "djoldman",
       "created": "2026-07-08 23:37:43",
       "created_at": 1783553863000
@@ -28,43 +28,43 @@
       "id": 48833116,
       "title": "Chatto is now open source",
       "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 1034,
+      "score": 1059,
       "author": "speckx",
       "created": "2026-07-08 15:19:50",
       "created_at": 1783523990000
     },
     {
-      "id": 48818311,
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "link": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 899,
-      "author": "gasull",
-      "created": "2026-07-07 14:23:15",
-      "created_at": 1783434195000
+      "id": 48843923,
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 795,
+      "author": "rapnie",
+      "created": "2026-07-09 11:03:54",
+      "created_at": 1783595034000
+    },
+    {
+      "id": 48849066,
+      "title": "GPT-5.6",
+      "link": "https://openai.com/index/gpt-5-6/",
+      "score": 789,
+      "author": "logickkk1",
+      "created": "2026-07-09 17:04:14",
+      "created_at": 1783616654000
     },
     {
       "id": 48823557,
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "score": 772,
+      "score": 779,
       "author": "nickslaughter02",
       "created": "2026-07-07 20:50:46",
       "created_at": 1783457446000
     },
     {
-      "id": 48834405,
-      "title": "GPT‑Live",
-      "link": "https://openai.com/index/introducing-gpt-live/",
-      "score": 730,
-      "author": "logickkk1",
-      "created": "2026-07-08 17:03:19",
-      "created_at": 1783530199000
-    },
-    {
       "id": 48835111,
       "title": "Grok 4.5",
       "link": "https://x.ai/news/grok-4-5",
-      "score": 722,
+      "score": 752,
       "author": "BoumTAC",
       "created": "2026-07-08 18:00:32",
       "created_at": 1783533632000
@@ -73,28 +73,28 @@
       "id": 48837877,
       "title": "Rewriting Bun in Rust",
       "link": "https://bun.com/blog/bun-in-rust",
-      "score": 700,
+      "score": 741,
       "author": "afturner",
       "created": "2026-07-08 21:49:59",
       "created_at": 1783547399000
     },
     {
-      "id": 48833715,
-      "title": "TypeScript 7",
-      "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 682,
-      "author": "DanRosenwasser",
-      "created": "2026-07-08 16:06:35",
-      "created_at": 1783526795000
+      "id": 48834405,
+      "title": "GPT‑Live",
+      "link": "https://openai.com/index/introducing-gpt-live/",
+      "score": 737,
+      "author": "logickkk1",
+      "created": "2026-07-08 17:03:19",
+      "created_at": 1783530199000
     },
     {
-      "id": 48819244,
-      "title": "Microsoft fire idTech team at Id software",
-      "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "score": 663,
-      "author": "bauc",
-      "created": "2026-07-07 15:33:20",
-      "created_at": 1783438400000
+      "id": 48845049,
+      "title": "Show HN: 18 Words",
+      "link": "https://18words.com/",
+      "score": 713,
+      "author": "pompomsheep",
+      "created": "2026-07-09 12:48:52",
+      "created_at": 1783601332000
     }
   ],
   "code": 200,
