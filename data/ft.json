@@ -3,29 +3,29 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-10T20:58:32.620Z"
+    "lastUpdate": "2026-07-11T01:41:39.148Z"
   },
   "items": [
+    {
+      "title": "Trump says US has agreed to continue talks with Iran",
+      "link": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
+      "description": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
+      "pubDate": "Fri, 10 Jul 2026 23:43:33 GMT",
+      "timestamp": 1783727013000
+    },
+    {
+      "title": "Apple sues OpenAI alleging theft of top-secret information",
+      "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
+      "description": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
+      "pubDate": "Fri, 10 Jul 2026 22:50:16 GMT",
+      "timestamp": 1783723816000
+    },
     {
       "title": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
       "link": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
       "description": "Lebanese president calls for ‘pressure’ on Israel to start pulling back forces",
       "pubDate": "Fri, 10 Jul 2026 20:36:41 GMT",
       "timestamp": 1783715801000
-    },
-    {
-      "title": "Apple sues OpenAI, alleging it stole top-secret information",
-      "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
-      "description": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
-      "pubDate": "Fri, 10 Jul 2026 20:31:23 GMT",
-      "timestamp": 1783715483000
-    },
-    {
-      "title": "SK Hynix’s US shares jump 13% on Nasdaq debut",
-      "link": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
-      "description": "South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149",
-      "pubDate": "Fri, 10 Jul 2026 20:23:24 GMT",
-      "timestamp": 1783715004000
     },
     {
       "title": "US senators strike deal with White House to tighten Russia sanctions",
@@ -56,13 +56,6 @@
       "timestamp": 1783700959000
     },
     {
-      "title": "Trump says US has agreed to continue talks with Iran",
-      "link": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
-      "description": "President declares that ceasefire is ‘over’ despite ongoing negotiations",
-      "pubDate": "Fri, 10 Jul 2026 16:01:37 GMT",
-      "timestamp": 1783699297000
-    },
-    {
       "title": "Classicist Emily Wilson: ‘Odysseus is a different kind of conman’",
       "link": "https://www.ft.com/content/3edbfdf4-cb20-4393-9d5d-ffc1dd241ca4",
       "description": "The acclaimed translator who helped to inspire Christopher Nolan’s new film on the resonance of Homer’s epics — and which Greek hero Donald Trump most resembles",
@@ -77,5 +70,5 @@
       "timestamp": 1783656004000
     }
   ],
-  "total": 10
+  "total": 9
 }
