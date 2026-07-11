@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-09T21:12:08.064Z"
+    "lastUpdate": "2026-07-11T20:37:57.242Z"
   },
   "data": [
     {
-      "id": 48849066,
-      "title": "GPT-5.6",
-      "link": "https://openai.com/index/gpt-5-6/",
-      "score": 789,
-      "author": "logickkk1",
-      "created": "2026-07-09 17:04:14",
-      "created_at": 1783616654000
+      "id": 48873940,
+      "title": "Prefer Strict Tables in SQLite",
+      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 122,
+      "author": "ingve",
+      "created": "2026-07-11 17:33:55",
+      "created_at": 1783791235000
     },
     {
-      "id": 48842459,
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "link": "https://github.com/JustVugg/colibri",
-      "score": 67,
-      "author": "vforno",
-      "created": "2026-07-09 08:05:04",
-      "created_at": 1783584304000
+      "id": 48875377,
+      "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem",
+      "link": "https://antjs.org",
+      "score": 25,
+      "author": "theMackabu",
+      "created": "2026-07-11 20:07:18",
+      "created_at": 1783800438000
     },
     {
-      "id": 48843923,
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 795,
-      "author": "rapnie",
-      "created": "2026-07-09 11:03:54",
-      "created_at": 1783595034000
+      "id": 48872874,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 136,
+      "author": "saisrirampur",
+      "created": "2026-07-11 15:28:02",
+      "created_at": 1783783682000
     },
     {
-      "id": 48845049,
-      "title": "Show HN: 18 Words",
-      "link": "https://18words.com/",
-      "score": 713,
-      "author": "pompomsheep",
-      "created": "2026-07-09 12:48:52",
-      "created_at": 1783601332000
+      "id": 48874182,
+      "title": "Who manages the agents?",
+      "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "score": 53,
+      "author": "GavCo",
+      "created": "2026-07-11 18:02:33",
+      "created_at": 1783792953000
     },
     {
-      "id": 48803004,
-      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
-      "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-      "score": 173,
-      "author": "PotatoNinja",
-      "created": "2026-07-06 10:53:51",
-      "created_at": 1783335231000
+      "id": 48873836,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 61,
+      "author": "adletbalzhanov",
+      "created": "2026-07-11 17:21:49",
+      "created_at": 1783790509000
     },
     {
-      "id": 48847552,
-      "title": "Hy3",
-      "link": "https://hy.tencent.com/research/hy3",
-      "score": 285,
-      "author": "andai",
-      "created": "2026-07-09 15:27:48",
-      "created_at": 1783610868000
+      "id": 48872858,
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 68,
+      "author": "wolfi1",
+      "created": "2026-07-11 15:26:12",
+      "created_at": 1783783572000
     },
     {
-      "id": 48792383,
-      "title": "Train SIM Created by Just One Person Is Being Called the Best Ever Made",
-      "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 92,
-      "author": "oumua_don17",
-      "created": "2026-07-05 08:40:27",
-      "created_at": 1783240827000
+      "id": 48873457,
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "score": 31,
+      "author": "prtk25",
+      "created": "2026-07-11 16:33:42",
+      "created_at": 1783787622000
     },
     {
-      "id": 48846281,
-      "title": "No leap second will be introduced at the end of December 2026",
-      "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 190,
-      "author": "ChrisArchitect",
-      "created": "2026-07-09 14:16:34",
-      "created_at": 1783606594000
+      "id": 48820361,
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "score": 54,
+      "author": "jacobobryant",
+      "created": "2026-07-07 16:48:48",
+      "created_at": 1783442928000
     },
     {
-      "id": 48850414,
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "score": 132,
-      "author": "adamkurkiewicz",
-      "created": "2026-07-09 18:29:41",
-      "created_at": 1783621781000
+      "id": 48873893,
+      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+      "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "score": 134,
+      "author": "downbad_",
+      "created": "2026-07-11 17:27:55",
+      "created_at": 1783790875000
     },
     {
-      "id": 48809574,
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "link": "https://nahla.dev/blog/waitfree_queue/",
-      "score": 90,
-      "author": "EvgeniyZh",
-      "created": "2026-07-06 19:46:30",
-      "created_at": 1783367190000
+      "id": 48873424,
+      "title": "Modern decor may be straining people's brains",
+      "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 136,
+      "author": "downwithdisease",
+      "created": "2026-07-11 16:28:48",
+      "created_at": 1783787328000
     }
   ],
   "code": 200,
