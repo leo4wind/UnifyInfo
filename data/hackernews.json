@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-10T13:56:39.578Z"
+    "lastUpdate": "2026-07-11T09:16:04.856Z"
   },
   "data": [
     {
       "id": 48843923,
       "title": "EU Parliament greenlights Chat Control 1.0",
       "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1507,
+      "score": 1593,
       "author": "rapnie",
       "created": "2026-07-09 11:03:54",
       "created_at": 1783595034000
@@ -19,82 +19,82 @@
       "id": 48849066,
       "title": "GPT-5.6",
       "link": "https://openai.com/index/gpt-5-6/",
-      "score": 1402,
+      "score": 1523,
       "author": "logickkk1",
       "created": "2026-07-09 17:04:14",
       "created_at": 1783616654000
     },
     {
-      "id": 48838876,
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1339,
-      "author": "djoldman",
-      "created": "2026-07-08 23:37:43",
-      "created_at": 1783553863000
-    },
-    {
-      "id": 48833116,
-      "title": "Chatto is now open source",
-      "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 1077,
-      "author": "speckx",
-      "created": "2026-07-08 15:19:50",
-      "created_at": 1783523990000
-    },
-    {
       "id": 48845049,
       "title": "Show HN: 18 Words",
       "link": "https://18words.com/",
-      "score": 1048,
+      "score": 1100,
       "author": "pompomsheep",
       "created": "2026-07-09 12:48:52",
       "created_at": 1783601332000
     },
     {
-      "id": 48842459,
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "link": "https://github.com/JustVugg/colibri",
-      "score": 767,
-      "author": "vforno",
-      "created": "2026-07-09 08:05:04",
-      "created_at": 1783584304000
+      "id": 48865019,
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 1035,
+      "author": "stock_toaster",
+      "created": "2026-07-10 20:47:09",
+      "created_at": 1783716429000
     },
     {
-      "id": 48835111,
-      "title": "Grok 4.5",
-      "link": "https://x.ai/news/grok-4-5",
-      "score": 765,
-      "author": "BoumTAC",
-      "created": "2026-07-08 18:00:32",
-      "created_at": 1783533632000
+      "id": 48843352,
+      "title": "My thoughts on the Bun Rust rewrite",
+      "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "score": 773,
+      "author": "kristoff_it",
+      "created": "2026-07-09 09:47:28",
+      "created_at": 1783590448000
     },
     {
-      "id": 48837877,
-      "title": "Rewriting Bun in Rust",
-      "link": "https://bun.com/blog/bun-in-rust",
-      "score": 759,
-      "author": "afturner",
-      "created": "2026-07-08 21:49:59",
-      "created_at": 1783547399000
+      "id": 48861717,
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 574,
+      "author": "speckx",
+      "created": "2026-07-10 15:59:53",
+      "created_at": 1783699193000
     },
     {
-      "id": 48841676,
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "link": "https://github.com/malisper/pgrust",
-      "score": 749,
-      "author": "SweetSoftPillow",
-      "created": "2026-07-09 06:18:19",
-      "created_at": 1783577899000
+      "id": 48847552,
+      "title": "Hy3",
+      "link": "https://hy.tencent.com/research/hy3",
+      "score": 550,
+      "author": "andai",
+      "created": "2026-07-09 15:27:48",
+      "created_at": 1783610868000
     },
     {
-      "id": 48834405,
-      "title": "GPT‑Live",
-      "link": "https://openai.com/index/introducing-gpt-live/",
-      "score": 745,
-      "author": "logickkk1",
-      "created": "2026-07-08 17:03:19",
-      "created_at": 1783530199000
+      "id": 48863464,
+      "title": "New York City to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 512,
+      "author": "randycupertino",
+      "created": "2026-07-10 18:26:24",
+      "created_at": 1783707984000
+    },
+    {
+      "id": 48845442,
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "score": 456,
+      "author": "baud147258",
+      "created": "2026-07-09 13:24:43",
+      "created_at": 1783603483000
+    },
+    {
+      "id": 48863490,
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 450,
+      "author": "scrlk",
+      "created": "2026-07-10 18:29:19",
+      "created_at": 1783708159000
     }
   ],
   "code": 200,
