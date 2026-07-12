@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-11T20:37:57.061Z"
+    "lastUpdate": "2026-07-12T09:41:58.841Z"
   },
   "data": [
     {
       "id": 48865019,
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1523,
+      "score": 1605,
       "author": "stock_toaster",
       "created": "2026-07-10 20:47:09",
       "created_at": 1783716429000
@@ -19,7 +19,7 @@
       "id": 48861717,
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 718,
+      "score": 734,
       "author": "speckx",
       "created": "2026-07-10 15:59:53",
       "created_at": 1783699193000
@@ -28,7 +28,7 @@
       "id": 48863464,
       "title": "New York City to ban deceptive subscription practices",
       "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "score": 611,
+      "score": 631,
       "author": "randycupertino",
       "created": "2026-07-10 18:26:24",
       "created_at": 1783707984000
@@ -37,7 +37,7 @@
       "id": 48858121,
       "title": "Good Tools Are Invisible",
       "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 527,
+      "score": 546,
       "author": "theanonymousone",
       "created": "2026-07-10 10:32:41",
       "created_at": 1783679561000
@@ -46,7 +46,7 @@
       "id": 48863490,
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 506,
+      "score": 519,
       "author": "scrlk",
       "created": "2026-07-10 18:29:19",
       "created_at": 1783708159000
@@ -55,7 +55,7 @@
       "id": 48858737,
       "title": "Late Bronze Age Collapse",
       "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 412,
+      "score": 417,
       "author": "dmonay",
       "created": "2026-07-10 11:59:55",
       "created_at": 1783684795000
@@ -64,7 +64,7 @@
       "id": 48866134,
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 371,
+      "score": 393,
       "author": "hhs",
       "created": "2026-07-10 22:30:44",
       "created_at": 1783722644000
@@ -73,28 +73,28 @@
       "id": 48859701,
       "title": "Write code like a human will maintain it",
       "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 341,
+      "score": 347,
       "author": "ScottWRobinson",
       "created": "2026-07-10 13:33:00",
       "created_at": 1783690380000
     },
     {
-      "id": 48853091,
-      "title": "Why American ambulance rides are so expensive",
-      "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "score": 327,
-      "author": "jyunwai",
-      "created": "2026-07-09 22:15:56",
-      "created_at": 1783635356000
-    },
-    {
       "id": 48864252,
       "title": "An update on residential proxies and the scraper situation",
       "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 316,
+      "score": 343,
       "author": "chmaynard",
       "created": "2026-07-10 19:38:34",
       "created_at": 1783712314000
+    },
+    {
+      "id": 48863064,
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "score": 303,
+      "author": "CrankyBear",
+      "created": "2026-07-10 17:51:07",
+      "created_at": 1783705867000
     }
   ],
   "code": 200,
