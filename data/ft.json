@@ -3,22 +3,36 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-12T20:34:09.131Z"
+    "lastUpdate": "2026-07-13T01:46:33.824Z"
   },
   "items": [
+    {
+      "title": "US launches another round of strikes on Iran as ceasefire teeters",
+      "link": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
+      "description": "Fighting escalates as Trump insists the Strait of Hormuz remains open while Tehran says it is closed",
+      "pubDate": "Sun, 12 Jul 2026 22:52:37 GMT",
+      "timestamp": 1783896757000
+    },
+    {
+      "title": "Oil prices jump as US and Iran step up tit-for-tat strikes",
+      "link": "https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6",
+      "description": "Traders fear escalating hostilities could further restrict the flow of crude through the Strait of Hormuz",
+      "pubDate": "Sun, 12 Jul 2026 22:41:05 GMT",
+      "timestamp": 1783896065000
+    },
+    {
+      "title": "US senator Lindsey Graham dies aged 71",
+      "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
+      "description": "South Carolina politician, who died from cardiovascular disease, was one of the most influential and hawkish Republicans",
+      "pubDate": "Sun, 12 Jul 2026 21:46:52 GMT",
+      "timestamp": 1783892812000
+    },
     {
       "title": "Iran bets Trump will blink first",
       "link": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05",
       "description": "Tehran takes high-stakes gamble with US over Strait of Hormuz",
       "pubDate": "Sun, 12 Jul 2026 17:57:12 GMT",
       "timestamp": 1783879032000
-    },
-    {
-      "title": "US launches new strikes on Iran in battle over Strait of Hormuz",
-      "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-      "description": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
-      "pubDate": "Sun, 12 Jul 2026 17:12:26 GMT",
-      "timestamp": 1783876346000
     },
     {
       "title": "Lindsey Graham, Republican senator, 1955-2026",
@@ -56,13 +70,6 @@
       "timestamp": 1783857607000
     },
     {
-      "title": "US senator Lindsey Graham dies aged 71",
-      "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
-      "description": "South Carolina politician was one of the most influential and hawkish Republicans",
-      "pubDate": "Sun, 12 Jul 2026 09:26:47 GMT",
-      "timestamp": 1783848407000
-    },
-    {
       "title": "Russia closes in on city that made the Kremlin glitter",
       "link": "https://www.ft.com/content/e3ca7207-fb02-44cd-9532-2c8a01667dbf",
       "description": "Kostyantynivka in eastern Ukraine produced the red glass in Moscow landmarks. Now Putin is reducing it to rubble",
@@ -77,5 +84,5 @@
       "timestamp": 1783828806000
     }
   ],
-  "total": 10
+  "total": 11
 }

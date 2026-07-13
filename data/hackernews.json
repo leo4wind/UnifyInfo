@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-12T20:34:26.574Z"
+    "lastUpdate": "2026-07-13T01:46:52.159Z"
   },
   "data": [
     {
-      "id": 48865019,
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1626,
-      "author": "stock_toaster",
-      "created": "2026-07-10 20:47:09",
-      "created_at": 1783716429000
-    },
-    {
-      "id": 48866134,
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 401,
-      "author": "hhs",
-      "created": "2026-07-10 22:30:44",
-      "created_at": 1783722644000
-    },
-    {
-      "id": 48877371,
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 370,
-      "author": "jhoho",
-      "created": "2026-07-12 01:09:50",
-      "created_at": 1783818590000
+      "id": 48883275,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 465,
+      "author": "systima",
+      "created": "2026-07-12 18:25:51",
+      "created_at": 1783880751000
     },
     {
       "id": 48880170,
       "title": "Old and new apps, via modern coding agents",
       "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 365,
+      "score": 413,
       "author": "subset",
       "created": "2026-07-12 11:09:42",
       "created_at": 1783854582000
     },
     {
+      "id": 48877371,
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 402,
+      "author": "jhoho",
+      "created": "2026-07-12 01:09:50",
+      "created_at": 1783818590000
+    },
+    {
       "id": 48873836,
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 357,
+      "score": 361,
       "author": "adletbalzhanov",
       "created": "2026-07-11 17:21:49",
       "created_at": 1783790509000
     },
     {
-      "id": 48864252,
-      "title": "An update on residential proxies and the scraper situation",
-      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 347,
-      "author": "chmaynard",
-      "created": "2026-07-10 19:38:34",
-      "created_at": 1783712314000
-    },
-    {
       "id": 48873940,
       "title": "Prefer strict tables in SQLite",
       "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 334,
+      "score": 338,
       "author": "ingve",
       "created": "2026-07-11 17:33:55",
       "created_at": 1783791235000
@@ -73,16 +55,25 @@
       "id": 48876505,
       "title": "Mesh LLM: distributed AI computing on iroh",
       "link": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 328,
+      "score": 336,
       "author": "tionis",
       "created": "2026-07-11 22:38:57",
       "created_at": 1783809537000
     },
     {
+      "id": 48883343,
+      "title": "I love LLMs, I hate hype",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 322,
+      "author": "therepanic",
+      "created": "2026-07-12 18:31:56",
+      "created_at": 1783881116000
+    },
+    {
       "id": 48875377,
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "link": "https://antjs.org",
-      "score": 313,
+      "score": 314,
       "author": "theMackabu",
       "created": "2026-07-11 20:07:18",
       "created_at": 1783800438000
@@ -91,10 +82,19 @@
       "id": 48873692,
       "title": "Female US rower completes historic solo journey from California to Hawaii",
       "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "score": 311,
+      "score": 314,
       "author": "speckx",
       "created": "2026-07-11 17:03:23",
       "created_at": 1783789403000
+    },
+    {
+      "id": 48884853,
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "score": 297,
+      "author": "joahnn_s",
+      "created": "2026-07-12 21:12:11",
+      "created_at": 1783890731000
     }
   ],
   "code": 200,
