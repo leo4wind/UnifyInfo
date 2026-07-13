@@ -3,15 +3,22 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-13T06:44:01.909Z"
+    "lastUpdate": "2026-07-13T10:48:26.038Z"
   },
   "items": [
     {
-      "title": "Oil jumps and global stocks fall",
+      "title": "Ukraine’s drone swarms test Moscow air defences",
+      "link": "https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e",
+      "description": "Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis",
+      "pubDate": "Mon, 13 Jul 2026 10:29:38 GMT",
+      "timestamp": 1783938578000
+    },
+    {
+      "title": "Global stocks fall as Asian memory chipmakers hammered",
       "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-      "description": "New clashes over control of Strait of Hormuz put investors in ‘risk-off’ mode",
-      "pubDate": "Mon, 13 Jul 2026 06:09:54 GMT",
-      "timestamp": 1783922994000
+      "description": "Oil jumps as US-Iran hostilities escalate and investors go into ‘risk-off’ mode",
+      "pubDate": "Mon, 13 Jul 2026 09:22:55 GMT",
+      "timestamp": 1783934575000
     },
     {
       "title": "US launches more strikes on Iran as ceasefire teeters",
@@ -28,18 +35,11 @@
       "timestamp": 1783915262000
     },
     {
-      "title": "‘Trump accounts’ and how to spread America’s wealth",
+      "title": "Should the US redistribute or pre-distribute wealth?",
       "link": "https://www.ft.com/content/f98d880c-6e7f-486c-8336-4a26186a5955",
       "description": "Political stability in the US requires it — the question is, pre-distribution or redistribution?",
       "pubDate": "Mon, 13 Jul 2026 04:00:21 GMT",
       "timestamp": 1783915221000
-    },
-    {
-      "title": "Wall Street feasts on fees from SpaceX IPO and mega-mergers",
-      "link": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
-      "description": "Top US banks benefit from revival of large deals as AI optimism and strong consumer fuel market rally",
-      "pubDate": "Mon, 13 Jul 2026 04:00:20 GMT",
-      "timestamp": 1783915220000
     },
     {
       "title": "AI is not enough to arrest China’s decline",
@@ -49,16 +49,16 @@
       "timestamp": 1783915218000
     },
     {
-      "title": "Companies turn to Chinese AI models to cut costs",
-      "link": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
-      "description": "DoorDash, Siemens and Airbnb are among those seeking to curb ballooning bills and reduce reliance on US technology",
+      "title": "Investors alarmed as Asian chipmakers take stranglehold on indices",
+      "link": "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30",
+      "description": "TSMC, SK Hynix and Samsung Electronics together account for 29% of MSCI Emerging Markets index",
       "pubDate": "Mon, 13 Jul 2026 04:00:17 GMT",
       "timestamp": 1783915217000
     },
     {
-      "title": "Investors cut back bets on Asian chipmakers after blistering rally",
-      "link": "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30",
-      "description": "TSMC, SK Hynix and Samsung Electronics together account for 29% of MSCI Emerging Markets index",
+      "title": "Companies turn to Chinese AI models to cut costs",
+      "link": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+      "description": "DoorDash, Siemens and Airbnb are among those seeking to curb ballooning bills and reduce reliance on US technology",
       "pubDate": "Mon, 13 Jul 2026 04:00:17 GMT",
       "timestamp": 1783915217000
     },
@@ -68,13 +68,6 @@
       "description": "The bank has sold assets, cut jobs and made controversial new hires while cultivating a closer relationship with Trump. Is it enough to get back into the big time?",
       "pubDate": "Mon, 13 Jul 2026 04:00:05 GMT",
       "timestamp": 1783915205000
-    },
-    {
-      "title": "Employers pushed staff to use AI more. That has backfired",
-      "link": "https://www.ft.com/content/cc03adda-7b56-4392-8f9a-e83a71a25ea1",
-      "description": "Incentives to use new tools are changing as costs start to hit home",
-      "pubDate": "Mon, 13 Jul 2026 03:00:03 GMT",
-      "timestamp": 1783911603000
     },
     {
       "title": "EU buys record amount of gas from Russia’s flagship plant",
@@ -91,5 +84,5 @@
       "timestamp": 1783879032000
     }
   ],
-  "total": 12
+  "total": 11
 }
