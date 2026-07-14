@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-11T20:37:57.242Z"
+    "lastUpdate": "2026-07-14T09:45:27.054Z"
   },
   "data": [
     {
-      "id": 48873940,
-      "title": "Prefer Strict Tables in SQLite",
-      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 122,
-      "author": "ingve",
-      "created": "2026-07-11 17:33:55",
-      "created_at": 1783791235000
+      "id": 48901569,
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "score": 465,
+      "author": "donohoe",
+      "created": "2026-07-14 02:27:20",
+      "created_at": 1783996040000
     },
     {
-      "id": 48875377,
-      "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem",
-      "link": "https://antjs.org",
-      "score": 25,
-      "author": "theMackabu",
-      "created": "2026-07-11 20:07:18",
-      "created_at": 1783800438000
-    },
-    {
-      "id": 48872874,
-      "title": "We scaled PgBouncer to 4x throughput",
-      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 136,
-      "author": "saisrirampur",
-      "created": "2026-07-11 15:28:02",
-      "created_at": 1783783682000
-    },
-    {
-      "id": 48874182,
-      "title": "Who manages the agents?",
-      "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "score": 53,
-      "author": "GavCo",
-      "created": "2026-07-11 18:02:33",
-      "created_at": 1783792953000
-    },
-    {
-      "id": 48873836,
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 61,
-      "author": "adletbalzhanov",
-      "created": "2026-07-11 17:21:49",
-      "created_at": 1783790509000
-    },
-    {
-      "id": 48872858,
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 68,
-      "author": "wolfi1",
-      "created": "2026-07-11 15:26:12",
-      "created_at": 1783783572000
-    },
-    {
-      "id": 48873457,
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "id": 48903715,
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
       "score": 31,
-      "author": "prtk25",
-      "created": "2026-07-11 16:33:42",
-      "created_at": 1783787622000
+      "author": "alok-g",
+      "created": "2026-07-14 08:24:49",
+      "created_at": 1784017489000
     },
     {
-      "id": 48820361,
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "link": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 54,
-      "author": "jacobobryant",
-      "created": "2026-07-07 16:48:48",
-      "created_at": 1783442928000
+      "id": 48901010,
+      "title": "The git history command",
+      "link": "https://lalitm.com/post/git-history/",
+      "score": 292,
+      "author": "turbocon",
+      "created": "2026-07-14 00:57:11",
+      "created_at": 1783990631000
     },
     {
-      "id": 48873893,
-      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-      "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "id": 48902026,
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "link": "https://github.com/JetBrains/youtrackdb",
+      "score": 120,
+      "author": "gjvc",
+      "created": "2026-07-14 03:39:55",
+      "created_at": 1784000395000
+    },
+    {
+      "id": 48902320,
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "score": 84,
+      "author": "i2oc",
+      "created": "2026-07-14 04:31:48",
+      "created_at": 1784003508000
+    },
+    {
+      "id": 48903082,
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "score": 37,
+      "author": "BaudouinVH",
+      "created": "2026-07-14 06:43:28",
+      "created_at": 1784011408000
+    },
+    {
+      "id": 48901454,
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "link": "https://web.stanford.edu/~dntse/wireless_book.html",
       "score": 134,
-      "author": "downbad_",
-      "created": "2026-07-11 17:27:55",
-      "created_at": 1783790875000
+      "author": "teleforce",
+      "created": "2026-07-14 02:10:19",
+      "created_at": 1783995019000
     },
     {
-      "id": 48873424,
-      "title": "Modern decor may be straining people's brains",
-      "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "score": 136,
-      "author": "downwithdisease",
-      "created": "2026-07-11 16:28:48",
-      "created_at": 1783787328000
+      "id": 48872833,
+      "title": "How to build a circular LCD clock",
+      "link": "https://blinry.org/lcd-clock/",
+      "score": 81,
+      "author": "birdculture",
+      "created": "2026-07-11 15:23:54",
+      "created_at": 1783783434000
+    },
+    {
+      "id": 48896665,
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "score": 468,
+      "author": "speckx",
+      "created": "2026-07-13 18:22:16",
+      "created_at": 1783966936000
+    },
+    {
+      "id": 48901224,
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "link": "https://elasticity.institute/rsi-paper.pdf",
+      "score": 97,
+      "author": "apsec112",
+      "created": "2026-07-14 01:35:23",
+      "created_at": 1783992923000
     }
   ],
   "code": 200,
