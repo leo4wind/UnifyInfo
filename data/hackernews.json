@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-13T10:48:38.039Z"
+    "lastUpdate": "2026-07-14T06:03:03.863Z"
   },
   "data": [
+    {
+      "id": 48889637,
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "score": 1445,
+      "author": "crowdhailer",
+      "created": "2026-07-13 08:39:39",
+      "created_at": 1783931979000
+    },
     {
       "id": 48886741,
       "title": "Ask HN: Add flag for AI-generated articles",
       "link": "",
-      "score": 706,
+      "score": 1025,
       "author": "levkk",
       "created": "2026-07-13 01:24:20",
       "created_at": 1783905860000
@@ -19,82 +28,73 @@
       "id": 48883275,
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 603,
+      "score": 686,
       "author": "systima",
       "created": "2026-07-12 18:25:51",
       "created_at": 1783880751000
     },
     {
-      "id": 48877371,
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 477,
-      "author": "jhoho",
-      "created": "2026-07-12 01:09:50",
-      "created_at": 1783818590000
-    },
-    {
-      "id": 48880170,
-      "title": "Old and new apps, via modern coding agents",
-      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 436,
-      "author": "subset",
-      "created": "2026-07-12 11:09:42",
-      "created_at": 1783854582000
-    },
-    {
-      "id": 48883343,
-      "title": "I love LLMs, I hate hype",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 431,
-      "author": "therepanic",
-      "created": "2026-07-12 18:31:56",
-      "created_at": 1783881116000
-    },
-    {
-      "id": 48884853,
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "score": 402,
-      "author": "joahnn_s",
-      "created": "2026-07-12 21:12:11",
-      "created_at": 1783890731000
+      "id": 48888331,
+      "title": "A graph that should be front-page news",
+      "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "score": 637,
+      "author": "rakel_rakel",
+      "created": "2026-07-13 05:35:27",
+      "created_at": 1783920927000
     },
     {
       "id": 48882056,
       "title": "How to read more books",
       "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 380,
+      "score": 540,
       "author": "silcoon",
       "created": "2026-07-12 15:47:16",
       "created_at": 1783871236000
     },
     {
-      "id": 48873836,
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 365,
-      "author": "adletbalzhanov",
-      "created": "2026-07-11 17:21:49",
-      "created_at": 1783790509000
+      "id": 48894752,
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "score": 511,
+      "author": "get-inscribe",
+      "created": "2026-07-13 16:06:08",
+      "created_at": 1783958768000
     },
     {
-      "id": 48873940,
-      "title": "Prefer strict tables in SQLite",
-      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 348,
-      "author": "ingve",
-      "created": "2026-07-11 17:33:55",
-      "created_at": 1783791235000
+      "id": 48892512,
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "score": 493,
+      "author": "tnolet",
+      "created": "2026-07-13 13:39:59",
+      "created_at": 1783949999000
     },
     {
-      "id": 48876505,
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "link": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 339,
-      "author": "tionis",
-      "created": "2026-07-11 22:38:57",
-      "created_at": 1783809537000
+      "id": 48897945,
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "link": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "score": 477,
+      "author": "benwerd",
+      "created": "2026-07-13 19:57:55",
+      "created_at": 1783972675000
+    },
+    {
+      "id": 48883343,
+      "title": "I love LLMs, I hate hype",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 477,
+      "author": "therepanic",
+      "created": "2026-07-12 18:31:56",
+      "created_at": 1783881116000
+    },
+    {
+      "id": 48888468,
+      "title": "Sam Neill has died",
+      "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "score": 453,
+      "author": "j4mie",
+      "created": "2026-07-13 06:02:11",
+      "created_at": 1783922531000
     }
   ],
   "code": 200,
