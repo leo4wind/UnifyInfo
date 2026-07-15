@@ -3,7 +3,7 @@
     "name": "60秒新闻",
     "description": "每日新闻简讯",
     "url": "https://60s.viki.moe/v2/60s",
-    "lastUpdate": "2026-07-15T01:19:51.496Z"
+    "lastUpdate": "2026-07-15T06:06:35.617Z"
   },
   "data": {
     "date": "2026-07-15",
@@ -34,8 +34,8 @@
     "updated_at": 1784056103000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年六月初二",
-    "api_updated": "2026/07/15 09:19:51",
-    "api_updated_at": 1784078391470
+    "api_updated": "2026/07/15 14:06:35",
+    "api_updated_at": 1784095595605
   },
   "code": 200,
   "message": "获取成功。当前部署平台已迁移到 Cloudflare Workers，如有问题请及时反馈。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
