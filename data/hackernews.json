@@ -3,59 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-16T01:29:47.004Z"
+    "lastUpdate": "2026-07-16T09:55:37.962Z"
   },
   "data": [
-    {
-      "id": 48915709,
-      "title": "Jurassic Park computers in excruciating detail",
-      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 868,
-      "author": "vinhnx",
-      "created": "2026-07-15 02:57:47",
-      "created_at": 1784084267000
-    },
-    {
-      "id": 48901569,
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 739,
-      "author": "donohoe",
-      "created": "2026-07-14 02:27:20",
-      "created_at": 1783996040000
-    },
-    {
-      "id": 48910545,
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "link": "https://prismml.com/news/bonsai-27b",
-      "score": 678,
-      "author": "xenova",
-      "created": "2026-07-14 17:50:48",
-      "created_at": 1784051448000
-    },
     {
       "id": 48924912,
       "title": "Inkling: Our Open-Weights Model",
       "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 660,
+      "score": 972,
       "author": "vimarsh6739",
       "created": "2026-07-15 18:12:45",
       "created_at": 1784139165000
     },
     {
+      "id": 48915709,
+      "title": "Jurassic Park computers in excruciating detail",
+      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 893,
+      "author": "vinhnx",
+      "created": "2026-07-15 02:57:47",
+      "created_at": 1784084267000
+    },
+    {
       "id": 48919363,
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
       "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 656,
+      "score": 695,
       "author": "bilsbie",
       "created": "2026-07-15 11:46:06",
       "created_at": 1784115966000
     },
     {
+      "id": 48910545,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "score": 683,
+      "author": "xenova",
+      "created": "2026-07-14 17:50:48",
+      "created_at": 1784051448000
+    },
+    {
       "id": 48916975,
       "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "link": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 604,
+      "score": 640,
       "author": "macleginn",
       "created": "2026-07-15 06:28:00",
       "created_at": 1784096880000
@@ -64,25 +55,16 @@
       "id": 48905248,
       "title": "How to stop Claude from saying load-bearing",
       "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 591,
+      "score": 595,
       "author": "shintoist",
       "created": "2026-07-14 11:46:02",
       "created_at": 1784029562000
     },
     {
-      "id": 48903777,
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "score": 561,
-      "author": "roundabout-host",
-      "created": "2026-07-14 08:34:57",
-      "created_at": 1784018097000
-    },
-    {
       "id": 48909785,
       "title": "The Tower Keeps Rising",
       "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 531,
+      "score": 540,
       "author": "cdrnsf",
       "created": "2026-07-14 16:57:54",
       "created_at": 1784048274000
@@ -91,10 +73,28 @@
       "id": 48920181,
       "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
       "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-      "score": 520,
+      "score": 537,
       "author": "youngtaff",
       "created": "2026-07-15 12:59:09",
       "created_at": 1784120349000
+    },
+    {
+      "id": 48908178,
+      "title": "Are we offloading too much of our thinking to AI?",
+      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 515,
+      "author": "yenniejun111",
+      "created": "2026-07-14 15:18:13",
+      "created_at": 1784042293000
+    },
+    {
+      "id": 48926590,
+      "title": "Grok Build is open source",
+      "link": "https://github.com/xai-org/grok-build",
+      "score": 445,
+      "author": "skp1995",
+      "created": "2026-07-15 20:24:58",
+      "created_at": 1784147098000
     }
   ],
   "code": 200,
