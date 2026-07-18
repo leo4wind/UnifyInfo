@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-18T09:14:37.592Z"
+    "lastUpdate": "2026-07-18T12:49:44.260Z"
   },
   "data": [
     {
       "id": 48935342,
       "title": "Kimi K3: Open Frontier Intelligence",
       "link": "https://www.kimi.com/blog/kimi-k3",
-      "score": 2026,
+      "score": 2040,
       "author": "vincent_s",
       "created": "2026-07-16 14:46:05",
       "created_at": 1784213165000
@@ -19,7 +19,7 @@
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "link": "",
-      "score": 1175,
+      "score": 1222,
       "author": "nprateem",
       "created": "2026-07-17 09:42:05",
       "created_at": 1784281325000
@@ -28,7 +28,7 @@
       "id": 48936426,
       "title": "Microsoft Comic Chat is now open source",
       "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 793,
+      "score": 798,
       "author": "jervant",
       "created": "2026-07-16 16:06:27",
       "created_at": 1784217987000
@@ -37,7 +37,7 @@
       "id": 48936584,
       "title": "Decoy Font",
       "link": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 704,
+      "score": 705,
       "author": "ray__",
       "created": "2026-07-16 16:18:21",
       "created_at": 1784218701000
@@ -46,55 +46,55 @@
       "id": 48933419,
       "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
       "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-      "score": 691,
+      "score": 692,
       "author": "nekusar",
       "created": "2026-07-16 12:13:43",
       "created_at": 1784204023000
     },
     {
-      "id": 48932539,
-      "title": "OnePlus halts operations in USA and Europe",
-      "link": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 586,
-      "author": "pilililo2",
-      "created": "2026-07-16 10:14:04",
-      "created_at": 1784196844000
-    },
-    {
       "id": 48949551,
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "link": "",
-      "score": 572,
+      "score": 668,
       "author": "nicholasjbs",
       "created": "2026-07-17 16:57:27",
       "created_at": 1784307447000
     },
     {
-      "id": 48933149,
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "link": "https://rtfeldman.com/rust-to-zig",
-      "score": 523,
-      "author": "jorangreef",
-      "created": "2026-07-16 11:39:27",
-      "created_at": 1784201967000
-    },
-    {
       "id": 48952880,
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 505,
+      "score": 523,
       "author": "gnabgib",
       "created": "2026-07-17 22:26:30",
       "created_at": 1784327190000
     },
     {
+      "id": 48947560,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 473,
+      "author": "neversaydie",
+      "created": "2026-07-17 14:06:13",
+      "created_at": 1784297173000
+    },
+    {
       "id": 48946010,
       "title": "Evidence of inconsistencies in evaluation process and selection of winners",
       "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 460,
+      "score": 461,
       "author": "twerkmeister",
       "created": "2026-07-17 11:30:00",
       "created_at": 1784287800000
+    },
+    {
+      "id": 48947825,
+      "title": "The state of open source AI",
+      "link": "https://stateofopensource.ai/",
+      "score": 457,
+      "author": "rellem",
+      "created": "2026-07-17 14:31:10",
+      "created_at": 1784298670000
     }
   ],
   "code": 200,
