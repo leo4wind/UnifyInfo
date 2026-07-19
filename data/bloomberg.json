@@ -3,20 +3,48 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-19T12:52:29.498Z"
+    "lastUpdate": "2026-07-19T16:43:05.118Z"
   },
   "items": [
     {
-      "title": "Caspian Pipeline Consortium Halts Loadings After Drone Strike",
+      "title": "Tropical Storm Watches Posted Across Florida’s Panhandle Region",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/tropical-storm-watches-posted-across-florida-s-panhandle-region",
+      "description": "A tropical storm watch has been issued for the Florida Panhandle as the Atlantic’s next event takes shape off shore.",
+      "pubDate": "Sun, 19 Jul 2026 15:44:22 GMT",
+      "timestamp": 1784475862000
+    },
+    {
+      "title": "Extreme Stock Swings Tempt Funds Into Reverse Dispersion Trade",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/extreme-stock-swings-tempt-funds-into-reverse-dispersion-trade",
+      "description": "Betting that individual stocks will be volatile while the S&P 500 stays relatively calm has been a popular and successful hedge fund strategy. But with the swings in share prices reaching extreme leve",
+      "pubDate": "Sun, 19 Jul 2026 14:00:00 GMT",
+      "timestamp": 1784469600000
+    },
+    {
+      "title": "Prediction Markets Swell to 27% of Sports Bets During World Cup",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
+      "description": "Prediction-market trading has surged during a blowout World Cup, far outpacing the growth at traditional sportsbooks and driving home the competitive threat that companies like Kalshi now pose to the ",
+      "pubDate": "Sun, 19 Jul 2026 13:30:00 GMT",
+      "timestamp": 1784467800000
+    },
+    {
+      "title": "Safest Carry in Emerging Markets Is in Latin American Currencies",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/safest-carry-in-emerging-markets-is-in-latin-american-currencies",
+      "description": "Emerging-market currency volatility has dropped to the lowest since the start of year and that’s re-energizing carry trades, particularly those involving Latin America that are seen to offer the juici",
+      "pubDate": "Sun, 19 Jul 2026 12:30:00 GMT",
+      "timestamp": 1784464200000
+    },
+    {
+      "title": "Caspian Pipeline Consortium Halts Loadings on Drone Strike",
       "link": "https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike",
-      "description": "Oil loading at the Caspian Pipeline Consortium’s terminal on Russia’s Black Sea coast was halted after a drone strike.",
+      "description": "Oil loading at the Caspian Pipeline Consortium’s terminal on Russia’s Black Sea coast was suspended after a drone strike, prompting the Kazakh government to call for an immediate end to such attacks.",
       "pubDate": "Sun, 19 Jul 2026 08:03:40 GMT",
       "timestamp": 1784448220000
     },
     {
-      "title": "US, Iran Launch Fresh Strikes After Two Troops Die in Jordan",
+      "title": "US-Iran Attacks Escalate as Strikes Kill Two American Troops",
       "link": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
-      "description": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+      "description": "The US and Iran engaged in a quickening series of tit-for-tat attacks, causing fresh chaos in the Middle East over the weekend after strikes by the Islamic Republic killed two American service members",
       "pubDate": "Sun, 19 Jul 2026 06:58:45 GMT",
       "timestamp": 1784444325000
     },
@@ -47,21 +75,7 @@
       "description": "For fund managers in London, New York and Tokyo, a new ritual has emerged before trading gets underway: checking South Korean stocks.",
       "pubDate": "Sun, 19 Jul 2026 00:00:00 GMT",
       "timestamp": 1784419200000
-    },
-    {
-      "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-18/vanishing-clo-profits-are-sparking-infighting-credit-weekly",
-      "description": "A type of investment that once generated some of Wall Street’s juiciest fixed-income returns has deteriorated so badly that investors are heading for the exits and arguing about who’s to blame.",
-      "pubDate": "Sat, 18 Jul 2026 15:50:09 GMT",
-      "timestamp": 1784389809000
-    },
-    {
-      "title": "Kuwait Energy Infrastructure Hit During Intense Iran Attacks",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit",
-      "description": "Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the Middle East conflict began, with strikes on an oil facility and a second power plant hit in as many days.",
-      "pubDate": "Sat, 18 Jul 2026 08:01:05 GMT",
-      "timestamp": 1784361665000
     }
   ],
-  "total": 8
+  "total": 10
 }
