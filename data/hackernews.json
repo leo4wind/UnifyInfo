@@ -3,68 +3,50 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-18T12:49:44.260Z"
+    "lastUpdate": "2026-07-19T01:41:41.321Z"
   },
   "data": [
-    {
-      "id": 48935342,
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "link": "https://www.kimi.com/blog/kimi-k3",
-      "score": 2040,
-      "author": "vincent_s",
-      "created": "2026-07-16 14:46:05",
-      "created_at": 1784213165000
-    },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "link": "",
-      "score": 1222,
+      "score": 1272,
       "author": "nprateem",
       "created": "2026-07-17 09:42:05",
       "created_at": 1784281325000
     },
     {
-      "id": 48936426,
-      "title": "Microsoft Comic Chat is now open source",
-      "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 798,
-      "author": "jervant",
-      "created": "2026-07-16 16:06:27",
-      "created_at": 1784217987000
-    },
-    {
-      "id": 48936584,
-      "title": "Decoy Font",
-      "link": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 705,
-      "author": "ray__",
-      "created": "2026-07-16 16:18:21",
-      "created_at": 1784218701000
-    },
-    {
-      "id": 48933419,
-      "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
-      "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-      "score": 692,
-      "author": "nekusar",
-      "created": "2026-07-16 12:13:43",
-      "created_at": 1784204023000
+      "id": 48956688,
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 998,
+      "author": "baranul",
+      "created": "2026-07-18 10:21:19",
+      "created_at": 1784370079000
     },
     {
       "id": 48949551,
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "link": "",
-      "score": 668,
+      "score": 792,
       "author": "nicholasjbs",
       "created": "2026-07-17 16:57:27",
       "created_at": 1784307447000
     },
     {
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "link": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 653,
+      "author": "vitaut",
+      "created": "2026-07-18 03:14:20",
+      "created_at": 1784344460000
+    },
+    {
       "id": 48952880,
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 523,
+      "score": 542,
       "author": "gnabgib",
       "created": "2026-07-17 22:26:30",
       "created_at": 1784327190000
@@ -73,28 +55,46 @@
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 473,
+      "score": 517,
       "author": "neversaydie",
       "created": "2026-07-17 14:06:13",
       "created_at": 1784297173000
     },
     {
-      "id": 48946010,
-      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
-      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 461,
-      "author": "twerkmeister",
-      "created": "2026-07-17 11:30:00",
-      "created_at": 1784287800000
+      "id": 48957779,
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 498,
+      "author": "mbustamanter",
+      "created": "2026-07-18 13:00:52",
+      "created_at": 1784379652000
     },
     {
       "id": 48947825,
       "title": "The state of open source AI",
       "link": "https://stateofopensource.ai/",
-      "score": 457,
+      "score": 475,
       "author": "rellem",
       "created": "2026-07-17 14:31:10",
       "created_at": 1784298670000
+    },
+    {
+      "id": 48946010,
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "score": 465,
+      "author": "twerkmeister",
+      "created": "2026-07-17 11:30:00",
+      "created_at": 1784287800000
+    },
+    {
+      "id": 48956924,
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "score": 415,
+      "author": "miniBill",
+      "created": "2026-07-18 11:06:50",
+      "created_at": 1784372810000
     }
   ],
   "code": 200,
