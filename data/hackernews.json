@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-21T10:13:49.080Z"
+    "lastUpdate": "2026-07-21T13:14:57.515Z"
   },
   "data": [
     {
       "id": 48968606,
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "link": "",
-      "score": 2861,
+      "score": 2877,
       "author": "section33",
       "created": "2026-07-19 14:41:16",
       "created_at": 1784472076000
@@ -19,7 +19,7 @@
       "id": 48979269,
       "title": "China’s open-weights AI strategy is winning",
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1114,
+      "score": 1154,
       "author": "benwerd",
       "created": "2026-07-20 14:21:47",
       "created_at": 1784557307000
@@ -28,7 +28,7 @@
       "id": 48976846,
       "title": "Airport Simulator",
       "link": "https://airport.apunen.com/",
-      "score": 798,
+      "score": 810,
       "author": "apunen",
       "created": "2026-07-20 10:30:40",
       "created_at": 1784543440000
@@ -37,7 +37,7 @@
       "id": 48973869,
       "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
       "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 762,
+      "score": 770,
       "author": "loubbrad",
       "created": "2026-07-20 02:51:16",
       "created_at": 1784515876000
@@ -46,7 +46,7 @@
       "id": 48977128,
       "title": "Who's afraid of Chinese models?",
       "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 650,
+      "score": 755,
       "author": "mfiguiere",
       "created": "2026-07-20 11:05:58",
       "created_at": 1784545558000
@@ -55,46 +55,46 @@
       "id": 48978605,
       "title": "Hacker wipes Romania's land registry database",
       "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 646,
+      "score": 671,
       "author": "speckx",
       "created": "2026-07-20 13:28:33",
       "created_at": 1784554113000
     },
     {
-      "id": 48966569,
-      "title": "Claude Code uses Bun written in Rust now",
-      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 597,
-      "author": "tosh",
-      "created": "2026-07-19 10:03:23",
-      "created_at": 1784455403000
-    },
-    {
       "id": 48981703,
       "title": "Kimi Work",
       "link": "https://www.kimi.com/products/kimi-work",
-      "score": 561,
+      "score": 608,
       "author": "ms7892",
       "created": "2026-07-20 17:13:23",
       "created_at": 1784567603000
     },
     {
-      "id": 48966713,
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 548,
-      "author": "chipweinberger",
-      "created": "2026-07-19 10:34:58",
-      "created_at": 1784457298000
+      "id": 48981620,
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "link": "https://jelly-ui.com/",
+      "score": 562,
+      "author": "baldvinmar",
+      "created": "2026-07-20 17:07:39",
+      "created_at": 1784567259000
     },
     {
       "id": 48977711,
       "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
       "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "score": 510,
+      "score": 520,
       "author": "rapnie",
       "created": "2026-07-20 12:14:08",
       "created_at": 1784549648000
+    },
+    {
+      "id": 48974454,
+      "title": "Xiaomi-Robotics-1",
+      "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "score": 494,
+      "author": "ilreb",
+      "created": "2026-07-20 04:45:15",
+      "created_at": 1784522715000
     }
   ],
   "code": 200,
