@@ -3,9 +3,16 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-22T06:20:33.760Z"
+    "lastUpdate": "2026-07-22T10:12:59.826Z"
   },
   "items": [
+    {
+      "title": "Oil rises past $95 after Trump threatens further Iran escalation",
+      "link": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
+      "description": "Goldman Sachs warns Brent crude price could jump to $120 if Strait of Hormuz remains ‘disrupted’",
+      "pubDate": "Wed, 22 Jul 2026 08:08:58 GMT",
+      "timestamp": 1784707738000
+    },
     {
       "title": "Who will win the war of neo-mercantilists?",
       "link": "https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1",
@@ -49,6 +56,13 @@
       "timestamp": 1784692808000
     },
     {
+      "title": "US will cut aluminium tariffs to boost defence supply chain",
+      "link": "https://www.ft.com/content/a9bd2bbb-2d6f-4222-98d3-361c3644cf2c?syn-25a6b1a6=1",
+      "description": "Trump administration offering exemptions to companies that invest in American smelters",
+      "pubDate": "Wed, 22 Jul 2026 01:44:41 GMT",
+      "timestamp": 1784684681000
+    },
+    {
       "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
       "link": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
       "description": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
@@ -63,5 +77,5 @@
       "timestamp": 1784668599000
     }
   ],
-  "total": 8
+  "total": 10
 }
