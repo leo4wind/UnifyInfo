@@ -3,71 +3,113 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-22T20:53:59.950Z"
+    "lastUpdate": "2026-07-23T01:48:14.331Z"
   },
   "items": [
     {
-      "title": "Mexico City Pozole Chain Casa de Tono Explores Sale on Expansion Pitch",
+      "title": "Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/mexican-mayor-shot-dead-in-his-office-after-surviving-earlier-hit",
+      "description": "Armed assailants gunned down the mayor of a small Mexican city just south of the country’s capital in his office in the latest case of suspected gangland violence targeting a local official.",
+      "pubDate": "Thu, 23 Jul 2026 00:53:50 GMT",
+      "timestamp": 1784768030000
+    },
+    {
+      "title": "Yen’s Slump in Trade-Weighted Gauge Shows Its Broad-Based Drop",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
+      "description": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the currency’s strength is sending an equally worrying signal for Japan.",
+      "pubDate": "Thu, 23 Jul 2026 00:39:28 GMT",
+      "timestamp": 1784767168000
+    },
+    {
+      "title": "Ebola Deaths Top 1,000 in Congo as Response Trails Fastest-Spreading Outbreak",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/ebola-deaths-top-1-000-in-congo-as-response-trails-fastest-spreading-outbreak",
+      "description": "Confirmed Ebola deaths in Democratic Republic of Congo have surpassed 1,000, prompting Africa’s top public health official to warn the outbreak could become one of the worst on record unless transmiss",
+      "pubDate": "Thu, 23 Jul 2026 00:38:00 GMT",
+      "timestamp": 1784767080000
+    },
+    {
+      "title": "China’s High-Profile Funds Ditch Consumer Stocks to Chase AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-high-profile-funds-ditch-consumer-stocks-to-chase-ai",
+      "description": "Some high-profile Chinese funds heavily invested in consumer names are pivoting to AI stocks, a bet that may boost returns but also leaves them more vulnerable to the sector’s volatility.",
+      "pubDate": "Wed, 22 Jul 2026 23:57:21 GMT",
+      "timestamp": 1784764641000
+    },
+    {
+      "title": "Nasdaq to Kick Off Tiny Companies Faster After SEC Approves Rule",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/nasdaq-to-kick-off-tiny-companies-faster-after-sec-approves-rule",
+      "description": "Nasdaq Inc. will change its rules to make it easier to kick off flailing businesses as regulators zero in on wild market swings and allegations of manipulation that have plagued trading in so-called m",
+      "pubDate": "Wed, 22 Jul 2026 23:53:40 GMT",
+      "timestamp": 1784764420000
+    },
+    {
+      "title": "Gold Holds Gain as Dip-Buying Counters Inflation Fears From War",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war",
+      "description": "Gold held gains on dip-buying even as hostilities in the Middle East pushed oil prices to multiweek highs, rekindling concerns that US inflationary pressure could prompt the Federal Reserve to raise i",
+      "pubDate": "Wed, 22 Jul 2026 23:38:14 GMT",
+      "timestamp": 1784763494000
+    },
+    {
+      "title": "Hong Kong’s Offshore Yuan Market Evolves Into Global Funding Hub",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/hong-kong-s-offshore-yuan-market-evolves-into-global-funding-hub",
+      "description": "A record pile of yuan in Hong Kong is making its way to corporate loans while driving a surge in capital market activity, signaling that China’s drive to internationalize its currency is advancing.",
+      "pubDate": "Wed, 22 Jul 2026 23:00:00 GMT",
+      "timestamp": 1784761200000
+    },
+    {
+      "title": "Asian Shares Rise as Chipmakers Gain, Oil Climbs: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
+      "description": "Asian shares advanced as regional chipmakers gained on expectations they will benefit from billions of dollars flowing into the artificial intelligence buildout. Oil extended its recent gains.",
+      "pubDate": "Wed, 22 Jul 2026 22:12:30 GMT",
+      "timestamp": 1784758350000
+    },
+    {
+      "title": "Wall Street Banks Trading Parts of $35 Billion AI Chip Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
+      "description": "Wall Street banks have started buying and selling an initial piece of a $35 billion financing package for Broadcom Inc. and Anthropic PBC’s AI infrastructure expansion, with the biggest private credit",
+      "pubDate": "Wed, 22 Jul 2026 22:04:04 GMT",
+      "timestamp": 1784757844000
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for July 23",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
+      "description": "Oil extended gains after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
+      "pubDate": "Wed, 22 Jul 2026 22:02:06 GMT",
+      "timestamp": 1784757726000
+    },
+    {
+      "title": "Brent Crude Spikes in Late Trading After Red Sea Tanker Attack",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/brent-crude-spikes-in-late-trading-after-red-sea-tanker-attack",
+      "description": "Oil prices rose sharply in post-settlement trading Wednesday, with Brent crude oil rising near $95 a barrel after Yemen’s Iran-backed Houthi rebels said they struck two Saudi tankers.",
+      "pubDate": "Wed, 22 Jul 2026 21:48:25 GMT",
+      "timestamp": 1784756905000
+    },
+    {
+      "title": "Vitamin Well Raises $2.2 Billion From Cross-Currency Loan Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/vitamin-well-raises-2-2-billion-from-cross-currency-loan-deal",
+      "description": "Vitamin Well AB raised about $2.2 billion through a cross-currency loan offering to fund its acquisition of protein-bar maker EMPWR Nutrition Group.",
+      "pubDate": "Wed, 22 Jul 2026 21:04:29 GMT",
+      "timestamp": 1784754269000
+    },
+    {
+      "title": "Daiwa AM Boosts Staff in Shift Toward Institutional Investors",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/daiwa-am-boosts-staff-in-shift-toward-institutional-investors",
+      "description": "Daiwa Asset Management Co. is planning to double its sales staff targeting institutional investors to about 20 people, its president said.",
+      "pubDate": "Wed, 22 Jul 2026 21:00:00 GMT",
+      "timestamp": 1784754000000
+    },
+    {
+      "title": "Mexico City’s Casa de Toño Restaurant Chain Explores Sale, Eyes Growth",
       "link": "https://www.bloomberg.com/news/articles/2026-07-22/mexico-city-pozole-chain-casa-de-tono-explores-sale-on-expansion-pitch",
       "description": "Mexican family-owned restaurant chain La Casa de Toño is seeking a sale in a deal that could top $400 million and set the business up for expansion, people familiar with the matter said.",
       "pubDate": "Wed, 22 Jul 2026 20:30:22 GMT",
       "timestamp": 1784752222000
     },
     {
-      "title": "Southwest Beats Estimates on Strong Demand, Premium Spending",
+      "title": "Southwest Hedges Full-Year Guidance as Fuel Expenses Tick Up",
       "link": "https://www.bloomberg.com/news/articles/2026-07-22/southwest-beats-estimates-on-strong-demand-premium-spending",
-      "description": "Southwest Airlines Co. provided an outlook for the full year that exceeded Wall Street’s projections, citing robust travel demand and spending on the carrier’s premium products, even as operating reve",
+      "description": "Southwest Airlines Co. broadened its guidance for full-year 2026 to account for uncertainty resulting from the ongoing conflict between the US and Iran, which sent fuel expenses higher in the second q",
       "pubDate": "Wed, 22 Jul 2026 20:24:27 GMT",
       "timestamp": 1784751867000
-    },
-    {
-      "title": "Pool Supplier Leslie’s Considers Potential Chapter 11 Bankruptcy",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/pool-supplier-leslie-s-considers-potential-chapter-11-bankruptcy",
-      "description": "Pool supplier Leslie’s Inc. is considering a range of strategic options to address its debt load, including a potential Chapter 11 bankruptcy filing, according to people familiar with the matter.",
-      "pubDate": "Wed, 22 Jul 2026 20:09:55 GMT",
-      "timestamp": 1784750995000
-    },
-    {
-      "title": "Brazil Unveils New Relief for Companies Hit by US Tariffs",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/brazil-unveils-new-relief-for-companies-hit-by-us-tariffs",
-      "description": "Brazil’s government unveiled a relief package worth 18.5 billion reais ($3.7 billion) in credit for exporters hit by new US tariffs, as President Luiz Inácio Lula da Silva seeks to shield key sectors ",
-      "pubDate": "Wed, 22 Jul 2026 19:58:13 GMT",
-      "timestamp": 1784750293000
-    },
-    {
-      "title": "Financial Services Sector Seen as Focus for Activist Campaigns",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/financial-services-sector-seen-as-focus-for-activist-campaigns",
-      "description": "Financial services companies are attracting activist investors who see them as generating cash that could be paid out to investors, said Paul Weiss’ Carmen Lu.",
-      "pubDate": "Wed, 22 Jul 2026 18:49:46 GMT",
-      "timestamp": 1784746186000
-    },
-    {
-      "title": "Tesla Stock at ‘Inflection Point’ as Traders Seek AI Credibility",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-stock-at-inflection-point-as-traders-seek-ai-credibility",
-      "description": "As Tesla Inc. is set to report results that many expect will set the tone for the company’s artificial-intelligence ambitions, analysts are scouring charts for clues on where the stock is headed.",
-      "pubDate": "Wed, 22 Jul 2026 18:36:07 GMT",
-      "timestamp": 1784745367000
-    },
-    {
-      "title": "Venezuela Oil: Batistas’ Fluxus Clinches Stake in PDVSA Joint Venture",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/venezuela-oil-batistas-fluxus-clinches-stake-in-pdvsa-joint-venture",
-      "description": "Brazil’s billionaire Batista brothers have acquired a stake in an oil production project in Venezuela, the latest deal to emerge in a country that the Trump administration is vowing to reinvigorate af",
-      "pubDate": "Wed, 22 Jul 2026 18:17:27 GMT",
-      "timestamp": 1784744247000
-    },
-    {
-      "title": "Dassault Talks With France on Jet Alternative After Airbus Flop",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/dassault-talks-with-france-on-jet-alternative-after-airbus-flop",
-      "description": "France’s Dassault Aviation SA is in talks with French authorities to develop an alternative for the FCAS fighter jet project that was aborted after failed attempts with Airbus SE.",
-      "pubDate": "Wed, 22 Jul 2026 17:50:34 GMT",
-      "timestamp": 1784742634000
-    },
-    {
-      "title": "US Goes All-In on Diesel Production Amid Growing Global Shortage",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/us-goes-all-in-on-diesel-production-amid-growing-global-shortage",
-      "description": "US refiners are ramping up diesel production to near-record levels, bucking seasonal trends as the Russia and Iran wars trigger a global supply crunch.",
-      "pubDate": "Wed, 22 Jul 2026 17:44:40 GMT",
-      "timestamp": 1784742280000
     },
     {
       "title": "Wall Street Won’t Give Up on Strategy, Sees 170% Upside",
@@ -77,13 +119,6 @@
       "timestamp": 1784736063000
     },
     {
-      "title": "Galaxy Digital Seeks $3.5 Billion Debt for Texas Data Center",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale",
-      "description": "Galaxy Digital Inc. is planning to raise about $3.5 billion from a debut junk-bond sale to fund a data center tied to CoreWeave Inc., extending AI borrowing’s push into the riskier corners of the US c",
-      "pubDate": "Wed, 22 Jul 2026 14:06:49 GMT",
-      "timestamp": 1784729209000
-    },
-    {
       "title": "GE Vernova Falls as Outlook Clashes With ‘Too High’ AI Hopes",
       "link": "https://www.bloomberg.com/news/articles/2026-07-22/ge-vernova-falls-as-outlook-collides-with-too-high-ai-hopes",
       "description": "GE Vernova Inc.’s shares slumped after a higher revenue outlook failed to impress investors, a sign that it’s getting harder for companies that sell equipment to data centers to meet the market’s sky-",
@@ -91,58 +126,23 @@
       "timestamp": 1784729121000
     },
     {
-      "title": "Vale Elects Ollie Chairman After Weeks of Governance Turmoil",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/vale-elects-oliveira-as-chair-after-contentious-shareholder-vote",
-      "description": "Vale SA shareholders elected Manuel Lino Silva de Sousa Oliveira as chairman on Wednesday, concluding weeks of boardroom turmoil sparked by an effort from one of the Brazilian mining giant’s largest i",
-      "pubDate": "Wed, 22 Jul 2026 13:46:46 GMT",
-      "timestamp": 1784728006000
+      "title": "JPY/USD: Why Is Japan Yen So Weak? Can Government Intervention Help Currency?",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/jpy-usd-why-is-japan-yen-so-weak-can-government-intervention-help-currency",
+      "description": "The yen’s weakness has become a growing issue for Japan’s policymakers, given its role in driving up import prices and household living costs.",
+      "pubDate": "Wed, 22 Jul 2026 07:02:42 GMT",
+      "timestamp": 1784703762000
     },
     {
-      "title": "US 30-Year Yield Raises Alarm in Longest Run Above 5% Since 2007",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/us-30-year-yield-raises-alarm-in-longest-run-above-5-since-2007",
-      "description": "The US 30-year bond yield has held above 5% for the longest stretch since the dawn of the financial crisis, echoing investor concerns about a growing debt pile and sticky inflation.",
-      "pubDate": "Wed, 22 Jul 2026 13:31:08 GMT",
-      "timestamp": 1784727068000
-    },
-    {
-      "title": "S&P 500 Slumps for Fourth Time in Five Days as Oil Prices Jump",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/s-p-futures-fall-as-traders-brace-for-alphabet-tesla-earnings",
-      "description": "The S&P 500 Index slumped on Wednesday following its best day in weeks, as declines in some corners of Big Tech offset gains elsewhere, including energy as oil prices jumped on the escalation of the U",
-      "pubDate": "Wed, 22 Jul 2026 11:58:01 GMT",
-      "timestamp": 1784721481000
-    },
-    {
-      "title": "Paulson-Backed NovaGold Strikes Deal for Full Ownership of Alaska Mine",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/novagold-to-buy-billionaire-paulson-s-stake-in-alaska-gold-mine",
-      "description": "NovaGold Resources Inc., a company backed by hedge-fund billionaire John Paulson, struck a deal to obtain full ownership of the Donlin Gold project in Alaska in a move to control one of the largest un",
-      "pubDate": "Wed, 22 Jul 2026 11:52:14 GMT",
-      "timestamp": 1784721134000
-    },
-    {
-      "title": "Kuwait Sells $6 Billion of Bonds Despite Iran Strikes",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/kuwait-set-to-issue-dollar-bonds-as-iran-strikes-batter-country",
-      "description": "Kuwait raised $6 billion from a three-part dollar bond sale on Wednesday, highlighting resilient demand for the OPEC member’s debt even as it comes under daily missile and drone attacks from Iran.",
-      "pubDate": "Wed, 22 Jul 2026 09:16:26 GMT",
-      "timestamp": 1784711786000
-    },
-    {
-      "title": "Yen Rebounds From Four-Decade Low as BOJ May Hike Rates Faster",
+      "title": "Yen Rebound Ebbs After Brief Rally on Outlook for BOJ Rate Hikes",
       "link": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
       "description": "The yen slid beyond 163 per dollar for the first time since 1986 before recovering some ground in choppy trading on the prospect of faster interest-rate hikes from the Bank of Japan.",
       "pubDate": "Tue, 21 Jul 2026 22:35:01 GMT",
       "timestamp": 1784673301000
     },
     {
-      "title": "Latest Oil Market News and Analysis for July 22",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/latest-oil-market-news-and-analysis-for-july-22",
-      "description": "Oil climbed, extending this month’s price jump to nearly 30%, as the US and Iran played down the prospect of peace talks and disruptions to global supplies continued to mount.",
-      "pubDate": "Tue, 21 Jul 2026 22:11:41 GMT",
-      "timestamp": 1784671901000
-    },
-    {
-      "title": "Stocks Rise Late as Megacap Earnings Kick Off: Markets Wrap",
+      "title": "Stocks Churn Late as Big-Tech Earnings Kick Off: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
-      "description": "Wall Street investors sent stocks higher in late hours as traders sifted through results from megacaps for clues on whether their massive artificial-intelligence investments are paying off.",
+      "description": "Wall Street traders sent stocks wavering in late hours as they sifted through results from megacaps for clues on whether their massive artificial-intelligence investments are paying off.",
       "pubDate": "Tue, 21 Jul 2026 22:07:30 GMT",
       "timestamp": 1784671650000
     }
