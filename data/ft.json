@@ -3,36 +3,57 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-23T17:08:11.473Z"
+    "lastUpdate": "2026-07-23T20:49:55.108Z"
   },
   "items": [
     {
-      "title": "Oil price surge drives global bond sell-off",
-      "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-      "description": "Brent crude’s rise above $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
-      "pubDate": "Thu, 23 Jul 2026 16:38:33 GMT",
-      "timestamp": 1784824713000
+      "title": "FDA panel supports access to peptides over scientist objections",
+      "link": "https://www.ft.com/content/a48eca75-6fb0-49ae-96f0-a256149a0f2e?syn-25a6b1a6=1",
+      "description": "Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks",
+      "pubDate": "Thu, 23 Jul 2026 20:12:51 GMT",
+      "timestamp": 1784837571000
     },
     {
-      "title": "Google burns through $6bn in cash as AI spending climbs again",
-      "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
-      "description": "Search giant says it will commit up to $205bn to AI investments in 2026",
-      "pubDate": "Thu, 23 Jul 2026 16:21:07 GMT",
-      "timestamp": 1784823667000
-    },
-    {
-      "title": "Trump says Saudi nuclear deal depends on relations with Israel",
-      "link": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1",
-      "description": "Crown prince has insisted any rapprochement with Israel will depend on steps towards establishing Palestinian state",
-      "pubDate": "Thu, 23 Jul 2026 16:18:59 GMT",
-      "timestamp": 1784823539000
+      "title": "Intel shares rally after chipmaker posts fastest growth in 15 years",
+      "link": "https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1",
+      "description": "Chipmaker’s revenue jumped 25% in the second quarter",
+      "pubDate": "Thu, 23 Jul 2026 20:08:47 GMT",
+      "timestamp": 1784837327000
     },
     {
       "title": "Oil hits $100 for first time since May while US stocks slide",
       "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
       "description": "Donald Trump warns US is weighing ‘massive attack’ on Iran as Middle East tensions ratchet higher",
-      "pubDate": "Thu, 23 Jul 2026 16:08:49 GMT",
-      "timestamp": 1784822929000
+      "pubDate": "Thu, 23 Jul 2026 20:05:05 GMT",
+      "timestamp": 1784837105000
+    },
+    {
+      "title": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech",
+      "link": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1",
+      "description": "EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant",
+      "pubDate": "Thu, 23 Jul 2026 17:58:39 GMT",
+      "timestamp": 1784829519000
+    },
+    {
+      "title": "Trump’s dubious nuclear deal with Saudi Arabia",
+      "link": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
+      "description": "An accord lacking ‘gold standard’ safeguards on enrichment would carry proliferation risks",
+      "pubDate": "Thu, 23 Jul 2026 17:56:15 GMT",
+      "timestamp": 1784829375000
+    },
+    {
+      "title": "US justice department to streamline company merger reviews",
+      "link": "https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1",
+      "description": "Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions",
+      "pubDate": "Thu, 23 Jul 2026 17:56:01 GMT",
+      "timestamp": 1784829361000
+    },
+    {
+      "title": "The US needs a new Manhattan Project for fusion energy",
+      "link": "https://www.ft.com/content/822f5326-d93b-4b9d-b43f-58113da909b1",
+      "description": "If we are to outpace China and own the future of this technology, we must fund it properly",
+      "pubDate": "Thu, 23 Jul 2026 17:13:04 GMT",
+      "timestamp": 1784826784000
     },
     {
       "title": "Laura Loomer meets Zelenskyy after pro-Ukraine conversion",
@@ -42,47 +63,12 @@
       "timestamp": 1784809845000
     },
     {
-      "title": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech",
-      "link": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1",
-      "description": "EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant",
-      "pubDate": "Thu, 23 Jul 2026 10:00:08 GMT",
-      "timestamp": 1784800808000
-    },
-    {
-      "title": "Houthi attacks threaten Saudi Arabia’s oil lifeline",
-      "link": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
-      "description": "Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab",
-      "pubDate": "Thu, 23 Jul 2026 09:51:03 GMT",
-      "timestamp": 1784800263000
-    },
-    {
-      "title": "Japan awakes",
-      "link": "https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1",
-      "description": "Why 1 per cent interest rates could shake everything up after a generation of deflation",
-      "pubDate": "Thu, 23 Jul 2026 04:00:21 GMT",
-      "timestamp": 1784779221000
-    },
-    {
-      "title": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
-      "link": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
-      "description": "New venture has raised questions as financial firms decipher risk of paying for advanced access to market-moving feed",
-      "pubDate": "Thu, 23 Jul 2026 04:00:21 GMT",
-      "timestamp": 1784779221000
-    },
-    {
-      "title": "Is Trump winning the tariff wars?",
-      "link": "https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1",
-      "description": "Time to tot up the scores",
-      "pubDate": "Thu, 23 Jul 2026 04:00:12 GMT",
-      "timestamp": 1784779212000
-    },
-    {
-      "title": "Why the US is losing Chinese AI stars",
-      "link": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?syn-25a6b1a6=1",
-      "description": "More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley",
-      "pubDate": "Wed, 22 Jul 2026 23:01:08 GMT",
-      "timestamp": 1784761268000
+      "title": "US oil refineries run at breakneck speeds as wars choke fuel supplies",
+      "link": "https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
+      "description": "High utilisation rates create risks of outages at a time when fuel prices are already up sharply",
+      "pubDate": "Thu, 23 Jul 2026 04:00:20 GMT",
+      "timestamp": 1784779220000
     }
   ],
-  "total": 11
+  "total": 9
 }
