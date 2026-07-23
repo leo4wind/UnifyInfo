@@ -3,36 +3,50 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-23T10:10:08.005Z"
+    "lastUpdate": "2026-07-23T13:22:29.374Z"
   },
   "items": [
     {
+      "title": "Oil hits $100 for first time since May",
+      "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df",
+      "description": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
+      "pubDate": "Thu, 23 Jul 2026 13:09:29 GMT",
+      "timestamp": 1784812169000
+    },
+    {
       "title": "Oil price surge drives global bond sell-off",
       "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-      "description": "Brent crude’s rise towards $100 is threatening a prolonged surge in inflation and resetting interest-rate expectations",
-      "pubDate": "Thu, 23 Jul 2026 08:22:50 GMT",
-      "timestamp": 1784794970000
+      "description": "Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
+      "pubDate": "Thu, 23 Jul 2026 12:40:45 GMT",
+      "timestamp": 1784810445000
     },
     {
-      "title": "Oil jumps to $98 after Houthis attack two Saudi Arabian tankers",
-      "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
-      "description": "Yemeni rebels say they used missiles and drones to target the vessels Encelia and Layla",
-      "pubDate": "Thu, 23 Jul 2026 07:50:55 GMT",
-      "timestamp": 1784793055000
+      "title": "ECB holds interest rates at 2.25%",
+      "link": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+      "description": "Central bank pauses despite renewed surge in oil prices",
+      "pubDate": "Thu, 23 Jul 2026 12:35:24 GMT",
+      "timestamp": 1784810124000
     },
     {
-      "title": "How to be a bull on the S&P 500",
-      "link": "https://www.ft.com/content/b3e67789-9470-47c1-b984-a3e9c8d731a1?syn-25a6b1a6=1",
-      "description": "Start by focusing on earnings",
-      "pubDate": "Thu, 23 Jul 2026 05:30:10 GMT",
-      "timestamp": 1784784610000
+      "title": "Laura Loomer meets Zelenskyy after pro-Ukraine conversion",
+      "link": "https://www.ft.com/content/ed9baeee-aabc-458a-a161-a607032d158d?syn-25a6b1a6=1",
+      "description": "Far-right influencer abandoned opposition to war to praise Kyiv’s resilience against Russian aggression",
+      "pubDate": "Thu, 23 Jul 2026 12:30:45 GMT",
+      "timestamp": 1784809845000
     },
     {
-      "title": "Military briefing: can the US reopen the Strait of Hormuz by force?",
-      "link": "https://www.ft.com/content/1cbe4fd0-6b81-42c5-bc30-070fec3cd9dd?syn-25a6b1a6=1",
-      "description": "Renewed air campaign has yet to reassure shipowners the waterway can be made safe from Iranian attacks",
-      "pubDate": "Thu, 23 Jul 2026 04:00:21 GMT",
-      "timestamp": 1784779221000
+      "title": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech",
+      "link": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1",
+      "description": "EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant",
+      "pubDate": "Thu, 23 Jul 2026 10:00:08 GMT",
+      "timestamp": 1784800808000
+    },
+    {
+      "title": "Houthi attacks threaten Saudi Arabia’s oil lifeline",
+      "link": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
+      "description": "Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab",
+      "pubDate": "Thu, 23 Jul 2026 09:51:03 GMT",
+      "timestamp": 1784800263000
     },
     {
       "title": "Japan awakes",
@@ -47,20 +61,6 @@
       "description": "New venture has raised questions as financial firms decipher risk of paying for advanced access to market-moving feed",
       "pubDate": "Thu, 23 Jul 2026 04:00:21 GMT",
       "timestamp": 1784779221000
-    },
-    {
-      "title": "Russia forced to import fuel from India as Ukrainian strikes damage refineries",
-      "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6=1",
-      "description": "Shipment underlines crisis facing Moscow after drone attacks cut supplies and led to widespread shortages",
-      "pubDate": "Thu, 23 Jul 2026 04:00:20 GMT",
-      "timestamp": 1784779220000
-    },
-    {
-      "title": "US oil refineries run at breakneck speeds as wars choke fuel supplies",
-      "link": "https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
-      "description": "High utilisation rates create risks of outages at a time when fuel prices are already up sharply",
-      "pubDate": "Thu, 23 Jul 2026 04:00:20 GMT",
-      "timestamp": 1784779220000
     },
     {
       "title": "Is Trump winning the tariff wars?",
@@ -82,14 +82,7 @@
       "description": "Search giant says it will commit up to $205bn to AI investments in 2026",
       "pubDate": "Wed, 22 Jul 2026 22:39:24 GMT",
       "timestamp": 1784759964000
-    },
-    {
-      "title": "OpenAI hacking incident exposes mounting risks in AI arms race",
-      "link": "https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d?syn-25a6b1a6=1",
-      "description": "Increasing use of aggressive training techniques sharpens threat of bad behaviour by leading models",
-      "pubDate": "Wed, 22 Jul 2026 22:15:35 GMT",
-      "timestamp": 1784758535000
     }
   ],
-  "total": 12
+  "total": 11
 }

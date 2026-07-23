@@ -3,125 +3,139 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-23T10:10:07.099Z"
+    "lastUpdate": "2026-07-23T13:22:28.277Z"
   },
   "items": [
     {
-      "title": "Asian Oil Buyers in Talks With Saudis to Reroute Red Sea Flows",
+      "title": "US Initial Jobless Claims Fall to Lowest Level Since 1969",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-initial-jobless-claims-fall-to-lowest-level-since-1969",
+      "description": "First-time applications for US unemployment benefits fell last week to the lowest level since 1969, signaling layoffs remain muted in a stable labor market.",
+      "pubDate": "Thu, 23 Jul 2026 13:14:44 GMT",
+      "timestamp": 1784812484000
+    },
+    {
+      "title": "The Most Fundamental Macro Risk Is Back: MacroScope",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/the-most-fundamental-macro-risk-is-back-macroscope-mrxj1md7",
+      "description": "Rising inflation volatility is set to trigger earnings disappointments, wider credit spreads and more variability in stock and bond prices.",
+      "pubDate": "Thu, 23 Jul 2026 13:08:24 GMT",
+      "timestamp": 1784812104000
+    },
+    {
+      "title": "Brent Crude Hits $100 a Barrel on Red Sea, Iran Supply Threats",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/brent-crude-hits-100-a-barrel-on-red-sea-iran-supply-threats",
+      "description": "Brent crude hit $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and t",
+      "pubDate": "Thu, 23 Jul 2026 13:04:00 GMT",
+      "timestamp": 1784811840000
+    },
+    {
+      "title": "US Oil Exports Set for a Comeback as Renewed Iran Conflict Spurs Buyers",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/us-oil-exports-set-for-a-comeback-as-renewed-iran-conflict-spurs-buyers",
+      "description": "Further disruption to Middle East shipments prompts Asia and Europe to look elsewhere for supplies.",
+      "pubDate": "Thu, 23 Jul 2026 13:00:47 GMT",
+      "timestamp": 1784811647000
+    },
+    {
+      "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+      "description": "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher, boosting expectations that the Federal Reserve could raise interest rate",
+      "pubDate": "Thu, 23 Jul 2026 12:41:10 GMT",
+      "timestamp": 1784810470000
+    },
+    {
+      "title": "India Seeks to Expand Investment Options for Portfolio Managers",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/india-seeks-to-expand-investment-options-for-portfolio-managers",
+      "description": "India’s markets regulator has proposed allowing portfolio managers to invest clients’ money in overseas securities and IPO-bound firms, as well as take unhedged equity derivatives positions, as part o",
+      "pubDate": "Thu, 23 Jul 2026 12:39:43 GMT",
+      "timestamp": 1784810383000
+    },
+    {
+      "title": "US Stock Futures Drop as Traders Focus on AI Spending, Oil Jumps",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-stock-futures-drop-as-traders-focus-on-ai-spending-oil-jumps",
+      "description": "US stock futures retreated as worries over artificial-intelligence spending weighed on sentiment while oil prices closed in on $100 a barrel. Traders braced for more key earnings from Intel Corp., due",
+      "pubDate": "Thu, 23 Jul 2026 12:09:56 GMT",
+      "timestamp": 1784808596000
+    },
+    {
+      "title": "Cellnex Studies Strategic Options After Share Price Slump",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/cellnex-studies-strategic-options-after-share-price-slump",
+      "description": "Cellnex Telecom SA is evaluating strategic options, according to people familiar with the matter, as the wireless tower operator looks at ways to grapple with its debt load and weak share price.",
+      "pubDate": "Thu, 23 Jul 2026 12:07:30 GMT",
+      "timestamp": 1784808450000
+    },
+    {
+      "title": "GCM Grosvenor Raises $1.2 Billion for Credit Secondaries Push",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/gcm-grosvenor-raises-1-2-billion-for-credit-secondaries-push",
+      "description": "GCM Grosvenor has raised $1.2 billion for its first dedicated fund strategy targeting credit secondaries.",
+      "pubDate": "Thu, 23 Jul 2026 12:01:52 GMT",
+      "timestamp": 1784808112000
+    },
+    {
+      "title": "Alphabet’s Century Bond Has Now Lost a 10th of Its Face Value",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-century-bond-has-now-lost-a-10th-of-its-face-value",
+      "description": "A 100-year bond that Alphabet Inc. issued earlier this year in the sterling market as it gorged on debt around the world has dropped below 90 pence on the pound for the first time.",
+      "pubDate": "Thu, 23 Jul 2026 11:39:29 GMT",
+      "timestamp": 1784806769000
+    },
+    {
+      "title": "India May Allow Portfolio Managers to Take Unhedged Short Bets",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/india-may-allow-portfolio-managers-to-take-unhedged-short-bets",
+      "description": "India’s securities regulator has proposed allowing domestic portfolio management service providers to take short positions in equity derivatives for the first time, easing rules for professional money",
+      "pubDate": "Thu, 23 Jul 2026 11:35:09 GMT",
+      "timestamp": 1784806509000
+    },
+    {
+      "title": "JPMorgan Quants Say Strongest Earnings Upgrades Are in Europe",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/jpmorgan-quants-say-strongest-earnings-upgrades-are-in-europe",
+      "description": "Europe now leads the world as the region with the sharpest upgrades to corporate earnings estimates from analysts, according to JPMorgan Chase & Co.",
+      "pubDate": "Thu, 23 Jul 2026 11:21:27 GMT",
+      "timestamp": 1784805687000
+    },
+    {
+      "title": "Kuehne+Nagel Weighs Options For Apex Logistics Unit",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/kuehne-nagel-weighs-options-for-apex-logistics-unit",
+      "description": "Kuehne+Nagel International AG is considering strategic options for its Apex Logistics unit, an Asia-focused freight forwarder, people with knowledge of the matter said.",
+      "pubDate": "Thu, 23 Jul 2026 11:09:08 GMT",
+      "timestamp": 1784804948000
+    },
+    {
+      "title": "McCormick Will Add London Listing After Unilever Food Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/mccormick-plans-to-add-a-london-listing-after-unilever-food-deal",
+      "description": "McCormick & Co. has picked London as a secondary listing location, just months after striking a deal to combine with Unilever Plc’s food business and in a blow to Amsterdam’s hopes.",
+      "pubDate": "Thu, 23 Jul 2026 10:25:05 GMT",
+      "timestamp": 1784802305000
+    },
+    {
+      "title": "Asian Oil Buyers in Talks to Reroute Saudi Red Sea Flows",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/asian-oil-buyers-in-talks-with-saudis-to-reroute-red-sea-flows",
-      "description": "At least two Asian crude oil buyers are in talks with Saudi Aramco to potentially reroute flows around Africa after Houthi attacks on tankers in the Red Sea, according to traders familiar with the mat",
+      "description": "Some Asian crude oil buyers are in talks with Saudi Aramco to potentially reroute flows around Africa after Houthi attacks on tankers in the Red Sea, according to traders familiar with the matter.",
       "pubDate": "Thu, 23 Jul 2026 09:22:00 GMT",
       "timestamp": 1784798520000
     },
     {
-      "title": "Victoria Plc Wins Support for Debt Deal After HSBC U-Turn",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/victoria-wins-bondholder-support-for-debt-deal-after-hsbc-u-turn",
-      "description": "Troubled UK carpetmaker Victoria Plc secured enough bondholder support for a consensual debt restructuring after HSBC Holdings Plc backed the plan at the last minute, averting a costlier, more time-co",
-      "pubDate": "Thu, 23 Jul 2026 09:06:47 GMT",
-      "timestamp": 1784797607000
-    },
-    {
-      "title": "BlackRock Says Elevated Yields Offer Bond Investors a Cushion",
+      "title": "BlackRock Says Treasury Yields Offer Buffer Against Losses",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/blackrock-says-elevated-yields-offer-bond-investors-a-cushion",
       "description": "US Treasuries are offering investors solid protection against losses as yields remain elevated, according to BlackRock Inc.",
       "pubDate": "Thu, 23 Jul 2026 09:00:00 GMT",
       "timestamp": 1784797200000
     },
     {
-      "title": "PHP/USD: Marcos Confident Central Bank to Act on Weak Peso, Official Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/php-usd-marcos-confident-central-bank-to-act-on-weak-peso-official-says",
-      "description": "Philippine President Ferdinand Marcos Jr. is confident that the central bank will act decisively on the peso, which weakened to the record low, according to the president’s press officer.",
-      "pubDate": "Thu, 23 Jul 2026 08:29:10 GMT",
-      "timestamp": 1784795350000
-    },
-    {
-      "title": "German Bond Yields Hit 15-Year High as Oil Spikes Before ECB",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-      "description": "German bond yields rose to the highest level since 2011 as surging energy prices and mounting inflation expectations fueled bets on interest-rate hikes ahead of the European Central Bank’s decision la",
-      "pubDate": "Thu, 23 Jul 2026 08:03:27 GMT",
-      "timestamp": 1784793807000
-    },
-    {
-      "title": "Mark Gurman on Apple's (AAPL) Upcoming Product Roadmap",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/mark-gurman-on-apple-s-aapl-upcoming-product-roadmap",
-      "description": "Mark Gurman on the state of play.",
-      "pubDate": "Thu, 23 Jul 2026 08:00:20 GMT",
-      "timestamp": 1784793620000
-    },
-    {
-      "title": "Odd Lots: Why Apple Is Heading Into a Pivotal Moment (Podcast)",
-      "link": "https://www.bloomberg.com/news/audio/2026-07-23/odd-lots-why-apple-is-heading-into-a-pivotal-moment-podcast",
-      "description": "There used to be a time when the latest product release from Apple was a huge deal. But lately, it’s been kind of ‘meh,’ and a lot of the hype in the tech world has been directed at companies doing th",
-      "pubDate": "Thu, 23 Jul 2026 08:00:00 GMT",
-      "timestamp": 1784793600000
-    },
-    {
-      "title": "From Defense to Housing, Luxembourg Steps Up Retail Bonds Push",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/from-defense-to-housing-luxembourg-steps-up-retail-bonds-push",
-      "description": "Luxembourg’s successful sale of defense bonds has encouraged it to again turn to retail investors, this time with securities that will help fund affordable housing.",
-      "pubDate": "Thu, 23 Jul 2026 07:20:55 GMT",
-      "timestamp": 1784791255000
-    },
-    {
-      "title": "China Tankers Reach Red Sea Chokepoint Despite Houthi Threat",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-      "description": "Two China-owned oil tankers loaded with Saudi Arabian crude remained on course to exit the Red Sea via the Bab el-Mandeb chokepoint, despite overnight Houthi attacks on vessels in the region.",
-      "pubDate": "Thu, 23 Jul 2026 06:33:44 GMT",
-      "timestamp": 1784788424000
-    },
-    {
-      "title": "EasyJet Says Customers are Resuming More Normal Booking Patterns",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/easyjet-profit-falls-70-amid-higher-fuel-costs-lower-demand",
-      "description": "EasyJet Plc said customers are becoming more confident to book longer in advance again after resorting to last-minute purchases out of concern of cancelations, helping the low-cost carrier improve pre",
-      "pubDate": "Thu, 23 Jul 2026 06:25:46 GMT",
-      "timestamp": 1784787946000
-    },
-    {
-      "title": "TotalEnergies Profit Jumps 68% as Wars Drive Refining Boom",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/totalenergies-profit-jumps-68-as-war-upends-energy-markets",
-      "description": "TotalEnergies SE said second-quarter earnings surged as wars in Iran and Ukraine boosted prices for crude and refined products, offsetting a drop in profit from its gas business.",
-      "pubDate": "Thu, 23 Jul 2026 06:12:56 GMT",
-      "timestamp": 1784787176000
-    },
-    {
       "title": "Airtel Mobile-Money Unit Picks London for Listing Location",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/airtel-mobile-money-unit-chooses-london-for-listing-location",
-      "description": "Airtel Africa Plc picked London as the primary listing location for its mobile-money business and expects to start trading there this year.",
+      "description": "Airtel Africa Plc picked London as the primary listing location for its mobile-money business and expects to start trading there this year, confirming an earlier report by Bloomberg.",
       "pubDate": "Thu, 23 Jul 2026 06:11:17 GMT",
       "timestamp": 1784787077000
     },
     {
-      "title": "Roche Quarterly Sales Held Back by Blockbuster Eye Drug",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/roche-second-quarter-sales-blockbuster-eye-drug",
-      "description": "Roche Holding’s results showed a slower-than-expected recovery for eye blockbuster Vabysmo as investors look to a key new drug to power growth ahead.",
-      "pubDate": "Thu, 23 Jul 2026 05:26:53 GMT",
-      "timestamp": 1784784413000
+      "title": "Crop Prices Hit 3-Year High as Black Sea Attacks, Heat Stoke Food Inflation",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/crop-prices-hit-3-year-high-as-black-sea-attacks-heat-stoke-food-inflation",
+      "description": "Crop prices rose to a three-year high as heat waves and escalating attacks in the Black Sea threatened to disrupt global grain trade, reviving risks to food inflation that have also been stoked by the",
+      "pubDate": "Thu, 23 Jul 2026 04:55:14 GMT",
+      "timestamp": 1784782514000
     },
     {
-      "title": "BNP’s Stock Traders Ride Wall Street Rally With 43% Gain",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/bnp-paribas-stock-traders-ride-wall-street-rally-with-43-gain",
-      "description": "BNP Paribas SA reported better-than-expected results for the second quarter as its stock traders blew past analysts’ estimates, in a sign that the rally that fueled record results on Wall Street spill",
-      "pubDate": "Thu, 23 Jul 2026 05:02:05 GMT",
-      "timestamp": 1784782925000
-    },
-    {
-      "title": "Zimbabwe’s State Firm Secures $300 Million to Develop Lithium Mine",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/zimbabwe-state-firm-secures-300-million-lithium-mine",
-      "description": "Mutapa Energy Resources, Zimbabwe’s state-owned lithium miner, has secured $300 million from a group of companies, which includes Chinese entities, to develop its assets in the southern African nation",
-      "pubDate": "Thu, 23 Jul 2026 05:02:00 GMT",
-      "timestamp": 1784782920000
-    },
-    {
-      "title": "Indonesian Stocks Briefly Near Bull Market as Sentiment Steadies",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/indonesian-stocks-set-for-bull-market-as-sentiment-improves",
-      "description": "A brief rally in Indonesian stocks pushed the benchmark index to the cusp of a bull market, as investors rotated into laggards and concerns over the country’s fiscal health eased.",
-      "pubDate": "Thu, 23 Jul 2026 02:55:28 GMT",
-      "timestamp": 1784775328000
-    },
-    {
-      "title": "Stocks Fall as AI Spending Worries Grow, Oil Rises: Markets Wrap",
+      "title": "Stocks Fall on AI Jitters as Oil Lifts Bond Yields: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-      "description": "Stocks fell as unease over ever-higher artificial intelligence spending outweighed an otherwise strong earnings report from Alphabet Inc., while crude rose for a fifth straight day and pushed bond yie",
+      "description": "Stocks fell as Alphabet Inc.’s earnings triggered fresh unease over ever-higher artificial intelligence spending, while rising oil prices drove bond yields higher.",
       "pubDate": "Wed, 22 Jul 2026 22:12:30 GMT",
       "timestamp": 1784758350000
     },
@@ -131,20 +145,6 @@
       "description": "Oil closed in on $100 a barrel in London after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supp",
       "pubDate": "Wed, 22 Jul 2026 22:02:06 GMT",
       "timestamp": 1784757726000
-    },
-    {
-      "title": "Aston Martin Raises £550 Million Debt From HPS to Boost Cash",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/aston-martin-raises-550-million-new-debt-from-hps-to-boost-cash",
-      "description": "Aston Martin Lagonda Global Holdings Plc has struck a deal for £550 million ($736 million) of fresh funds with BlackRock Inc.-owned HPS Investment Partners to bolster its liquidity.",
-      "pubDate": "Wed, 22 Jul 2026 15:59:36 GMT",
-      "timestamp": 1784735976000
-    },
-    {
-      "title": "Heat and War Deal Europe’s Grains Biggest Blow in Decades",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/heat-and-war-deal-europe-s-grain-harvest-biggest-blow-in-decades",
-      "description": "Europe is set to suffer one of its sharpest ever declines in grain production as extreme weather and geopolitical tensions converge to pile pressure on farmers.",
-      "pubDate": "Wed, 22 Jul 2026 15:11:46 GMT",
-      "timestamp": 1784733106000
     }
   ],
   "total": 20
