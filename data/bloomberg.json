@@ -3,36 +3,92 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-24T06:17:19.566Z"
+    "lastUpdate": "2026-07-24T10:06:10.869Z"
   },
   "items": [
     {
-      "title": "Tanker Exits Red Sea Dark as Another China Ship Heads to Strait",
+      "title": "Euronext Mulls Setting Up a Private Market to Rival the UK’s",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/euronext-mulls-setting-up-a-private-market-to-rival-the-uk-s",
+      "description": "Euronext NV is considering creating a market for private securities, potentially ramping up competition with the London Stock Exchange Group Plc as bourses seek to offer investors access to fast-growi",
+      "pubDate": "Fri, 24 Jul 2026 09:55:53 GMT",
+      "timestamp": 1784886953000
+    },
+    {
+      "title": "BofA’s Raedler Says Investors Are Ignoring Stock-Market Risks",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/bofa-s-raedler-says-investors-are-ignoring-stock-market-risks",
+      "description": "Stock markets are pricing in a scenario where everything goes right, leaving investors uncompensated for mounting risks, according to Sebastian Raedler, head of European equity strategy at Bank of Ame",
+      "pubDate": "Fri, 24 Jul 2026 09:51:09 GMT",
+      "timestamp": 1784886669000
+    },
+    {
+      "title": "Mauritius Tax Wave Threatens to Erode Its Banks’ Profitability",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/mauritius-tax-wave-threatens-to-erode-its-banks-profitability",
+      "description": "A raft of new corporate taxes that could erode banks’ profitability is testing Mauritius’s long-standing status as a low-tax gateway for cross-border capital, according to Moody’s Ratings.",
+      "pubDate": "Fri, 24 Jul 2026 08:47:24 GMT",
+      "timestamp": 1784882844000
+    },
+    {
+      "title": "PIC: Why South Africa’s Biggest Fund Manager Is in Turmoil",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/pic-why-south-africa-s-biggest-fund-manager-is-in-turmoil",
+      "description": "The South African firm that oversees state workers’ pensions has been plunged into a fresh crisis triggered by the suspension of its chief executive and the resignation of its chairman.",
+      "pubDate": "Fri, 24 Jul 2026 08:46:02 GMT",
+      "timestamp": 1784882762000
+    },
+    {
+      "title": "Victoria Plc Slumps to £326 Million Loss as Debt Deal Bites",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/victoria-plc-slumps-to-326-million-loss-as-debt-deal-bites",
+      "description": "Victoria Plc reported a wider annual loss as the troubled British carpetmaker counted the cost of its recent debt refinancing.",
+      "pubDate": "Fri, 24 Jul 2026 08:40:22 GMT",
+      "timestamp": 1784882422000
+    },
+    {
+      "title": "Zara’s Ortega Buys Paris Office Complex for About €800 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/zara-s-ortega-buys-paris-office-complex-for-about-800-million",
+      "description": "Zara billionaire Amancio Ortega bought a business center in Paris from Invesco Ltd., in what is his biggest transaction in Europe.",
+      "pubDate": "Fri, 24 Jul 2026 08:13:59 GMT",
+      "timestamp": 1784880839000
+    },
+    {
+      "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/how-franchise-restaurants-opened-the-door-to-the-gig-economy",
+      "description": "The ruthless labor history of your favorite fast food joint.",
+      "pubDate": "Fri, 24 Jul 2026 08:00:21 GMT",
+      "timestamp": 1784880021000
+    },
+    {
+      "title": "Odd Lots: How Franchising Led to the Gig Economy (Podcast)",
+      "link": "https://www.bloomberg.com/news/audio/2026-07-24/odd-lots-how-franchising-led-to-the-gig-economy-podcast",
+      "description": "When the fast food industry began booming in the 1950s, it did so via a new business model known as the franchise. This model allowed independent operators to license trademarks from a business like M",
+      "pubDate": "Fri, 24 Jul 2026 08:00:00 GMT",
+      "timestamp": 1784880000000
+    },
+    {
+      "title": "Khazanah Is Said to Sell $340 Million Tenaga Stake in Placement",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/khazanah-is-said-to-sell-340-million-tenaga-stake-in-placement",
+      "description": "Malaysian sovereign wealth fund Khazanah Nasional Bhd. has sold 1.39 billion ringgit ($340 million) worth of shares in state-owned power firm Tenaga Nasional Bhd., according to people with knowledge o",
+      "pubDate": "Fri, 24 Jul 2026 07:38:46 GMT",
+      "timestamp": 1784878726000
+    },
+    {
+      "title": "Chinese Banks Break With Lending Benchmark in Pricing New Credit",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/chinese-banks-break-with-lending-benchmark-in-pricing-new-credit",
+      "description": "Three of the biggest Chinese banks experimented with anchoring new loans to interbank rates, a step toward a new pricing mechanism that could better reflect supply and demand for money in the market.",
+      "pubDate": "Fri, 24 Jul 2026 07:35:36 GMT",
+      "timestamp": 1784878536000
+    },
+    {
+      "title": "Malaysia May Again Host Formula One Racing as Iran War Puts Bahrain in Doubt",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/malaysia-may-again-host-formula-one-racing-as-iran-war-puts-bahrain-in-doubt",
+      "description": "Malaysia could host a Formula One race for the first time in nine years, potentially replacing the Bahrain Grand Prix as the Middle East conflict drags on, according to the country’s Youth and Sports ",
+      "pubDate": "Fri, 24 Jul 2026 07:30:13 GMT",
+      "timestamp": 1784878213000
+    },
+    {
+      "title": "Tanker Exits Red Sea Dark as China Ship Heads Toward Strait",
       "link": "https://www.bloomberg.com/news/articles/2026-07-24/tanker-exits-red-sea-dark-as-another-china-ship-heads-to-strait",
-      "description": "A Greek tanker carrying Saudi crude exited the Red Sea with its transponder off, while another Chinese vessel headed toward Bab el-Mandeb as Houthi attacks heightened risks for commercial shipping.",
+      "description": "A Greek tanker carrying Saudi crude exited the Red Sea with its transponder off, while another Chinese vessel and Russian cargoes headed toward the Bab el-Mandeb strait, after Houthi attacks heightene",
       "pubDate": "Fri, 24 Jul 2026 06:01:34 GMT",
       "timestamp": 1784872894000
-    },
-    {
-      "title": "FTSE 100 Live: UK Stocks Set to Underperform as Oil Pulls Back",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-07-24/ftse-100-live-pound-uk-retail-sales-pmi-data-trump-tariffs-iran-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
-      "description": "",
-      "pubDate": "Fri, 24 Jul 2026 05:51:38 GMT",
-      "timestamp": 1784872298000
-    },
-    {
-      "title": "China Rushes to Buy East Russian Oil as Middle East Risks Grow",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-rushes-to-buy-east-russian-oil-as-middle-east-risks-grow",
-      "description": "Chinese buyers are snapping up Russia’s flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure supplies before they’re needed.",
-      "pubDate": "Fri, 24 Jul 2026 05:19:40 GMT",
-      "timestamp": 1784870380000
-    },
-    {
-      "title": "UK Pub Stocks Fall as Heat Wave Proves Too Hot For Football Fans",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/uk-pub-stocks-fall-as-heat-wave-proves-too-hot-for-football-fans",
-      "description": "UK pub stocks slumped this week as a sales boost from the World Cup failed to offset the drag from a brutal heat wave and higher costs.",
-      "pubDate": "Fri, 24 Jul 2026 05:15:00 GMT",
-      "timestamp": 1784870100000
     },
     {
       "title": "Dangote Prefers London Over Dubai for Listing of Cement Unit",
@@ -49,102 +105,46 @@
       "timestamp": 1784867603000
     },
     {
-      "title": "Korean Stocks Sink as Chipmakers Drop on Middle East, China IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/korean-stocks-sink-as-chipmakers-drop-on-middle-east-china-ipo",
-      "description": "South Korean stocks fell as funds cut exposure to chipmakers after overnight losses in US peers, while factoring in a Chinese rival’s imminent share sale and rising Middle East tensions.",
-      "pubDate": "Fri, 24 Jul 2026 03:27:20 GMT",
-      "timestamp": 1784863640000
+      "title": "Trump to Take Up Manila’s Concerns With Xi, Philippines Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-to-take-up-manila-s-concerns-with-xi-philippines-says",
+      "description": "US President Donald Trump assured Philippine leader Ferdinand Marcos Jr. that he would take up Manila’s concerns when he meets with Chinese President Xi Jinping, the Southeast Asian nation said.",
+      "pubDate": "Fri, 24 Jul 2026 01:22:04 GMT",
+      "timestamp": 1784856124000
     },
     {
-      "title": "Metals Fluctuate as Middle East Escalation Keep Bulls in Check",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/metals-fluctuate-as-middle-east-escalation-keep-bulls-in-check",
-      "description": "Base metals fluctuated at the end of the week as the threat of an escalating conflict in the Middle East — and more turbulence for the global economy — kept a lid on optimism.",
-      "pubDate": "Fri, 24 Jul 2026 03:27:09 GMT",
-      "timestamp": 1784863629000
+      "title": "Singapore Pushes Back as US Levies Hit on Forced-Labor Claim",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/singapore-pushes-back-as-us-levies-hit-on-forced-labor-claim",
+      "description": "Singapore’s top diplomat said there was no economic justification for the US to impose tariffs on the city-state, adding that it seeks to avoid becoming “collateral damage” in Washington’s broader tra",
+      "pubDate": "Fri, 24 Jul 2026 00:12:57 GMT",
+      "timestamp": 1784851977000
     },
     {
-      "title": "India’s Markets Shrug Off Student Protests for Now",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-s-markets-shrug-off-student-protests-for-now",
-      "description": "Student protests in India’s capital, a political headache for Prime Minister Narendra Modi, aren’t reflecting in the country’s financial markets.",
-      "pubDate": "Fri, 24 Jul 2026 03:22:49 GMT",
-      "timestamp": 1784863369000
+      "title": "Goldman, BofA See 2024 Flashback in China Before Politburo Meets",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-revives-stimulus-memories-from-2024-as-decision-time-nears",
+      "description": "As the calendar turned to July, Chinese retail sales were decelerating fast, the stock market was in the doldrums and investment unexpectedly turned for the worse. Public spending shrank as local gove",
+      "pubDate": "Thu, 23 Jul 2026 23:00:00 GMT",
+      "timestamp": 1784847600000
     },
     {
-      "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/wheat-extends-july-rally-as-war-risks-stoke-fears-over-supply",
-      "description": "Wheat resumed its rally after a brief bout of profit-taking, as escalating geopolitical tensions and worsening weather in key producing regions continued to stoke supply concerns.",
-      "pubDate": "Fri, 24 Jul 2026 03:00:14 GMT",
-      "timestamp": 1784862014000
+      "title": "Japan Is Whipsawing Wall Street’s CLO Machine, Study Shows",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/clo-price-swings-dictated-by-tokyo-wharton-led-study-shows",
+      "description": "The $1.3 trillion US CLO market is taking its cues from Tokyo as much as Wall Street.",
+      "pubDate": "Thu, 23 Jul 2026 22:59:07 GMT",
+      "timestamp": 1784847547000
     },
     {
-      "title": "Malaysia Sells First Dollar Bonds in Five Years as Fuel Subsidy Bill Rises",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/malaysia-sells-first-dollar-bonds-in-five-years-as-fuel-subsidy-bill-rises",
-      "description": "Malaysia raised $1.5 billion in its first dollar bond sale in five years, bolstering funding as the Southeast Asian nation grapples with a fuel subsidy bill that’s likely to more than double from an i",
-      "pubDate": "Fri, 24 Jul 2026 02:37:48 GMT",
-      "timestamp": 1784860668000
-    },
-    {
-      "title": "India’s SEBI Mulls Letting Portfolio Managers Invest Clients’ Money Overseas",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/india-s-sebi-mulls-letting-portfolio-managers-invest-clients-money-overseas",
-      "description": "SEBI proposes allowing investment in overseas securities and IPO-bound firms, among others.",
-      "pubDate": "Fri, 24 Jul 2026 02:37:41 GMT",
-      "timestamp": 1784860661000
-    },
-    {
-      "title": "Japan’s Katayama Says to Take Bold FX Steps Decisively as Needed",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/japan-s-katayama-says-to-take-bold-fx-steps-decisively-as-needed",
-      "description": "Japanese authorities will take bold steps to counter moves in the currency market decisively as needed, and a US Treasury report issued overnight underscores a shared view that excessive currency move",
-      "pubDate": "Fri, 24 Jul 2026 01:31:29 GMT",
-      "timestamp": 1784856689000
-    },
-    {
-      "title": "PHP/USD: Philippine Peso Falls to Fresh Record Low as Oil Advances",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/php-usd-philippine-peso-falls-to-fresh-record-low-as-oil-advances",
-      "description": "The Philippine peso fell to a fresh record low as oil prices climbed, boosting pressure on the central bank to intervene as markets eye 62 as the next key level.",
-      "pubDate": "Fri, 24 Jul 2026 01:04:29 GMT",
-      "timestamp": 1784855069000
-    },
-    {
-      "title": "PBOC Adds Most Liquidity to Economy in Five Months to Aid Growth",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/pboc-adds-most-liquidity-to-economy-in-five-months-to-aid-growth",
-      "description": "China’s central bank made its biggest addition of liquidity to the economy in five months via its medium-term lending facility to support growth ahead of its late July Politburo meeting and to accommo",
-      "pubDate": "Fri, 24 Jul 2026 00:55:37 GMT",
-      "timestamp": 1784854537000
-    },
-    {
-      "title": "Gold Extends Decline as Higher Energy Costs Raise Rate-Hike Bets",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/gold-holds-decline-as-surging-energy-costs-raise-rate-hike-bets",
-      "description": "Gold extended a retreat as the widening conflict in the Middle East lifted energy prices and increased expectations the US Federal Reserve will tighten monetary policy to contain inflation.",
-      "pubDate": "Thu, 23 Jul 2026 23:37:23 GMT",
-      "timestamp": 1784849843000
-    },
-    {
-      "title": "Stock Slide Extends on AI Jitters, Oil Near $100: Markets Wrap",
+      "title": "Stocks Get Some Relief as Brent Slips Below $100: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
-      "description": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation",
+      "description": "US stocks are finding some respite after posting their biggest drop this month as Brent crude eased below $100 a barrel and bond yields halted their ascent.",
       "pubDate": "Thu, 23 Jul 2026 22:06:16 GMT",
       "timestamp": 1784844376000
     },
     {
       "title": "Latest Oil Market News and Analysis for July 24",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
-      "description": "Brent crude traded near $100 a barrel after Houthi attacks on tankers in the Red Sea opened a new front in the Middle East conflict, while President Donald Trump threatened to extend US strikes on Ira",
+      "description": "Brent crude retreated after hitting $100 a barrel in the previous session on concern over widening risks to Middle East supplies, as US President Donald Trump’s revived trade tariffs posed economic he",
       "pubDate": "Thu, 23 Jul 2026 22:04:48 GMT",
       "timestamp": 1784844288000
-    },
-    {
-      "title": "Overseas Buyers In Hot Pursuit of US Crude as Wars Escalate",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/overseas-buyers-in-hot-pursuit-of-us-crude-as-wars-escalate",
-      "description": "US crude is drawing overseas interest from Asian and European refiners as supply concerns spread from the Middle East to the Black Sea.",
-      "pubDate": "Thu, 23 Jul 2026 21:17:29 GMT",
-      "timestamp": 1784841449000
-    },
-    {
-      "title": "India May Allow Portfolio Managers to Short Sell Stocks",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/india-may-allow-portfolio-managers-to-take-unhedged-short-bets",
-      "description": "India’s securities regulator has proposed allowing domestic portfolio management service providers to take short positions in equity derivatives for the first time, easing rules for professional money",
-      "pubDate": "Thu, 23 Jul 2026 11:35:09 GMT",
-      "timestamp": 1784806509000
     }
   ],
   "total": 20
