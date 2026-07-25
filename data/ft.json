@@ -3,9 +3,16 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-07-25T16:44:10.726Z"
+    "lastUpdate": "2026-07-25T20:39:22.496Z"
   },
   "items": [
+    {
+      "title": "Top Democrat says Trump administration is worsening chip shortage",
+      "link": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
+      "description": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+      "pubDate": "Sat, 25 Jul 2026 19:33:15 GMT",
+      "timestamp": 1785007995000
+    },
     {
       "title": "India’s ‘cockroach’ movement halts protests after minister quits",
       "link": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1",
@@ -17,13 +24,6 @@
       "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
       "link": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
       "description": "Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say",
-      "pubDate": "Sat, 25 Jul 2026 10:00:09 GMT",
-      "timestamp": 1784973609000
-    },
-    {
-      "title": "US immigration enforcement caught between Trump and public backlash",
-      "link": "https://www.ft.com/content/38a18d43-5b01-4c08-ab85-c1695f10c1e3?syn-25a6b1a6=1",
-      "description": "Killings by ICE agents undermine support of voters but White House doubles down on deportation policy",
       "pubDate": "Sat, 25 Jul 2026 10:00:09 GMT",
       "timestamp": 1784973609000
     },
@@ -61,14 +61,7 @@
       "description": "Despite backlash against SEC, it could be beneficial if done in the right way",
       "pubDate": "Sat, 25 Jul 2026 04:00:27 GMT",
       "timestamp": 1784952027000
-    },
-    {
-      "title": "Trump attacks journalists at awkward White House press dinner",
-      "link": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
-      "description": "Many of the president’s jokes met stony silence at rescheduled event",
-      "pubDate": "Sat, 25 Jul 2026 03:54:28 GMT",
-      "timestamp": 1784951668000
     }
   ],
-  "total": 9
+  "total": 8
 }
