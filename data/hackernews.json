@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-24T13:16:04.695Z"
+    "lastUpdate": "2026-07-25T06:08:46.717Z"
   },
   "data": [
+    {
+      "id": 49038433,
+      "title": "Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1441,
+      "author": "alvis",
+      "created": "2026-07-24 16:57:41",
+      "created_at": 1784912261000
+    },
     {
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1362,
+      "score": 1436,
       "author": "dwwoelfel",
       "created": "2026-07-23 14:24:43",
       "created_at": 1784816683000
     },
     {
-      "id": 49010345,
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 1105,
-      "author": "gmays",
-      "created": "2026-07-22 17:30:40",
-      "created_at": 1784741440000
-    },
-    {
-      "id": 49008211,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "link": "https://bento.page/slides/",
-      "score": 999,
-      "author": "starfallg",
-      "created": "2026-07-22 15:19:23",
-      "created_at": 1784733563000
-    },
-    {
       "id": 49023016,
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 998,
+      "score": 1038,
       "author": "theanonymousone",
       "created": "2026-07-23 15:18:40",
       "created_at": 1784819920000
     },
     {
-      "id": 49012070,
-      "title": "John C. Dvorak has died",
-      "link": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 920,
-      "author": "coleca",
-      "created": "2026-07-22 19:22:19",
-      "created_at": 1784748139000
+      "id": 49032660,
+      "title": "It's getting harder to focus every day",
+      "link": "https://glyphack.com/attention/",
+      "score": 713,
+      "author": "peykar",
+      "created": "2026-07-24 08:18:30",
+      "created_at": 1784881110000
     },
     {
-      "id": 49010129,
-      "title": "Are AI labs pelicanmaxxing?",
-      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 671,
-      "author": "dcastm",
-      "created": "2026-07-22 17:17:54",
-      "created_at": 1784740674000
+      "id": 49033004,
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 682,
+      "author": "pchm",
+      "created": "2026-07-24 09:08:17",
+      "created_at": 1784884097000
     },
     {
       "id": 49020999,
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 660,
+      "score": 680,
       "author": "technewssss",
       "created": "2026-07-23 13:09:10",
       "created_at": 1784812150000
     },
     {
-      "id": 49010648,
-      "title": "Everyone should know SIMD",
-      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 631,
-      "author": "WadeGrimridge",
-      "created": "2026-07-22 17:48:18",
-      "created_at": 1784742498000
+      "id": 49035303,
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 573,
+      "author": "louiereederson",
+      "created": "2026-07-24 13:32:30",
+      "created_at": 1784899950000
     },
     {
-      "id": 49010167,
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "link": "https://github.com/marcelroed/gigatoken/",
-      "score": 608,
-      "author": "syrusakbary",
-      "created": "2026-07-22 17:20:38",
-      "created_at": 1784740838000
+      "id": 49031796,
+      "title": "Flux 3",
+      "link": "https://bfl.ai/blog/flux-3",
+      "score": 554,
+      "author": "ThouYS",
+      "created": "2026-07-24 06:17:08",
+      "created_at": 1784873828000
     },
     {
-      "id": 49005747,
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "link": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 601,
-      "author": "montroser",
-      "created": "2026-07-22 12:32:48",
-      "created_at": 1784723568000
+      "id": 49034292,
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "link": "https://hhh.hn/hanwha-github-token/",
+      "score": 550,
+      "author": "hhh",
+      "created": "2026-07-24 11:54:41",
+      "created_at": 1784894081000
+    },
+    {
+      "id": 49028927,
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "score": 539,
+      "author": "lopespm",
+      "created": "2026-07-23 22:30:29",
+      "created_at": 1784845829000
     }
   ],
   "code": 200,
