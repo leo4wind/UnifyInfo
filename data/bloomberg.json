@@ -3,9 +3,16 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-24T20:53:59.178Z"
+    "lastUpdate": "2026-07-25T01:44:12.917Z"
   },
   "items": [
+    {
+      "title": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+      "description": "Commodity trading giant Vitol Group paid out $5.9 billion to its executives and senior staff through share buybacks last year, even as its profits more than halved to $4.2 billion.",
+      "pubDate": "Fri, 24 Jul 2026 20:54:24 GMT",
+      "timestamp": 1784926464000
+    },
     {
       "title": "Oil Prices Volatile as Supply Disruptions Hit Four Global Fronts",
       "link": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
@@ -77,13 +84,6 @@
       "timestamp": 1784908503000
     },
     {
-      "title": "PE-Backed Robotics Firm Brooks Automation Said to Weigh IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/pe-backed-robotics-firm-brooks-automation-is-said-to-weigh-ipo",
-      "description": "Brooks Automation, a robotics and software automation company backed by Thomas H. Lee Partners, is considering an initial public offering, according to people familiar with the matter.",
-      "pubDate": "Fri, 24 Jul 2026 15:04:41 GMT",
-      "timestamp": 1784905481000
-    },
-    {
       "title": "Colombia Rations LNG on SPEC Port Shutdown; Business, Schools Urged to Go Remote",
       "link": "https://www.bloomberg.com/news/articles/2026-07-24/colombia-rations-lng-on-spec-port-shutdown-business-schools-urged-to-go-remote",
       "description": "Colombia’s government is urging schools and businesses to operate remotely for several days starting next week as the nation braces for natural gas rationing during planned maintenance of its sole imp",
@@ -100,7 +100,7 @@
     {
       "title": "BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff",
       "link": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
-      "description": "BlackRock Inc. has seen weak demand for a $12.3 billion high-grade bond sale to fund a Meta Platforms Inc. data center project, as investors grapple with concerns about excessive AI infrastructure spe",
+      "description": "BlackRock Inc. has seen weaker-than-usual demand for a corporate bond sale tied to a Meta Platforms Inc. data center project in Texas, as investors grapple with concerns about excessive AI infrastruct",
       "pubDate": "Fri, 24 Jul 2026 13:09:57 GMT",
       "timestamp": 1784898597000
     },
@@ -133,7 +133,7 @@
       "timestamp": 1784853819000
     },
     {
-      "title": "S&P 500 Churns as Oil Decline Offsets Chip Selloff: Markets Wrap",
+      "title": "S&P 500 Wavers as Oil Decline Offsets Chip Selloff: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
       "description": "Wall Street traders sent stocks wavering at the end of a jittery week, with a drop in oil prices and signs of strength in Corporate America’s profit machine offsetting a selloff in chipmakers.",
       "pubDate": "Thu, 23 Jul 2026 22:06:16 GMT",
