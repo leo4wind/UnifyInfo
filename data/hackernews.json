@@ -3,41 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-25T12:59:13.038Z"
+    "lastUpdate": "2026-07-26T06:28:16.121Z"
   },
   "data": [
     {
       "id": 49038433,
       "title": "Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1640,
+      "score": 1748,
       "author": "alvis",
       "created": "2026-07-24 16:57:41",
       "created_at": 1784912261000
     },
     {
-      "id": 49022152,
-      "title": "Writing by hand is good for your brain",
-      "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1452,
-      "author": "dwwoelfel",
-      "created": "2026-07-23 14:24:43",
-      "created_at": 1784816683000
-    },
-    {
-      "id": 49023016,
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 1051,
-      "author": "theanonymousone",
-      "created": "2026-07-23 15:18:40",
-      "created_at": 1784819920000
+      "id": 49045159,
+      "title": "Android May Soon Restrict On-Device ADB",
+      "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 902,
+      "author": "shscs911",
+      "created": "2026-07-25 06:57:14",
+      "created_at": 1784962634000
     },
     {
       "id": 49033004,
       "title": "If coding has been solved, why does software keep getting worse?",
       "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 770,
+      "score": 850,
       "author": "pchm",
       "created": "2026-07-24 09:08:17",
       "created_at": 1784884097000
@@ -46,25 +37,16 @@
       "id": 49032660,
       "title": "It's getting harder to focus every day",
       "link": "https://glyphack.com/attention/",
-      "score": 741,
+      "score": 763,
       "author": "peykar",
       "created": "2026-07-24 08:18:30",
       "created_at": 1784881110000
     },
     {
-      "id": 49020999,
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 682,
-      "author": "technewssss",
-      "created": "2026-07-23 13:09:10",
-      "created_at": 1784812150000
-    },
-    {
       "id": 49035303,
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 623,
+      "score": 648,
       "author": "louiereederson",
       "created": "2026-07-24 13:32:30",
       "created_at": 1784899950000
@@ -73,28 +55,46 @@
       "id": 49034292,
       "title": "My security camera shipped a GitHub admin token in its login page",
       "link": "https://hhh.hn/hanwha-github-token/",
-      "score": 607,
+      "score": 636,
       "author": "hhh",
       "created": "2026-07-24 11:54:41",
       "created_at": 1784894081000
     },
     {
+      "id": 49043724,
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "score": 571,
+      "author": "agnishom",
+      "created": "2026-07-25 01:44:12",
+      "created_at": 1784943852000
+    },
+    {
       "id": 49031796,
       "title": "Flux 3",
       "link": "https://bfl.ai/blog/flux-3",
-      "score": 561,
+      "score": 568,
       "author": "ThouYS",
       "created": "2026-07-24 06:17:08",
       "created_at": 1784873828000
     },
     {
-      "id": 49028927,
-      "title": "98.css",
-      "link": "https://jdan.github.io/98.css/#status-bar",
-      "score": 543,
-      "author": "lopespm",
-      "created": "2026-07-23 22:30:29",
-      "created_at": 1784845829000
+      "id": 49038060,
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "score": 526,
+      "author": "rwmj",
+      "created": "2026-07-24 16:33:31",
+      "created_at": 1784910811000
+    },
+    {
+      "id": 49036433,
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "score": 519,
+      "author": "rootkea",
+      "created": "2026-07-24 14:41:59",
+      "created_at": 1784904119000
     }
   ],
   "code": 200,
