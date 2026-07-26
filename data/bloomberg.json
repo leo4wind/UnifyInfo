@@ -3,9 +3,16 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-07-26T16:45:42.024Z"
+    "lastUpdate": "2026-07-26T20:44:25.951Z"
   },
   "items": [
+    {
+      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount",
+      "description": "Bond traders enter the week seeing a better than one-in-three chance that the Federal Reserve hikes interest rates on Wednesday after flaring Middle East tensions lifted oil prices, boosting inflation",
+      "pubDate": "Sun, 26 Jul 2026 19:00:00 GMT",
+      "timestamp": 1785092400000
+    },
     {
       "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
       "link": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
@@ -63,5 +70,5 @@
       "timestamp": 1784969390000
     }
   ],
-  "total": 8
+  "total": 9
 }
