@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-26T09:49:35.112Z"
+    "lastUpdate": "2026-07-26T16:45:57.343Z"
   },
   "data": [
     {
       "id": 49038433,
       "title": "Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1750,
+      "score": 1759,
       "author": "alvis",
       "created": "2026-07-24 16:57:41",
       "created_at": 1784912261000
@@ -19,43 +19,16 @@
       "id": 49045159,
       "title": "Android may soon restrict on-device ADB",
       "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 932,
+      "score": 958,
       "author": "shscs911",
       "created": "2026-07-25 06:57:14",
       "created_at": 1784962634000
     },
     {
-      "id": 49033004,
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 856,
-      "author": "pchm",
-      "created": "2026-07-24 09:08:17",
-      "created_at": 1784884097000
-    },
-    {
-      "id": 49035303,
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 648,
-      "author": "louiereederson",
-      "created": "2026-07-24 13:32:30",
-      "created_at": 1784899950000
-    },
-    {
-      "id": 49034292,
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "link": "https://hhh.hn/hanwha-github-token/",
-      "score": 638,
-      "author": "hhh",
-      "created": "2026-07-24 11:54:41",
-      "created_at": 1784894081000
-    },
-    {
       "id": 49043724,
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 578,
+      "score": 585,
       "author": "agnishom",
       "created": "2026-07-25 01:44:12",
       "created_at": 1784943852000
@@ -64,37 +37,64 @@
       "id": 49038060,
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 527,
+      "score": 533,
       "author": "rwmj",
       "created": "2026-07-24 16:33:31",
       "created_at": 1784910811000
     },
     {
-      "id": 49036433,
-      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "score": 521,
-      "author": "rootkea",
-      "created": "2026-07-24 14:41:59",
-      "created_at": 1784904119000
-    },
-    {
       "id": 49051120,
       "title": "Did they ghost you?",
       "link": "https://didtheyghostyou.com/",
-      "score": 399,
+      "score": 440,
       "author": "mooreds",
       "created": "2026-07-25 20:18:03",
       "created_at": 1785010683000
     },
     {
-      "id": 49034747,
-      "title": "Em dashes are amazing",
-      "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 381,
-      "author": "surprisetalk",
-      "created": "2026-07-24 12:40:27",
-      "created_at": 1784896827000
+      "id": 49051361,
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 422,
+      "author": "mellosouls",
+      "created": "2026-07-25 20:42:35",
+      "created_at": 1785012155000
+    },
+    {
+      "id": 49048034,
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 391,
+      "author": "tknaup",
+      "created": "2026-07-25 14:49:49",
+      "created_at": 1784990989000
+    },
+    {
+      "id": 49040741,
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "link": "https://artificialanalysis.ai/models",
+      "score": 369,
+      "author": "aarondong",
+      "created": "2026-07-24 19:45:10",
+      "created_at": 1784922310000
+    },
+    {
+      "id": 49040296,
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 363,
+      "author": "KraftyOne",
+      "created": "2026-07-24 19:05:53",
+      "created_at": 1784919953000
+    },
+    {
+      "id": 49047453,
+      "title": "A shell colon does nothing. Use it anyway",
+      "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "score": 334,
+      "author": "olexsmir",
+      "created": "2026-07-25 13:33:49",
+      "created_at": 1784986429000
     }
   ],
   "code": 200,
