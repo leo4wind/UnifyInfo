@@ -3,23 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-26T06:28:16.121Z"
+    "lastUpdate": "2026-07-26T09:49:35.112Z"
   },
   "data": [
     {
       "id": 49038433,
       "title": "Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1748,
+      "score": 1750,
       "author": "alvis",
       "created": "2026-07-24 16:57:41",
       "created_at": 1784912261000
     },
     {
       "id": 49045159,
-      "title": "Android May Soon Restrict On-Device ADB",
+      "title": "Android may soon restrict on-device ADB",
       "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 902,
+      "score": 932,
       "author": "shscs911",
       "created": "2026-07-25 06:57:14",
       "created_at": 1784962634000
@@ -28,19 +28,10 @@
       "id": 49033004,
       "title": "If coding has been solved, why does software keep getting worse?",
       "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 850,
+      "score": 856,
       "author": "pchm",
       "created": "2026-07-24 09:08:17",
       "created_at": 1784884097000
-    },
-    {
-      "id": 49032660,
-      "title": "It's getting harder to focus every day",
-      "link": "https://glyphack.com/attention/",
-      "score": 763,
-      "author": "peykar",
-      "created": "2026-07-24 08:18:30",
-      "created_at": 1784881110000
     },
     {
       "id": 49035303,
@@ -55,7 +46,7 @@
       "id": 49034292,
       "title": "My security camera shipped a GitHub admin token in its login page",
       "link": "https://hhh.hn/hanwha-github-token/",
-      "score": 636,
+      "score": 638,
       "author": "hhh",
       "created": "2026-07-24 11:54:41",
       "created_at": 1784894081000
@@ -64,25 +55,16 @@
       "id": 49043724,
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 571,
+      "score": 578,
       "author": "agnishom",
       "created": "2026-07-25 01:44:12",
       "created_at": 1784943852000
     },
     {
-      "id": 49031796,
-      "title": "Flux 3",
-      "link": "https://bfl.ai/blog/flux-3",
-      "score": 568,
-      "author": "ThouYS",
-      "created": "2026-07-24 06:17:08",
-      "created_at": 1784873828000
-    },
-    {
       "id": 49038060,
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 526,
+      "score": 527,
       "author": "rwmj",
       "created": "2026-07-24 16:33:31",
       "created_at": 1784910811000
@@ -91,10 +73,28 @@
       "id": 49036433,
       "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
       "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "score": 519,
+      "score": 521,
       "author": "rootkea",
       "created": "2026-07-24 14:41:59",
       "created_at": 1784904119000
+    },
+    {
+      "id": 49051120,
+      "title": "Did they ghost you?",
+      "link": "https://didtheyghostyou.com/",
+      "score": 399,
+      "author": "mooreds",
+      "created": "2026-07-25 20:18:03",
+      "created_at": 1785010683000
+    },
+    {
+      "id": 49034747,
+      "title": "Em dashes are amazing",
+      "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "score": 381,
+      "author": "surprisetalk",
+      "created": "2026-07-24 12:40:27",
+      "created_at": 1784896827000
     }
   ],
   "code": 200,
