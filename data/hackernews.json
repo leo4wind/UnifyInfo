@@ -3,14 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-27T17:28:46.848Z"
+    "lastUpdate": "2026-07-27T21:01:29.830Z"
   },
   "data": [
+    {
+      "id": 49065752,
+      "title": "Kimi-K3 on HuggingFace",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 1235,
+      "author": "nateb2022",
+      "created": "2026-07-27 06:18:10",
+      "created_at": 1785133090000
+    },
     {
       "id": 49063022,
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1179,
+      "score": 1233,
       "author": "eecc",
       "created": "2026-07-26 22:21:41",
       "created_at": 1785104501000
@@ -19,25 +28,16 @@
       "id": 49057175,
       "title": "Kill The Cookie Banner",
       "link": "https://killthecookiebanner.eu/",
-      "score": 1101,
+      "score": 1112,
       "author": "rapnie",
       "created": "2026-07-26 11:53:17",
       "created_at": 1785066797000
     },
     {
-      "id": 49065752,
-      "title": "Kimi-K3 on HuggingFace",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 992,
-      "author": "nateb2022",
-      "created": "2026-07-27 06:18:10",
-      "created_at": 1785133090000
-    },
-    {
       "id": 49063754,
       "title": "PGSimCity - How PostgreSQL Works",
       "link": "https://nikolays.github.io/PGSimCity/",
-      "score": 836,
+      "score": 872,
       "author": "jonbaer",
       "created": "2026-07-27 00:19:04",
       "created_at": 1785111544000
@@ -46,7 +46,7 @@
       "id": 49068738,
       "title": "AI companies are shredding rare books",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "score": 650,
+      "score": 703,
       "author": "anon373839",
       "created": "2026-07-27 12:32:12",
       "created_at": 1785155532000
@@ -55,7 +55,7 @@
       "id": 49057241,
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 486,
+      "score": 494,
       "author": "rcy",
       "created": "2026-07-26 12:00:11",
       "created_at": 1785067211000
@@ -64,7 +64,7 @@
       "id": 49051120,
       "title": "Did they ghost you?",
       "link": "https://didtheyghostyou.com/",
-      "score": 477,
+      "score": 478,
       "author": "mooreds",
       "created": "2026-07-25 20:18:03",
       "created_at": 1785010683000
@@ -73,7 +73,7 @@
       "id": 49051361,
       "title": "The new rules of context engineering for Claude 5 generation models",
       "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 453,
+      "score": 455,
       "author": "mellosouls",
       "created": "2026-07-25 20:42:35",
       "created_at": 1785012155000
@@ -82,7 +82,7 @@
       "id": 49060495,
       "title": "French firefighters face 'pyrocumulonimbus' for first time",
       "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 428,
+      "score": 438,
       "author": "saaaaaam",
       "created": "2026-07-26 17:49:44",
       "created_at": 1785088184000
@@ -91,7 +91,7 @@
       "id": 49055169,
       "title": "GrapheneOS protections against data extraction from locked devices",
       "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 427,
+      "score": 432,
       "author": "Cider9986",
       "created": "2026-07-26 05:57:22",
       "created_at": 1785045442000
