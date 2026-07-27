@@ -3,50 +3,68 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-26T16:45:57.343Z"
+    "lastUpdate": "2026-07-27T17:28:46.848Z"
   },
   "data": [
     {
-      "id": 49038433,
-      "title": "Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1759,
-      "author": "alvis",
-      "created": "2026-07-24 16:57:41",
-      "created_at": 1784912261000
+      "id": 49063022,
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 1179,
+      "author": "eecc",
+      "created": "2026-07-26 22:21:41",
+      "created_at": 1785104501000
     },
     {
-      "id": 49045159,
-      "title": "Android may soon restrict on-device ADB",
-      "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 958,
-      "author": "shscs911",
-      "created": "2026-07-25 06:57:14",
-      "created_at": 1784962634000
+      "id": 49057175,
+      "title": "Kill The Cookie Banner",
+      "link": "https://killthecookiebanner.eu/",
+      "score": 1101,
+      "author": "rapnie",
+      "created": "2026-07-26 11:53:17",
+      "created_at": 1785066797000
     },
     {
-      "id": 49043724,
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 585,
-      "author": "agnishom",
-      "created": "2026-07-25 01:44:12",
-      "created_at": 1784943852000
+      "id": 49065752,
+      "title": "Kimi-K3 on HuggingFace",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 992,
+      "author": "nateb2022",
+      "created": "2026-07-27 06:18:10",
+      "created_at": 1785133090000
     },
     {
-      "id": 49038060,
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 533,
-      "author": "rwmj",
-      "created": "2026-07-24 16:33:31",
-      "created_at": 1784910811000
+      "id": 49063754,
+      "title": "PGSimCity - How PostgreSQL Works",
+      "link": "https://nikolays.github.io/PGSimCity/",
+      "score": 836,
+      "author": "jonbaer",
+      "created": "2026-07-27 00:19:04",
+      "created_at": 1785111544000
+    },
+    {
+      "id": 49068738,
+      "title": "AI companies are shredding rare books",
+      "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "score": 650,
+      "author": "anon373839",
+      "created": "2026-07-27 12:32:12",
+      "created_at": 1785155532000
+    },
+    {
+      "id": 49057241,
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 486,
+      "author": "rcy",
+      "created": "2026-07-26 12:00:11",
+      "created_at": 1785067211000
     },
     {
       "id": 49051120,
       "title": "Did they ghost you?",
       "link": "https://didtheyghostyou.com/",
-      "score": 440,
+      "score": 477,
       "author": "mooreds",
       "created": "2026-07-25 20:18:03",
       "created_at": 1785010683000
@@ -55,46 +73,28 @@
       "id": 49051361,
       "title": "The new rules of context engineering for Claude 5 generation models",
       "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 422,
+      "score": 453,
       "author": "mellosouls",
       "created": "2026-07-25 20:42:35",
       "created_at": 1785012155000
     },
     {
-      "id": 49048034,
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 391,
-      "author": "tknaup",
-      "created": "2026-07-25 14:49:49",
-      "created_at": 1784990989000
+      "id": 49060495,
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 428,
+      "author": "saaaaaam",
+      "created": "2026-07-26 17:49:44",
+      "created_at": 1785088184000
     },
     {
-      "id": 49040741,
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "link": "https://artificialanalysis.ai/models",
-      "score": 369,
-      "author": "aarondong",
-      "created": "2026-07-24 19:45:10",
-      "created_at": 1784922310000
-    },
-    {
-      "id": 49040296,
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 363,
-      "author": "KraftyOne",
-      "created": "2026-07-24 19:05:53",
-      "created_at": 1784919953000
-    },
-    {
-      "id": 49047453,
-      "title": "A shell colon does nothing. Use it anyway",
-      "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 334,
-      "author": "olexsmir",
-      "created": "2026-07-25 13:33:49",
-      "created_at": 1784986429000
+      "id": 49055169,
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "score": 427,
+      "author": "Cider9986",
+      "created": "2026-07-26 05:57:22",
+      "created_at": 1785045442000
     }
   ],
   "code": 200,
