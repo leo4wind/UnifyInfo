@@ -3,36 +3,134 @@
     "name": "CNBC",
     "description": "CNBC 财经新闻",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "lastUpdate": "2026-07-28T13:28:28.207Z"
+    "lastUpdate": "2026-07-28T17:17:12.657Z"
   },
   "items": [
     {
-      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "title": "Shein says it&apos;s under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO",
+      "link": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+      "description": "Shein disclosed the FTC is investigating its U.S. business, but the nature of the probe is unclear.",
+      "pubDate": "Tue, 28 Jul 2026 17:12:52 GMT",
+      "timestamp": 1785258772000
+    },
+    {
+      "title": "Trump: New tariffs &apos;doing the same thing&apos; as the ones struck down by Supreme Court",
+      "link": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
+      "description": "President Trump dismissed fears his tariffs could hurt the economy — especially as affordability concerns have become a key issue of the 2026 midterm elections.",
+      "pubDate": "Tue, 28 Jul 2026 16:51:11 GMT",
+      "timestamp": 1785257471000
+    },
+    {
+      "title": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+      "link": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+      "description": "Ina and David Steiner run a popular ecommerce blog that had angered eBay executives due to its critical coverage.",
+      "pubDate": "Tue, 28 Jul 2026 16:42:45 GMT",
+      "timestamp": 1785256965000
+    },
+    {
+      "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its &apos;bumps&apos;",
+      "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "description": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+      "pubDate": "Tue, 28 Jul 2026 16:41:42 GMT",
+      "timestamp": 1785256902000
+    },
+    {
+      "title": "Microsoft touts cost-saving AI model for cybersecurity",
+      "link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+      "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+      "pubDate": "Tue, 28 Jul 2026 16:33:09 GMT",
+      "timestamp": 1785256389000
+    },
+    {
+      "title": "Jim Cramer says buy these 2 stocks but remain cautious on a couple of others",
+      "link": "https://www.cnbc.com/2026/07/28/jim-cramer-says-buy-these-2-stocks-but-remain-cautious-a-couple-of-others.html",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "pubDate": "Tue, 28 Jul 2026 16:20:08 GMT",
+      "timestamp": 1785255608000
+    },
+    {
+      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+      "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+      "description": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
+      "pubDate": "Tue, 28 Jul 2026 16:16:25 GMT",
+      "timestamp": 1785255385000
+    },
+    {
+      "title": "Ford Motor is set to report earnings after the bell. Here&apos;s what Wall Street expects",
+      "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+      "description": "Wall Street analysts expect Ford to report adjusted earnings per share of 35 cents and automotive revenue of $45.86 billion.",
+      "pubDate": "Tue, 28 Jul 2026 16:00:01 GMT",
+      "timestamp": 1785254401000
+    },
+    {
+      "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+      "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+      "description": "Trump and Zelenskyy meet as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+      "pubDate": "Tue, 28 Jul 2026 15:59:04 GMT",
+      "timestamp": 1785254344000
+    },
+    {
+      "title": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
+      "link": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
+      "description": "At the Fed’s July meeting, the new chairman will reveal how he weighs energy shocks, AI-driven price pressure, the task forces and pressure from Trump.",
+      "pubDate": "Tue, 28 Jul 2026 15:55:12 GMT",
+      "timestamp": 1785254112000
+    },
+    {
+      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+      "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+      "description": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
+      "pubDate": "Tue, 28 Jul 2026 15:47:59 GMT",
+      "timestamp": 1785253679000
+    },
+    {
+      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
+      "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
+      "description": "Talks over the Strait of Hormuz continue as Iran's Foreign Ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
+      "pubDate": "Tue, 28 Jul 2026 15:40:32 GMT",
+      "timestamp": 1785253232000
+    },
+    {
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "description": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+      "pubDate": "Tue, 28 Jul 2026 15:38:04 GMT",
+      "timestamp": 1785253084000
+    },
+    {
+      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+      "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+      "description": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+      "pubDate": "Tue, 28 Jul 2026 15:35:48 GMT",
+      "timestamp": 1785252948000
+    },
+    {
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "description": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+      "pubDate": "Tue, 28 Jul 2026 14:50:10 GMT",
+      "timestamp": 1785250210000
+    },
+    {
+      "title": "New Republican ads slam Democrats opposed to Trump&apos;s tariffs",
+      "link": "https://www.cnbc.com/2026/07/28/trump-tariffs-trade-election-advertising.html",
+      "description": "As the 2026 midterm elections approach, the National Republican Congressional Committee is knocking Democrats who have opposed President Donald Trump's tariffs.",
+      "pubDate": "Tue, 28 Jul 2026 14:48:13 GMT",
+      "timestamp": 1785250093000
+    },
+    {
+      "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
       "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
       "description": "Coca-Cola said demand for its drinks rose in every market in the second quarter, helped in part by the World Cup.",
-      "pubDate": "Tue, 28 Jul 2026 13:23:11 GMT",
-      "timestamp": 1785244991000
+      "pubDate": "Tue, 28 Jul 2026 14:42:59 GMT",
+      "timestamp": 1785249779000
     },
     {
       "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
       "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
       "description": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
-      "pubDate": "Tue, 28 Jul 2026 13:19:54 GMT",
-      "timestamp": 1785244794000
-    },
-    {
-      "title": "UPS beats earnings expectations, raises full-year guidance",
-      "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "description": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-      "pubDate": "Tue, 28 Jul 2026 13:10:12 GMT",
-      "timestamp": 1785244212000
-    },
-    {
-      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
-      "link": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
-      "description": "Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
-      "pubDate": "Tue, 28 Jul 2026 12:52:01 GMT",
-      "timestamp": 1785243121000
+      "pubDate": "Tue, 28 Jul 2026 13:56:52 GMT",
+      "timestamp": 1785247012000
     },
     {
       "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro&apos;s capture",
@@ -47,104 +145,6 @@
       "description": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage.",
       "pubDate": "Tue, 28 Jul 2026 12:38:50 GMT",
       "timestamp": 1785242330000
-    },
-    {
-      "title": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
-      "link": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
-      "description": "Crypto investors have largely been exempt from the \"wash sale\" rules that apply to stocks and other traditional assets. Congress is trying to clamp down.",
-      "pubDate": "Tue, 28 Jul 2026 12:15:01 GMT",
-      "timestamp": 1785240901000
-    },
-    {
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-      "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-      "description": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
-      "pubDate": "Tue, 28 Jul 2026 12:00:01 GMT",
-      "timestamp": 1785240001000
-    },
-    {
-      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-      "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-      "description": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
-      "pubDate": "Tue, 28 Jul 2026 11:08:51 GMT",
-      "timestamp": 1785236931000
-    },
-    {
-      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-      "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-      "description": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
-      "pubDate": "Tue, 28 Jul 2026 11:01:48 GMT",
-      "timestamp": 1785236508000
-    },
-    {
-      "title": "Analysis: Kevin Warsh&apos;s Fed press conference will be revealing even without a rate hike",
-      "link": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
-      "description": "Warsh will reveal how he weighs energy shocks, AI-driven price pressure, the Fed's task forces and pressure from Trump.",
-      "pubDate": "Tue, 28 Jul 2026 11:00:01 GMT",
-      "timestamp": 1785236401000
-    },
-    {
-      "title": "New Republican ads slam Democrats opposed to Trump&apos;s tariffs",
-      "link": "https://www.cnbc.com/2026/07/28/trump-tariffs-trade-election-advertising.html",
-      "description": "As the 2026 midterm elections approach, the National Republican Congressional Committee is knocking Democrats who have opposed President Donald Trump's tariffs.",
-      "pubDate": "Tue, 28 Jul 2026 11:00:01 GMT",
-      "timestamp": 1785236401000
-    },
-    {
-      "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
-      "link": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
-      "description": "Five of the Congress members serve on committees whose work touches SpaceX's federal contracts, defense programs, AI, telecommunications or securities markets.",
-      "pubDate": "Tue, 28 Jul 2026 10:30:01 GMT",
-      "timestamp": 1785234601000
-    },
-    {
-      "title": "Wildfires burn nearly 300,000 acres in France and Spain as heat wave looms",
-      "link": "https://www.cnbc.com/2026/07/28/france-spain-wildfires-heat-wave.html",
-      "description": "Temperatures in France are expected to rise to 95 degrees Fahrenheit this week, as firefighters battle the ongoing wildfire, which has affected parts of Spain.",
-      "pubDate": "Tue, 28 Jul 2026 10:23:40 GMT",
-      "timestamp": 1785234220000
-    },
-    {
-      "title": "China’s reported chip breakthrough comes with some big caveats",
-      "link": "https://www.cnbc.com/2026/07/28/china-chipmaking-duv-tool-asml-explained.html",
-      "description": "China is reportedly producing a key chip tool in a market dominated by ASML. But analysts questioned China's ability to compete with the Dutch giant.",
-      "pubDate": "Tue, 28 Jul 2026 09:44:13 GMT",
-      "timestamp": 1785231853000
-    },
-    {
-      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "description": "Semiconductor stocks fell in premarket trading on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
-      "pubDate": "Tue, 28 Jul 2026 08:41:56 GMT",
-      "timestamp": 1785228116000
-    },
-    {
-      "title": "Supreme Court approval hits record low as Republicans&apos; support declines",
-      "link": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
-      "description": "The Trump administration saw some big losses at the Supreme Court in 2026 on issues involving tariffs, birthright citizenship and the Federal Reserve.",
-      "pubDate": "Tue, 28 Jul 2026 08:00:01 GMT",
-      "timestamp": 1785225601000
-    },
-    {
-      "title": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
-      "link": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-      "description": "The 60-day correlation between the Kospi and Nasdaq 100 recently climbed to about 0.50, its highest level since 2021, according to data provided by Rayliant.",
-      "pubDate": "Tue, 28 Jul 2026 01:34:28 GMT",
-      "timestamp": 1785202468000
-    },
-    {
-      "title": "Microsoft touts cost-saving AI model for cybersecurity",
-      "link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
-      "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
-      "pubDate": "Mon, 27 Jul 2026 23:46:25 GMT",
-      "timestamp": 1785195985000
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says AI company isn&apos;t advocating for ban of open-weight models",
-      "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
-      "description": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
-      "pubDate": "Mon, 27 Jul 2026 23:43:50 GMT",
-      "timestamp": 1785195830000
     }
   ],
   "total": 20
