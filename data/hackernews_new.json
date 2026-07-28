@@ -3,100 +3,100 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-07-28T01:29:04.342Z"
+    "lastUpdate": "2026-07-28T06:17:34.116Z"
   },
   "data": [
     {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 430,
+      "score": 715,
       "author": "surprisetalk",
       "created": "2026-07-27 22:03:49",
       "created_at": 1785189829000
     },
     {
+      "id": 49078583,
+      "title": "Using an open model feels surprisingly good",
+      "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "score": 197,
+      "author": "msaltz",
+      "created": "2026-07-28 02:37:14",
+      "created_at": 1785206234000
+    },
+    {
+      "id": 49079490,
+      "title": "Neutrino-1 8B",
+      "link": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "score": 26,
+      "author": "handfuloflight",
+      "created": "2026-07-28 04:49:54",
+      "created_at": 1785214194000
+    },
+    {
+      "id": 49078454,
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "link": "https://fermisense.com/when-machines-take-the-wheel/",
+      "score": 108,
+      "author": "ilreb",
+      "created": "2026-07-28 02:18:53",
+      "created_at": 1785205133000
+    },
+    {
+      "id": 49079727,
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "link": "https://arsastronomica.com/",
+      "score": 11,
+      "author": "sweisman",
+      "created": "2026-07-28 05:25:34",
+      "created_at": 1785216334000
+    },
+    {
+      "id": 49079175,
+      "title": "Why do we think we understand the world more than we actually do?",
+      "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "score": 30,
+      "author": "rramadass",
+      "created": "2026-07-28 04:00:41",
+      "created_at": 1785211241000
+    },
+    {
       "id": 49076391,
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 104,
+      "score": 221,
       "author": "dhorthy",
       "created": "2026-07-27 22:37:52",
       "created_at": 1785191872000
     },
     {
-      "id": 49076840,
-      "title": "DConf 2026 in London",
-      "link": "https://dconf.org/2026/index.html",
-      "score": 41,
-      "author": "teleforce",
-      "created": "2026-07-27 23:14:19",
-      "created_at": 1785194059000
+      "id": 49041256,
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "score": 77,
+      "author": "wslh",
+      "created": "2026-07-24 20:35:21",
+      "created_at": 1784925321000
     },
     {
-      "id": 49076900,
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 34,
-      "author": "zdw",
-      "created": "2026-07-27 23:19:19",
-      "created_at": 1785194359000
-    },
-    {
-      "id": 49045474,
-      "title": "Watching Go's new garbage collector move through the heap",
-      "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 169,
-      "author": "matheusmoreira",
-      "created": "2026-07-25 07:55:19",
-      "created_at": 1784966119000
-    },
-    {
-      "id": 49076791,
-      "title": "C/C++ projects packaged for Zig",
-      "link": "https://github.com/allyourcodebase",
-      "score": 23,
-      "author": "jcbhmr",
-      "created": "2026-07-27 23:09:50",
-      "created_at": 1785193790000
-    },
-    {
-      "id": 49074817,
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "link": "https://www.rise-reforming.com",
-      "score": 60,
-      "author": "george_rose25",
-      "created": "2026-07-27 19:58:22",
-      "created_at": 1785182302000
-    },
-    {
-      "id": 49077209,
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "link": "https://arxiv.org/abs/2607.05283",
+      "id": 49079454,
+      "title": "PyTorch: A Reference Language",
+      "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
       "score": 11,
-      "author": "wglb",
-      "created": "2026-07-27 23:46:15",
-      "created_at": 1785195975000
+      "author": "matt_d",
+      "created": "2026-07-28 04:46:00",
+      "created_at": 1785213960000
     },
     {
-      "id": 49073942,
-      "title": "Self-contained highly-portable Python distributions",
-      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 111,
-      "author": "jcbhmr",
-      "created": "2026-07-27 18:43:31",
-      "created_at": 1785177811000
-    },
-    {
-      "id": 49020993,
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "link": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "score": 150,
-      "author": "gmays",
-      "created": "2026-07-23 13:08:52",
-      "created_at": 1784812132000
+      "id": 49078463,
+      "title": "EYG: A Programming Language for Humans",
+      "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "score": 51,
+      "author": "crowdhailer",
+      "created": "2026-07-28 02:21:37",
+      "created_at": 1785205297000
     }
   ],
   "code": 200,
-  "message": "获取成功。当前部署平台已迁移到 Cloudflare Workers，如有问题请及时反馈。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
+  "message": "获取成功。开源地址 https://github.com/vikiboss/60s，反馈群 595941841。"
 }
