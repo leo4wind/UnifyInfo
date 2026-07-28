@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-28T06:17:33.554Z"
+    "lastUpdate": "2026-07-28T10:23:07.172Z"
   },
   "data": [
     {
       "id": 49065752,
       "title": "Kimi-K3 on HuggingFace",
       "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1329,
+      "score": 1342,
       "author": "nateb2022",
       "created": "2026-07-27 06:18:10",
       "created_at": 1785133090000
@@ -19,7 +19,7 @@
       "id": 49063022,
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1273,
+      "score": 1288,
       "author": "eecc",
       "created": "2026-07-26 22:21:41",
       "created_at": 1785104501000
@@ -28,16 +28,25 @@
       "id": 49057175,
       "title": "Kill The Cookie Banner",
       "link": "https://killthecookiebanner.eu/",
-      "score": 1127,
+      "score": 1132,
       "author": "rapnie",
       "created": "2026-07-26 11:53:17",
       "created_at": 1785066797000
     },
     {
+      "id": 49076057,
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 923,
+      "author": "surprisetalk",
+      "created": "2026-07-27 22:03:49",
+      "created_at": 1785189829000
+    },
+    {
       "id": 49063754,
       "title": "PGSimCity - How PostgreSQL Works",
       "link": "https://nikolays.github.io/PGSimCity/",
-      "score": 899,
+      "score": 908,
       "author": "jonbaer",
       "created": "2026-07-27 00:19:04",
       "created_at": 1785111544000
@@ -46,25 +55,16 @@
       "id": 49068738,
       "title": "AI companies are shredding rare books",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "score": 758,
+      "score": 769,
       "author": "anon373839",
       "created": "2026-07-27 12:32:12",
       "created_at": 1785155532000
     },
     {
-      "id": 49076057,
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 715,
-      "author": "surprisetalk",
-      "created": "2026-07-27 22:03:49",
-      "created_at": 1785189829000
-    },
-    {
       "id": 49057241,
       "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
       "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 505,
+      "score": 507,
       "author": "rcy",
       "created": "2026-07-26 12:00:11",
       "created_at": 1785067211000
@@ -73,7 +73,7 @@
       "id": 49067854,
       "title": "How is the Bun rewrite in Rust going?",
       "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 463,
+      "score": 470,
       "author": "tomlockwood",
       "created": "2026-07-27 11:12:26",
       "created_at": 1785150746000
@@ -82,19 +82,19 @@
       "id": 49060495,
       "title": "French firefighters face 'pyrocumulonimbus' for first time",
       "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 450,
+      "score": 453,
       "author": "saaaaaam",
       "created": "2026-07-26 17:49:44",
       "created_at": 1785088184000
     },
     {
-      "id": 49055169,
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 440,
-      "author": "Cider9986",
-      "created": "2026-07-26 05:57:22",
-      "created_at": 1785045442000
+      "id": 49070985,
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "score": 383,
+      "author": "vinhnx",
+      "created": "2026-07-27 15:23:45",
+      "created_at": 1785165825000
     }
   ],
   "code": 200,

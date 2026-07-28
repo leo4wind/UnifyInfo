@@ -3,98 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-28T06:17:33.885Z"
+    "lastUpdate": "2026-07-28T10:23:07.477Z"
   },
   "data": [
+    {
+      "id": 49080664,
+      "title": "7.1 Earthquake in Japan",
+      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "score": 217,
+      "author": "krembo",
+      "created": "2026-07-28 07:44:24",
+      "created_at": 1785224664000
+    },
     {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 715,
+      "score": 923,
       "author": "surprisetalk",
       "created": "2026-07-27 22:03:49",
       "created_at": 1785189829000
     },
     {
-      "id": 49078583,
-      "title": "Using an open model feels surprisingly good",
-      "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "score": 197,
-      "author": "msaltz",
-      "created": "2026-07-28 02:37:14",
-      "created_at": 1785206234000
-    },
-    {
-      "id": 49079490,
-      "title": "Neutrino-1 8B",
-      "link": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "score": 26,
-      "author": "handfuloflight",
-      "created": "2026-07-28 04:49:54",
-      "created_at": 1785214194000
+      "id": 49081594,
+      "title": "What Even Are Microservices?",
+      "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "score": 11,
+      "author": "tuxie_",
+      "created": "2026-07-28 09:52:31",
+      "created_at": 1785232351000
     },
     {
       "id": 49078454,
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "link": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 108,
+      "score": 192,
       "author": "ilreb",
       "created": "2026-07-28 02:18:53",
       "created_at": 1785205133000
     },
     {
+      "id": 49081555,
+      "title": "About the security content of macOS Tahoe 26.6",
+      "link": "https://support.apple.com/en-us/128067",
+      "score": 15,
+      "author": "andor",
+      "created": "2026-07-28 09:45:43",
+      "created_at": 1785231943000
+    },
+    {
       "id": 49079727,
       "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
       "link": "https://arsastronomica.com/",
-      "score": 11,
+      "score": 63,
       "author": "sweisman",
       "created": "2026-07-28 05:25:34",
       "created_at": 1785216334000
     },
     {
-      "id": 49079175,
-      "title": "Why do we think we understand the world more than we actually do?",
-      "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-      "score": 30,
-      "author": "rramadass",
-      "created": "2026-07-28 04:00:41",
-      "created_at": 1785211241000
-    },
-    {
       "id": 49076391,
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 221,
+      "score": 294,
       "author": "dhorthy",
       "created": "2026-07-27 22:37:52",
       "created_at": 1785191872000
     },
     {
-      "id": 49041256,
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "link": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 77,
-      "author": "wslh",
-      "created": "2026-07-24 20:35:21",
-      "created_at": 1784925321000
+      "id": 49036068,
+      "title": "How to Survive Boiling Water",
+      "link": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 15,
+      "author": "cainxinth",
+      "created": "2026-07-24 14:19:16",
+      "created_at": 1784902756000
     },
     {
-      "id": 49079454,
-      "title": "PyTorch: A Reference Language",
-      "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "score": 11,
-      "author": "matt_d",
-      "created": "2026-07-28 04:46:00",
-      "created_at": 1785213960000
+      "id": 49077999,
+      "title": "Vehicle Motion Cues",
+      "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "score": 122,
+      "author": "Austin_Conlon",
+      "created": "2026-07-28 01:13:26",
+      "created_at": 1785201206000
     },
     {
-      "id": 49078463,
-      "title": "EYG: A Programming Language for Humans",
-      "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 51,
-      "author": "crowdhailer",
-      "created": "2026-07-28 02:21:37",
-      "created_at": 1785205297000
+      "id": 49078583,
+      "title": "Using an open model feels surprisingly good",
+      "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "score": 282,
+      "author": "msaltz",
+      "created": "2026-07-28 02:37:14",
+      "created_at": 1785206234000
     }
   ],
   "code": 200,
