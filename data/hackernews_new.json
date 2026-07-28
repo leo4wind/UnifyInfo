@@ -3,89 +3,98 @@
     "name": "Hacker News New",
     "description": "英文技术新闻最新",
     "url": "https://60s.viki.moe/v2/hacker-news/new",
-    "lastUpdate": "2026-07-25T12:59:13.922Z"
+    "lastUpdate": "2026-07-28T01:29:04.342Z"
   },
   "data": [
     {
-      "id": 49045159,
-      "title": "Android May Soon Restrict On-Device ADB",
-      "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 400,
-      "author": "shscs911",
-      "created": "2026-07-25 06:57:14",
-      "created_at": 1784962634000
+      "id": 49076057,
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 430,
+      "author": "surprisetalk",
+      "created": "2026-07-27 22:03:49",
+      "created_at": 1785189829000
     },
     {
-      "id": 49038433,
-      "title": "Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1640,
-      "author": "alvis",
-      "created": "2026-07-24 16:57:41",
-      "created_at": 1784912261000
+      "id": 49076391,
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 104,
+      "author": "dhorthy",
+      "created": "2026-07-27 22:37:52",
+      "created_at": 1785191872000
     },
     {
-      "id": 49043724,
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 331,
-      "author": "agnishom",
-      "created": "2026-07-25 01:44:12",
-      "created_at": 1784943852000
+      "id": 49076840,
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "score": 41,
+      "author": "teleforce",
+      "created": "2026-07-27 23:14:19",
+      "created_at": 1785194059000
     },
     {
-      "id": 49010993,
-      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "link": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "score": 92,
-      "author": "g0xA52A2A",
-      "created": "2026-07-22 18:09:26",
-      "created_at": 1784743766000
+      "id": 49076900,
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 34,
+      "author": "zdw",
+      "created": "2026-07-27 23:19:19",
+      "created_at": 1785194359000
     },
     {
-      "id": 49045040,
-      "title": "ARC-AGI Leaderboard",
-      "link": "https://arcprize.org/leaderboard",
-      "score": 114,
-      "author": "rzk",
-      "created": "2026-07-25 06:31:40",
-      "created_at": 1784961100000
+      "id": 49045474,
+      "title": "Watching Go's new garbage collector move through the heap",
+      "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 169,
+      "author": "matheusmoreira",
+      "created": "2026-07-25 07:55:19",
+      "created_at": 1784966119000
     },
     {
-      "id": 48979836,
-      "title": "NYC Apartment Aquaponics",
-      "link": "https://erinmurphy.dev/projects/project-2/",
-      "score": 91,
-      "author": "mm1119",
-      "created": "2026-07-20 15:00:54",
-      "created_at": 1784559654000
+      "id": 49076791,
+      "title": "C/C++ projects packaged for Zig",
+      "link": "https://github.com/allyourcodebase",
+      "score": 23,
+      "author": "jcbhmr",
+      "created": "2026-07-27 23:09:50",
+      "created_at": 1785193790000
     },
     {
-      "id": 48981665,
-      "title": "GC and Exceptions in Wasmtime",
-      "link": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "score": 120,
-      "author": "phickey",
-      "created": "2026-07-20 17:10:50",
-      "created_at": 1784567450000
+      "id": 49074817,
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "link": "https://www.rise-reforming.com",
+      "score": 60,
+      "author": "george_rose25",
+      "created": "2026-07-27 19:58:22",
+      "created_at": 1785182302000
     },
     {
-      "id": 49014034,
-      "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
-      "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-      "score": 38,
-      "author": "ChrisArchitect",
-      "created": "2026-07-22 21:58:42",
-      "created_at": 1784757522000
+      "id": 49077209,
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "link": "https://arxiv.org/abs/2607.05283",
+      "score": 11,
+      "author": "wglb",
+      "created": "2026-07-27 23:46:15",
+      "created_at": 1785195975000
     },
     {
-      "id": 49044492,
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "score": 85,
-      "author": "walrus01",
-      "created": "2026-07-25 04:20:21",
-      "created_at": 1784953221000
+      "id": 49073942,
+      "title": "Self-contained highly-portable Python distributions",
+      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 111,
+      "author": "jcbhmr",
+      "created": "2026-07-27 18:43:31",
+      "created_at": 1785177811000
+    },
+    {
+      "id": 49020993,
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "link": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "score": 150,
+      "author": "gmays",
+      "created": "2026-07-23 13:08:52",
+      "created_at": 1784812132000
     }
   ],
   "code": 200,

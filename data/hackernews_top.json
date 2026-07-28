@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-27T17:28:47.040Z"
+    "lastUpdate": "2026-07-28T01:29:03.624Z"
   },
   "data": [
     {
-      "id": 49065752,
-      "title": "Kimi-K3 on HuggingFace",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 992,
-      "author": "nateb2022",
-      "created": "2026-07-27 06:18:10",
-      "created_at": 1785133090000
+      "id": 49076057,
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 430,
+      "author": "surprisetalk",
+      "created": "2026-07-27 22:03:49",
+      "created_at": 1785189829000
     },
     {
-      "id": 49072310,
-      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-      "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-      "score": 20,
-      "author": "doener",
-      "created": "2026-07-27 16:49:08",
-      "created_at": 1785170948000
+      "id": 49076391,
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 104,
+      "author": "dhorthy",
+      "created": "2026-07-27 22:37:52",
+      "created_at": 1785191872000
+    },
+    {
+      "id": 49076840,
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "score": 41,
+      "author": "teleforce",
+      "created": "2026-07-27 23:14:19",
+      "created_at": 1785194059000
+    },
+    {
+      "id": 49076900,
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 34,
+      "author": "zdw",
+      "created": "2026-07-27 23:19:19",
+      "created_at": 1785194359000
+    },
+    {
+      "id": 49045474,
+      "title": "Watching Go's new garbage collector move through the heap",
+      "link": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 169,
+      "author": "matheusmoreira",
+      "created": "2026-07-25 07:55:19",
+      "created_at": 1784966119000
+    },
+    {
+      "id": 49076791,
+      "title": "C/C++ projects packaged for Zig",
+      "link": "https://github.com/allyourcodebase",
+      "score": 23,
+      "author": "jcbhmr",
+      "created": "2026-07-27 23:09:50",
+      "created_at": 1785193790000
+    },
+    {
+      "id": 49074817,
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "link": "https://www.rise-reforming.com",
+      "score": 60,
+      "author": "george_rose25",
+      "created": "2026-07-27 19:58:22",
+      "created_at": 1785182302000
+    },
+    {
+      "id": 49077209,
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "link": "https://arxiv.org/abs/2607.05283",
+      "score": 11,
+      "author": "wglb",
+      "created": "2026-07-27 23:46:15",
+      "created_at": 1785195975000
+    },
+    {
+      "id": 49073942,
+      "title": "Self-contained highly-portable Python distributions",
+      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 111,
+      "author": "jcbhmr",
+      "created": "2026-07-27 18:43:31",
+      "created_at": 1785177811000
     },
     {
       "id": 49020993,
       "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
       "link": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "score": 59,
+      "score": 150,
       "author": "gmays",
       "created": "2026-07-23 13:08:52",
       "created_at": 1784812132000
-    },
-    {
-      "id": 49012309,
-      "title": "The Computer That Helped Win World War II",
-      "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "score": 71,
-      "author": "baruchel",
-      "created": "2026-07-22 19:40:44",
-      "created_at": 1784749244000
-    },
-    {
-      "id": 49067301,
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "score": 151,
-      "author": "Ralfp",
-      "created": "2026-07-27 09:58:50",
-      "created_at": 1785146330000
-    },
-    {
-      "id": 49072501,
-      "title": "I Buy Belgian",
-      "link": "https://www.ikkoopbelgisch.be/nl",
-      "score": 8,
-      "author": "mooreds",
-      "created": "2026-07-27 17:01:23",
-      "created_at": 1785171683000
-    },
-    {
-      "id": 49069939,
-      "title": "AI companies spend record sums on Washington lobbying",
-      "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "score": 165,
-      "author": "1vuio0pswjnm7",
-      "created": "2026-07-27 14:07:48",
-      "created_at": 1785161268000
-    },
-    {
-      "id": 49067352,
-      "title": "Libsm64: Mario 64 as a library for use in external game engines",
-      "link": "https://github.com/libsm64/libsm64",
-      "score": 112,
-      "author": "klaussilveira",
-      "created": "2026-07-27 10:04:48",
-      "created_at": 1785146688000
-    },
-    {
-      "id": 49063754,
-      "title": "PGSimCity - How PostgreSQL Works",
-      "link": "https://nikolays.github.io/PGSimCity/",
-      "score": 836,
-      "author": "jonbaer",
-      "created": "2026-07-27 00:19:04",
-      "created_at": 1785111544000
     }
   ],
   "code": 200,
