@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-29T01:29:26.359Z"
+    "lastUpdate": "2026-07-29T13:43:45.644Z"
   },
   "data": [
-    {
-      "id": 49065752,
-      "title": "Kimi-K3 on HuggingFace",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1366,
-      "author": "nateb2022",
-      "created": "2026-07-27 06:18:10",
-      "created_at": 1785133090000
-    },
     {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1148,
+      "score": 1160,
       "author": "surprisetalk",
       "created": "2026-07-27 22:03:49",
       "created_at": 1785189829000
     },
     {
-      "id": 49068738,
-      "title": "AI companies are shredding rare books",
-      "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "score": 782,
-      "author": "anon373839",
-      "created": "2026-07-27 12:32:12",
-      "created_at": 1785155532000
-    },
-    {
       "id": 49080664,
       "title": "7.1 Earthquake in Japan",
       "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 775,
+      "score": 792,
       "author": "krembo",
       "created": "2026-07-28 07:44:24",
       "created_at": 1785224664000
     },
     {
-      "id": 49083314,
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 563,
-      "author": "codebyaditya",
-      "created": "2026-07-28 13:12:01",
-      "created_at": 1785244321000
-    },
-    {
       "id": 49084938,
       "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
       "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "score": 518,
+      "score": 636,
       "author": "doener",
       "created": "2026-07-28 14:58:15",
       "created_at": 1785250695000
     },
     {
-      "id": 49067854,
-      "title": "How is the Bun rewrite in Rust going?",
-      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 488,
-      "author": "tomlockwood",
-      "created": "2026-07-27 11:12:26",
-      "created_at": 1785150746000
-    },
-    {
-      "id": 49076923,
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "score": 422,
-      "author": "softwaredoug",
-      "created": "2026-07-27 23:21:37",
-      "created_at": 1785194497000
+      "id": 49083314,
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 634,
+      "author": "codebyaditya",
+      "created": "2026-07-28 13:12:01",
+      "created_at": 1785244321000
     },
     {
       "id": 49086788,
       "title": "Substack writers, you need a website",
       "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 411,
+      "score": 592,
       "author": "speckx",
       "created": "2026-07-28 16:58:31",
       "created_at": 1785257911000
     },
     {
-      "id": 49070985,
-      "title": "Kimi-K3 Technical Report [pdf]",
-      "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-      "score": 388,
-      "author": "vinhnx",
-      "created": "2026-07-27 15:23:45",
-      "created_at": 1785165825000
+      "id": 49089755,
+      "title": "Codex Security",
+      "link": "https://github.com/openai/codex-security",
+      "score": 545,
+      "author": "bakigul",
+      "created": "2026-07-28 20:52:55",
+      "created_at": 1785271975000
+    },
+    {
+      "id": 49085698,
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 474,
+      "author": "ModelForge",
+      "created": "2026-07-28 15:48:34",
+      "created_at": 1785253714000
+    },
+    {
+      "id": 49076923,
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "score": 429,
+      "author": "softwaredoug",
+      "created": "2026-07-27 23:21:37",
+      "created_at": 1785194497000
+    },
+    {
+      "id": 49076391,
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 397,
+      "author": "dhorthy",
+      "created": "2026-07-27 22:37:52",
+      "created_at": 1785191872000
+    },
+    {
+      "id": 49076116,
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "score": 391,
+      "author": "quantified",
+      "created": "2026-07-27 22:10:15",
+      "created_at": 1785190215000
     }
   ],
   "code": 200,
