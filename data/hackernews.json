@@ -3,50 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-28T20:57:59.393Z"
+    "lastUpdate": "2026-07-29T01:29:26.359Z"
   },
   "data": [
     {
       "id": 49065752,
       "title": "Kimi-K3 on HuggingFace",
       "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1364,
+      "score": 1366,
       "author": "nateb2022",
       "created": "2026-07-27 06:18:10",
       "created_at": 1785133090000
     },
     {
-      "id": 49063022,
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1307,
-      "author": "eecc",
-      "created": "2026-07-26 22:21:41",
-      "created_at": 1785104501000
-    },
-    {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1140,
+      "score": 1148,
       "author": "surprisetalk",
       "created": "2026-07-27 22:03:49",
       "created_at": 1785189829000
     },
     {
-      "id": 49063754,
-      "title": "PGSimCity - How PostgreSQL Works",
-      "link": "https://nikolays.github.io/PGSimCity/",
-      "score": 914,
-      "author": "jonbaer",
-      "created": "2026-07-27 00:19:04",
-      "created_at": 1785111544000
-    },
-    {
       "id": 49068738,
       "title": "AI companies are shredding rare books",
       "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "score": 778,
+      "score": 782,
       "author": "anon373839",
       "created": "2026-07-27 12:32:12",
       "created_at": 1785155532000
@@ -55,43 +37,61 @@
       "id": 49080664,
       "title": "7.1 Earthquake in Japan",
       "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 757,
+      "score": 775,
       "author": "krembo",
       "created": "2026-07-28 07:44:24",
       "created_at": 1785224664000
     },
     {
-      "id": 49067854,
-      "title": "How is the Bun rewrite in Rust going?",
-      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 485,
-      "author": "tomlockwood",
-      "created": "2026-07-27 11:12:26",
-      "created_at": 1785150746000
-    },
-    {
       "id": 49083314,
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 459,
+      "score": 563,
       "author": "codebyaditya",
       "created": "2026-07-28 13:12:01",
       "created_at": 1785244321000
     },
     {
+      "id": 49084938,
+      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+      "score": 518,
+      "author": "doener",
+      "created": "2026-07-28 14:58:15",
+      "created_at": 1785250695000
+    },
+    {
+      "id": 49067854,
+      "title": "How is the Bun rewrite in Rust going?",
+      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 488,
+      "author": "tomlockwood",
+      "created": "2026-07-27 11:12:26",
+      "created_at": 1785150746000
+    },
+    {
       "id": 49076923,
       "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
       "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "score": 414,
+      "score": 422,
       "author": "softwaredoug",
       "created": "2026-07-27 23:21:37",
       "created_at": 1785194497000
     },
     {
+      "id": 49086788,
+      "title": "Substack writers, you need a website",
+      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 411,
+      "author": "speckx",
+      "created": "2026-07-28 16:58:31",
+      "created_at": 1785257911000
+    },
+    {
       "id": 49070985,
       "title": "Kimi-K3 Technical Report [pdf]",
       "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-      "score": 387,
+      "score": 388,
       "author": "vinhnx",
       "created": "2026-07-27 15:23:45",
       "created_at": 1785165825000
