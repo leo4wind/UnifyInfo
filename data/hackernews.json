@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-30T13:25:17.484Z"
+    "lastUpdate": "2026-07-30T20:54:54.335Z"
   },
   "data": [
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "link": "https://github.com/drumih/turbo-fieldfare",
-      "score": 851,
+      "score": 876,
       "author": "gitpusher42",
       "created": "2026-07-29 15:05:43",
       "created_at": 1785337543000
@@ -19,7 +19,7 @@
       "id": 49102774,
       "title": "The coolest use for the Vision Pro",
       "link": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 748,
+      "score": 800,
       "author": "robbiet480",
       "created": "2026-07-29 20:39:40",
       "created_at": 1785357580000
@@ -28,7 +28,7 @@
       "id": 49098965,
       "title": "Superlogical",
       "link": "https://www.superlogical.com/",
-      "score": 735,
+      "score": 756,
       "author": "yan",
       "created": "2026-07-29 15:41:33",
       "created_at": 1785339693000
@@ -37,43 +37,16 @@
       "id": 49095865,
       "title": "KOReader",
       "link": "https://koreader.rocks/",
-      "score": 719,
+      "score": 733,
       "author": "Cider9986",
       "created": "2026-07-29 11:05:08",
       "created_at": 1785323108000
     },
     {
-      "id": 49084938,
-      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "score": 700,
-      "author": "doener",
-      "created": "2026-07-28 14:58:15",
-      "created_at": 1785250695000
-    },
-    {
-      "id": 49083314,
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 653,
-      "author": "codebyaditya",
-      "created": "2026-07-28 13:12:01",
-      "created_at": 1785244321000
-    },
-    {
-      "id": 49086788,
-      "title": "Substack writers, you need a website",
-      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 637,
-      "author": "speckx",
-      "created": "2026-07-28 16:58:31",
-      "created_at": 1785257911000
-    },
-    {
       "id": 49089755,
       "title": "Codex Security",
       "link": "https://github.com/openai/codex-security",
-      "score": 591,
+      "score": 592,
       "author": "bakigul",
       "created": "2026-07-28 20:52:55",
       "created_at": 1785271975000
@@ -82,19 +55,46 @@
       "id": 49103285,
       "title": "AI's top startups are barely publishing their research",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 542,
+      "score": 585,
       "author": "YeGoblynQueenne",
       "created": "2026-07-29 21:25:40",
       "created_at": 1785360340000
     },
     {
-      "id": 49085698,
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 499,
-      "author": "ModelForge",
-      "created": "2026-07-28 15:48:34",
-      "created_at": 1785253714000
+      "id": 49101852,
+      "title": "Kimi K3-256k",
+      "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 483,
+      "author": "monneyboi",
+      "created": "2026-07-29 19:25:33",
+      "created_at": 1785353133000
+    },
+    {
+      "id": 49089500,
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "score": 451,
+      "author": "artninja1988",
+      "created": "2026-07-28 20:28:33",
+      "created_at": 1785270513000
+    },
+    {
+      "id": 49099715,
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 431,
+      "author": "JLO64",
+      "created": "2026-07-29 16:36:59",
+      "created_at": 1785343019000
+    },
+    {
+      "id": 49093434,
+      "title": "User Interfaces of the Demo Scene",
+      "link": "https://www.datagubbe.se/scenegui/",
+      "score": 426,
+      "author": "zdw",
+      "created": "2026-07-29 04:30:36",
+      "created_at": 1785299436000
     }
   ],
   "code": 200,
