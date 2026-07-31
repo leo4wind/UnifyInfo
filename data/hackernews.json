@@ -3,14 +3,14 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-30T20:54:54.335Z"
+    "lastUpdate": "2026-07-31T01:49:12.149Z"
   },
   "data": [
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "link": "https://github.com/drumih/turbo-fieldfare",
-      "score": 876,
+      "score": 883,
       "author": "gitpusher42",
       "created": "2026-07-29 15:05:43",
       "created_at": 1785337543000
@@ -19,16 +19,25 @@
       "id": 49102774,
       "title": "The coolest use for the Vision Pro",
       "link": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 800,
+      "score": 809,
       "author": "robbiet480",
       "created": "2026-07-29 20:39:40",
       "created_at": 1785357580000
     },
     {
+      "id": 49113929,
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 780,
+      "author": "dickfickling",
+      "created": "2026-07-30 18:40:52",
+      "created_at": 1785436852000
+    },
+    {
       "id": 49098965,
       "title": "Superlogical",
       "link": "https://www.superlogical.com/",
-      "score": 756,
+      "score": 758,
       "author": "yan",
       "created": "2026-07-29 15:41:33",
       "created_at": 1785339693000
@@ -37,28 +46,37 @@
       "id": 49095865,
       "title": "KOReader",
       "link": "https://koreader.rocks/",
-      "score": 733,
+      "score": 735,
       "author": "Cider9986",
       "created": "2026-07-29 11:05:08",
       "created_at": 1785323108000
     },
     {
-      "id": 49089755,
-      "title": "Codex Security",
-      "link": "https://github.com/openai/codex-security",
-      "score": 592,
-      "author": "bakigul",
-      "created": "2026-07-28 20:52:55",
-      "created_at": 1785271975000
-    },
-    {
       "id": 49103285,
       "title": "AI's top startups are barely publishing their research",
       "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 585,
+      "score": 593,
       "author": "YeGoblynQueenne",
       "created": "2026-07-29 21:25:40",
       "created_at": 1785360340000
+    },
+    {
+      "id": 49112744,
+      "title": "Read this before you buy that TV streaming stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 563,
+      "author": "speckx",
+      "created": "2026-07-30 17:04:53",
+      "created_at": 1785431093000
+    },
+    {
+      "id": 49112867,
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 493,
+      "author": "tedsanders",
+      "created": "2026-07-30 17:15:51",
+      "created_at": 1785431751000
     },
     {
       "id": 49101852,
@@ -70,31 +88,13 @@
       "created_at": 1785353133000
     },
     {
-      "id": 49089500,
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 451,
-      "author": "artninja1988",
-      "created": "2026-07-28 20:28:33",
-      "created_at": 1785270513000
-    },
-    {
-      "id": 49099715,
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 431,
-      "author": "JLO64",
-      "created": "2026-07-29 16:36:59",
-      "created_at": 1785343019000
-    },
-    {
-      "id": 49093434,
-      "title": "User Interfaces of the Demo Scene",
-      "link": "https://www.datagubbe.se/scenegui/",
-      "score": 426,
-      "author": "zdw",
-      "created": "2026-07-29 04:30:36",
-      "created_at": 1785299436000
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 475,
+      "author": "ai2027",
+      "created": "2026-07-30 15:15:48",
+      "created_at": 1785424548000
     }
   ],
   "code": 200,
