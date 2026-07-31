@@ -3,98 +3,89 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-07-31T06:36:04.493Z"
+    "lastUpdate": "2026-07-31T13:29:42.583Z"
   },
   "data": [
+    {
+      "id": 49120299,
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "score": 153,
+      "author": "theanonymousone",
+      "created": "2026-07-31 07:59:11",
+      "created_at": 1785484751000
+    },
+    {
+      "id": 49121980,
+      "title": "The End of an Era",
+      "link": "https://hughhowey.com/the-end-of-an-era/",
+      "score": 138,
+      "author": "harscoat",
+      "created": "2026-07-31 11:51:46",
+      "created_at": 1785498706000
+    },
     {
       "id": 49118781,
       "title": "The session you cannot take with you",
       "link": "https://earendil.com/posts/session-portability/",
-      "score": 84,
+      "score": 524,
       "author": "apitman",
       "created": "2026-07-31 03:47:59",
       "created_at": 1785469679000
     },
     {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 582,
-      "author": "tomzorz",
-      "created": "2026-07-30 16:26:16",
-      "created_at": 1785428776000
-    },
-    {
       "id": 49119063,
       "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
       "link": "https://github.com/openjdk/jdk/pull/31120",
-      "score": 19,
+      "score": 168,
       "author": "mfiguiere",
       "created": "2026-07-31 04:38:19",
       "created_at": 1785472699000
     },
     {
-      "id": 49114639,
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "link": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 283,
-      "author": "navs",
-      "created": "2026-07-30 19:34:27",
-      "created_at": 1785440067000
+      "id": 49120097,
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 203,
+      "author": "Garbage",
+      "created": "2026-07-31 07:29:22",
+      "created_at": 1785482962000
     },
     {
-      "id": 49077372,
-      "title": "Where USB Memory Sticks are Born (2013)",
-      "link": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-      "score": 27,
-      "author": "jacquesm",
-      "created": "2026-07-27 23:59:37",
-      "created_at": 1785196777000
+      "id": 49051890,
+      "title": "How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
+      "link": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
+      "score": 26,
+      "author": "chirau",
+      "created": "2026-07-25 21:42:31",
+      "created_at": 1785015751000
     },
     {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 529,
-      "author": "ai2027",
-      "created": "2026-07-30 15:15:48",
-      "created_at": 1785424548000
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 706,
+      "author": "tomzorz",
+      "created": "2026-07-30 16:26:16",
+      "created_at": 1785428776000
     },
     {
-      "id": 49116721,
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 152,
-      "author": "volumes94",
-      "created": "2026-07-30 22:33:11",
-      "created_at": 1785450791000
+      "id": 49119559,
+      "title": "DeepSeek-V4-Flash Update",
+      "link": "https://api-docs.deepseek.com/updates/",
+      "score": 411,
+      "author": "dnhkng",
+      "created": "2026-07-31 06:08:36",
+      "created_at": 1785478116000
     },
     {
-      "id": 49119322,
-      "title": "Human Honeypot",
-      "link": "https://human2llm.pages.dev/",
-      "score": 10,
-      "author": "kevin_kraft",
-      "created": "2026-07-31 05:26:13",
-      "created_at": 1785475573000
-    },
-    {
-      "id": 49112744,
-      "title": "Read this before you buy that TV streaming stick",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 671,
-      "author": "speckx",
-      "created": "2026-07-30 17:04:53",
-      "created_at": 1785431093000
-    },
-    {
-      "id": 49118663,
-      "title": "A California aquifer may have crossed the point of no return",
-      "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-      "score": 123,
-      "author": "Jimmc414",
-      "created": "2026-07-31 03:27:36",
-      "created_at": 1785468456000
+      "id": 49119425,
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "link": "https://github.com/mokshablr/gander",
+      "score": 112,
+      "author": "mokshablr",
+      "created": "2026-07-31 05:45:13",
+      "created_at": 1785476713000
     }
   ],
   "code": 200,
