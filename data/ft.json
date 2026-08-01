@@ -3,15 +3,22 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-08-01T09:48:31.220Z"
+    "lastUpdate": "2026-08-01T12:54:40.898Z"
   },
   "items": [
     {
+      "title": "Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis",
+      "link": "https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1",
+      "description": "Prime minister calls for meeting of bloc’s home affairs ministers as tensions over immigration policy mount",
+      "pubDate": "Sat, 01 Aug 2026 11:20:50 GMT",
+      "timestamp": 1785583250000
+    },
+    {
       "title": "Fifa abandons $20bn investment plan after global backlash",
       "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
-      "description": "Gianni Infantino said it was ‘clear’ that stake sale project had created divisions and he hoped to reunite ‘interested parties’",
-      "pubDate": "Sat, 01 Aug 2026 08:44:03 GMT",
-      "timestamp": 1785573843000
+      "description": "Uefa says it has lost confidence in Infantino’s leadership after climbdown",
+      "pubDate": "Sat, 01 Aug 2026 10:03:13 GMT",
+      "timestamp": 1785578593000
     },
     {
       "title": "The week that shook football",
@@ -42,13 +49,6 @@
       "timestamp": 1785556824000
     },
     {
-      "title": "AI’s ‘cookie banner’ moment: EU labels come for the bots",
-      "link": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1",
-      "description": "New regulations require companies to label chatbots, deepfakes and AI-generated marketing material",
-      "pubDate": "Sat, 01 Aug 2026 04:00:05 GMT",
-      "timestamp": 1785556805000
-    },
-    {
       "title": "Trouble at lunchtime as Hong Kong private club spat escalates",
       "link": "https://www.ft.com/content/da564e49-d7bb-48c9-a5d9-b847b596b23e?syn-25a6b1a6=1",
       "description": "Golf and Tennis Academy members unhappy that Carlyle & Co members can now use their exclusive Town Club",
@@ -63,25 +63,11 @@
       "timestamp": 1785539423000
     },
     {
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
-      "description": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency",
-      "pubDate": "Fri, 31 Jul 2026 23:03:56 GMT",
-      "timestamp": 1785539036000
-    },
-    {
       "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
       "link": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
       "description": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
       "pubDate": "Fri, 31 Jul 2026 21:46:17 GMT",
       "timestamp": 1785534377000
-    },
-    {
-      "title": "Google Earth AI tool pulled after spate of fake satellite images",
-      "link": "https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1",
-      "description": "Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents",
-      "pubDate": "Fri, 31 Jul 2026 20:03:13 GMT",
-      "timestamp": 1785528193000
     },
     {
       "title": "How 60,000 people swam to Spanish territory",
@@ -91,5 +77,5 @@
       "timestamp": 1785528162000
     }
   ],
-  "total": 12
+  "total": 10
 }
