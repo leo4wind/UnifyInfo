@@ -3,32 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-07-31T20:52:22.242Z"
+    "lastUpdate": "2026-08-01T09:48:48.674Z"
   },
   "data": [
+    {
+      "id": 49124218,
+      "title": "Elevators",
+      "link": "https://john.fun/elevators",
+      "score": 1297,
+      "author": "Jrh0203",
+      "created": "2026-07-31 15:17:28",
+      "created_at": 1785511048000
+    },
     {
       "id": 49113929,
       "title": "UEFA and its national associations will not participate in FIFA competitions",
       "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "score": 1188,
+      "score": 1212,
       "author": "dickfickling",
       "created": "2026-07-30 18:40:52",
       "created_at": 1785436852000
     },
     {
-      "id": 49102774,
-      "title": "The coolest use for the Vision Pro",
-      "link": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 827,
-      "author": "robbiet480",
-      "created": "2026-07-29 20:39:40",
-      "created_at": 1785357580000
-    },
-    {
       "id": 49112744,
       "title": "Read this before you buy that TV streaming stick",
       "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 787,
+      "score": 797,
       "author": "speckx",
       "created": "2026-07-30 17:04:53",
       "created_at": 1785431093000
@@ -37,7 +37,7 @@
       "id": 49112232,
       "title": "Stacked PRs are now live on GitHub",
       "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 759,
+      "score": 766,
       "author": "tomzorz",
       "created": "2026-07-30 16:26:16",
       "created_at": 1785428776000
@@ -46,25 +46,16 @@
       "id": 49118781,
       "title": "The session you cannot take with you",
       "link": "https://earendil.com/posts/session-portability/",
-      "score": 715,
+      "score": 751,
       "author": "apitman",
       "created": "2026-07-31 03:47:59",
       "created_at": 1785469679000
     },
     {
-      "id": 49124218,
-      "title": "Elevators",
-      "link": "https://john.fun/elevators",
-      "score": 656,
-      "author": "Jrh0203",
-      "created": "2026-07-31 15:17:28",
-      "created_at": 1785511048000
-    },
-    {
       "id": 49119559,
       "title": "DeepSeek-V4-Flash Update",
       "link": "https://api-docs.deepseek.com/updates/",
-      "score": 644,
+      "score": 699,
       "author": "dnhkng",
       "created": "2026-07-31 06:08:36",
       "created_at": 1785478116000
@@ -79,22 +70,31 @@
       "created_at": 1785424548000
     },
     {
-      "id": 49103285,
-      "title": "AI's top startups are barely publishing their research",
-      "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 609,
-      "author": "YeGoblynQueenne",
-      "created": "2026-07-29 21:25:40",
-      "created_at": 1785360340000
-    },
-    {
       "id": 49112867,
       "title": "Advancing the price-performance frontier with GPT‑5.6",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "score": 595,
+      "score": 600,
       "author": "tedsanders",
       "created": "2026-07-30 17:15:51",
       "created_at": 1785431751000
+    },
+    {
+      "id": 49126604,
+      "title": "qm – Multiplayer agent harness for work",
+      "link": "https://github.com/yc-software/qm",
+      "score": 571,
+      "author": "tosh",
+      "created": "2026-07-31 18:04:58",
+      "created_at": 1785521098000
+    },
+    {
+      "id": 49120299,
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "score": 557,
+      "author": "theanonymousone",
+      "created": "2026-07-31 07:59:11",
+      "created_at": 1785484751000
     }
   ],
   "code": 200,
