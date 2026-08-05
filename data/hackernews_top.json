@@ -3,89 +3,98 @@
     "name": "Hacker News Top",
     "description": "英文技术新闻热门",
     "url": "https://60s.viki.moe/v2/hacker-news/top",
-    "lastUpdate": "2026-08-04T17:28:02.485Z"
+    "lastUpdate": "2026-08-05T01:29:56.009Z"
   },
   "data": [
+    {
+      "id": 49176606,
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 108,
+      "author": "spyc",
+      "created": "2026-08-04 23:18:12",
+      "created_at": 1785885492000
+    },
+    {
+      "id": 49176830,
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "link": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 47,
+      "author": "tchalla",
+      "created": "2026-08-04 23:50:52",
+      "created_at": 1785887452000
+    },
+    {
+      "id": 49176038,
+      "title": "Pi's Minimalism Is Its Advantage",
+      "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 82,
+      "author": "luispa",
+      "created": "2026-08-04 22:22:12",
+      "created_at": 1785882132000
+    },
+    {
+      "id": 49174900,
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "link": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 158,
+      "author": "mattsterett",
+      "created": "2026-08-04 20:48:17",
+      "created_at": 1785876497000
+    },
+    {
+      "id": 49171268,
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "link": "https://mistral.ai/news/shieldstral/",
+      "score": 304,
+      "author": "riadsila",
+      "created": "2026-08-04 16:36:05",
+      "created_at": 1785861365000
+    },
+    {
+      "id": 49176055,
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "link": "https://seg6.space/posts/center-div/",
+      "score": 52,
+      "author": "seg6",
+      "created": "2026-08-04 22:24:00",
+      "created_at": 1785882240000
+    },
+    {
+      "id": 49175924,
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "link": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 48,
+      "author": "sourdecor",
+      "created": "2026-08-04 22:09:43",
+      "created_at": 1785881383000
+    },
+    {
+      "id": 49176697,
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 30,
+      "author": "lapcat",
+      "created": "2026-08-04 23:31:46",
+      "created_at": 1785886306000
+    },
+    {
+      "id": 49176644,
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 33,
+      "author": "jchanimal",
+      "created": "2026-08-04 23:22:37",
+      "created_at": 1785885757000
+    },
     {
       "id": 49170165,
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "link": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 186,
+      "score": 460,
       "author": "automatoney",
       "created": "2026-08-04 15:16:22",
       "created_at": 1785856582000
-    },
-    {
-      "id": 49166491,
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "score": 460,
-      "author": "askvictor",
-      "created": "2026-08-04 10:13:13",
-      "created_at": 1785838393000
-    },
-    {
-      "id": 49170915,
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "link": "https://arxiv.org/abs/2602.16763",
-      "score": 26,
-      "author": "doppp",
-      "created": "2026-08-04 16:10:39",
-      "created_at": 1785859839000
-    },
-    {
-      "id": 49166386,
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 280,
-      "author": "zhoutong",
-      "created": "2026-08-04 10:00:55",
-      "created_at": 1785837655000
-    },
-    {
-      "id": 49168886,
-      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
-      "link": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
-      "score": 98,
-      "author": "johnbarron",
-      "created": "2026-08-04 13:43:00",
-      "created_at": 1785850980000
-    },
-    {
-      "id": 49161518,
-      "title": "LLMs reward expertise",
-      "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 1254,
-      "author": "MaxMussio",
-      "created": "2026-08-03 21:13:53",
-      "created_at": 1785791633000
-    },
-    {
-      "id": 49166874,
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "score": 145,
-      "author": "cimi_",
-      "created": "2026-08-04 11:01:37",
-      "created_at": 1785841297000
-    },
-    {
-      "id": 49170479,
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "score": 100,
-      "author": "thewebguyd",
-      "created": "2026-08-04 15:37:42",
-      "created_at": 1785857862000
-    },
-    {
-      "id": 49170001,
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "link": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-      "score": 99,
-      "author": "speckx",
-      "created": "2026-08-04 15:05:33",
-      "created_at": 1785855933000
     }
   ],
   "code": 200,
