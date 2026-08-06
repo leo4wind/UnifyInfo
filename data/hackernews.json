@@ -3,98 +3,98 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-08-05T20:56:17.933Z"
+    "lastUpdate": "2026-08-06T13:39:29.214Z"
   },
   "data": [
     {
       "id": 49173165,
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1581,
+      "score": 1611,
       "author": "jdcampolargo",
       "created": "2026-08-04 18:51:38",
       "created_at": 1785869498000
     },
     {
-      "id": 49161518,
-      "title": "LLMs reward expertise",
-      "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 1380,
-      "author": "MaxMussio",
-      "created": "2026-08-03 21:13:53",
-      "created_at": 1785791633000
+      "id": 49184960,
+      "title": "Discovery Loop",
+      "link": "https://www.discoveryloop.com/",
+      "score": 806,
+      "author": "xtreak29",
+      "created": "2026-08-05 16:19:44",
+      "created_at": 1785946784000
     },
     {
-      "id": 49167113,
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "score": 780,
-      "author": "meysamazad",
-      "created": "2026-08-04 11:30:17",
-      "created_at": 1785843017000
-    },
-    {
-      "id": 49167448,
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 692,
-      "author": "surprisetalk",
-      "created": "2026-08-04 12:01:02",
-      "created_at": 1785844862000
+      "id": 49184755,
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 724,
+      "author": "colesantiago",
+      "created": "2026-08-05 16:05:31",
+      "created_at": 1785945931000
     },
     {
       "id": 49170165,
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "link": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 597,
+      "score": 612,
       "author": "automatoney",
       "created": "2026-08-04 15:16:22",
       "created_at": 1785856582000
     },
     {
+      "id": 49182996,
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "link": "https://blog.cloudflare.com/cloudflare-os/",
+      "score": 594,
+      "author": "speckx",
+      "created": "2026-08-05 13:58:53",
+      "created_at": 1785938333000
+    },
+    {
       "id": 49176038,
       "title": "Pi's Minimalism Is Its Advantage",
       "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 504,
+      "score": 530,
       "author": "luispa",
       "created": "2026-08-04 22:22:12",
       "created_at": 1785882132000
     },
     {
-      "id": 49166491,
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "score": 500,
-      "author": "askvictor",
-      "created": "2026-08-04 10:13:13",
-      "created_at": 1785838393000
-    },
-    {
       "id": 49171268,
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "link": "https://mistral.ai/news/shieldstral/",
-      "score": 471,
+      "score": 479,
       "author": "riadsila",
       "created": "2026-08-04 16:36:05",
       "created_at": 1785861365000
     },
     {
-      "id": 49166202,
-      "title": "FFmpeg 9.0",
-      "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "score": 454,
-      "author": "gyan",
-      "created": "2026-08-04 09:30:33",
-      "created_at": 1785835833000
-    },
-    {
       "id": 49181099,
       "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
       "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "score": 423,
+      "score": 477,
       "author": "dzdt",
       "created": "2026-08-05 11:03:13",
       "created_at": 1785927793000
+    },
+    {
+      "id": 49187256,
+      "title": "Zed DeltaDB",
+      "link": "https://zed.dev/deltadb",
+      "score": 465,
+      "author": "ahamez",
+      "created": "2026-08-05 18:52:54",
+      "created_at": 1785955974000
+    },
+    {
+      "id": 49171656,
+      "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+      "link": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+      "score": 389,
+      "author": "NDlurker",
+      "created": "2026-08-04 17:00:28",
+      "created_at": 1785862828000
     }
   ],
   "code": 200,
