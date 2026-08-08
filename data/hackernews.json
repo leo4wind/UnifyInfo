@@ -3,41 +3,23 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-08-07T16:40:40.814Z"
+    "lastUpdate": "2026-08-08T04:45:29.528Z"
   },
   "data": [
     {
       "id": 49195231,
       "title": "Mario Meets Pareto",
       "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 1112,
+      "score": 1143,
       "author": "theanonymousone",
       "created": "2026-08-06 11:24:53",
       "created_at": 1786015493000
     },
     {
-      "id": 49184960,
-      "title": "Discovery Loop",
-      "link": "https://www.discoveryloop.com/",
-      "score": 933,
-      "author": "xtreak29",
-      "created": "2026-08-05 16:19:44",
-      "created_at": 1785946784000
-    },
-    {
-      "id": 49184755,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 843,
-      "author": "colesantiago",
-      "created": "2026-08-05 16:05:31",
-      "created_at": 1785945931000
-    },
-    {
       "id": 49201970,
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 796,
+      "score": 896,
       "author": "itvision",
       "created": "2026-08-06 20:23:11",
       "created_at": 1786047791000
@@ -46,16 +28,25 @@
       "id": 49208314,
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 762,
+      "score": 862,
       "author": "defrost",
       "created": "2026-08-07 10:28:55",
       "created_at": 1786098535000
     },
     {
+      "id": 49204352,
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 742,
+      "author": "boplicity",
+      "created": "2026-08-07 00:06:28",
+      "created_at": 1786061188000
+    },
+    {
       "id": 49192566,
       "title": "Crime Pays but Botany Doesn't",
       "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 678,
+      "score": 688,
       "author": "DarkContinent",
       "created": "2026-08-06 04:46:35",
       "created_at": 1785991595000
@@ -64,37 +55,46 @@
       "id": 49199346,
       "title": "Taste Is All That's Left",
       "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 588,
+      "score": 656,
       "author": "tsak",
       "created": "2026-08-06 17:01:33",
       "created_at": 1786035693000
     },
     {
-      "id": 49204352,
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 541,
-      "author": "boplicity",
-      "created": "2026-08-07 00:06:28",
-      "created_at": 1786061188000
-    },
-    {
       "id": 49200652,
       "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
       "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "score": 524,
+      "score": 534,
       "author": "apitman",
       "created": "2026-08-06 18:44:49",
       "created_at": 1786041889000
     },
     {
-      "id": 49187256,
-      "title": "Zed DeltaDB",
-      "link": "https://zed.dev/deltadb",
-      "score": 522,
-      "author": "ahamez",
-      "created": "2026-08-05 18:52:54",
-      "created_at": 1785955974000
+      "id": 49214008,
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 527,
+      "author": "tosh",
+      "created": "2026-08-07 17:56:20",
+      "created_at": 1786125380000
+    },
+    {
+      "id": 49209539,
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 507,
+      "author": "RickJWagner",
+      "created": "2026-08-07 12:42:27",
+      "created_at": 1786106547000
+    },
+    {
+      "id": 49198302,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 496,
+      "author": "Footkerchief",
+      "created": "2026-08-06 15:49:38",
+      "created_at": 1786031378000
     }
   ],
   "code": 200,
