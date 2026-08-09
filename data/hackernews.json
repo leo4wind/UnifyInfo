@@ -3,50 +3,32 @@
     "name": "Hacker News",
     "description": "英文技术新闻最佳",
     "url": "https://60s.viki.moe/v2/hacker-news/best",
-    "lastUpdate": "2026-08-09T16:21:22.940Z"
+    "lastUpdate": "2026-08-09T20:19:08.169Z"
   },
   "data": [
     {
       "id": 49222189,
       "title": "“Code was never the hard part” is an insult to all programmers",
       "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "score": 821,
+      "score": 837,
       "author": "senko",
       "created": "2026-08-08 14:32:33",
       "created_at": 1786199553000
     },
     {
-      "id": 49214008,
-      "title": "DeepSeek V4 Flash 0731",
-      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 778,
-      "author": "tosh",
-      "created": "2026-08-07 17:56:20",
-      "created_at": 1786125380000
-    },
-    {
       "id": 49224294,
       "title": "Danish high schoolers will have to verbally defend written assignments",
       "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "score": 599,
+      "score": 609,
       "author": "theanonymousone",
       "created": "2026-08-08 18:09:31",
       "created_at": 1786212571000
     },
     {
-      "id": 49213754,
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 531,
-      "author": "delduca",
-      "created": "2026-08-07 17:36:30",
-      "created_at": 1786124190000
-    },
-    {
       "id": 49223082,
       "title": "Fastmail offers EU data region",
       "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 481,
+      "score": 489,
       "author": "groomlake",
       "created": "2026-08-08 16:04:51",
       "created_at": 1786205091000
@@ -55,16 +37,25 @@
       "id": 49226636,
       "title": "My server is a phone now",
       "link": "https://seg6.space/posts/phone-server/",
-      "score": 438,
+      "score": 473,
       "author": "seg6",
       "created": "2026-08-08 22:49:23",
       "created_at": 1786229363000
     },
     {
+      "id": 49231154,
+      "title": "Mea Culpa – Dark Hours",
+      "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "score": 455,
+      "author": "satvikpendem",
+      "created": "2026-08-09 13:20:43",
+      "created_at": 1786281643000
+    },
+    {
       "id": 49220126,
       "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 427,
+      "score": 432,
       "author": "bhavansig",
       "created": "2026-08-08 09:18:50",
       "created_at": 1786180730000
@@ -73,28 +64,37 @@
       "id": 49221668,
       "title": "_for-sale DNS records",
       "link": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 424,
+      "score": 426,
       "author": "shaunpud",
       "created": "2026-08-08 13:26:51",
       "created_at": 1786195611000
     },
     {
-      "id": 49214098,
-      "title": "Assembly Hall of Shame",
-      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 419,
-      "author": "piotrgrabowski",
-      "created": "2026-08-07 18:01:30",
-      "created_at": 1786125690000
-    },
-    {
       "id": 49220609,
       "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "score": 405,
+      "score": 410,
       "author": "882542F3884314B",
       "created": "2026-08-08 10:57:44",
       "created_at": 1786186664000
+    },
+    {
+      "id": 49217993,
+      "title": "The Nixpkgs core team has disbanded",
+      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "score": 398,
+      "author": "Meleagris",
+      "created": "2026-08-08 01:12:45",
+      "created_at": 1786151565000
+    },
+    {
+      "id": 49218179,
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 372,
+      "author": "wglb",
+      "created": "2026-08-08 01:49:11",
+      "created_at": 1786153751000
     }
   ],
   "code": 200,
