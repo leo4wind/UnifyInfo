@@ -3,36 +3,36 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-08-10T16:41:43.913Z"
+    "lastUpdate": "2026-08-10T20:30:15.235Z"
   },
   "items": [
-    {
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-      "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-      "description": "Apollo, Blackstone and Goldman Sachs are among groups working with the chipmaker to raise capital for data centre boom",
-      "pubDate": "Mon, 10 Aug 2026 16:22:57 GMT",
-      "timestamp": 1786378977000
-    },
-    {
-      "title": "Colombian earthquake kills at least 47",
-      "link": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
-      "description": "7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales",
-      "pubDate": "Mon, 10 Aug 2026 16:19:37 GMT",
-      "timestamp": 1786378777000
-    },
-    {
-      "title": "Shein IPO pitched to investors at sub-$30bn valuation",
-      "link": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
-      "description": "Fast-fashion retailer has suffered a roughly 70% drop in valuation over past four years",
-      "pubDate": "Mon, 10 Aug 2026 14:15:24 GMT",
-      "timestamp": 1786371324000
-    },
     {
       "title": "Yen sinks as effect of US-Japan intervention fades",
       "link": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
       "description": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks",
-      "pubDate": "Mon, 10 Aug 2026 14:01:51 GMT",
-      "timestamp": 1786370511000
+      "pubDate": "Mon, 10 Aug 2026 20:17:16 GMT",
+      "timestamp": 1786393036000
+    },
+    {
+      "title": "Colombian earthquake kills at least 111",
+      "link": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
+      "description": "7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales",
+      "pubDate": "Mon, 10 Aug 2026 19:50:20 GMT",
+      "timestamp": 1786391420000
+    },
+    {
+      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+      "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+      "description": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
+      "pubDate": "Mon, 10 Aug 2026 17:22:31 GMT",
+      "timestamp": 1786382551000
+    },
+    {
+      "title": "Just how big is the hidden leverage of AI hyperscalers?",
+      "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+      "description": "Very",
+      "pubDate": "Mon, 10 Aug 2026 12:27:47 GMT",
+      "timestamp": 1786364867000
     },
     {
       "title": "Trump and the failure of the Fafo doctrine",
@@ -40,6 +40,20 @@
       "description": "The president’s flawed decision-making is finally catching up with him",
       "pubDate": "Mon, 10 Aug 2026 11:51:43 GMT",
       "timestamp": 1786362703000
+    },
+    {
+      "title": "Ukrainian drone strike on oil-refining city in central Russia kills 13",
+      "link": "https://www.ft.com/content/ad0602c3-224f-422c-b052-ff96e2f9054c?syn-25a6b1a6=1",
+      "description": "Death toll one of highest in a single attack by Kyiv since 2022",
+      "pubDate": "Mon, 10 Aug 2026 11:45:31 GMT",
+      "timestamp": 1786362331000
+    },
+    {
+      "title": "Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models",
+      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1",
+      "description": "Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available",
+      "pubDate": "Mon, 10 Aug 2026 10:00:02 GMT",
+      "timestamp": 1786356002000
     },
     {
       "title": "Hong Kong’s plan to clear rural villages for a new gateway to China",
@@ -63,6 +77,13 @@
       "timestamp": 1786334415000
     },
     {
+      "title": "Putin’s war machine scours the home front for recruits",
+      "link": "https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1",
+      "description": "Moscow turns to raids, pressure and deception to enlist soldiers to fight against Ukraine",
+      "pubDate": "Mon, 10 Aug 2026 04:00:15 GMT",
+      "timestamp": 1786334415000
+    },
+    {
       "title": "China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic",
       "link": "https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1",
       "description": "First scheduled container service between Europe and Asia will significantly reduce voyage times",
@@ -70,5 +91,5 @@
       "timestamp": 1786334407000
     }
   ],
-  "total": 9
+  "total": 12
 }
