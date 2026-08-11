@@ -3,36 +3,120 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-08-11T08:42:41.120Z"
+    "lastUpdate": "2026-08-11T12:39:13.950Z"
   },
   "items": [
     {
-      "title": "Retail Footfall Fell on Lower Tourism, Says Spinneys CEO",
+      "title": "A Dozen Ships Switch Oil Outside Hormuz as Barrels Keep Flowing",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/a-dozen-ships-switch-oil-outside-hormuz-as-barrels-keep-flowing",
+      "description": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function in the face of a recent spate of attacks.",
+      "pubDate": "Tue, 11 Aug 2026 12:17:35 GMT",
+      "timestamp": 1786450655000
+    },
+    {
+      "title": "Bonds Slide Amid Inflation Concerns as Oil Rises on Hormuz Deal Outlook | Bloomberg Brief 08/11/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
+      "description": "Treasuries fall and US equity futures waver as rising oil prices stoke inflation fears. President Trump hardens his stance toward Iran with new demands, clouding the prospect of an immediate agreement",
+      "pubDate": "Tue, 11 Aug 2026 12:10:26 GMT",
+      "timestamp": 1786450226000
+    },
+    {
+      "title": "US Stock Futures Rise as Oil Erases Gains on Iran Optimism",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism",
+      "description": "US stock futures are slightly up before the bell on Tuesday as oil erased an earlier advance while traders await key inflation data for guidance on Federal Reserve interest-rate policy.",
+      "pubDate": "Tue, 11 Aug 2026 12:10:15 GMT",
+      "timestamp": 1786450215000
+    },
+    {
+      "title": "Fed to Take Wait-and-See Stance on Rates: Laura Cooper",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/fed-to-take-wait-and-see-stance-on-rates-laura-cooper-video",
+      "description": "Laura Cooper, Nuveen Global Investment Strategist, joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief\" to discuss the rise in real yields and the case for the Federal Reserve's policy tightening. (Sou",
+      "pubDate": "Tue, 11 Aug 2026 11:56:39 GMT",
+      "timestamp": 1786449399000
+    },
+    {
+      "title": "IHG Sees Positive Momentum Continuing in Second Half",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/ihg-sees-positive-momentum-continuing-in-second-half",
+      "description": "Elie Maalouf, chief executive officer at InterContinental Hotels Group Plc, discusses the hotel group's first-half performance, factors contributing to demand and the outlook for the second half. \"The",
+      "pubDate": "Tue, 11 Aug 2026 11:50:31 GMT",
+      "timestamp": 1786449031000
+    },
+    {
+      "title": "Trump’s Anti-Wind Crusade Is Boosting US Gas",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/trump-s-anti-wind-crusade-is-boosting-us-gas",
+      "description": "The government has reached agreements with a string of wind developers to redirect funds toward fossil fuels.",
+      "pubDate": "Tue, 11 Aug 2026 11:43:50 GMT",
+      "timestamp": 1786448630000
+    },
+    {
+      "title": "The Pulse 8/11/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
+      "description": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story",
+      "pubDate": "Tue, 11 Aug 2026 11:16:54 GMT",
+      "timestamp": 1786447014000
+    },
+    {
+      "title": "Colombia Quake Levels Buildings, Sparks Survivor Search",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
+      "description": "A magnitude 7.4 earthquake shook western Colombia on Monday, reducing buildings to rubble, sending residents into the streets and setting off a desperate search for people trapped under the debris. (S",
+      "pubDate": "Tue, 11 Aug 2026 11:12:51 GMT",
+      "timestamp": 1786446771000
+    },
+    {
+      "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
+      "description": "Turkish investment funds are urging authorities to crack down on unusual trading activity that’s sent some stock prices soaring and has put the nation at risk of exclusion from major equity benchmarks",
+      "pubDate": "Tue, 11 Aug 2026 11:05:32 GMT",
+      "timestamp": 1786446332000
+    },
+    {
+      "title": "India’s Small Traders Lose $9.6 Billion Despite Options Curbs",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
+      "description": "Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told ",
+      "pubDate": "Tue, 11 Aug 2026 10:37:26 GMT",
+      "timestamp": 1786444646000
+    },
+    {
+      "title": "Yen Slides Toward 160 per Dollar, Raising Intervention Concerns",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/yen-slides-toward-160-per-dollar-raising-intervention-concerns",
+      "description": "The yen was slightly weaker and approaching a key level against the dollar that could raise speculation Japanese authorities may intervene again to prop up the Japanese currency.",
+      "pubDate": "Tue, 11 Aug 2026 10:03:19 GMT",
+      "timestamp": 1786442599000
+    },
+    {
+      "title": "TPG Agrees to Buy South Korea’s Lotte Rental for $925 Million",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/tpg-agrees-to-buy-south-korea-s-lotte-rental-for-925-million",
+      "description": "TPG Capital has agreed to acquire a 61.2% stake in Lotte Rental Co. for 1.31 trillion won ($925 million), reviving a sale of South Korea’s largest car-rental company months after regulators blocked an",
+      "pubDate": "Tue, 11 Aug 2026 09:57:15 GMT",
+      "timestamp": 1786442235000
+    },
+    {
+      "title": "Europe Is Ticking a Lot of Boxes for Investors Right Now",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/europe-is-ticking-a-lot-of-boxes-for-investors-right-now",
+      "description": "Earnings and economic growth turn out to be surprisingly robust.",
+      "pubDate": "Tue, 11 Aug 2026 09:56:53 GMT",
+      "timestamp": 1786442213000
+    },
+    {
+      "title": "Trump Hardens Stance on Iran, Nvidia Taps Wall Street for $500B | The Opening Trade 8/11/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/the-opening-trade-8-11-2026-video",
+      "description": "US President Donald Trump hardened his stance toward Iran as negotiations to reopen the Strait of Hormuz continue, pronouncing that the Islamic Republic must pay reparations for past attacks. Trump ma",
+      "pubDate": "Tue, 11 Aug 2026 09:50:52 GMT",
+      "timestamp": 1786441852000
+    },
+    {
+      "title": "Adani Lands $800 Million Data Center Loan as US Drops Charges",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/adani-lands-800-million-data-center-loan-as-us-drops-charges",
+      "description": "Indian conglomerate Adani Group has secured a loan of about $800 million from a group of overseas lenders to help fund its push into data centers, according to people familiar with the matter.",
+      "pubDate": "Tue, 11 Aug 2026 09:43:38 GMT",
+      "timestamp": 1786441418000
+    },
+    {
+      "title": "Spinneys Retail Traffic Up After Initial Iran War Hit",
       "link": "https://www.bloomberg.com/news/videos/2026-08-11/retail-footfall-fell-on-lower-tourism-says-spinneys-ceo-video",
-      "description": "Dubai-listed Spinneys reported profit for 2Q of AED90.6 million. The retailer says revenue dipped slightly, hit by regional geopolitical tensions that disrupted supply chains and cut store footfall. S",
+      "description": "Dubai-listed Spinneys reported profit for 2Q of AED 90.6 million. The retailer says revenue dipped slightly, hit by regional geopolitical tensions that disrupted supply chains and cut store traffic. S",
       "pubDate": "Tue, 11 Aug 2026 08:04:39 GMT",
       "timestamp": 1786435479000
-    },
-    {
-      "title": "AI Boom Helps Singapore Shake Off Iran War Stress | Insight with Haslinda Amin 8/11/2026",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/insight-with-haslinda-amin-08-11-2026-video",
-      "description": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent l",
-      "pubDate": "Tue, 11 Aug 2026 07:42:17 GMT",
-      "timestamp": 1786434137000
-    },
-    {
-      "title": "DayOne Data Centers Is Said to Confidentially File for $5 Billion IPO in US",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/dayone-data-centers-said-to-confidentially-file-for-5-billion-ipo-us",
-      "description": "DayOne Data Centers has confidentially filed for a US initial public offering, according to people familiar with the matter.",
-      "pubDate": "Tue, 11 Aug 2026 07:37:15 GMT",
-      "timestamp": 1786433835000
-    },
-    {
-      "title": "India Equity Fund Flows Ease in July as Small Caps Stay Hot",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-equity-fund-flows-ease-in-july-as-small-caps-stay-hot",
-      "description": "Flows into Indian equity funds moderated in July even as investors continued to pour money into small- and mid-cap strategies amid global headwinds including a spike in oil prices.",
-      "pubDate": "Tue, 11 Aug 2026 07:31:40 GMT",
-      "timestamp": 1786433500000
     },
     {
       "title": "Resilient Europe Turns Into a Winning Bet for Money Managers",
@@ -42,107 +126,23 @@
       "timestamp": 1786433474000
     },
     {
-      "title": "September BOJ Hike May Be Insufficient to Boost Yen, Rabobank Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/september-boj-hike-may-be-insufficient-for-yen-rabobank-video",
-      "description": "\"My gut feeling is they need more,\" says Jane Foley, head of FX strategy at Rabobank, when asked on Bloomberg Television about whether an interest-rate hike by the Bank of Japan at its next policy mee",
-      "pubDate": "Tue, 11 Aug 2026 07:30:54 GMT",
-      "timestamp": 1786433454000
-    },
-    {
-      "title": "Europe Stocks Poised to 'Grind Higher,' BNP Paribas Says",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
-      "description": "Benedicte Lowe, Europe equity derivates strategist at BNP Paribas Markets 360, says it's \"undeniable that the macro story is picking up in Europe,\" and that means \"positive picture for stocks.\" She sp",
-      "pubDate": "Tue, 11 Aug 2026 07:21:25 GMT",
-      "timestamp": 1786432885000
-    },
-    {
-      "title": "Construction Giant L&T Said to Plan India Rare-Earth Magnet Bid",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/construction-giant-l-t-said-to-plan-india-rare-earth-magnet-bid",
-      "description": "Larsen & Toubro Ltd. plans to manufacture rare-earth magnets in India, said people familiar with the matter, as the engineering giant rides a government push to reduce a reliance on imports and loosen",
-      "pubDate": "Tue, 11 Aug 2026 07:09:18 GMT",
-      "timestamp": 1786432158000
-    },
-    {
-      "title": "Wipro’s Nifty Exit Reflects Waning Clout of Indian IT Giants",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/wipro-s-nifty-exit-reflects-waning-clout-of-indian-it-giants",
-      "description": "Wipro Ltd.’s exit from India’s Nifty 50 to make way for exchange operator BSE Ltd. marks more than a benchmark reshuffle. It captures the shift from an outsourcing-led boom to one powered by the growi",
-      "pubDate": "Tue, 11 Aug 2026 06:27:39 GMT",
-      "timestamp": 1786429659000
-    },
-    {
-      "title": "Mercedes Loses Ground in China's Premium Auto Market",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/mercedes-loses-ground-in-china-s-premium-auto-market-video",
-      "description": "After decades of winning over Chinese buyers with its German engineering, Mercedes-Benz Group AG sold only 1,153 units in China in the first half of 2026, a fraction of the more than 80,000 similarly ",
-      "pubDate": "Tue, 11 Aug 2026 06:26:31 GMT",
-      "timestamp": 1786429591000
-    },
-    {
-      "title": "RBA Holds Key Rate Steady at 4.35%",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/rba-holds-key-rate-steady-at-4-35-video",
-      "description": "The RBA holds its key rate at 4.35% in an unanimous decision, wth the central bank saying it will hike further if required. (Source: Bloomberg)",
-      "pubDate": "Tue, 11 Aug 2026 06:17:24 GMT",
-      "timestamp": 1786429044000
-    },
-    {
-      "title": "FTSE 100 Live: Gilts Drop as Oil Rally Revives Inflation Worries",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-08-11/ftse-100-live-pound-gilts-ai-stocks-trump-iran-oil-prices-gold-bonds-what-s-moving-uk-markets-right-now-markets-today-mso8nw1x",
-      "description": "",
-      "pubDate": "Tue, 11 Aug 2026 05:47:34 GMT",
-      "timestamp": 1786427254000
-    },
-    {
-      "title": "Aluminum Extends Rally After Brazilian Plant Cuts Output to 50%",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/aluminum-hits-seven-week-high-as-hormuz-impasse-threatens-supply",
-      "description": "Aluminum extended gains — and touched a seven-week high — after a key alumina producer said it was slashing production, adding to major supply-side disruptions for the metal this year.",
-      "pubDate": "Tue, 11 Aug 2026 05:16:45 GMT",
-      "timestamp": 1786425405000
-    },
-    {
-      "title": "Jharkhand Student Protests Fuel Political Clash",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/jharkhand-student-protests-fuel-political-clash-video",
-      "description": "The BJP's Bengal spokesperson Keya Ghosh discusses student protests over alleged exam irregularities in the Indian state of Jharkhand. She defends the BJP's handling of recent protests in Delhi and ac",
-      "pubDate": "Tue, 11 Aug 2026 05:15:34 GMT",
-      "timestamp": 1786425334000
-    },
-    {
-      "title": "Indonesia Copper Shipments Delayed by Gresik Smelter Outage",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/indonesia-copper-shipments-delayed-by-gresik-smelter-outage",
-      "description": "Copper shipments from Indonesia are suffering delays after the smelter that processes ore from the giant Grasberg mine was halted because of a boiler leak over the weekend.",
-      "pubDate": "Tue, 11 Aug 2026 04:48:53 GMT",
-      "timestamp": 1786423733000
-    },
-    {
-      "title": "Trump Makes New Demands on Iran as Deal Hopes Dim",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/trump-makes-new-demands-on-iran-as-deal-hopes-dim-video",
-      "description": "US President Donald Trump made new demands on Iran, including compensation for people killed and wounded by Iranian actions, and for damages and death in Lebanon, Syria, Yemen, and Gaza.\n(Corrects ful",
-      "pubDate": "Tue, 11 Aug 2026 04:34:59 GMT",
-      "timestamp": 1786422899000
-    },
-    {
-      "title": "Tencent’s WorkBuddy Sparks AI Turnaround Hopes After Stock Rout",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/tencent-s-workbuddy-sparks-ai-turnaround-hopes-after-stock-rout",
-      "description": "Tencent Holdings Ltd.’s early success with WorkBuddy may give the Chinese Internet giant a chance to catch up after lagging peers in the artificial intelligence race for the past few years.",
-      "pubDate": "Tue, 11 Aug 2026 00:11:10 GMT",
-      "timestamp": 1786407070000
-    },
-    {
       "title": "Gold Pulls Back From Two-Month High as Focus Shifts to Inflation",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
-      "description": "Gold fell from a two-month peak ahead of a US inflation report that could provide fresh clues on the Federal Reserve’s appetite for an interest-rate hike.",
+      "description": "Gold fell from a two-month high ahead of a US inflation report that could provide fresh clues on the Federal Reserve’s appetite for an interest-rate hike.",
       "pubDate": "Mon, 10 Aug 2026 23:33:50 GMT",
       "timestamp": 1786404830000
     },
     {
-      "title": "Stocks Churn as Oil Gains Stoke Inflation Concerns: Markets Wrap",
+      "title": "Stocks Climb as Oil Pares Gain on Iran Deal Hopes: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-      "description": "Global stocks posted small moves and government bonds edged lower as a rally in oil prices revived inflation concerns a day before the release of key US consumer price data.",
+      "description": "Stock futures edged higher and Treasuries erased losses as crude oil pared gains on optimism around a possible deal between the US and Iran.",
       "pubDate": "Mon, 10 Aug 2026 22:08:16 GMT",
       "timestamp": 1786399696000
     },
     {
       "title": "Latest Oil Market News and Analysis for Aug. 11",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
-      "description": "Oil extended its recent rebound after President Donald Trump made sweeping new demands on Iran, further clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
+      "description": "Oil erased gains after Pakistan signaled the US and Iran were close to an arrangement that could ease tensions roiling energy markets.",
       "pubDate": "Mon, 10 Aug 2026 22:02:35 GMT",
       "timestamp": 1786399355000
     }
