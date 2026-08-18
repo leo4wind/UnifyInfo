@@ -3,50 +3,113 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-08-18T04:24:14.494Z"
+    "lastUpdate": "2026-08-18T08:22:03.391Z"
   },
   "items": [
     {
-      "title": "Traders Short French Bonds as Fight Over Budget Set to Escalate",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/traders-short-french-bonds-as-fight-over-budget-set-to-escalate",
-      "description": "Investors are turning bearish on French government bonds, as politicians ready for a fight over the 2027 budget before next year’s presidential election.",
-      "pubDate": "Tue, 18 Aug 2026 04:15:00 GMT",
-      "timestamp": 1787026500000
+      "title": "India Weighs Sugar Import Duty Cut to Curb Record Local Prices",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices",
+      "description": "India, the world’s second-largest sugar producer, is considering cutting its import duty on the commodity to help curb domestic prices that recently climbed to a record.",
+      "pubDate": "Tue, 18 Aug 2026 08:00:38 GMT",
+      "timestamp": 1787040038000
     },
     {
-      "title": "Situational Awareness Sold Taiyo Yuden Shares to Citadel, Others",
+      "title": "Germany Is Set to Sell 30-Year Bonds at Highest Yield Since 2011",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/germany-is-set-to-sell-30-year-bonds-at-highest-yield-since-2011",
+      "description": "Germany’s borrowing costs are poised to hit a 15-year high in a major sale of long-dated bonds as investors demand greater compensation for lending to increasingly indebted governments still grappling",
+      "pubDate": "Tue, 18 Aug 2026 07:37:19 GMT",
+      "timestamp": 1787038639000
+    },
+    {
+      "title": "Tanker Stops in Hormuz as Iran Raises Efforts to Control Strait",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/tanker-stops-in-hormuz-as-iran-raises-efforts-to-control-strait",
+      "description": "A fuel tanker trying to enter the Persian Gulf has made an erratic series of turns and come to a halt near Iran’s Qeshm Island, as the country steps up efforts to control the Strait of Hormuz.",
+      "pubDate": "Tue, 18 Aug 2026 07:17:28 GMT",
+      "timestamp": 1787037448000
+    },
+    {
+      "title": "Yield Excitement Reaching Local Extreme?: 3-Minutes MLIV",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-18/yield-excitement-reaching-local-extreme-3-minutes-mliv-video",
+      "description": "Guy Johnson, Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
+      "pubDate": "Tue, 18 Aug 2026 07:07:02 GMT",
+      "timestamp": 1787036822000
+    },
+    {
+      "title": "Rising Yields Threaten to Puncture Asia’s AI-Driven Stock Rally",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/rising-yields-threaten-to-puncture-asia-s-ai-driven-stock-rally",
+      "description": "A rapid climb in Treasury yields is emerging as one of the biggest risks to Asia’s AI-driven stock rally, an uneasy link that highlights technology firms’ vulnerability to elevated borrowing costs.",
+      "pubDate": "Tue, 18 Aug 2026 06:57:33 GMT",
+      "timestamp": 1787036253000
+    },
+    {
+      "title": "US Stock-Index Futures Drop as Bond Yields and Oil Prices Rise",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
+      "description": "US stock-index futures fell as rising bond yields and a spike in oil prices unnerved investors.",
+      "pubDate": "Tue, 18 Aug 2026 06:51:50 GMT",
+      "timestamp": 1787035910000
+    },
+    {
+      "title": "Trump Rejects Iran Truce as War Escalates | Horizons Middle East & Africa 8/18/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-18/horizons-middle-east-africa-8-18-2026-video",
+      "description": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, ",
+      "pubDate": "Tue, 18 Aug 2026 06:47:27 GMT",
+      "timestamp": 1787035647000
+    },
+    {
+      "title": "Ashley Boosts His Real Estate Empire With Harvey Nichols",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-18/ashley-boosts-his-real-estate-empire-with-harvey-nichols-video",
+      "description": "Retail billionaire Mike Ashley's purchase of department store Harvey Nichols, situated in London’s exclusive Knightsbridge district, has given his company one of the best located stores in the UK. A B",
+      "pubDate": "Tue, 18 Aug 2026 06:31:37 GMT",
+      "timestamp": 1787034697000
+    },
+    {
+      "title": "How Vitol Won Exclusive Fuel Deals to Dominate Africa",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-18/how-vitol-won-exclusive-fuel-deals-to-dominate-africa-video",
+      "description": "Exclusive agreements to supply fuel to at least five countries have put Vitol Group, the world’s largest commodity trader, in an unusually powerful position as the dominant supplier to southern and Ea",
+      "pubDate": "Tue, 18 Aug 2026 06:22:17 GMT",
+      "timestamp": 1787034137000
+    },
+    {
+      "title": "Braskem’s Mexico Unit Files for Chapter 11 Bankruptcy in US",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
+      "description": "Mexico’s Braskem Idesa SAPI, a joint venture between Brazil’s Braskem SA and the conglomerate of Mexican tycoon Carlos Slim, has filed for bankruptcy protection as mounting financial strain and a wors",
+      "pubDate": "Tue, 18 Aug 2026 06:19:28 GMT",
+      "timestamp": 1787033968000
+    },
+    {
+      "title": "Bridgewater China Withstands July Rout That Left Quants Reeling",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/bridgewater-china-withstands-july-rout-that-left-quants-reeling",
+      "description": "Macro hedge funds in China including Bridgewater Associates LP’s local unit emerged from the July selloff bruised but not defeated, holding on to their annual gains after a wild stock market selloff t",
+      "pubDate": "Tue, 18 Aug 2026 06:11:06 GMT",
+      "timestamp": 1787033466000
+    },
+    {
+      "title": "AI Boom, Debt Surge Fuel Long Bond Pain | Insight with Haslinda Amin 8/18/2026",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-18/insight-with-haslinda-amin-8-18-2026-video",
+      "description": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent l",
+      "pubDate": "Tue, 18 Aug 2026 06:01:48 GMT",
+      "timestamp": 1787032908000
+    },
+    {
+      "title": "Bond Slump Sends Long-Term Debt Costs to Highest in Decades",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+      "description": "Longer-maturity bonds are at the epicenter of investor angst about everything from inflation to the debt-laden artificial-intelligence boom — and governments are paying the price.",
+      "pubDate": "Tue, 18 Aug 2026 04:25:11 GMT",
+      "timestamp": 1787027111000
+    },
+    {
+      "title": "Situational Awareness Sold Taiyo Yuden Shares to Citadel",
       "link": "https://www.bloomberg.com/news/articles/2026-08-18/situational-awareness-sold-taiyo-yuden-shares-to-citadel-others-msy5e92j",
       "description": "Situational Awareness sold shares in Japan’s Taiyo Yuden Co. to Citadel and other investors when it offloaded part of its stake this month, it said in a filing.",
       "pubDate": "Tue, 18 Aug 2026 04:13:47 GMT",
       "timestamp": 1787026427000
     },
     {
-      "title": "Congo Ebola Outbreak: Financial Oversight Takes Priority as Distrust Grows",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/congo-ebola-outbreak-financial-oversight-takes-priority-as-distrust-grows",
-      "description": "Ebola is reviving suspicions of profiteering in eastern Democratic Republic of Congo, where distrust over how response money is handled is undermining the community cooperation needed to contain the w",
-      "pubDate": "Tue, 18 Aug 2026 03:54:22 GMT",
-      "timestamp": 1787025262000
-    },
-    {
-      "title": "Chinese Companies Slow FX Sales in July as Yuan Support Fades",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/chinese-companies-slow-fx-sales-in-july-as-yuan-support-fades",
-      "description": "Net sales of foreign exchange by Chinese companies fell to a eight-month low in July, suggesting a key source of support for the yuan is fading.",
-      "pubDate": "Tue, 18 Aug 2026 03:48:01 GMT",
-      "timestamp": 1787024881000
-    },
-    {
       "title": "Japan Five-Year Bond Sale Draws Strongest Demand Since June 2025",
       "link": "https://www.bloomberg.com/news/articles/2026-08-18/japan-five-year-bond-sale-draws-strongest-demand-since-june-2025",
-      "description": "Japan’s five-year government bond auction Tuesday saw the strongest demand since June 2025, as elevated yields underpinned buying.",
+      "description": "Japan’s five-year government bond auction Tuesday saw the strongest demand since June 2025, as a global rout in long-term debt spurred demand for shorter maturities.",
       "pubDate": "Tue, 18 Aug 2026 03:40:20 GMT",
       "timestamp": 1787024420000
-    },
-    {
-      "title": "BHP CEO: China Iron Ore Demand Remains Steady​‌",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-18/bhp-ceo-china-iron-ore-demand-remains-steady-video",
-      "description": "China's iron ore demand remains steady, supported by manufacturing activity, according to BHP CEO Brandon Craig. He also says stronger Indian demand for metallurgical coal should support the market. H",
-      "pubDate": "Tue, 18 Aug 2026 03:39:05 GMT",
-      "timestamp": 1787024345000
     },
     {
       "title": "Indian Rupee, Bond Bets Retreat as Dollar Swap Window Ends Early",
@@ -56,95 +119,32 @@
       "timestamp": 1787023975000
     },
     {
-      "title": "Supply Crunch Grips Copper Market as Key Spread Flares Out",
+      "title": "Worsening Copper Supply Crunch Drives Key Spread Wider",
       "link": "https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out",
       "description": "Copper was headed for another day of turbulent trading after a key indicator of short-term supply tightness on the London Metal Exchange spiked.",
       "pubDate": "Tue, 18 Aug 2026 02:43:45 GMT",
       "timestamp": 1787021025000
     },
     {
-      "title": "Indian IPOs Shine Bright Even as Nifty Loses Momentum",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/indian-ipos-shine-bright-even-as-nifty-loses-momentum",
-      "description": "The primary market is picking up pace, with eight of the past 10 IPOs seeing strong investor demand.",
-      "pubDate": "Tue, 18 Aug 2026 02:36:23 GMT",
-      "timestamp": 1787020583000
+      "title": "Hedge Fund Tax Break Grips Hong Kong as Banks Fear Exodus",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus",
+      "description": "Hong Kong’s move to cut taxes for hedge funds has set off a frenzied wave of maneuvering across the city’s financial sector, with investment banks fearing an exodus of prop traders and one fund even c",
+      "pubDate": "Mon, 17 Aug 2026 23:00:00 GMT",
+      "timestamp": 1787007600000
     },
     {
-      "title": "Yardeni Says Not Pushing Panic Button on Bond Vigilantes Yet",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/yardeni-warns-bond-vigilantes-stirring-as-us-yields-near-5",
-      "description": "There’s no reason to panic on the US bond market just yet, even as investors are showing growing signs of unease over rising government debt, according to Yardeni Research.",
-      "pubDate": "Tue, 18 Aug 2026 01:55:44 GMT",
-      "timestamp": 1787018144000
-    },
-    {
-      "title": "Prabowo’s ‘Pragmatic’ Speech Calms Weary Indonesia Investors",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/prabowo-s-pragmatic-speech-comforts-weary-indonesia-investors",
-      "description": "Indonesian President Prabowo Subianto’s annual speech on Friday was a rare uneventful affair, and that’s exactly what investors wanted to hear. Stocks rallied, while bond yields fell.",
-      "pubDate": "Tue, 18 Aug 2026 01:02:26 GMT",
-      "timestamp": 1787014946000
-    },
-    {
-      "title": "Studio Ghibli’s Deepest Secret Is What Comes Next",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-18/studio-ghibli-s-deepest-secret-is-what-comes-next-video",
-      "description": "After hits like \"Spirited Away\" and \"The Boy and the Heron,\" what’s next for Studio Ghibli? \n\nSohee Kim explains why the next chapter for Japan’s most celebrated animation studio has yet to be drawn. ",
-      "pubDate": "Tue, 18 Aug 2026 00:42:41 GMT",
-      "timestamp": 1787013761000
-    },
-    {
-      "title": "M&G Backs Korean Bonds, Sees Too Many Rate Hikes Priced In",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/m-g-backs-korean-bonds-sees-too-many-rate-hikes-priced-in",
-      "description": "South Korean government bonds are set to rally as the central bank will likely defy market forecasts by slowing the pace of interest rate hikes as inflation pressures ease, according to M&G Investment",
-      "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
-      "timestamp": 1787011200000
-    },
-    {
-      "title": "Gold Steadies Near $4,400 on Reduced Expectations for Rate Hike",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-      "description": "Gold steadied near $4,400 an ounce as reduced prospects for an interest-rate hike by the Federal Reserve weighed on the US dollar, making bullion cheaper for most buyers.",
-      "pubDate": "Mon, 17 Aug 2026 23:20:40 GMT",
-      "timestamp": 1787008840000
-    },
-    {
-      "title": "Asian Bonds Follow Treasuries Lower, Oil Gains: Markets Wrap",
+      "title": "Stocks Fall as Bond Selloff Saps Risk Appetite: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
-      "description": "Asian bonds followed Treasuries lower as concerns over government finances mounted, while higher oil prices added to fears that inflation will quicken. Stocks declined along with futures.",
+      "description": "Stocks fell as long-dated bond yields pushed further into multidecade highs and oil prices extended their climb, draining traders’ appetite for risky assets.",
       "pubDate": "Mon, 17 Aug 2026 22:07:13 GMT",
       "timestamp": 1787004433000
     },
     {
-      "title": "Latest Oil Market News and Analysis for Aug. 18",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
-      "description": "Oil gained as prospects for a near-term resolution of the US-Iran war receded, with a fresh vessel attack reported in the Strait of Hormuz.",
-      "pubDate": "Mon, 17 Aug 2026 22:01:31 GMT",
-      "timestamp": 1787004091000
-    },
-    {
-      "title": "Guggenheim Ties Sink Bonds of $135 Billion Insurer Sammons",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-ties-sink-bonds-of-135-billion-life-insurer-sammons",
-      "description": "Bonds of Sammons Financial Group fell to the lowest since they were issued in June after a report probed the life insurer’s connections to Mark Walter’s Guggenheim Partners.",
-      "pubDate": "Mon, 17 Aug 2026 17:29:26 GMT",
-      "timestamp": 1786987766000
-    },
-    {
-      "title": "Saudis Offer Oil Near Oman in Possible Sign of Shuttling",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
-      "description": "Saudi Arabia is offering to sell oil from off the coast of Oman, a sign that the kingdom may be following the United Arab Emirates in shuttling more barrels through the Strait of Hormuz.",
-      "pubDate": "Mon, 17 Aug 2026 13:38:50 GMT",
-      "timestamp": 1786973930000
-    },
-    {
-      "title": "Hong Kong Exchange Renews CEO Chan’s Contract as IPOs Boom",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom",
-      "description": "Hong Kong Exchanges & Clearing Ltd. has extended Chief Executive Officer Bonnie Chan’s contract for a three-year term from March 2027, as the bourse rides a surge in initial public offerings and stron",
-      "pubDate": "Mon, 17 Aug 2026 12:45:33 GMT",
-      "timestamp": 1786970733000
-    },
-    {
-      "title": "Indian Lenders’ Dollar Bond Sales Hit Record Near $9 Billion",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales",
-      "description": "Indian financial institutions have sold a record of almost $9 billion in dollar bonds this year, as lenders rush to capitalize on a central bank facility that lowers hedging costs on overseas borrowin",
-      "pubDate": "Mon, 17 Aug 2026 06:26:04 GMT",
-      "timestamp": 1786947964000
+      "title": "MCX Plans India Coal, Ore Exchanges to Boost Price Discovery",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
+      "description": "Multi Commodity Exchange of India Ltd. plans to invest as much as 2 billion rupees ($21 million) to start coal and minerals trading platforms as the government opens up the sectors to improve price di",
+      "pubDate": "Mon, 17 Aug 2026 10:37:04 GMT",
+      "timestamp": 1786963024000
     }
   ],
   "total": 20
