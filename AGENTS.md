@@ -241,3 +241,10 @@ The workflow (`.github/workflows/rss-fetch.yml`):
 6. Pushes to main branch
 
 **Manual trigger**: Workflow can be manually triggered via GitHub Actions UI (`workflow_dispatch`)
+
+## Cursor Cloud specific instructions
+
+- This is a **static site with no runtime dependencies**. `package.json` has empty `dependencies`/`devDependencies`, so there is nothing to `npm install` for the app to run. The fetch script uses only Node built-in modules.
+- **Run the app** (dev): serve the repo root as static files, e.g. `python3 -m http.server 8000`, then open `http://localhost:8000/`. A server is required (not `file://`) because the frontend uses `fetch()` to load `/data/*.json`. The committed `data/*.json` files let the UI render fully without any network access.
+- **Test/data fetch**: `npm test` (= `node scripts/fetch-rss.js`) requires outbound internet to external APIs/RSS (e.g. `60s.viki.moe`, RSS feeds). Individual upstream sources sometimes fail (e.g. a source returning HTTP 500); this is an upstream issue, not an environment problem, and the script still completes and updates the other `data/*.json` files.
+- **Lint/build**: there is no linter and no build step (files are served directly).
