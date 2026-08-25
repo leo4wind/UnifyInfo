@@ -3,9 +3,16 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-08-25T08:29:12.267Z"
+    "lastUpdate": "2026-08-25T12:25:05.859Z"
   },
   "items": [
+    {
+      "title": "China warns US it could retaliate over Iran sanctions",
+      "link": "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1",
+      "description": "Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran",
+      "pubDate": "Tue, 25 Aug 2026 10:13:22 GMT",
+      "timestamp": 1787652802000
+    },
     {
       "title": "OnlyFans owner received $700mn in dividends before his death this year",
       "link": "https://www.ft.com/content/8472a7c3-64bb-4526-9aea-9c98c1af0e2a?syn-25a6b1a6=1",
@@ -14,16 +21,9 @@
       "timestamp": 1787637608000
     },
     {
-      "title": "Nvidia employee charged with smuggling advanced chips into China",
-      "link": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
-      "description": "Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers",
-      "pubDate": "Tue, 25 Aug 2026 05:31:11 GMT",
-      "timestamp": 1787635871000
-    },
-    {
-      "title": "US grain farmers pummelled as Iran war triggers surge in costs",
-      "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
-      "description": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections",
+      "title": "Iranians queue for petrol as US blockade bites",
+      "link": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776?syn-25a6b1a6=1",
+      "description": "Long lines form in capital as officials warn that war and inflation are triggering fuel shortages",
       "pubDate": "Tue, 25 Aug 2026 04:00:31 GMT",
       "timestamp": 1787630431000
     },
@@ -42,6 +42,13 @@
       "timestamp": 1787630431000
     },
     {
+      "title": "US grain farmers pummelled as Iran war triggers surge in costs",
+      "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
+      "description": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections",
+      "pubDate": "Tue, 25 Aug 2026 04:00:31 GMT",
+      "timestamp": 1787630431000
+    },
+    {
       "title": "The threats to ‘Swiss Made’",
       "link": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
       "description": "For decades the country’s exporters focused on adding value, but US tariffs and the strong franc are now hitting them harder",
@@ -49,16 +56,16 @@
       "timestamp": 1787630421000
     },
     {
-      "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
-      "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-      "description": "The FT is tracking changes to the cost of living that will affect American voters",
+      "title": "The little-known French company trying to unseat Palantir in Europe",
+      "link": "https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1",
+      "description": "ChapsVision pursues defence and intelligence contracts across the region as governments look to reduce reliance on US technology",
       "pubDate": "Tue, 25 Aug 2026 04:00:09 GMT",
       "timestamp": 1787630409000
     },
     {
-      "title": "The little-known French company trying to unseat Palantir in Europe",
-      "link": "https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1",
-      "description": "ChapsVision pursues defence and intelligence contracts across the region as governments look to reduce reliance on US technology",
+      "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
+      "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+      "description": "The FT is tracking changes to the cost of living that will affect American voters",
       "pubDate": "Tue, 25 Aug 2026 04:00:09 GMT",
       "timestamp": 1787630409000
     },
@@ -70,5 +77,5 @@
       "timestamp": 1787609057000
     }
   ],
-  "total": 9
+  "total": 10
 }
