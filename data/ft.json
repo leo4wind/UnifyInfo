@@ -3,22 +3,43 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-09-10T08:28:50.196Z"
+    "lastUpdate": "2026-09-10T15:26:43.198Z"
   },
   "items": [
     {
-      "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
-      "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-      "description": "Ten-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
-      "pubDate": "Thu, 10 Sep 2026 05:44:06 GMT",
-      "timestamp": 1789019046000
+      "title": "America is losing its captive creditors",
+      "link": "https://www.ft.com/content/a441ea66-329a-4f42-8e50-3ff140958e53",
+      "description": "The US is paying a higher cost to induce more price-sensitive investors to buy Treasuries",
+      "pubDate": "Thu, 10 Sep 2026 15:08:22 GMT",
+      "timestamp": 1789052902000
     },
     {
-      "title": "Must high bond yields crack stocks?",
-      "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
-      "description": "It’s mood first, then maths",
-      "pubDate": "Thu, 10 Sep 2026 05:30:08 GMT",
-      "timestamp": 1789018208000
+      "title": "Global bond sell-off reignites as oil jumps above $105",
+      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "description": "US 30-year borrowing costs hit highs as falling Saudi oil production gives fresh impetus to rally in crude prices",
+      "pubDate": "Thu, 10 Sep 2026 13:44:53 GMT",
+      "timestamp": 1789047893000
+    },
+    {
+      "title": "ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%",
+      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+      "description": "Move is the second increase this year as central bank tries to curb price pressures",
+      "pubDate": "Thu, 10 Sep 2026 12:49:54 GMT",
+      "timestamp": 1789044594000
+    },
+    {
+      "title": "Hugging Face co-founder: What we learnt from OpenAI’s hack",
+      "link": "https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e",
+      "description": "Commercial AI tools failed to defend the platform against the attack — the solution lies in open-weight models",
+      "pubDate": "Thu, 10 Sep 2026 12:25:35 GMT",
+      "timestamp": 1789043135000
+    },
+    {
+      "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
+      "link": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
+      "description": "Law firm is customising open-weight models as alternative to OpenAI and Anthropic",
+      "pubDate": "Thu, 10 Sep 2026 10:00:11 GMT",
+      "timestamp": 1789034411000
     },
     {
       "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms",
@@ -28,32 +49,11 @@
       "timestamp": 1789014068000
     },
     {
-      "title": "Japan must raise rates, central banker says",
-      "link": "https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
-      "description": "Hawkish BoJ comments follow pressure from Scott Bessent and volatility in currency and bond markets",
-      "pubDate": "Thu, 10 Sep 2026 04:07:25 GMT",
-      "timestamp": 1789013245000
-    },
-    {
       "title": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
       "link": "https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
       "description": "LSE professor Ricardo Reis had said the US president’s trade war would hurt American consumers",
       "pubDate": "Thu, 10 Sep 2026 04:00:28 GMT",
       "timestamp": 1789012828000
-    },
-    {
-      "title": "The end of the ‘win-win’ era",
-      "link": "https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1",
-      "description": "In these zero-sum times, the sunny optimism of the post-cold war phrase seems a quaint and distant memory",
-      "pubDate": "Thu, 10 Sep 2026 04:00:28 GMT",
-      "timestamp": 1789012828000
-    },
-    {
-      "title": "How Ukraine’s anti-graft bureau became a ‘Sword of Damocles’",
-      "link": "https://www.ft.com/content/da5e731b-3f93-45f2-a566-1d9db0e1aa5f",
-      "description": "An upstart anti-corruption agency has ruthlessly taken down figures close to wartime President Volodymyr Zelenskyy",
-      "pubDate": "Thu, 10 Sep 2026 04:00:19 GMT",
-      "timestamp": 1789012819000
     },
     {
       "title": "Dorchester to sell Qatari sheikh’s car over unpaid £460,000 bill",
@@ -70,19 +70,12 @@
       "timestamp": 1789012810000
     },
     {
-      "title": "US-China borrowing costs diverge to widest level ever",
-      "link": "https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1",
-      "description": "Rising Treasury yields threaten to accelerate shift in capital flows between world’s two largest economies",
-      "pubDate": "Thu, 10 Sep 2026 03:54:16 GMT",
-      "timestamp": 1789012456000
-    },
-    {
-      "title": "Drone almost struck Zelenskyy’s plane, says Ukraine",
-      "link": "https://www.ft.com/content/4fc1dc2e-f0d7-433c-8e96-bc1e8923dcbc?syn-25a6b1a6=1",
-      "description": "Official travelling with Ukrainian president says they believe a Russian weapon was used",
-      "pubDate": "Wed, 09 Sep 2026 22:09:02 GMT",
-      "timestamp": 1788991742000
+      "title": "Starbucks bets $1bn on coffee house antidote to lonely digital lives",
+      "link": "https://www.ft.com/content/8d387f65-cdd2-4c6d-8897-ff0db5211cc3?syn-25a6b1a6=1",
+      "description": "Easy chairs and rugs are part of chief executive Brian Niccol’s plan to make shops more inviting and boost sales",
+      "pubDate": "Thu, 10 Sep 2026 04:00:10 GMT",
+      "timestamp": 1789012810000
     }
   ],
-  "total": 11
+  "total": 10
 }
