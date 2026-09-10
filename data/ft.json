@@ -3,29 +3,36 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-09-10T18:48:13.815Z"
+    "lastUpdate": "2026-09-10T22:03:16.735Z"
   },
   "items": [
+    {
+      "title": "Oracle reports boost in data centre revenue as AI strategy accelerates",
+      "link": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "description": "Database group spent $28.5bn capex last quarter as it tries to compete with larger rivals",
+      "pubDate": "Thu, 10 Sep 2026 20:51:42 GMT",
+      "timestamp": 1789073502000
+    },
+    {
+      "title": "Global bond sell-off reignites as oil jumps to $108",
+      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "description": "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
+      "pubDate": "Thu, 10 Sep 2026 20:18:08 GMT",
+      "timestamp": 1789071488000
+    },
+    {
+      "title": "Treasury yields hit session highs after Bessent’s buyback operation misses target",
+      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+      "description": "Global bond sell-off reignited by confluence of higher oil prices, sticky US inflation and ECB’s decision to raise interest rates",
+      "pubDate": "Thu, 10 Sep 2026 18:49:15 GMT",
+      "timestamp": 1789066155000
+    },
     {
       "title": "How would Trump’s $5,000 voting payout work?",
       "link": "https://www.ft.com/content/a79892a3-c6c2-4c0b-8c3a-a37e9a32cf4f?syn-25a6b1a6=1",
       "description": "President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign",
       "pubDate": "Thu, 10 Sep 2026 18:26:09 GMT",
       "timestamp": 1789064769000
-    },
-    {
-      "title": "Global bond sell-off reignites as oil jumps to $107",
-      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
-      "description": "US 30-year borrowing costs hit highs as falling Saudi Arabian oil production gives fresh impetus to rally in crude prices",
-      "pubDate": "Thu, 10 Sep 2026 17:47:18 GMT",
-      "timestamp": 1789062438000
-    },
-    {
-      "title": "US sells 30-year debt at highest borrowing cost since 2001 as bond rout intensifies",
-      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
-      "description": "Global bond sell-off reignited by confluence of higher oil prices, sticky US inflation and ECB’s decision to raise interest rates",
-      "pubDate": "Thu, 10 Sep 2026 17:37:43 GMT",
-      "timestamp": 1789061863000
     },
     {
       "title": "Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields",
@@ -35,18 +42,18 @@
       "timestamp": 1789060916000
     },
     {
-      "title": "ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%",
-      "link": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1",
-      "description": "Central bank president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027",
-      "pubDate": "Thu, 10 Sep 2026 16:59:07 GMT",
-      "timestamp": 1789059547000
-    },
-    {
       "title": "Vantage Data Centers seeks $2bn in loans from Pimco and PGIM",
       "link": "https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1",
       "description": "DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure",
       "pubDate": "Thu, 10 Sep 2026 16:04:42 GMT",
       "timestamp": 1789056282000
+    },
+    {
+      "title": "Houthis capture Red Sea port in blow to Saudis",
+      "link": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1",
+      "description": "Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait",
+      "pubDate": "Thu, 10 Sep 2026 14:31:22 GMT",
+      "timestamp": 1789050682000
     },
     {
       "title": "Hugging Face co-founder: What we learnt from OpenAI’s hack",
@@ -56,11 +63,11 @@
       "timestamp": 1789043135000
     },
     {
-      "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
-      "link": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
-      "description": "Law firm is customising open-weight models as alternative to OpenAI and Anthropic",
-      "pubDate": "Thu, 10 Sep 2026 10:00:11 GMT",
-      "timestamp": 1789034411000
+      "title": "Saudi Arabia cuts oil output to lowest this year on Houthi threats",
+      "link": "https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
+      "description": "Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production",
+      "pubDate": "Thu, 10 Sep 2026 12:06:34 GMT",
+      "timestamp": 1789041994000
     },
     {
       "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms",
@@ -91,5 +98,5 @@
       "timestamp": 1789012810000
     }
   ],
-  "total": 12
+  "total": 13
 }
