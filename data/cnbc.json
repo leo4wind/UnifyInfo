@@ -3,50 +3,134 @@
     "name": "CNBC",
     "description": "CNBC 财经新闻",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "lastUpdate": "2026-09-10T15:26:43.309Z"
+    "lastUpdate": "2026-09-10T18:48:13.853Z"
   },
   "items": [
+    {
+      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+      "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+      "description": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
+      "pubDate": "Thu, 10 Sep 2026 18:47:08 GMT",
+      "timestamp": 1789066028000
+    },
+    {
+      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+      "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
+      "pubDate": "Thu, 10 Sep 2026 18:34:16 GMT",
+      "timestamp": 1789065256000
+    },
+    {
+      "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
+      "link": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
+      "description": "The average rate on the 30-year fixed mortgage crossed over 7% for the first time in more than a year, as home prices continue to rise and sales drop.",
+      "pubDate": "Thu, 10 Sep 2026 18:30:08 GMT",
+      "timestamp": 1789065008000
+    },
+    {
+      "title": "Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy",
+      "link": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
+      "description": "Jim's current faves include three tech names and a bank stock.",
+      "pubDate": "Thu, 10 Sep 2026 18:20:12 GMT",
+      "timestamp": 1789064412000
+    },
+    {
+      "title": "Trump&apos;s $1 trillion-plus &apos;dividend&apos; plan meets immediate bipartisan pushback",
+      "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "description": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
+      "pubDate": "Thu, 10 Sep 2026 18:19:16 GMT",
+      "timestamp": 1789064356000
+    },
+    {
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
+      "link": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "description": "Treasury yields moved higher on Thursday as U.S. oil prices hit $100 per barrel.",
+      "pubDate": "Thu, 10 Sep 2026 18:17:48 GMT",
+      "timestamp": 1789064268000
+    },
+    {
+      "title": "Elon Musk&apos;s Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+      "link": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
+      "description": "The Boring Co.'s latest $3 billion financing round was led by the United Arab Emirates.",
+      "pubDate": "Thu, 10 Sep 2026 18:15:59 GMT",
+      "timestamp": 1789064159000
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
+      "pubDate": "Thu, 10 Sep 2026 18:01:08 GMT",
+      "timestamp": 1789063268000
+    },
+    {
+      "title": "Home sales fall in August despite the highest supply in over a decade",
+      "link": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
+      "description": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.",
+      "pubDate": "Thu, 10 Sep 2026 17:57:02 GMT",
+      "timestamp": 1789063022000
+    },
+    {
+      "title": "Humans need to &apos;surf the wave&apos; of AI rather than get swallowed by it, Chesky says at Communacopia",
+      "link": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "description": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
+      "pubDate": "Thu, 10 Sep 2026 17:52:18 GMT",
+      "timestamp": 1789062738000
+    },
+    {
+      "title": "AI is losing its stranglehold on the U.S. stock market. Here&apos;s why",
+      "link": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
+      "description": "A key tech-stock volatility metric options traders have been watching all year is reversing.",
+      "pubDate": "Thu, 10 Sep 2026 17:42:24 GMT",
+      "timestamp": 1789062144000
+    },
+    {
+      "title": "Where investors are finding income outside traditional bonds as brutal drawdown drags on",
+      "link": "https://www.cnbc.com/2026/09/10/income-alternatives-bond-yields-rates.html",
+      "description": "Bond volatility and rising rates have some investors looking beyond traditional bonds for income, from alternative fixed income to stocks and other strategies.",
+      "pubDate": "Thu, 10 Sep 2026 17:18:28 GMT",
+      "timestamp": 1789060708000
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "description": "Traders pushed chances for a rate increase to 70% in morning action.",
+      "pubDate": "Thu, 10 Sep 2026 16:55:17 GMT",
+      "timestamp": 1789059317000
+    },
+    {
+      "title": "Starbucks CEO Brian Niccol says next stage of turnaround focuses on cafe makeovers, customer experience",
+      "link": "https://www.cnbc.com/2026/09/10/starbucks-ceo-brian-niccol-cafe-renovations-customer-service.html",
+      "description": "Starbucks is now two years into its turnaround under CEO Brian Niccol.",
+      "pubDate": "Thu, 10 Sep 2026 16:49:50 GMT",
+      "timestamp": 1789058990000
+    },
+    {
+      "title": "Starbucks is back, CEO Brian Niccol says. Here is what he&apos;s focused on next",
+      "link": "https://www.cnbc.com/2026/09/10/starbucks-is-back-ceo-brian-niccol-says-here-is-what-hes-focused-on-next.html",
+      "description": "Niccol added that he aims to \"finish the job on uplifting all of our coffeehouses.\"",
+      "pubDate": "Thu, 10 Sep 2026 15:55:58 GMT",
+      "timestamp": 1789055758000
+    },
+    {
+      "title": "Kimmel says interview with Senate candidate Talarico won&apos;t air on ABC amid FCC threats",
+      "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+      "description": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
+      "pubDate": "Thu, 10 Sep 2026 15:45:09 GMT",
+      "timestamp": 1789055109000
+    },
+    {
+      "title": "NFL&apos;s Roger Goodell is playing the international long game ahead of league&apos;s Australia debut",
+      "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
+      "description": "Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.",
+      "pubDate": "Thu, 10 Sep 2026 15:39:23 GMT",
+      "timestamp": 1789054763000
+    },
     {
       "title": "Amazon gives OpenAI&apos;s ad business a boost, letting its advertisers into ChatGPT",
       "link": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
       "description": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
       "pubDate": "Thu, 10 Sep 2026 15:25:58 GMT",
       "timestamp": 1789053958000
-    },
-    {
-      "title": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
-      "link": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
-      "description": "Here's a look at what moved our best and worst performers over the past four weeks.",
-      "pubDate": "Thu, 10 Sep 2026 15:00:47 GMT",
-      "timestamp": 1789052447000
-    },
-    {
-      "title": "Where investors are finding income outside traditional bonds as rates rise",
-      "link": "https://www.cnbc.com/2026/09/10/income-alternatives-bond-yields-rates.html",
-      "description": "Bond volatility and rising rates have some investors looking beyond traditional bonds for income, from alternative fixed income to stocks and other strategies.",
-      "pubDate": "Thu, 10 Sep 2026 14:58:08 GMT",
-      "timestamp": 1789052288000
-    },
-    {
-      "title": "Kimmel says interview with Senate candidate Talarico won&apos;t air on ABC amid FCC threats",
-      "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
-      "description": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
-      "pubDate": "Thu, 10 Sep 2026 14:55:39 GMT",
-      "timestamp": 1789052139000
-    },
-    {
-      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-      "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-      "description": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
-      "pubDate": "Thu, 10 Sep 2026 14:52:50 GMT",
-      "timestamp": 1789051970000
-    },
-    {
-      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "description": "Traders pushed chances for a rate increase to 70% in morning action.",
-      "pubDate": "Thu, 10 Sep 2026 14:51:36 GMT",
-      "timestamp": 1789051896000
     },
     {
       "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus&apos; first showcase as CEO",
@@ -56,95 +140,11 @@
       "timestamp": 1789051552000
     },
     {
-      "title": "Trump&apos;s $1 trillion-plus &apos;dividend&apos; plan meets immediate bipartisan pushback",
-      "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-      "description": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
-      "pubDate": "Thu, 10 Sep 2026 14:33:00 GMT",
-      "timestamp": 1789050780000
-    },
-    {
-      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-      "link": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "description": "Treasury yields moved higher on Thursday as U.S. oil prices hit $100 per barrel.",
-      "pubDate": "Thu, 10 Sep 2026 14:26:40 GMT",
-      "timestamp": 1789050400000
-    },
-    {
       "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
       "link": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
       "description": "U.S. President Donald Trump has urged Iran \"not to get cute\" over activity at a suspected nuclear site on Pickaxe Mountain.",
       "pubDate": "Thu, 10 Sep 2026 14:20:15 GMT",
       "timestamp": 1789050015000
-    },
-    {
-      "title": "Home sales fall in August despite the highest supply in over a decade",
-      "link": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
-      "description": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.",
-      "pubDate": "Thu, 10 Sep 2026 14:07:01 GMT",
-      "timestamp": 1789049221000
-    },
-    {
-      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-      "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-      "description": "Its the latest move by the prediction market company to diversify its assets users can trade.",
-      "pubDate": "Thu, 10 Sep 2026 14:00:11 GMT",
-      "timestamp": 1789048811000
-    },
-    {
-      "title": "Starbucks CEO Brian Niccol says next stage of turnaround focuses on cafe makeovers, customer experience",
-      "link": "https://www.cnbc.com/2026/09/10/starbucks-ceo-brian-niccol-cafe-renovations-customer-service.html",
-      "description": "Starbucks is now two years into its turnaround under CEO Brian Niccol.",
-      "pubDate": "Thu, 10 Sep 2026 13:50:22 GMT",
-      "timestamp": 1789048222000
-    },
-    {
-      "title": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
-      "link": "https://www.cnbc.com/2026/09/10/coinbase-clarity-moov-banks-stablecoin.html",
-      "description": "A bill to regulate digital assets is due for a preliminary vote in the U.S. Senate next week.",
-      "pubDate": "Thu, 10 Sep 2026 13:45:17 GMT",
-      "timestamp": 1789047917000
-    },
-    {
-      "title": "Macy&apos;s posts strong results, raises guidance as turnaround begins to take hold",
-      "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-      "description": "Macy's posted strong fiscal second-quarter results on Thursday and raised its full-year guidance.",
-      "pubDate": "Thu, 10 Sep 2026 13:44:20 GMT",
-      "timestamp": 1789047860000
-    },
-    {
-      "title": "NFL Commissioner Roger Goodell says league could rework TV packages in next media deal",
-      "link": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
-      "description": "The NFL has an opt-out clause at the end of the 2029-30 season in which it can resell and redistribute its media rights.",
-      "pubDate": "Thu, 10 Sep 2026 13:30:28 GMT",
-      "timestamp": 1789047028000
-    },
-    {
-      "title": "Wholesale prices rose 0.4% in August, as expected",
-      "link": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-      "description": "The producer price index was expected to rise 0.4% in August, according to the Dow Jones consensus forecast.",
-      "pubDate": "Thu, 10 Sep 2026 13:23:45 GMT",
-      "timestamp": 1789046625000
-    },
-    {
-      "title": "European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth",
-      "link": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-      "description": "The central bank is contending with rising prices, the consequences of the U.S.-Iran war and surging government borrowing costs.",
-      "pubDate": "Thu, 10 Sep 2026 13:19:57 GMT",
-      "timestamp": 1789046397000
-    },
-    {
-      "title": "NFL&apos;s Roger Goodell is playing the international long game ahead of league&apos;s Australia debut",
-      "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
-      "description": "Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.",
-      "pubDate": "Thu, 10 Sep 2026 13:03:30 GMT",
-      "timestamp": 1789045410000
-    },
-    {
-      "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
-      "link": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
-      "description": "The Iran war and the AI boom have created a crowded market for mineral rights and other energy assets.",
-      "pubDate": "Thu, 10 Sep 2026 12:59:11 GMT",
-      "timestamp": 1789045151000
     }
   ],
   "total": 20
