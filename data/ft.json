@@ -3,36 +3,50 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-09-11T08:23:26.835Z"
+    "lastUpdate": "2026-09-11T15:28:45.103Z"
   },
   "items": [
+    {
+      "title": "Warsh under mounting pressure to raise rates as US inflation persists",
+      "link": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+      "description": "Inflation remained stubbornly elevated at 3.4% in August at the end of a week of surging oil prices",
+      "pubDate": "Fri, 11 Sep 2026 14:44:33 GMT",
+      "timestamp": 1789137873000
+    },
+    {
+      "title": "Houthis seize Red Sea islands in lightning offensive",
+      "link": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
+      "description": "Latest advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets",
+      "pubDate": "Fri, 11 Sep 2026 12:26:19 GMT",
+      "timestamp": 1789129579000
+    },
+    {
+      "title": "Scott Bessent fails to break ‘fever’ in US bond market",
+      "link": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
+      "description": "Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn",
+      "pubDate": "Fri, 11 Sep 2026 09:40:33 GMT",
+      "timestamp": 1789119633000
+    },
+    {
+      "title": "Houthis used Anthropic AI to try to build ballistic missiles",
+      "link": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1",
+      "description": "Missile test by group apparently failed, but exposes limits of AI safeguards",
+      "pubDate": "Fri, 11 Sep 2026 09:02:54 GMT",
+      "timestamp": 1789117374000
+    },
+    {
+      "title": "Elliott veteran to lead Citadel’s international equities business",
+      "link": "https://www.ft.com/content/41fb2ff1-fb84-4ae4-8668-59d46842dcdb?syn-25a6b1a6=1",
+      "description": "Ken Griffin’s hedge fund combines divisions as it seeks to deploy more firepower outside US",
+      "pubDate": "Fri, 11 Sep 2026 08:04:04 GMT",
+      "timestamp": 1789113844000
+    },
     {
       "title": "US diesel hits record $6 a gallon on Iran supply shock",
       "link": "https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b?syn-25a6b1a6=1",
       "description": "Surging cost for fuel critical to agriculture and industry stokes price pressures as Americans confront affordability crunch",
       "pubDate": "Fri, 11 Sep 2026 07:56:26 GMT",
       "timestamp": 1789113386000
-    },
-    {
-      "title": "Bond markets stabilise after global sell-off",
-      "link": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
-      "description": "Traders respond to decline in oil prices as markets await crucial US inflation figures",
-      "pubDate": "Fri, 11 Sep 2026 07:05:02 GMT",
-      "timestamp": 1789110302000
-    },
-    {
-      "title": "Bessent’s intervention risks damaging BoJ’s credibility, bankers warn",
-      "link": "https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1",
-      "description": "US Treasury secretary’s claims of insider knowledge could erode market perceptions of Japanese central bank’s independence",
-      "pubDate": "Fri, 11 Sep 2026 05:51:01 GMT",
-      "timestamp": 1789105861000
-    },
-    {
-      "title": "Trump-Vance’s midterm pitch: vote Republican or live with the ‘lunatics’",
-      "link": "https://www.ft.com/content/b1b44515-1825-4164-ac83-659a74c9f553?syn-25a6b1a6=1",
-      "description": "Party far more comfortable raising fear of Democratic alternative than discussing own policies, including Iran war",
-      "pubDate": "Fri, 11 Sep 2026 04:27:35 GMT",
-      "timestamp": 1789100855000
     },
     {
       "title": "Iran and Gulf states to meet in push for Hormuz deal",
@@ -42,13 +56,6 @@
       "timestamp": 1789099229000
     },
     {
-      "title": "Scott Bessent fails to break ‘fever’ in US bond market",
-      "link": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
-      "description": "Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn",
-      "pubDate": "Fri, 11 Sep 2026 04:00:28 GMT",
-      "timestamp": 1789099228000
-    },
-    {
       "title": "Why Warsh is starting to bite back",
       "link": "https://www.ft.com/content/98bfd632-8778-4c48-97a0-ef78b11299cc?syn-25a6b1a6=1",
       "description": "The Fed chair has more political leverage — and skill — than many feared",
@@ -56,7 +63,7 @@
       "timestamp": 1789099218000
     },
     {
-      "title": "America remembers: twenty-five years after 9/11",
+      "title": "9/11 and the America it left behind",
       "link": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
       "description": "The shock that briefly brought a shared sense of purpose has left a complicated legacy",
       "pubDate": "Fri, 11 Sep 2026 04:00:10 GMT",
@@ -77,5 +84,5 @@
       "timestamp": 1789079230000
     }
   ],
-  "total": 10
+  "total": 11
 }
