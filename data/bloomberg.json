@@ -3,92 +3,106 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-09-15T19:21:18.194Z"
+    "lastUpdate": "2026-09-15T22:31:27.046Z"
   },
   "items": [
     {
-      "title": "Venezuelan Oil Opening Is ‘Smoke and Mirrors,’ Pickering Says",
+      "title": "Asian Stocks to Edge Higher as Traders Await Fed: Markets Wrap",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
+      "description": "Asian stocks were poised to edge higher Wednesday, even as surging oil prices and rising bond yields keep traders on edge ahead of the Federal Reserve’s interest-rate decision.",
+      "pubDate": "Tue, 15 Sep 2026 22:11:24 GMT",
+      "timestamp": 1789510284000
+    },
+    {
+      "title": "Oaktree Sees Credit Investors ‘Finally Being Paid to Take Risk’",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/oaktree-sees-credit-investors-finally-being-paid-to-take-risk",
+      "description": "Credit investors are “being paid to take risk, finally,” according to Oaktree Capital Management’s Danielle Poli.",
+      "pubDate": "Tue, 15 Sep 2026 22:02:14 GMT",
+      "timestamp": 1789509734000
+    },
+    {
+      "title": "Blackstone Seeks $8 Billion for Green Infrastructure Credit Fund",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/blackstone-seeks-8-billion-for-green-infrastructure-credit-fund",
+      "description": "Blackstone Inc. is seeking to raise at least $8 billion for its private credit fund focused on renewables and digital infrastructure investments, according to people familiar with the matter.",
+      "pubDate": "Tue, 15 Sep 2026 21:55:24 GMT",
+      "timestamp": 1789509324000
+    },
+    {
+      "title": "Market Attractive But Issues Lurk, Oaktree's Poli Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/market-attractive-but-issues-lurk-oaktree-s-poli-says-video",
+      "description": "Oaktree Portfolio Manager Danielle Poli says markets may continue to see upward pressure on yields because investors do not yet believe inflation will be fully tamed. She speaks with Romaine Bostick o",
+      "pubDate": "Tue, 15 Sep 2026 21:42:22 GMT",
+      "timestamp": 1789508542000
+    },
+    {
+      "title": "Dutch Bros CEO Christine Barone on Expansion & Inflation",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/dutch-bros-ceo-christine-barone-on-expansion-inflation-video",
+      "description": "Christine Barone, President & CEO of Dutch Bros, discussed the company’s aggressive growth strategy, saying the chain aims to reach 2,029 shops by 2029 and expects to add at least 185 locations this y",
+      "pubDate": "Tue, 15 Sep 2026 21:23:45 GMT",
+      "timestamp": 1789507425000
+    },
+    {
+      "title": "Wealthy Clients Want 'Shiny Star' Investments, Says Rick Pitcairn",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/wealthy-clients-want-shiny-star-investments-pitcairn-video",
+      "description": "Rick Pitcairn, chairman and chief global strategist at family office Pitcairn, said its his job to tap the breaks on wealthy clients who want to put too much of their money in 'shiny star' investments",
+      "pubDate": "Tue, 15 Sep 2026 21:12:07 GMT",
+      "timestamp": 1789506727000
+    },
+    {
+      "title": "Beijing-Backed Construction Contractor on HK's Five-Year Plan",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/beijing-backed-construction-contractor-on-hk-s-five-year-plan",
+      "description": "Zhou Zhike, Assistant President at China State Construction International, discusses expectations for Hong Kong's five-year plan and the outlook for opportunities for his company in the Greater Bay Ar",
+      "pubDate": "Tue, 15 Sep 2026 21:10:02 GMT",
+      "timestamp": 1789506602000
+    },
+    {
+      "title": "Retirement Math Difficult for Investors, says BlackRock's Magyera",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/anthropic-deepens-finance-industry-ties-with-blackrock-video",
+      "description": "Jaime Magyera, BlackRock senior managing director and head of US Wealth and head of Retirement, said advisers are using artificial intelligence to help parse increasingly complex capital markets after",
+      "pubDate": "Tue, 15 Sep 2026 20:54:53 GMT",
+      "timestamp": 1789505693000
+    },
+    {
+      "title": "Bond Market’s ‘Extreme’ Short Counts on Fed to Deliver Rate Hike",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/bond-market-s-extreme-short-counts-on-fed-to-deliver-rate-hike",
+      "description": "Bond traders have piled into bearish positions ahead of Wednesday’s Federal Reserve meeting, betting that the Treasury selloff driving yields to their highest levels in over a decade will continue.",
+      "pubDate": "Tue, 15 Sep 2026 20:30:09 GMT",
+      "timestamp": 1789504209000
+    },
+    {
+      "title": "Gold Isn't Driven by US Inflation Says Jan van Eck",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/gold-isn-t-driven-by-us-inflation-says-jan-van-eck-video",
+      "description": "Jan van Eck, CEO of VanEck Funds joined Bloomberg Businessweek Daily from Future Proof to discuss the state of the global economy. He says he isn't worried about the $40 Trillion US debt and that Bess",
+      "pubDate": "Tue, 15 Sep 2026 20:13:07 GMT",
+      "timestamp": 1789503187000
+    },
+    {
+      "title": "Will Be 'Extremely Difficult' For The FOMC To Not Raise Rates Says Richards",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/will-be-difficult-for-fomc-to-not-raise-rates-richards-video",
+      "description": "Bond traders are pricing in a Federal Reserve interest-rate hike Wednesday with a level of conviction that has proven right for decades. Interest-rate swaps tied to Fed meeting dates show traders see ",
+      "pubDate": "Tue, 15 Sep 2026 19:28:46 GMT",
+      "timestamp": 1789500526000
+    },
+    {
+      "title": "Big Pharma Needs New Drugs. China Has Them",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/big-pharma-needs-new-drugs-china-has-them-video",
+      "description": "Big Pharma is betting on China for its next blockbuster drugs — what that shift means for patients and the future of US biotech dominance. (Source: Bloomberg)",
+      "pubDate": "Tue, 15 Sep 2026 19:28:00 GMT",
+      "timestamp": 1789500480000
+    },
+    {
+      "title": "The Iran War Could And Should Be Over Tomorrow Says Blinken",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/iran-war-could-and-should-be-over-tomorrow-says-blinken-video",
+      "description": "Former Secretary of State Antony Blinken joined Balance of Power with Joe Mathieu to discuss rapid AI advancement and whether guardrails should be in place. Blinken said, 'If you've got the wizards te",
+      "pubDate": "Tue, 15 Sep 2026 19:13:29 GMT",
+      "timestamp": 1789499609000
+    },
+    {
+      "title": "Venezuela Oil Opening Is ‘Smoke and Mirrors,’ Pickering Says",
       "link": "https://www.bloomberg.com/news/articles/2026-09-15/venezuelan-oil-opening-is-smoke-and-mirrors-pickering-says",
       "description": "Recent high-profile deals allowing foreign drillers to tap Venezuela’s vast oil reserves have failed to quell lingering concerns about contract sanctity in a nation with a history of nationalization, ",
       "pubDate": "Tue, 15 Sep 2026 17:53:48 GMT",
       "timestamp": 1789494828000
-    },
-    {
-      "title": "History Won’t Help Us Understand Kevin Warsh",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/history-won-t-help-us-understand-kevin-warsh",
-      "description": "Why he might surprise us tomorrow.",
-      "pubDate": "Tue, 15 Sep 2026 17:39:10 GMT",
-      "timestamp": 1789493950000
-    },
-    {
-      "title": "CFTC Probes Voluntary Carbon Credits as Market Scrutiny Grows",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/cftc-probes-voluntary-carbon-credits-as-market-scrutiny-grows",
-      "description": "The US derivatives regulator is conducting a broad probe into the voluntary carbon credit market, an industry that boomed when corporations started pledging to reduce their emissions but has shrunk am",
-      "pubDate": "Tue, 15 Sep 2026 17:34:30 GMT",
-      "timestamp": 1789493670000
-    },
-    {
-      "title": "Bessent Defends Treasury's Bond Market Intervention",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/bessent-defends-treasury-s-bond-market-intervention-video",
-      "description": "US Representative Jim Himes (D-CT) questions US Treasury Secretary Scott Bessent about the Treasury’s recent intervention in the bond market, arguing that the government’s actions distort free markets",
-      "pubDate": "Tue, 15 Sep 2026 17:02:32 GMT",
-      "timestamp": 1789491752000
-    },
-    {
-      "title": "Venezuela Squeezes Banks as Higher Spending Tests Bolivar",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/venezuela-squeezes-banks-as-higher-spending-tests-bolivar",
-      "description": "Venezuela’s central bank is moving to squeeze liquidity in the banking system in a bid to support the bolivar ahead of an expected boost in government spending.",
-      "pubDate": "Tue, 15 Sep 2026 16:43:07 GMT",
-      "timestamp": 1789490587000
-    },
-    {
-      "title": "Maduro Fixer Saab Pleads Guilty in US Money-Laundering Case",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/maduro-fixer-saab-pleads-guilty-in-us-money-laundering-case",
-      "description": "A close financial fixer for ousted Venezuelan President Nicolás Maduro pleaded guilty in Miami to a money laundering charge related to the South American country’s food-import contracts and oil sales ",
-      "pubDate": "Tue, 15 Sep 2026 16:27:43 GMT",
-      "timestamp": 1789489663000
-    },
-    {
-      "title": "Radiant World Group Sues Glencore For $2 Billion, Executive Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/radiant-world-group-sues-glencore-for-2-billion-executive-says",
-      "description": "Radiant World and Sapphire Minmetals have filed a lawsuit against Glencore Plc in Singapore claiming $2 billion in damages, according to a senior executive at the group of companies.",
-      "pubDate": "Tue, 15 Sep 2026 16:24:02 GMT",
-      "timestamp": 1789489442000
-    },
-    {
-      "title": "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/glencore-says-radiant-world-sent-falsified-invoices-to-lenders",
-      "description": "Glencore Plc accused Radiant World and associated companies of sending falsified invoices to lenders — just as a senior executive at the group of traders said they had filed a $2 billion lawsuit again",
-      "pubDate": "Tue, 15 Sep 2026 15:48:13 GMT",
-      "timestamp": 1789487293000
-    },
-    {
-      "title": "AI Will Be Biggest 'Misallocation' of Capital, Says Noble",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/ai-will-be-biggest-reallocation-of-capital-says-noble-video",
-      "description": "The debate over how far, and how fast, artificial intelligence is advancing poses a serious dilemma for tech executives. They’re keen to telegraph their concerns, but having plowed hundreds of billion",
-      "pubDate": "Tue, 15 Sep 2026 15:04:08 GMT",
-      "timestamp": 1789484648000
-    },
-    {
-      "title": "Susquehanna Insider Trading Case Called Into Doubt by Judge",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/judge-casts-doubt-on-susquehanna-suit-alleging-insider-trading",
-      "description": "A federal judge dealt a setback to Susquehanna International Group’s lawsuit claiming it lost tens of millions of dollars to insider trading on a Chinese regulatory crackdown, denying a request to kee",
-      "pubDate": "Tue, 15 Sep 2026 14:58:55 GMT",
-      "timestamp": 1789484335000
-    },
-    {
-      "title": "Dutch to Propose Capital Gains Tax to Break Reform Deadlock",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/dutch-to-propose-capital-gains-tax-in-reform-of-levies-on-wealth",
-      "description": "The Dutch government will propose a capital gains levy next year, bringing the Netherlands in line with most European countries on how they tax wealth.",
-      "pubDate": "Tue, 15 Sep 2026 14:27:28 GMT",
-      "timestamp": 1789482448000
-    },
-    {
-      "title": "Carney Expands Tax Break to Broad Range of Investments",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/carney-expands-business-tax-break-to-broad-range-of-investments",
-      "description": "Prime Minister Mark Carney is expanding the scope of a major investment tax write-off, adding oil and gas pipelines, oil production equipment, mining property and more to the list of assets eligible f",
-      "pubDate": "Tue, 15 Sep 2026 13:01:20 GMT",
-      "timestamp": 1789477280000
     },
     {
       "title": "US Stocks Fall as 10-Year Yield Hits Highest Level Since 2007",
@@ -110,20 +124,6 @@
       "description": "The 10-year US Treasury yield rose to the highest in almost two decades, the latest milestone in a bruising global bond selloff driven by booming capital investment and soaring energy prices that are ",
       "pubDate": "Tue, 15 Sep 2026 05:07:45 GMT",
       "timestamp": 1789448865000
-    },
-    {
-      "title": "Copper Rises as Traders Weigh New Deliveries, Fed Rate Path",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/copper-holds-near-14-000-as-new-deliveries-signal-supply-relief",
-      "description": "Copper advanced as traders weighed easing supply squeeze and bets that the Federal Reserve will raise interest rates for the first time in three years.",
-      "pubDate": "Tue, 15 Sep 2026 02:03:36 GMT",
-      "timestamp": 1789437816000
-    },
-    {
-      "title": "Traxion Gets Tender Offer as Share Liquidity, Price Drops",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/traxion-executive-president-linked-firm-plans-tender-offer-mu20z059",
-      "description": "A company linked to Grupo Traxion’s Executive President Aby Lijtszain Chernizky plans to launch a tender offer for as much as 100% of the Mexican logistics company’s shares, giving investors a chance ",
-      "pubDate": "Tue, 15 Sep 2026 02:00:44 GMT",
-      "timestamp": 1789437644000
     },
     {
       "title": "Gold Wavers Around $4,300 as Traders Await Fed Rate Decision",
