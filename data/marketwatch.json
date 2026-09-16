@@ -3,9 +3,16 @@
     "name": "MarketWatch",
     "description": "MarketWatch 财经新闻",
     "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-    "lastUpdate": "2026-09-16T02:15:33.489Z"
+    "lastUpdate": "2026-09-16T08:55:09.580Z"
   },
   "items": [
+    {
+      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+      "description": "A product conference at software giant Salesforce turned into the battleground on the new debate on whether there should be a slowdown in artificial intelligence.",
+      "pubDate": "Wed, 16 Sep 2026 08:26:00 GMT",
+      "timestamp": 1789547160000
+    },
     {
       "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
       "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
@@ -68,13 +75,6 @@
       "description": "With diesel prices hitting a record $6.27 a gallon, Washington is talking about a maneuver that could ultimately make matters worse.",
       "pubDate": "Tue, 15 Sep 2026 20:36:00 GMT",
       "timestamp": 1789504560000
-    },
-    {
-      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
-      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-      "description": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
-      "pubDate": "Tue, 15 Sep 2026 20:31:00 GMT",
-      "timestamp": 1789504260000
     }
   ],
   "total": 10
