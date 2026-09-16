@@ -3,22 +3,29 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-09-16T15:44:26.221Z"
+    "lastUpdate": "2026-09-16T19:11:27.094Z"
   },
   "items": [
+    {
+      "title": "Trump oil ally Harold Hamm to invest in Venezuela",
+      "link": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
+      "description": "Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro",
+      "pubDate": "Wed, 16 Sep 2026 18:31:15 GMT",
+      "timestamp": 1789583475000
+    },
+    {
+      "title": "Fed raises rates for first time since 2023 in unanimous decision",
+      "link": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+      "description": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
+      "pubDate": "Wed, 16 Sep 2026 18:01:54 GMT",
+      "timestamp": 1789581714000
+    },
     {
       "title": "AI must not outrun safety controls, DeepMind co-founder warns",
       "link": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1",
       "description": "Shane Legg speaks to FT as new DeepMind Institute launches to explore implications of artificial general intelligence, amid growing calls for industry slowdown",
       "pubDate": "Wed, 16 Sep 2026 14:59:57 GMT",
       "timestamp": 1789570797000
-    },
-    {
-      "title": "Anthropic’s mother of all risk factors",
-      "link": "https://www.ft.com/content/29f0dac0-0523-46c4-a573-cd681a69b445",
-      "description": "What to say in your S-1 when your product has a >10% possibility of causing the extinction of humankind",
-      "pubDate": "Wed, 16 Sep 2026 13:27:04 GMT",
-      "timestamp": 1789565224000
     },
     {
       "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
@@ -75,21 +82,7 @@
       "description": "Start-ups are attracting record investments. Some scientists think their timelines are far too optimistic",
       "pubDate": "Wed, 16 Sep 2026 04:00:05 GMT",
       "timestamp": 1789531205000
-    },
-    {
-      "title": "Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown",
-      "link": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
-      "description": "Jensen Huang and Mark Zuckerberg distance themselves from safety proposals from leaders of OpenAI, Anthropic and SpaceX",
-      "pubDate": "Wed, 16 Sep 2026 01:55:23 GMT",
-      "timestamp": 1789523723000
-    },
-    {
-      "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
-      "link": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
-      "description": "Sam Altman’s start-up could capitalise on demand for its technology after new model launches",
-      "pubDate": "Tue, 15 Sep 2026 21:54:39 GMT",
-      "timestamp": 1789509279000
     }
   ],
-  "total": 12
+  "total": 11
 }
