@@ -3,13 +3,90 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-09-15T22:31:27.046Z"
+    "lastUpdate": "2026-09-16T02:15:31.250Z"
   },
   "items": [
     {
-      "title": "Asian Stocks to Edge Higher as Traders Await Fed: Markets Wrap",
+      "title": "HSBC, ICICI Propel India Finance Hub With FX Loans for Diaspora",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/hsbc-icici-propel-india-finance-hub-with-fx-loans-for-diaspora",
+      "description": "HSBC Holdings Plc and ICICI Bank Ltd. in GIFT City have emerged as the biggest lenders to India’s vast diaspora under a special foreign-exchange swap program, signaling the financial hub’s growing rol",
+      "pubDate": "Wed, 16 Sep 2026 01:30:00 GMT",
+      "timestamp": 1789522200000
+    },
+    {
+      "title": "Traders Brace for Fed Hike With Equities Under Pressure",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-16/traders-brace-for-fed-hike-with-equities-under-pressure-video",
+      "description": "Bond traders have piled into bearish positions ahead of Wednesday’s Federal Reserve meeting. Bloomberg's Sunny Bangia and Tom Orlik break down the pressures weighing on equities as traders await the F",
+      "pubDate": "Wed, 16 Sep 2026 00:58:43 GMT",
+      "timestamp": 1789520323000
+    },
+    {
+      "title": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet",
+      "description": "Prospects for an extension to the US-China trade truce are solidifying as the two sides discuss slashing tariffs on goods including American energy and agricultural products ahead of the leaders’ summ",
+      "pubDate": "Wed, 16 Sep 2026 00:53:27 GMT",
+      "timestamp": 1789520007000
+    },
+    {
+      "title": "New Zealand Dairy Farmers Face Profit Squeeze as El Niño Looms",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/new-zealand-dairy-farmers-face-profit-squeeze-as-el-nino-looms",
+      "description": "New Zealand dairy farmers will need to prepare for tighter profit margins in the months ahead if predictions of a very strong El Niño weather pattern prove accurate.",
+      "pubDate": "Wed, 16 Sep 2026 00:50:05 GMT",
+      "timestamp": 1789519805000
+    },
+    {
+      "title": "New Zealand’s World-Beating Sovereign Wealth Fund Returns 14.2%",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/new-zealand-s-world-beating-sovereign-wealth-fund-returns-14-2",
+      "description": "The New Zealand Superannuation Fund, one of the world’s top-performing sovereign wealth funds, returned 14.2% in the year through June, powered by a rally in global equity markets despite being underw",
+      "pubDate": "Wed, 16 Sep 2026 00:24:51 GMT",
+      "timestamp": 1789518291000
+    },
+    {
+      "title": "Shrinking Chinese Fuel Inventories Raise Chance of Export Curbs",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/shrinking-chinese-fuel-inventories-raise-chance-of-export-curbs",
+      "description": "China’s gasoline and diesel inventories are plunging as refiners grapple with a tightening domestic market, raising the chance the government may move to limit fuel exports again.",
+      "pubDate": "Wed, 16 Sep 2026 00:10:17 GMT",
+      "timestamp": 1789517417000
+    },
+    {
+      "title": "Gold Steadies Below $4,300 as Markets Await Fed Rate Decision",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/gold-steadies-below-4-300-as-markets-await-fed-rate-decision",
+      "description": "Gold was steady after a two-day drop as high oil prices continued to fuel inflation concerns and keep interest-rate hike bets a near-certainty ahead of the Federal Reserve’s policy decision later Wedn",
+      "pubDate": "Wed, 16 Sep 2026 00:00:15 GMT",
+      "timestamp": 1789516815000
+    },
+    {
+      "title": "Apollo Gives $585 Million of Financing to The Executive Centre",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/apollo-gives-585-million-of-financing-to-the-executive-centre",
+      "description": "Apollo Global Management has provided $585 million of financing to flexible workspace provider The Executive Centre, according to a statement, in the global asset manager’s largest Asian hybrid deal c",
+      "pubDate": "Wed, 16 Sep 2026 00:00:00 GMT",
+      "timestamp": 1789516800000
+    },
+    {
+      "title": "Japan’s Export Growth Stays Solid as Shipments of Chips Jump",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/japan-s-export-growth-stays-robust-as-shipments-to-us-lead-gains",
+      "description": "Japan’s export growth slowed a tad in August while remaining at an elevated pace, with shipments of semiconductors and chip manufacturing equipment surging.",
+      "pubDate": "Tue, 15 Sep 2026 23:58:06 GMT",
+      "timestamp": 1789516686000
+    },
+    {
+      "title": "Thai Finance Chief Sticks to 2.5% Growth Goal",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-15/thai-finance-chief-sticks-to-2-5-growth-goal-video",
+      "description": "Thai Finance Minister Ekniti Nitithanprapas is sticking with the government’s forecast for 2.5% economic growth this year despite the surge in oil prices. (Source: Bloomberg)",
+      "pubDate": "Tue, 15 Sep 2026 23:05:45 GMT",
+      "timestamp": 1789513545000
+    },
+    {
+      "title": "Fed Seen Hiking Rates in Defiance of Trump: Decision-Day Guide",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/fed-seen-hiking-rates-in-defiance-of-trump-decision-day-guide",
+      "description": "The Federal Reserve is expected to lift interest rates on Wednesday for the first time since 2023 as policymakers lose confidence that inflation will cool sufficiently without at least a nudge from th",
+      "pubDate": "Tue, 15 Sep 2026 23:00:00 GMT",
+      "timestamp": 1789513200000
+    },
+    {
+      "title": "Asian Stocks Steady in Runup to Fed, Oil Declines: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-09-15/asian-stocks-to-edge-higher-as-traders-await-fed-markets-wrap",
-      "description": "Asian stocks were poised to edge higher Wednesday, even as surging oil prices and rising bond yields keep traders on edge ahead of the Federal Reserve’s interest-rate decision.",
+      "description": "Asian stocks steadied after four days of losses as investors held back ahead of the Federal Reserve’s interest-rate decision, with markets expecting its first hike since 2023. Oil declined, supporting",
       "pubDate": "Tue, 15 Sep 2026 22:11:24 GMT",
       "timestamp": 1789510284000
     },
@@ -49,13 +126,6 @@
       "timestamp": 1789506727000
     },
     {
-      "title": "Beijing-Backed Construction Contractor on HK's Five-Year Plan",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/beijing-backed-construction-contractor-on-hk-s-five-year-plan",
-      "description": "Zhou Zhike, Assistant President at China State Construction International, discusses expectations for Hong Kong's five-year plan and the outlook for opportunities for his company in the Greater Bay Ar",
-      "pubDate": "Tue, 15 Sep 2026 21:10:02 GMT",
-      "timestamp": 1789506602000
-    },
-    {
       "title": "Retirement Math Difficult for Investors, says BlackRock's Magyera",
       "link": "https://www.bloomberg.com/news/videos/2026-09-15/anthropic-deepens-finance-industry-ties-with-blackrock-video",
       "description": "Jaime Magyera, BlackRock senior managing director and head of US Wealth and head of Retirement, said advisers are using artificial intelligence to help parse increasingly complex capital markets after",
@@ -65,58 +135,9 @@
     {
       "title": "Bond Market’s ‘Extreme’ Short Counts on Fed to Deliver Rate Hike",
       "link": "https://www.bloomberg.com/news/articles/2026-09-15/bond-market-s-extreme-short-counts-on-fed-to-deliver-rate-hike",
-      "description": "Bond traders have piled into bearish positions ahead of Wednesday’s Federal Reserve meeting, betting that the Treasury selloff driving yields to their highest levels in over a decade will continue.",
+      "description": "Bond traders have piled into bearish positions ahead of Wednesday’s Federal Reserve meeting, betting that the Treasury selloff driving yields to their highest in almost two decades will continue.",
       "pubDate": "Tue, 15 Sep 2026 20:30:09 GMT",
       "timestamp": 1789504209000
-    },
-    {
-      "title": "Gold Isn't Driven by US Inflation Says Jan van Eck",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/gold-isn-t-driven-by-us-inflation-says-jan-van-eck-video",
-      "description": "Jan van Eck, CEO of VanEck Funds joined Bloomberg Businessweek Daily from Future Proof to discuss the state of the global economy. He says he isn't worried about the $40 Trillion US debt and that Bess",
-      "pubDate": "Tue, 15 Sep 2026 20:13:07 GMT",
-      "timestamp": 1789503187000
-    },
-    {
-      "title": "Will Be 'Extremely Difficult' For The FOMC To Not Raise Rates Says Richards",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/will-be-difficult-for-fomc-to-not-raise-rates-richards-video",
-      "description": "Bond traders are pricing in a Federal Reserve interest-rate hike Wednesday with a level of conviction that has proven right for decades. Interest-rate swaps tied to Fed meeting dates show traders see ",
-      "pubDate": "Tue, 15 Sep 2026 19:28:46 GMT",
-      "timestamp": 1789500526000
-    },
-    {
-      "title": "Big Pharma Needs New Drugs. China Has Them",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/big-pharma-needs-new-drugs-china-has-them-video",
-      "description": "Big Pharma is betting on China for its next blockbuster drugs — what that shift means for patients and the future of US biotech dominance. (Source: Bloomberg)",
-      "pubDate": "Tue, 15 Sep 2026 19:28:00 GMT",
-      "timestamp": 1789500480000
-    },
-    {
-      "title": "The Iran War Could And Should Be Over Tomorrow Says Blinken",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-15/iran-war-could-and-should-be-over-tomorrow-says-blinken-video",
-      "description": "Former Secretary of State Antony Blinken joined Balance of Power with Joe Mathieu to discuss rapid AI advancement and whether guardrails should be in place. Blinken said, 'If you've got the wizards te",
-      "pubDate": "Tue, 15 Sep 2026 19:13:29 GMT",
-      "timestamp": 1789499609000
-    },
-    {
-      "title": "Venezuela Oil Opening Is ‘Smoke and Mirrors,’ Pickering Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/venezuelan-oil-opening-is-smoke-and-mirrors-pickering-says",
-      "description": "Recent high-profile deals allowing foreign drillers to tap Venezuela’s vast oil reserves have failed to quell lingering concerns about contract sanctity in a nation with a history of nationalization, ",
-      "pubDate": "Tue, 15 Sep 2026 17:53:48 GMT",
-      "timestamp": 1789494828000
-    },
-    {
-      "title": "US Stocks Fall as 10-Year Yield Hits Highest Level Since 2007",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/us-stock-futures-drop-as-10-year-treasury-yield-passes-5",
-      "description": "US stocks fell on Tuesday after the benchmark Treasury yield touched the highest level since 2007 ahead of a Federal Reserve interest-rate decision on Wednesday, when traders expect an increase.",
-      "pubDate": "Tue, 15 Sep 2026 12:00:15 GMT",
-      "timestamp": 1789473615000
-    },
-    {
-      "title": "Emerging Assets Extend Four-Day Slide as Oil, 5% US Yield Bite",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/emerging-currencies-extend-losses-as-bond-market-stress-builds",
-      "description": "Emerging-market stocks and currencies fell for a fourth session as rising global bond yields and oil prices kept riskier assets under pressure.",
-      "pubDate": "Tue, 15 Sep 2026 10:57:03 GMT",
-      "timestamp": 1789469823000
     },
     {
       "title": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
@@ -124,27 +145,6 @@
       "description": "The 10-year US Treasury yield rose to the highest in almost two decades, the latest milestone in a bruising global bond selloff driven by booming capital investment and soaring energy prices that are ",
       "pubDate": "Tue, 15 Sep 2026 05:07:45 GMT",
       "timestamp": 1789448865000
-    },
-    {
-      "title": "Gold Wavers Around $4,300 as Traders Await Fed Rate Decision",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-14/gold-holds-losses-as-higher-oil-stokes-september-rate-hike-bets",
-      "description": "Gold fluctuated as elevated energy prices fueled inflation concerns and kept interest-rate hike bets alive ahead of this week’s Federal Reserve’s policy decision.",
-      "pubDate": "Mon, 14 Sep 2026 23:49:50 GMT",
-      "timestamp": 1789429790000
-    },
-    {
-      "title": "Stocks Fall in Run-Up to Fed as Yields Stay High: Markets Wrap",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
-      "description": "Wall Street traders refrained from making riskier bets in the countdown to the Federal Reserve decision, with stocks falling as elevated oil prices drove bond yields to multi-year highs.",
-      "pubDate": "Mon, 14 Sep 2026 22:19:06 GMT",
-      "timestamp": 1789424346000
-    },
-    {
-      "title": "Latest Oil Market News and Analysis for Sept. 15",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
-      "description": "Oil jumped, as outages at a key Saudi Arabia pipeline and Libyan oil fields added supply risks to a market already feeling the pinch from barrels lost to the Iran war.",
-      "pubDate": "Mon, 14 Sep 2026 22:04:31 GMT",
-      "timestamp": 1789423471000
     }
   ],
   "total": 20
