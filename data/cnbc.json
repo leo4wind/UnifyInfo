@@ -3,15 +3,57 @@
     "name": "CNBC",
     "description": "CNBC 财经新闻",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "lastUpdate": "2026-09-16T22:27:57.353Z"
+    "lastUpdate": "2026-09-17T02:19:39.446Z"
   },
   "items": [
     {
-      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
+      "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "description": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom’s exports.",
+      "pubDate": "Thu, 17 Sep 2026 02:08:02 GMT",
+      "timestamp": 1789610882000
+    },
+    {
+      "title": "&apos;Hostile act&apos;: Trump threatens EU with tariffs over Canada associate-membership proposal",
+      "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+      "pubDate": "Thu, 17 Sep 2026 00:55:35 GMT",
+      "timestamp": 1789606535000
+    },
+    {
+      "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
+      "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "description": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
+      "pubDate": "Thu, 17 Sep 2026 00:33:41 GMT",
+      "timestamp": 1789605221000
+    },
+    {
+      "title": "House advances bill to rein in AI data center utility costs",
+      "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "description": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+      "pubDate": "Thu, 17 Sep 2026 00:08:01 GMT",
+      "timestamp": 1789603681000
+    },
+    {
+      "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
       "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
       "description": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
-      "pubDate": "Wed, 16 Sep 2026 22:25:22 GMT",
-      "timestamp": 1789597522000
+      "pubDate": "Wed, 16 Sep 2026 23:45:02 GMT",
+      "timestamp": 1789602302000
+    },
+    {
+      "title": "OpenAI reports 6 new instances of &apos;concerning model behavior&apos; since March",
+      "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+      "description": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+      "pubDate": "Wed, 16 Sep 2026 23:05:48 GMT",
+      "timestamp": 1789599948000
+    },
+    {
+      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+      "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+      "pubDate": "Wed, 16 Sep 2026 22:32:18 GMT",
+      "timestamp": 1789597938000
     },
     {
       "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh&apos;s rate hike",
@@ -63,13 +105,6 @@
       "timestamp": 1789589275000
     },
     {
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "description": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-      "pubDate": "Wed, 16 Sep 2026 20:00:36 GMT",
-      "timestamp": 1789588836000
-    },
-    {
       "title": "Anthropic policy chief says AI companies can&apos;t be expected to operate on &apos;honor code&apos;",
       "link": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
       "description": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
@@ -110,41 +145,6 @@
       "description": "The Fed's quarter-point rate hike will impact a range of consumer borrowing and savings costs, including mortgages, credit cards, car loans and deposit rates.",
       "pubDate": "Wed, 16 Sep 2026 19:17:38 GMT",
       "timestamp": 1789586258000
-    },
-    {
-      "title": "Hegseth avoids impeachment vote with early House election recess",
-      "link": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
-      "description": "The House won't take a vote on impeaching Defense Secretary Pete Hegseth after House leaders decided to leave Washington a day earlier than planned.",
-      "pubDate": "Wed, 16 Sep 2026 19:12:33 GMT",
-      "timestamp": 1789585953000
-    },
-    {
-      "title": "Fed delivers its first hike in 3 years. Plus, what&apos;s moving Starbucks and GE Vernova",
-      "link": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "pubDate": "Wed, 16 Sep 2026 19:00:14 GMT",
-      "timestamp": 1789585214000
-    },
-    {
-      "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-      "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-      "description": "American says a minority of its seats now accounts for half of its revenue.",
-      "pubDate": "Wed, 16 Sep 2026 18:33:51 GMT",
-      "timestamp": 1789583631000
-    },
-    {
-      "title": "Here is what changed in the new Fed statement under Warsh",
-      "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
-      "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
-      "pubDate": "Wed, 16 Sep 2026 18:18:54 GMT",
-      "timestamp": 1789582734000
-    },
-    {
-      "title": "Sen. Blumenthal urges AI oversight: &apos;We&apos;re on the verge of losing control&apos;",
-      "link": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
-      "description": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-      "pubDate": "Wed, 16 Sep 2026 18:18:09 GMT",
-      "timestamp": 1789582689000
     }
   ],
   "total": 20
