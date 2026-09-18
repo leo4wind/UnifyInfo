@@ -3,13 +3,83 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-09-17T22:31:08.896Z"
+    "lastUpdate": "2026-09-18T02:05:22.381Z"
   },
   "items": [
     {
-      "title": "Asian Stocks to Gain on Lower Oil, US Bonds Rally: Markets Wrap",
+      "title": "RBA: Firms Starting to Ask If Inflation Coming Back Under 3%",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/rba-firms-starting-to-ask-if-inflation-coming-back-under-3",
+      "description": "Australian businesses are starting to “bubble up” a view that elevated inflation is not coming back down below 3%, Reserve Bank of Australia Governor Michele Bullock told a parliamentary panel on Frid",
+      "pubDate": "Fri, 18 Sep 2026 01:32:20 GMT",
+      "timestamp": 1789695140000
+    },
+    {
+      "title": "Chinese Yuan Hits Strongest Level Since 2022 After PBOC Fixing",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
+      "description": "The yuan climbed to its highest level against the dollar in more than four years, extending an advance underpinned by broad Chinese export strength and support from the central bank.",
+      "pubDate": "Fri, 18 Sep 2026 01:32:12 GMT",
+      "timestamp": 1789695132000
+    },
+    {
+      "title": "Jailed Ex-Malaysian PM Najib’s Bid for Royal Pardon Said to Be Reviewed Friday",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/jailed-ex-malaysian-pm-najib-s-bid-for-royal-pardon-said-to-be-reviewed-friday",
+      "description": "Malaysia’s jailed former premier Najib Razak’s bid for another royal intervention in his corruption conviction linked to the multibillion dollar 1MDB scandal will be considered Friday by the country’s",
+      "pubDate": "Fri, 18 Sep 2026 01:07:52 GMT",
+      "timestamp": 1789693672000
+    },
+    {
+      "title": "El Niño Puts India on Track for Its Driest Monsoon Since 2009",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/el-nino-puts-india-on-track-for-its-driest-monsoon-since-2009",
+      "description": "India is on course for its driest monsoon in 17 years as a strengthening El Niño curbs rainfall, threatening crop yields and raising food-price risks.",
+      "pubDate": "Fri, 18 Sep 2026 00:30:00 GMT",
+      "timestamp": 1789691400000
+    },
+    {
+      "title": "Vietnam Stocks See Early Foreign Inflows as FTSE Upgrade Nears",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/vietnam-stocks-see-early-foreign-inflows-as-ftse-upgrade-nears",
+      "description": "Global funds are dipping back into Vietnamese stocks ahead of their inclusion in FTSE Russell’s emerging markets universe next week.",
+      "pubDate": "Fri, 18 Sep 2026 00:28:51 GMT",
+      "timestamp": 1789691331000
+    },
+    {
+      "title": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/gold-holds-gain-as-lower-oil-and-fed-hike-temper-inflation-fears",
+      "description": "Gold held a gain at the end of a volatile week as the Federal Reserve’s first interest-rate hike since 2023 and lower oil prices helped ease concerns about inflation.",
+      "pubDate": "Fri, 18 Sep 2026 00:15:16 GMT",
+      "timestamp": 1789690516000
+    },
+    {
+      "title": "Citi’s Korea Trading Head Says Buy Won Near 1,400 Per Dollar",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/citi-s-korea-trading-head-says-buy-won-near-1-400-per-dollar",
+      "description": "The won’s recent weakness may be short lived as South Korea’s chip sector bolsters growth, supporting the currency’s recovery against the dollar by year-end, according to a Citigroup Inc. trader.",
+      "pubDate": "Fri, 18 Sep 2026 00:13:25 GMT",
+      "timestamp": 1789690405000
+    },
+    {
+      "title": "China's Gree Eyes Europe Winters for Growth",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-18/china-s-gree-eyes-europe-winters-for-growth-video",
+      "description": "Gree Electric Appliances chairwoman Dong Mingzhu told Bloomberg TV's Avril Hong in a exclusive interview that Europe's cold winters represent the company's next growth opportunity, following record su",
+      "pubDate": "Fri, 18 Sep 2026 00:11:24 GMT",
+      "timestamp": 1789690284000
+    },
+    {
+      "title": "RBA Must Judge If Rates High Enough to Cool Prices, Bullock Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/rba-must-decide-if-rate-sufficient-to-cool-prices-bullock-says",
+      "description": "Australia’s central bank needs to decide later this month whether its benchmark interest rate is at a level sufficient to restrain price pressures and return inflation to target, Governor Michele Bull",
+      "pubDate": "Fri, 18 Sep 2026 00:00:56 GMT",
+      "timestamp": 1789689656000
+    },
+    {
+      "title": "UK Lawmakers Say Thames Creditors Have Been Joyriding Family Car",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-17/uk-lawmakers-say-thames-creditors-have-been-joyriding-family-car",
+      "description": "Thames Water’s senior creditors should be blocked from taking full control over the utility, a group of British lawmakers said Friday.",
+      "pubDate": "Thu, 17 Sep 2026 23:01:00 GMT",
+      "timestamp": 1789686060000
+    },
+    {
+      "title": "Stocks Rise as Oil Declines, Yen Slips Before BOJ: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
-      "description": "Asian stocks and bonds were set to rise, tracking a Wall Street rally as a pullback in oil prices eased inflation concerns and helped revive appetite for risk. The yen was steady ahead of the Bank of ",
+      "description": "Asian stocks and bonds edged up as a pullback in oil prices eased inflation concerns. The yen slipped modestly ahead of the Bank of Japan’s interest-rate decision, with traders expecting a hike.",
       "pubDate": "Thu, 17 Sep 2026 22:14:33 GMT",
       "timestamp": 1789683273000
     },
@@ -63,88 +133,18 @@
       "timestamp": 1789680549000
     },
     {
-      "title": "Jeni’s Splendid Ice Creams Founder on New Fiber Company",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-17/jeni-s-splendid-ice-creams-founder-on-new-fiber-company-video",
-      "description": "Jeni Britton, founder of Jeni’s Splendid Ice Creams and now Founder and CEO of Floura, discussed her shift from ice cream to fiber-based snacks made from produce trim like apple cores, watermelon rind",
-      "pubDate": "Thu, 17 Sep 2026 21:27:52 GMT",
-      "timestamp": 1789680472000
+      "title": "Shareholders Revolt After Crypto Hoarders’ $50 Billion Crash",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-17/shareholder-revolt-hits-crypto-hoarders-after-50-billion-crash",
+      "description": "Investors are ramping up scrutiny of how much crypto hoarders pay their employees, as shareholders nurse losses totaling about $50 billion.",
+      "pubDate": "Thu, 17 Sep 2026 12:00:05 GMT",
+      "timestamp": 1789646405000
     },
     {
-      "title": "Carry Trade Explained: Why the Japanese Yen Is Losing Its Appeal (JPY/USD)",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/carry-trade-explained-why-the-japanese-yen-is-losing-its-appeal-jpy-usd",
-      "description": "For decades, the Japanese yen has been one of the world’s favored currencies for investors looking to borrow cheaply and put that money into assets offering higher returns.",
-      "pubDate": "Thu, 17 Sep 2026 21:21:22 GMT",
-      "timestamp": 1789680082000
-    },
-    {
-      "title": "Saudi Pivots Oil Routes After Pipeline Attack",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-17/saudi-pivots-oil-routes-after-pipeline-attack-video",
-      "description": "Saudi Arabia is ramping up prompt sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows to its Red Sea coast. Th",
-      "pubDate": "Thu, 17 Sep 2026 21:20:21 GMT",
-      "timestamp": 1789680021000
-    },
-    {
-      "title": "Japan’s Retail Bond Boom Offers New Avenue for Fiscal Funding",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/japan-s-retail-bond-boom-offers-new-avenue-for-fiscal-funding",
-      "description": "Japan’s rising yields are drawing record demand for retail government bonds, offering a potential new source of funding just as policymakers seek to contain borrowing costs and reduce market supply.",
-      "pubDate": "Thu, 17 Sep 2026 21:00:00 GMT",
-      "timestamp": 1789678800000
-    },
-    {
-      "title": "Suspended Glencore Executive Told Radiant ‘Say Nothing on Email’",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/suspended-glencore-executive-told-radiant-say-nothing-on-email",
-      "description": "A senior Glencore Plc executive last year urged counterparts at Radiant World not to communicate by email, according to WhatsApp messages from the company’s head of iron ore seen by Bloomberg News.",
-      "pubDate": "Thu, 17 Sep 2026 20:27:50 GMT",
-      "timestamp": 1789676870000
-    },
-    {
-      "title": "Small Town America Confronts Data Centers, Rejects Some Plans",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-17/small-town-america-confronts-data-centers-rejects-plans-video",
-      "description": "Bloomberg's Shruti Singh joins Scarlet Fu on \"Bloomberg Real Yield.\" Blackstone-owned QTS proposed a massive data center in Clinton, Iowa, that would bring thousands of construction jobs and provide n",
-      "pubDate": "Thu, 17 Sep 2026 20:27:14 GMT",
-      "timestamp": 1789676834000
-    },
-    {
-      "title": "Braskem Creditors Shun Debt Plan, Push Owners to Inject Cash",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/braskem-creditors-shun-debt-plan-push-owners-to-inject-cash",
-      "description": "Braskem SA’s bondholders are balking at a restructuring proposal presented by the petrochemical giant, increasing pressure on Petrobras to commit fresh capital into the business, according to people f",
-      "pubDate": "Thu, 17 Sep 2026 20:26:26 GMT",
-      "timestamp": 1789676786000
-    },
-    {
-      "title": "Big Take: Why The Federal Reserve Raised Interest Rates",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-17/big-take-why-the-federal-reserve-raised-interest-rates-video",
-      "description": "For the first time in three years, the Fed voted to raise interest rates.  On the latest Big Take podcast: the economic forces behind the move. (Source: Bloomberg)",
-      "pubDate": "Thu, 17 Sep 2026 20:25:22 GMT",
-      "timestamp": 1789676722000
-    },
-    {
-      "title": "Generac Surges 18% on $8 Billion Amazon Data Center Deal | Closing Bell",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-17/generac-surges-18-on-amazon-deal-closing-bell-video",
-      "description": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Lisa Mateo, and Alexis Christoforous. (Source: ",
-      "pubDate": "Thu, 17 Sep 2026 20:25:16 GMT",
-      "timestamp": 1789676716000
-    },
-    {
-      "title": "Gold Surges Along With US Treasuries as Oil Price Slide Deepens",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/gold-holds-decline-after-fed-tilts-hawkish-and-raises-rates",
-      "description": "Gold rallied alongside Treasuries as a slump in oil prices helped ease concerns about inflation, following the Federal Reserve’s first interest-rate hike since 2023.",
-      "pubDate": "Wed, 16 Sep 2026 23:54:12 GMT",
-      "timestamp": 1789602852000
-    },
-    {
-      "title": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
-      "description": "Stocks joined bonds higher as falling oil prices lent support to optimism that inflation can be kept under control a day after the Federal Reserve raised interest rates for the first time since 2023.",
-      "pubDate": "Wed, 16 Sep 2026 22:06:59 GMT",
-      "timestamp": 1789596419000
-    },
-    {
-      "title": "Oil Drops as Traders See Supply Outages Proving Short-Lived",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
-      "description": "Oil fell as physical markets cooled from recent peaks as traders bet some Middle East supply outages would be short-lived.",
-      "pubDate": "Wed, 16 Sep 2026 22:05:54 GMT",
-      "timestamp": 1789596354000
+      "title": "Tata Sons to List, Tata Trusts Calls Chair Chandrasekaran's Extension ‘Illegal’",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-17/tata-offers-chandra-extension-to-steady-group-amid-listing-push",
+      "description": "Tata Sons Pvt. said it would pursue a stock listing and give its chairman another five-year term despite strong — and public — opposition from the founding-family patriarch, setting up a showdown at o",
+      "pubDate": "Thu, 17 Sep 2026 09:16:31 GMT",
+      "timestamp": 1789636591000
     }
   ],
   "total": 20
