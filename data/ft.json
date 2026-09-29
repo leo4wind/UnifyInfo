@@ -3,15 +3,50 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-09-28T18:55:09.525Z"
+    "lastUpdate": "2026-09-29T00:02:19.742Z"
   },
   "items": [
     {
-      "title": "Bond sell-off deepens as oil prices rise",
+      "title": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety",
+      "link": "https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084?syn-25a6b1a6=1",
+      "description": "Rare intervention from head of Catholic Church comes as top executives are due to meet at White House on Tuesday",
+      "pubDate": "Mon, 28 Sep 2026 23:51:14 GMT",
+      "timestamp": 1790639474000
+    },
+    {
+      "title": "US Treasury threatens crackdown on Wall Street tax-avoidance strategies",
+      "link": "https://www.ft.com/content/7c6d87b1-d7d9-49c3-b842-2600928fba38?syn-25a6b1a6=1",
+      "description": "Department limits use of ETFs to avoid taxable gains and says it could target other ‘potentially abusive’ tactics",
+      "pubDate": "Mon, 28 Sep 2026 22:00:36 GMT",
+      "timestamp": 1790632836000
+    },
+    {
+      "title": "AMD to buy Fei-Fei Li’s AI start-up for $8bn",
+      "link": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
+      "description": "World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments",
+      "pubDate": "Mon, 28 Sep 2026 21:53:59 GMT",
+      "timestamp": 1790632439000
+    },
+    {
+      "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
       "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
       "description": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade",
-      "pubDate": "Mon, 28 Sep 2026 16:37:44 GMT",
-      "timestamp": 1790613464000
+      "pubDate": "Mon, 28 Sep 2026 21:38:05 GMT",
+      "timestamp": 1790631485000
+    },
+    {
+      "title": "Erdoğan bids to contain fallout from Turkey’s $18bn stock market scandal",
+      "link": "https://www.ft.com/content/c72a016b-ad45-4cde-8020-dc1da7ab0839?syn-25a6b1a6=1",
+      "description": "President says those ‘engaged in manipulative schemes’ will be held to account as deputy chair of governing party resigns",
+      "pubDate": "Mon, 28 Sep 2026 20:57:06 GMT",
+      "timestamp": 1790629026000
+    },
+    {
+      "title": "Netanyahu under pressure over reports he was warned about October 7",
+      "link": "https://www.ft.com/content/f261c9cd-7169-4d16-97fc-9859099ce0f8?syn-25a6b1a6=1",
+      "description": "Opposition attacks Israeli premier ahead of election over leaks suggesting Egyptian and Emirati officials alerted him to Hamas threat",
+      "pubDate": "Mon, 28 Sep 2026 20:37:45 GMT",
+      "timestamp": 1790627865000
     },
     {
       "title": "Erdoğan holds rare meeting with Germany’s potential next leader",
@@ -21,41 +56,6 @@
       "timestamp": 1790612049000
     },
     {
-      "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
-      "link": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
-      "description": "Chief executive Mark Zuckerberg opens a new front in his push to turn huge investment in the technology into profits",
-      "pubDate": "Mon, 28 Sep 2026 15:54:34 GMT",
-      "timestamp": 1790610874000
-    },
-    {
-      "title": "Russian drones hit Kyiv science academy and hospital",
-      "link": "https://www.ft.com/content/e423eb7f-ec97-43ed-9b75-cad8e81ac86b?syn-25a6b1a6=1",
-      "description": "One person killed and six injured in attack on capital, as Volodymyr Zelenskyy urges countries to do more to protect Ukraine",
-      "pubDate": "Mon, 28 Sep 2026 15:03:53 GMT",
-      "timestamp": 1790607833000
-    },
-    {
-      "title": "SpaceX’s Starship rocket reaches orbit for the first time despite engine failure",
-      "link": "https://www.ft.com/content/6729bceb-2480-42b4-9308-51ef7728c181?syn-25a6b1a6=1",
-      "description": "Successful launch marks a milestone for Musk, as system is pivotal to winning more Nasa contracts and to transport humans to space",
-      "pubDate": "Mon, 28 Sep 2026 14:46:38 GMT",
-      "timestamp": 1790606798000
-    },
-    {
-      "title": "Evonik rejects €10.3bn BASF bid to consolidate chemicals industry",
-      "link": "https://www.ft.com/content/f7f9d03c-cb01-45d3-8148-1c9f3fcc4501?syn-25a6b1a6=1",
-      "description": "Size of premium may increase pressure on management and biggest shareholder",
-      "pubDate": "Mon, 28 Sep 2026 13:32:10 GMT",
-      "timestamp": 1790602330000
-    },
-    {
-      "title": "Nvidia launches record $150bn share buyback",
-      "link": "https://www.ft.com/content/88e87863-4cf6-4c4e-8858-f0099db350d4?syn-25a6b1a6=1",
-      "description": "Chipmaker’s plan to repurchase stock comes as share price gains have slowed this year",
-      "pubDate": "Mon, 28 Sep 2026 11:23:16 GMT",
-      "timestamp": 1790594596000
-    },
-    {
       "title": "Why Europe’s centre will hold",
       "link": "https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1",
       "description": "The 1930s are not a good guide to the politics of the 21st century",
@@ -63,40 +63,12 @@
       "timestamp": 1790593291000
     },
     {
-      "title": "What is the AI capex breakeven rate?",
-      "link": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
-      "description": "Heroic ROIC",
-      "pubDate": "Mon, 28 Sep 2026 11:00:42 GMT",
-      "timestamp": 1790593242000
-    },
-    {
-      "title": "Seoul accuses Ukraine of violating secrecy pact on North Korean soldiers",
-      "link": "https://www.ft.com/content/8a45576f-ff89-449c-82e5-6c9976e91537?syn-25a6b1a6=1",
-      "description": "South Korea demands apology after Volodymyr Zelenskyy discloses prisoner transfer",
-      "pubDate": "Mon, 28 Sep 2026 08:18:27 GMT",
-      "timestamp": 1790583507000
-    },
-    {
-      "title": "For once, the Fed has put Main Street before Wall Street",
-      "link": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
-      "description": "Rather than criticising the central bank’s rate increase, Republicans should be praising Warsh for putting American families first",
-      "pubDate": "Mon, 28 Sep 2026 04:00:18 GMT",
-      "timestamp": 1790568018000
-    },
-    {
-      "title": "AI hyperscalers are transforming debt",
-      "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
-      "description": "The sector’s huge capital needs are forcing companies and countries to rethink how they borrow money",
+      "title": "The crisis at Big Law powerhouse Weil",
+      "link": "https://www.ft.com/content/ba19ec85-c736-4cfd-9a85-4e1ddf1938e5?syn-25a6b1a6=1",
+      "description": "One of America’s most prestigious firms is in turmoil as a series of departures prompts talk of a merger",
       "pubDate": "Mon, 28 Sep 2026 04:00:10 GMT",
       "timestamp": 1790568010000
-    },
-    {
-      "title": "World’s worst-performing market slashes minimum price for stocks",
-      "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
-      "description": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent",
-      "pubDate": "Mon, 28 Sep 2026 02:51:26 GMT",
-      "timestamp": 1790563886000
     }
   ],
-  "total": 13
+  "total": 9
 }
