@@ -3,22 +3,29 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-10-03T22:31:22.345Z"
+    "lastUpdate": "2026-10-04T03:19:26.738Z"
   },
   "items": [
+    {
+      "title": "China closes hundreds of banks to bolster financial system",
+      "link": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+      "description": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
+      "pubDate": "Sun, 04 Oct 2026 02:00:04 GMT",
+      "timestamp": 1791079204000
+    },
+    {
+      "title": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "link": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+      "description": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
+      "pubDate": "Sun, 04 Oct 2026 01:00:04 GMT",
+      "timestamp": 1791075604000
+    },
     {
       "title": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
       "link": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
       "description": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit",
       "pubDate": "Sat, 03 Oct 2026 17:21:11 GMT",
       "timestamp": 1791048071000
-    },
-    {
-      "title": "Temu’s UK sales more than double to $171mn",
-      "link": "https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa?syn-25a6b1a6=1",
-      "description": "Chinese ecommerce company has been exploiting tax loophole that exempts small parcels from customs duty",
-      "pubDate": "Sat, 03 Oct 2026 13:54:13 GMT",
-      "timestamp": 1791035653000
     },
     {
       "title": "The town where 94% voted for Lula — and some now waver",
@@ -63,5 +70,5 @@
       "timestamp": 1791000010000
     }
   ],
-  "total": 8
+  "total": 9
 }
