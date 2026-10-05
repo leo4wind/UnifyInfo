@@ -3,13 +3,125 @@
     "name": "Bloomberg",
     "description": "彭博社新闻",
     "url": "https://feeds.bloomberg.com/markets/news.rss",
-    "lastUpdate": "2026-10-04T22:35:54.538Z"
+    "lastUpdate": "2026-10-05T02:56:13.037Z"
   },
   "items": [
     {
-      "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap",
+      "title": "India Rate Hike Looms as RBI Grapples With Excess Liquidity",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-05/india-rate-hike-looms-as-rbi-grapples-with-excess-liquidity",
+      "description": "The RBI has been withdrawing surplus cash from the banking system as inflation pressures mount.",
+      "pubDate": "Mon, 05 Oct 2026 02:32:01 GMT",
+      "timestamp": 1791167521000
+    },
+    {
+      "title": "Copper Gains as US Jobs Data Offers Relief on Fed Tightening",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/copper-gains-as-us-jobs-data-offers-relief-on-fed-tightening",
+      "description": "Copper rose for a second session after a US employment report eased pressure on the Federal Reserve to raise interest rates.",
+      "pubDate": "Mon, 05 Oct 2026 02:28:38 GMT",
+      "timestamp": 1791167318000
+    },
+    {
+      "title": "De olho nas eleições",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-05/de-olho-nas-eleicoes-video",
+      "description": "Flávio sai à frente de Lula para o segundo turno das eleições. Com Patricia Xavier. Produção de Daniel Carvalho, Catarina Bacci, Fabiola Moura e Mariana Lumy. (Source: Bloomberg)",
+      "pubDate": "Mon, 05 Oct 2026 02:28:14 GMT",
+      "timestamp": 1791167294000
+    },
+    {
+      "title": "Emerging-Market Assets Climb as Fed Hike Bets Cool, Oil Drops",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/emerging-market-assets-climb-as-fed-hike-bets-cool-oil-drops",
+      "description": "Emerging-market stocks and currencies advanced after softer-than-expected US jobs data and a further decline in oil prices helped ease concern over aggressive interest-rate hikes by the Federal Reserv",
+      "pubDate": "Mon, 05 Oct 2026 02:23:26 GMT",
+      "timestamp": 1791167006000
+    },
+    {
+      "title": "Homin Lee: Equity Markets Can Manage Yield Rise",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-05/homin-lee-equity-markets-can-manage-yield-rise-video",
+      "description": "Homin Lee, senior macro strategist at Lombard Odier, says equity valuations can handle the ongoing rise in global yields. He argues higher yields reflect solid economic fundamentals rather than aggres",
+      "pubDate": "Mon, 05 Oct 2026 02:12:20 GMT",
+      "timestamp": 1791166340000
+    },
+    {
+      "title": "Firmus Said to Plan Allocating Half of IPO to Existing Investors",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/firmus-said-to-plan-allocating-half-of-ipo-to-existing-investors",
+      "description": "Firmus Grid Ltd. plans to allocate about half of the shares in its initial public offering to existing shareholders, putting Nvidia Corp and Blackstone Group in a position to increase their stakes, ac",
+      "pubDate": "Mon, 05 Oct 2026 02:08:10 GMT",
+      "timestamp": 1791166090000
+    },
+    {
+      "title": "Thai Bourse Plans Dual-Class Share Structure to Boost Listings",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/thai-bourse-plans-dual-class-share-structure-to-boost-listings",
+      "description": "Thailand plans to establish a dual-class share structure to entice more companies to list on the local exchange, a move designed to ease the concern of founders about diluting their control and end a ",
+      "pubDate": "Mon, 05 Oct 2026 02:00:42 GMT",
+      "timestamp": 1791165642000
+    },
+    {
+      "title": "India’s Margin Trading Boom Drives Stock Brokers to Debt Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/india-s-margin-trading-boom-drives-stock-brokers-to-debt-market",
+      "description": "Stock brokers are emerging as a major force in India’s short-term debt market, borrowing billions of dollars to finance investors’ growing appetite for leveraged equity bets.",
+      "pubDate": "Mon, 05 Oct 2026 01:30:00 GMT",
+      "timestamp": 1791163800000
+    },
+    {
+      "title": "Bolsonaro’s First-Round Lead Sets Brazil Assets for Monday Surge",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/bolsonaro-s-first-round-lead-sets-brazil-assets-for-monday-surge",
+      "description": "Brazilian assets are set to jump after Senator Flávio Bolsonaro came in ahead of President Luiz Inácio Lula da Silva in the first round of elections, a far better showing than investors were positione",
+      "pubDate": "Mon, 05 Oct 2026 01:28:01 GMT",
+      "timestamp": 1791163681000
+    },
+    {
+      "title": "Saudis Slash Oil Prices to Asia in Battle for Market Share",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/saudis-cut-flagship-oil-price-to-asia-to-lowest-in-six-years",
+      "description": "Saudi Aramco has cut prices for its benchmark oil grade to Asia to a six-year low as Persian Gulf producers race for market share with flows through the Strait of Hormuz increasing.",
+      "pubDate": "Mon, 05 Oct 2026 01:09:40 GMT",
+      "timestamp": 1791162580000
+    },
+    {
+      "title": "Saudi-Backed Yemen Forces Begin Operation to Retake Houthi Areas",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-05/yemen-forces-begin-operation-to-retake-houthi-areas-video",
+      "description": "Yemen’s internationally-recognized government launched a full-scale military bid to recapture all areas under the control of the Houthis following weeks of escalation between the Iran-backed group and",
+      "pubDate": "Mon, 05 Oct 2026 01:02:26 GMT",
+      "timestamp": 1791162146000
+    },
+    {
+      "title": "Indian Bond Yield Curve Seen Flatter as RBI Drains Surplus Cash",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/indian-bond-yield-curve-seen-flatter-as-rbi-drains-surplus-cash",
+      "description": "India’s bond curve is poised to flatten further as the Reserve Bank of India steps up liquidity withdrawals, prompting some investors to favor 10-year debt over five-year notes.",
+      "pubDate": "Mon, 05 Oct 2026 01:00:00 GMT",
+      "timestamp": 1791162000000
+    },
+    {
+      "title": "Nippon Paint to Buy Akzo’s Southeast Asia Unit for $1.35 Billion",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/nippon-paint-to-buy-akzo-s-southeast-asia-unit-for-1-35-billion",
+      "description": "Nippon Paint Holdings Co. is buying Akzo Nobel NV’s decorative paints operations in Southeast Asia for $1.35 billion, acquiring a regional slice of a business it had sought to buy in full.",
+      "pubDate": "Mon, 05 Oct 2026 00:48:07 GMT",
+      "timestamp": 1791161287000
+    },
+    {
+      "title": "Gold Edges Higher as Markets Weigh Jobs Data Impact on Fed Path",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/gold-edges-higher-as-markets-weigh-jobs-data-impact-on-fed-path",
+      "description": "Gold edged up after its biggest weekly drop since June, as traders weighed the impact of a slowdown in the US jobs market and higher bond yields on the Federal Reserve’s path for interest rates.",
+      "pubDate": "Mon, 05 Oct 2026 00:41:08 GMT",
+      "timestamp": 1791160868000
+    },
+    {
+      "title": "China Fund Closures Head for Eight-Year High as Demand Fades",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/china-fund-closures-head-for-eight-year-high-as-demand-fades",
+      "description": "China’s mutual funds are closing at the fastest pace in eight years as weak returns and investor redemptions leave hundreds of products too small to survive.",
+      "pubDate": "Mon, 05 Oct 2026 00:30:08 GMT",
+      "timestamp": 1791160208000
+    },
+    {
+      "title": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
+      "description": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to diversify triggered by the",
+      "pubDate": "Sun, 04 Oct 2026 23:51:23 GMT",
+      "timestamp": 1791157883000
+    },
+    {
+      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap",
       "link": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-      "description": "Asian stocks were poised to open higher after softer US jobs data eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Houthi-con",
+      "description": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.",
       "pubDate": "Sun, 04 Oct 2026 22:17:26 GMT",
       "timestamp": 1791152246000
     },
@@ -33,118 +145,6 @@
       "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
       "pubDate": "Sun, 04 Oct 2026 16:33:22 GMT",
       "timestamp": 1791131602000
-    },
-    {
-      "title": "By The Way: Headlines You May Have Missed",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/by-the-way-headlines-you-may-have-missed-video",
-      "description": "Retailers reconsidering self-checkout, a global market for elite British sheepdogs, the proliferation of protein-enhanced foods and fit women want to show off their biceps. Join Lisa Mateo, David Gura",
-      "pubDate": "Sun, 04 Oct 2026 15:11:48 GMT",
-      "timestamp": 1791126708000
-    },
-    {
-      "title": "Taiwan Says US Policy Remains Unchanged",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/taiwan-says-us-policy-remains-unchanged-video",
-      "description": "Taiwan’s Representative to the US, Alexander Yui, tells Bloomberg This Weekend that Washington has reassured Taipei its Taiwan policy remains unchanged following President Donald Trump’s meeting with ",
-      "pubDate": "Sun, 04 Oct 2026 14:45:57 GMT",
-      "timestamp": 1791125157000
-    },
-    {
-      "title": "Inside the Enrollment Cliff Hitting US Colleges",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/inside-the-enrollment-cliff-hitting-us-colleges-video",
-      "description": "America’s college-age population is shrinking, putting pressure on universities with high fixed costs and fewer students to fill their campuses. Schools like Bowling Green State are responding by addi",
-      "pubDate": "Sun, 04 Oct 2026 14:04:35 GMT",
-      "timestamp": 1791122675000
-    },
-    {
-      "title": "Wall Street Strategists Steer Investors to Cross-Asset Hedges",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-strategists-steer-investors-to-cross-asset-hedges",
-      "description": "With equities, gold and oil struggling to make new highs while Treasury yields surge, Wall Street strategists are focusing on trades that pit one asset class against another.",
-      "pubDate": "Sun, 04 Oct 2026 14:00:00 GMT",
-      "timestamp": 1791122400000
-    },
-    {
-      "title": "Jobs Slow but Inflation Keeps Fed on Alert",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
-      "description": "Bloomberg Intelligence Chief US Interest Rate Strategist Ira Jersey tells Bloomberg This Weekend that softer September jobs data give the Federal Reserve room to hold rates steady in October, but pers",
-      "pubDate": "Sun, 04 Oct 2026 13:04:07 GMT",
-      "timestamp": 1791119047000
-    },
-    {
-      "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
-      "description": "Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology",
-      "pubDate": "Sun, 04 Oct 2026 13:00:00 GMT",
-      "timestamp": 1791118800000
-    },
-    {
-      "title": "White House Moves to Assess Growing AI Risks",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video",
-      "description": "Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to",
-      "pubDate": "Sun, 04 Oct 2026 12:40:30 GMT",
-      "timestamp": 1791117630000
-    },
-    {
-      "title": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/markets-brace-for-sharp-swings-no-matter-result-of-brazil-vote",
-      "description": "Investors are expecting sharp swings in Brazilian markets in the aftermath of Sunday’s elections no matter the outcome, with assets to adjust quickly as the neck-and-neck presidential race prevented t",
-      "pubDate": "Sun, 04 Oct 2026 12:30:00 GMT",
-      "timestamp": 1791117000000
-    },
-    {
-      "title": "EM Investors Shrug Off Quarter’s Pullback, Double Down on Carry Trades",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/em-investors-shrug-off-quarter-s-pullback-double-down-on-carry-trades",
-      "description": "Investors are sticking with emerging-market carry trades, even after a rare quarterly loss, betting the strategy will be able to weather Treasury yields at multi-decade highs",
-      "pubDate": "Sun, 04 Oct 2026 12:30:00 GMT",
-      "timestamp": 1791117000000
-    },
-    {
-      "title": "G7 Fuel Release Offers Temporary Price Relief",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/g7-fuel-release-offers-temporary-price-relief-video",
-      "description": "Bloomberg Mideast Energy Correspondent Anthony Di Paola tells Bloomberg This Weekend that the G7’s 100 million-barrel emergency release is already pushing fuel prices lower but is likely to provide on",
-      "pubDate": "Sun, 04 Oct 2026 12:07:56 GMT",
-      "timestamp": 1791115676000
-    },
-    {
-      "title": "Can America Break China’s Grip on Rare Earths?",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/can-america-break-china-s-grip-on-rare-earths-video",
-      "description": "China spent decades building a dominant position across rare-earth mining, processing and magnet manufacturing, leaving the US dependent on a foreign supply chain for materials essential to everything",
-      "pubDate": "Sun, 04 Oct 2026 12:03:47 GMT",
-      "timestamp": 1791115427000
-    },
-    {
-      "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
-      "description": "Traders are on the alert for signs of contagion in Europe’s government bond market after a selloff triggered memories of the region’s debt crisis 15 years ago.",
-      "pubDate": "Sun, 04 Oct 2026 11:15:00 GMT",
-      "timestamp": 1791112500000
-    },
-    {
-      "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
-      "description": "Iraq’s state tanker company arranged a very large crude carrier to transport 2 million barrels beyond the Strait of Hormuz, marking a move toward offering oil outside the Persian Gulf.",
-      "pubDate": "Sun, 04 Oct 2026 10:09:23 GMT",
-      "timestamp": 1791108563000
-    },
-    {
-      "title": "OPEC+ Agrees to Keep Oil Output Targets Steady in November",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say",
-      "description": "Major OPEC+ nations agreed to keep oil production quotas unchanged next month, as conflict in the Middle East continues to shutter swaths of the group’s output.",
-      "pubDate": "Sun, 04 Oct 2026 07:49:48 GMT",
-      "timestamp": 1791100188000
-    },
-    {
-      "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
-      "description": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated from the city, a majo",
-      "pubDate": "Sun, 04 Oct 2026 07:47:44 GMT",
-      "timestamp": 1791100064000
-    },
-    {
-      "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
-      "description": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
-      "pubDate": "Sun, 04 Oct 2026 00:00:00 GMT",
-      "timestamp": 1791072000000
     }
   ],
   "total": 20
