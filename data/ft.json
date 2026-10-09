@@ -3,29 +3,78 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-10-09T00:01:53.645Z"
+    "lastUpdate": "2026-10-09T10:59:57.655Z"
   },
   "items": [
     {
-      "title": "US to publicly execute former soldier by firing squad",
+      "title": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay",
+      "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
+      "description": "Prize given to South African human rights lawyer for her efforts to promote peace and international law",
+      "pubDate": "Fri, 09 Oct 2026 10:09:50 GMT",
+      "timestamp": 1791540590000
+    },
+    {
+      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+      "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+      "description": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+      "pubDate": "Fri, 09 Oct 2026 04:30:01 GMT",
+      "timestamp": 1791520201000
+    },
+    {
+      "title": "Nobel laureate Machado says Venezuela is ‘ready’ for new elections",
+      "link": "https://www.ft.com/content/0d411bea-ee6a-4300-9b1e-cc5a6bba4b7c?syn-25a6b1a6=1",
+      "description": "Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration",
+      "pubDate": "Fri, 09 Oct 2026 04:23:44 GMT",
+      "timestamp": 1791519824000
+    },
+    {
+      "title": "Some much-needed American optimism on Europe",
+      "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
+      "description": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there",
+      "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
+      "timestamp": 1791518432000
+    },
+    {
+      "title": "Five ways to tell if market trouble lies ahead",
+      "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
+      "description": "The cost of credit default swaps for AI companies looking to borrow is rising",
+      "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
+      "timestamp": 1791518432000
+    },
+    {
+      "title": "Famous Italian winery loses 30,000 bottles worth €5mn in heist",
+      "link": "https://www.ft.com/content/1b614d60-a5d3-4b9f-b3e8-63f51bdfd599?syn-25a6b1a6=1",
+      "description": "Antinori says it hopes to ‘protect the market’ by alerting potential buyers",
+      "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
+      "timestamp": 1791518432000
+    },
+    {
+      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+      "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+      "description": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
+      "pubDate": "Fri, 09 Oct 2026 04:00:31 GMT",
+      "timestamp": 1791518431000
+    },
+    {
+      "title": "Why bank stocks are falling despite surging interest rates",
+      "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1",
+      "description": "If funding costs rise, the expanding profit margins banks have enjoyed may start to reverse",
+      "pubDate": "Fri, 09 Oct 2026 04:00:31 GMT",
+      "timestamp": 1791518431000
+    },
+    {
+      "title": "Manchester City: too big to fail?",
+      "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
+      "description": "The sport is still shaped by the club’s acquisition in 2008",
+      "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
+      "timestamp": 1791518422000
+    },
+    {
+      "title": "Pentagon to livestream execution of former soldier by firing squad",
       "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
       "description": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
       "pubDate": "Thu, 08 Oct 2026 22:28:10 GMT",
       "timestamp": 1791498490000
-    },
-    {
-      "title": "Amex fined $350mn for failing to flag suspected money laundering",
-      "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-      "description": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-      "pubDate": "Thu, 08 Oct 2026 22:03:23 GMT",
-      "timestamp": 1791497003000
-    },
-    {
-      "title": "US justice department orders playbook refresh for frauds on government",
-      "link": "https://www.ft.com/content/dbcc35ba-db23-4be3-b2c0-4a0d8ecb7375?syn-25a6b1a6=1",
-      "description": "Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences",
-      "pubDate": "Thu, 08 Oct 2026 20:35:55 GMT",
-      "timestamp": 1791491755000
     },
     {
       "title": "OpenAI annualised revenues $20bn less than previously signalled",
@@ -40,49 +89,7 @@
       "description": "President says Washington and Tehran are having ‘productive discussions’",
       "pubDate": "Thu, 08 Oct 2026 20:08:27 GMT",
       "timestamp": 1791490107000
-    },
-    {
-      "title": "Microsoft banned from sponsoring foreign workers for US residency",
-      "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-      "description": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
-      "pubDate": "Thu, 08 Oct 2026 19:45:47 GMT",
-      "timestamp": 1791488747000
-    },
-    {
-      "title": "Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska",
-      "link": "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1",
-      "description": "Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity",
-      "pubDate": "Thu, 08 Oct 2026 15:17:53 GMT",
-      "timestamp": 1791472673000
-    },
-    {
-      "title": "Repeated US Treasury interventions risk an erosion of credibility",
-      "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
-      "description": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
-      "pubDate": "Thu, 08 Oct 2026 14:30:04 GMT",
-      "timestamp": 1791469804000
-    },
-    {
-      "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
-      "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
-      "description": "Banks’ trading businesses are booming, but post-crisis regulation means it is no longer them placing the bets",
-      "pubDate": "Thu, 08 Oct 2026 04:00:09 GMT",
-      "timestamp": 1791432009000
-    },
-    {
-      "title": "Is Trump losing the rust belt?",
-      "link": "https://www.ft.com/content/e86d2bf9-100f-4722-b845-c3b46d94866b?syn-25a6b1a6=1",
-      "description": "Donald Trump’s Republicans try to hold their gains in America’s industrial heartland",
-      "pubDate": "Thu, 08 Oct 2026 04:00:07 GMT",
-      "timestamp": 1791432007000
-    },
-    {
-      "title": "China races to build data centres in bid for AI supremacy",
-      "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
-      "description": "Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia",
-      "pubDate": "Thu, 08 Oct 2026 00:15:04 GMT",
-      "timestamp": 1791418504000
     }
   ],
-  "total": 11
+  "total": 12
 }
