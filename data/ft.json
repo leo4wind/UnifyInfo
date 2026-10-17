@@ -3,22 +3,36 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-10-16T22:18:31.347Z"
+    "lastUpdate": "2026-10-17T02:02:31.260Z"
   },
   "items": [
+    {
+      "title": "Trump’s press secretary Katie Zacharia fired after five days",
+      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+      "description": "Exit comes amid deepening turmoil for White House as midterm elections loom",
+      "pubDate": "Sat, 17 Oct 2026 01:29:51 GMT",
+      "timestamp": 1792200591000
+    },
+    {
+      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+      "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+      "description": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
+      "pubDate": "Sat, 17 Oct 2026 00:47:25 GMT",
+      "timestamp": 1792198045000
+    },
+    {
+      "title": "Oil hits five-month high of $110 on new escalation in Middle East",
+      "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+      "description": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
+      "pubDate": "Fri, 16 Oct 2026 22:57:43 GMT",
+      "timestamp": 1792191463000
+    },
     {
       "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
       "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
       "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
       "pubDate": "Fri, 16 Oct 2026 21:03:42 GMT",
       "timestamp": 1792184622000
-    },
-    {
-      "title": "Brent hits 5-month high above $110 on continued tension in Middle East",
-      "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-      "description": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
-      "pubDate": "Fri, 16 Oct 2026 20:55:28 GMT",
-      "timestamp": 1792184128000
     },
     {
       "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
@@ -28,16 +42,9 @@
       "timestamp": 1792183336000
     },
     {
-      "title": "Trump’s press secretary Katie Zacharia fired after five days",
-      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-      "description": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-      "pubDate": "Fri, 16 Oct 2026 20:14:17 GMT",
-      "timestamp": 1792181657000
-    },
-    {
       "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
       "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
-      "description": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "description": "Washington Post journalist among those injured during violence in occupied territory",
       "pubDate": "Fri, 16 Oct 2026 19:42:41 GMT",
       "timestamp": 1792179761000
     },
@@ -49,11 +56,11 @@
       "timestamp": 1792168285000
     },
     {
-      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-      "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
-      "description": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
-      "pubDate": "Fri, 16 Oct 2026 14:58:54 GMT",
-      "timestamp": 1792162734000
+      "title": "India police detain ‘Cockroach’ leader again to head off new protests",
+      "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
+      "description": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
+      "pubDate": "Fri, 16 Oct 2026 14:39:19 GMT",
+      "timestamp": 1792161559000
     },
     {
       "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
@@ -63,11 +70,11 @@
       "timestamp": 1792144809000
     },
     {
-      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-      "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-      "description": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
-      "pubDate": "Fri, 16 Oct 2026 07:36:24 GMT",
-      "timestamp": 1792136184000
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+      "description": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+      "pubDate": "Fri, 16 Oct 2026 04:00:18 GMT",
+      "timestamp": 1792123218000
     },
     {
       "title": "US business leaders are waking up to the perils of plutopopulism",
@@ -84,5 +91,5 @@
       "timestamp": 1792123217000
     }
   ],
-  "total": 11
+  "total": 12
 }
