@@ -3,15 +3,29 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-10-20T22:47:31.001Z"
+    "lastUpdate": "2026-10-21T02:26:47.368Z"
   },
   "items": [
     {
-      "title": "SpaceX and Tesla boards are exploring potential merger",
+      "title": "Australian data centre group falls 44% on profit warning",
+      "link": "https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1",
+      "description": "NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO",
+      "pubDate": "Wed, 21 Oct 2026 02:00:40 GMT",
+      "timestamp": 1792548040000
+    },
+    {
+      "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+      "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
+      "description": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
+      "pubDate": "Wed, 21 Oct 2026 01:56:00 GMT",
+      "timestamp": 1792547760000
+    },
+    {
+      "title": "SpaceX and Tesla boards explore potential merger",
       "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
       "description": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity",
-      "pubDate": "Tue, 20 Oct 2026 21:56:34 GMT",
-      "timestamp": 1792533394000
+      "pubDate": "Wed, 21 Oct 2026 01:49:39 GMT",
+      "timestamp": 1792547379000
     },
     {
       "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
@@ -19,20 +33,6 @@
       "description": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy",
       "pubDate": "Tue, 20 Oct 2026 21:30:25 GMT",
       "timestamp": 1792531825000
-    },
-    {
-      "title": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
-      "link": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
-      "description": "Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft",
-      "pubDate": "Tue, 20 Oct 2026 20:43:44 GMT",
-      "timestamp": 1792529024000
-    },
-    {
-      "title": "Netflix gives downbeat outlook as streaming hits dry up",
-      "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
-      "description": "Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint",
-      "pubDate": "Tue, 20 Oct 2026 20:32:24 GMT",
-      "timestamp": 1792528344000
     },
     {
       "title": "UAE official emerges as late contender to lead UN",
@@ -56,13 +56,6 @@
       "timestamp": 1792491979000
     },
     {
-      "title": "AI debt worries spark surge in default insurance trading",
-      "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-      "description": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
-      "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-      "timestamp": 1792468819000
-    },
-    {
       "title": "The unlikely winners from Trump’s Iran war",
       "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
       "description": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
@@ -70,5 +63,5 @@
       "timestamp": 1792468819000
     }
   ],
-  "total": 9
+  "total": 8
 }
