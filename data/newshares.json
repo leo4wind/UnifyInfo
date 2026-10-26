@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-10-25T22:09:20.172Z"
+    "lastUpdate": "2026-10-26T09:28:08.340Z"
   },
   "data": [
     {
@@ -22,7 +22,7 @@
       "zqjkrq": "2026-11-02",
       "ssrq": null,
       "syl": null,
-      "hysyl": 39.22,
+      "hysyl": 39.03,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
@@ -51,30 +51,7 @@
       "zf": null,
       "yqhl": null,
       "zyyw": "桥梁受力产品的研发、设计、制造、安装及技术服务"
-    },
-    {
-      "zqdm": "001381",
-      "zqjc": "皇冠新材",
-      "sgdm": "001381",
-      "fxsl": 56304768,
-      "swfxsl": 31705500,
-      "sgsx": 13500,
-      "dgsz": 135000,
-      "sgrq": "2026-10-19",
-      "fxjg": 16.98,
-      "zxj": 0,
-      "srspj": null,
-      "zqgbrq": "2026-10-21",
-      "zqjkrq": "2026-10-21",
-      "ssrq": null,
-      "syl": 25.87,
-      "hysyl": 27.65,
-      "wszql": 0.0225083816,
-      "yzbsl": 0,
-      "zf": null,
-      "yqhl": null,
-      "zyyw": "以功能性新材料为核心,研发、生产及销售工业级胶粘材料、电子级胶粘材料及功能性薄膜材料等功能性复合材料"
     }
   ],
-  "total": 3
+  "total": 2
 }
