@@ -3,7 +3,7 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-10-27T02:50:01.037Z"
+    "lastUpdate": "2026-10-27T09:25:40.972Z"
   },
   "data": [
     {
@@ -22,13 +22,36 @@
       "zqjkrq": "2026-11-02",
       "ssrq": null,
       "syl": null,
-      "hysyl": 39.03,
+      "hysyl": 38.85,
       "wszql": null,
       "yzbsl": 0,
       "zf": null,
       "yqhl": null,
       "zyyw": "全直驱数控机床及数控系统类产品的研发、生产及销售业务"
+    },
+    {
+      "zqdm": "920085",
+      "zqjc": "森峰激光",
+      "sgdm": "920085",
+      "fxsl": 19000000,
+      "swfxsl": 13300000,
+      "sgsx": 807500,
+      "dgsz": 8075000,
+      "sgrq": "2026-10-28",
+      "fxjg": 17.79,
+      "zxj": 0,
+      "srspj": null,
+      "zqgbrq": "2026-11-02",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 14.99,
+      "hysyl": 39.03,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "激光加工设备及智能制造生产线的研发、生产、销售及服务"
     }
   ],
-  "total": 1
+  "total": 2
 }
