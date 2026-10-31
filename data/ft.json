@@ -3,11 +3,39 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-10-31T10:01:04.149Z"
+    "lastUpdate": "2026-10-31T16:29:05.536Z"
   },
   "items": [
     {
-      "title": "Rating agency Fitch hits France with surprise outlook downgrade",
+      "title": "Evacuees from Russian-occupied city arrive in Ukraine",
+      "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
+      "description": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
+      "pubDate": "Sat, 31 Oct 2026 15:17:34 GMT",
+      "timestamp": 1793459854000
+    },
+    {
+      "title": "Investors trim growth bets over fears of US economy’s AI exposure",
+      "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+      "description": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+      "pubDate": "Sat, 31 Oct 2026 14:00:02 GMT",
+      "timestamp": 1793455202000
+    },
+    {
+      "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+      "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
+      "description": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
+      "pubDate": "Sat, 31 Oct 2026 13:38:29 GMT",
+      "timestamp": 1793453909000
+    },
+    {
+      "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+      "link": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+      "description": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
+      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
+      "timestamp": 1793448001000
+    },
+    {
+      "title": "Rating agency Fitch hits France with unscheduled outlook downgrade",
       "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
       "description": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
       "pubDate": "Sat, 31 Oct 2026 09:36:34 GMT",
@@ -42,6 +70,13 @@
       "timestamp": 1793422839000
     },
     {
+      "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "description": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+      "pubDate": "Sat, 31 Oct 2026 05:00:31 GMT",
+      "timestamp": 1793422831000
+    },
+    {
       "title": "Donald Trump’s endgame",
       "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
       "description": "What will the US president’s last two years in Washington look like?",
@@ -56,33 +91,12 @@
       "timestamp": 1793405108000
     },
     {
-      "title": "Poland suspends top judges as battle over rule of law escalates",
-      "link": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
-      "description": "President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court",
-      "pubDate": "Fri, 30 Oct 2026 23:32:09 GMT",
-      "timestamp": 1793403129000
-    },
-    {
-      "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-      "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-      "description": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-      "pubDate": "Fri, 30 Oct 2026 22:17:15 GMT",
-      "timestamp": 1793398635000
-    },
-    {
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
       "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
       "description": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
       "pubDate": "Fri, 30 Oct 2026 18:19:08 GMT",
       "timestamp": 1793384348000
-    },
-    {
-      "title": "Russia observes rare Ukraine ceasefire to allow evacuations",
-      "link": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
-      "description": "Hundreds of residents from Russian-occupied Oleshky to be repatriated to Ukraine via Russia and Belarus",
-      "pubDate": "Fri, 30 Oct 2026 16:13:29 GMT",
-      "timestamp": 1793376809000
     }
   ],
-  "total": 11
+  "total": 13
 }
