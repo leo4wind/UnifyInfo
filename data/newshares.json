@@ -3,9 +3,32 @@
     "name": "新股信息",
     "description": "新股申购日历信息",
     "url": "https://api.biyingapi.com/hslt/new/biyinglicence",
-    "lastUpdate": "2026-11-03T04:30:06.119Z"
+    "lastUpdate": "2026-11-03T15:35:20.600Z"
   },
   "data": [
+    {
+      "zqdm": "920309",
+      "zqjc": "菊乐股份",
+      "sgdm": "920309",
+      "fxsl": 11757739.999999998,
+      "swfxsl": 8230418,
+      "sgsx": 499700,
+      "dgsz": 4997000,
+      "sgrq": "2026-11-04",
+      "fxjg": 31.92,
+      "zxj": 0,
+      "srspj": null,
+      "zqgbrq": "2026-11-09",
+      "zqjkrq": null,
+      "ssrq": null,
+      "syl": 11.99,
+      "hysyl": 19.4,
+      "wszql": null,
+      "yzbsl": null,
+      "zf": null,
+      "yqhl": null,
+      "zyyw": "含乳饮料及乳制品的研发、生产和销售"
+    },
     {
       "zqdm": "688827",
       "zqjc": "钶锐锶",
@@ -53,5 +76,5 @@
       "zyyw": "激光加工设备及智能制造生产线的研发、生产、销售及服务"
     }
   ],
-  "total": 2
+  "total": 3
 }
