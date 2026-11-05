@@ -3,15 +3,106 @@
     "name": "CNBC",
     "description": "CNBC 财经新闻",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    "lastUpdate": "2026-11-05T00:36:14.223Z"
+    "lastUpdate": "2026-11-05T11:42:08.719Z"
   },
   "items": [
     {
-      "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
+      "title": "World&apos;s largest olive oil company plummets 19% after rivals agree to takeover deal",
+      "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+      "description": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+      "pubDate": "Thu, 05 Nov 2026 11:15:05 GMT",
+      "timestamp": 1793877305000
+    },
+    {
+      "title": "How the midterms could fuel the K-shaped AI trade",
+      "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+      "description": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.",
+      "pubDate": "Thu, 05 Nov 2026 11:01:39 GMT",
+      "timestamp": 1793876499000
+    },
+    {
+      "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+      "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+      "description": "Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.",
+      "pubDate": "Thu, 05 Nov 2026 11:00:01 GMT",
+      "timestamp": 1793876401000
+    },
+    {
+      "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+      "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+      "description": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
+      "pubDate": "Thu, 05 Nov 2026 10:00:01 GMT",
+      "timestamp": 1793872801000
+    },
+    {
+      "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+      "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+      "description": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
+      "pubDate": "Thu, 05 Nov 2026 09:06:40 GMT",
+      "timestamp": 1793869600000
+    },
+    {
+      "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+      "link": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+      "description": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026.",
+      "pubDate": "Thu, 05 Nov 2026 08:07:43 GMT",
+      "timestamp": 1793866063000
+    },
+    {
+      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+      "link": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+      "description": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+      "pubDate": "Thu, 05 Nov 2026 07:30:58 GMT",
+      "timestamp": 1793863858000
+    },
+    {
+      "title": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
+      "link": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+      "description": "NextDC shares surged nearly 51% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake.",
+      "pubDate": "Thu, 05 Nov 2026 07:15:43 GMT",
+      "timestamp": 1793862943000
+    },
+    {
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "description": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "pubDate": "Thu, 05 Nov 2026 06:54:52 GMT",
+      "timestamp": 1793861692000
+    },
+    {
+      "title": "Russia, China may be more aggressive if they feel Trump is on &apos;his way out&apos;: Brookings",
+      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+      "description": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+      "pubDate": "Thu, 05 Nov 2026 05:58:33 GMT",
+      "timestamp": 1793858313000
+    },
+    {
+      "title": "The economy brought Trump back to power. Now it&apos;s his downfall",
+      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "description": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+      "pubDate": "Thu, 05 Nov 2026 04:13:28 GMT",
+      "timestamp": 1793852008000
+    },
+    {
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "description": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+      "pubDate": "Thu, 05 Nov 2026 03:53:18 GMT",
+      "timestamp": 1793850798000
+    },
+    {
+      "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+      "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+      "description": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
+      "pubDate": "Thu, 05 Nov 2026 03:11:58 GMT",
+      "timestamp": 1793848318000
+    },
+    {
+      "title": "White House panel delays hearing on Fed&apos;s Lisa Cook to Dec. 14",
       "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
       "description": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-      "pubDate": "Thu, 05 Nov 2026 00:28:21 GMT",
-      "timestamp": 1793838501000
+      "pubDate": "Thu, 05 Nov 2026 01:11:26 GMT",
+      "timestamp": 1793841086000
     },
     {
       "title": "Snap shares fall over 10% on third-quarter revenue miss",
@@ -54,97 +145,6 @@
       "description": "Cramer warned that Wall Street may be getting ahead of itself following the midterm elections.",
       "pubDate": "Wed, 04 Nov 2026 23:18:56 GMT",
       "timestamp": 1793834336000
-    },
-    {
-      "title": "What Wall Street billionaires are saying about Democrats&apos; midterm sweep",
-      "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-      "description": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-      "pubDate": "Wed, 04 Nov 2026 23:17:56 GMT",
-      "timestamp": 1793834276000
-    },
-    {
-      "title": "Democrats take Congress in a blue wave. Here&apos;s what it means for your money",
-      "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-      "description": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from healthcare and taxes to student loans and Social Security.",
-      "pubDate": "Wed, 04 Nov 2026 23:11:48 GMT",
-      "timestamp": 1793833908000
-    },
-    {
-      "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-      "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-      "description": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
-      "pubDate": "Wed, 04 Nov 2026 23:02:39 GMT",
-      "timestamp": 1793833359000
-    },
-    {
-      "title": "What was really behind Wednesday&apos;s monster rally? Trump quickly making peace",
-      "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-      "description": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
-      "pubDate": "Wed, 04 Nov 2026 22:55:22 GMT",
-      "timestamp": 1793832922000
-    },
-    {
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "description": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-      "pubDate": "Wed, 04 Nov 2026 22:46:43 GMT",
-      "timestamp": 1793832403000
-    },
-    {
-      "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "description": "Voters in the states at the heart of the AI data center boom pushed back on the buildout on Election Night.",
-      "pubDate": "Wed, 04 Nov 2026 22:29:51 GMT",
-      "timestamp": 1793831391000
-    },
-    {
-      "title": "A massive trade just happened in a leading mortgage lender",
-      "link": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
-      "description": "Options traders make a series of trades post election",
-      "pubDate": "Wed, 04 Nov 2026 22:24:21 GMT",
-      "timestamp": 1793831061000
-    },
-    {
-      "title": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
-      "link": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
-      "description": "The question now for patient Home Depot investors like us is whether this is the turning point we've been waiting for, or just another head fake.",
-      "pubDate": "Wed, 04 Nov 2026 22:13:45 GMT",
-      "timestamp": 1793830425000
-    },
-    {
-      "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
-      "link": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
-      "description": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
-      "pubDate": "Wed, 04 Nov 2026 21:57:39 GMT",
-      "timestamp": 1793829459000
-    },
-    {
-      "title": "What Republicans&apos; huge loss means for Trump",
-      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-      "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-      "pubDate": "Wed, 04 Nov 2026 21:50:05 GMT",
-      "timestamp": 1793829005000
-    },
-    {
-      "title": "Every stock that moved because of the election",
-      "link": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
-      "description": "Some companies took at hit after the election, while others rallied. Here are the biggest names making moves on Wednesday.",
-      "pubDate": "Wed, 04 Nov 2026 21:48:51 GMT",
-      "timestamp": 1793828931000
-    },
-    {
-      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-      "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-      "description": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
-      "pubDate": "Wed, 04 Nov 2026 21:47:22 GMT",
-      "timestamp": 1793828842000
-    },
-    {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "description": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-      "pubDate": "Wed, 04 Nov 2026 21:04:13 GMT",
-      "timestamp": 1793826253000
     }
   ],
   "total": 20
