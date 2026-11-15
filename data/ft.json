@@ -3,29 +3,29 @@
     "name": "Financial Times",
     "description": "金融时报新闻",
     "url": "https://www.ft.com/rss/home",
-    "lastUpdate": "2026-11-14T23:28:59.224Z"
+    "lastUpdate": "2026-11-15T03:43:28.785Z"
   },
   "items": [
+    {
+      "title": "The world according to China",
+      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "description": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+      "pubDate": "Sun, 15 Nov 2026 03:00:02 GMT",
+      "timestamp": 1794711602000
+    },
+    {
+      "title": "Passengers face widespread disruption after US air traffic control outage",
+      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+      "description": "Thousands of flights delayed or cancelled as political blame game mounts",
+      "pubDate": "Sat, 14 Nov 2026 23:32:08 GMT",
+      "timestamp": 1794699128000
+    },
     {
       "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
       "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
       "description": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
       "pubDate": "Sat, 14 Nov 2026 22:57:26 GMT",
       "timestamp": 1794697046000
-    },
-    {
-      "title": "SpaceX catches returning Starship rocket in breakthrough for Musk",
-      "link": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-      "description": "Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars",
-      "pubDate": "Sat, 14 Nov 2026 22:33:56 GMT",
-      "timestamp": 1794695636000
-    },
-    {
-      "title": "Passengers face widespread disruption after US air traffic control outage",
-      "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-      "description": "Thousands of flights delayed or cancelled as political blame game mounts",
-      "pubDate": "Sat, 14 Nov 2026 21:02:31 GMT",
-      "timestamp": 1794690151000
     },
     {
       "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
@@ -49,13 +49,6 @@
       "timestamp": 1794654009000
     },
     {
-      "title": "Record polar vortex breakdown raises cold weather risk",
-      "link": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
-      "description": "The early collapse of wind system that traps Arctic air is latest extreme atmospheric event",
-      "pubDate": "Sat, 14 Nov 2026 05:00:38 GMT",
-      "timestamp": 1794632438000
-    },
-    {
       "title": "The Nvidia board’s artificial independence",
       "link": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
       "description": "Bored of governance",
@@ -70,5 +63,5 @@
       "timestamp": 1794632427000
     }
   ],
-  "total": 9
+  "total": 8
 }
